@@ -487,10 +487,45 @@
     if (intro) { intro.classList.add('fade-out'); setTimeout(() => intro.classList.add('hidden'), 500); }
   }, 2800);
 
+  // Known artist names extracted from news data — rebuilt on each load
+  let knownArtists = new Set();
+  function buildArtistList() {
+    knownArtists.clear();
+    for (const item of NEWS) {
+      // Extract from dataBoxes labels
+      if (item.dataBoxes) {
+        for (const d of item.dataBoxes) {
+          const label = (d.label || '').replace(/^#\d+\s*/, '').trim();
+          if (label) knownArtists.add(label);
+        }
+      }
+      // Extract from "by Author" patterns in summary/headline
+      const byMatch = (item.summary || '').matchAll(/\bby\s+([A-Za-z0-9_]+)/g);
+      for (const m of byMatch) knownArtists.add(m[1]);
+      const byMatch2 = (item.headline || '').matchAll(/\bby\s+([A-Za-z0-9_]+)/g);
+      for (const m of byMatch2) knownArtists.add(m[1]);
+      // Extract "Author Leads" from headline
+      const leadsMatch = (item.headline || '').match(/^([A-Za-z0-9_]+)\s+Leads/);
+      if (leadsMatch) knownArtists.add(leadsMatch[1]);
+      // Extract "Featured: Author" from summary
+      const featMatch = (item.summary || '').match(/Featured:\s*(?:"[^"]*"\s*by\s+)?([A-Za-z0-9_]+)/);
+      if (featMatch) knownArtists.add(featMatch[1]);
+    }
+  }
+
   function highlightUsernames(text) {
     if (!text) return '';
+    // @mentions
     text = text.replace(/@\[?([A-Za-z0-9_]+)\]?/g, '<span class="username">$1</span>');
-    text = text.replace(/\bby\s+([A-Z][A-Za-z0-9_]+)/g, 'by <span class="username">$1</span>');
+    // "by Name" pattern
+    text = text.replace(/\bby\s+([A-Za-z0-9_]+)/g, 'by <span class="username">$1</span>');
+    // Highlight all known artist names (word boundary)
+    for (const name of knownArtists) {
+      if (name.length < 3) continue; // skip very short names
+      // Only replace if not already inside a tag
+      const re = new RegExp(`(?<![">])\\b(${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})\\b(?![^<]*>)`, 'g');
+      text = text.replace(re, '<span class="username">$1</span>');
+    }
     return text;
   }
 
@@ -607,6 +642,7 @@
       const data = await res.json();
       if (data.news && data.news.length > 0) {
         NEWS = data.news;
+        buildArtistList();
         document.getElementById('newsStage').innerHTML = '';
         buildCards();
         currentIndex = -1;
@@ -654,7 +690,7 @@
       let dataHTML = '';
       if (item.dataBoxes && item.dataBoxes.length) {
         dataHTML = '<div class="card-data">' + item.dataBoxes.map(d =>
-          `<div class="data-box"><div class="data-label">${d.label}</div><div class="data-value">${d.value}</div><div class="data-sub">${d.sub}</div></div>`
+          `<div class="data-box"><div class="data-label">${highlightUsernames(d.label)}</div><div class="data-value">${d.value}</div><div class="data-sub">${d.sub}</div></div>`
         ).join('') + '</div>';
       }
       let imageHTML = '';
@@ -675,6 +711,7 @@
       stage.appendChild(card);
     });
   }
+  buildArtistList();
   buildCards();
 
   let autoTimer = null;
