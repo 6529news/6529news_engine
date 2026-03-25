@@ -313,7 +313,7 @@ def build_sales_recap():
     vol_24h = stats['intervals'][0].get('volume', 0) if stats.get('intervals') else 0
     sales_24h = stats['intervals'][0].get('sales', 0) if stats.get('intervals') else 0
 
-    highest = {'name': '', 'price': 0}
+    highest = {'name': '', 'price': 0, 'card_id': ''}
     high_sales = []  # Sales > 0.3 ETH
     sweeps = {}  # card_id -> count (detect sweeps)
     headline_extras = []
@@ -325,7 +325,7 @@ def build_sales_recap():
             card_id = e['nft']['identifier']
 
             if price > highest['price']:
-                highest = {'name': name, 'price': price}
+                highest = {'name': name, 'price': price, 'card_id': card_id}
             if price >= 0.3:
                 high_sales.append(f'"{name}" {price:.3f} ETH')
             sweeps[card_id] = sweeps.get(card_id, 0) + 1
@@ -339,12 +339,18 @@ def build_sales_recap():
     if sweep_cards:
         summary += f' Sweep detected: {len(sweep_cards)} card(s) with 5+ sales.'
 
+    # Build image for highest sale using 6529 CDN
+    sales_image = None
+    if highest['card_id']:
+        img_url = f'https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/{MEMES_CONTRACT}/{highest["card_id"]}'
+        sales_image = {'url': img_url, 'label': f'{highest["name"]} - {highest["price"]:.3f} ETH'}
+
     news = [{
         'category': 'SALES RECAP',
         'headline': f'{sales_24h} Sales Today - {vol_24h:.2f} ETH Volume',
         'summary': summary,
         'source': 'OpenSea', 'link': 'https://opensea.io/collection/thememes6529',
-        'image': None,
+        'image': sales_image,
         'dataBoxes': [
             {'label': 'Sales 24h', 'value': str(sales_24h), 'sub': ''},
             {'label': 'Volume 24h', 'value': f'{vol_24h:.2f}', 'sub': 'ETH'},
