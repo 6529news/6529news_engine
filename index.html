@@ -56,7 +56,7 @@
   .logo-num {
     font-family: 'Teko', sans-serif; font-weight: 700; font-size: clamp(28px, 4.3vw, 46px); color: #f0e6d0;
     background: linear-gradient(180deg, #b22222, #8b1a1a);
-    padding: 10px 16px 8px; line-height: 1; display: flex; align-items: center; justify-content: center;
+    padding: 8px 14px 5px; line-height: 1; display: flex; align-items: center; justify-content: center;
     letter-spacing: 2px;
   }
   .logo-news {
@@ -125,7 +125,7 @@
     font-family: 'Teko', sans-serif; font-weight: 600; font-size: clamp(16px, 2vw, 22px);
     letter-spacing: 2px; text-transform: uppercase; padding: 6px 18px 4px;
   }
-  .card-cat-line { flex: 1; height: 2px; background: linear-gradient(90deg, #b22222, rgba(178,34,34,0.05)); }
+  .card-cat-line { flex: 1; height: 1px; background: linear-gradient(90deg, rgba(200,168,78,0.15), rgba(200,168,78,0.02)); }
 
   .card-body { display: flex; flex-direction: column; flex: 1; min-height: 0; }
 
@@ -138,7 +138,7 @@
   }
   .news-card.active .card-preview { animation: previewIn 0.5s 0.2s ease-out forwards; }
   @keyframes previewIn { from { opacity: 0; transform: scale(0.97); } to { opacity: 1; transform: scale(1); } }
-  .card-preview img { max-width: 100%; max-height: clamp(180px, 42vh, 420px); object-fit: contain; }
+  .card-preview img { width: 100%; max-height: clamp(180px, 42vh, 420px); object-fit: cover; }
   .card-preview-label {
     position: absolute; bottom: 0; left: 0; right: 0;
     background: linear-gradient(transparent, rgba(0,0,0,0.85));
@@ -156,7 +156,7 @@
   .news-card.active .card-headline { animation: textIn 0.4s 0.15s ease-out forwards; }
   @keyframes textIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
 
-  .card-divider { width: 0; height: 3px; background: linear-gradient(90deg, #b22222, #c8a84e); margin-bottom: 14px; }
+  .card-divider { width: 0; height: 2px; background: linear-gradient(90deg, #c8a84e, rgba(200,168,78,0.1)); margin-bottom: 14px; }
   .news-card.active .card-divider { animation: divGrow 0.4s 0.25s ease-out forwards; }
   @keyframes divGrow { to { width: 140px; } }
 
@@ -197,7 +197,7 @@
   }
   .headline-content {
     flex: 1; min-width: 0; background: linear-gradient(180deg, #1e1208, #140c06);
-    border-top: 2px solid #b22222; border-bottom: 1px solid rgba(200,168,78,0.08);
+    border-top: 1px solid rgba(200,168,78,0.08); border-bottom: 1px solid rgba(200,168,78,0.04);
     display: flex; align-items: center; padding: 0 clamp(10px, 1.8vw, 20px); overflow: hidden;
   }
   .headline-scroll {
@@ -220,7 +220,7 @@
   .nav-btn:hover { background: rgba(178,34,34,0.3); color: #c8a84e; border-color: rgba(178,34,34,0.5); }
 
   .progress-bar { position: absolute; bottom: clamp(42px, 6vh, 62px); left: 0; right: 0; height: 3px; background: rgba(0,0,0,0.3); z-index: 16; transform: translateY(-1px); }
-  .progress-fill { height: 100%; background: linear-gradient(90deg, #b22222, #c8a84e); width: 0%; box-shadow: 0 0 6px rgba(200,168,78,0.3); }
+  .progress-fill { height: 100%; background: #c8a84e; width: 0%; box-shadow: 0 0 4px rgba(200,168,78,0.3); }
 
   /* === TICKER (MARKET label: white text on red bg - inverted) === */
   .ticker-bar {
@@ -248,7 +248,7 @@
   .ticker-separator { color: rgba(200,168,78,0.08); font-size: 16px; flex-shrink: 0; padding: 0 4px; }
 
   /* Side accents */
-  .side-l { position: absolute; left: 0; top: clamp(54px, 7.5vh, 76px); bottom: calc(clamp(42px, 6vh, 66px) + clamp(42px, 6vh, 62px) + 3px); width: 3px; z-index: 12; background: linear-gradient(180deg, #b22222, rgba(178,34,34,0.03), #b22222); }
+  .side-l { display: none; }
   .side-r { position: absolute; right: 0; top: clamp(54px, 7.5vh, 76px); bottom: calc(clamp(42px, 6vh, 66px) + clamp(42px, 6vh, 62px) + 3px); width: 4px; z-index: 12; background: linear-gradient(180deg, rgba(200,168,78,0.06), rgba(200,168,78,0.02), rgba(200,168,78,0.06)); }
 
   .username { color: #c8a84e; font-weight: 600; }
@@ -278,13 +278,7 @@
   @keyframes introRingSpin { to { transform: rotate(360deg); } }
   @keyframes introFadeIn { to { opacity: 1; } }
 
-  .intro-red-line {
-    position: absolute; top: 58%; left: 50%; transform: translate(-50%, -50%);
-    width: 0; height: 3px; background: linear-gradient(90deg, transparent, #b22222, #b22222, #b22222, transparent); z-index: 5;
-    animation: introLineGrow 0.3s 0.3s ease-out forwards;
-    box-shadow: 0 0 12px rgba(178,34,34,0.5);
-  }
-  @keyframes introLineGrow { to { width: 800px; } }
+  .intro-red-line { display: none; }
 
   .intro-flash {
     position: absolute; inset: 0; background: rgba(240,230,208,0.5);
@@ -304,7 +298,7 @@
   .intro-6529 {
     font-family: 'Teko', sans-serif; font-weight: 700; font-size: clamp(50px, 10vw, 110px); color: #f0e6d0;
     background: linear-gradient(180deg, #b22222, #8b1a1a);
-    padding: 14px 28px 8px; line-height: 1; display: flex; align-items: center; justify-content: center;
+    padding: 16px 28px 10px; line-height: 1; display: flex; align-items: center; justify-content: center;
     letter-spacing: 3px;
     box-shadow: 0 0 40px rgba(178,34,34,0.3);
   }
