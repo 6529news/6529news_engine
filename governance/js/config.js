@@ -9,7 +9,8 @@ export const CONFIG = {
 
   // Governance thresholds
   MIN_TDH_PROPOSE: 1_000_000,    // 1M TDH to create a proposal
-  TDH_THRESHOLD_PASS: 10_000_000, // 10M TDH to pass a proposal
+  TDH_THRESHOLD_PASS: 30_000_000, // 30M TDH to pass a proposal
+  TDH_THRESHOLD_REQUEST: 30_000_000, // 30M TDH to approve a generic request
   PROPOSAL_DURATION_DAYS: 10,
 
   // 6529 API

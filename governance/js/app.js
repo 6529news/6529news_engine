@@ -21,6 +21,9 @@ function route() {
   if (hash === '#/' || hash === '#') renderDashboard();
   else if (hash.startsWith('#/proposal/')) renderProposalDetail(hash.split('#/proposal/')[1]);
   else if (hash === '#/create') renderCreateProposal();
+  else if (hash === '#/create-request') renderCreateRequest();
+  else if (hash === '#/requests') renderRequests();
+  else if (hash.startsWith('#/request/')) renderRequestDetail(hash.split('#/request/')[1]);
   else if (hash === '#/config') renderConfig();
   else if (hash === '#/profile') renderProfile();
   else if (hash.startsWith('#/profile/')) renderProfile(hash.split('#/profile/')[1]);
@@ -689,6 +692,147 @@ async function renderProfile(addressParam) {
       ` : ''}
     </div>
   `;
+}
+
+// === REQUESTS (generic text + TDH vote) ===
+async function renderRequests() {
+  currentView = 'requests';
+  app.innerHTML = '<div class="loading">Loading requests...</div>';
+
+  const proposals = await listProposals();
+  const requests = proposals.filter(p => p.action === 'request');
+  const active = requests.filter(p => p.status === 'active' && new Date(p.expiresAt) > new Date());
+  const past = requests.filter(p => p.status !== 'active' || new Date(p.expiresAt) <= new Date());
+
+  let html = `
+    <div class="section-header">
+      <h2>Community Requests</h2>
+      ${userIdentity && userIdentity.tdh >= CONFIG.MIN_TDH_PROPOSE
+        ? '<a href="#/create-request" class="btn btn-primary">+ New Request</a>'
+        : ''}
+    </div>
+    <p class="form-sub">Submit any request — feature ideas, UI changes, anything. Requests reaching ${formatTDH(CONFIG.TDH_THRESHOLD_REQUEST)} TDH get reviewed for production. Below that they stay in queue.</p>
+  `;
+
+  if (active.length === 0) {
+    html += '<div class="empty-state">No active requests. ';
+    if (userIdentity && userIdentity.tdh >= CONFIG.MIN_TDH_PROPOSE) {
+      html += '<a href="#/create-request">Submit one</a>';
+    }
+    html += '</div>';
+  } else {
+    html += '<div class="proposals-grid">';
+    for (const r of active) {
+      html += renderRequestCard(r);
+    }
+    html += '</div>';
+  }
+
+  if (past.length > 0) {
+    html += '<div class="section-header" style="margin-top:32px"><h2>Past Requests</h2></div>';
+    html += '<div class="proposals-grid">';
+    for (const r of past) html += renderRequestCard(r);
+    html += '</div>';
+  }
+
+  app.innerHTML = html;
+}
+
+function renderRequestCard(r) {
+  const isExpired = new Date(r.expiresAt) < new Date();
+  const daysLeft = Math.max(0, Math.ceil((new Date(r.expiresAt) - new Date()) / 86400000));
+  const statusClass = r.status === 'active' ? (isExpired ? 'status-expired' : 'status-active') : (r.status === 'passed' ? 'status-passed' : 'status-failed');
+  const statusLabel = r.status === 'active' ? (isExpired ? 'EXPIRED' : 'ACTIVE') : r.status.toUpperCase();
+
+  return `
+    <a href="#/request/${r.id}" class="proposal-card">
+      <div class="proposal-header">
+        <span class="proposal-action action-request">Request</span>
+        <span class="proposal-status ${statusClass}">${statusLabel}</span>
+      </div>
+      <div class="proposal-wave">${r.waveName || r.reason?.substring(0, 60) || 'Request'}</div>
+      <div class="proposal-reason">${r.reason || ''}</div>
+      <div class="proposal-meta">
+        <span>by ${r.proposer.handle || shortAddress(r.proposer.address)}</span>
+        <span>${r.status === 'active' && !isExpired ? daysLeft + 'd left' : ''}</span>
+      </div>
+    </a>
+  `;
+}
+
+async function renderRequestDetail(id) {
+  // Reuse proposal detail — requests are stored as proposals with action='request'
+  return renderProposalDetail(id);
+}
+
+async function renderCreateRequest() {
+  currentView = 'create-request';
+
+  if (!userIdentity) {
+    app.innerHTML = '<div class="empty-state">Connect your wallet to submit a request. <a href="#/requests">Back</a></div>';
+    return;
+  }
+
+  if (userIdentity.tdh < CONFIG.MIN_TDH_PROPOSE) {
+    app.innerHTML = `<div class="empty-state">You need ${formatTDH(CONFIG.MIN_TDH_PROPOSE)} TDH to submit a request. You have ${formatTDH(userIdentity.tdh)}. <a href="#/requests">Back</a></div>`;
+    return;
+  }
+
+  app.innerHTML = `
+    <a href="#/requests" class="back-link">&larr; Back to Requests</a>
+    <div class="create-form">
+      <h2>Submit a Request</h2>
+      <p class="form-sub">Any idea, feature, change — write it here. The community votes with TDH. Requests reaching ${formatTDH(CONFIG.TDH_THRESHOLD_REQUEST)} TDH get reviewed and implemented.</p>
+
+      <div class="form-group">
+        <label>Your Request</label>
+        <textarea id="reqText" rows="4" placeholder="e.g. 'Let's change the background color!' or 'Add dark mode' or 'Show more market data'"></textarea>
+      </div>
+
+      <div class="form-footer">
+        <span class="form-cost">Your TDH: ${formatTDH(userIdentity.tdh)} &middot; Threshold: ${formatTDH(CONFIG.TDH_THRESHOLD_REQUEST)}</span>
+        <button class="btn btn-primary" id="btnSubmitRequest">Sign & Submit Request</button>
+      </div>
+      <div id="requestStatus" class="vote-status" style="margin-top:16px"></div>
+    </div>
+  `;
+
+  document.getElementById('btnSubmitRequest').addEventListener('click', async () => {
+    const text = document.getElementById('reqText').value.trim();
+    if (!text) { showToast('Write your request', 'error'); return; }
+    if (!ensureGitHubToken()) return;
+
+    const btn = document.getElementById('btnSubmitRequest');
+    const statusEl = document.getElementById('requestStatus');
+    btn.disabled = true;
+    btn.textContent = 'Signing...';
+    if (statusEl) statusEl.innerHTML = '<span class="status-pending">Signing request with wallet...</span>';
+
+    try {
+      // Submit as a proposal with action='request', using the text as both waveName and reason
+      const result = await createProposal('request', 'generic-request', text);
+
+      if (result.issue?.fallback) {
+        if (statusEl) statusEl.innerHTML = '<span class="status-info">Redirected to GitHub to complete submission.</span>';
+        btn.disabled = false;
+        btn.textContent = 'Sign & Submit Request';
+      } else {
+        if (statusEl) statusEl.innerHTML = `
+          <span class="status-success">
+            Request submitted! Community can now vote on it.
+            <a href="${result.issue?.html_url}" target="_blank">View on GitHub</a>
+          </span>
+        `;
+        showToast('Request submitted!', 'success');
+        setTimeout(() => { window.location.hash = '#/requests'; }, 2000);
+      }
+    } catch (err) {
+      if (statusEl) statusEl.innerHTML = `<span class="status-error">${err.message}</span>`;
+      btn.disabled = false;
+      btn.textContent = 'Sign & Submit Request';
+      showToast(err.message, 'error');
+    }
+  });
 }
 
 // === TOAST ===

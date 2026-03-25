@@ -15,8 +15,9 @@
   */
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  html, body { width: 100vw; height: 100vh; overflow: hidden; font-family: 'Oswald', sans-serif; background: #0e0806; }
-  .container { width: 1080px; height: 1080px; position: relative; overflow: hidden; transform-origin: top left; }
+  html, body { width: 100%; height: 100%; overflow: hidden; font-family: 'Oswald', sans-serif; background: #0e0806; }
+  .container { width: 100vw; height: 100vh; position: relative; overflow: hidden; }
+  .container.screenshot-mode { width: 1080px; height: 1080px; }
 
   /* === BACKGROUND === */
   .bg {
@@ -44,10 +45,10 @@
 
   /* === TOP BAR === */
   .top-bar {
-    position: absolute; top: 0; left: 0; right: 0; height: 72px;
+    position: absolute; top: 0; left: 0; right: 0; height: clamp(50px, 7vh, 72px);
     background: linear-gradient(180deg, #2a1a10 0%, #1a0e08 100%);
     border-bottom: 4px solid #b22222; z-index: 20;
-    display: flex; align-items: center; padding: 0 28px;
+    display: flex; align-items: center; padding: 0 clamp(12px, 2.5vw, 28px);
     box-shadow: 0 3px 12px rgba(0,0,0,0.6);
   }
   .top-bar::before {
@@ -57,60 +58,67 @@
 
   .logo { display: flex; align-items: center; }
   .logo-num {
-    font-family: 'Teko', sans-serif; font-weight: 700; font-size: 46px; color: #f0e6d0;
+    font-family: 'Teko', sans-serif; font-weight: 700; font-size: clamp(28px, 4.3vw, 46px); color: #f0e6d0;
     background: linear-gradient(180deg, #b22222, #8b1a1a);
     padding: 8px 16px; line-height: 1; display: flex; align-items: center;
     letter-spacing: 2px;
     box-shadow: inset 0 -2px 0 rgba(0,0,0,0.4), inset 0 2px 0 rgba(255,255,255,0.08);
   }
   .logo-news {
-    font-family: 'Teko', sans-serif; font-weight: 700; font-size: 46px; color: #c8a84e;
+    font-family: 'Teko', sans-serif; font-weight: 700; font-size: clamp(28px, 4.3vw, 46px); color: #c8a84e;
     letter-spacing: 5px; margin-left: 10px;
     text-shadow: 0 2px 4px rgba(0,0,0,0.5);
   }
 
-  .top-right { margin-left: auto; display: flex; align-items: center; gap: 18px; }
+  .top-right { margin-left: auto; display: flex; align-items: center; gap: clamp(8px, 1.5vw, 18px); }
   .gov-btn {
     background: rgba(178,34,34,0.25); border: 1px solid rgba(178,34,34,0.5);
     color: rgba(200,168,78,0.7); font-family: 'Teko', sans-serif; font-weight: 600;
-    font-size: 16px; letter-spacing: 2px; padding: 3px 12px; text-decoration: none;
+    font-size: clamp(13px, 1.5vw, 16px); letter-spacing: 2px; padding: 3px 12px; text-decoration: none;
   }
   .gov-btn:hover { background: rgba(178,34,34,0.4); color: #c8a84e; }
   .tool-btn {
     background: rgba(200,168,78,0.1); border: 1px solid rgba(200,168,78,0.25);
     color: rgba(200,168,78,0.5); font-family: 'Teko', sans-serif; font-weight: 600;
-    font-size: 14px; letter-spacing: 2px; padding: 3px 10px; cursor: pointer;
+    font-size: clamp(12px, 1.3vw, 14px); letter-spacing: 2px; padding: 3px 10px; cursor: pointer;
   }
   .tool-btn:hover { background: rgba(200,168,78,0.2); color: #c8a84e; }
 
   .live-indicator { display: flex; align-items: center; gap: 8px; }
   .live-dot { width: 10px; height: 10px; background: #b22222; border-radius: 50%; animation: liveBlink 1s step-end infinite; box-shadow: 0 0 6px rgba(178,34,34,0.8); }
   @keyframes liveBlink { 50% { opacity: 0.2; } }
-  .live-text { font-family: 'Teko', sans-serif; font-weight: 600; font-size: 20px; color: #b22222; letter-spacing: 3px; }
-  .clock { font-family: 'Share Tech Mono', monospace; font-size: 18px; color: rgba(200,168,78,0.6); letter-spacing: 2px; }
-  .date-display { font-family: 'Oswald', sans-serif; font-size: 13px; color: rgba(240,230,208,0.3); letter-spacing: 1px; }
+  .live-text { font-family: 'Teko', sans-serif; font-weight: 600; font-size: clamp(16px, 1.9vw, 20px); color: #b22222; letter-spacing: 3px; }
+  .clock { font-family: 'Share Tech Mono', monospace; font-size: clamp(14px, 1.7vw, 18px); color: rgba(200,168,78,0.6); letter-spacing: 2px; }
+  .date-display { font-family: 'Oswald', sans-serif; font-size: clamp(12px, 1.3vw, 14px); color: rgba(240,230,208,0.55); letter-spacing: 1px; }
+  .mint-btn {
+    background: rgba(178,34,34,0.4); border: 1px solid #b22222;
+    color: #f0e6d0; font-family: 'Teko', sans-serif; font-weight: 600;
+    font-size: clamp(10px, 1.1vw, 13px); letter-spacing: 2px; padding: 2px 8px;
+    text-decoration: none; animation: liveBlink 1.5s step-end infinite;
+  }
+  .mint-btn:hover { background: rgba(178,34,34,0.7); }
 
   /* === CATEGORY BAR === */
   .cat-bar {
-    position: absolute; top: 76px; left: 0; right: 0; height: 36px;
+    position: absolute; top: clamp(50px, 7vh, 72px); left: 0; right: 0; height: clamp(28px, 4vh, 36px);
     background: linear-gradient(180deg, #1e1208, #140c06);
     border-bottom: 1px solid rgba(200,168,78,0.1); z-index: 18;
-    display: flex; align-items: center; padding: 0 28px;
+    display: flex; align-items: center; padding: 0 clamp(12px, 2.5vw, 28px);
   }
   .cat-tab {
-    font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 13px;
+    font-family: 'Oswald', sans-serif; font-weight: 600; font-size: clamp(13px, 1.5vw, 16px);
     letter-spacing: 2px; color: #c8a84e; text-transform: uppercase;
     padding: 4px 14px; border-bottom: 2px solid #b22222;
     background: rgba(178,34,34,0.06);
   }
   .cat-counter {
     margin-left: auto; font-family: 'Share Tech Mono', monospace;
-    font-size: 14px; color: rgba(200,168,78,0.3); letter-spacing: 1px;
+    font-size: clamp(13px, 1.5vw, 16px); color: rgba(200,168,78,0.6); letter-spacing: 1px;
   }
 
   /* === MAIN NEWS AREA === */
-  .news-area { position: absolute; top: 112px; left: 0; right: 0; bottom: 128px; z-index: 10; padding: 0 32px; }
-  .news-card { position: absolute; inset: 0; padding: 24px 32px 16px; opacity: 0; display: flex; flex-direction: column; pointer-events: none; }
+  .news-area { position: absolute; top: clamp(50px, 7vh, 72px); left: 0; right: 0; bottom: calc(clamp(42px, 6vh, 66px) + clamp(42px, 6vh, 62px) + 3px); z-index: 10; padding: 0 clamp(16px, 3vw, 32px); overflow-y: auto; }
+  .news-card { position: absolute; inset: 0; padding: clamp(12px, 2vh, 24px) clamp(16px, 3vw, 32px) clamp(8px, 1.5vh, 16px); opacity: 0; display: flex; flex-direction: column; pointer-events: none; }
   .news-card.active { opacity: 1; pointer-events: auto; animation: cardIn 0.5s ease-out forwards; }
   .news-card.exit { animation: cardOut 0.3s ease-in forwards; }
   @keyframes cardIn { from { opacity: 0; transform: translateX(20px); } to { opacity: 1; transform: translateX(0); } }
@@ -119,8 +127,8 @@
   .card-cat-bar { display: flex; align-items: center; gap: 14px; margin-bottom: 14px; }
   .card-cat {
     background: linear-gradient(180deg, #b22222, #8b1a1a); color: #f0e6d0;
-    font-family: 'Teko', sans-serif; font-weight: 600; font-size: 17px;
-    letter-spacing: 2px; text-transform: uppercase; padding: 3px 16px;
+    font-family: 'Teko', sans-serif; font-weight: 600; font-size: clamp(16px, 2vw, 22px);
+    letter-spacing: 2px; text-transform: uppercase; padding: 4px 18px;
     box-shadow: inset 0 -1px 0 rgba(0,0,0,0.3);
   }
   .card-cat-line { flex: 1; height: 2px; background: linear-gradient(90deg, #b22222, rgba(178,34,34,0.05)); }
@@ -128,26 +136,26 @@
   .card-body { display: flex; flex-direction: column; flex: 1; min-height: 0; }
 
   .card-preview {
-    width: 100%; max-height: 340px; overflow: hidden;
-    border: 2px solid rgba(200,168,78,0.12); background: rgba(0,0,0,0.3);
-    margin-bottom: 16px; position: relative; opacity: 0;
+    width: 100%; max-height: clamp(180px, 42vh, 420px); overflow: hidden;
+    border: 2px solid rgba(200,168,78,0.2); background: rgba(0,0,0,0.3);
+    margin-bottom: clamp(8px, 1.5vh, 16px); position: relative; opacity: 0;
     box-shadow: 0 4px 24px rgba(0,0,0,0.5);
     display: flex; align-items: center; justify-content: center;
   }
   .news-card.active .card-preview { animation: previewIn 0.5s 0.2s ease-out forwards; }
   @keyframes previewIn { from { opacity: 0; transform: scale(0.97); } to { opacity: 1; transform: scale(1); } }
-  .card-preview img { max-width: 100%; max-height: 340px; object-fit: contain; }
+  .card-preview img { max-width: 100%; max-height: clamp(180px, 42vh, 420px); object-fit: contain; }
   .card-preview-label {
     position: absolute; bottom: 0; left: 0; right: 0;
     background: linear-gradient(transparent, rgba(0,0,0,0.85));
     padding: 20px 14px 8px; font-family: 'Oswald', sans-serif;
-    font-size: 13px; font-weight: 500; color: rgba(240,230,208,0.5);
+    font-size: clamp(12px, 1.4vw, 15px); font-weight: 500; color: rgba(240,230,208,0.75);
     letter-spacing: 1px; text-transform: uppercase; text-align: center;
   }
 
   .card-headline {
     color: #f0e6d0; font-family: 'Oswald', sans-serif; font-weight: 700;
-    font-size: 36px; line-height: 1.15; margin-bottom: 12px;
+    font-size: clamp(24px, 4vw, 44px); line-height: 1.15; margin-bottom: clamp(6px, 1vh, 12px);
     text-transform: uppercase; text-shadow: 0 2px 4px rgba(0,0,0,0.5);
     opacity: 0;
   }
@@ -159,8 +167,8 @@
   @keyframes divGrow { to { width: 140px; } }
 
   .card-summary {
-    color: rgba(240,230,208,0.55); font-family: 'Oswald', sans-serif; font-weight: 400;
-    font-size: 19px; line-height: 1.45; opacity: 0;
+    color: rgba(240,230,208,0.82); font-family: 'Oswald', sans-serif; font-weight: 400;
+    font-size: clamp(16px, 2.2vw, 24px); line-height: 1.45; opacity: 0;
   }
   .news-card.active .card-summary { animation: textIn 0.4s 0.35s ease-out forwards; }
 
@@ -168,77 +176,84 @@
   .news-card.active .card-data { animation: textIn 0.4s 0.45s ease-out forwards; }
   .data-box {
     flex: 1; background: linear-gradient(180deg, rgba(42,26,16,0.9), rgba(26,14,8,0.95));
-    border: 1px solid rgba(200,168,78,0.1); padding: 12px 10px; text-align: center;
+    border: 1px solid rgba(200,168,78,0.15); padding: clamp(10px, 1.5vh, 16px) clamp(8px, 1vw, 14px); text-align: center;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
   }
   .data-box:first-child { border-radius: 4px 0 0 4px; }
   .data-box:last-child { border-radius: 0 4px 4px 0; }
-  .data-label { font-family: 'Oswald', sans-serif; font-size: 10px; font-weight: 500; letter-spacing: 1.5px; color: rgba(200,168,78,0.45); text-transform: uppercase; margin-bottom: 4px; }
-  .data-value { font-family: 'Teko', sans-serif; font-size: 28px; font-weight: 700; color: #c8a84e; }
-  .data-sub { font-family: 'Oswald', sans-serif; font-size: 11px; color: rgba(240,230,208,0.2); margin-top: 2px; }
+  .data-label { font-family: 'Oswald', sans-serif; font-size: clamp(11px, 1.3vw, 14px); font-weight: 600; letter-spacing: 1.5px; color: rgba(200,168,78,0.75); text-transform: uppercase; margin-bottom: 4px; }
+  .data-value { font-family: 'Teko', sans-serif; font-size: clamp(26px, 3.5vw, 38px); font-weight: 700; color: #c8a84e; line-height: 1; }
+  .data-sub { font-family: 'Oswald', sans-serif; font-size: clamp(11px, 1.2vw, 13px); color: rgba(240,230,208,0.55); margin-top: 4px; }
 
   .card-source { display: flex; align-items: center; gap: 8px; padding-top: 10px; opacity: 0; }
   .news-card.active .card-source { animation: textIn 0.3s 0.5s ease-out forwards; }
   .source-dot { width: 6px; height: 6px; background: #b22222; border-radius: 50%; }
-  .source-text { color: rgba(240,230,208,0.2); font-family: 'Oswald', sans-serif; font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase; }
-  .source-link { color: rgba(200,168,78,0.35); font-family: 'Oswald', sans-serif; font-size: 12px; text-decoration: none; margin-left: 6px; }
+  .source-text { color: rgba(240,230,208,0.5); font-family: 'Oswald', sans-serif; font-size: clamp(12px, 1.3vw, 14px); letter-spacing: 1.5px; text-transform: uppercase; }
+  .source-link { color: rgba(200,168,78,0.6); font-family: 'Oswald', sans-serif; font-size: clamp(12px, 1.3vw, 14px); text-decoration: none; margin-left: 6px; }
   .source-link:hover { color: rgba(200,168,78,0.7); }
 
   /* === HEADLINE BAR (NEWS label in red, content in dark) === */
-  .headline-bar { position: absolute; bottom: 62px; left: 0; right: 0; height: 66px; z-index: 15; display: flex; }
+  .headline-bar { position: absolute; bottom: clamp(42px, 6vh, 62px); left: 0; right: 0; height: clamp(42px, 6vh, 66px); z-index: 15; display: flex; }
   .headline-label {
     background: linear-gradient(180deg, #b22222, #8b1a1a); color: #f0e6d0;
-    font-family: 'Teko', sans-serif; font-weight: 700; font-size: 26px;
-    letter-spacing: 4px; display: flex; align-items: center; padding: 0 18px;
+    font-family: 'Teko', sans-serif; font-weight: 700; font-size: clamp(22px, 3vw, 32px);
+    letter-spacing: 4px; display: flex; align-items: center; padding: 0 clamp(12px, 2vw, 22px);
     box-shadow: inset 0 -2px 0 rgba(0,0,0,0.3), inset 0 2px 0 rgba(255,255,255,0.05);
   }
   .headline-content {
-    flex: 1; background: linear-gradient(180deg, #1e1208, #140c06);
+    flex: 1; min-width: 0; background: linear-gradient(180deg, #1e1208, #140c06);
     border-top: 2px solid rgba(178,34,34,0.5); border-bottom: 2px solid rgba(200,168,78,0.1);
-    display: flex; align-items: center; padding: 0 20px; overflow: hidden;
+    display: flex; align-items: center; padding: 0 clamp(10px, 1.8vw, 20px); overflow: hidden;
+  }
+  .headline-scroll {
+    flex: 1; min-width: 0; overflow: hidden; position: relative;
   }
   .headline-text {
     color: #f0e6d0; font-family: 'Oswald', sans-serif; font-weight: 500;
-    font-size: 17px; letter-spacing: 1px; white-space: nowrap; text-transform: uppercase; flex: 1;
+    font-size: clamp(15px, 2vw, 22px); letter-spacing: 1px; white-space: nowrap; text-transform: uppercase;
+    display: inline-block;
   }
-  .nav-arrows { display: flex; gap: 3px; flex-shrink: 0; }
+  .headline-text.scrolling { animation: headlineScroll 12s linear infinite; }
+  @keyframes headlineScroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+  .nav-arrows { display: flex; gap: 3px; flex-shrink: 0; margin-left: 8px; }
   .nav-btn {
-    width: 38px; height: 38px;
+    width: clamp(30px, 3.5vw, 38px); height: clamp(30px, 3.5vw, 38px);
     background: linear-gradient(180deg, rgba(42,26,16,0.6), rgba(20,12,6,0.8));
     border: 1px solid rgba(200,168,78,0.1); color: rgba(200,168,78,0.4);
-    font-size: 13px; cursor: pointer; display: flex; align-items: center; justify-content: center;
+    font-size: clamp(11px, 1.2vw, 13px); cursor: pointer; display: flex; align-items: center; justify-content: center;
   }
   .nav-btn:hover { background: rgba(178,34,34,0.3); color: #c8a84e; border-color: rgba(178,34,34,0.5); }
 
-  .progress-bar { position: absolute; bottom: 62px; left: 0; right: 0; height: 3px; background: rgba(0,0,0,0.3); z-index: 16; transform: translateY(-1px); }
+  .progress-bar { position: absolute; bottom: clamp(42px, 6vh, 62px); left: 0; right: 0; height: 3px; background: rgba(0,0,0,0.3); z-index: 16; transform: translateY(-1px); }
   .progress-fill { height: 100%; background: linear-gradient(90deg, #b22222, #c8a84e); width: 0%; box-shadow: 0 0 6px rgba(200,168,78,0.3); }
 
   /* === TICKER (MARKET label: white text on red bg - inverted) === */
   .ticker-bar {
-    position: absolute; bottom: 0; left: 0; right: 0; height: 62px; z-index: 15;
+    position: absolute; bottom: 0; left: 0; right: 0; height: clamp(42px, 6vh, 62px); z-index: 15;
     display: flex; background: linear-gradient(180deg, #140c06, #0e0806);
     border-top: 1px solid rgba(200,168,78,0.06);
   }
   .ticker-label {
     background: linear-gradient(180deg, #f0e6d0, #d8c8a8); color: #8b1a1a;
-    font-family: 'Teko', sans-serif; font-weight: 700; font-size: 18px;
-    letter-spacing: 2px; display: flex; align-items: center; padding: 0 14px;
+    font-family: 'Teko', sans-serif; font-weight: 700; font-size: clamp(18px, 2.2vw, 24px);
+    letter-spacing: 2px; display: flex; align-items: center; padding: 0 clamp(10px, 1.6vw, 18px);
     border-right: 2px solid #b22222;
   }
   .ticker-track { flex: 1; overflow: hidden; display: flex; align-items: center; position: relative; }
   .ticker-content { display: flex; align-items: center; white-space: nowrap; animation: tickerScroll 60s linear infinite; position: absolute; left: 0; }
   @keyframes tickerScroll { 0% { transform: translateX(0%); } 100% { transform: translateX(-50%); } }
   .ticker-item { display: flex; align-items: center; gap: 6px; padding: 0 16px; flex-shrink: 0; }
-  .ticker-item-label { font-family: 'Teko', sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 1.5px; color: rgba(200,168,78,0.4); text-transform: uppercase; }
-  .ticker-item-value { font-family: 'Oswald', sans-serif; font-size: 15px; font-weight: 500; color: #f0e6d0; }
-  .ticker-memes .ticker-item-label { color: #cc3333; font-size: 15px; }
-  .ticker-sr .ticker-item-label { color: #9966cc; font-size: 15px; }
-  .ticker-market .ticker-item-label { color: rgba(200,168,78,0.5); }
+  .ticker-item-label { font-family: 'Teko', sans-serif; font-size: clamp(14px, 1.6vw, 18px); font-weight: 600; letter-spacing: 1.5px; color: rgba(200,168,78,0.65); text-transform: uppercase; }
+  .ticker-item-value { font-family: 'Oswald', sans-serif; font-size: clamp(14px, 1.7vw, 19px); font-weight: 500; color: #f0e6d0; }
+  .ticker-memes .ticker-item-label { color: #cc3333; font-size: clamp(14px, 1.7vw, 19px); }
+  .ticker-sr .ticker-item-label { color: #9966cc; font-size: clamp(14px, 1.7vw, 19px); }
+  .ticker-market .ticker-item-label { color: rgba(200,168,78,0.7); }
   .ticker-market .ticker-item-value { color: #c8a84e; }
   .ticker-separator { color: rgba(200,168,78,0.08); font-size: 16px; flex-shrink: 0; padding: 0 4px; }
 
   /* Side accents */
-  .side-l { position: absolute; left: 0; top: 112px; bottom: 128px; width: 4px; z-index: 12; background: linear-gradient(180deg, #b22222, rgba(178,34,34,0.03), #b22222); }
-  .side-r { position: absolute; right: 0; top: 112px; bottom: 128px; width: 4px; z-index: 12; background: linear-gradient(180deg, rgba(200,168,78,0.06), rgba(200,168,78,0.02), rgba(200,168,78,0.06)); }
+  .side-l { position: absolute; left: 0; top: clamp(50px, 7vh, 72px); bottom: calc(clamp(42px, 6vh, 66px) + clamp(42px, 6vh, 62px) + 3px); width: 4px; z-index: 12; background: linear-gradient(180deg, #b22222, rgba(178,34,34,0.03), #b22222); }
+  .side-r { position: absolute; right: 0; top: clamp(50px, 7vh, 72px); bottom: calc(clamp(42px, 6vh, 66px) + clamp(42px, 6vh, 62px) + 3px); width: 4px; z-index: 12; background: linear-gradient(180deg, rgba(200,168,78,0.06), rgba(200,168,78,0.02), rgba(200,168,78,0.06)); }
 
   .username { color: #c8a84e; font-weight: 600; }
 
@@ -291,20 +306,20 @@
 
   .intro-logo-row { display: flex; align-items: center; justify-content: center; }
   .intro-6529 {
-    font-family: 'Teko', sans-serif; font-weight: 700; font-size: 110px; color: #f0e6d0;
+    font-family: 'Teko', sans-serif; font-weight: 700; font-size: clamp(50px, 10vw, 110px); color: #f0e6d0;
     background: linear-gradient(180deg, #b22222, #8b1a1a);
     padding: 10px 28px; line-height: 1; display: flex; align-items: center;
     letter-spacing: 3px;
     box-shadow: inset 0 -3px 0 rgba(0,0,0,0.3), inset 0 3px 0 rgba(255,255,255,0.06), 0 0 40px rgba(178,34,34,0.3);
   }
   .intro-news-text {
-    font-family: 'Teko', sans-serif; font-weight: 700; font-size: 110px; color: #c8a84e;
+    font-family: 'Teko', sans-serif; font-weight: 700; font-size: clamp(50px, 10vw, 110px); color: #c8a84e;
     letter-spacing: 10px; margin-left: 18px;
     text-shadow: 0 2px 8px rgba(0,0,0,0.5), 0 0 30px rgba(200,168,78,0.1);
   }
   .intro-subtitle {
-    font-family: 'Oswald', sans-serif; font-weight: 400; font-size: 20px;
-    color: rgba(200,168,78,0.35); letter-spacing: 10px; text-transform: uppercase;
+    font-family: 'Oswald', sans-serif; font-weight: 400; font-size: clamp(12px, 1.9vw, 20px);
+    color: rgba(200,168,78,0.35); letter-spacing: clamp(4px, 1vw, 10px); text-transform: uppercase;
     margin-top: 14px; opacity: 0;
     animation: introFadeIn 0.3s 0.9s ease-out forwards;
   }
@@ -313,7 +328,81 @@
     background: repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(0,0,0,0.04) 3px, rgba(0,0,0,0.04) 4px);
   }
 
-  @media screen { .container { transform: scale(var(--scale, 1)); } }
+  /* === MOBILE === */
+  @media (max-width: 600px) {
+    .top-bar { padding: 0 10px; }
+    .logo-num, .logo-news { font-size: 24px; }
+    .gov-btn, .tool-btn { font-size: 11px; padding: 2px 8px; }
+    .date-display { display: none; }
+    .live-text { font-size: 14px; }
+    .clock { font-size: 12px; }
+
+    .card-headline { font-size: 18px; }
+    .card-summary { font-size: 13px; }
+    .card-cat { font-size: 12px; padding: 2px 10px; }
+    .card-preview { max-height: 30vh; }
+    .card-preview img { max-height: 30vh; }
+    .data-box { padding: 8px 4px; }
+    .data-label { font-size: 8px; }
+    .data-value { font-size: 18px; }
+    .data-sub { font-size: 8px; }
+
+    .headline-label { font-size: 14px; letter-spacing: 2px; padding: 0 8px; }
+    .headline-text { font-size: 11px; }
+    .nav-btn { width: 28px; height: 28px; font-size: 10px; }
+
+    .ticker-label { font-size: 12px; padding: 0 6px; }
+    .ticker-item-label { font-size: 10px; }
+    .ticker-item-value { font-size: 11px; }
+    .ticker-memes .ticker-item-label, .ticker-sr .ticker-item-label { font-size: 10px; }
+
+    .source-text { font-size: 10px; }
+    .source-link { font-size: 10px; }
+
+    .intro-6529, .intro-news-text { font-size: 40px; }
+    .intro-subtitle { font-size: 10px; letter-spacing: 3px; }
+    .intro-ring-1 { width: 250px; height: 250px; }
+    .intro-ring-2 { width: 300px; height: 300px; }
+    .intro-ring-3 { width: 350px; height: 350px; }
+  }
+
+  /* Screenshot mode: force 1080×1080 with original fixed sizes */
+  .container.screenshot-mode { width: 1080px !important; height: 1080px !important; }
+  .container.screenshot-mode .top-bar { height: 72px; padding: 0 28px; }
+  .container.screenshot-mode .logo-num,
+  .container.screenshot-mode .logo-news { font-size: 46px; }
+  .container.screenshot-mode .live-text { font-size: 20px; }
+  .container.screenshot-mode .clock { font-size: 18px; }
+  .container.screenshot-mode .date-display { font-size: 13px; display: block; }
+  .container.screenshot-mode .cat-bar { top: 76px; height: 36px; padding: 0 28px; }
+  .container.screenshot-mode .cat-tab { font-size: 13px; }
+  .container.screenshot-mode .cat-counter { font-size: 14px; }
+  .container.screenshot-mode .news-area { top: 112px; bottom: 128px; padding: 0 32px; }
+  .container.screenshot-mode .news-card { padding: 24px 32px 16px; }
+  .container.screenshot-mode .card-headline { font-size: 36px; }
+  .container.screenshot-mode .card-summary { font-size: 19px; }
+  .container.screenshot-mode .card-cat { font-size: 17px; }
+  .container.screenshot-mode .card-preview { max-height: 340px; }
+  .container.screenshot-mode .card-preview img { max-height: 340px; }
+  .container.screenshot-mode .data-label { font-size: 10px; }
+  .container.screenshot-mode .data-value { font-size: 28px; }
+  .container.screenshot-mode .data-sub { font-size: 11px; }
+  .container.screenshot-mode .headline-bar { bottom: 62px; height: 66px; }
+  .container.screenshot-mode .headline-label { font-size: 26px; padding: 0 18px; }
+  .container.screenshot-mode .headline-text { font-size: 17px; }
+  .container.screenshot-mode .nav-btn { width: 38px; height: 38px; font-size: 13px; }
+  .container.screenshot-mode .progress-bar { bottom: 62px; }
+  .container.screenshot-mode .ticker-bar { height: 62px; }
+  .container.screenshot-mode .ticker-label { font-size: 18px; padding: 0 14px; }
+  .container.screenshot-mode .ticker-item-label { font-size: 13px; }
+  .container.screenshot-mode .ticker-item-value { font-size: 15px; }
+  .container.screenshot-mode .ticker-memes .ticker-item-label,
+  .container.screenshot-mode .ticker-sr .ticker-item-label { font-size: 15px; }
+  .container.screenshot-mode .side-l { top: 112px; bottom: 128px; }
+  .container.screenshot-mode .side-r { top: 112px; bottom: 128px; }
+  .container.screenshot-mode .gov-btn { font-size: 16px; }
+  .container.screenshot-mode .tool-btn { font-size: 14px; }
+  .container.screenshot-mode .top-right { gap: 18px; }
 </style>
 </head>
 <body>
@@ -349,14 +438,9 @@
       <a href="https://sertx92.github.io/memes24h/governance/" target="_blank" class="gov-btn">GOV</a>
       <button class="tool-btn" id="btnScreen" title="Screenshot">SCREEN</button>
       <div class="live-indicator"><div class="live-dot"></div><span class="live-text">LIVE</span></div>
-      <span class="clock" id="clock">--:--:--</span>
+      <span class="clock" id="clock">--:--:-- CET</span>
       <span class="date-display" id="dateDisplay"></span>
     </div>
-  </div>
-
-  <div class="cat-bar">
-    <span class="cat-tab" id="catTab">BREAKING</span>
-    <span class="cat-counter" id="screenCounter">01/06</span>
   </div>
 
   <div class="news-area" id="newsStage"></div>
@@ -365,7 +449,7 @@
   <div class="headline-bar">
     <div class="headline-label">NEWS</div>
     <div class="headline-content">
-      <div class="headline-text" id="headlineText"></div>
+      <div class="headline-scroll"><div class="headline-text" id="headlineText"></div></div>
       <div class="nav-arrows">
         <div class="nav-btn" id="navPrev">&#9664;</div>
         <div class="nav-btn" id="navNext">&#9654;</div>
@@ -377,35 +461,25 @@
     <div class="ticker-label">MARKET</div>
     <div class="ticker-track">
       <div class="ticker-content" id="tickerContent">
-        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes #1</span><span class="ticker-item-value">dangiuz 98.6M</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes #2</span><span class="ticker-item-value">BrynnAlise 4.0M</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes #3</span><span class="ticker-item-value">MintFace 630K</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-sr"><span class="ticker-item-label">SR #1</span><span class="ticker-item-value">Kostas_Photo 765K</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-sr"><span class="ticker-item-label">SR #2</span><span class="ticker-item-value">awhurst 556K</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-sr"><span class="ticker-item-label">SR #3</span><span class="ticker-item-value">blake69 301K</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">24h Vol</span><span class="ticker-item-value">1.21 ETH</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">24h Sales</span><span class="ticker-item-value">15</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes #1</span><span class="ticker-item-value">dangiuz 98.6M</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes #2</span><span class="ticker-item-value">BrynnAlise 4.0M</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes #3</span><span class="ticker-item-value">MintFace 630K</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-sr"><span class="ticker-item-label">SR #1</span><span class="ticker-item-value">Kostas_Photo 765K</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-sr"><span class="ticker-item-label">SR #2</span><span class="ticker-item-value">awhurst 556K</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-sr"><span class="ticker-item-label">SR #3</span><span class="ticker-item-value">blake69 301K</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">24h Vol</span><span class="ticker-item-value">1.21 ETH</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">24h Sales</span><span class="ticker-item-value">15</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes dangiuz</span><span class="ticker-item-value">99.6M TDH</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes BrynnAlise</span><span class="ticker-item-value">10.3M TDH</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes MintFace</span><span class="ticker-item-value">636K TDH</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-market"><span class="ticker-item-label">Memes Floor</span><span class="ticker-item-value">-- ETH</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-market"><span class="ticker-item-label">24h Sales</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-market"><span class="ticker-item-label">7d Sales</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes dangiuz</span><span class="ticker-item-value">99.6M TDH</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes BrynnAlise</span><span class="ticker-item-value">10.3M TDH</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-memes"><span class="ticker-item-label">Memes MintFace</span><span class="ticker-item-value">636K TDH</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-market"><span class="ticker-item-label">Memes Floor</span><span class="ticker-item-value">-- ETH</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-market"><span class="ticker-item-label">24h Sales</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item ticker-market"><span class="ticker-item-label">7d Sales</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
       </div>
     </div>
   </div>
 </div>
 
 <script>
-  function scaleContainer() {
-    const c = document.getElementById('container');
-    const s = Math.min(window.innerWidth / 1080, window.innerHeight / 1080);
-    c.style.transform = `scale(${s})`;
-  }
-  window.addEventListener('resize', scaleContainer);
-  scaleContainer();
+  // No scaling needed — layout is fully responsive via CSS
 
   // Intro: 2.8s then fade
   setTimeout(() => {
@@ -420,20 +494,106 @@
     return text;
   }
 
-  const NEWS_URL = 'https://raw.githubusercontent.com/sertx92/memes24h/main/data/news-latest.json';
+  const NEWS_URL = 'data/news-latest.json';
   const NEWS_FALLBACK = [
-    { category: "MAIN STAGE TOP 3", headline: "#1 dangiuz Leads with 98.6M TDH", summary: '#1 "Cogito, ergo sum" by dangiuz (98.6M TDH, 59 voters) | #17 "Network for Good" by BrynnAlise (4.0M TDH)', source: "The Memes - Main Stage", link: "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077", image: {url: "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d8defd4-e381-42f7-b387-b9db2852ff7f/392a10e2-c774-4ab4-a1d4-3aed12b1ed27.jpg", label: "#1 Cogito, ergo sum"}, dataBoxes: [{label: "#1 dangiuz", value: "98.6M", sub: "TDH"}, {label: "#17 BrynnAlise", value: "4.0M", sub: "TDH"}, {label: "#51 MintFace", value: "630K", sub: "TDH"}] },
-    { category: "SUPERRARE TOP 3", headline: "#1 Kostas_Photo Leads with 765K TDH", summary: '#1 Kostas_Photo (765K) | #2 awhurst (556K) | #3 blake69 (301K)', source: "SuperRare x 6529", link: "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd", image: {url: "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG", label: "#1 Kostas_Photo"}, dataBoxes: [{label: "#1 Kostas_Photo", value: "765K", sub: "TDH"}, {label: "#2 awhurst", value: "556K", sub: "TDH"}, {label: "#3 blake69", value: "301K", sub: "TDH"}] },
-    { category: "COMMUNITY", headline: "TDH Millionaire Paradox in the Dive Bar", summary: 'Blocknoob: "Being a TDH multi-millionaire translates to zero outside of the community." dangiuz: "100M TDH? you guys are crazy."', source: "maybe's dive bar", link: "https://6529.io/waves/b38288e6-ca9d-45ce-8323-3dc5e094f04e", image: null, dataBoxes: null },
-    { category: "ART", headline: "Artists Express Gratitude for Votes and REP", summary: 'Multiple artists thanked voters. Minotaur_Man: "Many thanks for the REP." Community engagement drives the 6529 art scene.', source: "The Memes - Main Stage", link: "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077", image: null, dataBoxes: null }
-  ];
+      {
+        category: "MINTING TODAY",
+        headline: "MINTING TODAY - Wednesday",
+        summary: "A new Meme Card is being minted today! \"An Intro to 6529\" by david — 66.7M TDH from 59 voters. Top supporter: Thor (13.9M TDH).",
+        source: "The Memes",
+        link: "https://6529.io/the-memes",
+        image: {
+          url: "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/474.PNG",
+          label: "An Intro to 6529 - david"
+        },
+        dataBoxes: null
+      },
+      {
+        category: "TOP MEMES",
+        headline: "dangiuz Leads with 99.6M Projected TDH",
+        summary: "\"Cogito, ergo sum\" by dangiuz (99.6M projected TDH, 78 voters) | \"Credo quia absurdum\" by Guidodisalle (27.5M projected TDH, 112 voters) | \"The Bear Spot\" by nathanabauman (26.4M projected TDH, 77 voters) Next selection in 5h 36m.",
+        source: "The Memes - Main Stage",
+        link: "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+        image: {
+          url: "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d8defd4-e381-42f7-b387-b9db2852ff7f/392a10e2-c774-4ab4-a1d4-3aed12b1ed27.jpg",
+          label: "Cogito, ergo sum - dangiuz"
+        },
+        dataBoxes: [
+          {
+            label: "dangiuz",
+            value: "99.6M",
+            sub: "proj. (78 votes)"
+          },
+          {
+            label: "Guidodisalle",
+            value: "27.5M",
+            sub: "proj. (112 votes)"
+          },
+          {
+            label: "nathanabauman",
+            value: "26.4M",
+            sub: "proj. (77 votes)"
+          }
+        ]
+      },
+      {
+        category: "NEW MEMES SUBMISSIONS",
+        headline: "54 Memes Submissions This Week",
+        summary: "54 art submissions this week. Featured: \"Network for Good \" by BrynnAlise (11.0M TDH). Also: dangiuz, MintFace, QuantumSpirit, Burnasso.",
+        source: "Main Stage",
+        link: "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+        image: {
+          url: "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ba12cc5a-5856-44f6-b50f-3aed56a02795/a92fc0d0-72f9-4b35-baf4-636545bbc88a.mp4",
+          label: "Network for Good  - BrynnAlise"
+        },
+        dataBoxes: null
+      },
+      {
+        category: "TOP SUPERRARE",
+        headline: "JasonOPhoto Leads with 2.1M TDH",
+        summary: "JasonOPhoto (2.1M TDH, 11 voters) | Articulate (1.4M TDH, 12 voters) | Zigmarillion (1.2M TDH, 13 voters)",
+        source: "SuperRare x 6529",
+        link: "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
+        image: {
+          url: "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+          label: "JasonOPhoto"
+        },
+        dataBoxes: [
+          {
+            label: "JasonOPhoto",
+            value: "2.1M",
+            sub: "TDH (11 votes)"
+          },
+          {
+            label: "Articulate",
+            value: "1.4M",
+            sub: "TDH (12 votes)"
+          },
+          {
+            label: "Zigmarillion",
+            value: "1.2M",
+            sub: "TDH (13 votes)"
+          }
+        ]
+      },
+      {
+        category: "SR SUBMISSIONS",
+        headline: "9 SuperRare Submissions This Week",
+        summary: "9 SuperRare submissions this week. Featured: dorinphotograph (0 TDH). Also: dougfriesen, Danielchideraa, Biolap, miesgraffiti.",
+        source: "SuperRare x 6529",
+        link: "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
+        image: {
+          url: "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_82f0ceb5-df94-4915-ba0b-b7f4618c74c8/0a986f28-3087-4612-9221-c619751c55ca.jpg",
+          label: "dorinphotograph"
+        },
+        dataBoxes: null
+      }
+    ];
 
-  // Headline bar: different content from cards (loaded dynamically)
+  // Headline bar: dynamic content (updated from JSON)
   let HEADLINE_EXTRAS = [
-    "DIVE BAR: COMMUNITY DISCUSSIONS ONGOING",
-    "PEBBLES: FLOOR 0.595 ETH",
-    "GOVERNANCE: VOTE ON NEWS SOURCES WITH YOUR TDH",
-    "6529 NEWS: DECENTRALIZED NEWS POWERED BY TDH"
+    "DIVE BAR: 100 MESSAGES IN LAST 6H",
+    "6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)"
   ];
 
   let NEWS = [...NEWS_FALLBACK];
@@ -465,7 +625,6 @@
       let cls = '';
       const lbl = (t.label || '').toLowerCase();
       if (lbl.includes('memes') || lbl.includes('meme')) cls = 'ticker-memes';
-      else if (lbl.includes('sr') || lbl.includes('super') || lbl.includes('rare')) cls = 'ticker-sr';
       else cls = 'ticker-market';
       return `<div class="ticker-item ${cls}"><span class="ticker-item-label">${t.label}</span><span class="ticker-item-value">${t.value}</span></div><div class="ticker-separator">|</div>`;
     }).join('');
@@ -476,10 +635,16 @@
 
   function updateTime() {
     const n = new Date();
-    document.getElementById('clock').textContent = String(n.getUTCHours()).padStart(2,'0') + ':' + String(n.getUTCMinutes()).padStart(2,'0') + ':' + String(n.getUTCSeconds()).padStart(2,'0');
+    // CET = UTC+1, CEST = UTC+2 (auto-detect via toLocaleString)
+    const cet = new Date(n.toLocaleString('en-US', {timeZone: 'Europe/Rome'}));
+    document.getElementById('clock').textContent =
+      String(cet.getHours()).padStart(2,'0') + ':' +
+      String(cet.getMinutes()).padStart(2,'0') + ':' +
+      String(cet.getSeconds()).padStart(2,'0') + ' CET';
   }
   setInterval(updateTime, 1000); updateTime();
   document.getElementById('dateDisplay').textContent = new Date().toLocaleDateString('en-US', {month:'short', day:'numeric', year:'numeric'}).toUpperCase();
+
 
   function buildCards() {
     const stage = document.getElementById('newsStage');
@@ -522,9 +687,18 @@
       card.classList.add('active');
       // Headline bar: show EXTRA news, not the same as card
       headlineExtraIdx = (headlineExtraIdx + 1) % HEADLINE_EXTRAS.length;
-      document.getElementById('headlineText').textContent = HEADLINE_EXTRAS[headlineExtraIdx];
+      const htEl = document.getElementById('headlineText');
+      const scrollContainer = htEl.parentElement;
+      htEl.classList.remove('scrolling');
+      htEl.textContent = HEADLINE_EXTRAS[headlineExtraIdx];
+      // If text overflows, duplicate and scroll
+      requestAnimationFrame(() => {
+        if (htEl.scrollWidth > scrollContainer.clientWidth) {
+          htEl.textContent = HEADLINE_EXTRAS[headlineExtraIdx] + '    \u2022    ' + HEADLINE_EXTRAS[headlineExtraIdx] + '    \u2022    ';
+          htEl.classList.add('scrolling');
+        }
+      });
       document.getElementById('screenCounter').textContent = `${String(currentIndex+1).padStart(2,'0')}/${String(NEWS.length).padStart(2,'0')}`;
-      document.getElementById('catTab').textContent = NEWS[currentIndex].category;
       const fill = document.getElementById('progressFill');
       fill.style.transition = 'none'; fill.style.width = '0%';
       requestAnimationFrame(() => { requestAnimationFrame(() => { fill.style.transition = `width ${CARD_DURATION}ms linear`; fill.style.width = '100%'; }); });
@@ -544,10 +718,14 @@
   document.head.appendChild(h2c);
   document.getElementById('btnScreen').addEventListener('click', async () => {
     const btn = document.getElementById('btnScreen'); btn.textContent = '...';
+    const c = document.getElementById('container');
     try {
-      const canvas = await html2canvas(document.getElementById('container'), { width: 1080, height: 1080, scale: 1, backgroundColor: '#0e0806', useCORS: true, allowTaint: true });
+      c.classList.add('screenshot-mode');
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const canvas = await html2canvas(c, { width: 1080, height: 1080, scale: 1, backgroundColor: '#0e0806', useCORS: true, allowTaint: true });
       const a = document.createElement('a'); a.download = '6529news_' + Date.now() + '.png'; a.href = canvas.toDataURL('image/png'); a.click();
     } catch(e) { console.error(e); }
+    c.classList.remove('screenshot-mode');
     btn.textContent = 'SCREEN';
   });
 </script>

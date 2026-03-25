@@ -1,24 +1,24 @@
 /* MEMES 24H Governance - Styles
    Matches the broadcast aesthetic of the news card */
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Teko:wght@400;500;600;700&family=Share+Tech+Mono&display=swap');
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body {
-  background: #06061a;
-  color: #e0e0e0;
-  font-family: 'Roboto', sans-serif;
+  background: #0e0806;
+  color: #f0e6d0;
+  font-family: 'Oswald', sans-serif;
   min-height: 100vh;
 }
 
-a { color: #6699ff; text-decoration: none; }
-a:hover { text-decoration: underline; }
+a { color: #c8a84e; text-decoration: none; }
+a:hover { text-decoration: underline; color: #e8c65a; }
 
 /* === HEADER === */
 .header {
-  background: linear-gradient(180deg, #0d0d2a, #08081e);
-  border-bottom: 3px solid #cc0000;
+  background: linear-gradient(180deg, #2a1a10, #1a0e08);
+  border-bottom: 3px solid #b22222;
   padding: 16px 32px;
   display: flex;
   align-items: center;
@@ -35,22 +35,22 @@ a:hover { text-decoration: underline; }
 }
 
 .logo-badge {
-  background: linear-gradient(135deg, #cc0000, #990000);
-  color: #fff;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-weight: 900;
+  background: linear-gradient(135deg, #b22222, #8b1a1a);
+  color: #f0e6d0;
+  font-family: 'Teko', sans-serif;
+  font-weight: 700;
   font-size: 20px;
   padding: 4px 14px;
   letter-spacing: 3px;
   border-radius: 3px;
-  box-shadow: 0 2px 8px rgba(204,0,0,0.4);
+  box-shadow: 0 2px 8px rgba(178,34,34,0.4);
 }
 
 .logo-sub {
-  color: rgba(255,255,255,0.4);
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 11px;
-  font-weight: 700;
+  color: #c8a84e;
+  font-family: 'Teko', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
   letter-spacing: 4px;
   text-transform: uppercase;
 }
@@ -62,8 +62,8 @@ a:hover { text-decoration: underline; }
 }
 
 .header-links a {
-  color: rgba(255,255,255,0.5);
-  font-family: 'Roboto Condensed', sans-serif;
+  color: rgba(200,168,78,0.6);
+  font-family: 'Oswald', sans-serif;
   font-size: 13px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -71,7 +71,7 @@ a:hover { text-decoration: underline; }
   transition: color 0.2s;
 }
 
-.header-links a:hover { color: #fff; text-decoration: none; }
+.header-links a:hover { color: #c8a84e; text-decoration: none; }
 
 /* === USER AREA === */
 .user-info {
@@ -85,7 +85,7 @@ a:hover { text-decoration: underline; }
   height: 32px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid rgba(204,0,0,0.4);
+  border: 2px solid rgba(178,34,34,0.4);
 }
 
 .user-pfp-placeholder {
@@ -95,21 +95,21 @@ a:hover { text-decoration: underline; }
 .user-details { display: flex; flex-direction: column; }
 
 .user-handle {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 14px;
   color: #fff;
 }
 
 .user-tdh {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 11px;
   color: rgba(255,255,255,0.4);
 }
 
 .tag-delegate {
   background: rgba(100,150,255,0.15);
-  color: #6699ff;
+  color: #c8a84e;
   font-size: 9px;
   padding: 2px 6px;
   border-radius: 3px;
@@ -120,7 +120,7 @@ a:hover { text-decoration: underline; }
 
 /* === BUTTONS === */
 .btn {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 13px;
   letter-spacing: 1px;
@@ -135,15 +135,15 @@ a:hover { text-decoration: underline; }
 }
 
 .btn-connect {
-  background: linear-gradient(135deg, #cc0000, #990000);
+  background: linear-gradient(135deg, #b22222, #8b1a1a);
   color: #fff;
-  box-shadow: 0 2px 8px rgba(204,0,0,0.3);
+  box-shadow: 0 2px 8px rgba(178,34,34,0.3);
 }
 
 .btn-connect:hover { background: linear-gradient(135deg, #e00, #aa0000); text-decoration: none; }
 
 .btn-primary {
-  background: linear-gradient(135deg, #cc0000, #990000);
+  background: linear-gradient(135deg, #b22222, #8b1a1a);
   color: #fff;
 }
 
@@ -195,7 +195,7 @@ a:hover { text-decoration: underline; }
 }
 
 .section-header h2 {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 20px;
   letter-spacing: 2px;
@@ -222,7 +222,7 @@ a:hover { text-decoration: underline; }
 
 .proposal-card:hover {
   background: rgba(255,255,255,0.05);
-  border-color: rgba(204,0,0,0.3);
+  border-color: rgba(178,34,34,0.3);
   text-decoration: none;
 }
 
@@ -234,7 +234,7 @@ a:hover { text-decoration: underline; }
 }
 
 .proposal-action {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 10px;
   letter-spacing: 2px;
@@ -245,9 +245,10 @@ a:hover { text-decoration: underline; }
 
 .action-add { background: rgba(0,102,51,0.3); color: #00cc66; }
 .action-remove { background: rgba(136,0,0,0.3); color: #ff4444; }
+.action-request { background: rgba(100,80,0,0.3); color: #c8a84e; }
 
 .proposal-status {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 10px;
   letter-spacing: 1.5px;
@@ -261,7 +262,7 @@ a:hover { text-decoration: underline; }
 .status-expired { background: rgba(255,170,0,0.15); color: #ffaa00; }
 
 .proposal-wave {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 16px;
   color: #fff;
@@ -282,7 +283,7 @@ a:hover { text-decoration: underline; }
 .proposal-meta {
   display: flex;
   justify-content: space-between;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 11px;
   color: rgba(255,255,255,0.25);
 }
@@ -292,7 +293,7 @@ a:hover { text-decoration: underline; }
   display: inline-block;
   margin-bottom: 20px;
   color: rgba(255,255,255,0.4);
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 13px;
 }
 
@@ -304,7 +305,7 @@ a:hover { text-decoration: underline; }
 }
 
 .proposal-detail-header h2 {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 28px;
   color: #fff;
@@ -326,7 +327,7 @@ a:hover { text-decoration: underline; }
 }
 
 .info-label {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
@@ -336,14 +337,14 @@ a:hover { text-decoration: underline; }
 }
 
 .info-value {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 20px;
   font-weight: 700;
   color: #fff;
 }
 
 .info-sub {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 11px;
   color: rgba(255,255,255,0.25);
   margin-top: 2px;
@@ -376,7 +377,7 @@ a:hover { text-decoration: underline; }
 .tally-header {
   display: flex;
   justify-content: space-between;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 13px;
   color: rgba(255,255,255,0.5);
   margin-bottom: 10px;
@@ -392,7 +393,7 @@ a:hover { text-decoration: underline; }
 
 .tally-fill {
   height: 100%;
-  background: linear-gradient(90deg, #cc0000, #00cc66);
+  background: linear-gradient(90deg, #b22222, #00cc66);
   border-radius: 4px;
   transition: width 0.5s ease;
 }
@@ -400,7 +401,7 @@ a:hover { text-decoration: underline; }
 .tally-detail {
   display: flex;
   justify-content: space-between;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 12px;
 }
 
@@ -418,13 +419,13 @@ a:hover { text-decoration: underline; }
   text-align: center;
   padding: 16px;
   color: rgba(255,255,255,0.3);
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 13px;
   letter-spacing: 1px;
 }
 
 .votes-list h3 {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 14px;
   color: rgba(255,255,255,0.4);
   letter-spacing: 2px;
@@ -441,7 +442,7 @@ a:hover { text-decoration: underline; }
 }
 
 .vote-badge {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 10px;
   letter-spacing: 1px;
@@ -454,13 +455,13 @@ a:hover { text-decoration: underline; }
 
 .vote-handle {
   flex: 1;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 13px;
   color: #fff;
 }
 
 .vote-tdh {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 12px;
   color: rgba(255,255,255,0.3);
 }
@@ -471,7 +472,7 @@ a:hover { text-decoration: underline; }
 }
 
 .create-form h2 {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 24px;
   color: #fff;
@@ -490,7 +491,7 @@ a:hover { text-decoration: underline; }
 
 .form-group label {
   display: block;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 12px;
   letter-spacing: 1.5px;
@@ -506,18 +507,18 @@ a:hover { text-decoration: underline; }
   border-radius: 4px;
   padding: 10px 14px;
   color: #fff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 14px;
   outline: none;
   transition: border-color 0.2s;
 }
 
 .form-group input:focus, .form-group select:focus, .form-group textarea:focus {
-  border-color: rgba(204,0,0,0.5);
+  border-color: rgba(178,34,34,0.5);
 }
 
 .form-group select { cursor: pointer; }
-.form-group select option { background: #0d0d2a; }
+.form-group select option { background: #1a0e08; }
 
 .form-hint {
   font-size: 11px;
@@ -538,7 +539,7 @@ a:hover { text-decoration: underline; }
 }
 
 .form-cost {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 12px;
   color: rgba(255,255,255,0.3);
 }
@@ -561,19 +562,19 @@ a:hover { text-decoration: underline; }
 }
 
 .config-type {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: #cc0000;
-  background: rgba(204,0,0,0.1);
+  color: #b22222;
+  background: rgba(178,34,34,0.1);
   padding: 2px 6px;
   border-radius: 2px;
 }
 
 .config-name {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 13px;
   color: #fff;
 }
@@ -588,7 +589,7 @@ a:hover { text-decoration: underline; }
 }
 
 .config-detail-name {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 16px;
   color: #fff;
@@ -614,7 +615,7 @@ a:hover { text-decoration: underline; }
   text-align: center;
   padding: 60px;
   color: rgba(255,255,255,0.3);
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   letter-spacing: 2px;
 }
 
@@ -632,7 +633,7 @@ a:hover { text-decoration: underline; }
   right: 24px;
   padding: 12px 20px;
   border-radius: 6px;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 13px;
   z-index: 1000;
   animation: toastIn 0.3s ease;
@@ -640,7 +641,7 @@ a:hover { text-decoration: underline; }
 
 .toast-success { background: #006633; color: #fff; }
 .toast-error { background: #880000; color: #fff; }
-.toast-info { background: #003366; color: #fff; }
+.toast-info { background: #2a1a10; color: #fff; }
 
 @keyframes toastIn {
   from { opacity: 0; transform: translateY(10px); }
@@ -657,7 +658,7 @@ a:hover { text-decoration: underline; }
 }
 
 .vote-panel h3 {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 14px;
   letter-spacing: 2px;
@@ -678,7 +679,7 @@ a:hover { text-decoration: underline; }
 }
 
 .tdh-allocator-header label {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 12px;
   letter-spacing: 1.5px;
@@ -687,7 +688,7 @@ a:hover { text-decoration: underline; }
 }
 
 .tdh-allocator-max {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 12px;
   color: rgba(255,255,255,0.3);
 }
@@ -715,16 +716,16 @@ a:hover { text-decoration: underline; }
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  background: linear-gradient(135deg, #cc0000, #990000);
+  background: linear-gradient(135deg, #b22222, #8b1a1a);
   cursor: pointer;
-  box-shadow: 0 2px 6px rgba(204,0,0,0.4);
+  box-shadow: 0 2px 6px rgba(178,34,34,0.4);
 }
 
 .tdh-slider::-moz-range-thumb {
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  background: linear-gradient(135deg, #cc0000, #990000);
+  background: linear-gradient(135deg, #b22222, #8b1a1a);
   cursor: pointer;
   border: none;
 }
@@ -736,14 +737,14 @@ a:hover { text-decoration: underline; }
   border-radius: 4px;
   padding: 8px 12px;
   color: #fff;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 16px;
   text-align: right;
   outline: none;
 }
 
-.tdh-input:focus { border-color: rgba(204,0,0,0.5); }
+.tdh-input:focus { border-color: rgba(178,34,34,0.5); }
 
 .tdh-presets {
   display: flex;
@@ -759,8 +760,8 @@ a:hover { text-decoration: underline; }
 }
 
 .tdh-preset:hover {
-  background: rgba(204,0,0,0.15);
-  border-color: rgba(204,0,0,0.3);
+  background: rgba(178,34,34,0.15);
+  border-color: rgba(178,34,34,0.3);
   color: #fff;
 }
 
@@ -768,7 +769,7 @@ a:hover { text-decoration: underline; }
 .vote-status {
   text-align: center;
   padding: 10px;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 13px;
   letter-spacing: 0.5px;
 }
@@ -777,7 +778,7 @@ a:hover { text-decoration: underline; }
 .status-success { color: #00cc66; }
 .status-success a { color: #44ddaa; margin-left: 6px; }
 .status-error { color: #ff4444; }
-.status-info { color: #6699ff; }
+.status-info { color: #c8a84e; }
 
 /* Disabled buttons */
 .btn:disabled {
@@ -814,7 +815,7 @@ a:hover { text-decoration: underline; }
   height: 96px;
   border-radius: 50%;
   object-fit: cover;
-  border: 3px solid rgba(204,0,0,0.4);
+  border: 3px solid rgba(178,34,34,0.4);
   box-shadow: 0 4px 20px rgba(0,0,0,0.4);
 }
 
@@ -829,7 +830,7 @@ a:hover { text-decoration: underline; }
 .profile-info { flex: 1; }
 
 .profile-name {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 900;
   font-size: 32px;
   color: #fff;
@@ -847,7 +848,7 @@ a:hover { text-decoration: underline; }
 .profile-6529-link {
   display: inline-block;
   margin-top: 8px;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 12px;
   color: rgba(100,150,255,0.6);
   letter-spacing: 1px;
@@ -874,7 +875,7 @@ a:hover { text-decoration: underline; }
 }
 
 .profile-stat-value {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 900;
   font-size: 24px;
   color: #fff;
@@ -882,7 +883,7 @@ a:hover { text-decoration: underline; }
 }
 
 .profile-stat-label {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
@@ -896,7 +897,7 @@ a:hover { text-decoration: underline; }
 }
 
 .profile-section h3 {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 14px;
   letter-spacing: 2px;
@@ -932,9 +933,9 @@ a:hover { text-decoration: underline; }
 }
 
 .tag-primary {
-  background: rgba(204,0,0,0.15);
-  color: #cc0000;
-  font-family: 'Roboto Condensed', sans-serif;
+  background: rgba(178,34,34,0.15);
+  color: #b22222;
+  font-family: 'Teko', sans-serif;
   font-size: 9px;
   font-weight: 700;
   letter-spacing: 1px;
@@ -963,13 +964,13 @@ a:hover { text-decoration: underline; }
 
 .vote-history-wave {
   flex: 1;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 13px;
   color: #fff;
 }
 
 .vote-history-tdh {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-size: 12px;
   color: rgba(255,255,255,0.25);
 }
@@ -978,7 +979,7 @@ a:hover { text-decoration: underline; }
 .alert-banner {
   background: linear-gradient(90deg, #cc2200, #991100);
   color: #fff;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
   font-weight: 700;
   font-size: 13px;
   letter-spacing: 1px;

@@ -77,8 +77,14 @@ def main():
     # Find the closing semicolon after JSON.parse(`...`); or [...];
     search_from = start_idx + len(start_marker)
     # Find the next line that starts with "    let NEWS" (the line after the fallback)
-    end_marker = '\n\n    let NEWS'
+    end_marker = '\n\n  // Headline bar'
     end_idx = html.find(end_marker, search_from)
+    if end_idx == -1:
+        end_marker = '\n\n  let HEADLINE_EXTRAS'
+        end_idx = html.find(end_marker, search_from)
+    if end_idx == -1:
+        end_marker = '\n\n  let NEWS'
+        end_idx = html.find(end_marker, search_from)
     if end_idx == -1:
         print('Could not find end of NEWS_FALLBACK')
         return
