@@ -793,6 +793,10 @@
   function resetAutoplay() { clearInterval(autoTimer); autoTimer = setInterval(() => showCard(currentIndex+1), CARD_DURATION); }
   document.getElementById('navPrev').addEventListener('click', () => { showCard(currentIndex-1); resetAutoplay(); });
   document.getElementById('navNext').addEventListener('click', () => { showCard(currentIndex+1); resetAutoplay(); });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowLeft') { showCard(currentIndex-1); resetAutoplay(); }
+    else if (e.key === 'ArrowRight') { showCard(currentIndex+1); resetAutoplay(); }
+  });
   showCard(0);
   autoTimer = setInterval(() => showCard(currentIndex+1), CARD_DURATION);
   loadDynamicNews();
