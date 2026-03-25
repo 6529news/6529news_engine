@@ -297,7 +297,7 @@ def build_minting_status():
     if days_since == 0:
         # Selection day itself
         cat = 'MINTING TODAY'
-        headline = f"MINTING TODAY - {mint_days[last_selection.weekday()]}"
+        headline = "MINTING TODAY"
         summary = f"A new Meme Card is being minted today!{tdh_desc}"
     elif days_since == 1:
         # Day after selection — still minting

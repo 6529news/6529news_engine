@@ -748,31 +748,46 @@
   buildCards();
 
   let autoTimer = null;
+  let isTransitioning = false;
   function showCard(index) {
-    if (currentIndex >= 0) { const p = document.getElementById(`card-${currentIndex}`); p.classList.remove('active'); p.classList.add('exit'); }
+    if (isTransitioning) return;
+    isTransitioning = true;
+
+    // Remove ALL active/exit classes first to prevent overlaps
+    document.querySelectorAll('.news-card').forEach(c => {
+      c.classList.remove('active', 'exit');
+      c.style.opacity = '0';
+      c.style.pointerEvents = 'none';
+    });
+
     currentIndex = ((index % NEWS.length) + NEWS.length) % NEWS.length;
     const card = document.getElementById(`card-${currentIndex}`);
+
     setTimeout(() => {
-      document.querySelectorAll('.news-card.exit').forEach(c => c.classList.remove('exit'));
+      card.style.opacity = '';
+      card.style.pointerEvents = '';
       card.classList.add('active');
-      // Headline bar: show EXTRA news, not the same as card
+
+      // Update headline
       headlineExtraIdx = (headlineExtraIdx + 1) % HEADLINE_EXTRAS.length;
       const htEl = document.getElementById('headlineText');
       const scrollContainer = htEl.parentElement;
       htEl.classList.remove('scrolling');
       htEl.textContent = HEADLINE_EXTRAS[headlineExtraIdx];
-      // If text overflows, duplicate and scroll
       requestAnimationFrame(() => {
         if (htEl.scrollWidth > scrollContainer.clientWidth) {
           htEl.textContent = HEADLINE_EXTRAS[headlineExtraIdx] + '    \u2022    ' + HEADLINE_EXTRAS[headlineExtraIdx] + '    \u2022    ';
           htEl.classList.add('scrolling');
         }
       });
-      document.getElementById('screenCounter').textContent = `${String(currentIndex+1).padStart(2,'0')}/${String(NEWS.length).padStart(2,'0')}`;
+
+      // Progress bar
       const fill = document.getElementById('progressFill');
       fill.style.transition = 'none'; fill.style.width = '0%';
       requestAnimationFrame(() => { requestAnimationFrame(() => { fill.style.transition = `width ${CARD_DURATION}ms linear`; fill.style.width = '100%'; }); });
-    }, 120);
+
+      isTransitioning = false;
+    }, 150);
   }
   function resetAutoplay() { clearInterval(autoTimer); autoTimer = setInterval(() => showCard(currentIndex+1), CARD_DURATION); }
   document.getElementById('navPrev').addEventListener('click', () => { showCard(currentIndex-1); resetAutoplay(); });
