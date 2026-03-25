@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T13:22:31.402826+00:00",
+  "generated_at": "2026-03-25T15:43:01.603312+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,7 +17,7 @@
     {
       "category": "TOP MEMES",
       "headline": "dangiuz Leads with 99.7M Projected TDH",
-      "summary": "\"Cogito, ergo sum\" by dangiuz (99.7M projected TDH, 81 voters) | \"Credo quia absurdum\" by Guidodisalle (27.5M projected TDH, 112 voters) | \"The Bear Spot\" by nathanabauman (26.4M projected TDH, 77 voters) Next selection in 2h 37m.",
+      "summary": "\"Cogito, ergo sum\" by dangiuz (99.7M projected TDH, 84 voters) | \"Credo quia absurdum\" by Guidodisalle (27.5M projected TDH, 112 voters) | \"The Bear Spot\" by nathanabauman (26.4M projected TDH, 78 voters) Next selection in 0h 17m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -28,7 +28,7 @@
         {
           "label": "dangiuz",
           "value": "99.7M",
-          "sub": "proj. (81 votes)"
+          "sub": "proj. (84 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -38,19 +38,19 @@
         {
           "label": "nathanabauman",
           "value": "26.4M",
-          "sub": "proj. (77 votes)"
+          "sub": "proj. (78 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "21 Memes Submissions This Week",
-      "summary": "21 art submissions this week. Featured: \"All Memes Are Equal\" by Burnasso (433K TDH). Also: gruffishere, iamshivanshsr, Bicasso, Paradigmstories.",
+      "headline": "18 Memes Submissions This Week",
+      "summary": "18 art submissions this week. Featured: \"Engagement Farmer Crossing\" by RegularDad (2.0M TDH). Also: gruffishere, iamshivanshsr, Bicasso, ikertje.",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/026120b8-3779-46f3-948a-26cfba953f22.JPG",
-        "label": "All Memes Are Equal - Burnasso"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/098a6cf4-6edb-42dc-85b7-555eb315ed23.png",
+        "label": "Engagement Farmer Crossing - RegularDad"
       },
       "dataBoxes": null
     },
@@ -84,8 +84,8 @@
     },
     {
       "category": "SR SUBMISSIONS",
-      "headline": "8 SuperRare Submissions This Week",
-      "summary": "8 SuperRare submissions this week. Featured: dorinphotograph (0 TDH). Also: dougfriesen, Danielchideraa, Biolap, miesgraffiti.",
+      "headline": "7 SuperRare Submissions This Week",
+      "summary": "7 SuperRare submissions this week. Featured: dorinphotograph (0 TDH). Also: dougfriesen, Danielchideraa, Biolap, miesgraffiti.",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
@@ -96,20 +96,23 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 0.83 ETH Volume",
-      "summary": "11 sales in 24h for 0.83 ETH. Highest: \"TAP TAP, Who's There?\" at 0.320 ETH.",
+      "headline": "13 Sales Today - 0.88 ETH Volume",
+      "summary": "13 sales in 24h for 0.88 ETH. Highest: \"TAP TAP, Who's There?\" at 0.320 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
-      "image": null,
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33fd426905f149f8376e227d0c9d3340aad17af1/290",
+        "label": "TAP TAP, Who's There? - 0.320 ETH"
+      },
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.83",
+          "value": "0.88",
           "sub": "ETH"
         },
         {
@@ -144,11 +147,11 @@
     },
     {
       "label": "24h Sales",
-      "value": "11 (0.83 ETH)"
+      "value": "13 (0.88 ETH)"
     },
     {
       "label": "7d Sales",
-      "value": "143 (11.98 ETH)"
+      "value": "145 (12.03 ETH)"
     }
   ],
   "headline_extras": [
@@ -156,6 +159,6 @@
     "6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "TOP SALE 24H: \"TAP TAP, Who's There?\" 0.320 ETH",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 8d AGO",
-    "NEW WAVES (4): Eddie's Fire | Ayla's Wave | MiraRuido's Surreal Realm"
+    "NEW WAVES (3): Eddie's Fire | Ayla's Wave | MiraRuido's Surreal Realm"
   ]
 }
