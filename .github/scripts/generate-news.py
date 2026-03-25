@@ -716,19 +716,12 @@ def build_new_submissions():
 
     if not recent: return []
 
-    # Sort by TDH
+    # Sort by TDH — pick the one with most TDH that has a preview
     recent.sort(key=lambda x: x['tdh'], reverse=True)
     count = len(recent)
 
-    # Skip the overall #1 (already shown in TOP MEMES card) — feature the runner-up with image
-    top_author = recent[0]['author'] if recent else None
-    candidates = [s for s in recent if s['author'] != top_author] if len(recent) > 1 else recent
-    # Find best candidate that has an image preview
-    best_with_img = next((s for s in candidates if s.get('img')), None)
-    # If no candidate has image, try from all entries
-    if not best_with_img:
-        best_with_img = next((s for s in recent if s.get('img')), None)
-    best = best_with_img or (candidates[0] if candidates else recent[0])
+    # Find best submission with an image preview (highest TDH first)
+    best = next((s for s in recent if s.get('img')), recent[0])
 
     summary = f'{count} art submission{"s" if count > 1 else ""} this week.'
     summary += f' Featured: "{best["title"]}" by {best["author"]} ({format_tdh(best["tdh"])} TDH).'
