@@ -302,8 +302,9 @@ def build_minting_status():
     elif days_since == 1:
         # Day after selection — still minting
         cat = 'STILL MINTING'
-        headline = "STILL MINTING"
-        summary = f"Current card is still minting.{tdh_desc}"
+        sel_day = mint_days[last_selection.weekday()]
+        headline = f"STILL MINTING - {sel_day}'s Card"
+        summary = f"Yesterday's card is still minting.{tdh_desc}"
     else:
         # 2+ days after — show next drop
         next_day_name = mint_days[next_selection.weekday()]
