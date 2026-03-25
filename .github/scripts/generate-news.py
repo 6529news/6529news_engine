@@ -379,8 +379,10 @@ def build_sales_recap():
         if p_events and p_events.get('asset_events'):
             last_sale_ts = p_events['asset_events'][0].get('event_timestamp')
             if last_sale_ts:
-                from datetime import datetime as dt_cls
-                last_sale_dt = dt_cls.fromisoformat(last_sale_ts.replace('Z', '+00:00'))
+                if isinstance(last_sale_ts, (int, float)):
+                    last_sale_dt = datetime.fromtimestamp(last_sale_ts, tz=timezone.utc)
+                else:
+                    last_sale_dt = datetime.fromisoformat(str(last_sale_ts).replace('Z', '+00:00'))
                 delta = datetime.now(timezone.utc) - last_sale_dt
                 hours_ago = int(delta.total_seconds() // 3600)
                 if hours_ago < 1:
