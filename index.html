@@ -502,17 +502,39 @@
           if (label) knownArtists.add(label);
         }
       }
-      // Extract from "by Author" patterns in summary/headline
-      const byMatch = (item.summary || '').matchAll(/\bby\s+([A-Za-z0-9_]+)/g);
-      for (const m of byMatch) knownArtists.add(m[1]);
-      const byMatch2 = (item.headline || '').matchAll(/\bby\s+([A-Za-z0-9_]+)/g);
-      for (const m of byMatch2) knownArtists.add(m[1]);
-      // Extract "Author Leads" from headline
-      const leadsMatch = (item.headline || '').match(/^([A-Za-z0-9_]+)\s+Leads/);
-      if (leadsMatch) knownArtists.add(leadsMatch[1]);
-      // Extract "Featured: Author" from summary
-      const featMatch = (item.summary || '').match(/Featured:\s*(?:"[^"]*"\s*by\s+)?([A-Za-z0-9_]+)/);
-      if (featMatch) knownArtists.add(featMatch[1]);
+      // Extract from image labels (e.g. "Title - Author")
+      if (item.image?.label) {
+        const imgParts = item.image.label.split(' - ');
+        if (imgParts.length > 1) knownArtists.add(imgParts[imgParts.length - 1].trim());
+      }
+      // Scan summary + headline for all name-like patterns
+      const allText = (item.summary || '') + ' ' + (item.headline || '');
+      // "by Author" pattern
+      for (const m of allText.matchAll(/\bby\s+([A-Za-z0-9_]+)/g)) knownArtists.add(m[1]);
+      // "Author Leads"
+      for (const m of allText.matchAll(/\b([A-Za-z][A-Za-z0-9_]+)\s+Leads/g)) knownArtists.add(m[1]);
+      // "Featured: Author" or "Featured: "title" by Author"
+      for (const m of allText.matchAll(/Featured:\s*(?:"[^"]*"\s*by\s+)?([A-Za-z0-9_]+)/g)) knownArtists.add(m[1]);
+      // "Top supporter: Author"
+      for (const m of allText.matchAll(/Top supporter:\s*([A-Za-z0-9_]+)/g)) knownArtists.add(m[1]);
+      // "Also: Author1, Author2, ..."
+      const alsoMatch = allText.match(/Also:\s*([^.]+)/);
+      if (alsoMatch) {
+        for (const name of alsoMatch[1].split(',')) {
+          const n = name.trim();
+          if (n && /^[A-Za-z][A-Za-z0-9_]*$/.test(n)) knownArtists.add(n);
+        }
+      }
+      // "Author (XXX TDH" pattern — names before TDH values
+      for (const m of allText.matchAll(/\b([A-Za-z][A-Za-z0-9_]+)\s+\(/g)) {
+        if (!['by', 'in', 'of', 'the', 'and', 'for', 'TDH', 'ETH', 'votes', 'voters', 'Memes', 'Highest', 'Featured', 'Also'].includes(m[1])) {
+          knownArtists.add(m[1]);
+        }
+      }
+    }
+    // Remove common words that aren't names
+    for (const w of ['Leads', 'Top', 'Also', 'Featured', 'Card', 'Meme', 'Today', 'Week', 'This', 'Next']) {
+      knownArtists.delete(w);
     }
   }
 

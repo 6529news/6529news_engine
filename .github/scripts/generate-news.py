@@ -318,13 +318,33 @@ def build_minting_status():
         headline = f"Next Drop: {next_day_name} ({next_selection.strftime('%b %d')})"
         summary = f"Next selection in {countdown}.{tdh_desc}"
 
-    return [{
+    cards = [{
         'category': cat,
         'headline': headline,
         'summary': summary,
         'source': 'The Memes', 'link': 'https://6529.io/the-memes',
         'image': image, 'dataBoxes': None
     }]
+
+    # NEXT MINT card: appears on selection day after 16:00 UTC
+    # Selection Mon → mint Wed, Selection Wed → mint Fri, Selection Fri → mint Mon
+    if days_since == 0 and last_selection and now >= last_selection:
+        next_mint_map = {0: 2, 2: 4, 4: 0}  # Mon→Wed, Wed→Fri, Fri→Mon
+        sel_wd = last_selection.weekday()
+        if sel_wd in next_mint_map:
+            target_wd = next_mint_map[sel_wd]
+            days_ahead = (target_wd - sel_wd) % 7
+            if days_ahead == 0: days_ahead = 7  # Fri→Mon = 3 days, but (0-4)%7=3, ok
+            mint_date = (last_selection + timedelta(days=days_ahead)).replace(hour=10, minute=0)
+            cards.append({
+                'category': 'NEXT MINT',
+                'headline': f"Next Mint: {mint_days.get(target_wd, '')} {mint_date.strftime('%b %d')}",
+                'summary': f"The card selected today will be minted on {mint_days.get(target_wd, '')} {mint_date.strftime('%b %d')}.{tdh_desc}",
+                'source': 'The Memes', 'link': 'https://6529.io/the-memes',
+                'image': image, 'dataBoxes': None
+            })
+
+    return cards
 
 
 # =============================================
