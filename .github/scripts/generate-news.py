@@ -600,18 +600,17 @@ def build_punk6529():
 # =============================================
 def build_divebar_hot():
     print("Checking dive bar hot topics...")
-    # Fetch more drops to count messages in last 6h
+    # Paginate fully to count all messages in last 24h
     all_drops = []
     sn = 999999
-    for _ in range(5):
-        page = fetch_json(f'https://api.6529.io/api/drops?wave_id={DIVEBAR_WAVE_ID}&limit=20&serial_no_less_than={sn}')
+    cutoff_ms = datetime.now(timezone.utc).timestamp() * 1000 - 24 * 3600 * 1000
+    for _ in range(50):
+        page = fetch_json(f'https://api.6529.io/api/drops?wave_id={DIVEBAR_WAVE_ID}&limit=50&serial_no_less_than={sn}')
         if not page:
             break
         all_drops += page
         sn = page[-1]['serial_no']
-        # Stop if oldest drop is >24h old
-        oldest_ms = page[-1]['created_at']
-        if (datetime.now(timezone.utc).timestamp() * 1000 - oldest_ms) > 24 * 3600 * 1000:
+        if page[-1]['created_at'] < cutoff_ms:
             break
 
     if not all_drops:
