@@ -184,18 +184,23 @@ def get_minted_card_image(title):
     return None
 
 
-def get_latest_winner():
-    """Get the latest wave decision winner (the card being minted or just minted)."""
-    data = fetch_json(f'https://api.6529.io/api/waves/{MEMES_WAVE_ID}/decisions?page_size=1')
+def get_winners(count=2):
+    """Get the latest N wave decision winners. [0]=most recent, [1]=previous."""
+    data = fetch_json(f'https://api.6529.io/api/waves/{MEMES_WAVE_ID}/decisions?page_size={count}')
     if not data or not data.get('data'):
-        return None
+        return []
+    results = []
+    for dec in data['data'][:count]:
+        results.append(_parse_winner(dec))
+    return [r for r in results if r]
 
-    dec = data['data'][0]
+
+def _parse_winner(dec):
+    """Parse a single decision into winner info."""
     decision_time = datetime.fromtimestamp(dec['decision_time'] / 1000, tz=timezone.utc)
     winners = dec.get('winners', [])
     if not winners:
         return None
-
     drop = winners[0]['drop']
     author = drop.get('author', {}).get('handle', '?')
     title = drop.get('title') or 'Untitled'
@@ -253,24 +258,29 @@ def build_minting_status():
     now = datetime.now(timezone.utc)
     mint_days = {0: 'Monday', 2: 'Wednesday', 4: 'Friday'}
 
-    winner = get_latest_winner()
-    image = winner['image'] if winner else None
-    if winner:
-        print(f"  Latest winner: \"{winner['title']}\" by {winner['author']} ({format_tdh(winner['tdh'])} TDH, {winner['voters']} voters)")
+    # Get last 2 decisions: [0]=most recent selection, [1]=previous (currently minting)
+    winners = get_winners(2)
+    latest = winners[0] if len(winners) > 0 else None   # just selected (NEXT MINT)
+    current = winners[1] if len(winners) > 1 else latest  # currently minting
 
-    # Build TDH description
-    tdh_desc = ''
-    if winner:
-        tdh_desc = f' "{winner["title"]}" by {winner["author"]} — {format_tdh(winner["tdh"])} TDH from {winner["voters"]} voters.'
-        if winner.get('top_supporter'):
-            tdh_desc += f' Top supporter: {winner["top_supporter"]}.'
+    if latest:
+        print(f"  Latest selection: \"{latest['title']}\" by {latest['author']}")
+    if current and current != latest:
+        print(f"  Currently minting: \"{current['title']}\" by {current['author']}")
+
+    # Helper: build TDH description for a winner
+    def tdh_for(w):
+        if not w: return ''
+        desc = f' "{w["title"]}" by {w["author"]} — {format_tdh(w["tdh"])} TDH from {w["voters"]} voters.'
+        if w.get('top_supporter'):
+            desc += f' Top supporter: {w["top_supporter"]}.'
+        return desc
 
     # Mint schedule: selection Mon/Wed/Fri at 16:00 UTC (18:00 CET).
-    # MINTING TODAY: selection day (the day the card is selected and starts minting)
-    # STILL MINTING: the day AFTER selection (card is still being minted)
-    # NEXT DROP: from 2 days after selection until the next selection day
+    # MINTING TODAY = the card from the PREVIOUS selection is being minted now
+    # NEXT MINT = the card from TODAY's selection will be minted in 2 days
 
-    # Find last selection (most recent Mon/Wed/Fri 16:00 UTC that has passed)
+    # Find last selection time
     last_selection = None
     for i in range(7):
         d = now - timedelta(days=i)
@@ -287,61 +297,60 @@ def build_minting_status():
         if d.weekday() in mint_days:
             next_selection = d.replace(hour=16, minute=0, second=0, microsecond=0)
             break
-    # Also check today if before 16:00
     if now.weekday() in mint_days and now.hour < 16:
         next_selection = now.replace(hour=16, minute=0, second=0, microsecond=0)
 
-    # Count calendar days difference (not timedelta.days which is based on hours)
     days_since = (now.date() - last_selection.date()).days if last_selection else 99
 
+    # MINTING TODAY/STILL MINTING uses the PREVIOUS winner (the one actually minting)
+    mint_winner = current
+    mint_image = mint_winner['image'] if mint_winner else None
+    mint_desc = tdh_for(mint_winner)
+
     if days_since == 0:
-        # Selection day itself
         cat = 'MINTING TODAY'
         headline = "MINTING TODAY"
-        summary = f"A new Meme Card is being minted today!{tdh_desc}"
+        summary = f"A new Meme Card is being minted today!{mint_desc}"
     elif days_since == 1:
-        # Day after selection — still minting
         cat = 'STILL MINTING'
         sel_day = mint_days[last_selection.weekday()]
         headline = f"STILL MINTING - {sel_day}'s Card"
-        summary = f"Yesterday's card is still minting.{tdh_desc}"
+        summary = f"Yesterday's card is still minting.{mint_desc}"
     else:
-        # 2+ days after — show next drop
         next_day_name = mint_days[next_selection.weekday()]
         delta = next_selection - now
         hours_left = int(delta.total_seconds() // 3600)
-        if hours_left >= 24:
-            countdown = f'{hours_left // 24}d {hours_left % 24}h'
-        else:
-            countdown = f'{hours_left}h'
+        countdown = f'{hours_left // 24}d {hours_left % 24}h' if hours_left >= 24 else f'{hours_left}h'
         cat = 'NEXT DROP'
         headline = f"Next Drop: {next_day_name} ({next_selection.strftime('%b %d')})"
-        summary = f"Next selection in {countdown}.{tdh_desc}"
+        summary = f"Next selection in {countdown}.{mint_desc}"
 
     cards = [{
         'category': cat,
         'headline': headline,
         'summary': summary,
         'source': 'The Memes', 'link': 'https://6529.io/the-memes',
-        'image': image, 'dataBoxes': None
+        'image': mint_image, 'dataBoxes': None
     }]
 
-    # NEXT MINT card: appears on selection day after 16:00 UTC
-    # Selection Mon → mint Wed, Selection Wed → mint Fri, Selection Fri → mint Mon
-    if days_since == 0 and last_selection and now >= last_selection:
-        next_mint_map = {0: 2, 2: 4, 4: 0}  # Mon→Wed, Wed→Fri, Fri→Mon
+    # NEXT MINT card: shows the LATEST selection (will be minted in 2 days)
+    # Appears on selection day after 16:00 UTC
+    if days_since == 0 and last_selection and now >= last_selection and latest:
+        next_mint_map = {0: 2, 2: 4, 4: 0}
         sel_wd = last_selection.weekday()
         if sel_wd in next_mint_map:
             target_wd = next_mint_map[sel_wd]
             days_ahead = (target_wd - sel_wd) % 7
-            if days_ahead == 0: days_ahead = 7  # Fri→Mon = 3 days, but (0-4)%7=3, ok
+            if days_ahead == 0: days_ahead = 7
             mint_date = (last_selection + timedelta(days=days_ahead)).replace(hour=10, minute=0)
+            next_desc = tdh_for(latest)
+            next_image = latest['image'] if latest else None
             cards.append({
                 'category': 'NEXT MINT',
                 'headline': f"Next Mint: {mint_days.get(target_wd, '')} {mint_date.strftime('%b %d')}",
-                'summary': f"The card selected today will be minted on {mint_days.get(target_wd, '')} {mint_date.strftime('%b %d')}.{tdh_desc}",
+                'summary': f"Selected today, will be minted on {mint_days.get(target_wd, '')} {mint_date.strftime('%b %d')}.{next_desc}",
                 'source': 'The Memes', 'link': 'https://6529.io/the-memes',
-                'image': image, 'dataBoxes': None
+                'image': next_image, 'dataBoxes': None
             })
 
     return cards
@@ -391,7 +400,7 @@ def build_sales_recap():
     # Build image for highest sale using 6529 CDN
     sales_image = None
     if highest['card_id']:
-        img_url = f'https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/{MEMES_CONTRACT}/{highest["card_id"]}'
+        img_url = f'https://d3lqz0a4bldqgf.cloudfront.net/images/original/{MEMES_CONTRACT}/{highest["card_id"]}'
         sales_image = {'url': img_url, 'label': f'{highest["name"]} - {highest["price"]:.3f} ETH'}
 
     news = [{
