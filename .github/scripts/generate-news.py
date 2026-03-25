@@ -265,29 +265,57 @@ def build_minting_status():
         if winner.get('top_supporter'):
             tdh_desc += f' Top supporter: {winner["top_supporter"]}.'
 
-    is_mint_day = now.weekday() in mint_days
+    # Mint schedule: selection Mon/Wed/Fri at 16:00 UTC (18:00 CET).
+    # MINTING TODAY: selection day (the day the card is selected and starts minting)
+    # STILL MINTING: the day AFTER selection (card is still being minted)
+    # NEXT DROP: from 2 days after selection until the next selection day
 
-    if is_mint_day:
-        day_name = mint_days[now.weekday()]
-        if now.hour >= 12:
-            cat = 'STILL MINTING'
-            headline = f"STILL MINTING - {day_name}"
-            summary = f"Today's Meme Card mint is live!{tdh_desc}"
-        else:
-            cat = 'MINTING TODAY'
-            headline = f"MINTING TODAY - {day_name}"
-            summary = f"A new Meme Card is being minted today!{tdh_desc}"
-    else:
-        for i in range(1, 8):
-            d = now + timedelta(days=i)
-            if d.weekday() in mint_days:
-                next_day_name = mint_days[d.weekday()]
-                checkpoint = d - timedelta(days=2)
-                checkpoint = checkpoint.replace(hour=17, minute=0, second=0, microsecond=0)
-                cat = 'NEXT DROP'
-                headline = f"Next Drop: {next_day_name} ({d.strftime('%b %d')})"
-                summary = f"Next drop on {next_day_name}. Checkpoint: {checkpoint.strftime('%a %b %d at %H:%M UTC')}.{tdh_desc}"
+    # Find last selection (most recent Mon/Wed/Fri 16:00 UTC that has passed)
+    last_selection = None
+    for i in range(7):
+        d = now - timedelta(days=i)
+        if d.weekday() in mint_days:
+            sel = d.replace(hour=16, minute=0, second=0, microsecond=0)
+            if sel <= now:
+                last_selection = sel
                 break
+
+    # Find next selection
+    next_selection = None
+    for i in range(1, 8):
+        d = now + timedelta(days=i)
+        if d.weekday() in mint_days:
+            next_selection = d.replace(hour=16, minute=0, second=0, microsecond=0)
+            break
+    # Also check today if before 16:00
+    if now.weekday() in mint_days and now.hour < 16:
+        next_selection = now.replace(hour=16, minute=0, second=0, microsecond=0)
+
+    # Count calendar days difference (not timedelta.days which is based on hours)
+    days_since = (now.date() - last_selection.date()).days if last_selection else 99
+
+    if days_since == 0:
+        # Selection day itself
+        cat = 'MINTING TODAY'
+        headline = f"MINTING TODAY - {mint_days[last_selection.weekday()]}"
+        summary = f"A new Meme Card is being minted today!{tdh_desc}"
+    elif days_since == 1:
+        # Day after selection — still minting
+        cat = 'STILL MINTING'
+        headline = "STILL MINTING"
+        summary = f"Current card is still minting.{tdh_desc}"
+    else:
+        # 2+ days after — show next drop
+        next_day_name = mint_days[next_selection.weekday()]
+        delta = next_selection - now
+        hours_left = int(delta.total_seconds() // 3600)
+        if hours_left >= 24:
+            countdown = f'{hours_left // 24}d {hours_left % 24}h'
+        else:
+            countdown = f'{hours_left}h'
+        cat = 'NEXT DROP'
+        headline = f"Next Drop: {next_day_name} ({next_selection.strftime('%b %d')})"
+        summary = f"Next selection in {countdown}.{tdh_desc}"
 
     return [{
         'category': cat,
@@ -558,22 +586,31 @@ def build_punk6529():
     if not drops: return [], []
 
     now_ms = datetime.now(timezone.utc).timestamp() * 1000
+    one_hour = now_ms - 3600 * 1000
     twenty_four_h = now_ms - 24 * 3600 * 1000
     recent = [d for d in drops if d['created_at'] > twenty_four_h]
+    very_recent = [d for d in drops if d['created_at'] > one_hour]
 
     headline_extra = []
+
+    # Check if active RIGHT NOW (posted in last hour)
+    if very_recent:
+        latest_wave = very_recent[0].get('wave', {}).get('name', 'unknown')
+        headline_extra.append(f"PUNK6529 ACTIVE NOW IN {latest_wave.upper()}")
 
     if not recent:
         # Last seen
         last = drops[0]
         last_dt = datetime.fromtimestamp(last['created_at']/1000, tz=timezone.utc)
         wave_name = last.get('wave', {}).get('name', 'unknown')
-        headline_extra.append(f"6529 LAST SEEN: {wave_name} ({last_dt.strftime('%b %d %H:%M UTC')})")
+        if not very_recent:
+            headline_extra.append(f"6529 LAST SEEN: {wave_name} ({last_dt.strftime('%b %d %H:%M UTC')})")
         return [], headline_extra
 
     if len(recent) < 5:
         print(f"  Only {len(recent)} msgs in 24h (need 5+)")
-        headline_extra.append(f"PUNK6529: {len(recent)} MESSAGES TODAY")
+        if not very_recent:
+            headline_extra.append(f"PUNK6529: {len(recent)} MESSAGES TODAY")
         return [], headline_extra
 
     # Get messages for AI summary

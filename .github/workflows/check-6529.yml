@@ -1,0 +1,78 @@
+name: Check punk6529 Activity
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Check punk6529 and update headlines
+        env:
+          OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
+        run: |
+          python3 -c "
+          import json, sys
+          sys.path.insert(0, '.')
+          import importlib.util
+          spec = importlib.util.spec_from_file_location('gen', '.github/scripts/generate-news.py')
+          gen = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(gen)
+
+          # Load current news
+          with open('data/news-latest.json') as f:
+              data = json.load(f)
+
+          # Check punk6529
+          p6529_news, p6529_headlines = gen.build_punk6529()
+
+          # Update headlines: remove old 6529 entries, add new
+          headlines = [h for h in data.get('headline_extras', []) if '6529' not in h.upper() or 'LAST SEEN' in h.upper()]
+          # Remove old LAST SEEN too if we have new data
+          if p6529_headlines:
+              headlines = [h for h in headlines if 'LAST SEEN' not in h.upper() and 'PUNK6529' not in h.upper()]
+              headlines = p6529_headlines + headlines
+
+          changed = headlines != data.get('headline_extras', [])
+
+          # Update news cards: add/remove 6529 TALKS card
+          news = [n for n in data['news'] if n.get('category') != '6529 TALKS']
+          if p6529_news:
+              # Insert after TOP SUPERRARE or at end
+              insert_at = len(news)
+              for i, n in enumerate(news):
+                  if n.get('category') in ('SR SUBMISSIONS', 'DIVE BAR', 'SALES RECAP'):
+                      insert_at = i
+                      break
+              news.insert(insert_at, p6529_news[0])
+              changed = True
+
+          if changed:
+              data['headline_extras'] = headlines[:10]
+              data['news'] = news
+              with open('data/news-latest.json', 'w') as f:
+                  json.dump(data, f, indent=2)
+              print('Updated punk6529 status')
+          else:
+              print('No changes')
+          "
+
+      - name: Commit if changed
+        run: |
+          git config user.name "6529news"
+          git config user.email "noreply@6529news.xyz"
+          git add data/news-latest.json
+          git diff --staged --quiet || git commit -m "punk6529 check: $(date -u +%H:%M)"
+          git push || echo "Nothing to push"
