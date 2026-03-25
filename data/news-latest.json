@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-03-25T21:19:14.358469+00:00",
+  "generated_at": "2026-03-25T21:27:37.922880+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
       "category": "MINTING TODAY",
       "headline": "MINTING TODAY",
       "summary": "A new Meme Card is being minted today! \"Cogito, ergo sum\" by dangiuz \u2014 99.7M TDH from 83 voters. Top supporter: Poseidon (13.8M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d8defd4-e381-42f7-b387-b9db2852ff7f/392a10e2-c774-4ab4-a1d4-3aed12b1ed27.jpg",
+        "label": "Cogito, ergo sum - dangiuz"
+      },
+      "dataBoxes": null
+    },
+    {
+      "category": "NEXT MINT",
+      "headline": "Next Mint: Friday Mar 27",
+      "summary": "The card selected today will be minted on Friday Mar 27. \"Cogito, ergo sum\" by dangiuz \u2014 99.7M TDH from 83 voters. Top supporter: Poseidon (13.8M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
