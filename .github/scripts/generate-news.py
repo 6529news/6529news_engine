@@ -31,6 +31,8 @@ CONFIG_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..
 
 def fetch_json(url, headers=None):
     req = urllib.request.Request(url)
+    req.add_header('User-Agent', 'Mozilla/5.0 (compatible; 6529News/1.0)')
+    req.add_header('Accept', 'application/json')
     if headers:
         for k, v in headers.items():
             req.add_header(k, v)
