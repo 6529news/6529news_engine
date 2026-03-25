@@ -673,14 +673,18 @@ def build_divebar_hot():
 # 6. NEW SUBMISSIONS (24h, best by TDH)
 # =============================================
 def build_new_submissions():
-    print("Checking new submissions (last 7 days)...")
-    cutoff_ms = int((datetime.now(timezone.utc) - timedelta(days=7)).timestamp() * 1000)
+    # Cutoff: Monday 00:00 UTC of the current week
+    now = datetime.now(timezone.utc)
+    days_since_monday = now.weekday()  # 0=Mon
+    monday = (now - timedelta(days=days_since_monday)).replace(hour=0, minute=0, second=0, microsecond=0)
+    cutoff_ms = int(monday.timestamp() * 1000)
+    print(f"Checking new Memes submissions (since {monday.strftime('%a %b %d')})...")
 
-    # Paginate to cover a full week
+    # Paginate to cover since Monday
     all_drops = []
     sn = 999999
     for _ in range(15):
-        data = fetch_json(f'https://api.6529.io/api/drops?wave_id={MEMES_WAVE_ID}&drop_type=PARTICIPATION&limit=20&serial_no_less_than={sn}')
+        data = fetch_json(f'https://api.6529.io/api/drops?wave_id={MEMES_WAVE_ID}&drop_type=PARTICIPATION&limit=50&serial_no_less_than={sn}')
         if not data: break
         all_drops += data
         sn = data[-1]['serial_no']
@@ -695,12 +699,13 @@ def build_new_submissions():
             media = parts[0].get('media', []) if parts else []
             if not media:
                 continue  # Skip text-only drops — only count actual art submissions
+            # Accept any media on 6529 CDN, or images on other CDNs
             img = None
-            mime = media[0].get('mime_type', '')
             url = media[0].get('url', '')
-            if mime.startswith('image/') and not url.startswith('ipfs://'):
+            mime = media[0].get('mime_type', '')
+            if url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/'):
                 img = url
-            elif url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/'):
+            elif (mime.startswith('image/') or mime.startswith('video/')) and not url.startswith('ipfs://'):
                 img = url
             recent.append({
                 'title': d.get('title') or 'Untitled',
@@ -715,10 +720,14 @@ def build_new_submissions():
     recent.sort(key=lambda x: x['tdh'], reverse=True)
     count = len(recent)
 
-    # Skip the overall #1 (already shown in TOP MEMES card) — feature the runner-up
+    # Skip the overall #1 (already shown in TOP MEMES card) — feature the runner-up with image
     top_author = recent[0]['author'] if recent else None
     candidates = [s for s in recent if s['author'] != top_author] if len(recent) > 1 else recent
+    # Find best candidate that has an image preview
     best_with_img = next((s for s in candidates if s.get('img')), None)
+    # If no candidate has image, try from all entries
+    if not best_with_img:
+        best_with_img = next((s for s in recent if s.get('img')), None)
     best = best_with_img or (candidates[0] if candidates else recent[0])
 
     summary = f'{count} art submission{"s" if count > 1 else ""} this week.'
