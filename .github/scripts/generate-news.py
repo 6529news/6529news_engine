@@ -639,7 +639,7 @@ def build_punk6529():
         last_dt = datetime.fromtimestamp(last['created_at']/1000, tz=timezone.utc)
         wave_name = last.get('wave', {}).get('name', 'unknown')
         if not very_recent:
-            headline_extra.append(f"6529 LAST SEEN: {wave_name} ({last_dt.strftime('%b %d %H:%M UTC')})")
+            headline_extra.append(f"PUNK6529 LAST SEEN: {wave_name} ({last_dt.strftime('%b %d %H:%M UTC')})")
         return [], headline_extra
 
     if len(recent) < 5:
