@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T07:12:47.712803+00:00",
+  "generated_at": "2026-03-26T07:41:31.307520+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -108,8 +108,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 1.48 ETH Volume",
-      "summary": "24 sales in 24h for 1.48 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.369 ETH.",
+      "headline": "24 Sales Today - 1.52 ETH Volume",
+      "summary": "24 sales in 24h for 1.52 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.369 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -124,7 +124,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.48",
+          "value": "1.52",
           "sub": "ETH"
         },
         {
@@ -142,32 +142,28 @@
   ],
   "ticker": [
     {
-      "label": "Memes nathanabauman",
+      "label": "Network TDH",
+      "value": "1439.5M"
+    },
+    {
+      "label": "Full Set Bid",
+      "value": "38.9 ETH"
+    },
+    {
+      "label": "#1 nathanabauman",
       "value": "66.4M TDH"
     },
     {
-      "label": "Memes ikertje",
-      "value": "31.6M TDH"
+      "label": "24h Vol",
+      "value": "1.52 ETH"
     },
     {
-      "label": "Memes Guidodisalle",
-      "value": "31.1M TDH"
-    },
-    {
-      "label": "Memes Floor",
-      "value": "0.014699 ETH"
-    },
-    {
-      "label": "24h Sales",
-      "value": "24 (1.48 ETH)"
-    },
-    {
-      "label": "7d Sales",
-      "value": "151 (12.69 ETH)"
+      "label": "7d Vol",
+      "value": "12.78 ETH"
     }
   ],
   "headline_extras": [
-    "DIVE BAR: 439 MESSAGES IN LAST 24H",
+    "DIVE BAR: 448 MESSAGES IN LAST 24H",
     "6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "TOP SALE 24H: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
     "HIGH SALE: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
