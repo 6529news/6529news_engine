@@ -199,7 +199,9 @@
   /* Cards with data table: zoom the preview a bit (cover) */
   .card-has-data .card-preview img { object-fit: cover; }
 
-  /* Multi-image grid (sales top cards) */
+  /* Multi-image grid (sales, submissions) */
+  .card-multi-preview .card-headline { font-size: clamp(18px, 3vw, 32px); }
+  .card-multi-preview .card-summary { font-size: clamp(13px, 1.6vw, 18px); }
   .card-preview-grid {
     display: flex; gap: 3px; width: 100%;
     max-height: clamp(140px, 32vh, 320px);
@@ -796,14 +798,16 @@
       card.className = 'news-card'; card.id = `card-${i}`;
 
       const hasData = item.dataBoxes && item.dataBoxes.length;
+      const hasGrid = item.images && item.images.length > 1;
       const hasImage = !!item.image;
       const shortText = (item.summary || '').length < 120;
 
       // Layout class: controls how space is distributed
-      if (hasData && hasImage) card.classList.add('card-has-data');
-      if (!hasData && hasImage) card.classList.add('card-no-data');
-      if (!hasData && hasImage && shortText) card.classList.add('card-big-preview');
-      if (!hasImage) card.classList.add('card-no-image');
+      // Grid cards behave like data cards (compact text)
+      if (hasData || hasGrid) card.classList.add('card-has-data');
+      else if (hasImage) card.classList.add('card-no-data');
+      if (!hasData && !hasGrid && hasImage && shortText) card.classList.add('card-big-preview');
+      if (!hasImage && !hasGrid) card.classList.add('card-no-image');
 
       let dataHTML = '';
       if (hasData) {
