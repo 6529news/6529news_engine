@@ -371,9 +371,9 @@ def build_sales_recap():
     vol_24h = stats['intervals'][0].get('volume', 0) if stats.get('intervals') else 0
     sales_24h = stats['intervals'][0].get('sales', 0) if stats.get('intervals') else 0
 
-    highest = {'name': '', 'price': 0, 'card_id': ''}
-    high_sales = []  # Sales > 0.3 ETH
-    sweeps = {}  # card_id -> count (detect sweeps)
+    all_sales = []
+    high_sales = []
+    sweeps = {}
     headline_extras = []
 
     if sales_data and 'asset_events' in sales_data:
@@ -381,14 +381,23 @@ def build_sales_recap():
             price = int(e['payment']['quantity']) / 1e18
             name = e['nft']['name']
             card_id = e['nft']['identifier']
-
-            if price > highest['price']:
-                highest = {'name': name, 'price': price, 'card_id': card_id}
+            all_sales.append({'name': name, 'price': price, 'card_id': card_id})
             if price >= 0.3:
                 high_sales.append(f'"{name}" {price:.3f} ETH')
             sweeps[card_id] = sweeps.get(card_id, 0) + 1
 
-    # Detect sweeps (5+ sales of same card)
+    # Sort by price, take top 3 unique cards
+    all_sales.sort(key=lambda x: x['price'], reverse=True)
+    seen_ids = set()
+    top_sales = []
+    for s in all_sales:
+        if s['card_id'] not in seen_ids:
+            seen_ids.add(s['card_id'])
+            top_sales.append(s)
+        if len(top_sales) >= 3:
+            break
+
+    highest = top_sales[0] if top_sales else {'name': '', 'price': 0, 'card_id': ''}
     sweep_cards = [(cid, cnt) for cid, cnt in sweeps.items() if cnt >= 5]
 
     summary = f'{sales_24h} sales in 24h for {vol_24h:.2f} ETH.'
@@ -397,16 +406,18 @@ def build_sales_recap():
     if sweep_cards:
         summary += f' Sweep detected: {len(sweep_cards)} card(s) with 5+ sales.'
 
-    # Build image for highest sale — fetch from 6529 API for correct URL
-    sales_image = None
-    if highest['card_id']:
-        nft_data = fetch_json(f'https://api.6529.io/api/nfts?contract={MEMES_CONTRACT}&id={highest["card_id"]}')
+    # Build images for top 3 sales
+    sales_images = []
+    for sale in top_sales:
+        nft_data = fetch_json(f'https://api.6529.io/api/nfts?contract={MEMES_CONTRACT}&id={sale["card_id"]}')
         if nft_data:
             nfts = nft_data.get('data', nft_data) if isinstance(nft_data, dict) else nft_data
             if isinstance(nfts, list) and nfts:
-                img_url = nfts[0].get('image') or nfts[0].get('thumbnail')
+                img_url = nfts[0].get('thumbnail') or nfts[0].get('image')
                 if img_url:
-                    sales_image = {'url': img_url, 'label': f'{highest["name"]} - {highest["price"]:.3f} ETH'}
+                    sales_images.append({'url': img_url, 'label': f'{sale["name"]} - {sale["price"]:.3f} ETH'})
+
+    sales_image = sales_images[0] if sales_images else None
 
     news = [{
         'category': 'SALES RECAP',
@@ -414,6 +425,7 @@ def build_sales_recap():
         'summary': summary,
         'source': 'OpenSea', 'link': 'https://opensea.io/collection/thememes6529',
         'image': sales_image,
+        'images': sales_images,  # top 3 for grid display
         'dataBoxes': [
             {'label': 'Sales 24h', 'value': str(sales_24h), 'sub': ''},
             {'label': 'Volume 24h', 'value': f'{vol_24h:.2f}', 'sub': 'ETH'},

@@ -199,6 +199,26 @@
   /* Cards with data table: zoom the preview a bit (cover) */
   .card-has-data .card-preview img { object-fit: cover; }
 
+  /* Multi-image grid (sales top cards) */
+  .card-preview-grid {
+    display: flex; gap: 3px; width: 100%;
+    max-height: clamp(140px, 32vh, 320px);
+    margin-bottom: clamp(8px, 1.2vh, 14px); opacity: 0;
+  }
+  .news-card.active .card-preview-grid { animation: fadeIn 0.4s 0.15s ease-out forwards; }
+  .card-preview-tile {
+    flex: 1; min-width: 0; overflow: hidden; position: relative;
+    border: 1px solid var(--c-gold-08); background: rgba(0,0,0,0.25);
+  }
+  .card-preview-tile:first-child { border-radius: 4px 0 0 4px; }
+  .card-preview-tile:last-child  { border-radius: 0 4px 4px 0; }
+  .card-preview-tile img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .card-preview-tile .card-preview-label {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    background: linear-gradient(transparent, rgba(0,0,0,0.85));
+    padding: 12px 6px 4px; font-size: clamp(8px, 1vw, 11px);
+  }
+
   /* No image: headline and summary get bigger */
   .card-no-image .card-headline { font-size: clamp(26px, 4.5vw, 50px); margin-bottom: clamp(10px, 2vh, 18px); }
   .card-no-image .card-summary { font-size: clamp(17px, 2.5vw, 26px); line-height: 1.5; }
@@ -772,7 +792,13 @@
         ).join('') + '</div>';
       }
       let imageHTML = '';
-      if (hasImage) {
+      if (item.images && item.images.length > 1) {
+        // Grid of multiple images (sales cards)
+        imageHTML = '<div class="card-preview-grid">' + item.images.map(img =>
+          `<div class="card-preview-tile"><img src="${img.url}" alt="${img.label || ''}"><div class="card-preview-label">${img.label || ''}</div></div>`
+        ).join('') + '</div>';
+        card.classList.add('card-multi-preview');
+      } else if (hasImage) {
         imageHTML = `<div class="card-preview"><img src="${item.image.url}" alt="${item.image.label || ''}"><div class="card-preview-label">${item.image.label || ''}</div></div>`;
       }
       const linkHTML = item.link ? `<a href="${item.link}" target="_blank" class="source-link">View</a>` : '';
