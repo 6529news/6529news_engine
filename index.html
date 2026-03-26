@@ -328,34 +328,53 @@
      MOBILE
      ============================================= */
   @media (max-width: 600px) {
-    :root { --topbar-h: 48px; --bar-h: 36px; --label-w: 52px; --pad-page: 10px; }
-    .logo-num, .logo-news { font-size: 20px; }
-    .gov-btn, .tool-btn { font-size: 10px; padding: 2px 6px; letter-spacing: 1px; }
+    /* Override layout sizes directly (not via vars for mobile compat) */
+    .top-bar { height: 46px; padding: 0 8px; }
+    .news-area { top: 46px; bottom: 74px; padding: 0 10px; }
+    .news-card { padding: 10px 10px 6px; }
+    .headline-bar { bottom: 34px; height: 34px; }
+    .headline-content { padding: 0 8px; }
+    .progress-bar { bottom: 34px; }
+    .ticker-bar { height: 34px; }
+    .headline-label, .ticker-label { font-size: 10px; width: 48px; letter-spacing: 1px; padding-top: 1px; }
+
+    .logo-num, .logo-news { font-size: 18px; }
+    .gov-btn, .tool-btn { font-size: 9px; padding: 2px 5px; letter-spacing: 1px; }
     .date-display { display: none; }
-    .live-text { font-size: 12px; letter-spacing: 2px; } .clock { font-size: 10px; }
+    .live-text { font-size: 11px; letter-spacing: 2px; } .clock { font-size: 9px; }
     .live-dot { width: 6px; height: 6px; }
 
-    .card-headline { font-size: 16px; } .card-summary { font-size: 12px; }
-    .card-cat { font-size: 11px; padding: 3px 8px 2px; }
-    .card-preview, .card-preview img { max-height: 25vh; }
-    .card-no-data .card-preview, .card-no-data .card-preview img { max-height: 32vh; }
-    .card-big-preview .card-preview, .card-big-preview .card-preview img { max-height: 38vh; }
+    .card-cat-bar { margin-bottom: 8px; gap: 8px; }
+    .card-cat { font-size: 10px; padding: 3px 8px 2px; }
+    .card-headline { font-size: 16px; margin-bottom: 4px; }
+    .card-divider { margin-bottom: 6px; }
+    .card-summary { font-size: 12px; line-height: 1.35; }
+    .card-preview, .card-preview img { max-height: 22vh; }
+    .card-preview { margin-bottom: 6px; }
+    .card-preview-label { font-size: 8px; padding: 10px 8px 4px; }
+
+    /* Adaptive mobile variants */
+    .card-no-data .card-preview, .card-no-data .card-preview img { max-height: 30vh; }
+    .card-big-preview .card-preview, .card-big-preview .card-preview img { max-height: 36vh; }
     .card-no-image .card-headline { font-size: 18px; }
-    .card-no-image .card-summary { font-size: 14px; }
-    .data-box { padding: 5px 3px; } .data-label { font-size: 7px; } .data-value { font-size: 15px; } .data-sub { font-size: 7px; }
+    .card-no-image .card-summary { font-size: 14px; line-height: 1.4; }
 
-    .headline-label, .ticker-label { font-size: 11px; letter-spacing: 1px; }
-    .headline-text { font-size: 10px; }
-    .nav-btn { width: 28px; height: 28px; font-size: 12px; border-radius: 4px; }
+    .data-box { padding: 5px 3px; }
+    .data-label { font-size: 7px; letter-spacing: 1px; } .data-value { font-size: 14px; } .data-sub { font-size: 6px; }
+    .card-data { gap: 2px; padding-top: 6px; }
+    .card-source { padding-top: 4px; }
+    .source-text, .source-link { font-size: 8px; }
 
-    .ticker-bar { min-height: 36px; }
-    .ticker-item { padding: 0 8px; }
-    .ticker-item-label { font-size: 9px; } .ticker-item-value { font-size: 10px; }
-    .ticker-separator { font-size: 8px; }
+    .headline-text { font-size: 9px; }
+    .nav-btn { width: 26px; height: 26px; font-size: 11px; border-radius: 3px; }
+    .nav-arrows { gap: 2px; margin-left: 4px; }
 
-    .source-text, .source-link { font-size: 9px; }
-    .intro-6529, .intro-news-text { font-size: 36px; }
-    .intro-subtitle { font-size: 9px; letter-spacing: 3px; }
+    .ticker-item { padding: 0 6px; gap: 4px; }
+    .ticker-item-label { font-size: 8px; } .ticker-item-value { font-size: 9px; }
+    .ticker-separator { font-size: 7px; padding: 0 2px; }
+
+    .intro-6529, .intro-news-text { font-size: 34px; }
+    .intro-subtitle { font-size: 8px; letter-spacing: 3px; }
   }
 
   /* =============================================
