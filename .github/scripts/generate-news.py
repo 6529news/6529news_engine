@@ -859,7 +859,7 @@ def build_new_submissions():
 
     image = top_images[0] if top_images else None
 
-    print(f"  {count} submissions, best: {best['author']} ({format_tdh(best['tdh'])})")
+    print(f"  {count} submissions, top: {recent[0]['author']} ({format_tdh(recent[0]['tdh'])})")
     return [{
         'category': 'NEW MEMES SUBMISSIONS',
         'headline': f'{count} Memes Submission{"s" if count > 1 else ""} This Week',
