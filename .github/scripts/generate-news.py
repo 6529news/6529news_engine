@@ -867,9 +867,9 @@ def build_new_submissions():
     recent.sort(key=lambda x: x['tdh'], reverse=True)
     count = len(recent)
 
-    # Top 6 with any preview (image or html)
-    with_preview = [s for s in recent if s.get('img')]
-    top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})', 'type': s.get('img_type', 'image')} for s in with_preview[:6]]
+    # Top 3 with displayable images only (no HTML — too heavy for grid)
+    with_img = [s for s in recent if s.get('img') and s.get('img_type') != 'html']
+    top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})'} for s in with_img[:3]]
 
     # Summary: ranked list by TDH (top 8)
     ranked = [f'{s["author"]} ({format_tdh(s["tdh"])})' for s in recent[:8]]

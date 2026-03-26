@@ -206,25 +206,18 @@
   .card-multi-preview .card-headline { font-size: clamp(16px, 2.5vw, 28px); }
   .card-multi-preview .card-summary { font-size: clamp(12px, 1.4vw, 16px); }
   .card-preview-grid {
-    display: grid; gap: 3px; width: 100%;
-    grid-template-columns: repeat(3, 1fr);
-    max-height: clamp(200px, 50vh, 500px);
+    display: flex; gap: 3px; width: 100%;
+    max-height: clamp(140px, 30vh, 300px);
     margin-bottom: clamp(6px, 1vh, 12px); opacity: 0;
   }
   .news-card.active .card-preview-grid { animation: fadeIn 0.4s 0.15s ease-out forwards; }
-  /* 3 items = 1 row, 4-6 items = 2 rows */
-  .card-preview-grid.grid-2row { grid-template-rows: 1fr 1fr; }
   .card-preview-tile {
-    overflow: hidden; position: relative; min-height: 0;
-    border: 1px solid var(--c-gold-08); background: rgba(0,0,0,0.25);
-    border-radius: 3px;
+    flex: 1; min-width: 0; overflow: hidden; position: relative;
+    border: 1px solid var(--c-gold-08); background: rgba(0,0,0,0.25); border-radius: 3px;
   }
+  .card-preview-tile:first-child { border-radius: 4px 0 0 4px; }
+  .card-preview-tile:last-child  { border-radius: 0 4px 4px 0; }
   .card-preview-tile img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .tile-is-html { background: linear-gradient(135deg, var(--c-bg-3), var(--c-bg-2)); }
-  .tile-html { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; height: 100%; gap: 4px; }
-  .tile-html-icon { font-size: clamp(20px, 3vw, 36px); color: var(--c-gold); opacity: 0.6; }
-  .tile-html-name { font-family: var(--f-display); font-size: clamp(11px, 1.4vw, 16px); color: var(--c-text); letter-spacing: 1px; }
-  .tile-html-sub { font-family: var(--f-body); font-size: clamp(7px, 0.8vw, 10px); color: var(--c-gold-60); text-transform: uppercase; letter-spacing: 2px; }
   .card-preview-tile .card-preview-label {
     position: absolute; bottom: 0; left: 0; right: 0;
     background: linear-gradient(transparent, rgba(0,0,0,0.85));
@@ -894,14 +887,9 @@
       }
       let imageHTML = '';
       if (item.images && item.images.length > 1) {
-        const gridClass = item.images.length > 3 ? 'card-preview-grid grid-2row' : 'card-preview-grid';
-        imageHTML = `<div class="${gridClass}">` + item.images.map(img => {
-          const isHtml = img.type === 'html';
-          const content = isHtml
-            ? `<div class="tile-html"><span class="tile-html-icon">&#9671;</span><span class="tile-html-name">${(img.label || '').split(' (')[0]}</span><span class="tile-html-sub">Interactive</span></div>`
-            : `<img src="${img.url}" alt="${img.label || ''}" loading="lazy">`;
-          return `<div class="card-preview-tile${isHtml ? ' tile-is-html' : ''}">${content}<div class="card-preview-label">${img.label || ''}</div></div>`;
-        }).join('') + '</div>';
+        imageHTML = '<div class="card-preview-grid">' + item.images.map(img =>
+          `<div class="card-preview-tile"><img src="${img.url}" alt="${img.label || ''}" loading="lazy"><div class="card-preview-label">${img.label || ''}</div></div>`
+        ).join('') + '</div>';
         card.classList.add('card-multi-preview');
       } else if (hasImage) {
         imageHTML = `<div class="card-preview"><img src="${item.image.url}" alt="${item.image.label || ''}"><div class="card-preview-label">${item.image.label || ''}</div></div>`;
