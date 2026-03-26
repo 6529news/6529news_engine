@@ -45,7 +45,7 @@ def news_to_js(news_items):
     cards = []
     for item in news_items:
         parts = []
-        for key in ['category', 'headline', 'summary', 'source', 'link', 'image', 'dataBoxes']:
+        for key in ['category', 'headline', 'summary', 'source', 'link', 'image', 'images', 'dataBoxes']:
             parts.append(f'        {key}: {val_to_js(item.get(key), 8)}')
         cards.append('      {\n' + ',\n'.join(parts) + '\n      }')
     return '[\n' + ',\n'.join(cards) + '\n    ]'
