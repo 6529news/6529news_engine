@@ -373,62 +373,70 @@
 
     /* --- News area: fills all available space --- */
     .news-area { position: relative; top: auto; bottom: auto; flex: 1; min-height: 0; padding: 0 12px; overflow: hidden; }
-    .news-card { position: absolute; inset: 0; padding: 10px 12px 6px; }
+    .news-card { position: absolute; inset: 0; padding: 8px 12px 4px; }
+    .news-card .card-body { justify-content: flex-start; }
+    .card-data { margin-top: 6px !important; }
+    .card-has-data .card-source { margin-top: auto; }
 
     /* --- Category tag --- */
-    .card-cat-bar { margin-bottom: 6px; gap: 6px; }
-    .card-cat { font-size: 9px; padding: 3px 8px 2px; }
+    .card-cat-bar { margin-bottom: 5px; gap: 5px; }
+    .card-cat { font-size: 8px; padding: 3px 7px 2px; }
 
-    /* --- Images: big on mobile --- */
-    .card-preview, .card-preview img { max-height: 30vh; max-height: 30dvh; }
-    .card-preview { margin-bottom: 6px; }
-    .card-preview-label { font-size: 8px; padding: 8px 6px 3px; }
-    .card-preview-grid { max-height: 26vh; max-height: 26dvh; }
-    .card-preview-tile .card-preview-label { font-size: 7px; }
+    /* --- Images: force minimum height so they fill space --- */
+    .card-preview { min-height: 20vh; max-height: 32vh; max-height: 32dvh; margin-bottom: 4px; }
+    .card-preview img { width: 100%; height: 100%; max-height: 32vh; max-height: 32dvh; }
+    .card-preview-label { font-size: 7px; padding: 6px 5px 2px; }
+    .card-preview-grid { min-height: 18vh; max-height: 30vh; max-height: 30dvh; }
+    .card-preview-tile { min-height: 16vh; }
+    .card-preview-tile .card-preview-label { font-size: 6px; }
 
-    /* Adaptive: bigger when no data table */
-    .card-no-data .card-preview, .card-no-data .card-preview img { max-height: 38vh; max-height: 38dvh; }
-    .card-big-preview .card-preview, .card-big-preview .card-preview img { max-height: 42vh; max-height: 42dvh; }
-    .card-no-image .card-headline { font-size: 16px; }
-    .card-no-image .card-summary { font-size: 12px; line-height: 1.4; }
-    .card-multi-preview .card-headline { font-size: 12px; }
-    .card-multi-preview .card-summary { font-size: 10px; }
+    /* Adaptive */
+    .card-no-data .card-preview { min-height: 28vh; max-height: 40vh; max-height: 40dvh; }
+    .card-no-data .card-preview img { max-height: 40vh; max-height: 40dvh; }
+    .card-big-preview .card-preview { min-height: 32vh; max-height: 45vh; max-height: 45dvh; }
+    .card-big-preview .card-preview img { max-height: 45vh; max-height: 45dvh; }
+    .card-no-image .card-headline { font-size: 14px; }
+    .card-no-image .card-summary { font-size: 11px; line-height: 1.35; }
+    .card-multi-preview .card-headline { font-size: 11px; }
+    .card-multi-preview .card-summary { font-size: 9px; -webkit-line-clamp: 6; }
+    .card-multi-preview .card-preview-grid { min-height: 22vh; max-height: 32vh; max-height: 32dvh; }
+    .card-multi-preview .card-preview-tile { min-height: 20vh; }
 
-    /* --- Text: SMALLER on mobile (less dominant) --- */
-    .card-headline { font-size: 13px; margin-bottom: 3px; }
-    .card-divider { margin-bottom: 4px; }
-    .card-summary { font-size: 10px; line-height: 1.3; }
+    /* --- Text: compact, no overflow --- */
+    .card-headline { font-size: 12px; margin-bottom: 2px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+    .card-divider { margin-bottom: 3px; }
+    .card-summary { font-size: 9px; line-height: 1.25; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; }
 
     /* --- Data boxes --- */
-    .card-data { gap: 2px; padding-top: 5px; }
-    .data-box { padding: 4px 2px; }
-    .data-label { font-size: 7px; letter-spacing: 1px; }
-    .data-value { font-size: 13px; }
-    .data-sub { font-size: 6px; }
+    .card-data { gap: 2px; padding-top: 4px; }
+    .data-box { padding: 3px 2px; }
+    .data-label { font-size: 6px; letter-spacing: 0.5px; }
+    .data-value { font-size: 12px; }
+    .data-sub { font-size: 5px; }
 
     /* --- Source --- */
-    .card-source { padding-top: 3px; }
-    .source-text, .source-link { font-size: 8px; }
+    .card-source { padding-top: 2px; }
+    .source-text, .source-link { font-size: 7px; }
 
     /* --- Progress bar --- */
     .progress-bar { position: relative; bottom: auto; height: 2px; flex-shrink: 0; }
 
-    /* --- Bottom bars: BIGGER labels, BIGGER text --- */
-    .headline-bar { position: relative; bottom: auto; height: 44px; flex-shrink: 0; }
+    /* --- Bottom bars: centered text with padding-bottom to offset Teko baseline --- */
+    .headline-bar { position: relative; bottom: auto; height: 40px; flex-shrink: 0; }
     .headline-label, .ticker-label {
-      font-size: 14px; width: 56px; letter-spacing: 2px;
-      padding: 0; display: flex; align-items: center; justify-content: center;
+      font-size: 12px; width: 50px; letter-spacing: 1px;
+      padding-bottom: 2px; display: flex; align-items: center; justify-content: center;
     }
-    .headline-content { padding: 0 8px; }
-    .headline-text { font-size: 12px; }
-    .nav-btn { width: 30px; height: 30px; font-size: 12px; border-radius: 3px; }
-    .nav-arrows { gap: 2px; margin-left: 4px; }
+    .headline-content { padding: 0 6px; }
+    .headline-text { font-size: 11px; }
+    .nav-btn { width: 28px; height: 28px; font-size: 11px; border-radius: 3px; }
+    .nav-arrows { gap: 2px; margin-left: 3px; }
 
-    .ticker-bar { position: relative; bottom: auto; height: 44px; flex-shrink: 0; border-top: none; }
-    .ticker-item { padding: 0 8px; gap: 4px; }
-    .ticker-item-label { font-size: 11px; }
-    .ticker-item-value { font-size: 12px; }
-    .ticker-separator { font-size: 8px; padding: 0 2px; }
+    .ticker-bar { position: relative; bottom: auto; height: 40px; flex-shrink: 0; border-top: none; }
+    .ticker-item { padding: 0 6px; gap: 3px; }
+    .ticker-item-label { font-size: 10px; }
+    .ticker-item-value { font-size: 11px; }
+    .ticker-separator { font-size: 7px; padding: 0 1px; }
 
     /* --- Intro --- */
     .intro-6529, .intro-news-text { font-size: 32px; }
