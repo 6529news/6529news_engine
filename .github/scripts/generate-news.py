@@ -863,21 +863,27 @@ def build_new_submissions():
 
     if not recent: return []
 
-    # Sort by TDH descending — this IS the ranking
+    # Deduplicate by author — keep highest TDH per author
     recent.sort(key=lambda x: x['tdh'], reverse=True)
-    count = len(recent)
+    seen_authors = set()
+    unique = []
+    for s in recent:
+        if s['author'] not in seen_authors:
+            seen_authors.add(s['author'])
+            unique.append(s)
+    count = len(unique)
 
-    # Top 3 with displayable images only (no HTML — too heavy for grid)
-    with_img = [s for s in recent if s.get('img')]
+    # Top 3 images (only real images, already filtered for size < 5MB)
+    with_img = [s for s in unique if s.get('img')]
     top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})'} for s in with_img[:3]]
 
-    # Summary: ranked list by TDH (top 8)
-    ranked = [f'{s["author"]} ({format_tdh(s["tdh"])})' for s in recent[:8]]
-    summary = f'{count} submissions this week. Ranking: {" | ".join(ranked)}.'
+    # Summary: ranked unique artists by TDH
+    ranked = [f'{s["author"]} ({format_tdh(s["tdh"])})' for s in unique if s['tdh'] > 0][:8]
+    summary = f'{count} submissions this week. Ranking: {" | ".join(ranked)}.' if ranked else f'{count} submissions this week.'
 
     image = top_images[0] if top_images else None
 
-    print(f"  {count} submissions, top: {recent[0]['author']} ({format_tdh(recent[0]['tdh'])})")
+    print(f"  {count} unique artists, top: {unique[0]['author']} ({format_tdh(unique[0]['tdh'])})")
     return [{
         'category': 'NEW MEMES SUBMISSIONS',
         'headline': f'{count} Memes Submission{"s" if count > 1 else ""} This Week',
