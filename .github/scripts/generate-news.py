@@ -397,11 +397,16 @@ def build_sales_recap():
     if sweep_cards:
         summary += f' Sweep detected: {len(sweep_cards)} card(s) with 5+ sales.'
 
-    # Build image for highest sale using 6529 CDN
+    # Build image for highest sale — fetch from 6529 API for correct URL
     sales_image = None
     if highest['card_id']:
-        img_url = f'https://d3lqz0a4bldqgf.cloudfront.net/images/original/{MEMES_CONTRACT}/{highest["card_id"]}'
-        sales_image = {'url': img_url, 'label': f'{highest["name"]} - {highest["price"]:.3f} ETH'}
+        nft_data = fetch_json(f'https://api.6529.io/api/nfts?contract={MEMES_CONTRACT}&id={highest["card_id"]}')
+        if nft_data:
+            nfts = nft_data.get('data', nft_data) if isinstance(nft_data, dict) else nft_data
+            if isinstance(nfts, list) and nfts:
+                img_url = nfts[0].get('image') or nfts[0].get('thumbnail')
+                if img_url:
+                    sales_image = {'url': img_url, 'label': f'{highest["name"]} - {highest["price"]:.3f} ETH'}
 
     news = [{
         'category': 'SALES RECAP',
