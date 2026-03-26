@@ -532,18 +532,14 @@ def build_sr_submissions():
     recent.sort(key=lambda x: x['tdh'], reverse=True)
     count = len(recent)
 
-    # Top 3 with images (by TDH)
+    # Best with image (by TDH)
     with_img = [s for s in recent if s.get('img')]
-    top_images = [{'url': s['img'], 'label': s['author']} for s in with_img[:3]]
     best = with_img[0] if with_img else recent[0]
+    image = {'url': best['img'], 'label': best['author']} if best.get('img') else None
 
-    summary = f'{count} SuperRare submission{"s" if count > 1 else ""} this week.'
-    summary += f' Featured: {best["author"]} ({format_tdh(best["tdh"])} TDH).'
-    others = list(dict.fromkeys(s['author'] for s in recent if s['author'] != best['author']))[:4]
-    if others:
-        summary += f' Also: {", ".join(others)}.'
-
-    image = top_images[0] if top_images else None
+    # Summary: just artist names, no TDH
+    artists = list(dict.fromkeys(s['author'] for s in recent))
+    summary = f'{count} SuperRare submission{"s" if count > 1 else ""} this week: {", ".join(artists[:6])}.'
 
     print(f"  {count} submissions, featured: {best['author']} ({format_tdh(best['tdh'])})")
     return [{
