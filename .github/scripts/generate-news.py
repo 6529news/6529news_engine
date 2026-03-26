@@ -826,14 +826,15 @@ def build_new_submissions():
             parts = d.get('parts') or []
             media = parts[0].get('media', []) if parts else []
             if not media:
-                continue  # Skip text-only drops — only count actual art submissions
-            # Accept any media on 6529 CDN, or images on other CDNs
+                continue  # Skip text-only drops (no media at all)
+            # Accept ANY media type (image, video, html) — it's a real submission
             img = None
             url = media[0].get('url', '')
             mime = media[0].get('mime_type', '')
-            if url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/'):
+            # Preview image: only if it's a displayable image on CDN
+            if url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/') and not mime.startswith('text/'):
                 img = url
-            elif (mime.startswith('image/') or mime.startswith('video/')) and not url.startswith('ipfs://'):
+            elif mime.startswith('image/') and not url.startswith('ipfs://'):
                 img = url
             recent.append({
                 'title': d.get('title') or 'Untitled',
@@ -844,20 +845,17 @@ def build_new_submissions():
 
     if not recent: return []
 
-    # Sort by TDH — pick the one with most TDH that has a preview
+    # Sort by TDH descending — this IS the ranking
     recent.sort(key=lambda x: x['tdh'], reverse=True)
     count = len(recent)
 
-    # Top 3 with images (by TDH)
+    # Top 3 with displayable images
     with_img = [s for s in recent if s.get('img')]
     top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})'} for s in with_img[:3]]
-    best = with_img[0] if with_img else recent[0]
 
-    summary = f'{count} art submission{"s" if count > 1 else ""} this week.'
-    summary += f' Featured: "{best["title"]}" by {best["author"]} ({format_tdh(best["tdh"])} TDH).'
-    others = list(dict.fromkeys(s['author'] for s in recent if s['author'] != best['author']))[:4]
-    if others:
-        summary += f' Also: {", ".join(others)}.'
+    # Summary: ranked list by TDH (top 6)
+    ranked = [f'{s["author"]} ({format_tdh(s["tdh"])})' for s in recent[:6]]
+    summary = f'{count} submissions this week. Ranking: {" | ".join(ranked)}.'
 
     image = top_images[0] if top_images else None
 
