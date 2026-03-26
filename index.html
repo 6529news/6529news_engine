@@ -563,65 +563,47 @@
   }, 2500);
 
   // Known artist names extracted from news data — rebuilt on each load
-  let knownArtists = new Set();
+  // Artist name highlighting — single combined regex for performance
+  let artistRegex = null;
   function buildArtistList() {
-    knownArtists.clear();
+    const names = new Set();
+    const skip = new Set(['Leads','Top','Also','Featured','Card','Meme','Today','Week','This','Next','Ranking','submissions','submission','art']);
     for (const item of NEWS) {
-      // Extract from dataBoxes labels
       if (item.dataBoxes) {
         for (const d of item.dataBoxes) {
           const label = (d.label || '').replace(/^#\d+\s*/, '').trim();
-          if (label) knownArtists.add(label);
+          if (label && label.length >= 3) names.add(label);
         }
       }
-      // Extract from image labels (e.g. "Title - Author")
       if (item.image?.label) {
-        const imgParts = item.image.label.split(' - ');
-        if (imgParts.length > 1) knownArtists.add(imgParts[imgParts.length - 1].trim());
+        const p = item.image.label.split(' - ');
+        if (p.length > 1) { const n = p[p.length-1].trim().split(' (')[0]; if (n.length >= 3) names.add(n); }
       }
-      // Scan summary + headline for all name-like patterns
       const allText = (item.summary || '') + ' ' + (item.headline || '');
-      // "by Author" pattern
-      for (const m of allText.matchAll(/\bby\s+([A-Za-z0-9_]+)/g)) knownArtists.add(m[1]);
-      // "Author Leads"
-      for (const m of allText.matchAll(/\b([A-Za-z][A-Za-z0-9_]+)\s+Leads/g)) knownArtists.add(m[1]);
-      // "Featured: Author" or "Featured: "title" by Author"
-      for (const m of allText.matchAll(/Featured:\s*(?:"[^"]*"\s*by\s+)?([A-Za-z0-9_]+)/g)) knownArtists.add(m[1]);
-      // "Top supporter: Author"
-      for (const m of allText.matchAll(/Top supporter:\s*([A-Za-z0-9_]+)/g)) knownArtists.add(m[1]);
-      // "Also: Author1, Author2, ..."
-      const alsoMatch = allText.match(/Also:\s*([^.]+)/);
-      if (alsoMatch) {
-        for (const name of alsoMatch[1].split(',')) {
-          const n = name.trim();
-          if (n && /^[A-Za-z][A-Za-z0-9_]*$/.test(n)) knownArtists.add(n);
-        }
-      }
-      // "Author (XXX TDH" pattern — names before TDH values
-      for (const m of allText.matchAll(/\b([A-Za-z][A-Za-z0-9_]+)\s+\(/g)) {
-        if (!['by', 'in', 'of', 'the', 'and', 'for', 'TDH', 'ETH', 'votes', 'voters', 'Memes', 'Highest', 'Featured', 'Also'].includes(m[1])) {
-          knownArtists.add(m[1]);
-        }
+      for (const m of allText.matchAll(/\bby\s+([A-Za-z0-9_]{3,})/g)) names.add(m[1]);
+      for (const m of allText.matchAll(/Top supporter:\s*([A-Za-z0-9_]{3,})/g)) names.add(m[1]);
+      for (const m of allText.matchAll(/\b([A-Za-z][A-Za-z0-9_]{2,})\s+\(/g)) names.add(m[1]);
+      for (const m of allText.matchAll(/\b([A-Za-z][A-Za-z0-9_]{2,})\s+Leads/g)) names.add(m[1]);
+      if (item.images) for (const img of item.images) {
+        const n = (img.label || '').split(' (')[0].trim();
+        if (n.length >= 3) names.add(n);
       }
     }
-    // Remove common words that aren't names
-    for (const w of ['Leads', 'Top', 'Also', 'Featured', 'Card', 'Meme', 'Today', 'Week', 'This', 'Next']) {
-      knownArtists.delete(w);
-    }
+    for (const w of skip) names.delete(w);
+    // Build ONE regex that matches all names
+    const sorted = [...names].filter(n => n.length >= 3).sort((a,b) => b.length - a.length);
+    artistRegex = sorted.length > 0
+      ? new RegExp(`\\b(${sorted.map(n => n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')})\\b`, 'g')
+      : null;
   }
 
   function highlightUsernames(text) {
     if (!text) return '';
-    // @mentions
     text = text.replace(/@\[?([A-Za-z0-9_]+)\]?/g, '<span class="username">$1</span>');
-    // "by Name" pattern
     text = text.replace(/\bby\s+([A-Za-z0-9_]+)/g, 'by <span class="username">$1</span>');
-    // Highlight all known artist names (word boundary)
-    for (const name of knownArtists) {
-      if (name.length < 3) continue; // skip very short names
-      // Only replace if not already inside a tag
-      const re = new RegExp(`(?<![">])\\b(${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})\\b(?![^<]*>)`, 'g');
-      text = text.replace(re, '<span class="username">$1</span>');
+    if (artistRegex) {
+      artistRegex.lastIndex = 0;
+      text = text.replace(artistRegex, '<span class="username">$1</span>');
     }
     return text;
   }
@@ -873,7 +855,7 @@
         ).join('') + '</div>';
         card.classList.add('card-multi-preview');
       } else if (hasImage) {
-        imageHTML = `<div class="card-preview"><img src="${item.image.url}" alt="${item.image.label || ''}"><div class="card-preview-label">${item.image.label || ''}</div></div>`;
+        imageHTML = `<div class="card-preview"><img src="${item.image.url}" alt="${item.image.label || ''}" loading="lazy"><div class="card-preview-label">${item.image.label || ''}</div></div>`;
       }
       const linkHTML = item.link ? `<a href="${item.link}" target="_blank" class="source-link">View</a>` : '';
       card.innerHTML = `
@@ -898,19 +880,14 @@
     if (isTransitioning) return;
     isTransitioning = true;
 
-    // Remove ALL active/exit classes first to prevent overlaps
-    document.querySelectorAll('.news-card').forEach(c => {
-      c.classList.remove('active', 'exit');
-      c.style.opacity = '0';
-      c.style.pointerEvents = 'none';
-    });
+    // Hide current card
+    const prev = document.querySelector('.news-card.active');
+    if (prev) prev.classList.remove('active');
 
     currentIndex = ((index % NEWS.length) + NEWS.length) % NEWS.length;
     const card = document.getElementById(`card-${currentIndex}`);
 
     setTimeout(() => {
-      card.style.opacity = '';
-      card.style.pointerEvents = '';
       card.classList.add('active');
 
       // Update headline
