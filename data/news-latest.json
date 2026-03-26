@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T10:33:51.853652+00:00",
+  "generated_at": "2026-03-26T10:53:55.908816+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -115,8 +115,8 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_b0c4be70-59b2-4f39-a6fe-f03f90256f21/fe32ada8-92e7-4871-968a-11d3da388f30.png",
-        "label": "dougfriesen"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_82f0ceb5-df94-4915-ba0b-b7f4618c74c8/0a986f28-3087-4612-9221-c619751c55ca.jpg",
+        "label": "dorinphotograph"
       },
       "dataBoxes": null
     },
@@ -199,7 +199,7 @@
     }
   ],
   "headline_extras": [
-    "DIVE BAR: 483 MESSAGES IN LAST 24H",
+    "DIVE BAR: 482 MESSAGES IN LAST 24H",
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "TOP SALE 24H: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
     "HIGH SALE: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
