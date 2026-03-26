@@ -307,11 +307,15 @@ def build_minting_status():
     mint_image = mint_winner['image'] if mint_winner else None
     mint_desc = tdh_for(mint_winner)
 
+    # Mint window: from selection (16:00 UTC) until next day 15:00 UTC (~24h)
+    hours_since_selection = (now - last_selection).total_seconds() / 3600 if last_selection else 99
+
     if days_since == 0:
         cat = 'MINTING TODAY'
         headline = "MINTING TODAY"
         summary = f"A new Meme Card is being minted today!{mint_desc}"
-    elif days_since == 1:
+    elif days_since == 1 and hours_since_selection < 24:
+        # Still within ~24h mint window
         cat = 'STILL MINTING'
         sel_day = mint_days[last_selection.weekday()]
         headline = f"STILL MINTING - {sel_day}'s Card"
@@ -334,8 +338,8 @@ def build_minting_status():
     }]
 
     # NEXT MINT card: shows the LATEST selection (will be minted soon)
-    # Visible on selection day + day after (while current card is still minting)
-    if days_since <= 1 and last_selection and latest:
+    # Visible during mint window (selection day + up to 24h after)
+    if hours_since_selection < 24 and last_selection and latest:
         next_mint_map = {0: 2, 2: 4, 4: 0}
         sel_wd = last_selection.weekday()
         if sel_wd in next_mint_map:
