@@ -186,6 +186,20 @@
   .source-link { color: var(--c-gold-60); font-family: var(--f-body); font-size: clamp(11px, 1.2vw, 13px); text-decoration: none; margin-left: 4px; }
   .source-link:hover { color: var(--c-gold); }
 
+  /* --- Card layout variants --- */
+  /* No data boxes: preview can grow, summary gets more room */
+  .card-no-data .card-preview { max-height: clamp(220px, 50vh, 480px); }
+  .card-no-data .card-preview img { max-height: clamp(220px, 50vh, 480px); }
+  .card-no-data .card-summary { font-size: clamp(16px, 2.2vw, 24px); }
+
+  /* Big preview: short text + no data = preview takes most of the space */
+  .card-big-preview .card-preview { max-height: clamp(280px, 58vh, 550px); }
+  .card-big-preview .card-preview img { max-height: clamp(280px, 58vh, 550px); }
+
+  /* No image: headline and summary get bigger */
+  .card-no-image .card-headline { font-size: clamp(26px, 4.5vw, 50px); margin-bottom: clamp(10px, 2vh, 18px); }
+  .card-no-image .card-summary { font-size: clamp(17px, 2.5vw, 26px); line-height: 1.5; }
+
   /* =============================================
      BOTTOM BARS (NEWS headline + MARKET ticker)
      Same height, same label width, clean alignment.
@@ -697,14 +711,24 @@
     NEWS.forEach((item, i) => {
       const card = document.createElement('div');
       card.className = 'news-card'; card.id = `card-${i}`;
+
+      const hasData = item.dataBoxes && item.dataBoxes.length;
+      const hasImage = !!item.image;
+      const shortText = (item.summary || '').length < 120;
+
+      // Layout class: controls how space is distributed
+      if (!hasData && hasImage) card.classList.add('card-no-data');
+      if (!hasData && hasImage && shortText) card.classList.add('card-big-preview');
+      if (!hasImage) card.classList.add('card-no-image');
+
       let dataHTML = '';
-      if (item.dataBoxes && item.dataBoxes.length) {
+      if (hasData) {
         dataHTML = '<div class="card-data">' + item.dataBoxes.map(d =>
           `<div class="data-box"><div class="data-label">${highlightUsernames(d.label)}</div><div class="data-value">${d.value}</div><div class="data-sub">${d.sub}</div></div>`
         ).join('') + '</div>';
       }
       let imageHTML = '';
-      if (item.image) {
+      if (hasImage) {
         imageHTML = `<div class="card-preview"><img src="${item.image.url}" alt="${item.image.label || ''}"><div class="card-preview-label">${item.image.label || ''}</div></div>`;
       }
       const linkHTML = item.link ? `<a href="${item.link}" target="_blank" class="source-link">View</a>` : '';
