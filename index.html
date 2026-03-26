@@ -266,22 +266,10 @@
   .intro-overlay.fade-out { opacity: 0; pointer-events: none; }
   .intro-overlay.hidden   { display: none; }
 
-  .intro-grid {
-    position: absolute; inset: 0;
-    background-image: linear-gradient(var(--c-gold-04) 1px, transparent 1px), linear-gradient(90deg, var(--c-gold-04) 1px, transparent 1px);
-    background-size: 36px 36px; opacity: 0; animation: introFade 0.3s 0.05s ease-out forwards;
+  #introNetwork {
+    position: absolute; inset: 0; width: 100%; height: 100%; z-index: 1;
   }
-  .intro-ring {
-    position: absolute; border: 1px solid rgba(200,168,78,0.05); border-radius: 50%;
-    opacity: 0; animation: introSpin 20s linear infinite, introFade 0.4s ease-out forwards;
-  }
-  .intro-ring-1 { width: 500px; height: 500px; }
-  .intro-ring-2 { width: 600px; height: 600px; animation-delay: 0.1s; }
-  .intro-ring-3 { width: 700px; height: 700px; border-style: dashed; border-color: rgba(200,168,78,0.04); animation-delay: 0.15s; }
-  @keyframes introSpin { to { transform: rotate(360deg); } }
   @keyframes introFade { to { opacity: 1; } }
-
-  .intro-red-line { display: none; }
 
   .intro-flash {
     position: absolute; inset: 0; background: rgba(240,230,208,0.4);
@@ -345,7 +333,6 @@
     .source-text, .source-link { font-size: 9px; }
     .intro-6529, .intro-news-text { font-size: 38px; }
     .intro-subtitle { font-size: 9px; letter-spacing: 3px; }
-    .intro-ring-1 { width: 240px; height: 240px; } .intro-ring-2 { width: 290px; height: 290px; } .intro-ring-3 { width: 340px; height: 340px; }
   }
 
   /* =============================================
@@ -376,11 +363,7 @@
 <body>
 <div class="container" id="container">
   <div class="intro-overlay" id="introOverlay">
-    <div class="intro-grid"></div>
-    <div class="intro-ring intro-ring-1"></div>
-    <div class="intro-ring intro-ring-2"></div>
-    <div class="intro-ring intro-ring-3"></div>
-    <div class="intro-red-line"></div>
+    <canvas id="introNetwork"></canvas>
     <div class="intro-flash"></div>
     <div class="intro-scanlines"></div>
     <div class="intro-logo">
@@ -450,10 +433,106 @@
   // No scaling needed — layout is fully responsive via CSS
 
   // Intro: 2.8s then fade
+  // === NETWORK ANIMATION ===
+  (function() {
+    const canvas = document.getElementById('introNetwork');
+    if (!canvas) return;
+    const ctx = canvas.getContext('2d');
+    const W = canvas.width = window.innerWidth;
+    const H = canvas.height = window.innerHeight;
+
+    const NODES = 80;
+    const CONNECT_DIST = Math.min(W, H) * 0.18;
+    const nodes = [];
+
+    // Create nodes
+    for (let i = 0; i < NODES; i++) {
+      nodes.push({
+        x: Math.random() * W,
+        y: Math.random() * H,
+        vx: (Math.random() - 0.5) * 0.4,
+        vy: (Math.random() - 0.5) * 0.4,
+        r: Math.random() * 1.5 + 0.5,
+        pulse: Math.random() * Math.PI * 2
+      });
+    }
+
+    let frame = 0;
+    let fadeIn = 0;
+    const gold = [200, 168, 78];
+    const red = [178, 34, 34];
+
+    function draw() {
+      if (document.getElementById('introOverlay')?.classList.contains('hidden')) return;
+
+      ctx.clearRect(0, 0, W, H);
+      fadeIn = Math.min(1, fadeIn + 0.02);
+      frame++;
+
+      // Draw connections
+      for (let i = 0; i < nodes.length; i++) {
+        for (let j = i + 1; j < nodes.length; j++) {
+          const dx = nodes[i].x - nodes[j].x;
+          const dy = nodes[i].y - nodes[j].y;
+          const dist = Math.sqrt(dx * dx + dy * dy);
+          if (dist < CONNECT_DIST) {
+            const alpha = (1 - dist / CONNECT_DIST) * 0.12 * fadeIn;
+            // Mix gold and red based on position
+            const mix = (nodes[i].y / H + nodes[j].y / H) / 2;
+            const r = Math.round(gold[0] * (1 - mix * 0.3) + red[0] * mix * 0.3);
+            const g = Math.round(gold[1] * (1 - mix * 0.5) + red[1] * mix * 0.5);
+            const b = Math.round(gold[2] * (1 - mix * 0.3) + red[2] * mix * 0.3);
+            ctx.strokeStyle = `rgba(${r},${g},${b},${alpha})`;
+            ctx.lineWidth = 0.5;
+            ctx.beginPath();
+            ctx.moveTo(nodes[i].x, nodes[i].y);
+            ctx.lineTo(nodes[j].x, nodes[j].y);
+            ctx.stroke();
+          }
+        }
+      }
+
+      // Draw nodes
+      for (const n of nodes) {
+        const pulse = Math.sin(frame * 0.02 + n.pulse) * 0.3 + 0.7;
+        const alpha = 0.25 * fadeIn * pulse;
+        // Nodes closer to center are brighter
+        const cx = Math.abs(n.x - W / 2) / (W / 2);
+        const cy = Math.abs(n.y - H / 2) / (H / 2);
+        const center = 1 - (cx + cy) / 2;
+
+        ctx.fillStyle = center > 0.5
+          ? `rgba(${red[0]},${red[1]},${red[2]},${alpha * 1.5})`
+          : `rgba(${gold[0]},${gold[1]},${gold[2]},${alpha})`;
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.r * (1 + center * 0.5), 0, Math.PI * 2);
+        ctx.fill();
+
+        // Glow on center nodes
+        if (center > 0.6) {
+          ctx.fillStyle = `rgba(${red[0]},${red[1]},${red[2]},${alpha * 0.3})`;
+          ctx.beginPath();
+          ctx.arc(n.x, n.y, n.r * 4, 0, Math.PI * 2);
+          ctx.fill();
+        }
+
+        // Move
+        n.x += n.vx;
+        n.y += n.vy;
+        if (n.x < 0 || n.x > W) n.vx *= -1;
+        if (n.y < 0 || n.y > H) n.vy *= -1;
+      }
+
+      requestAnimationFrame(draw);
+    }
+    draw();
+  })();
+
+  // Intro: 3.2s then fade
   setTimeout(() => {
     const intro = document.getElementById('introOverlay');
     if (intro) { intro.classList.add('fade-out'); setTimeout(() => intro.classList.add('hidden'), 500); }
-  }, 2800);
+  }, 3200);
 
   // Known artist names extracted from news data — rebuilt on each load
   let knownArtists = new Set();
