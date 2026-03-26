@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T20:07:49.678516+00:00",
+  "generated_at": "2026-03-26T20:18:56.426823+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,7 +17,7 @@
     {
       "category": "TOP MEMES",
       "headline": "nathanabauman Leads with 67.5M Projected TDH",
-      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 91 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 19h 52m.",
+      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 91 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 19h 41m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -45,7 +45,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "17 Memes Submissions This Week",
-      "summary": "17 art submissions this week. Featured: \"All Memes Are Equal\" by Burnasso (347K TDH). Also: Sert, Saharrococo, lewisosb, peternitsch.",
+      "summary": "17 submissions this week. Ranking: Sert (4.8M) | Burnasso (347K) | Saharrococo (11K) | lewisosb (10K) | peternitsch (2K) | dorinphotograph (0).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -163,7 +163,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.9 ETH"
+      "value": "39.0 ETH"
     },
     {
       "label": "Holders",
