@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T09:36:31.252405+00:00",
+  "generated_at": "2026-03-26T09:42:03.800566+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -62,8 +62,22 @@
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/098a6cf4-6edb-42dc-85b7-555eb315ed23.png",
-        "label": "Engagement Farmer Crossing - RegularDad"
+        "label": "RegularDad (2.0M)"
       },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/098a6cf4-6edb-42dc-85b7-555eb315ed23.png",
+          "label": "RegularDad (2.0M)"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/8aed7371-9608-4b8f-943b-4a39c2a6ab5b.JPG",
+          "label": "Burnasso (347K)"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_45a38e59-eb21-4d22-bcd3-7dcd01c43013/6906d1ff-a761-4f93-b34d-eef324222c90.gif",
+          "label": "iamshivanshsr (2K)"
+        }
+      ],
       "dataBoxes": null
     },
     {
@@ -97,19 +111,33 @@
     {
       "category": "SR SUBMISSIONS",
       "headline": "7 SuperRare Submissions This Week",
-      "summary": "7 SuperRare submissions this week. Featured: dorinphotograph (0 TDH). Also: dougfriesen, Danielchideraa, Biolap, miesgraffiti.",
+      "summary": "7 SuperRare submissions this week. Featured: dougfriesen (0 TDH). Also: dorinphotograph, Danielchideraa, Biolap, miesgraffiti.",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_82f0ceb5-df94-4915-ba0b-b7f4618c74c8/0a986f28-3087-4612-9221-c619751c55ca.jpg",
-        "label": "dorinphotograph"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_b0c4be70-59b2-4f39-a6fe-f03f90256f21/fe32ada8-92e7-4871-968a-11d3da388f30.png",
+        "label": "dougfriesen"
       },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_b0c4be70-59b2-4f39-a6fe-f03f90256f21/fe32ada8-92e7-4871-968a-11d3da388f30.png",
+          "label": "dougfriesen"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_82f0ceb5-df94-4915-ba0b-b7f4618c74c8/0a986f28-3087-4612-9221-c619751c55ca.jpg",
+          "label": "dorinphotograph"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_724626c9-1e5f-4bcb-8de7-c6264dfe5437/7306adb3-124d-47c2-9073-7154cb0643e6.mp4",
+          "label": "Danielchideraa"
+        }
+      ],
       "dataBoxes": null
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 1.52 ETH Volume",
-      "summary": "24 sales in 24h for 1.52 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.369 ETH.",
+      "headline": "25 Sales Today - 1.57 ETH Volume",
+      "summary": "25 sales in 24h for 1.57 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.369 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -133,12 +161,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "24",
+          "value": "25",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.52",
+          "value": "1.57",
           "sub": "ETH"
         },
         {
@@ -177,15 +205,15 @@
     },
     {
       "label": "24h Vol",
-      "value": "1.52 ETH"
+      "value": "1.57 ETH"
     },
     {
       "label": "7d Vol",
-      "value": "12.80 ETH"
+      "value": "12.85 ETH"
     }
   ],
   "headline_extras": [
-    "DIVE BAR: 476 MESSAGES IN LAST 24H",
+    "DIVE BAR: 477 MESSAGES IN LAST 24H",
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "TOP SALE 24H: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
     "HIGH SALE: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
