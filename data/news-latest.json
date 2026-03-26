@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T20:00:55.230302+00:00",
+  "generated_at": "2026-03-26T20:07:49.678516+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "NEXT DROP",
-      "headline": "Next Drop: Friday (Mar 27)",
-      "summary": "Next selection in 19h. \"Cogito, ergo sum\" by dangiuz \u2014 99.7M TDH from 83 voters. Top supporter: Poseidon (13.8M TDH).",
+      "category": "MINTING TOMORROW",
+      "headline": "Minting Friday",
+      "summary": "This card will be minted on Friday. \"Cogito, ergo sum\" by dangiuz \u2014 99.7M TDH from 83 voters. Top supporter: Poseidon (13.8M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -17,7 +17,7 @@
     {
       "category": "TOP MEMES",
       "headline": "nathanabauman Leads with 67.5M Projected TDH",
-      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 91 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 19h 59m.",
+      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 91 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 19h 52m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -163,7 +163,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.0 ETH"
+      "value": "38.9 ETH"
     },
     {
       "label": "Holders",
