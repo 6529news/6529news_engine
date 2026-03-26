@@ -2,7 +2,7 @@ name: Check punk6529 Activity
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Every 2 hours
+    - cron: '0 * * * *'  # Every hour (dive bar + punk6529 check)
   workflow_dispatch:
 
 permissions:

@@ -749,10 +749,10 @@ def build_divebar_hot():
     """
     print("Checking dive bar hot topics...")
     now_ms = datetime.now(timezone.utc).timestamp() * 1000
-    ten_min_ago = now_ms - 10 * 60 * 1000
+    one_h_ago = now_ms - 3600 * 1000
     twenty_four_h = now_ms - 24 * 3600 * 1000
 
-    # Fetch recent drops (last 10min for hot detection, 24h for headline count)
+    # Fetch recent drops (last 1h for hot detection, 24h for headline count)
     all_drops = []
     sn = 999999
     for _ in range(30):
@@ -765,22 +765,22 @@ def build_divebar_hot():
     if not all_drops:
         return [], []
 
-    recent_10m = [d for d in all_drops if d['created_at'] > ten_min_ago]
+    recent_1h = [d for d in all_drops if d['created_at'] > one_h_ago]
     recent_24h = [d for d in all_drops if d['created_at'] > twenty_four_h]
-    msgs_10m = len(recent_10m)
+    msgs_1h = len(recent_1h)
     msgs_24h = len(recent_24h)
 
     headline_extras = [f"DIVE BAR: {msgs_24h} MESSAGES IN LAST 24H"]
 
-    # Hot topic: 50+ messages in last 10 minutes
-    if msgs_10m < 50:
-        print(f"  {msgs_10m} msgs in 10min (need 50+) — no hot topic")
+    # Hot topic: 200+ messages in last hour
+    if msgs_1h < 200:
+        print(f"  {msgs_1h} msgs in 1h (need 200+) — no hot topic")
         return [], headline_extras
 
     # Extract messages weighted by author level
     weighted_msgs = []
     authors = set()
-    for d in recent_10m:
+    for d in recent_1h:
         parts = d.get('parts') or []
         content = (parts[0].get('content') or '')[:250] if parts else ''
         author_data = d.get('author', {})
@@ -804,7 +804,8 @@ def build_divebar_hot():
         elif len(prompt_msgs) < 20:
             prompt_msgs.append(f"@{m['author']}: {m['content'][:80]}")
 
-    print(f"  HOT: {msgs_10m} msgs in 10min, {len(authors)} authors, top: {[f'{m[\"author\"]}(lv{m[\"level\"]})' for m in weighted_msgs[:3]]}")
+    top_names = [f"{m['author']}(lv{m['level']})" for m in weighted_msgs[:3]]
+    print(f"  HOT: {msgs_1h} msgs in 1h, {len(authors)} authors, top: {top_names}")
 
     summary = ai_summarize(
         f"What topic is being discussed right now in this 6529 community chat? "
@@ -830,7 +831,7 @@ def build_divebar_hot():
 
     return [{
         'category': 'HOT IN DIVE BAR',
-        'headline': f"Hot in Maybe's Dive Bar — {msgs_10m} msgs in 10min",
+        'headline': f"Hot in Maybe's Dive Bar — {msgs_1h} msgs/h",
         'summary': summary,
         'source': "maybe's dive bar",
         'link': f'https://6529.io/waves/{DIVEBAR_WAVE_ID}',
