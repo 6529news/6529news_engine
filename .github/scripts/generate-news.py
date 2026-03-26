@@ -837,27 +837,37 @@ def build_new_submissions():
             parts = d.get('parts') or []
             media = parts[0].get('media', []) if parts else []
             if not media:
-                continue  # Skip text-only drops (no media at all)
-            # Accept any media type as a real submission
-            img = None
-            url = media[0].get('url', '')
+                continue
+            title = d.get('title') or ''
+            tdh = d.get('realtime_rating', 0)
             mime = media[0].get('mime_type', '')
-            # Preview: only small images (skip huge files, HTML, video, IPFS)
-            if mime.startswith('image/') and not url.startswith('ipfs://'):
-                # Check file size — skip files > 5MB
+            url = media[0].get('url', '')
+
+            # Only count real submissions: must have a title OR TDH > 0
+            # Skip untitled zero-TDH drops (chat images, test uploads)
+            if not title and tdh == 0:
+                continue
+            # Skip HTML submissions from preview grid (can't display)
+            if mime.startswith('text/'):
+                img = None
+            elif mime.startswith('image/') and not url.startswith('ipfs://'):
+                img = None
                 try:
                     req = urllib.request.Request(url, method='HEAD')
                     req.add_header('User-Agent', 'Mozilla/5.0 (compatible; 6529News/1.0)')
                     with urllib.request.urlopen(req, timeout=5) as r:
                         size = int(r.headers.get('Content-Length', 0))
-                        if size < 5_000_000:  # < 5MB
+                        if size < 5_000_000:
                             img = url
                 except:
-                    img = url  # If HEAD fails, include anyway
+                    img = url
+            else:
+                img = None
+
             recent.append({
-                'title': d.get('title') or 'Untitled',
+                'title': title or 'Untitled',
                 'author': d['author']['handle'],
-                'tdh': d.get('realtime_rating', 0),
+                'tdh': tdh,
                 'img': img
             })
 
