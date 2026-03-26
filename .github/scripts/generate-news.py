@@ -144,22 +144,26 @@ def build_top_memes():
 
 
 def build_top_superrare():
-    """Top SuperRare by highest current vote (realtime_rating)."""
+    """Top 10 SuperRare by current vote, random featured preview."""
+    import random
     print("Building Top SuperRare...")
     all_ranked = fetch_ranked_drops(SR_WAVE_ID, 10)
     all_ranked.sort(key=lambda x: x['current_tdh'], reverse=True)
-    top3 = all_ranked[:3]
+    top10 = all_ranked[:10]
+    top3 = top10[:3]
 
     if not top3: return []
 
-    preview = next((s for s in top3 if s.get('img')), None)
-    image = {'url': preview['img'], 'label': f"{preview['author']}"} if preview else None
+    # Pick a random artist from top 10 with an image for the preview
+    with_img = [s for s in top10 if s.get('img')]
+    featured = random.choice(with_img) if with_img else top3[0]
+    image = {'url': featured['img'], 'label': f"{featured['author']} ({format_tdh(featured['current_tdh'])})"} if featured.get('img') else None
 
-    summary = ' | '.join([f"{s['author']} ({format_tdh(s['current_tdh'])} TDH, {s['voters']} voters)" for s in top3])
+    summary = ' | '.join([f"{s['author']} ({format_tdh(s['current_tdh'])})" for s in top10 if s['current_tdh'] > 0])
 
     return [{
         'category': 'TOP SUPERRARE',
-        'headline': f"{top3[0]['author']} Leads with {format_tdh(top3[0]['current_tdh'])} TDH",
+        'headline': f"Top 10 — {featured['author']} ({format_tdh(featured['current_tdh'])} TDH)",
         'summary': summary,
         'source': 'SuperRare x 6529',
         'link': f'https://6529.io/waves/{SR_WAVE_ID}',
