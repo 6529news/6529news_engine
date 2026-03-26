@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T21:56:23.984156+00:00",
+  "generated_at": "2026-03-26T05:51:41.890161+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"An Intro to 6529\" by david \u2014 66.7M TDH from 59 voters. Top supporter: Thor (13.9M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING - Wednesday's Card",
+      "summary": "Yesterday's card is still minting. \"An Intro to 6529\" by david \u2014 66.7M TDH from 59 voters. Top supporter: Thor (13.9M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -15,21 +15,9 @@
       "dataBoxes": null
     },
     {
-      "category": "NEXT MINT",
-      "headline": "Next Mint: Friday Mar 27",
-      "summary": "Selected today, will be minted on Friday Mar 27. \"Cogito, ergo sum\" by dangiuz \u2014 99.7M TDH from 83 voters. Top supporter: Poseidon (13.8M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d8defd4-e381-42f7-b387-b9db2852ff7f/392a10e2-c774-4ab4-a1d4-3aed12b1ed27.jpg",
-        "label": "Cogito, ergo sum - dangiuz"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "TOP MEMES",
-      "headline": "nathanabauman Leads with 56.6M Projected TDH",
-      "summary": "\"The Bear Spot\" by nathanabauman (56.6M projected TDH, 85 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (30.3M projected TDH, 60 voters) | \"Credo quia absurdum\" by Guidodisalle (30.3M projected TDH, 112 voters) Next selection in 1d 18h.",
+      "headline": "nathanabauman Leads with 63.0M Projected TDH",
+      "summary": "\"The Bear Spot\" by nathanabauman (63.0M projected TDH, 88 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (30.6M projected TDH, 60 voters) | \"Credo quia absurdum\" by Guidodisalle (30.1M projected TDH, 112 voters) Next selection in 1d 10h.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,17 +27,17 @@
       "dataBoxes": [
         {
           "label": "nathanabauman",
-          "value": "56.6M",
-          "sub": "proj. (85 votes)"
+          "value": "63.0M",
+          "sub": "proj. (88 votes)"
         },
         {
           "label": "ikertje",
-          "value": "30.3M",
+          "value": "30.6M",
           "sub": "proj. (60 votes)"
         },
         {
           "label": "Guidodisalle",
-          "value": "30.3M",
+          "value": "30.1M",
           "sub": "proj. (112 votes)"
         }
       ]
@@ -57,7 +45,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "17 Memes Submissions This Week",
-      "summary": "17 art submissions this week. Featured: \"Engagement Farmer Crossing\" by RegularDad (2.0M TDH). Also: gruffishere, iamshivanshsr, Bicasso, ikertje.",
+      "summary": "17 art submissions this week. Featured: \"Engagement Farmer Crossing\" by RegularDad (2.0M TDH). Also: Burnasso, iamshivanshsr, Bicasso, lewisosb.",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -108,8 +96,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.66 ETH Volume",
-      "summary": "23 sales in 24h for 1.66 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.369 ETH.",
+      "headline": "23 Sales Today - 1.43 ETH Volume",
+      "summary": "23 sales in 24h for 1.43 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.369 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -124,7 +112,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.66",
+          "value": "1.43",
           "sub": "ETH"
         },
         {
@@ -143,15 +131,15 @@
   "ticker": [
     {
       "label": "Memes nathanabauman",
-      "value": "56.6M TDH"
+      "value": "63.0M TDH"
     },
     {
       "label": "Memes ikertje",
-      "value": "30.3M TDH"
+      "value": "30.6M TDH"
     },
     {
       "label": "Memes Guidodisalle",
-      "value": "30.3M TDH"
+      "value": "30.1M TDH"
     },
     {
       "label": "Memes Floor",
@@ -159,18 +147,18 @@
     },
     {
       "label": "24h Sales",
-      "value": "23 (1.66 ETH)"
+      "value": "23 (1.43 ETH)"
     },
     {
       "label": "7d Sales",
-      "value": "151 (12.58 ETH)"
+      "value": "150 (12.64 ETH)"
     }
   ],
   "headline_extras": [
+    "DIVE BAR: 430 MESSAGES IN LAST 24H",
     "6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
-    "DIVE BAR: 500 MESSAGES IN LAST 24H",
     "TOP SALE 24H: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
     "HIGH SALE: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 8d AGO"
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 9d AGO"
   ]
 }
