@@ -445,14 +445,20 @@
     const CONNECT_DIST = Math.min(W, H) * 0.22;
     const nodes = [];
 
+    const RADIUS = Math.min(W, H) * 0.42;
     for (let i = 0; i < NODES; i++) {
+      // Distribute in a circle with gaussian-like density (more nodes near center)
+      const angle = Math.random() * Math.PI * 2;
+      const dist = Math.pow(Math.random(), 0.6) * RADIUS; // pow < 1 = denser at center
       nodes.push({
-        x: Math.random() * W,
-        y: Math.random() * H,
-        vx: (Math.random() - 0.5) * 0.5,
-        vy: (Math.random() - 0.5) * 0.5,
+        x: W / 2 + Math.cos(angle) * dist,
+        y: H / 2 + Math.sin(angle) * dist,
+        vx: (Math.random() - 0.5) * 0.4,
+        vy: (Math.random() - 0.5) * 0.4,
         r: Math.random() * 2.5 + 1,
-        pulse: Math.random() * Math.PI * 2
+        pulse: Math.random() * Math.PI * 2,
+        homeX: W / 2 + Math.cos(angle) * dist,
+        homeY: H / 2 + Math.sin(angle) * dist
       });
     }
 
@@ -517,6 +523,12 @@
           ctx.fill();
         }
 
+        // Soft pull toward home position (keeps circular shape)
+        n.vx += (n.homeX - n.x) * 0.001;
+        n.vy += (n.homeY - n.y) * 0.001;
+        // Dampen
+        n.vx *= 0.998;
+        n.vy *= 0.998;
         n.x += n.vx;
         n.y += n.vy;
         if (n.x < 0 || n.x > W) n.vx *= -1;
