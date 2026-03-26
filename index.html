@@ -254,8 +254,8 @@
     display: flex; align-items: center; justify-content: center;
   }
   .ticker-track  { flex: 1; overflow: hidden; display: flex; align-items: center; position: relative; }
-  .ticker-content { display: flex; align-items: center; white-space: nowrap; animation: tickerScroll 60s linear infinite; position: absolute; left: 0; }
-  @keyframes tickerScroll { to { transform: translateX(-50%); } }
+  .ticker-content { display: flex; align-items: center; white-space: nowrap; animation: tickerScroll 40s linear infinite; position: absolute; left: 0; }
+  @keyframes tickerScroll { from { transform: translateX(0); } to { transform: translateX(-33.333%); } }
   .ticker-item      { display: flex; align-items: center; gap: 6px; padding: 0 14px; flex-shrink: 0; }
   .ticker-item-label { font-family: var(--f-display); font-size: clamp(13px, 1.5vw, 17px); font-weight: 600; letter-spacing: 1px; color: var(--c-gold); text-transform: uppercase; }
   .ticker-item-value { font-family: var(--f-body); font-size: clamp(13px, 1.5vw, 17px); font-weight: 500; color: var(--c-text); }
@@ -453,16 +453,21 @@
     <div class="ticker-label">STATS</div>
     <div class="ticker-track">
       <div class="ticker-content" id="tickerContent">
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">Network TDH</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">Full Set Bid</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-memes"><span class="ticker-item-label">#1 dangiuz</span><span class="ticker-item-value">99.7M TDH</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">24h Vol</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">7d Vol</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">Network TDH</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">Full Set Bid</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-memes"><span class="ticker-item-label">#1 dangiuz</span><span class="ticker-item-value">99.7M TDH</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">24h Vol</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
-        <div class="ticker-item ticker-market"><span class="ticker-item-label">7d Vol</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">|</div>
+        <div class="ticker-item"><span class="ticker-item-label">Network TDH</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">Full Set Bid</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">#1</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">24h Vol</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">7d Vol</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">Network TDH</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">Full Set Bid</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">#1</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">24h Vol</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">7d Vol</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">Network TDH</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">Full Set Bid</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">#1</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">24h Vol</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
+        <div class="ticker-item"><span class="ticker-item-label">7d Vol</span><span class="ticker-item-value">--</span></div><div class="ticker-separator">&bull;</div>
       </div>
     </div>
   </div>
