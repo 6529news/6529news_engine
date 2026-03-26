@@ -752,18 +752,35 @@ def build_divebar_hot():
     one_h_ago = now_ms - 3600 * 1000
     twenty_four_h = now_ms - 24 * 3600 * 1000
 
-    # Fetch recent drops (last 1h for hot detection, 24h for headline count)
-    all_drops = []
-    sn = 999999
-    for _ in range(30):
+    # Quick check: fetch 1 page to see if there's recent activity
+    first_page = fetch_json(f'https://api.6529.io/api/drops?wave_id={DIVEBAR_WAVE_ID}&limit=50')
+    if not first_page:
+        return [], []
+
+    # Count how many of the last 50 drops are from the last hour
+    quick_1h = sum(1 for d in first_page if d['created_at'] > one_h_ago)
+
+    # If less than 50 in the first page are from last hour, no hot topic possible (need 200+)
+    # Only paginate fully if the first page shows high activity
+    if quick_1h < 50:
+        # Not hot — just count 24h for headline from first page estimate
+        msgs_24h_est = sum(1 for d in first_page if d['created_at'] > twenty_four_h)
+        # Rough estimate: if all 50 are within 24h, there are probably more
+        if msgs_24h_est >= 50:
+            msgs_24h_est = msgs_24h_est * 5  # rough estimate
+        headline_extras = [f"DIVE BAR: ~{msgs_24h_est} MESSAGES IN LAST 24H"]
+        print(f"  {quick_1h} msgs in 1h (first page) — no hot topic")
+        return [], headline_extras
+
+    # Hot activity detected — paginate to get all drops in last hour
+    all_drops = list(first_page)
+    sn = first_page[-1]['serial_no']
+    for _ in range(10):
         page = fetch_json(f'https://api.6529.io/api/drops?wave_id={DIVEBAR_WAVE_ID}&limit=50&serial_no_less_than={sn}')
         if not page: break
         all_drops += page
         sn = page[-1]['serial_no']
-        if page[-1]['created_at'] < twenty_four_h: break
-
-    if not all_drops:
-        return [], []
+        if page[-1]['created_at'] < one_h_ago: break
 
     recent_1h = [d for d in all_drops if d['created_at'] > one_h_ago]
     recent_24h = [d for d in all_drops if d['created_at'] > twenty_four_h]
