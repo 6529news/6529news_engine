@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T20:42:40.003067+00:00",
+  "generated_at": "2026-03-26T20:55:29.076563+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,7 +17,7 @@
     {
       "category": "TOP MEMES",
       "headline": "nathanabauman Leads with 67.5M Projected TDH",
-      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 92 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 19h 18m.",
+      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 92 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 19h 4m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -58,25 +58,25 @@
           "label": "Burnasso (347K)"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5a58d1d3-4390-4188-a947-c6d81df97fc7/5bfb5142-52b7-41e7-bcaa-fb70e3109590.JPG",
-          "label": "Saharrococo (11K)"
-        },
-        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_81df2f29-1d63-41df-871d-fafecd465ebf/e8d82cb4-5250-4dee-8484-1526f1bbab2c.gif",
           "label": "lewisosb (10K)"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/b9864229-3cf6-494b-a411-060f4dc89f15.jpeg",
+          "label": "Burnasso (0)"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 301K TDH",
+      "headline": "#5 awhurst \u2014 556K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (301K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (301K)"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (556K)"
       },
       "dataBoxes": [
         {
@@ -106,6 +106,15 @@
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/bc3518f2-521a-44a1-88f7-9dda537b4fc3.jpg",
         "label": "JasonOPhoto"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "DIVE BAR",
+      "headline": "Hot Topic: 255 Messages in 6h",
+      "summary": "The conversation revolves around community dynamics in the 6529 NFT space, with members joking about how \u201cpunk\u201d might react to newcomers, framing the tension as part of a broader revolutionary shift where only a few truly support the group while many criticize it. Participants also banter about specific NFT cards\u2014calling one a research piece, joking about stolen JPGs, and recalling an epic shitposter who won a card then disappeared\u2014while questioning why his current inactivity matters. Overall, the chat mixes self\u2011aware humor, reflections on loyalty and opposition, and light\u2011hearted gossip about notable figures and their NFT exploits.",
+      "source": "maybe's dive bar",
+      "link": "https://6529.io/waves/b38288e6-ca9d-45ce-8323-3dc5e094f04e",
+      "image": null,
       "dataBoxes": null
     },
     {
