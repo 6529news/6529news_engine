@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T21:07:53.991529+00:00",
+  "generated_at": "2026-03-26T21:31:12.912799+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,7 +17,7 @@
     {
       "category": "TOP MEMES",
       "headline": "nathanabauman Leads with 67.5M Projected TDH",
-      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 92 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 18h 52m.",
+      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 93 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 18h 29m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -28,7 +28,7 @@
         {
           "label": "nathanabauman",
           "value": "67.5M",
-          "sub": "proj. (92 votes)"
+          "sub": "proj. (93 votes)"
         },
         {
           "label": "ikertje",
@@ -44,35 +44,39 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "5 Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: Sert (4.8M) | Burnasso (347K) | Saharrococo (11K) | lewisosb (10K) | peternitsch (2K).",
+      "headline": "16 New Memes Submissions (7d)",
+      "summary": "16 submissions this week. Ranking: Sert (5.1M) | RegularDad (2.1M) | Burnasso (347K) | gruffishere (107K) | Saharrococo (11K) | lewisosb (10K) | iamshivanshsr (2K) | Bicasso (2K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/8aed7371-9608-4b8f-943b-4a39c2a6ab5b.JPG",
-        "label": "Burnasso (347K)"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/098a6cf4-6edb-42dc-85b7-555eb315ed23.png",
+        "label": "RegularDad (2.1M)"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/098a6cf4-6edb-42dc-85b7-555eb315ed23.png",
+          "label": "RegularDad (2.1M)"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/8aed7371-9608-4b8f-943b-4a39c2a6ab5b.JPG",
           "label": "Burnasso (347K)"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_81df2f29-1d63-41df-871d-fafecd465ebf/e8d82cb4-5250-4dee-8484-1526f1bbab2c.gif",
-          "label": "lewisosb (10K)"
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e06f8e4c-3eb4-11ef-9d82-029a0e4b6159/1848517d-5da3-486f-8814-748b71ab1f34.gif",
+          "label": "gruffishere (107K)"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.1M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (301K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)"
       },
       "dataBoxes": [
         {
@@ -105,12 +109,15 @@
       "dataBoxes": null
     },
     {
-      "category": "DIVE BAR",
-      "headline": "Hot Topic: 272 Messages in 6h",
-      "summary": "The conversation revolves aroundmembers of the 6529 NFT community discussing upcoming art sharing (including a raffle\u2011style drop), thanking HugoFaz for his work on the network, exchanging links to their pieces, and noting timing issues\u2014such as running late for work or preparing to post art in about an hour. The chat also includes casual greetings and a Friday\u2011night vibe, with participants checking in on each other\u2019s well\u2011being.",
+      "category": "HOT IN DIVE BAR",
+      "headline": "Hot in Maybe's Dive Bar \u2014 188 msgs",
+      "summary": "The chat in Maybe\u2019s divebar centers on art creation and collaboration, with users like @GulYildiz offering to work on ballerina\u2011photo projects and @Zigmarillion commenting on how quickly people buy or \u201cburn\u201d art they like. Participants also note language barriers that can cause misunderstandings, as highlighted by @",
       "source": "maybe's dive bar",
       "link": "https://6529.io/waves/b38288e6-ca9d-45ce-8323-3dc5e094f04e",
-      "image": null,
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f83023f-87b4-11ee-9d82-029a0e4b6159/AUTOx450/48f28f64-5583-4869-9b21-6a23377bc20e.png",
+        "label": "maybe's dive bar"
+      },
       "dataBoxes": null
     },
     {
@@ -192,7 +199,7 @@
     }
   ],
   "headline_extras": [
-    "DIVE BAR: 500 MESSAGES IN LAST 24H",
+    "DIVE BAR: 300 MESSAGES IN LAST 24H",
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "TOP SALE 24H: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
     "HIGH SALE: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
