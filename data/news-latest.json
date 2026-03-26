@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T08:36:54.358822+00:00",
+  "generated_at": "2026-03-26T09:36:31.252405+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -29,7 +29,7 @@
     {
       "category": "TOP MEMES",
       "headline": "nathanabauman Leads with 66.5M Projected TDH",
-      "summary": "\"The Bear Spot\" by nathanabauman (66.5M projected TDH, 89 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (31.6M projected TDH, 60 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 1d 7h.",
+      "summary": "\"The Bear Spot\" by nathanabauman (66.5M projected TDH, 89 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (31.6M projected TDH, 60 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 1d 6h.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -56,8 +56,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "19 Memes Submissions This Week",
-      "summary": "19 art submissions this week. Featured: \"Engagement Farmer Crossing\" by RegularDad (2.0M TDH). Also: Burnasso, iamshivanshsr, Bicasso, lewisosb.",
+      "headline": "17 Memes Submissions This Week",
+      "summary": "17 art submissions this week. Featured: \"Engagement Farmer Crossing\" by RegularDad (2.0M TDH). Also: Burnasso, iamshivanshsr, Bicasso, Saharrococo.",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -113,9 +113,23 @@
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/237.JPEG",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/237.WEBP",
         "label": "I CAN HAS ETHEREUM? - 0.369 ETH"
       },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/237.WEBP",
+          "label": "I CAN HAS ETHEREUM? - 0.369 ETH"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/290.GIF",
+          "label": "TAP TAP, Who's There? - 0.320 ETH"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.220 ETH"
+        }
+      ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
@@ -147,7 +161,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.0 ETH"
+      "value": "38.9 ETH"
     },
     {
       "label": "Holders",
@@ -167,14 +181,15 @@
     },
     {
       "label": "7d Vol",
-      "value": "12.78 ETH"
+      "value": "12.80 ETH"
     }
   ],
   "headline_extras": [
+    "DIVE BAR: 476 MESSAGES IN LAST 24H",
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
-    "DIVE BAR: 458 MESSAGES IN LAST 24H",
     "TOP SALE 24H: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
     "HIGH SALE: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 9d AGO"
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 9d AGO",
+    "NEW WAVE: \"Objkt NFT Wave\""
   ]
 }
