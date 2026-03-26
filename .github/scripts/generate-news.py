@@ -532,11 +532,10 @@ def build_sr_submissions():
     recent.sort(key=lambda x: x['tdh'], reverse=True)
     count = len(recent)
 
-    # Skip the overall #1 (already in SR TOP 3) — feature the runner-up with image
-    top_author = recent[0]['author'] if recent else None
-    candidates = [s for s in recent if s['author'] != top_author] if len(recent) > 1 else recent
-    best_with_img = next((s for s in candidates if s.get('img')), None)
-    best = best_with_img or (candidates[0] if candidates else recent[0])
+    # Top 3 with images (by TDH)
+    with_img = [s for s in recent if s.get('img')]
+    top_images = [{'url': s['img'], 'label': s['author']} for s in with_img[:3]]
+    best = with_img[0] if with_img else recent[0]
 
     summary = f'{count} SuperRare submission{"s" if count > 1 else ""} this week.'
     summary += f' Featured: {best["author"]} ({format_tdh(best["tdh"])} TDH).'
@@ -544,7 +543,7 @@ def build_sr_submissions():
     if others:
         summary += f' Also: {", ".join(others)}.'
 
-    image = {'url': best['img'], 'label': best['author']} if best.get('img') else None
+    image = top_images[0] if top_images else None
 
     print(f"  {count} submissions, featured: {best['author']} ({format_tdh(best['tdh'])})")
     return [{
@@ -553,7 +552,7 @@ def build_sr_submissions():
         'summary': summary,
         'source': 'SuperRare x 6529',
         'link': f'https://6529.io/waves/{SR_WAVE_ID}',
-        'image': image, 'dataBoxes': None
+        'image': image, 'images': top_images, 'dataBoxes': None
     }]
 
 
@@ -810,8 +809,10 @@ def build_new_submissions():
     recent.sort(key=lambda x: x['tdh'], reverse=True)
     count = len(recent)
 
-    # Find best submission with an image preview (highest TDH first)
-    best = next((s for s in recent if s.get('img')), recent[0])
+    # Top 3 with images (by TDH)
+    with_img = [s for s in recent if s.get('img')]
+    top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})'} for s in with_img[:3]]
+    best = with_img[0] if with_img else recent[0]
 
     summary = f'{count} art submission{"s" if count > 1 else ""} this week.'
     summary += f' Featured: "{best["title"]}" by {best["author"]} ({format_tdh(best["tdh"])} TDH).'
@@ -819,7 +820,7 @@ def build_new_submissions():
     if others:
         summary += f' Also: {", ".join(others)}.'
 
-    image = {'url': best['img'], 'label': f'{best["title"]} - {best["author"]}'} if best.get('img') else None
+    image = top_images[0] if top_images else None
 
     print(f"  {count} submissions, best: {best['author']} ({format_tdh(best['tdh'])})")
     return [{
@@ -828,7 +829,7 @@ def build_new_submissions():
         'summary': summary,
         'source': 'Main Stage',
         'link': f'https://6529.io/waves/{MEMES_WAVE_ID}',
-        'image': image, 'dataBoxes': None
+        'image': image, 'images': top_images, 'dataBoxes': None
     }]
 
 
