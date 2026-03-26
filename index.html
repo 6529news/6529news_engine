@@ -220,7 +220,11 @@
     border-radius: 3px;
   }
   .card-preview-tile img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .card-preview-tile iframe { width: 100%; height: 100%; border: none; pointer-events: none; display: block; transform: scale(0.5); transform-origin: 0 0; width: 200%; height: 200%; }
+  .tile-is-html { background: linear-gradient(135deg, var(--c-bg-3), var(--c-bg-2)); }
+  .tile-html { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; height: 100%; gap: 4px; }
+  .tile-html-icon { font-size: clamp(20px, 3vw, 36px); color: var(--c-gold); opacity: 0.6; }
+  .tile-html-name { font-family: var(--f-display); font-size: clamp(11px, 1.4vw, 16px); color: var(--c-text); letter-spacing: 1px; }
+  .tile-html-sub { font-family: var(--f-body); font-size: clamp(7px, 0.8vw, 10px); color: var(--c-gold-60); text-transform: uppercase; letter-spacing: 2px; }
   .card-preview-tile .card-preview-label {
     position: absolute; bottom: 0; left: 0; right: 0;
     background: linear-gradient(transparent, rgba(0,0,0,0.85));
@@ -890,14 +894,13 @@
       }
       let imageHTML = '';
       if (item.images && item.images.length > 1) {
-        // Grid: 2 rows if 4+ images
         const gridClass = item.images.length > 3 ? 'card-preview-grid grid-2row' : 'card-preview-grid';
         imageHTML = `<div class="${gridClass}">` + item.images.map(img => {
           const isHtml = img.type === 'html';
           const content = isHtml
-            ? `<iframe src="${img.url}" sandbox="allow-scripts" loading="lazy"></iframe>`
+            ? `<div class="tile-html"><span class="tile-html-icon">&#9671;</span><span class="tile-html-name">${(img.label || '').split(' (')[0]}</span><span class="tile-html-sub">Interactive</span></div>`
             : `<img src="${img.url}" alt="${img.label || ''}" loading="lazy">`;
-          return `<div class="card-preview-tile">${content}<div class="card-preview-label">${img.label || ''}</div></div>`;
+          return `<div class="card-preview-tile${isHtml ? ' tile-is-html' : ''}">${content}<div class="card-preview-label">${img.label || ''}</div></div>`;
         }).join('') + '</div>';
         card.classList.add('card-multi-preview');
       } else if (hasImage) {
