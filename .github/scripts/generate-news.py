@@ -842,14 +842,17 @@ def build_new_submissions():
             img = None
             url = media[0].get('url', '')
             mime = media[0].get('mime_type', '')
-            # Preview: images directly, HTML via special type
+            # Convert IPFS URLs to gateway
+            if url.startswith('ipfs://'):
+                cid = url.replace('ipfs://', '')
+                url = f'https://gateway.pinata.cloud/ipfs/{cid}'
+            # Preview: images directly, HTML via iframe
             if url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/') and not mime.startswith('text/'):
                 img = url
             elif mime.startswith('image/') and not url.startswith('ipfs://'):
                 img = url
-            elif mime.startswith('text/html') and not url.startswith('ipfs://'):
-                img = url  # HTML submission — will be rendered as iframe
-                img_type = 'html'
+            elif mime.startswith('text/html'):
+                img = url  # HTML submission — rendered as iframe
             recent.append({
                 'title': d.get('title') or 'Untitled',
                 'author': d['author']['handle'],
