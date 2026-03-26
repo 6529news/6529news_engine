@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T19:40:43.245299+00:00",
+  "generated_at": "2026-03-26T19:57:34.927365+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING - Wednesday's Card",
-      "summary": "Yesterday's card is still minting. \"An Intro to 6529\" by david \u2014 66.7M TDH from 59 voters. Top supporter: Thor (13.9M TDH).",
+      "category": "NEXT DROP",
+      "headline": "Next Drop: Friday (Mar 27)",
+      "summary": "Next selection in 20h. \"An Intro to 6529\" by david \u2014 66.7M TDH from 59 voters. Top supporter: Thor (13.9M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -15,21 +15,9 @@
       "dataBoxes": null
     },
     {
-      "category": "NEXT MINT",
-      "headline": "Next Mint: Friday Mar 27",
-      "summary": "Will be minted on Friday Mar 27. \"Cogito, ergo sum\" by dangiuz \u2014 99.7M TDH from 83 voters. Top supporter: Poseidon (13.8M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d8defd4-e381-42f7-b387-b9db2852ff7f/392a10e2-c774-4ab4-a1d4-3aed12b1ed27.jpg",
-        "label": "Cogito, ergo sum - dangiuz"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "TOP MEMES",
-      "headline": "nathanabauman Leads with 67.3M Projected TDH",
-      "summary": "\"The Bear Spot\" by nathanabauman (67.3M projected TDH, 91 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 20h 19m.",
+      "headline": "nathanabauman Leads with 67.5M Projected TDH",
+      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 91 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 20h 3m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,7 +27,7 @@
       "dataBoxes": [
         {
           "label": "nathanabauman",
-          "value": "67.3M",
+          "value": "67.5M",
           "sub": "proj. (91 votes)"
         },
         {
@@ -175,7 +163,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.9 ETH"
+      "value": "39.0 ETH"
     },
     {
       "label": "Holders",
@@ -187,7 +175,7 @@
     },
     {
       "label": "#1 nathanabauman",
-      "value": "67.3M TDH"
+      "value": "67.5M TDH"
     },
     {
       "label": "24h Vol",
@@ -199,8 +187,8 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "DIVE BAR: 500 MESSAGES IN LAST 24H",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "TOP SALE 24H: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
     "HIGH SALE: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 9d AGO",
