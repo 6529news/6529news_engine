@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T10:29:57.014979+00:00",
+  "generated_at": "2026-03-26T10:33:51.853652+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -111,7 +111,7 @@
     {
       "category": "SR SUBMISSIONS",
       "headline": "7 SuperRare Submissions This Week",
-      "summary": "7 SuperRare submissions this week. Featured: dougfriesen (0 TDH). Also: dorinphotograph, Danielchideraa, Biolap, miesgraffiti.",
+      "summary": "7 SuperRare submissions this week: dougfriesen, dorinphotograph, Danielchideraa, Biolap, miesgraffiti.",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
@@ -199,7 +199,7 @@
     }
   ],
   "headline_extras": [
-    "DIVE BAR: 481 MESSAGES IN LAST 24H",
+    "DIVE BAR: 483 MESSAGES IN LAST 24H",
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "TOP SALE 24H: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
     "HIGH SALE: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
