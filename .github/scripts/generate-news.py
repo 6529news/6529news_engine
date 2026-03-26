@@ -321,20 +321,27 @@ def build_minting_status():
         headline = f"STILL MINTING - {sel_day}'s Card"
         summary = f"Yesterday's card is still minting.{mint_desc}"
     else:
+        # NEXT DROP: show leaderboard #1 (likely next winner), not old minted card
         next_day_name = mint_days[next_selection.weekday()]
         delta = next_selection - now
         hours_left = int(delta.total_seconds() // 3600)
         countdown = f'{hours_left // 24}d {hours_left % 24}h' if hours_left >= 24 else f'{hours_left}h'
         cat = 'NEXT DROP'
         headline = f"Next Drop: {next_day_name} ({next_selection.strftime('%b %d')})"
-        summary = f"Next selection in {countdown}.{mint_desc}"
+        # Use latest winner (current #1) for preview
+        next_desc = tdh_for(latest) if latest else mint_desc
+        next_img = latest['image'] if latest else mint_image
+        summary = f"Next selection in {countdown}.{next_desc}"
+
+    # Use appropriate image per state
+    card_image = mint_image if cat != 'NEXT DROP' else next_img
 
     cards = [{
         'category': cat,
         'headline': headline,
         'summary': summary,
         'source': 'The Memes', 'link': 'https://6529.io/the-memes',
-        'image': mint_image, 'dataBoxes': None
+        'image': card_image, 'dataBoxes': None
     }]
 
     # NEXT MINT card: shows the LATEST selection (will be minted soon)
