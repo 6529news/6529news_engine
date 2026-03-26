@@ -532,9 +532,11 @@ def build_sr_submissions():
     recent.sort(key=lambda x: x['tdh'], reverse=True)
     count = len(recent)
 
-    # Best with image (by TDH)
+    # Best with image — prefer jpeg/gif (more likely artwork than png screenshots)
     with_img = [s for s in recent if s.get('img')]
-    best = with_img[0] if with_img else recent[0]
+    # Try to pick one with jpeg/gif first, then any
+    preferred = [s for s in with_img if any(ext in s['img'].lower() for ext in ['.jpg', '.jpeg', '.gif', 'image/jpeg', 'image/gif'])]
+    best = (preferred or with_img or recent)[0]
     image = {'url': best['img'], 'label': best['author']} if best.get('img') else None
 
     # Summary: just artist names, no TDH
