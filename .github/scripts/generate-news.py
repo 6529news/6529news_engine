@@ -824,7 +824,7 @@ def build_new_submissions():
 # OUTPUT
 # =============================================
 def fetch_network_stats():
-    """Fetch total Network TDH and Full Set Bid from memes_extended_data."""
+    """Fetch Network TDH, Full Set Bid, Collection Holders, Full Set Holders."""
     print("Fetching network stats...")
     total_tdh = 0
     total_bid = 0
@@ -839,19 +839,43 @@ def fetch_network_stats():
         if not data.get('next'):
             break
         page += 1
-    print(f"  Network TDH: {format_tdh(total_tdh)}, Full Set Bid: {total_bid:.2f} ETH")
-    return total_tdh, total_bid
+
+    # Scrape holder counts from 6529nfts.io
+    holders = 0
+    full_set = 0
+    try:
+        import re
+        req = urllib.request.Request('https://www.6529nfts.io/memes/collection-holder-insights',
+            headers={'User-Agent': 'Mozilla/5.0 (compatible; 6529News/1.0)', 'Accept': 'text/html'})
+        html = urllib.request.urlopen(req, timeout=15).read().decode()
+        # Extract from Next.js RSC chunks
+        h_match = re.findall(r'Collection Holder[^0-9]*([0-9,]+)', html)
+        f_match = re.findall(r'Full Set Holder[^0-9]*([0-9,]+)', html)
+        # Take the last match (the actual value, not the title reference)
+        if h_match:
+            holders = int(h_match[-1].replace(',', ''))
+        if f_match:
+            full_set = int(f_match[-1].replace(',', ''))
+    except Exception as e:
+        print(f"  Holder scrape error: {e}")
+
+    print(f"  Network TDH: {format_tdh(total_tdh)}, Full Set Bid: {total_bid:.2f} ETH, Holders: {holders}, Full Set: {full_set}")
+    return total_tdh, total_bid, holders, full_set
 
 
 def build_output(news, ticker_data, headline_extras, top_memes_data=None):
     ticker = []
 
     # Network stats
-    network_tdh, full_set_bid = fetch_network_stats()
+    network_tdh, full_set_bid, holders, full_set_holders = fetch_network_stats()
     if network_tdh > 0:
         ticker.append({'label': 'Network TDH', 'value': format_tdh(network_tdh)})
     if full_set_bid > 0:
         ticker.append({'label': 'Full Set Bid', 'value': f'{full_set_bid:.1f} ETH'})
+    if holders > 0:
+        ticker.append({'label': 'Holders', 'value': f'{holders:,}'})
+    if full_set_holders > 0:
+        ticker.append({'label': 'Full Set', 'value': str(full_set_holders)})
 
     # Memes #1 only
     if top_memes_data and len(top_memes_data) > 0:

@@ -360,7 +360,6 @@
 <body>
 <div class="container" id="container">
   <div class="intro-overlay" id="introOverlay">
-    <canvas id="introNetwork"></canvas>
     <div class="intro-flash"></div>
     <div class="intro-scanlines"></div>
     <div class="intro-logo">
@@ -427,114 +426,11 @@
 <script>
   // No scaling needed — layout is fully responsive via CSS
 
-  // Intro: 2.8s then fade
-  // === NETWORK ANIMATION ===
-  (function() {
-    const canvas = document.getElementById('introNetwork');
-    if (!canvas) return;
-    const ctx = canvas.getContext('2d');
-    const W = canvas.width = window.innerWidth;
-    const H = canvas.height = window.innerHeight;
-
-    // === NEURAL TREE (Cajal-style dendrites) ===
-    const branches = [];
-    const col = { r: 140, g: 110, b: 55 }; // warm brown/gold ink
-
-    function growBranch(x, y, angle, len, thickness, depth) {
-      if (depth > 12 || len < 3 || thickness < 0.2) return;
-      const endX = x + Math.cos(angle) * len;
-      const endY = y + Math.sin(angle) * len;
-      branches.push({ x1: x, y1: y, x2: endX, y2: endY, t: thickness, depth, drawn: 0 });
-
-      // Cell body at branch points
-      if (depth > 2 && depth < 8 && Math.random() < 0.3) {
-        branches.push({ cx: endX, cy: endY, r: thickness * 1.5 + Math.random() * 2, depth, drawn: 0, isCell: true });
-      }
-
-      // Fork into 2-3 sub-branches
-      const forks = depth < 3 ? 3 : (Math.random() < 0.6 ? 2 : 3);
-      const spread = depth < 4 ? 0.5 : 0.7;
-      for (let i = 0; i < forks; i++) {
-        const newAngle = angle + (Math.random() - 0.5) * spread * 2 - spread * 0.1;
-        const newLen = len * (0.6 + Math.random() * 0.25);
-        const newThick = thickness * (0.55 + Math.random() * 0.2);
-        growBranch(endX, endY, newAngle, newLen, newThick, depth + 1);
-      }
-    }
-
-    // Grow 3-4 main trunks from bottom area
-    const trunks = 3 + Math.floor(Math.random() * 2);
-    for (let t = 0; t < trunks; t++) {
-      const startX = W * (0.25 + Math.random() * 0.5);
-      const startY = H * (0.85 + Math.random() * 0.1);
-      const angle = -Math.PI / 2 + (Math.random() - 0.5) * 0.6; // mostly upward
-      growBranch(startX, startY, angle, H * (0.12 + Math.random() * 0.08), 2.5 + Math.random(), 0);
-    }
-
-    // Add scattered small dendrite fragments for atmosphere
-    for (let i = 0; i < 15; i++) {
-      const sx = Math.random() * W;
-      const sy = Math.random() * H * 0.7;
-      const sa = -Math.PI / 2 + (Math.random() - 0.5) * 1.5;
-      growBranch(sx, sy, sa, 15 + Math.random() * 25, 0.8 + Math.random() * 0.5, 6);
-    }
-
-    let frame = 0;
-    let fadeIn = 0;
-    const totalBranches = branches.length;
-
-    function draw() {
-      if (document.getElementById('introOverlay')?.classList.contains('hidden')) return;
-      ctx.clearRect(0, 0, W, H);
-      fadeIn = Math.min(1, fadeIn + 0.008);
-      frame++;
-
-      // Progressive reveal: draw branches gradually
-      const reveal = Math.min(1, frame / 120); // full reveal in ~2s at 60fps
-
-      for (let i = 0; i < branches.length; i++) {
-        const b = branches[i];
-        const branchReveal = Math.max(0, Math.min(1, (reveal * totalBranches - i * 0.3) / 1));
-        if (branchReveal <= 0) continue;
-
-        const depthFade = Math.max(0.15, 1 - b.depth * 0.07);
-        const alpha = depthFade * fadeIn * branchReveal * 0.7;
-
-        if (b.isCell) {
-          // Cell body — small filled circle
-          ctx.fillStyle = `rgba(${col.r},${col.g},${col.b},${alpha * 0.8})`;
-          ctx.beginPath();
-          ctx.arc(b.cx, b.cy, b.r * branchReveal, 0, Math.PI * 2);
-          ctx.fill();
-          // Subtle halo
-          ctx.fillStyle = `rgba(${col.r},${col.g},${col.b},${alpha * 0.15})`;
-          ctx.beginPath();
-          ctx.arc(b.cx, b.cy, b.r * 3, 0, Math.PI * 2);
-          ctx.fill();
-        } else {
-          // Branch line
-          const endX = b.x1 + (b.x2 - b.x1) * branchReveal;
-          const endY = b.y1 + (b.y2 - b.y1) * branchReveal;
-          ctx.strokeStyle = `rgba(${col.r},${col.g},${col.b},${alpha})`;
-          ctx.lineWidth = b.t * depthFade;
-          ctx.lineCap = 'round';
-          ctx.beginPath();
-          ctx.moveTo(b.x1, b.y1);
-          ctx.lineTo(endX, endY);
-          ctx.stroke();
-        }
-      }
-
-      requestAnimationFrame(draw);
-    }
-    draw();
-  })();
-
-  // Intro: 3.2s then fade
+  // Intro: 2.5s then fade
   setTimeout(() => {
     const intro = document.getElementById('introOverlay');
     if (intro) { intro.classList.add('fade-out'); setTimeout(() => intro.classList.add('hidden'), 500); }
-  }, 3200);
+  }, 2500);
 
   // Known artist names extracted from news data — rebuilt on each load
   let knownArtists = new Set();
