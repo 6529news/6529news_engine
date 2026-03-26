@@ -159,11 +159,18 @@ def build_top_superrare():
     featured = random.choice(with_img) if with_img else top3[0]
     image = {'url': featured['img'], 'label': f"{featured['author']} ({format_tdh(featured['current_tdh'])})"} if featured.get('img') else None
 
+    # Headline changes based on whether featured is #1 or not
+    feat_rank = next((i for i, s in enumerate(top10) if s['author'] == featured['author']), 0)
+    if feat_rank == 0:
+        headline = f"{featured['author']} Leads with {format_tdh(featured['current_tdh'])} TDH"
+    else:
+        headline = f"#{feat_rank+1} {featured['author']} — {format_tdh(featured['current_tdh'])} TDH"
+
     summary = ' | '.join([f"{s['author']} ({format_tdh(s['current_tdh'])})" for s in top10 if s['current_tdh'] > 0])
 
     return [{
         'category': 'TOP SUPERRARE',
-        'headline': f"Top 10 — {featured['author']} ({format_tdh(featured['current_tdh'])} TDH)",
+        'headline': headline,
         'summary': summary,
         'source': 'SuperRare x 6529',
         'link': f'https://6529.io/waves/{SR_WAVE_ID}',
@@ -362,7 +369,7 @@ def build_minting_status():
             # Between selection and midnight CET before mint = MINTING TOMORROW (or MINTING MONDAY etc)
             cards.append({
                 'category': 'MINTING TOMORROW', 'headline': f"Minting {l_mint_day_name}",
-                'summary': f"This card will be minted on {l_mint_day_name}.{latest_desc}",
+                'summary': f"{latest_desc}" if latest_desc else f"Next card to be minted.",
                 'source': 'The Memes', 'link': 'https://6529.io/the-memes',
                 'image': latest_image, 'dataBoxes': None
             })
@@ -835,16 +842,20 @@ def build_new_submissions():
             img = None
             url = media[0].get('url', '')
             mime = media[0].get('mime_type', '')
-            # Preview image: only if it's a displayable image on CDN
+            # Preview: images directly, HTML via special type
             if url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/') and not mime.startswith('text/'):
                 img = url
             elif mime.startswith('image/') and not url.startswith('ipfs://'):
                 img = url
+            elif mime.startswith('text/html') and not url.startswith('ipfs://'):
+                img = url  # HTML submission — will be rendered as iframe
+                img_type = 'html'
             recent.append({
                 'title': d.get('title') or 'Untitled',
                 'author': d['author']['handle'],
                 'tdh': d.get('realtime_rating', 0),
-                'img': img
+                'img': img,
+                'img_type': 'html' if (mime.startswith('text/html') and img) else 'image'
             })
 
     if not recent: return []
@@ -853,12 +864,12 @@ def build_new_submissions():
     recent.sort(key=lambda x: x['tdh'], reverse=True)
     count = len(recent)
 
-    # Top 3 with displayable images
-    with_img = [s for s in recent if s.get('img')]
-    top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})'} for s in with_img[:3]]
+    # Top 6 with any preview (image or html)
+    with_preview = [s for s in recent if s.get('img')]
+    top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})', 'type': s.get('img_type', 'image')} for s in with_preview[:6]]
 
-    # Summary: ranked list by TDH (top 6)
-    ranked = [f'{s["author"]} ({format_tdh(s["tdh"])})' for s in recent[:6]]
+    # Summary: ranked list by TDH (top 8)
+    ranked = [f'{s["author"]} ({format_tdh(s["tdh"])})' for s in recent[:8]]
     summary = f'{count} submissions this week. Ranking: {" | ".join(ranked)}.'
 
     image = top_images[0] if top_images else None
