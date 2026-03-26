@@ -552,7 +552,7 @@ def build_sr_submissions():
         'summary': summary,
         'source': 'SuperRare x 6529',
         'link': f'https://6529.io/waves/{SR_WAVE_ID}',
-        'image': image, 'images': top_images, 'dataBoxes': None
+        'image': image, 'dataBoxes': None
     }]
 
 
