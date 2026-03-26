@@ -823,21 +823,47 @@ def build_new_submissions():
 # =============================================
 # OUTPUT
 # =============================================
+def fetch_network_stats():
+    """Fetch total Network TDH and Full Set Bid from memes_extended_data."""
+    print("Fetching network stats...")
+    total_tdh = 0
+    total_bid = 0
+    page = 1
+    while True:
+        data = fetch_json(f'https://api.6529.io/api/memes_extended_data?page_size=50&page={page}')
+        if not data or not data.get('data'):
+            break
+        for item in data['data']:
+            total_tdh += item.get('boosted_tdh', 0) or 0
+            total_bid += item.get('highest_offer', 0) or 0
+        if not data.get('next'):
+            break
+        page += 1
+    print(f"  Network TDH: {format_tdh(total_tdh)}, Full Set Bid: {total_bid:.2f} ETH")
+    return total_tdh, total_bid
+
+
 def build_output(news, ticker_data, headline_extras, top_memes_data=None):
     ticker = []
 
-    # Top 3 Memes by projected vote
-    if top_memes_data:
-        for m in top_memes_data[:3]:
-            ticker.append({'label': f"Memes {m['author']}", 'value': f"{format_tdh(m['projected_tdh'])} TDH"})
+    # Network stats
+    network_tdh, full_set_bid = fetch_network_stats()
+    if network_tdh > 0:
+        ticker.append({'label': 'Network TDH', 'value': format_tdh(network_tdh)})
+    if full_set_bid > 0:
+        ticker.append({'label': 'Full Set Bid', 'value': f'{full_set_bid:.1f} ETH'})
 
-    # Market data: 24h + 7d
+    # Memes #1 only
+    if top_memes_data and len(top_memes_data) > 0:
+        m = top_memes_data[0]
+        ticker.append({'label': f"#1 {m['author']}", 'value': f"{format_tdh(m['projected_tdh'])} TDH"})
+
+    # Sales data: 24h + 7d (ETH only)
     for m in ticker_data:
-        ticker.append({'label': f"{m['name']} Floor", 'value': f"{m['floor']} {m['floor_sym']}"})
-        if m.get('sales_24h', 0) > 0:
-            ticker.append({'label': '24h Sales', 'value': f"{m['sales_24h']} ({m['vol_24h']:.2f} ETH)"})
-        if m.get('sales_7d', 0) > 0:
-            ticker.append({'label': '7d Sales', 'value': f"{m['sales_7d']} ({m['vol_7d']:.2f} ETH)"})
+        if m.get('vol_24h', 0) > 0:
+            ticker.append({'label': '24h Vol', 'value': f"{m['vol_24h']:.2f} ETH"})
+        if m.get('vol_7d', 0) > 0:
+            ticker.append({'label': '7d Vol', 'value': f"{m['vol_7d']:.2f} ETH"})
 
     return {
         'generated_at': datetime.now(timezone.utc).isoformat(),
