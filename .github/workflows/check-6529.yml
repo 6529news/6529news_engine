@@ -38,11 +38,10 @@ jobs:
           # Check punk6529
           p6529_news, p6529_headlines = gen.build_punk6529()
 
-          # Update headlines: remove old 6529 entries, add new
-          headlines = [h for h in data.get('headline_extras', []) if '6529' not in h.upper() or 'LAST SEEN' in h.upper()]
-          # Remove old LAST SEEN too if we have new data
+          # Update headlines: remove ALL old 6529/punk6529 entries
+          headlines = [h for h in data.get('headline_extras', []) if 'PUNK6529' not in h.upper() and '6529 LAST' not in h.upper() and '6529 ACTIVE' not in h.upper()]
+          # Add new punk6529 headlines
           if p6529_headlines:
-              headlines = [h for h in headlines if 'LAST SEEN' not in h.upper() and 'PUNK6529' not in h.upper()]
               headlines = p6529_headlines + headlines
 
           changed = headlines != data.get('headline_extras', [])
