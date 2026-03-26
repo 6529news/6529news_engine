@@ -848,9 +848,9 @@ def fetch_network_stats():
         req = urllib.request.Request('https://www.6529nfts.io/memes/collection-holder-insights',
             headers={'User-Agent': 'Mozilla/5.0 (compatible; 6529News/1.0)', 'Accept': 'text/html'})
         html = urllib.request.urlopen(req, timeout=15).read().decode()
-        # Extract from Next.js RSC chunks
-        h_match = re.findall(r'Collection Holder[^0-9]*([0-9,]+)', html)
-        f_match = re.findall(r'Full Set Holder[^0-9]*([0-9,]+)', html)
+        # Extract from HTML table cells (format: "Label</td><td...>VALUE</td>")
+        h_match = re.findall(r'Collection Holder[^<]*</td><td[^>]*>([0-9,]+)', html)
+        f_match = re.findall(r'Full Set Holder[^<]*</td><td[^>]*>([0-9,]+)', html)
         # Take the last match (the actual value, not the title reference)
         if h_match:
             holders = int(h_match[-1].replace(',', ''))
