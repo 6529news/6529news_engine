@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T20:18:56.426823+00:00",
+  "generated_at": "2026-03-26T20:29:59.872605+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
       "category": "MINTING TOMORROW",
       "headline": "Minting Friday",
-      "summary": "This card will be minted on Friday. \"Cogito, ergo sum\" by dangiuz \u2014 99.7M TDH from 83 voters. Top supporter: Poseidon (13.8M TDH).",
+      "summary": " \"Cogito, ergo sum\" by dangiuz \u2014 99.7M TDH from 83 voters. Top supporter: Poseidon (13.8M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -17,7 +17,7 @@
     {
       "category": "TOP MEMES",
       "headline": "nathanabauman Leads with 67.5M Projected TDH",
-      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 91 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 19h 41m.",
+      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 92 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 19h 30m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -28,7 +28,7 @@
         {
           "label": "nathanabauman",
           "value": "67.5M",
-          "sub": "proj. (91 votes)"
+          "sub": "proj. (92 votes)"
         },
         {
           "label": "ikertje",
@@ -45,38 +45,57 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "17 Memes Submissions This Week",
-      "summary": "17 submissions this week. Ranking: Sert (4.8M) | Burnasso (347K) | Saharrococo (11K) | lewisosb (10K) | peternitsch (2K) | dorinphotograph (0).",
+      "summary": "17 submissions this week. Ranking: Sert (4.8M) | Burnasso (347K) | Saharrococo (11K) | lewisosb (10K) | peternitsch (2K) | dorinphotograph (0) | Burnasso (0) | Burnasso (0).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/8aed7371-9608-4b8f-943b-4a39c2a6ab5b.JPG",
-        "label": "Burnasso (347K)"
+        "label": "Burnasso (347K)",
+        "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/8aed7371-9608-4b8f-943b-4a39c2a6ab5b.JPG",
-          "label": "Burnasso (347K)"
+          "label": "Burnasso (347K)",
+          "type": "image"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5a58d1d3-4390-4188-a947-c6d81df97fc7/5bfb5142-52b7-41e7-bcaa-fb70e3109590.JPG",
-          "label": "Saharrococo (11K)"
+          "label": "Saharrococo (11K)",
+          "type": "image"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_81df2f29-1d63-41df-871d-fafecd465ebf/e8d82cb4-5250-4dee-8484-1526f1bbab2c.gif",
-          "label": "lewisosb (10K)"
+          "label": "lewisosb (10K)",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c96970c9-d278-4011-83f5-e9a3571abe41/7ea28904-ba51-4026-86ff-7159112c79eb.mp4",
+          "label": "peternitsch (2K)",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_82f0ceb5-df94-4915-ba0b-b7f4618c74c8/1d444419-ca01-4eba-be80-498a4caebe91.jpg",
+          "label": "dorinphotograph (0)",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/b9864229-3cf6-494b-a411-060f4dc89f15.jpeg",
+          "label": "Burnasso (0)",
+          "type": "image"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.1M TDH",
-      "summary": "JasonOPhoto (2.1M TDH, 11 voters) | Articulate (1.4M TDH, 12 voters) | Zigmarillion (1.2M TDH, 13 voters)",
+      "headline": "#2 Articulate \u2014 1.4M TDH",
+      "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (301K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (1.4M)"
       },
       "dataBoxes": [
         {
