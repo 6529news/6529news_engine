@@ -777,28 +777,47 @@ def build_divebar_hot():
         print(f"  {msgs_2h} msgs in 2h (need 30+) — no hot topic")
         return [], headline_extras
 
-    # Extract messages for AI summary — pick the densest 30-min window
-    messages = []
+    # Extract messages weighted by author level
+    # Higher level = more weight in the summary (punk6529 lv100 >> random lv5)
+    weighted_msgs = []
     authors = set()
-    for d in recent_2h[:30]:
+    for d in recent_2h:
         parts = d.get('parts') or []
-        content = (parts[0].get('content') or '')[:200] if parts else ''
-        author = d.get('author', {}).get('handle', '?')
-        if content and len(content) > 15:
-            messages.append(f'{author}: {content}')
+        content = (parts[0].get('content') or '')[:250] if parts else ''
+        author_data = d.get('author', {})
+        author = author_data.get('handle', '?')
+        level = author_data.get('level', 0) or 0
+        if content and len(content) > 10:
+            weighted_msgs.append({'author': author, 'level': level, 'content': content})
             authors.add(author)
 
-    # AI summary
+    # Sort by level descending — high level users first
+    weighted_msgs.sort(key=lambda x: x['level'], reverse=True)
+
+    # Build prompt: top-level messages get more slots
+    prompt_msgs = []
+    for m in weighted_msgs:
+        # Level 50+ get full message, level 20-50 shorter, below 20 only if space
+        if m['level'] >= 50:
+            prompt_msgs.append(f"@{m['author']} (lv{m['level']}): {m['content'][:200]}")
+        elif m['level'] >= 20 and len(prompt_msgs) < 15:
+            prompt_msgs.append(f"@{m['author']}: {m['content'][:120]}")
+        elif len(prompt_msgs) < 20:
+            prompt_msgs.append(f"@{m['author']}: {m['content'][:80]}")
+
+    print(f"  {len(weighted_msgs)} msgs, top levels: {[f'{m[\"author\"]}(lv{m[\"level\"]})' for m in weighted_msgs[:5]]}")
+
     summary = ai_summarize(
-        f"Summarize what people are discussing in maybe's dive bar (6529 NFT community chat). "
-        f"Focus on the main topic. 2-3 sentences, factual. "
-        f"Mention usernames when relevant (prefix with @):\n\n" +
-        '\n'.join(messages[:12])
+        f"You are summarizing a live discussion in maybe's dive bar (6529 NFT community). "
+        f"Messages are sorted by user importance (higher level = more important voice). "
+        f"What is the main topic being discussed RIGHT NOW? Summarize in 2-3 sentences. "
+        f"Always mention the key usernames with @ prefix. Be specific about what they said:\n\n" +
+        '\n'.join(prompt_msgs[:15])
     )
     if not summary:
-        # Fallback: show top messages
-        top_msgs = [m for m in messages if len(m) > 30][:3]
-        summary = f'{msgs_2h} messages in 2h from {len(authors)} people. ' + ' | '.join(top_msgs)
+        top = [m for m in weighted_msgs if m['level'] >= 20][:3]
+        if not top: top = weighted_msgs[:3]
+        summary = ' | '.join([f"@{m['author']}: \"{m['content'][:60]}\"" for m in top])
 
     # Get dive bar wave picture for preview
     wave_data = fetch_json(f'https://api.6529.io/api/waves/{DIVEBAR_WAVE_ID}')
