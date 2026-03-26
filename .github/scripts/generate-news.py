@@ -276,93 +276,123 @@ def build_minting_status():
             desc += f' Top supporter: {w["top_supporter"]}.'
         return desc
 
-    # Mint schedule: selection Mon/Wed/Fri at 16:00 UTC (18:00 CET).
-    # MINTING TODAY = the card from the PREVIOUS selection is being minted now
-    # NEXT MINT = the card from TODAY's selection will be minted in 2 days
+    # =============================================
+    # MINTING SCHEDULE
+    # Selection: Mon/Wed/Fri 17:00 UTC (18:00 CET)
+    # Mint: 2 days after selection (Mon→Wed, Wed→Fri, Fri→Mon=3 days)
+    # Times are CET-based: midnight CET = 23:00 UTC
+    #
+    # Uses TWO selections: prev_sel (card being minted) + latest_sel (card just selected)
+    # CARD 1 (current mint): MINTING TOMORROW → MINTING TODAY → STILL MINTING
+    # CARD 2 (next mint): NEXT MINT (appears during MINTING TODAY/STILL MINTING)
+    # =============================================
 
-    # Find last selection time
-    last_selection = None
-    for i in range(7):
+    SEL_HOUR = 17
+    MIDNIGHT_CET = 23
+    END_STILL = 15
+    sel_to_mint_offset = {0: 2, 2: 2, 4: 3}
+
+    # Find last TWO selections
+    sels = []
+    for i in range(14):
         d = now - timedelta(days=i)
         if d.weekday() in mint_days:
-            sel = d.replace(hour=16, minute=0, second=0, microsecond=0)
+            sel = d.replace(hour=SEL_HOUR, minute=0, second=0, microsecond=0)
             if sel <= now:
-                last_selection = sel
-                break
+                sels.append(sel)
+                if len(sels) >= 2: break
+
+    latest_sel = sels[0] if sels else None
+    prev_sel = sels[1] if len(sels) > 1 else None
 
     # Find next selection
     next_selection = None
-    for i in range(1, 8):
+    for i in range(0, 8):
         d = now + timedelta(days=i)
         if d.weekday() in mint_days:
-            next_selection = d.replace(hour=16, minute=0, second=0, microsecond=0)
-            break
-    if now.weekday() in mint_days and now.hour < 16:
-        next_selection = now.replace(hour=16, minute=0, second=0, microsecond=0)
+            sel = d.replace(hour=SEL_HOUR, minute=0, second=0, microsecond=0)
+            if sel > now:
+                next_selection = sel
+                break
 
-    days_since = (now.date() - last_selection.date()).days if last_selection else 99
+    latest_image = latest['image'] if latest else None
+    latest_desc = tdh_for(latest)
+    current_image = current['image'] if current else None
+    current_desc = tdh_for(current)
 
-    # MINTING TODAY/STILL MINTING uses the PREVIOUS winner (the one actually minting)
-    mint_winner = current
-    mint_image = mint_winner['image'] if mint_winner else None
-    mint_desc = tdh_for(mint_winner)
+    cards = []
 
-    # Mint window: from selection (16:00 UTC) until next day 15:00 UTC (~24h)
-    hours_since_selection = (now - last_selection).total_seconds() / 3600 if last_selection else 99
+    # --- CARD 1: Current minting (from PREVIOUS selection) ---
+    if prev_sel:
+        p_offset = sel_to_mint_offset[prev_sel.weekday()]
+        p_mint = prev_sel + timedelta(days=p_offset)
+        p_start = p_mint.replace(hour=MIDNIGHT_CET) - timedelta(days=1)
+        p_end = p_mint.replace(hour=MIDNIGHT_CET)
+        p_still_end = p_mint.replace(hour=END_STILL) + timedelta(days=1)
 
-    if days_since == 0:
-        cat = 'MINTING TODAY'
-        headline = "MINTING TODAY"
-        summary = f"A new Meme Card is being minted today!{mint_desc}"
-    elif days_since == 1 and hours_since_selection < 24:
-        # Still within ~24h mint window
-        cat = 'STILL MINTING'
-        sel_day = mint_days[last_selection.weekday()]
-        headline = f"STILL MINTING - {sel_day}'s Card"
-        summary = f"Yesterday's card is still minting.{mint_desc}"
-    else:
-        # NEXT DROP: show leaderboard #1 (likely next winner), not old minted card
+        if p_start <= now < p_end:
+            cards.append({
+                'category': 'MINTING TODAY', 'headline': 'MINTING TODAY',
+                'summary': f"A new Meme Card is being minted today!{current_desc}",
+                'source': 'The Memes', 'link': 'https://6529.io/the-memes',
+                'image': current_image, 'dataBoxes': None
+            })
+        elif p_end <= now < p_still_end:
+            cards.append({
+                'category': 'STILL MINTING', 'headline': 'STILL MINTING',
+                'summary': f"Current card is still minting.{current_desc}",
+                'source': 'The Memes', 'link': 'https://6529.io/the-memes',
+                'image': current_image, 'dataBoxes': None
+            })
+
+    # --- CARD 2: Next minting (from LATEST selection) ---
+    if latest_sel:
+        l_offset = sel_to_mint_offset[latest_sel.weekday()]
+        l_mint = latest_sel + timedelta(days=l_offset)
+        l_start = l_mint.replace(hour=MIDNIGHT_CET) - timedelta(days=1)
+        l_end = l_mint.replace(hour=MIDNIGHT_CET)
+        l_still_end = l_mint.replace(hour=END_STILL) + timedelta(days=1)
+        l_mint_day_name = mint_days.get(l_mint.weekday(), '')
+
+        if latest_sel <= now < l_start:
+            # Between selection and midnight CET before mint = MINTING TOMORROW (or MINTING MONDAY etc)
+            cards.append({
+                'category': 'MINTING TOMORROW', 'headline': f"Minting {l_mint_day_name}",
+                'summary': f"This card will be minted on {l_mint_day_name}.{latest_desc}",
+                'source': 'The Memes', 'link': 'https://6529.io/the-memes',
+                'image': latest_image, 'dataBoxes': None
+            })
+        elif l_start <= now < l_end:
+            # If not already showing MINTING TODAY from prev_sel
+            if not any(c['category'] == 'MINTING TODAY' for c in cards):
+                cards.append({
+                    'category': 'MINTING TODAY', 'headline': 'MINTING TODAY',
+                    'summary': f"A new Meme Card is being minted today!{latest_desc}",
+                    'source': 'The Memes', 'link': 'https://6529.io/the-memes',
+                    'image': latest_image, 'dataBoxes': None
+                })
+        elif l_end <= now < l_still_end:
+            if not any(c['category'] == 'STILL MINTING' for c in cards):
+                cards.append({
+                    'category': 'STILL MINTING', 'headline': 'STILL MINTING',
+                    'summary': f"Current card is still minting.{latest_desc}",
+                    'source': 'The Memes', 'link': 'https://6529.io/the-memes',
+                    'image': latest_image, 'dataBoxes': None
+                })
+
+    # --- Fallback: NEXT DROP if no cards ---
+    if not cards and next_selection:
         next_day_name = mint_days[next_selection.weekday()]
         delta = next_selection - now
         hours_left = int(delta.total_seconds() // 3600)
         countdown = f'{hours_left // 24}d {hours_left % 24}h' if hours_left >= 24 else f'{hours_left}h'
-        cat = 'NEXT DROP'
-        headline = f"Next Drop: {next_day_name} ({next_selection.strftime('%b %d')})"
-        # Use latest winner (current #1) for preview
-        next_desc = tdh_for(latest) if latest else mint_desc
-        next_img = latest['image'] if latest else mint_image
-        summary = f"Next selection in {countdown}.{next_desc}"
-
-    # Use appropriate image per state
-    card_image = mint_image if cat != 'NEXT DROP' else next_img
-
-    cards = [{
-        'category': cat,
-        'headline': headline,
-        'summary': summary,
-        'source': 'The Memes', 'link': 'https://6529.io/the-memes',
-        'image': card_image, 'dataBoxes': None
-    }]
-
-    # NEXT MINT card: shows the LATEST selection (will be minted soon)
-    # Visible during mint window (selection day + up to 24h after)
-    if hours_since_selection < 24 and last_selection and latest:
-        next_mint_map = {0: 2, 2: 4, 4: 0}
-        sel_wd = last_selection.weekday()
-        if sel_wd in next_mint_map:
-            target_wd = next_mint_map[sel_wd]
-            days_ahead = (target_wd - sel_wd) % 7
-            if days_ahead == 0: days_ahead = 7
-            mint_date = (last_selection + timedelta(days=days_ahead)).replace(hour=10, minute=0)
-            next_desc = tdh_for(latest)
-            next_image = latest['image'] if latest else None
-            cards.append({
-                'category': 'NEXT MINT',
-                'headline': f"Next Mint: {mint_days.get(target_wd, '')} {mint_date.strftime('%b %d')}",
-                'summary': f"Will be minted on {mint_days.get(target_wd, '')} {mint_date.strftime('%b %d')}.{next_desc}",
-                'source': 'The Memes', 'link': 'https://6529.io/the-memes',
-                'image': next_image, 'dataBoxes': None
-            })
+        cards.append({
+            'category': 'NEXT DROP',
+            'headline': f"Next Drop: {next_day_name} ({next_selection.strftime('%b %d')})",
+            'summary': f"Next selection in {countdown}.{latest_desc}",
+            'source': 'The Memes', 'link': 'https://6529.io/the-memes',
+            'image': latest_image, 'dataBoxes': None
+        })
 
     return cards
 
