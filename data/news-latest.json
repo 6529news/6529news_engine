@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T07:41:31.307520+00:00",
+  "generated_at": "2026-03-26T08:10:48.886312+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -28,8 +28,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "nathanabauman Leads with 66.4M Projected TDH",
-      "summary": "\"The Bear Spot\" by nathanabauman (66.4M projected TDH, 89 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (31.6M projected TDH, 60 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 1d 8h.",
+      "headline": "nathanabauman Leads with 66.5M Projected TDH",
+      "summary": "\"The Bear Spot\" by nathanabauman (66.5M projected TDH, 89 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (31.6M projected TDH, 60 voters) | \"Credo quia absurdum\" by Guidodisalle (31.1M projected TDH, 113 voters) Next selection in 1d 7h.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,7 +39,7 @@
       "dataBoxes": [
         {
           "label": "nathanabauman",
-          "value": "66.4M",
+          "value": "66.5M",
           "sub": "proj. (89 votes)"
         },
         {
@@ -147,11 +147,15 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.9 ETH"
+      "value": "39.0 ETH"
+    },
+    {
+      "label": "Holders",
+      "value": "10,155"
     },
     {
       "label": "#1 nathanabauman",
-      "value": "66.4M TDH"
+      "value": "66.5M TDH"
     },
     {
       "label": "24h Vol",
@@ -163,7 +167,7 @@
     }
   ],
   "headline_extras": [
-    "DIVE BAR: 448 MESSAGES IN LAST 24H",
+    "DIVE BAR: 445 MESSAGES IN LAST 24H",
     "6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "TOP SALE 24H: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
     "HIGH SALE: \"I CAN HAS ETHEREUM?\" 0.369 ETH",
