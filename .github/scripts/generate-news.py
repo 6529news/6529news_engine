@@ -819,6 +819,15 @@ def build_divebar_hot():
         if not top: top = weighted_msgs[:2]
         summary = ' '.join([f"@{m['author']}: \"{m['content'][:50]}\"" for m in top])
 
+    # Generate short topic title from summary
+    topic_title = ai_summarize(
+        f"Give a 3-5 word title for this discussion topic. No quotes, no punctuation, just the topic:\n\n{summary}",
+        max_tokens=20
+    )
+    if not topic_title or len(topic_title) > 50:
+        topic_title = f"{msgs_1h} msgs/h"
+    topic_title = topic_title.strip().strip('"').strip("'").strip('.')
+
     # Get dive bar wave picture for preview
     wave_data = fetch_json(f'https://api.6529.io/api/waves/{DIVEBAR_WAVE_ID}')
     wave_pic = None
@@ -827,11 +836,12 @@ def build_divebar_hot():
         if pic_url:
             wave_pic = {'url': pic_url, 'label': "maybe's dive bar"}
 
-    print(f"  HOT TOPIC: {msgs_2h} msgs in 2h, {len(authors)} authors")
+    top_names = [f"{m['author']}(lv{m['level']})" for m in weighted_msgs[:3]]
+    print(f"  HOT: {msgs_1h} msgs/h, topic: {topic_title}")
 
     return [{
         'category': 'HOT IN DIVE BAR',
-        'headline': f"Hot in Maybe's Dive Bar — {msgs_1h} msgs/h",
+        'headline': f"Hot in Maybe's Dive Bar — {topic_title}",
         'summary': summary,
         'source': "maybe's dive bar",
         'link': f'https://6529.io/waves/{DIVEBAR_WAVE_ID}',
