@@ -742,70 +742,82 @@ def build_punk6529():
 # 5. MAYBE'S DIVE BAR HOT TOPIC (100+ msgs in 30 min window)
 # =============================================
 def build_divebar_hot():
+    """
+    HOT IN MAYBE'S DIVE BAR — appears ONLY when there's a hot topic.
+    Detects burst of messages in last 2h. If activity drops, news disappears.
+    Uses AI to summarize the topic. Preview: dive bar wave picture.
+    """
     print("Checking dive bar hot topics...")
-    # Paginate fully to count all messages in last 24h
+    now_ms = datetime.now(timezone.utc).timestamp() * 1000
+    two_h_ago = now_ms - 2 * 3600 * 1000
+    twenty_four_h = now_ms - 24 * 3600 * 1000
+
+    # Fetch recent drops (last 2h for hot detection, 24h for headline count)
     all_drops = []
     sn = 999999
-    cutoff_ms = datetime.now(timezone.utc).timestamp() * 1000 - 24 * 3600 * 1000
-    for _ in range(50):
+    for _ in range(30):
         page = fetch_json(f'https://api.6529.io/api/drops?wave_id={DIVEBAR_WAVE_ID}&limit=50&serial_no_less_than={sn}')
-        if not page:
-            break
+        if not page: break
         all_drops += page
         sn = page[-1]['serial_no']
-        if page[-1]['created_at'] < cutoff_ms:
-            break
+        if page[-1]['created_at'] < twenty_four_h: break
 
     if not all_drops:
         return [], []
 
-    now_ms = datetime.now(timezone.utc).timestamp() * 1000
-    six_h_ago = now_ms - 6 * 3600 * 1000
-    twenty_four_h = now_ms - 24 * 3600 * 1000
-
-    recent_6h = [d for d in all_drops if d['created_at'] > six_h_ago]
+    recent_2h = [d for d in all_drops if d['created_at'] > two_h_ago]
     recent_24h = [d for d in all_drops if d['created_at'] > twenty_four_h]
-
-    headline_extras = []
-    msgs_6h = len(recent_6h)
+    msgs_2h = len(recent_2h)
     msgs_24h = len(recent_24h)
 
-    headline_extras.append(f"DIVE BAR: {msgs_24h} MESSAGES IN LAST 24H")
+    headline_extras = [f"DIVE BAR: {msgs_24h} MESSAGES IN LAST 24H"]
 
-    # Check for burst: many messages in short time window
-    if msgs_6h >= 15:
-        times = [d['created_at'] for d in recent_6h]
-        span_min = (times[0] - times[-1]) / 60000 if len(times) > 1 else 1
-        msgs_per_hour = msgs_6h / (span_min / 60) if span_min > 0 else 0
+    # Hot topic: 30+ messages in last 2h
+    if msgs_2h < 30:
+        print(f"  {msgs_2h} msgs in 2h (need 30+) — no hot topic")
+        return [], headline_extras
 
-        if msgs_per_hour >= 40:  # Hot topic
-            messages = []
-            authors = set()
-            for d in recent_6h[:15]:
-                parts = d.get('parts') or []
-                content = (parts[0].get('content') or '')[:150] if parts else ''
-                author = d.get('author', {}).get('handle', '?')
-                if content and len(content) > 15:
-                    messages.append(f'{author}: {content}')
-                    authors.add(author)
+    # Extract messages for AI summary — pick the densest 30-min window
+    messages = []
+    authors = set()
+    for d in recent_2h[:30]:
+        parts = d.get('parts') or []
+        content = (parts[0].get('content') or '')[:200] if parts else ''
+        author = d.get('author', {}).get('handle', '?')
+        if content and len(content) > 15:
+            messages.append(f'{author}: {content}')
+            authors.add(author)
 
-            summary = ai_summarize(
-                f"Summarize the key topics from these chat messages in maybe's dive bar (6529 NFT community). 2-3 sentences:\n\n" +
-                '\n'.join(messages[:10])
-            )
-            if not summary:
-                summary = f"{msgs_6h} messages, {len(authors)} participants in the last 6h. " + ' | '.join(messages[:3])
+    # AI summary
+    summary = ai_summarize(
+        f"Summarize what people are discussing in maybe's dive bar (6529 NFT community chat). "
+        f"Focus on the main topic. 2-3 sentences, factual. "
+        f"Mention usernames when relevant (prefix with @):\n\n" +
+        '\n'.join(messages[:12])
+    )
+    if not summary:
+        # Fallback: show top messages
+        top_msgs = [m for m in messages if len(m) > 30][:3]
+        summary = f'{msgs_2h} messages in 2h from {len(authors)} people. ' + ' | '.join(top_msgs)
 
-            return [{
-                'category': 'DIVE BAR',
-                'headline': f"Hot Topic: {msgs_6h} Messages in 6h",
-                'summary': summary,
-                'source': "maybe's dive bar",
-                'link': f'https://6529.io/waves/{DIVEBAR_WAVE_ID}',
-                'image': None, 'dataBoxes': None
-            }], headline_extras
+    # Get dive bar wave picture for preview
+    wave_data = fetch_json(f'https://api.6529.io/api/waves/{DIVEBAR_WAVE_ID}')
+    wave_pic = None
+    if wave_data:
+        pic_url = wave_data.get('picture')
+        if pic_url:
+            wave_pic = {'url': pic_url, 'label': "maybe's dive bar"}
 
-    return [], headline_extras
+    print(f"  HOT TOPIC: {msgs_2h} msgs in 2h, {len(authors)} authors")
+
+    return [{
+        'category': 'HOT IN DIVE BAR',
+        'headline': f"Hot in Maybe's Dive Bar — {msgs_2h} msgs",
+        'summary': summary,
+        'source': "maybe's dive bar",
+        'link': f'https://6529.io/waves/{DIVEBAR_WAVE_ID}',
+        'image': wave_pic, 'dataBoxes': None
+    }], headline_extras
 
 
 # =============================================
@@ -1072,11 +1084,26 @@ def main():
 
     # --- BUILD OUTPUT ---
     output = build_output(all_news, ticker_data, all_headlines, top_memes_ranked[:3])
-    print(f"\n--- Total: {len(output['news'])} cards, {len(output['headline_extras'])} headline extras ---")
+
+    # --- PRESERVE DATA: if ticker is empty/sparse, keep previous values ---
+    out_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'data', 'news-latest.json')
+    try:
+        with open(out_path) as f:
+            prev = json.load(f)
+        # If new ticker has fewer items than previous, merge missing from previous
+        if len(output['ticker']) < len(prev.get('ticker', [])):
+            prev_labels = {t['label'] for t in output['ticker']}
+            for t in prev['ticker']:
+                if t['label'] not in prev_labels:
+                    output['ticker'].append(t)
+            print(f"  Preserved {len(output['ticker']) - len(prev_labels)} ticker items from previous run")
+    except:
+        pass
+
+    print(f"\n--- Total: {len(output['news'])} cards, {len(output['ticker'])} ticker, {len(output['headline_extras'])} headlines ---")
 
     # --- PUBLISH ---
     update_gist(output)
-    out_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'data', 'news-latest.json')
     with open(out_path, 'w') as f:
         json.dump(output, f, indent=2)
     print(f"Written to {out_path}\nDone!")
