@@ -807,16 +807,16 @@ def build_divebar_hot():
     print(f"  HOT: {msgs_10m} msgs in 10min, {len(authors)} authors, top: {[f'{m[\"author\"]}(lv{m[\"level\"]})' for m in weighted_msgs[:3]]}")
 
     summary = ai_summarize(
-        f"You are summarizing a live discussion in maybe's dive bar (6529 NFT community). "
-        f"Messages are sorted by user importance (higher level = more important voice). "
-        f"What is the main topic being discussed RIGHT NOW? Summarize in 2-3 sentences. "
-        f"Always mention the key usernames with @ prefix. Be specific about what they said:\n\n" +
-        '\n'.join(prompt_msgs[:15])
+        f"What topic is being discussed right now in this 6529 community chat? "
+        f"Reply in MAX 2 short sentences. Say what the topic is and who is driving the conversation. "
+        f"Use @username format. No filler words, no intro, just the topic:\n\n" +
+        '\n'.join(prompt_msgs[:15]),
+        max_tokens=100
     )
     if not summary:
-        top = [m for m in weighted_msgs if m['level'] >= 20][:3]
-        if not top: top = weighted_msgs[:3]
-        summary = ' | '.join([f"@{m['author']}: \"{m['content'][:60]}\"" for m in top])
+        top = [m for m in weighted_msgs if m['level'] >= 20][:2]
+        if not top: top = weighted_msgs[:2]
+        summary = ' '.join([f"@{m['author']}: \"{m['content'][:50]}\"" for m in top])
 
     # Get dive bar wave picture for preview
     wave_data = fetch_json(f'https://api.6529.io/api/waves/{DIVEBAR_WAVE_ID}')
