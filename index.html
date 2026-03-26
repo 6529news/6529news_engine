@@ -243,11 +243,8 @@
   .ticker-content { display: flex; align-items: center; white-space: nowrap; animation: tickerScroll 60s linear infinite; position: absolute; left: 0; }
   @keyframes tickerScroll { to { transform: translateX(-50%); } }
   .ticker-item      { display: flex; align-items: center; gap: 6px; padding: 0 14px; flex-shrink: 0; }
-  .ticker-item-label { font-family: var(--f-display); font-size: clamp(13px, 1.5vw, 17px); font-weight: 600; letter-spacing: 1px; color: var(--c-gold-60); text-transform: uppercase; }
+  .ticker-item-label { font-family: var(--f-display); font-size: clamp(13px, 1.5vw, 17px); font-weight: 600; letter-spacing: 1px; color: var(--c-gold); text-transform: uppercase; }
   .ticker-item-value { font-family: var(--f-body); font-size: clamp(13px, 1.5vw, 17px); font-weight: 500; color: var(--c-text); }
-  .ticker-memes .ticker-item-label { color: var(--c-red); }
-  .ticker-market .ticker-item-label { color: rgba(200,168,78,0.7); }
-  .ticker-market .ticker-item-value { color: var(--c-gold); }
   .ticker-separator  { color: var(--c-gold-08); font-size: 14px; flex-shrink: 0; padding: 0 3px; }
 
   /* Side accents */
@@ -439,24 +436,21 @@
     const W = canvas.width = window.innerWidth;
     const H = canvas.height = window.innerHeight;
 
-    const NODES = 120;
-    const CONNECT_DIST = Math.min(W, H) * 0.22;
+    const NODES = 90;
+    const CONNECT_DIST = Math.min(W, H) * 0.16;
     const nodes = [];
 
-    const RADIUS = Math.min(W, H) * 0.42;
+    // Spread across entire viewport with slight center bias
     for (let i = 0; i < NODES; i++) {
-      // Distribute in a circle with gaussian-like density (more nodes near center)
-      const angle = Math.random() * Math.PI * 2;
-      const dist = Math.pow(Math.random(), 0.6) * RADIUS; // pow < 1 = denser at center
+      const x = Math.random() * W;
+      const y = Math.random() * H;
       nodes.push({
-        x: W / 2 + Math.cos(angle) * dist,
-        y: H / 2 + Math.sin(angle) * dist,
-        vx: (Math.random() - 0.5) * 0.4,
-        vy: (Math.random() - 0.5) * 0.4,
-        r: Math.random() * 2.5 + 1,
+        x, y,
+        vx: (Math.random() - 0.5) * 0.3,
+        vy: (Math.random() - 0.5) * 0.3,
+        r: Math.random() * 1.8 + 0.5,
         pulse: Math.random() * Math.PI * 2,
-        homeX: W / 2 + Math.cos(angle) * dist,
-        homeY: H / 2 + Math.sin(angle) * dist
+        homeX: x, homeY: y
       });
     }
 
@@ -469,10 +463,10 @@
       if (document.getElementById('introOverlay')?.classList.contains('hidden')) return;
 
       ctx.clearRect(0, 0, W, H);
-      fadeIn = Math.min(1, fadeIn + 0.015);
+      fadeIn = Math.min(1, fadeIn + 0.012);
       frame++;
 
-      // Draw connections
+      // Draw connections — subtle, thin
       for (let i = 0; i < nodes.length; i++) {
         for (let j = i + 1; j < nodes.length; j++) {
           const dx = nodes[i].x - nodes[j].x;
@@ -480,13 +474,9 @@
           const dist = Math.sqrt(dx * dx + dy * dy);
           if (dist < CONNECT_DIST) {
             const strength = 1 - dist / CONNECT_DIST;
-            const alpha = strength * 0.35 * fadeIn;
-            const mix = (nodes[i].y / H + nodes[j].y / H) / 2;
-            const r = Math.round(gold[0] * (1 - mix * 0.4) + red[0] * mix * 0.4);
-            const g = Math.round(gold[1] * (1 - mix * 0.6) + red[1] * mix * 0.6);
-            const b = Math.round(gold[2] * (1 - mix * 0.4) + red[2] * mix * 0.4);
-            ctx.strokeStyle = `rgba(${r},${g},${b},${alpha})`;
-            ctx.lineWidth = strength * 1.5 + 0.3;
+            const alpha = strength * 0.18 * fadeIn;
+            ctx.strokeStyle = `rgba(${gold[0]},${gold[1]},${gold[2]},${alpha})`;
+            ctx.lineWidth = strength * 0.8 + 0.2;
             ctx.beginPath();
             ctx.moveTo(nodes[i].x, nodes[i].y);
             ctx.lineTo(nodes[j].x, nodes[j].y);
@@ -495,38 +485,21 @@
         }
       }
 
-      // Draw nodes
+      // Draw nodes — small, subtle, slightly pulsing
       for (const n of nodes) {
-        const pulse = Math.sin(frame * 0.025 + n.pulse) * 0.3 + 0.7;
-        const alpha = 0.6 * fadeIn * pulse;
-        const cx = Math.abs(n.x - W / 2) / (W / 2);
-        const cy = Math.abs(n.y - H / 2) / (H / 2);
-        const center = 1 - (cx + cy) / 2;
+        const pulse = Math.sin(frame * 0.015 + n.pulse) * 0.4 + 0.6;
+        const alpha = 0.35 * fadeIn * pulse;
 
-        // Center nodes: bright red. Edge nodes: gold.
-        const isCenter = center > 0.45;
-        const col = isCenter ? red : gold;
-        const nodeAlpha = isCenter ? alpha * 1.2 : alpha * 0.8;
-
-        ctx.fillStyle = `rgba(${col[0]},${col[1]},${col[2]},${nodeAlpha})`;
+        ctx.fillStyle = `rgba(${gold[0]},${gold[1]},${gold[2]},${alpha})`;
         ctx.beginPath();
-        ctx.arc(n.x, n.y, n.r * (1 + center * 0.8), 0, Math.PI * 2);
+        ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
         ctx.fill();
 
-        // Glow on bright nodes
-        if (center > 0.5) {
-          ctx.fillStyle = `rgba(${red[0]},${red[1]},${red[2]},${alpha * 0.15})`;
-          ctx.beginPath();
-          ctx.arc(n.x, n.y, n.r * 6, 0, Math.PI * 2);
-          ctx.fill();
-        }
-
-        // Soft pull toward home position (keeps circular shape)
-        n.vx += (n.homeX - n.x) * 0.001;
-        n.vy += (n.homeY - n.y) * 0.001;
-        // Dampen
-        n.vx *= 0.998;
-        n.vy *= 0.998;
+        // Gentle drift, very slow pull back
+        n.vx += (n.homeX - n.x) * 0.0003;
+        n.vy += (n.homeY - n.y) * 0.0003;
+        n.vx *= 0.999;
+        n.vy *= 0.999;
         n.x += n.vx;
         n.y += n.vy;
         if (n.x < 0 || n.x > W) n.vx *= -1;
@@ -783,15 +756,12 @@
     const el = document.getElementById('tickerContent');
     if (!el) return;
     const html = items.map(t => {
-      let cls = '';
-      const lbl = (t.label || '').toLowerCase();
-      if (lbl.includes('memes') || lbl.includes('meme')) cls = 'ticker-memes';
-      else cls = 'ticker-market';
-      return `<div class="ticker-item ${cls}"><span class="ticker-item-label">${t.label}</span><span class="ticker-item-value">${t.value}</span></div><div class="ticker-separator">|</div>`;
+      return `<div class="ticker-item"><span class="ticker-item-label">${t.label}</span><span class="ticker-item-value">${t.value}</span></div><div class="ticker-separator">\u2022</div>`;
     }).join('');
-    el.innerHTML = html + html;
+    // Duplicate 3x for seamless infinite scroll
+    el.innerHTML = html + html + html;
     el.style.animation = 'none'; el.offsetHeight;
-    el.style.animation = `tickerScroll ${Math.max(40, items.length * 5)}s linear infinite`;
+    el.style.animation = `tickerScroll ${Math.max(30, items.length * 6)}s linear infinite`;
   }
 
   function updateTime() {
