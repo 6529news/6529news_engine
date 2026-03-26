@@ -838,27 +838,27 @@ def build_new_submissions():
             media = parts[0].get('media', []) if parts else []
             if not media:
                 continue  # Skip text-only drops (no media at all)
-            # Accept ANY media type (image, video, html) — it's a real submission
+            # Accept any media type as a real submission
             img = None
             url = media[0].get('url', '')
             mime = media[0].get('mime_type', '')
-            # Convert IPFS URLs to gateway
-            if url.startswith('ipfs://'):
-                cid = url.replace('ipfs://', '')
-                url = f'https://gateway.pinata.cloud/ipfs/{cid}'
-            # Preview: images directly, HTML via iframe
-            if url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/') and not mime.startswith('text/'):
-                img = url
-            elif mime.startswith('image/') and not url.startswith('ipfs://'):
-                img = url
-            elif mime.startswith('text/html'):
-                img = url  # HTML submission — rendered as iframe
+            # Preview: only small images (skip huge files, HTML, video, IPFS)
+            if mime.startswith('image/') and not url.startswith('ipfs://'):
+                # Check file size — skip files > 5MB
+                try:
+                    req = urllib.request.Request(url, method='HEAD')
+                    req.add_header('User-Agent', 'Mozilla/5.0 (compatible; 6529News/1.0)')
+                    with urllib.request.urlopen(req, timeout=5) as r:
+                        size = int(r.headers.get('Content-Length', 0))
+                        if size < 5_000_000:  # < 5MB
+                            img = url
+                except:
+                    img = url  # If HEAD fails, include anyway
             recent.append({
                 'title': d.get('title') or 'Untitled',
                 'author': d['author']['handle'],
                 'tdh': d.get('realtime_rating', 0),
-                'img': img,
-                'img_type': 'html' if (mime.startswith('text/html') and img) else 'image'
+                'img': img
             })
 
     if not recent: return []
@@ -868,7 +868,7 @@ def build_new_submissions():
     count = len(recent)
 
     # Top 3 with displayable images only (no HTML — too heavy for grid)
-    with_img = [s for s in recent if s.get('img') and s.get('img_type') != 'html']
+    with_img = [s for s in recent if s.get('img')]
     top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})'} for s in with_img[:3]]
 
     # Summary: ranked list by TDH (top 8)
