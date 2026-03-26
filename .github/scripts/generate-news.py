@@ -333,9 +333,9 @@ def build_minting_status():
         'image': mint_image, 'dataBoxes': None
     }]
 
-    # NEXT MINT card: shows the LATEST selection (will be minted in 2 days)
-    # Appears on selection day after 16:00 UTC
-    if days_since == 0 and last_selection and now >= last_selection and latest:
+    # NEXT MINT card: shows the LATEST selection (will be minted soon)
+    # Visible on selection day + day after (while current card is still minting)
+    if days_since <= 1 and last_selection and latest:
         next_mint_map = {0: 2, 2: 4, 4: 0}
         sel_wd = last_selection.weekday()
         if sel_wd in next_mint_map:
@@ -348,7 +348,7 @@ def build_minting_status():
             cards.append({
                 'category': 'NEXT MINT',
                 'headline': f"Next Mint: {mint_days.get(target_wd, '')} {mint_date.strftime('%b %d')}",
-                'summary': f"Selected today, will be minted on {mint_days.get(target_wd, '')} {mint_date.strftime('%b %d')}.{next_desc}",
+                'summary': f"Will be minted on {mint_days.get(target_wd, '')} {mint_date.strftime('%b %d')}.{next_desc}",
                 'source': 'The Memes', 'link': 'https://6529.io/the-memes',
                 'image': next_image, 'dataBoxes': None
             })
