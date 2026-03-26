@@ -824,17 +824,16 @@ def build_divebar_hot():
 # 6. NEW SUBMISSIONS (24h, best by TDH)
 # =============================================
 def build_new_submissions():
-    # Cutoff: Monday 00:00 UTC of the current week
+    # Last 7 days rolling
     now = datetime.now(timezone.utc)
-    days_since_monday = now.weekday()  # 0=Mon
-    monday = (now - timedelta(days=days_since_monday)).replace(hour=0, minute=0, second=0, microsecond=0)
-    cutoff_ms = int(monday.timestamp() * 1000)
-    print(f"Checking new Memes submissions (since {monday.strftime('%a %b %d')})...")
+    cutoff = now - timedelta(days=7)
+    cutoff_ms = int(cutoff.timestamp() * 1000)
+    print(f"Checking new Memes submissions (last 7 days, since {cutoff.strftime('%a %b %d')})...")
 
-    # Paginate to cover since Monday
+    # Paginate fully to get ALL drops in 7 days
     all_drops = []
     sn = 999999
-    for _ in range(15):
+    for _ in range(30):
         data = fetch_json(f'https://api.6529.io/api/drops?wave_id={MEMES_WAVE_ID}&drop_type=PARTICIPATION&limit=50&serial_no_less_than={sn}')
         if not data: break
         all_drops += data
@@ -849,21 +848,15 @@ def build_new_submissions():
             parts = d.get('parts') or []
             media = parts[0].get('media', []) if parts else []
             if not media:
-                continue
+                continue  # No media = not a submission (just text)
             title = d.get('title') or ''
             tdh = d.get('realtime_rating', 0)
             mime = media[0].get('mime_type', '')
             url = media[0].get('url', '')
 
-            # Only count real submissions: must have a title OR TDH > 0
-            # Skip untitled zero-TDH drops (chat images, test uploads)
-            if not title and tdh == 0:
-                continue
-            # Skip HTML submissions from preview grid (can't display)
-            if mime.startswith('text/'):
-                img = None
-            elif mime.startswith('image/') and not url.startswith('ipfs://'):
-                img = None
+            # Preview image: only displayable images < 5MB
+            img = None
+            if mime.startswith('image/') and not url.startswith('ipfs://'):
                 try:
                     req = urllib.request.Request(url, method='HEAD')
                     req.add_header('User-Agent', 'Mozilla/5.0 (compatible; 6529News/1.0)')
@@ -872,9 +865,7 @@ def build_new_submissions():
                         if size < 5_000_000:
                             img = url
                 except:
-                    img = url
-            else:
-                img = None
+                    img = url  # If HEAD fails, include anyway
 
             recent.append({
                 'title': title or 'Untitled',
@@ -908,7 +899,7 @@ def build_new_submissions():
     print(f"  {count} unique artists, top: {unique[0]['author']} ({format_tdh(unique[0]['tdh'])})")
     return [{
         'category': 'NEW MEMES SUBMISSIONS',
-        'headline': f'{count} Memes Submission{"s" if count > 1 else ""} This Week',
+        'headline': f'{count} New Memes Submission{"s" if count > 1 else ""} (7d)',
         'summary': summary,
         'source': 'Main Stage',
         'link': f'https://6529.io/waves/{MEMES_WAVE_ID}',
