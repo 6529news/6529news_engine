@@ -88,9 +88,10 @@ def fetch_ranked_drops(wave_id, limit=10):
         if media:
             url = media[0].get('url', '')
             mime = media[0].get('mime_type', '')
-            if url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/') or ((mime.startswith('image/') or mime.startswith('video/')) and not url.startswith('ipfs://')):
+            # Accept any https URL (CDN, direct links, etc.) — reject only ipfs
+            if url.startswith('https://'):
                 img = url
-                if mime.startswith('video/'):
+                if mime.startswith('video/') or url.lower().endswith(('.mp4', '.webm', '.mov')):
                     media_type = 'video'
         all_ranked.append({
             'rank': d.get('rank', 0), 'title': d.get('title') or 'Untitled',
@@ -686,7 +687,9 @@ def build_gradients_sales():
 def build_punk6529():
     print("Checking punk6529...")
     drops = fetch_json(f'https://api.6529.io/api/drops?author={PUNK6529_HANDLE}&limit=20')
-    if not drops: return [], []
+    if not drops:
+        print("  API failed — adding fallback headline")
+        return [], ["PUNK6529 LAST SEEN: (data unavailable)"]
 
     now_ms = datetime.now(timezone.utc).timestamp() * 1000
     one_hour = now_ms - 3600 * 1000
