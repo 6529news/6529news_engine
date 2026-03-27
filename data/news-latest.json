@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T10:34:18.493887+00:00",
+  "generated_at": "2026-03-27T14:44:42.415900+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,8 +16,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "nathanabauman Leads with 67.5M Projected TDH",
-      "summary": "\"The Bear Spot\" by nathanabauman (67.5M projected TDH, 95 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (33.7M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (31.0M projected TDH, 114 voters) Next selection in 5h 25m.",
+      "headline": "nathanabauman Leads with 67.8M Projected TDH",
+      "summary": "\"The Bear Spot\" by nathanabauman (67.8M projected TDH, 96 voters) | \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (34.4M projected TDH, 64 voters) | \"Credo quia absurdum\" by Guidodisalle (31.0M projected TDH, 114 voters) Next selection in 1h 15m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -27,13 +27,13 @@
       "dataBoxes": [
         {
           "label": "nathanabauman",
-          "value": "67.5M",
-          "sub": "proj. (95 votes)"
+          "value": "67.8M",
+          "sub": "proj. (96 votes)"
         },
         {
           "label": "ikertje",
-          "value": "33.7M",
-          "sub": "proj. (62 votes)"
+          "value": "34.4M",
+          "sub": "proj. (64 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -45,7 +45,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "17 New Memes Submissions (7d)",
-      "summary": "17 submissions this week. Ranking: Sert (10.5M) | RegularDad (2.1M) | Burnasso (347K) | gruffishere (107K) | Saharrococo (11K) | lewisosb (10K) | peternitsch (3K) | iamshivanshsr (2K).",
+      "summary": "17 submissions this week. Ranking: Sert (11.4M) | RegularDad (2.1M) | Burnasso (347K) | gruffishere (107K) | Saharrococo (11K) | lewisosb (10K) | peternitsch (3K) | iamshivanshsr (2K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -70,13 +70,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.1M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (301K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)"
       },
       "dataBoxes": [
         {
@@ -110,8 +110,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 0.66 ETH Volume",
-      "summary": "13 sales in 24h for 0.66 ETH. Highest: \"The Socially Umpired Animals\" at 0.420 ETH.",
+      "headline": "15 Sales Today - 0.65 ETH Volume",
+      "summary": "15 sales in 24h for 0.65 ETH. Highest: \"The Socially Umpired Animals\" at 0.420 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -135,12 +135,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.66",
+          "value": "0.65",
           "sub": "ETH"
         },
         {
@@ -163,11 +163,11 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.9 ETH"
+      "value": "39.0 ETH"
     },
     {
       "label": "Holders",
-      "value": "10,154"
+      "value": "10,155"
     },
     {
       "label": "Full Set",
@@ -175,18 +175,19 @@
     },
     {
       "label": "#1 nathanabauman",
-      "value": "67.5M TDH"
+      "value": "67.8M TDH"
     },
     {
       "label": "24h Vol",
-      "value": "0.66 ETH"
+      "value": "0.65 ETH"
     },
     {
       "label": "7d Vol",
-      "value": "12.73 ETH"
+      "value": "11.87 ETH"
     }
   ],
   "headline_extras": [
+    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "TOP SALE 24H: \"The Socially Umpired Animals\" 0.420 ETH",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 10d AGO",
     "NEW WAVE: \"QUORUM\""
