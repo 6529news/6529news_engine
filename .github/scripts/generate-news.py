@@ -96,9 +96,17 @@ def fetch_ranked_drops(wave_id, limit=10):
                             extra = json.loads(m['data_value'])
                             preview_url = extra.get('preview_image', '')
                             if preview_url and preview_url.startswith('https://'):
-                                img = preview_url
-                                if preview_url.lower().endswith(('.mp4', '.webm', '.mov')):
-                                    media_type = 'video'
+                                # Verify URL is accessible
+                                try:
+                                    req = urllib.request.Request(preview_url, method='HEAD')
+                                    req.add_header('User-Agent', 'Mozilla/5.0 (compatible; 6529News/1.0)')
+                                    with urllib.request.urlopen(req, timeout=5) as r:
+                                        if r.status == 200 and not r.headers.get('Content-Type', '').startswith('text/html'):
+                                            img = preview_url
+                                            if preview_url.lower().endswith(('.mp4', '.webm', '.mov')):
+                                                media_type = 'video'
+                                except:
+                                    print(f"    preview_image not accessible: {preview_url[:60]}")
                         except: pass
                         break
             elif url.startswith('https://'):
