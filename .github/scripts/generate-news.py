@@ -129,7 +129,8 @@ def build_top_memes():
                     countdown_text = f' Next selection in {hours}h {mins}m.'
                 break
 
-    preview = next((s for s in top3 if s.get('img')), None)
+    # Always show #1's preview; fallback to first with image if #1 has none
+    preview = top3[0] if top3[0].get('img') else next((s for s in top3 if s.get('img')), None)
     image = {'url': preview['img'], 'label': f"{preview['title']} - {preview['author']}", 'type': preview.get('media_type', 'image')} if preview else None
 
     summary = ' | '.join([f"\"{s['title']}\" by {s['author']} ({format_tdh(s['projected_tdh'])} projected TDH, {s['voters']} voters)" for s in top3])
