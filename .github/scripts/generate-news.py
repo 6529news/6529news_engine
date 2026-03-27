@@ -1041,24 +1041,47 @@ def update_gist(output):
 # HEADLINE: NEW WAVES
 # =============================================
 def build_new_waves_headline():
-    """Check if new waves were created in the last 24h."""
-    print("Checking new waves...")
-    waves = fetch_json('https://api.6529.io/api/waves?limit=10')
+    """Check new waves + most active waves in last 4h."""
+    print("Checking waves activity...")
+    waves = fetch_json('https://api.6529.io/api/waves?limit=20')
     if not waves or not isinstance(waves, list):
         return []
 
     now_ms = datetime.now(timezone.utc).timestamp() * 1000
     twenty_four_h = now_ms - 24 * 3600 * 1000
+    four_h_ago = now_ms - 4 * 3600 * 1000
+    headlines = []
 
+    # New waves in 24h
     new_waves = [w for w in waves if w.get('created_at', 0) > twenty_four_h]
-    if not new_waves:
-        return []
+    if new_waves:
+        names = [w['name'] for w in new_waves[:3]]
+        if len(new_waves) == 1:
+            headlines.append(f"NEW WAVE: \"{names[0]}\"")
+        else:
+            headlines.append(f"NEW WAVES ({len(new_waves)}): {' | '.join(names)}")
 
-    names = [w['name'] for w in new_waves[:3]]
-    if len(new_waves) == 1:
-        return [f"NEW WAVE: \"{names[0]}\""]
-    else:
-        return [f"NEW WAVES ({len(new_waves)}): {' | '.join(names)}"]
+    # Most active waves in last 4h (auto-discovery, no config needed)
+    active = []
+    for w in waves[:15]:
+        latest = w.get('metrics', {}).get('latest_drop_timestamp', 0)
+        if latest < four_h_ago:
+            continue
+        # Quick check: 1 page
+        drops = fetch_json(f'https://api.6529.io/api/drops?wave_id={w["id"]}&limit=50')
+        if not drops:
+            continue
+        count = sum(1 for d in drops if d['created_at'] > four_h_ago)
+        if count >= 3:  # At least 3 msgs in 4h to be "active"
+            active.append({'name': w['name'], 'count': count})
+
+    active.sort(key=lambda x: x['count'], reverse=True)
+    if active:
+        top = active[:4]
+        headlines.append(f"ACTIVE WAVES: {' | '.join([f'{w[\"name\"]} ({w[\"count\"]}msg)' for w in top])}")
+        print(f"  Active waves: {[f'{w[\"name\"]}({w[\"count\"]})' for w in top]}")
+
+    return headlines
 
 
 # =============================================
