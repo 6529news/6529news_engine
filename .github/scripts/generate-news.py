@@ -763,12 +763,10 @@ def build_divebar_hot():
     # If less than 50 in the first page are from last hour, no hot topic possible (need 200+)
     # Only paginate fully if the first page shows high activity
     if quick_1h < 50:
-        # Not hot — just count 24h for headline from first page estimate
-        msgs_24h_est = sum(1 for d in first_page if d['created_at'] > twenty_four_h)
-        # Rough estimate: if all 50 are within 24h, there are probably more
-        if msgs_24h_est >= 50:
-            msgs_24h_est = msgs_24h_est * 5  # rough estimate
-        headline_extras = [f"DIVE BAR: ~{msgs_24h_est} MESSAGES IN LAST 24H"]
+        # Not hot — count msgs in last 4h from first page
+        four_h_ago = now_ms - 4 * 3600 * 1000
+        msgs_4h = sum(1 for d in first_page if d['created_at'] > four_h_ago)
+        headline_extras = [f"DIVE BAR: {msgs_4h} MESSAGES IN LAST 4H"]
         print(f"  {quick_1h} msgs in 1h (first page) — no hot topic")
         return [], headline_extras
 
