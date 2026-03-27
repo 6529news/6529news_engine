@@ -8,7 +8,7 @@
 <meta http-equiv="Expires" content="0">
 <title>6529 NEWS</title>
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Teko:wght@400;500;600;700&family=Share+Tech+Mono&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Teko:wght@400;500;600;700&family=Share+Tech+Mono&family=Anton&display=swap');
 
   /* =============================================
      DESIGN TOKENS
@@ -120,7 +120,7 @@
   @keyframes cardIn { from { opacity: 0; } to { opacity: 1; } }
 
   /* --- Category tag --- */
-  .card-cat-bar { display: flex; align-items: center; gap: 12px; margin-bottom: clamp(10px, 1.5vh, 16px); }
+  .card-cat-bar { display: flex; align-items: center; gap: 12px; margin-bottom: clamp(4px, 0.8vh, 8px); }
   .card-cat {
     background: var(--grad-red); color: var(--c-text);
     font-family: var(--f-display); font-weight: 700; font-size: clamp(15px, 1.8vw, 20px);
@@ -131,15 +131,16 @@
 
   /* --- Card body --- */
   .card-body { display: flex; flex-direction: column; flex: 1; min-height: 0; }
+  .card-text { margin-top: auto; }
 
   .card-preview {
-    width: 100%; max-height: clamp(160px, 38vh, 380px); overflow: hidden;
+    width: 100%; flex: 1; min-height: 0; overflow: hidden;
     border: 1px solid var(--c-gold-15); background: rgba(0,0,0,0.25);
-    margin-bottom: clamp(10px, 1.5vh, 16px); position: relative; opacity: 0;
+    margin-bottom: clamp(6px, 1vh, 12px); position: relative; opacity: 0;
   }
   .news-card.active .card-preview { animation: fadeIn 0.4s 0.15s ease-out forwards; }
   @keyframes fadeIn { to { opacity: 1; } }
-  .card-preview img, .card-preview video { width: 100%; max-height: clamp(160px, 38vh, 380px); object-fit: contain; display: block; }
+  .card-preview img, .card-preview video { width: 100%; height: 100%; object-fit: contain; display: block; }
   .card-preview-label {
     position: absolute; bottom: 0; left: 0; right: 0;
     background: linear-gradient(transparent, rgba(0,0,0,0.8));
@@ -190,16 +191,7 @@
   .source-link:hover { color: var(--c-gold); }
 
   /* --- Card layout variants --- */
-  /* No data boxes: preview can grow, summary gets more room */
-  .card-no-data .card-preview { max-height: clamp(220px, 50vh, 480px); }
-  .card-no-data .card-preview img, .card-no-data .card-preview video { max-height: clamp(220px, 50vh, 480px); }
   .card-no-data .card-summary { font-size: clamp(16px, 2.2vw, 24px); }
-
-  /* Big preview: short text + no data = preview takes most of the space */
-  .card-big-preview .card-preview { max-height: clamp(280px, 58vh, 550px); }
-  .card-big-preview .card-preview img, .card-big-preview .card-preview video { max-height: clamp(280px, 58vh, 550px); }
-
-  /* Cards with data table: zoom the preview a bit (cover) */
   .card-has-data .card-preview img, .card-has-data .card-preview video { object-fit: cover; }
 
   /* Multi-image grid (sales, submissions) */
@@ -207,8 +199,8 @@
   .card-multi-preview .card-summary { font-size: clamp(13px, 1.7vw, 20px); }
   .card-preview-grid {
     display: flex; gap: 3px; width: 100%;
-    max-height: clamp(180px, 42vh, 420px);
-    margin-bottom: clamp(8px, 1.2vh, 14px); opacity: 0;
+    flex: 1; min-height: 0;
+    margin-bottom: clamp(6px, 1vh, 12px); opacity: 0;
   }
   .news-card.active .card-preview-grid { animation: fadeIn 0.4s 0.15s ease-out forwards; }
   .card-preview-tile {
@@ -306,8 +298,27 @@
   .intro-overlay.fade-out { opacity: 0; pointer-events: none; }
   .intro-overlay.hidden   { display: none; }
 
-  #introNetwork {
-    position: absolute; inset: 0; width: 100%; height: 100%; z-index: 1;
+  .intro-words {
+    position: absolute; inset: 0; z-index: 2; pointer-events: none;
+    overflow: hidden; user-select: none;
+    display: flex; flex-direction: column; justify-content: center;
+    background: none;
+    opacity: 0;
+    animation: wordsIn 0.8s 0.05s ease-out forwards;
+  }
+  .intro-words-row {
+    white-space: nowrap;
+    font-family: 'Anton', sans-serif; font-weight: 400;
+    color: rgba(200,168,78,0.05);
+    text-transform: uppercase;
+    line-height: 0.88;
+    letter-spacing: 0;
+    font-size: clamp(100px, 25vh, 300px);
+    word-spacing: 0;
+  }
+  @keyframes wordsIn {
+    0%   { opacity: 0; }
+    100% { opacity: 1; }
   }
   @keyframes introFade { to { opacity: 1; } }
 
@@ -493,6 +504,7 @@
 <body>
 <div class="container" id="container">
   <div class="intro-overlay" id="introOverlay">
+    <div class="intro-words" id="introWords"></div>
     <div class="intro-flash"></div>
     <div class="intro-scanlines"></div>
     <div class="intro-logo">
@@ -563,6 +575,20 @@
 
 <script>
   // No scaling needed — layout is fully responsive via CSS
+
+  // === INTRO BACKGROUND WORDS ===
+  (function() {
+    const el = document.getElementById('introWords');
+    if (!el) return;
+    const rows = [
+      'TDHMEMESBRAINART',
+      'ARTBRAINTDHMEMES',
+      'MEMESARTTDHBRAIN',
+      'BRAINTDHARTMEMES',
+      'ARTMEMESBRAINTDH'
+    ];
+    el.innerHTML = rows.map(r => `<div class="intro-words-row">${r}</div>`).join('');
+  })();
 
   // Intro: 2.5s then fade
   setTimeout(() => {
@@ -884,14 +910,16 @@
       }
       const linkHTML = item.link ? `<a href="${item.link}" target="_blank" class="source-link">View</a>` : '';
       card.innerHTML = `
-        <div class="card-cat-bar"><div class="card-cat">${item.category}</div><div class="card-cat-line"></div></div>
         <div class="card-body">
           ${imageHTML}
-          <div class="card-headline">${highlightUsernames(item.headline)}</div>
-          <div class="card-divider"></div>
-          <div class="card-summary">${highlightUsernames(item.summary)}</div>
-          <div class="card-source"><div class="source-dot"></div><div class="source-text">${item.source || ''}</div>${linkHTML}</div>
-          ${dataHTML}
+          <div class="card-text">
+            <div class="card-cat-bar"><div class="card-cat">${item.category}</div><div class="card-cat-line"></div></div>
+            <div class="card-headline">${highlightUsernames(item.headline)}</div>
+            <div class="card-divider"></div>
+            <div class="card-summary">${highlightUsernames(item.summary)}</div>
+            <div class="card-source"><div class="source-dot"></div><div class="source-text">${item.source || ''}</div>${linkHTML}</div>
+            ${dataHTML}
+          </div>
         </div>`;
       stage.appendChild(card);
     });

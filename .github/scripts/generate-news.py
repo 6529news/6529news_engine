@@ -495,9 +495,7 @@ def build_sales_recap():
     }]
 
     # Build headline extras for the NEWS bar
-    # Highest sale in 24h
-    if highest['price'] > 0:
-        headline_extras.append(f"TOP SALE 24H: \"{highest['name']}\" {highest['price']:.3f} ETH")
+    # CONDITIONAL: Sweep alert only
     for cid, cnt in sweep_cards[:1]:
         headline_extras.append(f"SWEEP ALERT: CARD #{cid} - {cnt} SALES IN 24H")
 
@@ -697,24 +695,26 @@ def build_punk6529():
 
     headline_extra = []
 
-    # Check if active RIGHT NOW (posted in last hour)
+    # FIXED: Always show last seen (from most recent drop ever)
+    last = drops[0]
+    last_dt = datetime.fromtimestamp(last['created_at']/1000, tz=timezone.utc)
+    wave_name = last.get('wave', {}).get('name', 'unknown')
+
     if very_recent:
+        # Active right now: show ACTIVE NOW + N MESSAGES TODAY as separate headlines
         latest_wave = very_recent[0].get('wave', {}).get('name', 'unknown')
         headline_extra.append(f"PUNK6529 ACTIVE NOW IN {latest_wave.upper()}")
-
-    if not recent:
-        # Last seen
-        last = drops[0]
-        last_dt = datetime.fromtimestamp(last['created_at']/1000, tz=timezone.utc)
-        wave_name = last.get('wave', {}).get('name', 'unknown')
-        if not very_recent:
-            headline_extra.append(f"PUNK6529 LAST SEEN: {wave_name} ({last_dt.strftime('%b %d %H:%M UTC')})")
-        return [], headline_extra
-
-    if len(recent) < 5:
-        print(f"  Only {len(recent)} msgs in 24h (need 5+)")
-        if not very_recent:
+        if recent:
             headline_extra.append(f"PUNK6529: {len(recent)} MESSAGES TODAY")
+    else:
+        # Not active: show LAST SEEN
+        headline_extra.append(f"PUNK6529 LAST SEEN: {wave_name} ({last_dt.strftime('%b %d %H:%M UTC')})")
+        if recent:
+            headline_extra.append(f"PUNK6529: {len(recent)} MESSAGES TODAY")
+
+    if not recent or len(recent) < 5:
+        if recent:
+            print(f"  Only {len(recent)} msgs in 24h (need 5+)")
         return [], headline_extra
 
     # Get messages for AI summary
@@ -960,6 +960,69 @@ def build_new_submissions():
 
 
 # =============================================
+# 7. TDH ON SUBMISSIONS (Main Stage total)
+# =============================================
+def build_tdh_on_submissions():
+    """FIXED headline: total TDH across all Main Stage submissions."""
+    print("Calculating TDH on submissions...")
+    all_drops = []
+    sn = 999999
+    for _ in range(30):
+        data = fetch_json(f'https://api.6529.io/api/drops?wave_id={MEMES_WAVE_ID}&drop_type=PARTICIPATION&limit=50&serial_no_less_than={sn}')
+        if not data: break
+        all_drops += data
+        sn = data[-1]['serial_no']
+        if len(data) < 50: break
+
+    total_tdh = sum(d.get('realtime_rating', 0) for d in all_drops)
+    count = len(all_drops)
+    print(f"  {count} submissions, total TDH: {format_tdh(total_tdh)}")
+    return [f"TDH ON SUBMISSIONS: {format_tdh(total_tdh)} ({count} SUBMISSIONS)"]
+
+
+# =============================================
+# 8. NAKAMOTO SALES (conditional, check OpenSea)
+# =============================================
+NAKA_COLLECTION = 'nakamoto-freedom-by-punk6529'
+
+def build_naka_sales():
+    """CONDITIONAL headline: any Nakamoto card sale in last hour."""
+    print("Checking Nakamoto sales...")
+    if not OPENSEA_KEY:
+        return []
+    events = fetch_json(
+        f'https://api.opensea.io/api/v2/events/collection/{NAKA_COLLECTION}?event_type=sale&limit=10',
+        {'X-API-KEY': OPENSEA_KEY}
+    )
+    if not events or not events.get('asset_events'):
+        print("  No Nakamoto events")
+        return []
+
+    now = datetime.now(timezone.utc)
+    one_hour_ago = now - timedelta(hours=1)
+    headlines = []
+
+    for e in events['asset_events']:
+        ts = e.get('event_timestamp')
+        if not ts:
+            continue
+        if isinstance(ts, (int, float)):
+            sale_dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+        else:
+            sale_dt = datetime.fromisoformat(str(ts).replace('Z', '+00:00'))
+        if sale_dt >= one_hour_ago:
+            price = int(e['payment']['quantity']) / 1e18
+            name = e['nft'].get('name', 'Nakamoto Card')
+            headlines.append(f"NAKA SALE: \"{name}\" {price:.3f} ETH")
+
+    if headlines:
+        print(f"  {len(headlines)} Nakamoto sales in last hour")
+    else:
+        print("  No recent Nakamoto sales")
+    return headlines
+
+
+# =============================================
 # OUTPUT
 # =============================================
 def fetch_network_stats():
@@ -1124,8 +1187,11 @@ def main():
     print("\n--- Gradients Sales (conditional) ---")
     all_news += build_gradients_sales()
 
-    print("\n--- New Waves (headline) ---")
-    all_headlines += build_new_waves_headline()
+    print("\n--- TDH on Submissions (headline) ---")
+    all_headlines += build_tdh_on_submissions()
+
+    print("\n--- Nakamoto Sales (conditional headline) ---")
+    all_headlines += build_naka_sales()
 
     # --- BUILD OUTPUT ---
     output = build_output(all_news, ticker_data, all_headlines, top_memes_ranked[:3])
