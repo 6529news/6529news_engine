@@ -84,18 +84,21 @@ def fetch_ranked_drops(wave_id, limit=10):
         parts = d.get('parts') or []
         media = parts[0].get('media', []) if parts else []
         img = None
+        media_type = 'image'
         if media:
             url = media[0].get('url', '')
             mime = media[0].get('mime_type', '')
-            if url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/') or (mime.startswith('image/') and not url.startswith('ipfs://')):
+            if url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/') or ((mime.startswith('image/') or mime.startswith('video/')) and not url.startswith('ipfs://')):
                 img = url
+                if mime.startswith('video/'):
+                    media_type = 'video'
         all_ranked.append({
             'rank': d.get('rank', 0), 'title': d.get('title') or 'Untitled',
             'author': d['author']['handle'],
             'current_tdh': d.get('realtime_rating', 0),
             'projected_tdh': d.get('rating_prediction', 0),
             'voters': d.get('raters_count', 0),
-            'img': img
+            'img': img, 'media_type': media_type
         })
     return all_ranked
 
@@ -127,7 +130,7 @@ def build_top_memes():
                 break
 
     preview = next((s for s in top3 if s.get('img')), None)
-    image = {'url': preview['img'], 'label': f"{preview['title']} - {preview['author']}"} if preview else None
+    image = {'url': preview['img'], 'label': f"{preview['title']} - {preview['author']}", 'type': preview.get('media_type', 'image')} if preview else None
 
     summary = ' | '.join([f"\"{s['title']}\" by {s['author']} ({format_tdh(s['projected_tdh'])} projected TDH, {s['voters']} voters)" for s in top3])
     summary += countdown_text
@@ -157,7 +160,7 @@ def build_top_superrare():
     # Pick a random artist from top 10 with an image for the preview
     with_img = [s for s in top10 if s.get('img')]
     featured = random.choice(with_img) if with_img else top3[0]
-    image = {'url': featured['img'], 'label': f"{featured['author']} ({format_tdh(featured['current_tdh'])})"} if featured.get('img') else None
+    image = {'url': featured['img'], 'label': f"{featured['author']} ({format_tdh(featured['current_tdh'])})", 'type': featured.get('media_type', 'image')} if featured.get('img') else None
 
     # Headline changes based on whether featured is #1 or not
     feat_rank = next((i for i, s in enumerate(top10) if s['author'] == featured['author']), 0)
@@ -221,15 +224,18 @@ def _parse_winner(dec):
     # Try to get image: 1) from minted NFT CDN, 2) from drop media (only if it's an image), 3) from author's drop media on CDN
     img_url = get_minted_card_image(title)
 
+    img_media_type = 'image'
     if not img_url:
         parts = drop.get('parts') or []
         media = parts[0].get('media', []) if parts else []
         if media:
             mime = media[0].get('mime_type', '')
             url = media[0].get('url', '')
-            # Only use if it's an actual image served from a reliable CDN
-            if mime.startswith('image/') and not url.startswith('ipfs://'):
+            # Use if it's an image or video served from a reliable CDN
+            if (mime.startswith('image/') or mime.startswith('video/')) and not url.startswith('ipfs://'):
                 img_url = url
+                if mime.startswith('video/'):
+                    img_media_type = 'video'
             elif url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/'):
                 img_url = url  # 6529 CDN, always works
 
@@ -239,7 +245,7 @@ def _parse_winner(dec):
         if wave_data and wave_data.get('picture'):
             img_url = wave_data['picture']
 
-    image = {'url': img_url, 'label': f'{title} - {author}'} if img_url else None
+    image = {'url': img_url, 'label': f'{title} - {author}', 'type': img_media_type} if img_url else None
 
     # Top supporter from top_raters
     top_supporter = None
@@ -467,7 +473,9 @@ def build_sales_recap():
             if isinstance(nfts, list) and nfts:
                 img_url = nfts[0].get('thumbnail') or nfts[0].get('image')
                 if img_url:
-                    sales_images.append({'url': img_url, 'label': f'{sale["name"]} - {sale["price"]:.3f} ETH'})
+                    mime = (nfts[0].get('mime_type') or nfts[0].get('media_type') or '')
+                    s_type = 'video' if mime.startswith('video/') or img_url.lower().endswith(('.mp4','.webm','.mov')) else 'image'
+                    sales_images.append({'url': img_url, 'label': f'{sale["name"]} - {sale["price"]:.3f} ETH', 'type': s_type})
 
     sales_image = sales_images[0] if sales_images else None
 
@@ -564,17 +572,20 @@ def build_sr_submissions():
             if not media:
                 continue  # Only count actual art submissions with media
             img = None
+            m_type = 'image'
             mime = media[0].get('mime_type', '')
             url = media[0].get('url', '')
-            if mime.startswith('image/') and not url.startswith('ipfs://'):
+            if (mime.startswith('image/') or mime.startswith('video/')) and not url.startswith('ipfs://'):
                 img = url
+                if mime.startswith('video/'):
+                    m_type = 'video'
             elif url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/'):
                 img = url
             recent.append({
                 'title': d.get('title') or 'Untitled',
                 'author': d['author']['handle'],
                 'tdh': d.get('realtime_rating', 0),
-                'img': img
+                'img': img, 'media_type': m_type
             })
 
     if not recent: return []
@@ -582,12 +593,11 @@ def build_sr_submissions():
     recent.sort(key=lambda x: x['tdh'], reverse=True)
     count = len(recent)
 
-    # Best with image — prefer jpeg/gif (more likely artwork than png screenshots)
+    # Best with media — prefer jpeg/gif (more likely artwork than png screenshots), then video
     with_img = [s for s in recent if s.get('img')]
-    # Try to pick one with jpeg/gif first, then any
     preferred = [s for s in with_img if any(ext in s['img'].lower() for ext in ['.jpg', '.jpeg', '.gif', 'image/jpeg', 'image/gif'])]
     best = (preferred or with_img or recent)[0]
-    image = {'url': best['img'], 'label': best['author']} if best.get('img') else None
+    image = {'url': best['img'], 'label': best['author'], 'type': best.get('media_type', 'image')} if best.get('img') else None
 
     # Summary: just artist names, no TDH
     artists = list(dict.fromkeys(s['author'] for s in recent))
@@ -891,24 +901,29 @@ def build_new_submissions():
             mime = media[0].get('mime_type', '')
             url = media[0].get('url', '')
 
-            # Preview image: only displayable images < 5MB
+            # Preview media: images < 5MB, or videos
             img = None
-            if mime.startswith('image/') and not url.startswith('ipfs://'):
-                try:
-                    req = urllib.request.Request(url, method='HEAD')
-                    req.add_header('User-Agent', 'Mozilla/5.0 (compatible; 6529News/1.0)')
-                    with urllib.request.urlopen(req, timeout=5) as r:
-                        size = int(r.headers.get('Content-Length', 0))
-                        if size < 5_000_000:
-                            img = url
-                except:
-                    img = url  # If HEAD fails, include anyway
+            m_type = 'image'
+            if (mime.startswith('image/') or mime.startswith('video/')) and not url.startswith('ipfs://'):
+                if mime.startswith('video/'):
+                    img = url
+                    m_type = 'video'
+                else:
+                    try:
+                        req = urllib.request.Request(url, method='HEAD')
+                        req.add_header('User-Agent', 'Mozilla/5.0 (compatible; 6529News/1.0)')
+                        with urllib.request.urlopen(req, timeout=5) as r:
+                            size = int(r.headers.get('Content-Length', 0))
+                            if size < 5_000_000:
+                                img = url
+                    except:
+                        img = url  # If HEAD fails, include anyway
 
             recent.append({
                 'title': title or 'Untitled',
                 'author': d['author']['handle'],
                 'tdh': tdh,
-                'img': img
+                'img': img, 'media_type': m_type
             })
 
     if not recent: return []
@@ -923,9 +938,9 @@ def build_new_submissions():
             unique.append(s)
     count = len(unique)
 
-    # Top 3 images (only real images, already filtered for size < 5MB)
+    # Top 3 media (images/videos, already filtered for size < 5MB)
     with_img = [s for s in unique if s.get('img')]
-    top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})'} for s in with_img[:3]]
+    top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})', 'type': s.get('media_type', 'image')} for s in with_img[:3]]
 
     # Summary: ranked unique artists by TDH
     ranked = [f'{s["author"]} ({format_tdh(s["tdh"])})' for s in unique if s['tdh'] > 0][:8]

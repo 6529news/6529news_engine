@@ -139,7 +139,7 @@
   }
   .news-card.active .card-preview { animation: fadeIn 0.4s 0.15s ease-out forwards; }
   @keyframes fadeIn { to { opacity: 1; } }
-  .card-preview img { width: 100%; max-height: clamp(160px, 38vh, 380px); object-fit: contain; display: block; }
+  .card-preview img, .card-preview video { width: 100%; max-height: clamp(160px, 38vh, 380px); object-fit: contain; display: block; }
   .card-preview-label {
     position: absolute; bottom: 0; left: 0; right: 0;
     background: linear-gradient(transparent, rgba(0,0,0,0.8));
@@ -192,15 +192,15 @@
   /* --- Card layout variants --- */
   /* No data boxes: preview can grow, summary gets more room */
   .card-no-data .card-preview { max-height: clamp(220px, 50vh, 480px); }
-  .card-no-data .card-preview img { max-height: clamp(220px, 50vh, 480px); }
+  .card-no-data .card-preview img, .card-no-data .card-preview video { max-height: clamp(220px, 50vh, 480px); }
   .card-no-data .card-summary { font-size: clamp(16px, 2.2vw, 24px); }
 
   /* Big preview: short text + no data = preview takes most of the space */
   .card-big-preview .card-preview { max-height: clamp(280px, 58vh, 550px); }
-  .card-big-preview .card-preview img { max-height: clamp(280px, 58vh, 550px); }
+  .card-big-preview .card-preview img, .card-big-preview .card-preview video { max-height: clamp(280px, 58vh, 550px); }
 
   /* Cards with data table: zoom the preview a bit (cover) */
-  .card-has-data .card-preview img { object-fit: cover; }
+  .card-has-data .card-preview img, .card-has-data .card-preview video { object-fit: cover; }
 
   /* Multi-image grid (sales, submissions) */
   .card-multi-preview .card-headline { font-size: clamp(18px, 3vw, 34px); }
@@ -217,7 +217,7 @@
   }
   .card-preview-tile:first-child { border-radius: 4px 0 0 4px; }
   .card-preview-tile:last-child  { border-radius: 0 4px 4px 0; }
-  .card-preview-tile img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .card-preview-tile img, .card-preview-tile video { width: 100%; height: 100%; object-fit: cover; display: block; }
   .card-preview-tile .card-preview-label {
     position: absolute; bottom: 0; left: 0; right: 0;
     background: linear-gradient(transparent, rgba(0,0,0,0.85));
@@ -384,7 +384,7 @@
 
     /* --- Images: force minimum height so they fill space --- */
     .card-preview { min-height: 20vh; max-height: 32vh; max-height: 32dvh; margin-bottom: 4px; }
-    .card-preview img { width: 100%; height: 100%; max-height: 32vh; max-height: 32dvh; }
+    .card-preview img, .card-preview video { width: 100%; height: 100%; max-height: 32vh; max-height: 32dvh; }
     .card-preview-label { font-size: 7px; padding: 6px 5px 2px; }
     .card-preview-grid { min-height: 18vh; max-height: 30vh; max-height: 30dvh; }
     .card-preview-tile { min-height: 16vh; }
@@ -392,9 +392,9 @@
 
     /* Adaptive */
     .card-no-data .card-preview { min-height: 28vh; max-height: 40vh; max-height: 40dvh; }
-    .card-no-data .card-preview img { max-height: 40vh; max-height: 40dvh; }
+    .card-no-data .card-preview img, .card-no-data .card-preview video { max-height: 40vh; max-height: 40dvh; }
     .card-big-preview .card-preview { min-height: 32vh; max-height: 45vh; max-height: 45dvh; }
-    .card-big-preview .card-preview img { max-height: 45vh; max-height: 45dvh; }
+    .card-big-preview .card-preview img, .card-big-preview .card-preview video { max-height: 45vh; max-height: 45dvh; }
     .card-no-image .card-headline { font-size: 14px; }
     .card-no-image .card-summary { font-size: 11px; line-height: 1.35; }
     .card-multi-preview .card-headline { font-size: 11px; }
@@ -457,7 +457,7 @@
     .card-cat { font-size: 8px; padding: 2px 6px 1px; }
     .card-headline { font-size: 13px; }
     .card-summary { font-size: 10px; }
-    .card-preview, .card-preview img { max-height: 18vh; max-height: 18dvh; }
+    .card-preview, .card-preview img, .card-preview video { max-height: 18vh; max-height: 18dvh; }
     .card-preview-grid { max-height: 16vh; }
     .data-box { padding: 3px 2px; } .data-label { font-size: 6px; } .data-value { font-size: 11px; } .data-sub { font-size: 5px; }
     .headline-text { font-size: 8px; }
@@ -477,7 +477,7 @@
   .container.screenshot-mode .news-card { padding: 22px 30px 14px; }
   .container.screenshot-mode .card-headline { font-size: 34px; } .container.screenshot-mode .card-summary { font-size: 18px; }
   .container.screenshot-mode .card-cat { font-size: 16px; }
-  .container.screenshot-mode .card-preview, .container.screenshot-mode .card-preview img { max-height: 320px; }
+  .container.screenshot-mode .card-preview, .container.screenshot-mode .card-preview img, .container.screenshot-mode .card-preview video { max-height: 320px; }
   .container.screenshot-mode .data-label { font-size: 10px; } .container.screenshot-mode .data-value { font-size: 26px; } .container.screenshot-mode .data-sub { font-size: 10px; }
   .container.screenshot-mode .headline-bar { bottom: 58px; height: 58px; }
   .container.screenshot-mode .headline-label, .container.screenshot-mode .ticker-label { font-size: 20px; width: 100px; }
@@ -856,14 +856,18 @@
           `<div class="data-box"><div class="data-label">${highlightUsernames(d.label)}</div><div class="data-value">${d.value}</div><div class="data-sub">${d.sub}</div></div>`
         ).join('') + '</div>';
       }
+      const isVideo = (m) => m.type === 'video' || /\.(mp4|webm|mov|ogg)(\?|$)/i.test(m.url);
+      const mediaTag = (m) => isVideo(m)
+        ? `<video src="${m.url}" autoplay loop muted playsinline></video>`
+        : `<img src="${m.url}" alt="${m.label || ''}" loading="lazy">`;
       let imageHTML = '';
       if (item.images && item.images.length > 1) {
         imageHTML = '<div class="card-preview-grid">' + item.images.map(img =>
-          `<div class="card-preview-tile"><img src="${img.url}" alt="${img.label || ''}" loading="lazy"><div class="card-preview-label">${img.label || ''}</div></div>`
+          `<div class="card-preview-tile">${mediaTag(img)}<div class="card-preview-label">${img.label || ''}</div></div>`
         ).join('') + '</div>';
         card.classList.add('card-multi-preview');
       } else if (hasImage) {
-        imageHTML = `<div class="card-preview"><img src="${item.image.url}" alt="${item.image.label || ''}" loading="lazy"><div class="card-preview-label">${item.image.label || ''}</div></div>`;
+        imageHTML = `<div class="card-preview">${mediaTag(item.image)}<div class="card-preview-label">${item.image.label || ''}</div></div>`;
       }
       const linkHTML = item.link ? `<a href="${item.link}" target="_blank" class="source-link">View</a>` : '';
       card.innerHTML = `
