@@ -737,127 +737,122 @@ def build_punk6529():
 
 
 # =============================================
-# 5. MAYBE'S DIVE BAR HOT TOPIC (100+ msgs in 30 min window)
+# 5. HOT WAVE DETECTION (any wave with 200+ msgs/h)
 # =============================================
-def build_divebar_hot():
+HOT_THRESHOLD = 200
+
+def build_hot_wave():
     """
-    HOT IN MAYBE'S DIVE BAR — appears ONLY when there's a hot topic.
-    Detects burst of messages in last 2h. If activity drops, news disappears.
-    Uses AI to summarize the topic. Preview: dive bar wave picture.
+    Scans ALL active waves. Headline: most active wave in last 4h.
+    If any wave hits 200+ msgs/h → main news card with AI summary + wave picture.
+    Efficient: 1 call to /waves, then 1 call per recently active wave (max ~10).
     """
-    print("Checking dive bar hot topics...")
+    print("Checking hot waves...")
     now_ms = datetime.now(timezone.utc).timestamp() * 1000
     one_h_ago = now_ms - 3600 * 1000
-    twenty_four_h = now_ms - 24 * 3600 * 1000
+    four_h_ago = now_ms - 4 * 3600 * 1000
 
-    # Quick check: fetch 1 page to see if there's recent activity
-    first_page = fetch_json(f'https://api.6529.io/api/drops?wave_id={DIVEBAR_WAVE_ID}&limit=50')
-    if not first_page:
+    waves = fetch_json('https://api.6529.io/api/waves?limit=20')
+    if not waves or not isinstance(waves, list):
         return [], []
 
-    # Count how many of the last 50 drops are from the last hour
-    quick_1h = sum(1 for d in first_page if d['created_at'] > one_h_ago)
+    skip = {'QUORUM', 'quorum'}
+    active = []
+    hot_wave = None
 
-    # If less than 50 in the first page are from last hour, no hot topic possible (need 200+)
-    # Only paginate fully if the first page shows high activity
-    if quick_1h < 50:
-        # Not hot — count msgs in last 4h from first page
-        four_h_ago = now_ms - 4 * 3600 * 1000
-        msgs_4h = sum(1 for d in first_page if d['created_at'] > four_h_ago)
-        headline_extras = [f"DIVE BAR: {msgs_4h} MESSAGES IN LAST 4H"]
-        print(f"  {quick_1h} msgs in 1h (first page) — no hot topic")
+    for w in waves[:15]:
+        if w['name'] in skip:
+            continue
+        latest = w.get('metrics', {}).get('latest_drop_timestamp', 0)
+        if latest < four_h_ago:
+            continue
+
+        drops = fetch_json(f'https://api.6529.io/api/drops?wave_id={w["id"]}&limit=50')
+        if not drops:
+            continue
+        msgs_1h = sum(1 for d in drops if d['created_at'] > one_h_ago)
+        msgs_4h = sum(1 for d in drops if d['created_at'] > four_h_ago)
+
+        if msgs_4h >= 3:
+            active.append({'name': w['name'], 'count_4h': msgs_4h, 'count_1h': msgs_1h, 'wave': w})
+
+        # Hot check: if 50 msgs in first page from last hour, paginate to confirm
+        if msgs_1h >= 50 and not hot_wave:
+            all_drops = list(drops)
+            sn = drops[-1]['serial_no']
+            for _ in range(8):
+                page = fetch_json(f'https://api.6529.io/api/drops?wave_id={w["id"]}&limit=50&serial_no_less_than={sn}')
+                if not page: break
+                all_drops += page
+                sn = page[-1]['serial_no']
+                if page[-1]['created_at'] < one_h_ago: break
+            total_1h = sum(1 for d in all_drops if d['created_at'] > one_h_ago)
+            if total_1h >= HOT_THRESHOLD:
+                hot_wave = {'wave': w, 'drops': [d for d in all_drops if d['created_at'] > one_h_ago], 'msgs_1h': total_1h}
+
+    active.sort(key=lambda x: x['count_4h'], reverse=True)
+
+    # Headline: most active wave
+    headline_extras = []
+    if active:
+        top = active[:3]
+        headline_extras.append(f"ACTIVE: {' | '.join(a['name'] + ' (' + str(a['count_4h']) + ')' for a in top)}")
+        print(f"  Active: {[a['name'] + '(' + str(a['count_4h']) + ')' for a in top]}")
+    else:
+        print("  No active waves in last 4h")
+
+    if not hot_wave:
         return [], headline_extras
 
-    # Hot activity detected — paginate to get all drops in last hour
-    all_drops = list(first_page)
-    sn = first_page[-1]['serial_no']
-    for _ in range(10):
-        page = fetch_json(f'https://api.6529.io/api/drops?wave_id={DIVEBAR_WAVE_ID}&limit=50&serial_no_less_than={sn}')
-        if not page: break
-        all_drops += page
-        sn = page[-1]['serial_no']
-        if page[-1]['created_at'] < one_h_ago: break
+    # === HOT WAVE: AI summary ===
+    w = hot_wave['wave']
+    recent = hot_wave['drops']
+    msgs_1h = hot_wave['msgs_1h']
 
-    recent_1h = [d for d in all_drops if d['created_at'] > one_h_ago]
-    recent_24h = [d for d in all_drops if d['created_at'] > twenty_four_h]
-    msgs_1h = len(recent_1h)
-    msgs_24h = len(recent_24h)
-
-    headline_extras = [f"DIVE BAR: {msgs_24h} MESSAGES IN LAST 24H"]
-
-    # Hot topic: 200+ messages in last hour
-    if msgs_1h < 200:
-        print(f"  {msgs_1h} msgs in 1h (need 200+) — no hot topic")
-        return [], headline_extras
-
-    # Extract messages weighted by author level
     weighted_msgs = []
     authors = set()
-    for d in recent_1h:
+    for d in recent:
         parts = d.get('parts') or []
         content = (parts[0].get('content') or '')[:250] if parts else ''
-        author_data = d.get('author', {})
-        author = author_data.get('handle', '?')
-        level = author_data.get('level', 0) or 0
+        ad = d.get('author', {})
+        author = ad.get('handle', '?')
+        level = ad.get('level', 0) or 0
         if content and len(content) > 10:
             weighted_msgs.append({'author': author, 'level': level, 'content': content})
             authors.add(author)
 
-    # Sort by level descending — high level users first
     weighted_msgs.sort(key=lambda x: x['level'], reverse=True)
-
-    # Build prompt: top-level messages get more slots
     prompt_msgs = []
     for m in weighted_msgs:
-        # Level 50+ get full message, level 20-50 shorter, below 20 only if space
         if m['level'] >= 50:
             prompt_msgs.append(f"@{m['author']} (lv{m['level']}): {m['content'][:200]}")
-        elif m['level'] >= 20 and len(prompt_msgs) < 15:
-            prompt_msgs.append(f"@{m['author']}: {m['content'][:120]}")
-        elif len(prompt_msgs) < 20:
-            prompt_msgs.append(f"@{m['author']}: {m['content'][:80]}")
-
-    top_names = [f"{m['author']}(lv{m['level']})" for m in weighted_msgs[:3]]
-    print(f"  HOT: {msgs_1h} msgs in 1h, {len(authors)} authors, top: {top_names}")
+        elif len(prompt_msgs) < 15:
+            prompt_msgs.append(f"@{m['author']}: {m['content'][:100]}")
 
     summary = ai_summarize(
-        f"What topic is being discussed right now in this 6529 community chat? "
-        f"Reply in MAX 2 short sentences. Say what the topic is and who is driving the conversation. "
-        f"Use @username format. No filler words, no intro, just the topic:\n\n" +
-        '\n'.join(prompt_msgs[:15]),
-        max_tokens=100
-    )
+        f"What topic is being discussed right now in \"{w['name']}\" (6529 community)? "
+        f"MAX 2 short sentences. @username format. No filler:\n\n" +
+        '\n'.join(prompt_msgs[:15]), max_tokens=100)
     if not summary:
-        top = [m for m in weighted_msgs if m['level'] >= 20][:2]
-        if not top: top = weighted_msgs[:2]
-        summary = ' '.join([f"@{m['author']}: \"{m['content'][:50]}\"" for m in top])
+        top = weighted_msgs[:2]
+        summary = ' '.join(f"@{m['author']}: \"{m['content'][:50]}\"" for m in top)
 
-    # Generate short topic title from summary
     topic_title = ai_summarize(
-        f"Give a 3-5 word title for this discussion topic. No quotes, no punctuation, just the topic:\n\n{summary}",
-        max_tokens=20
-    )
+        f"3-5 word title for this topic. No quotes:\n\n{summary}", max_tokens=20)
     if not topic_title or len(topic_title) > 50:
         topic_title = f"{msgs_1h} msgs/h"
-    topic_title = topic_title.strip().strip('"').strip("'").strip('.')
+    topic_title = topic_title.strip().strip('"\'.')
 
-    # Get dive bar wave picture for preview
-    wave_data = fetch_json(f'https://api.6529.io/api/waves/{DIVEBAR_WAVE_ID}')
-    wave_pic = None
-    if wave_data:
-        pic_url = wave_data.get('picture')
-        if pic_url:
-            wave_pic = {'url': pic_url, 'label': "maybe's dive bar"}
-
-    top_names = [f"{m['author']}(lv{m['level']})" for m in weighted_msgs[:3]]
-    print(f"  HOT: {msgs_1h} msgs/h, topic: {topic_title}")
+    wave_pic = {'url': w['picture'], 'label': w['name']} if w.get('picture') else None
+    wname = w['name']
+    print(f"  HOT: {wname} — {msgs_1h} msgs/h, topic: {topic_title}")
 
     return [{
-        'category': 'HOT IN DIVE BAR',
-        'headline': f"Hot in Maybe's Dive Bar — {topic_title}",
+        'category': f'HOT IN {wname.upper()[:30]}',
+        'headline': f"Hot in {wname} — {topic_title}",
         'summary': summary,
-        'source': "maybe's dive bar",
-        'link': f'https://6529.io/waves/{DIVEBAR_WAVE_ID}',
+        'source': wname,
+        'link': f'https://6529.io/waves/{w["id"]}',
         'image': wave_pic, 'dataBoxes': None
     }], headline_extras
 
@@ -1041,18 +1036,16 @@ def update_gist(output):
 # HEADLINE: NEW WAVES
 # =============================================
 def build_new_waves_headline():
-    """Check new waves + most active waves in last 4h."""
-    print("Checking waves activity...")
-    waves = fetch_json('https://api.6529.io/api/waves?limit=20')
+    """Check if new waves were created in last 24h."""
+    print("Checking new waves...")
+    waves = fetch_json('https://api.6529.io/api/waves?limit=10')
     if not waves or not isinstance(waves, list):
         return []
 
     now_ms = datetime.now(timezone.utc).timestamp() * 1000
     twenty_four_h = now_ms - 24 * 3600 * 1000
-    four_h_ago = now_ms - 4 * 3600 * 1000
     headlines = []
 
-    # New waves in 24h
     new_waves = [w for w in waves if w.get('created_at', 0) > twenty_four_h]
     if new_waves:
         names = [w['name'] for w in new_waves[:3]]
@@ -1060,26 +1053,6 @@ def build_new_waves_headline():
             headlines.append(f"NEW WAVE: \"{names[0]}\"")
         else:
             headlines.append(f"NEW WAVES ({len(new_waves)}): {' | '.join(names)}")
-
-    # Most active waves in last 4h (auto-discovery, no config needed)
-    active = []
-    for w in waves[:15]:
-        latest = w.get('metrics', {}).get('latest_drop_timestamp', 0)
-        if latest < four_h_ago:
-            continue
-        # Quick check: 1 page
-        drops = fetch_json(f'https://api.6529.io/api/drops?wave_id={w["id"]}&limit=50')
-        if not drops:
-            continue
-        count = sum(1 for d in drops if d['created_at'] > four_h_ago)
-        if count >= 3:  # At least 3 msgs in 4h to be "active"
-            active.append({'name': w['name'], 'count': count})
-
-    active.sort(key=lambda x: x['count'], reverse=True)
-    if active:
-        top = active[:4]
-        headlines.append(f"ACTIVE WAVES: {' | '.join([f'{w[\"name\"]} ({w[\"count\"]}msg)' for w in top])}")
-        print(f"  Active waves: {[f'{w[\"name\"]}({w[\"count\"]})' for w in top]}")
 
     return headlines
 
@@ -1115,7 +1088,7 @@ def main():
     all_news += build_sr_submissions()
 
     print("\n--- 5. Dive Bar (conditional) ---")
-    bar_news, bar_headlines = build_divebar_hot()
+    bar_news, bar_headlines = build_hot_wave()
     all_news += bar_news
     all_headlines += bar_headlines
 

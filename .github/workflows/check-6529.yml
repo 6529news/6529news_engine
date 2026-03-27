@@ -51,16 +51,16 @@ jobs:
           if p6529_news:
               insert_at = len(news)
               for i, n in enumerate(news):
-                  if n.get('category') in ('SR SUBMISSIONS', 'HOT IN DIVE BAR', 'SALES RECAP'):
+                  if n.get('category') in ('SR SUBMISSIONS', 'HOT IN', 'SALES RECAP'):
                       insert_at = i
                       break
               news.insert(insert_at, p6529_news[0])
               changed = True
 
           # Check dive bar hot topic
-          bar_news, bar_h = gen.build_divebar_hot()
+          bar_news, bar_h = gen.build_hot_wave()
           # Remove old dive bar card
-          news = [n for n in news if n.get('category') != 'HOT IN DIVE BAR']
+          news = [n for n in news if n.get('category') != 'HOT IN']
           # Remove old dive bar headline
           headlines = [h for h in headlines if 'DIVE BAR' not in h.upper()]
           headlines += bar_h
