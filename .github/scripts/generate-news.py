@@ -490,8 +490,6 @@ def build_sales_recap():
     # Highest sale in 24h
     if highest['price'] > 0:
         headline_extras.append(f"TOP SALE 24H: \"{highest['name']}\" {highest['price']:.3f} ETH")
-    if high_sales and len(high_sales) > 1:
-        headline_extras.append(f"HIGH SALE: {high_sales[0]}")
     for cid, cnt in sweep_cards[:1]:
         headline_extras.append(f"SWEEP ALERT: CARD #{cid} - {cnt} SALES IN 24H")
 
