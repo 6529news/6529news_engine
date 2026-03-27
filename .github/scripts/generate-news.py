@@ -1187,9 +1187,6 @@ def main():
     print("\n--- Gradients Sales (conditional) ---")
     all_news += build_gradients_sales()
 
-    print("\n--- TDH on Submissions (headline) ---")
-    all_headlines += build_tdh_on_submissions()
-
     print("\n--- Nakamoto Sales (conditional headline) ---")
     all_headlines += build_naka_sales()
 
