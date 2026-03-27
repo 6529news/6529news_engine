@@ -396,7 +396,7 @@ def build_minting_status():
         if latest_sel <= now < l_start:
             # Between selection and midnight CET before mint = MINTING TOMORROW (or MINTING MONDAY etc)
             cards.append({
-                'category': 'MINTING TOMORROW', 'headline': f"Minting {l_mint_day_name}",
+                'category': f'MINTING {l_mint_day_name.upper()}', 'headline': f"Minting {l_mint_day_name}",
                 'summary': f"{latest_desc}" if latest_desc else f"Next card to be minted.",
                 'source': 'The Memes', 'link': 'https://6529.io/the-memes',
                 'image': latest_image, 'dataBoxes': None
