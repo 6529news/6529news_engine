@@ -88,8 +88,20 @@ def fetch_ranked_drops(wave_id, limit=10):
         if media:
             url = media[0].get('url', '')
             mime = media[0].get('mime_type', '')
-            # Accept any https URL (CDN, direct links, etc.) — reject only ipfs
-            if url.startswith('https://'):
+            if mime == 'text/html':
+                # HTML submission: look for preview_image in metadata.additional_media
+                for m in d.get('metadata', []):
+                    if m.get('data_key') == 'additional_media':
+                        try:
+                            extra = json.loads(m['data_value'])
+                            preview_url = extra.get('preview_image', '')
+                            if preview_url and preview_url.startswith('https://'):
+                                img = preview_url
+                                if preview_url.lower().endswith(('.mp4', '.webm', '.mov')):
+                                    media_type = 'video'
+                        except: pass
+                        break
+            elif url.startswith('https://'):
                 img = url
                 if mime.startswith('video/') or url.lower().endswith(('.mp4', '.webm', '.mov')):
                     media_type = 'video'
