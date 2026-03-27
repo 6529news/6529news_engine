@@ -298,7 +298,7 @@ def build_minting_status():
     # CARD 2 (next mint): NEXT MINT (appears during MINTING TODAY/STILL MINTING)
     # =============================================
 
-    SEL_HOUR = 17
+    SEL_HOUR = 16  # 16:00 UTC = 17:00 CET
     MIDNIGHT_CET = 23
     END_STILL = 15
     sel_to_mint_offset = {0: 2, 2: 2, 4: 3}
