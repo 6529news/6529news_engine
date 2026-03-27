@@ -1046,7 +1046,8 @@ def build_new_waves_headline():
     twenty_four_h = now_ms - 24 * 3600 * 1000
     headlines = []
 
-    new_waves = [w for w in waves if w.get('created_at', 0) > twenty_four_h]
+    skip = {'QUORUM', 'quorum'}
+    new_waves = [w for w in waves if w.get('created_at', 0) > twenty_four_h and w['name'] not in skip]
     if new_waves:
         names = [w['name'] for w in new_waves[:3]]
         if len(new_waves) == 1:
