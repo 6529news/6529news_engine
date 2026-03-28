@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T09:54:21.140673+00:00",
+  "generated_at": "2026-03-28T10:30:49.156256+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 53.5M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (53.5M projected TDH, 69 voters) | \"Network for Good \" by BrynnAlise (45.3M projected TDH, 72 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 114 voters) Next selection in 2d 6h.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (53.5M projected TDH, 69 voters) | \"Network for Good \" by BrynnAlise (45.3M projected TDH, 72 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 114 voters) Next selection in 2d 5h.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -59,8 +59,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "15 New Memes Submissions (7d)",
-      "summary": "15 submissions this week. Ranking: Sert (21.0M) | RegularDad (2.1M) | Burnasso (357K) | Saharrococo (22K) | lewisosb (20K) | Carity (16K) | peternitsch (13K) | Keegan (12K).",
+      "headline": "16 New Memes Submissions (7d)",
+      "summary": "16 submissions this week. Ranking: Sert (27.9M) | RegularDad (2.1M) | Burnasso (357K) | Saharrococo (22K) | lewisosb (20K) | Carity (16K) | peternitsch (13K) | Keegan (12K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -212,6 +212,7 @@
     }
   ],
   "headline_extras": [
+    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 11d AGO"
   ]
 }
