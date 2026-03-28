@@ -455,9 +455,20 @@ def build_sales_recap():
     high_sales = []
     sweeps = {}
     headline_extras = []
+    now = datetime.now(timezone.utc)
+    twenty_four_h_ago = now - timedelta(hours=24)
 
     if sales_data and 'asset_events' in sales_data:
         for e in sales_data['asset_events']:
+            # Filter: only sales within last 24h
+            ts = e.get('event_timestamp')
+            if ts:
+                if isinstance(ts, (int, float)):
+                    sale_dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+                else:
+                    sale_dt = datetime.fromisoformat(str(ts).replace('Z', '+00:00'))
+                if sale_dt < twenty_four_h_ago:
+                    continue
             price = int(e['payment']['quantity']) / 1e18
             name = e['nft']['name']
             card_id = e['nft']['identifier']
