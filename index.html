@@ -228,11 +228,11 @@
   .headline-bar { position: absolute; bottom: var(--bar-h); left: 0; right: 0; height: var(--bar-h); z-index: 15; display: flex; }
   .headline-label {
     background: var(--grad-red); color: var(--c-text);
-    font-family: var(--f-display); font-weight: 700; font-size: clamp(17px, 2vw, 22px);
+    font-family: var(--f-display); font-weight: 700; font-size: clamp(18px, 2.2vw, 24px);
     letter-spacing: 3px;
     width: var(--label-w); flex-shrink: 0;
     display: flex; align-items: center; justify-content: center;
-    padding-top: 2px;
+    padding-bottom: 2px;
   }
   .headline-content {
     flex: 1; min-width: 0;
@@ -243,7 +243,7 @@
   .headline-scroll { flex: 1; min-width: 0; overflow: hidden; }
   .headline-text {
     color: var(--c-text); font-family: var(--f-body); font-weight: 500;
-    font-size: clamp(14px, 1.8vw, 20px); letter-spacing: 1px;
+    font-size: clamp(15px, 2vw, 22px); letter-spacing: 1px;
     white-space: nowrap; text-transform: uppercase; display: inline-block;
   }
   .headline-text.scrolling { animation: scroll 12s linear infinite; }
@@ -269,10 +269,11 @@
   }
   .ticker-label {
     background: linear-gradient(180deg, var(--c-text), #d8c8a8); color: var(--c-red);
-    font-family: var(--f-display); font-weight: 700; font-size: clamp(17px, 2vw, 22px);
+    font-family: var(--f-display); font-weight: 700; font-size: clamp(18px, 2.2vw, 24px);
     letter-spacing: 2px;
     width: var(--label-w); flex-shrink: 0;
     display: flex; align-items: center; justify-content: center;
+    padding-bottom: 2px;
   }
   .ticker-track  { flex: 1; overflow: hidden; display: flex; align-items: center; position: relative; }
   .ticker-content { display: flex; align-items: center; white-space: nowrap; animation: tickerScroll 40s linear infinite; position: absolute; left: 0; }

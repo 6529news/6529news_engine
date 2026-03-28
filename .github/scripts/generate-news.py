@@ -717,35 +717,40 @@ def build_gradients_sales():
 # =============================================
 def build_punk6529():
     print("Checking punk6529...")
-    drops = fetch_json(f'https://api.6529.io/api/drops?author={PUNK6529_HANDLE}&limit=20')
-    if not drops:
-        print("  API failed — adding fallback headline")
+    try:
+        drops = fetch_json(f'https://api.6529.io/api/drops?author={PUNK6529_HANDLE}&limit=20')
+    except Exception as e:
+        print(f"  API exception: {e}")
+        drops = None
+
+    if not drops or not isinstance(drops, list) or len(drops) == 0:
+        print(f"  No drops data (got: {type(drops).__name__}) — adding fallback headline")
         return [], ["PUNK6529 LAST SEEN: (data unavailable)"]
 
     now_ms = datetime.now(timezone.utc).timestamp() * 1000
     one_hour = now_ms - 3600 * 1000
     twenty_four_h = now_ms - 24 * 3600 * 1000
-    recent = [d for d in drops if d['created_at'] > twenty_four_h]
-    very_recent = [d for d in drops if d['created_at'] > one_hour]
+    recent = [d for d in drops if d.get('created_at', 0) > twenty_four_h]
+    very_recent = [d for d in drops if d.get('created_at', 0) > one_hour]
 
     headline_extra = []
 
     # FIXED: Always show last seen (from most recent drop ever)
     last = drops[0]
-    last_dt = datetime.fromtimestamp(last['created_at']/1000, tz=timezone.utc)
-    wave_name = last.get('wave', {}).get('name', 'unknown')
+    last_dt = datetime.fromtimestamp(last.get('created_at', 0)/1000, tz=timezone.utc)
+    wave_name = (last.get('wave') or {}).get('name') or 'unknown'
 
     if very_recent:
-        # Active right now: show ACTIVE NOW + N MESSAGES TODAY as separate headlines
-        latest_wave = very_recent[0].get('wave', {}).get('name', 'unknown')
+        latest_wave = (very_recent[0].get('wave') or {}).get('name') or 'unknown'
         headline_extra.append(f"PUNK6529 ACTIVE NOW IN {latest_wave.upper()}")
         if recent:
             headline_extra.append(f"PUNK6529: {len(recent)} MESSAGES TODAY")
     else:
-        # Not active: show LAST SEEN
         headline_extra.append(f"PUNK6529 LAST SEEN: {wave_name} ({last_dt.strftime('%b %d %H:%M UTC')})")
         if recent:
             headline_extra.append(f"PUNK6529: {len(recent)} MESSAGES TODAY")
+
+    print(f"  punk6529: {len(recent)} recent, {len(very_recent)} very_recent, headlines: {headline_extra}")
 
     if not recent or len(recent) < 5:
         if recent:
