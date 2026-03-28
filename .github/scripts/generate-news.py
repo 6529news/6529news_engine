@@ -1209,7 +1209,7 @@ def main():
     print("\n--- 5. Dive Bar (conditional) ---")
     bar_news, bar_headlines = build_hot_wave()
     all_news += bar_news
-    all_headlines += bar_headlines
+    # bar_headlines (ACTIVE waves) excluded from breaking — only fixed headlines
 
     print("\n--- 6. punk6529 (conditional) ---")
     p6529_news, p6529_headlines = build_punk6529()
