@@ -2,8 +2,8 @@ name: Generate Daily News
 
 on:
   schedule:
-    # Every 4 hours: full update (sales, submissions, top memes/SR, dive bar, waves)
-    - cron: '0 0,4,8,12,16,20 * * *'
+    # Every 2 hours: full update (sales, submissions, top memes/SR, dive bar, waves)
+    - cron: '0 */2 * * *'
     # Post-selection: Mon/Wed/Fri at 16:01 UTC (17:01 CET, right after selection)
     - cron: '1 16 * * 1,3,5'
     # Midnight UTC: reset daily counters
