@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T05:14:58.665918+00:00",
+  "generated_at": "2026-03-28T07:43:35.409712+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "ikertje Leads with 53.4M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (53.4M projected TDH, 69 voters) | \"Network for Good \" by BrynnAlise (45.3M projected TDH, 71 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 114 voters) Next selection in 2d 10h.",
+      "headline": "ikertje Leads with 53.5M Projected TDH",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (53.5M projected TDH, 69 voters) | \"Network for Good \" by BrynnAlise (45.3M projected TDH, 72 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 114 voters) Next selection in 2d 8h.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "ikertje",
-          "value": "53.4M",
+          "value": "53.5M",
           "sub": "proj. (69 votes)"
         },
         {
           "label": "BrynnAlise",
           "value": "45.3M",
-          "sub": "proj. (71 votes)"
+          "sub": "proj. (72 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "14 New Memes Submissions (7d)",
-      "summary": "14 submissions this week. Ranking: Sert (16.0M) | RegularDad (2.1M) | Burnasso (347K) | Saharrococo (12K) | lewisosb (10K) | Carity (6K) | peternitsch (3K) | Keegan (2K).",
+      "summary": "14 submissions this week. Ranking: Sert (19.6M) | RegularDad (2.1M) | Burnasso (347K) | Saharrococo (12K) | lewisosb (10K) | Carity (6K) | peternitsch (3K) | Keegan (2K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (301K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       },
       "dataBoxes": [
@@ -118,8 +118,8 @@
     },
     {
       "category": "SR SUBMISSIONS",
-      "headline": "9 SuperRare Submissions This Week",
-      "summary": "9 SuperRare submissions this week: Keegan, Metpenfaul, JasonOPhoto, desolalasisi, dougfriesen, dorinphotograph.",
+      "headline": "8 SuperRare Submissions This Week",
+      "summary": "8 SuperRare submissions this week: Keegan, Metpenfaul, JasonOPhoto, desolalasisi, dougfriesen, dorinphotograph.",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
@@ -132,28 +132,28 @@
     {
       "category": "SALES RECAP",
       "headline": "11 Sales Today - 0.28 ETH Volume",
-      "summary": "11 sales in 24h for 0.28 ETH. Highest: \"The Socially Umpired Animals\" at 0.420 ETH.",
+      "summary": "11 sales in 24h for 0.28 ETH. Highest: \"Can You Still Tell?\" at 0.042 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/118.WEBP",
-        "label": "The Socially Umpired Animals - 0.420 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/434.WEBP",
+        "label": "Can You Still Tell? - 0.042 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/118.WEBP",
-          "label": "The Socially Umpired Animals - 0.420 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/434.WEBP",
+          "label": "Can You Still Tell? - 0.042 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/237.WEBP",
-          "label": "I CAN HAS ETHEREUM? - 0.369 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/361.WEBP",
+          "label": "Hey Donald... you\u2019re fired. - 0.034 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/291.WEBP",
-          "label": "HODLRROR - 0.130 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/262.WEBP",
+          "label": "Meme BUIDLoors - 0.031 ETH",
           "type": "image"
         }
       ],
@@ -170,8 +170,8 @@
         },
         {
           "label": "Top Sale",
-          "value": "0.420",
-          "sub": "The Socially Umpired"
+          "value": "0.042",
+          "sub": "Can You Still Tell?"
         },
         {
           "label": "Floor",
@@ -200,7 +200,7 @@
     },
     {
       "label": "#1 ikertje",
-      "value": "53.4M TDH"
+      "value": "53.5M TDH"
     },
     {
       "label": "24h Vol",
@@ -208,10 +208,11 @@
     },
     {
       "label": "7d Vol",
-      "value": "10.41 ETH"
+      "value": "10.26 ETH"
     }
   ],
   "headline_extras": [
+    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 11d AGO"
   ]
 }
