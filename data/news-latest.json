@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T16:19:02.490117+00:00",
+  "generated_at": "2026-03-28T20:16:54.683938+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "ikertje Leads with 54.6M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (54.6M projected TDH, 72 voters) | \"Network for Good \" by BrynnAlise (46.8M projected TDH, 75 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 114 voters) Next selection in 1d 23h.",
+      "headline": "ikertje Leads with 54.7M Projected TDH",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (54.7M projected TDH, 73 voters) | \"Network for Good \" by BrynnAlise (46.8M projected TDH, 77 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 114 voters) Next selection in 1d 19h.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "ikertje",
-          "value": "54.6M",
-          "sub": "proj. (72 votes)"
+          "value": "54.7M",
+          "sub": "proj. (73 votes)"
         },
         {
           "label": "BrynnAlise",
           "value": "46.8M",
-          "sub": "proj. (75 votes)"
+          "sub": "proj. (77 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "16 New Memes Submissions (7d)",
-      "summary": "16 submissions this week. Ranking: Sert (31.9M) | peternitsch (486K) | Burnasso (357K) | desolalasisi (24K) | Carity (24K) | Saharrococo (23K) | lewisosb (20K) | Keegan (12K).",
+      "summary": "16 submissions this week. Ranking: Sert (31.9M) | peternitsch (486K) | Burnasso (357K) | desolalasisi (25K) | Carity (24K) | Saharrococo (23K) | lewisosb (20K) | Keegan (12K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -118,8 +118,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "10 Sales Today - 0.29 ETH Volume",
-      "summary": "10 sales in 24h for 0.29 ETH. Highest: \"Citizen 6529\" at 0.079 ETH.",
+      "headline": "7 Sales Today - 0.23 ETH Volume",
+      "summary": "7 sales in 24h for 0.23 ETH. Highest: \"Citizen 6529\" at 0.079 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -134,25 +134,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/434.WEBP",
-          "label": "Can You Still Tell? - 0.042 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/363.GIF",
+          "label": "MEMECRYPTION - 0.035 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/363.GIF",
-          "label": "MEMECRYPTION - 0.035 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/402.GIF",
+          "label": "Survive Protocol - 0.026 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "10",
+          "value": "7",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.29",
+          "value": "0.23",
           "sub": "ETH"
         },
         {
@@ -162,7 +162,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0146",
+          "value": "0.014599",
           "sub": "ETH"
         }
       ]
@@ -175,7 +175,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.6 ETH"
+      "value": "38.8 ETH"
     },
     {
       "label": "Holders",
@@ -187,20 +187,20 @@
     },
     {
       "label": "#1 ikertje",
-      "value": "54.6M TDH"
+      "value": "54.7M TDH"
     },
     {
       "label": "24h Vol",
-      "value": "0.29 ETH"
+      "value": "0.23 ETH"
     },
     {
       "label": "7d Vol",
-      "value": "10.09 ETH"
+      "value": "9.26 ETH"
     }
   ],
   "headline_extras": [
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 11d AGO",
-    "ACTIVE: Desola's art diary (3)",
-    "ACTIVE: Desola's art diary (3)"
+    "ACTIVE: Eddie's Fire (3) | Desola's art diary (3)",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 11d AGO"
   ]
 }
