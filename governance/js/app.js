@@ -278,7 +278,14 @@ async function renderProposalDetail(id) {
     `;
     }
   } else if (voted) {
-    voteSection = '<div class="voted-msg">You have already voted on this proposal.</div>';
+    const userVote = tally.votes.find(v =>
+      (v.voter || '').toLowerCase() === userIdentity.primaryAddress.toLowerCase() ||
+      (v.submittedBy || '').toLowerCase() === userIdentity.primaryAddress.toLowerCase()
+    );
+    voteSection = `<div class="voted-msg">
+      You voted <strong>${userVote ? userVote.vote.toUpperCase() : ''}</strong> with ${userVote ? formatTDH(userVote.allocatedTDH || userVote.effectiveTDH) : ''} TDH.
+      ${proposal.status === 'active' && !isExpired ? '<button class="btn btn-no btn-sm" id="btnWithdraw">Withdraw Vote</button>' : ''}
+    </div>`;
   } else if (!userIdentity) {
     voteSection = '<div class="voted-msg">Connect your wallet to vote.</div>';
   }
@@ -395,6 +402,30 @@ async function renderProposalDetail(id) {
       btnDel.textContent = 'Delete Proposal';
     }
   });
+
+  // Withdraw vote handler
+  const btnWithdraw = document.getElementById('btnWithdraw');
+  if (btnWithdraw) btnWithdraw.addEventListener('click', async () => {
+    if (!confirm('Withdraw your vote? Your TDH will be freed.')) return;
+    btnWithdraw.disabled = true;
+    btnWithdraw.textContent = 'Withdrawing...';
+    try {
+      const primaryAddr = userIdentity.primaryAddress.toLowerCase();
+      const myVote = tally.votes.find(v =>
+        (v.voter || '').toLowerCase() === primaryAddr ||
+        (v.submittedBy || '').toLowerCase() === primaryAddr
+      );
+      if (!myVote || !myVote.issueNumber) throw new Error('Vote issue not found');
+      await deleteProposal(myVote.issueNumber, userIdentity.primaryAddress);
+      showToast('Vote withdrawn', 'success');
+      invalidateCache();
+      renderProposalDetail(id);
+    } catch (err) {
+      showToast(err.message, 'error');
+      btnWithdraw.disabled = false;
+      btnWithdraw.textContent = 'Withdraw Vote';
+    }
+  });
 }
 
 async function handleVote(proposalId, vote) {
@@ -427,6 +458,10 @@ async function handleVote(proposalId, vote) {
     }
 
     showToast(`Vote ${vote.toUpperCase()} submitted with ${formatTDH(allocatedTDH)} TDH!`, 'success');
+
+    // Refresh the proposal view after a short delay to show updated tally
+    invalidateCache();
+    setTimeout(() => renderProposalDetail(proposalId), 2000);
   } catch (err) {
     if (statusEl) statusEl.innerHTML = `<span class="status-error">${err.message}</span>`;
     if (btnYes) btnYes.disabled = false;
