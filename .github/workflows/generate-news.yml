@@ -1,13 +1,9 @@
-name: Generate Daily News
+name: Generate News
 
 on:
   schedule:
-    # Every 2 hours: full update (sales, submissions, top memes/SR, dive bar, waves)
-    - cron: '0 */2 * * *'
-    # Post-selection: Mon/Wed/Fri at 16:01 UTC (17:01 CET, right after selection)
-    - cron: '1 16 * * 1,3,5'
-    # Midnight UTC: reset daily counters
-    - cron: '0 0 * * *'
+    # Every 15 minutes: full update
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:

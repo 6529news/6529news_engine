@@ -958,7 +958,7 @@
   showCard(0);
   autoTimer = setInterval(() => showCard(currentIndex+1), CARD_DURATION);
   loadDynamicNews();
-  setInterval(loadDynamicNews, 2*60*60*1000);
+  setInterval(loadDynamicNews, 15*60*1000);
 
   // Screenshot
   const h2c = document.createElement('script');
