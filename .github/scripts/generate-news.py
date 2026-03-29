@@ -1070,12 +1070,18 @@ def build_divebar_activity():
     print("Checking dive bar activity...")
     now_ms = datetime.now(timezone.utc).timestamp() * 1000
     one_h_ago = now_ms - 3600 * 1000
-    drops = fetch_json(f'https://api.6529.io/api/drops?wave_id={DIVEBAR_WAVE_ID}&limit=50')
-    if not drops or not isinstance(drops, list):
-        return ["DIVE BAR: 0 MSGS IN LAST HOUR"]
-    msgs_1h = sum(1 for d in drops if d.get('created_at', 0) > one_h_ago)
-    print(f"  Dive bar: {msgs_1h} msgs in last hour")
-    return [f"DIVE BAR: {msgs_1h} MSGS IN LAST HOUR"]
+    total = 0
+    sn = 999999
+    for _ in range(15):
+        drops = fetch_json(f'https://api.6529.io/api/drops?wave_id={DIVEBAR_WAVE_ID}&limit=50&serial_no_less_than={sn}')
+        if not drops or not isinstance(drops, list) or len(drops) == 0:
+            break
+        total += sum(1 for d in drops if d.get('created_at', 0) > one_h_ago)
+        sn = drops[-1]['serial_no']
+        if drops[-1].get('created_at', 0) < one_h_ago:
+            break
+    print(f"  Dive bar: {total} msgs in last hour")
+    return [f"DIVE BAR: {total} MSGS IN LAST HOUR"]
 
 
 # =============================================
