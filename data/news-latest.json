@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T20:33:31.716868+00:00",
+  "generated_at": "2026-03-29T21:04:23.608038+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 55.4M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (55.4M projected TDH, 78 voters) | \"Network for Good \" by BrynnAlise (51.6M projected TDH, 81 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 115 voters) Next selection in 19h 26m.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (55.4M projected TDH, 78 voters) | \"Network for Good \" by BrynnAlise (51.6M projected TDH, 81 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 18h 55m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,8 +39,8 @@
         },
         {
           "label": "Guidodisalle",
-          "value": "44.7M",
-          "sub": "proj. (115 votes)"
+          "value": "45.3M",
+          "sub": "proj. (116 votes)"
         }
       ]
     },
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 1.4M TDH",
+      "headline": "JasonOPhoto Leads with 2.1M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (82K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (1.4M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       },
       "dataBoxes": [
@@ -175,7 +175,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.4 ETH"
+      "value": "38.5 ETH"
     },
     {
       "label": "Holders",
@@ -199,6 +199,8 @@
     }
   ],
   "headline_extras": [
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 12d AGO"
+    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 12d AGO",
+    "DIVE BAR: 22 MSGS IN LAST HOUR"
   ]
 }
