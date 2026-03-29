@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T12:56:34.144161+00:00",
+  "generated_at": "2026-03-29T13:54:54.844450+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 54.7M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (54.7M projected TDH, 76 voters) | \"Network for Good \" by BrynnAlise (46.8M projected TDH, 80 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 115 voters) Next selection in 1d 3h.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (54.7M projected TDH, 76 voters) | \"Network for Good \" by BrynnAlise (46.8M projected TDH, 80 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 115 voters) Next selection in 1d 2h.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "15 New Memes Submissions (7d)",
-      "summary": "15 submissions this week. Ranking: Sert (31.9M) | peternitsch (487K) | desolalasisi (32K) | Carity (24K) | Saharrococo (23K) | Keegan (12K).",
+      "summary": "15 submissions this week. Ranking: Sert (31.9M) | peternitsch (487K) | desolalasisi (32K) | Carity (24K) | Keegan (12K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -67,9 +67,9 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3fe1377b-57ca-4f92-bf04-316c9c17a1a1/9c0d7abe-456b-41ce-921b-da71baac43a4.jpeg",
-          "label": "AEZY (0)",
-          "type": "image"
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ebb895e0-78fd-41ef-b2eb-f397454deca5/ce70dfac-9f4a-4178-9586-23e08b9e957f.mov",
+          "label": "ikertje (0)",
+          "type": "video"
         }
       ],
       "dataBoxes": null
@@ -175,7 +175,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH"
+      "value": "38.2 ETH"
     },
     {
       "label": "Holders",
@@ -199,6 +199,8 @@
     }
   ],
   "headline_extras": [
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 12d AGO"
+    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 12d AGO",
+    "DIVE BAR: 24 MSGS IN LAST HOUR"
   ]
 }
