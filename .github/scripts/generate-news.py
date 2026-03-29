@@ -1063,6 +1063,22 @@ def build_naka_sales():
 
 
 # =============================================
+# 9. DIVE BAR ACTIVITY (messages in last hour)
+# =============================================
+def build_divebar_activity():
+    """FIXED headline: message count in maybe's dive bar last hour."""
+    print("Checking dive bar activity...")
+    now_ms = datetime.now(timezone.utc).timestamp() * 1000
+    one_h_ago = now_ms - 3600 * 1000
+    drops = fetch_json(f'https://api.6529.io/api/drops?wave_id={DIVEBAR_WAVE_ID}&limit=50')
+    if not drops or not isinstance(drops, list):
+        return ["DIVE BAR: 0 MSGS IN LAST HOUR"]
+    msgs_1h = sum(1 for d in drops if d.get('created_at', 0) > one_h_ago)
+    print(f"  Dive bar: {msgs_1h} msgs in last hour")
+    return [f"DIVE BAR: {msgs_1h} MSGS IN LAST HOUR"]
+
+
+# =============================================
 # OUTPUT
 # =============================================
 def fetch_network_stats():
@@ -1226,6 +1242,9 @@ def main():
 
     print("\n--- Gradients Sales (conditional) ---")
     all_news += build_gradients_sales()
+
+    print("\n--- Dive Bar activity (headline) ---")
+    all_headlines += build_divebar_activity()
 
     print("\n--- Nakamoto Sales (conditional headline) ---")
     all_headlines += build_naka_sales()
