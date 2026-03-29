@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T10:30:35.445202+00:00",
+  "generated_at": "2026-03-29T10:54:28.879777+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -67,22 +67,22 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ebb895e0-78fd-41ef-b2eb-f397454deca5/d44ab21a-80a8-4365-a959-110446312228.mov",
-          "label": "ikertje (0)",
-          "type": "video"
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3fe1377b-57ca-4f92-bf04-316c9c17a1a1/9c0d7abe-456b-41ce-921b-da71baac43a4.jpeg",
+          "label": "AEZY (0)",
+          "type": "image"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 302K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (63K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (302K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       },
       "dataBoxes": [
@@ -105,8 +105,8 @@
     },
     {
       "category": "SR SUBMISSIONS",
-      "headline": "9 SuperRare Submissions This Week",
-      "summary": "9 SuperRare submissions this week: Gsen, dorinphotograph, Danielchideraa, Keegan, Metpenfaul, JasonOPhoto.",
+      "headline": "8 SuperRare Submissions This Week",
+      "summary": "8 SuperRare submissions this week: Gsen, dorinphotograph, Danielchideraa, Keegan, Metpenfaul, JasonOPhoto.",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
@@ -175,7 +175,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.2 ETH"
+      "value": "38.3 ETH"
     },
     {
       "label": "Holders",
@@ -199,6 +199,8 @@
     }
   ],
   "headline_extras": [
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 12d AGO"
+    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 12d AGO",
+    "DIVE BAR: 5 MSGS IN LAST HOUR"
   ]
 }
