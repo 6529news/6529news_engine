@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T22:14:24.685062+00:00",
+  "generated_at": "2026-03-29T07:13:33.576647+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 54.7M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (54.7M projected TDH, 73 voters) | \"Network for Good \" by BrynnAlise (46.8M projected TDH, 77 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 114 voters) Next selection in 1d 17h.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (54.7M projected TDH, 74 voters) | \"Network for Good \" by BrynnAlise (46.8M projected TDH, 79 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 114 voters) Next selection in 1d 8h.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "ikertje",
           "value": "54.7M",
-          "sub": "proj. (73 votes)"
+          "sub": "proj. (74 votes)"
         },
         {
           "label": "BrynnAlise",
           "value": "46.8M",
-          "sub": "proj. (77 votes)"
+          "sub": "proj. (79 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -46,30 +46,30 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "16 New Memes Submissions (7d)",
-      "summary": "16 submissions this week. Ranking: Sert (31.9M) | peternitsch (486K) | Burnasso (357K) | desolalasisi (31K) | Carity (24K) | Saharrococo (23K) | lewisosb (20K) | Keegan (12K).",
+      "headline": "15 New Memes Submissions (7d)",
+      "summary": "15 submissions this week. Ranking: Sert (31.9M) | peternitsch (487K) | desolalasisi (31K) | Carity (24K) | Saharrococo (23K) | Keegan (12K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c96970c9-d278-4011-83f5-e9a3571abe41/7ea28904-ba51-4026-86ff-7159112c79eb.mp4",
-        "label": "peternitsch (486K)",
+        "label": "peternitsch (487K)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c96970c9-d278-4011-83f5-e9a3571abe41/7ea28904-ba51-4026-86ff-7159112c79eb.mp4",
-          "label": "peternitsch (486K)",
+          "label": "peternitsch (487K)",
           "type": "video"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/8aed7371-9608-4b8f-943b-4a39c2a6ab5b.JPG",
-          "label": "Burnasso (357K)",
-          "type": "image"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0b9b54c2-0e02-4a87-a7e3-e287482b3530/d58d3ea7-4850-4f9d-ba65-582e18c49f59.png",
           "label": "Carity (24K)",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ebb895e0-78fd-41ef-b2eb-f397454deca5/d44ab21a-80a8-4365-a959-110446312228.mov",
+          "label": "ikertje (0)",
+          "type": "video"
         }
       ],
       "dataBoxes": null
@@ -118,8 +118,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 0.40 ETH Volume",
-      "summary": "13 sales in 24h for 0.40 ETH. Highest: \"Citizen 6529\" at 0.079 ETH.",
+      "headline": "18 Sales Today - 0.51 ETH Volume",
+      "summary": "18 sales in 24h for 0.51 ETH. Highest: \"Citizen 6529\" at 0.079 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -134,25 +134,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/434.WEBP",
-          "label": "Can You Still Tell? - 0.040 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/377.GIF",
+          "label": "Don't Let The Clowns Steal Your JPEGs! - 0.040 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/363.GIF",
-          "label": "MEMECRYPTION - 0.035 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/434.WEBP",
+          "label": "Can You Still Tell? - 0.040 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "18",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.40",
+          "value": "0.51",
           "sub": "ETH"
         },
         {
@@ -171,11 +171,11 @@
   "ticker": [
     {
       "label": "Network TDH",
-      "value": "1444.1M"
+      "value": "1446.5M"
     },
     {
       "label": "Full Set Bid",
-      "value": "38.6 ETH"
+      "value": "35.1 ETH"
     },
     {
       "label": "Holders",
@@ -191,15 +191,14 @@
     },
     {
       "label": "24h Vol",
-      "value": "0.40 ETH"
+      "value": "0.51 ETH"
     },
     {
       "label": "7d Vol",
-      "value": "9.45 ETH"
+      "value": "9.57 ETH"
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 11d AGO"
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 12d AGO"
   ]
 }
