@@ -139,6 +139,18 @@ async function renderDashboard() {
     </div>
   `;
 
+  // Pre-check which proposals the user has voted on
+  const userVotedSet = new Set();
+  if (userIdentity) {
+    const primaryAddr = userIdentity.primaryAddress.toLowerCase();
+    for (const p of activeProposals) {
+      const votes = await getProposalVotes(p.id);
+      if (votes.some(v => (v.voter || '').toLowerCase() === primaryAddr || (v.submittedBy || '').toLowerCase() === primaryAddr)) {
+        userVotedSet.add(p.id);
+      }
+    }
+  }
+
   if (activeProposals.length === 0) {
     html += '<div class="empty-state">No active proposals. ';
     if (userIdentity && userIdentity.tdh >= CONFIG.MIN_TDH_PROPOSE) {
@@ -150,7 +162,7 @@ async function renderDashboard() {
   } else {
     html += '<div class="proposals-grid">';
     for (const p of activeProposals) {
-      html += renderProposalCard(p);
+      html += renderProposalCard(p, userVotedSet.has(p.id));
     }
     html += '</div>';
   }
@@ -192,7 +204,7 @@ async function renderDashboard() {
 
 const ACTION_LABELS = { add: 'Add Wave', remove: 'Remove Wave', general: 'General', graphics: 'Graphics', governance: 'Governance', request: 'Request' };
 
-function renderProposalCard(p) {
+function renderProposalCard(p, userHasVoted = false) {
   const isExpired = new Date(p.expiresAt) < new Date();
   const statusClass = p.status === 'active' ? (isExpired ? 'status-expired' : 'status-active') : (p.status === 'passed' ? 'status-passed' : 'status-failed');
   const statusLabel = p.status === 'active' ? (isExpired ? 'EXPIRED' : 'ACTIVE') : p.status.toUpperCase();
@@ -200,11 +212,13 @@ function renderProposalCard(p) {
   const actionLabel = ACTION_LABELS[p.action] || p.action;
   const tdhInfo = p.proposerAllocatedTDH ? ` · ${formatTDH(p.proposerAllocatedTDH)} TDH` : '';
   const link = p.action === 'request' ? `#/request/${p.id}` : `#/proposal/${p.id}`;
+  const votedBadge = userHasVoted ? '<span class="proposal-voted-badge">✓ VOTED</span>' : '';
 
   return `
-    <a href="${link}" class="proposal-card">
+    <a href="${link}" class="proposal-card ${userHasVoted ? 'proposal-voted' : ''}">
       <div class="proposal-header">
         <span class="proposal-action action-${p.action}">${actionLabel}</span>
+        ${votedBadge}
         <span class="proposal-status ${statusClass}">${statusLabel}</span>
       </div>
       <div class="proposal-wave">${p.waveName}</div>
