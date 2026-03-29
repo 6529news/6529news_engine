@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T07:13:33.576647+00:00",
+  "generated_at": "2026-03-29T08:50:46.847763+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 54.7M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (54.7M projected TDH, 74 voters) | \"Network for Good \" by BrynnAlise (46.8M projected TDH, 79 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 114 voters) Next selection in 1d 8h.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (54.7M projected TDH, 74 voters) | \"Network for Good \" by BrynnAlise (46.8M projected TDH, 79 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 114 voters) Next selection in 1d 7h.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "15 New Memes Submissions (7d)",
-      "summary": "15 submissions this week. Ranking: Sert (31.9M) | peternitsch (487K) | desolalasisi (31K) | Carity (24K) | Saharrococo (23K) | Keegan (12K).",
+      "summary": "15 submissions this week. Ranking: Sert (31.9M) | peternitsch (487K) | desolalasisi (32K) | Carity (24K) | Saharrococo (23K) | Keegan (12K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#7 Gsen \u2014 63K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (63K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (63K)",
         "type": "image"
       },
       "dataBoxes": [
@@ -134,13 +134,13 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/377.GIF",
-          "label": "Don't Let The Clowns Steal Your JPEGs! - 0.040 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/369.GIF",
+          "label": "Here They Come - 0.041 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/434.WEBP",
-          "label": "Can You Still Tell? - 0.040 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/377.GIF",
+          "label": "Don't Let The Clowns Steal Your JPEGs! - 0.040 ETH",
           "type": "image"
         }
       ],
@@ -175,7 +175,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "35.1 ETH"
+      "value": "38.3 ETH"
     },
     {
       "label": "Holders",
@@ -195,10 +195,11 @@
     },
     {
       "label": "7d Vol",
-      "value": "9.57 ETH"
+      "value": "9.48 ETH"
     }
   ],
   "headline_extras": [
+    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 12d AGO"
   ]
 }
