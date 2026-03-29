@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T14:34:11.308131+00:00",
+  "generated_at": "2026-03-29T15:05:10.749739+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 54.7M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (54.7M projected TDH, 76 voters) | \"Network for Good \" by BrynnAlise (46.8M projected TDH, 80 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 115 voters) Next selection in 1d 1h.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (54.7M projected TDH, 77 voters) | \"Network for Good \" by BrynnAlise (51.6M projected TDH, 81 voters) | \"Credo quia absurdum\" by Guidodisalle (44.7M projected TDH, 115 voters) Next selection in 1d 0h.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "ikertje",
           "value": "54.7M",
-          "sub": "proj. (76 votes)"
+          "sub": "proj. (77 votes)"
         },
         {
           "label": "BrynnAlise",
-          "value": "46.8M",
-          "sub": "proj. (80 votes)"
+          "value": "51.6M",
+          "sub": "proj. (81 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 82K TDH",
+      "headline": "#5 awhurst \u2014 556K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (82K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (82K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (556K)",
         "type": "image"
       },
       "dataBoxes": [
@@ -199,6 +199,8 @@
     }
   ],
   "headline_extras": [
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 12d AGO"
+    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 12d AGO",
+    "DIVE BAR: 12 MSGS IN LAST HOUR"
   ]
 }
