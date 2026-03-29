@@ -246,7 +246,7 @@
     font-size: clamp(15px, 2vw, 22px); letter-spacing: 1px;
     white-space: nowrap; text-transform: uppercase; display: inline-block;
   }
-  .headline-text.scrolling { animation: scroll 12s linear infinite; }
+  .headline-text.scrolling { animation: scroll 25s linear infinite; }
   @keyframes scroll { to { transform: translateX(-50%); } }
 
   .nav-arrows { display: flex; gap: 2px; flex-shrink: 0; margin-left: 8px; }
@@ -825,7 +825,11 @@
         showCard(0);
         resetAutoplay();
         if (data.ticker && data.ticker.length > 0) updateTickerFromData(data.ticker);
-        if (data.headline_extras && data.headline_extras.length > 0) HEADLINE_EXTRAS = data.headline_extras;
+        if (data.headline_extras && data.headline_extras.length > 0) {
+          HEADLINE_EXTRAS = data.headline_extras;
+          const htEl = document.getElementById('headlineText');
+          if (htEl) { htEl.dataset.built = ''; }
+        }
       }
     } catch (e) { console.log('Using fallback:', e.message); }
   }
@@ -927,18 +931,14 @@
     setTimeout(() => {
       card.classList.add('active');
 
-      // Update headline
-      headlineExtraIdx = (headlineExtraIdx + 1) % HEADLINE_EXTRAS.length;
+      // Update headline: show ALL headlines as continuous scroll
       const htEl = document.getElementById('headlineText');
-      const scrollContainer = htEl.parentElement;
-      htEl.classList.remove('scrolling');
-      htEl.textContent = HEADLINE_EXTRAS[headlineExtraIdx];
-      requestAnimationFrame(() => {
-        if (htEl.scrollWidth > scrollContainer.clientWidth) {
-          htEl.textContent = HEADLINE_EXTRAS[headlineExtraIdx] + '    \u2022    ' + HEADLINE_EXTRAS[headlineExtraIdx] + '    \u2022    ';
-          htEl.classList.add('scrolling');
-        }
-      });
+      if (htEl && !htEl.dataset.built) {
+        const allText = HEADLINE_EXTRAS.join('    \u2022    ');
+        htEl.textContent = allText + '    \u2022    ' + allText + '    \u2022    ';
+        htEl.classList.add('scrolling');
+        htEl.dataset.built = '1';
+      }
 
       // Progress bar
       const fill = document.getElementById('progressFill');
