@@ -1134,25 +1134,25 @@ def build_output(news, ticker_data, headline_extras, top_memes_data=None):
     # Network stats
     network_tdh, full_set_bid, holders, full_set_holders = fetch_network_stats()
     if network_tdh > 0:
-        ticker.append({'label': 'Network TDH', 'value': format_tdh(network_tdh)})
+        ticker.append({'label': 'Network TDH', 'value': format_tdh(network_tdh), 'raw': network_tdh})
     if full_set_bid > 0:
-        ticker.append({'label': 'Full Set Bid', 'value': f'{full_set_bid:.1f} ETH'})
+        ticker.append({'label': 'Full Set Bid', 'value': f'{full_set_bid:.1f} ETH', 'raw': round(full_set_bid, 2)})
     if holders > 0:
-        ticker.append({'label': 'Holders', 'value': f'{holders:,}'})
+        ticker.append({'label': 'Holders', 'value': f'{holders:,}', 'raw': holders})
     if full_set_holders > 0:
-        ticker.append({'label': 'Full Set', 'value': str(full_set_holders)})
+        ticker.append({'label': 'Full Set', 'value': str(full_set_holders), 'raw': full_set_holders})
 
     # Memes #1 only
     if top_memes_data and len(top_memes_data) > 0:
         m = top_memes_data[0]
-        ticker.append({'label': f"#1 {m['author']}", 'value': f"{format_tdh(m['projected_tdh'])} TDH"})
+        ticker.append({'label': f"#1 {m['author']}", 'value': f"{format_tdh(m['projected_tdh'])} TDH", 'raw': m['projected_tdh']})
 
     # Sales data: 24h + 7d (ETH only)
     for m in ticker_data:
         if m.get('vol_24h', 0) > 0:
-            ticker.append({'label': '24h Vol', 'value': f"{m['vol_24h']:.2f} ETH"})
+            ticker.append({'label': '24h Vol', 'value': f"{m['vol_24h']:.2f} ETH", 'raw': round(m['vol_24h'], 4)})
         if m.get('vol_7d', 0) > 0:
-            ticker.append({'label': '7d Vol', 'value': f"{m['vol_7d']:.2f} ETH"})
+            ticker.append({'label': '7d Vol', 'value': f"{m['vol_7d']:.2f} ETH", 'raw': round(m['vol_7d'], 4)})
 
     return {
         'generated_at': datetime.now(timezone.utc).isoformat(),
@@ -1266,6 +1266,40 @@ def main():
                 if t['label'] not in prev_labels:
                     output['ticker'].append(t)
             print(f"  Preserved {len(output['ticker']) - len(prev_labels)} ticker items from previous run")
+
+        # Calculate deltas vs previous values
+        prev_raw = {}
+        for t in prev.get('ticker', []):
+            if 'raw' in t:
+                prev_raw[t['label']] = t['raw']
+            # Also check labels that change (like #1 Author) by prefix
+            for prefix in ['#1 ', 'Network TDH', 'Full Set Bid', 'Holders', 'Full Set', '24h Vol', '7d Vol']:
+                if t['label'].startswith(prefix) and 'raw' in t:
+                    prev_raw[prefix] = t['raw']
+
+        for t in output['ticker']:
+            if 'raw' not in t:
+                continue
+            # Match by exact label or prefix (for #1 which changes name)
+            prev_val = prev_raw.get(t['label'])
+            if prev_val is None:
+                for prefix in ['#1 ', 'Network TDH', 'Full Set Bid', 'Holders', 'Full Set', '24h Vol', '7d Vol']:
+                    if t['label'].startswith(prefix) and prefix in prev_raw:
+                        prev_val = prev_raw[prefix]
+                        break
+            if prev_val is not None and prev_val != 0:
+                delta = t['raw'] - prev_val
+                if delta != 0:
+                    t['delta'] = delta
+                    # Format delta for display
+                    if abs(delta) >= 1_000_000:
+                        t['delta_fmt'] = f"{delta/1_000_000:+.1f}M"
+                    elif abs(delta) >= 1_000:
+                        t['delta_fmt'] = f"{delta/1_000:+.0f}K"
+                    elif isinstance(delta, float):
+                        t['delta_fmt'] = f"{delta:+.2f}"
+                    else:
+                        t['delta_fmt'] = f"{delta:+,}"
     except:
         pass
 

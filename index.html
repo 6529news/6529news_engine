@@ -282,6 +282,9 @@
   .ticker-item-label { font-family: var(--f-display); font-size: clamp(13px, 1.5vw, 17px); font-weight: 600; letter-spacing: 1px; color: var(--c-gold); text-transform: uppercase; }
   .ticker-item-value { font-family: var(--f-body); font-size: clamp(13px, 1.5vw, 17px); font-weight: 500; color: var(--c-text); }
   .ticker-separator  { color: var(--c-gold-08); font-size: 14px; flex-shrink: 0; padding: 0 3px; }
+  .ticker-delta { font-family: var(--f-body); font-size: clamp(10px, 1.2vw, 13px); font-weight: 600; margin-left: 3px; }
+  .delta-up { color: #4eca6a; }
+  .delta-down { color: #e85454; }
 
   /* Side accents */
   .side-l { display: none; }
@@ -824,7 +827,8 @@
     const el = document.getElementById('tickerContent');
     if (!el) return;
     const html = items.map(t => {
-      return `<div class="ticker-item"><span class="ticker-item-label">${t.label}</span><span class="ticker-item-value">${t.value}</span></div><div class="ticker-separator">\u2022</div>`;
+      const delta = t.delta_fmt ? `<span class="ticker-delta ${t.delta > 0 ? 'delta-up' : 'delta-down'}">(${t.delta_fmt})</span>` : '';
+      return `<div class="ticker-item"><span class="ticker-item-label">${t.label}</span><span class="ticker-item-value">${t.value}</span>${delta}</div><div class="ticker-separator">\u2022</div>`;
     }).join('');
     // Duplicate 3x for seamless infinite scroll
     el.innerHTML = html + html + html;
