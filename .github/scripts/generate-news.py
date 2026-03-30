@@ -169,29 +169,29 @@ def build_top_memes():
 
 
 def build_top_superrare():
-    """Top 10 SuperRare by current vote, random featured preview."""
+    """Top 20 SuperRare by current vote, random featured preview from top 20."""
     import random
     print("Building Top SuperRare...")
-    all_ranked = fetch_ranked_drops(SR_WAVE_ID, 10)
+    all_ranked = fetch_ranked_drops(SR_WAVE_ID, 20)
     all_ranked.sort(key=lambda x: x['current_tdh'], reverse=True)
-    top10 = all_ranked[:10]
-    top3 = top10[:3]
+    top20 = all_ranked[:20]
+    top3 = top20[:3]
 
     if not top3: return []
 
-    # Pick a random artist from top 10 with an image for the preview
-    with_img = [s for s in top10 if s.get('img')]
+    # Pick a random artist from top 20 with an image for the preview
+    with_img = [s for s in top20 if s.get('img')]
     featured = random.choice(with_img) if with_img else top3[0]
     image = {'url': featured['img'], 'label': f"{featured['author']} ({format_tdh(featured['current_tdh'])})", 'type': featured.get('media_type', 'image')} if featured.get('img') else None
 
     # Headline changes based on whether featured is #1 or not
-    feat_rank = next((i for i, s in enumerate(top10) if s['author'] == featured['author']), 0)
+    feat_rank = next((i for i, s in enumerate(top20) if s['author'] == featured['author']), 0)
     if feat_rank == 0:
         headline = f"{featured['author']} Leads with {format_tdh(featured['current_tdh'])} TDH"
     else:
         headline = f"#{feat_rank+1} {featured['author']} — {format_tdh(featured['current_tdh'])} TDH"
 
-    summary = ' | '.join([f"{s['author']} ({format_tdh(s['current_tdh'])})" for s in top10 if s['current_tdh'] > 0])
+    summary = ' | '.join([f"{s['author']} ({format_tdh(s['current_tdh'])})" for s in top20 if s['current_tdh'] > 0])
 
     return [{
         'category': 'TOP SUPERRARE',
@@ -1229,11 +1229,8 @@ def main():
     top3_authors = {s['author'] for s in top_memes_ranked[:3]}
     all_news += build_new_submissions(exclude_authors=top3_authors)
 
-    # SuperRare cards disabled for now
-    # print("\n--- 4. Top SuperRare ---")
-    # all_news += build_top_superrare()
-    # print("\n--- 4b. SR Submissions ---")
-    # all_news += build_sr_submissions()
+    print("\n--- 4. Top SuperRare ---")
+    all_news += build_top_superrare()
 
     # Hot wave removed — dive bar activity tracked via build_divebar_activity()
 
