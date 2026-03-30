@@ -1310,11 +1310,17 @@ def main():
                 delta = t['raw'] - prev_val
                 if delta != 0:
                     t['delta'] = delta
-                    # Format delta for display
-                    if abs(delta) >= 1_000_000:
-                        t['delta_fmt'] = f"{delta/1_000_000:+.1f}M"
-                    elif abs(delta) >= 1_000:
-                        t['delta_fmt'] = f"{delta/1_000:+.0f}K"
+                    # Format delta matching the unit of each stat
+                    label = t['label']
+                    if 'TDH' in label or label == 'Network TDH' or label.startswith('#1 '):
+                        # TDH values: show in M
+                        t['delta_fmt'] = f"{delta/1_000_000:+.1f}M TDH"
+                    elif 'Vol' in label or 'Bid' in label:
+                        # ETH values
+                        t['delta_fmt'] = f"{delta:+.2f} ETH"
+                    elif label in ('Holders', 'Full Set'):
+                        # Plain numbers
+                        t['delta_fmt'] = f"{delta:+,}"
                     elif isinstance(delta, float):
                         t['delta_fmt'] = f"{delta:+.2f}"
                     else:
