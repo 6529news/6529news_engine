@@ -1072,8 +1072,9 @@ def build_divebar_activity():
     six_h_ago = now_ms - 6 * 3600 * 1000
     total = 0
     sn = 999999
-    for _ in range(30):
-        drops = fetch_json(f'https://api.6529.io/api/drops?wave_id={DIVEBAR_WAVE_ID}&limit=50&serial_no_less_than={sn}')
+    for _ in range(50):
+        data = fetch_json(f'https://api.6529.io/api/waves/{DIVEBAR_WAVE_ID}/drops?limit=20&serial_no_less_than={sn}')
+        drops = data.get('drops', data) if isinstance(data, dict) else data
         if not drops or not isinstance(drops, list) or len(drops) == 0:
             break
         total += sum(1 for d in drops if d.get('created_at', 0) > six_h_ago)
