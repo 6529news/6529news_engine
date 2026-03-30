@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T09:57:34.983358+00:00",
+  "generated_at": "2026-03-30T10:17:43.506697+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_dec8d6d1-53f1-4e0e-8041-aa9d7b2eb995/e5bda6fc-f9d2-4e31-a69f-5550f080e759.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/476.JPG",
         "label": "The Bear Spot - nathanabauman",
         "type": "image"
       },
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#7 Gsen \u2014 152K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (152K)",
         "type": "image"
       },
       "dataBoxes": [
@@ -163,8 +163,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.9 ETH",
-      "raw": 37.95
+      "value": "38.1 ETH",
+      "raw": 38.09,
+      "delta": 0.14000000000000057,
+      "delta_fmt": "+0.14"
     },
     {
       "label": "Holders",
@@ -195,6 +197,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 13d AGO",
-    "DIVE BAR: 53 MSGS IN LAST 6H"
+    "DIVE BAR: 54 MSGS IN LAST 6H"
   ]
 }
