@@ -1223,11 +1223,11 @@ def main():
     print("\n--- 3. New Submissions ---")
     all_news += build_new_submissions()
 
-    print("\n--- 4. Top SuperRare ---")
-    all_news += build_top_superrare()
-
-    print("\n--- 4b. SR Submissions ---")
-    all_news += build_sr_submissions()
+    # SuperRare cards disabled for now
+    # print("\n--- 4. Top SuperRare ---")
+    # all_news += build_top_superrare()
+    # print("\n--- 4b. SR Submissions ---")
+    # all_news += build_sr_submissions()
 
     # Hot wave removed — dive bar activity tracked via build_divebar_activity()
 
