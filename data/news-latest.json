@@ -119,7 +119,7 @@
     {
       "category": "6529 TALKS",
       "headline": "punk6529: 20 Messages Today",
-      "summary": "Punk6529 argued that on\u2011chain data cannot reliably identify related parties, so a different approach is needed to protect minority participants from \u201cstupid deals.\u201d He suggested that the solution\u2014likely a form of classic minority protection or an affiliate\u2011related mechanism\u2014is the obvious answer, lamenting that the community overlooked it earlier and noting that the affiliate\u2011related aspects still require refinement, while emphasizing he has no intention of lodging SEC complaints over worthless NFT sales.",
+      "summary": "punk6529 noted that a solution could be implemented internally among existing card holders before any broader rollout, pointing out that it\u2019s difficult to determine on\u2011chain whether a buyer is a related party and that assumptions about under\u2011market sales are speculative. He argued that handling transfers internally would address most of the problematic or \u201cstupid\u201d deals that occur when unrelated parties are involved.",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -221,6 +221,6 @@
   ],
   "headline_extras": [
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 945 MSGS IN LAST 6H"
+    "DIVE BAR: 1000 MSGS IN LAST 6H"
   ]
 }
