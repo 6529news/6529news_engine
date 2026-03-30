@@ -937,6 +937,8 @@ def build_new_submissions(exclude_authors=None):
             if not media:
                 continue  # No media = not a submission (just text)
             title = d.get('title') or ''
+            if not title or title == 'None':
+                continue  # No title = chat message with media, not a real submission
             tdh = d.get('realtime_rating', 0)
             mime = media[0].get('mime_type', '')
             url = media[0].get('url', '')
