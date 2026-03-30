@@ -47,8 +47,8 @@ jobs:
           divebar_headlines = gen.build_divebar_activity()
           headlines += divebar_headlines
 
-          # 3. Hot wave card (conditional)
-          news = [n for n in data['news'] if n.get('category') != '6529 TALKS' and not n.get('category','').startswith('HOT IN')]
+          # Update news cards: add/remove 6529 TALKS card only
+          news = [n for n in data['news'] if n.get('category') != '6529 TALKS']
           if p6529_news:
               insert_at = len(news)
               for i, n in enumerate(news):
@@ -56,15 +56,6 @@ jobs:
                       insert_at = i
                       break
               news.insert(insert_at, p6529_news[0])
-
-          bar_news, _ = gen.build_hot_wave()
-          if bar_news:
-              insert_at = len(news)
-              for i, n in enumerate(news):
-                  if n.get('category') == 'SALES RECAP':
-                      insert_at = i
-                      break
-              news.insert(insert_at, bar_news[0])
 
           data['headline_extras'] = headlines[:10]
           data['news'] = news

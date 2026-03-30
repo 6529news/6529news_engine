@@ -1228,10 +1228,7 @@ def main():
     print("\n--- 4b. SR Submissions ---")
     all_news += build_sr_submissions()
 
-    print("\n--- 5. Dive Bar (conditional) ---")
-    bar_news, bar_headlines = build_hot_wave()
-    all_news += bar_news
-    # bar_headlines (ACTIVE waves) excluded from breaking — only fixed headlines
+    # Hot wave removed — dive bar activity tracked via build_divebar_activity()
 
     print("\n--- 6. punk6529 (conditional) ---")
     p6529_news, p6529_headlines = build_punk6529()
