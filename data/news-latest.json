@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T02:30:18.380873+00:00",
+  "generated_at": "2026-03-30T05:12:42.086130+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "ikertje Leads with 55.9M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (55.9M projected TDH, 79 voters) | \"Network for Good \" by BrynnAlise (55.3M projected TDH, 84 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 13h 29m.",
+      "headline": "ikertje Leads with 57.6M Projected TDH",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 80 voters) | \"Network for Good \" by BrynnAlise (55.3M projected TDH, 84 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 10h 47m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "ikertje",
-          "value": "55.9M",
-          "sub": "proj. (79 votes)"
+          "value": "57.6M",
+          "sub": "proj. (80 votes)"
         },
         {
           "label": "BrynnAlise",
@@ -67,7 +67,7 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ebb895e0-78fd-41ef-b2eb-f397454deca5/1dbf2c26-0242-4d1c-bd61-e501608582fb.mov",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ebb895e0-78fd-41ef-b2eb-f397454deca5/2ecd4b70-8974-4f6e-932d-43c0bba95023.mov",
           "label": "ikertje (0)",
           "type": "video"
         }
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 1.4M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (82K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (1.4M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       },
       "dataBoxes": [
@@ -118,16 +118,21 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "4 Sales Today - 0.08 ETH Volume",
-      "summary": "4 sales in 24h for 0.08 ETH. Highest: \"Here They Come\" at 0.041 ETH.",
+      "headline": "3 Sales Today - 0.10 ETH Volume",
+      "summary": "3 sales in 24h for 0.10 ETH. Highest: \"While You Sleep\" at 0.044 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/369.GIF",
-        "label": "Here They Come - 0.041 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/96.WEBP",
+        "label": "While You Sleep - 0.044 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/96.WEBP",
+          "label": "While You Sleep - 0.044 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/369.GIF",
           "label": "Here They Come - 0.041 ETH",
@@ -142,18 +147,18 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "4",
+          "value": "3",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.08",
+          "value": "0.10",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.041",
-          "sub": "Here They Come"
+          "value": "0.044",
+          "sub": "While You Sleep"
         },
         {
           "label": "Floor",
@@ -170,7 +175,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.6 ETH"
+      "value": "38.7 ETH"
     },
     {
       "label": "Holders",
@@ -182,18 +187,20 @@
     },
     {
       "label": "#1 ikertje",
-      "value": "55.9M TDH"
+      "value": "57.6M TDH"
     },
     {
       "label": "24h Vol",
-      "value": "0.08 ETH"
+      "value": "0.10 ETH"
     },
     {
       "label": "7d Vol",
-      "value": "6.33 ETH"
+      "value": "6.37 ETH"
     }
   ],
   "headline_extras": [
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 13d AGO"
+    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 13d AGO",
+    "DIVE BAR: 4 MSGS IN LAST HOUR"
   ]
 }
