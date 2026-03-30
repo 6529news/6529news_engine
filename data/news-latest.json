@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T08:49:31.668140+00:00",
+  "generated_at": "2026-03-30T09:52:40.227523+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 57.6M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.7M projected TDH, 86 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 7h 11m.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.8M projected TDH, 87 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 6h 8m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "BrynnAlise",
-          "value": "55.7M",
-          "sub": "proj. (86 votes)"
+          "value": "55.8M",
+          "sub": "proj. (87 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -75,9 +75,38 @@
       "dataBoxes": null
     },
     {
+      "category": "TOP SUPERRARE",
+      "headline": "#7 Gsen \u2014 152K TDH",
+      "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
+      "source": "SuperRare x 6529",
+      "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (152K)",
+        "type": "image"
+      },
+      "dataBoxes": [
+        {
+          "label": "JasonOPhoto",
+          "value": "2.1M",
+          "sub": "TDH (12 votes)"
+        },
+        {
+          "label": "Articulate",
+          "value": "1.4M",
+          "sub": "TDH (13 votes)"
+        },
+        {
+          "label": "Zigmarillion",
+          "value": "1.2M",
+          "sub": "TDH (13 votes)"
+        }
+      ]
+    },
+    {
       "category": "SALES RECAP",
-      "headline": "3 Sales Today - 0.10 ETH Volume",
-      "summary": "3 sales in 24h for 0.10 ETH. Highest: \"While You Sleep\" at 0.044 ETH.",
+      "headline": "3 Sales Today - 0.08 ETH Volume",
+      "summary": "3 sales in 24h for 0.08 ETH. Highest: \"While You Sleep\" at 0.044 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -89,6 +118,11 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/96.WEBP",
           "label": "While You Sleep - 0.044 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/25.WEBP",
+          "label": "Authentic Summer - 0.017 ETH",
           "type": "image"
         },
         {
@@ -105,7 +139,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.10",
+          "value": "0.08",
           "sub": "ETH"
         },
         {
@@ -128,7 +162,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.2 ETH"
+      "value": "37.9 ETH"
     },
     {
       "label": "Holders",
@@ -144,11 +178,11 @@
     },
     {
       "label": "24h Vol",
-      "value": "0.10 ETH"
+      "value": "0.08 ETH"
     },
     {
       "label": "7d Vol",
-      "value": "5.81 ETH"
+      "value": "5.83 ETH"
     }
   ],
   "headline_extras": [
