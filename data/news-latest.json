@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T07:02:04.751160+00:00",
+  "generated_at": "2026-03-30T07:04:02.079931+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 57.6M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.7M projected TDH, 85 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 8h 58m.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.7M projected TDH, 85 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 8h 56m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -46,8 +46,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "12 New Memes Submissions This Week",
-      "summary": "12 submissions this week. Ranking: desolalasisi (39K) | Carity (24K) | Keegan (12K) | akc (546) | blake69 (1).",
+      "headline": "5 New Memes Submissions This Week",
+      "summary": "5 submissions this week. Ranking: desolalasisi (39K) | Carity (24K) | Keegan (12K) | akc (546) | blake69 (1).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -64,11 +64,6 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_27a8bbd9-9ba5-4d20-9a7a-67c151054bee/da59d476-6b05-4009-91a5-ae9ef15dba70.gif",
           "label": "akc (546)",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3fe1377b-57ca-4f92-bf04-316c9c17a1a1/6e605e38-3d03-4c61-b366-b4ba73d53763.jpeg",
-          "label": "AEZY (0)",
           "type": "image"
         }
       ],
