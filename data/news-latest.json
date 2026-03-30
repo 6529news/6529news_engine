@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T19:42:55.829196+00:00",
+  "generated_at": "2026-03-30T20:28:36.345422+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -59,8 +59,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "13 New Memes Submissions This Week",
-      "summary": "13 submissions this week. Ranking: peternitsch (488K) | gruffishere (107K) | Burnasso (77K) | ricardotakamura (66K) | RegularDad (49K) | desolalasisi (39K) | Saharrococo (26K) | Carity (24K).",
+      "headline": "12 New Memes Submissions This Week",
+      "summary": "12 submissions this week. Ranking: peternitsch (488K) | gruffishere (107K) | Burnasso (77K) | RegularDad (49K) | desolalasisi (39K) | Saharrococo (26K) | Carity (24K) | iamshivanshsr (12K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 302K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (302K)",
         "type": "image"
       },
       "dataBoxes": [
@@ -177,9 +177,7 @@
     {
       "label": "Full Set Bid",
       "value": "39.4 ETH",
-      "raw": 39.39,
-      "delta": 0.04999999999999716,
-      "delta_fmt": "+0.05 ETH"
+      "raw": 39.39
     },
     {
       "label": "Holders",
@@ -194,9 +192,7 @@
     {
       "label": "#1 BrynnAlise",
       "value": "61.3M TDH",
-      "raw": 61328690,
-      "delta": 4979,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 61328690
     },
     {
       "label": "24h Vol",
@@ -211,7 +207,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
-    "PEBBLES: FLOOR 0.79 ETH | 0 SALES | LAST SALE 13d AGO",
-    "DIVE BAR: 352 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 13d AGO",
+    "DIVE BAR: 361 MSGS IN LAST 6H"
   ]
 }
