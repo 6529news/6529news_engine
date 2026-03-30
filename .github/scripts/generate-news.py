@@ -917,15 +917,16 @@ def build_new_submissions(exclude_authors=None):
     cutoff_ms = int(cutoff.timestamp() * 1000)
     print(f"Checking new Memes submissions (last 7 days, since {cutoff.strftime('%a %b %d')})...")
 
-    # Paginate fully to get ALL drops in 7 days
+    # Paginate fully to get ALL drops in 7 days (use /waves endpoint for complete results)
     all_drops = []
     sn = 999999
-    for _ in range(30):
-        data = fetch_json(f'https://api.6529.io/api/drops?wave_id={MEMES_WAVE_ID}&drop_type=PARTICIPATION&limit=50&serial_no_less_than={sn}')
-        if not data: break
-        all_drops += data
-        sn = data[-1]['serial_no']
-        if data[-1]['created_at'] < cutoff_ms: break
+    for _ in range(50):
+        data = fetch_json(f'https://api.6529.io/api/waves/{MEMES_WAVE_ID}/drops?limit=20&drop_type=PARTICIPATION&serial_no_less_than={sn}')
+        drops = data.get('drops', data) if isinstance(data, dict) else data
+        if not drops or not isinstance(drops, list): break
+        all_drops += drops
+        sn = drops[-1]['serial_no']
+        if drops[-1]['created_at'] < cutoff_ms: break
 
     if not all_drops: return []
 
