@@ -2,7 +2,7 @@ name: Check punk6529 Activity
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour (dive bar + punk6529 check)
+    - cron: '0 * * * *'  # Every hour
   workflow_dispatch:
 
 permissions:
@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Check punk6529 and update headlines
+      - name: Check punk6529 + dive bar and update headlines
         env:
           OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
         run: |
@@ -35,55 +35,42 @@ jobs:
           with open('data/news-latest.json') as f:
               data = json.load(f)
 
-          # Check punk6529
+          # Remove old punk6529 + dive bar headlines
+          headlines = [h for h in data.get('headline_extras', [])
+                       if 'PUNK6529' not in h.upper() and 'DIVE BAR' not in h.upper()]
+
+          # 1. punk6529: always add
           p6529_news, p6529_headlines = gen.build_punk6529()
+          headlines = p6529_headlines + headlines
 
-          # Update headlines: remove ALL old 6529/punk6529 entries
-          headlines = [h for h in data.get('headline_extras', []) if 'PUNK6529' not in h.upper() and '6529 LAST' not in h.upper() and '6529 ACTIVE' not in h.upper()]
-          # Add new punk6529 headlines
-          if p6529_headlines:
-              headlines = p6529_headlines + headlines
+          # 2. Dive bar message count (6h): always add
+          divebar_headlines = gen.build_divebar_activity()
+          headlines += divebar_headlines
 
-          changed = headlines != data.get('headline_extras', [])
-
-          # Update news cards: add/remove 6529 TALKS card
-          news = [n for n in data['news'] if n.get('category') != '6529 TALKS']
+          # 3. Hot wave card (conditional)
+          news = [n for n in data['news'] if n.get('category') != '6529 TALKS' and not n.get('category','').startswith('HOT IN')]
           if p6529_news:
               insert_at = len(news)
               for i, n in enumerate(news):
-                  if n.get('category') in ('SR SUBMISSIONS', 'HOT IN', 'SALES RECAP'):
+                  if n.get('category') in ('SR SUBMISSIONS', 'SALES RECAP'):
                       insert_at = i
                       break
               news.insert(insert_at, p6529_news[0])
-              changed = True
 
-          # Check dive bar hot topic
-          bar_news, bar_h = gen.build_hot_wave()
-          # Remove old dive bar card
-          news = [n for n in news if n.get('category') != 'HOT IN']
-          # Remove old dive bar headline
-          headlines = [h for h in headlines if 'DIVE BAR' not in h.upper()]
-          headlines += bar_h
+          bar_news, _ = gen.build_hot_wave()
           if bar_news:
-              # Insert before SALES RECAP
               insert_at = len(news)
               for i, n in enumerate(news):
                   if n.get('category') == 'SALES RECAP':
                       insert_at = i
                       break
               news.insert(insert_at, bar_news[0])
-              changed = True
-          else:
-              changed = True  # Remove old hot topic if activity dropped
 
-          if changed:
-              data['headline_extras'] = headlines[:10]
-              data['news'] = news
-              with open('data/news-latest.json', 'w') as f:
-                  json.dump(data, f, indent=2)
-              print('Updated')
-          else:
-              print('No changes')
+          data['headline_extras'] = headlines[:10]
+          data['news'] = news
+          with open('data/news-latest.json', 'w') as f:
+              json.dump(data, f, indent=2)
+          print(f'Updated: {len(headlines)} headlines')
           "
 
       - name: Commit if changed
