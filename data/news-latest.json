@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T14:13:30.985858+00:00",
+  "generated_at": "2026-03-30T15:43:01.853040+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 57.6M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.8M projected TDH, 87 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection: Mon Mar 30 at 17:00 CET.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 83 voters) | \"Network for Good \" by BrynnAlise (55.8M projected TDH, 89 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection: Mon Mar 30 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "ikertje",
           "value": "57.6M",
-          "sub": "proj. (81 votes)"
+          "sub": "proj. (83 votes)"
         },
         {
           "label": "BrynnAlise",
           "value": "55.8M",
-          "sub": "proj. (87 votes)"
+          "sub": "proj. (89 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "15 New Memes Submissions This Week",
-      "summary": "15 submissions this week. Ranking: Sert (28.8M) | peternitsch (487K) | Burnasso (234K) | gruffishere (107K) | RegularDad (49K) | desolalasisi (39K) | Saharrococo (26K) | Carity (24K).",
+      "summary": "15 submissions this week. Ranking: Sert (30.0M) | peternitsch (487K) | gruffishere (107K) | Burnasso (77K) | RegularDad (49K) | desolalasisi (39K) | Saharrococo (26K) | Carity (24K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -62,13 +62,13 @@
           "type": "video"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/8aed7371-9608-4b8f-943b-4a39c2a6ab5b.JPG",
-          "label": "Burnasso (234K)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e06f8e4c-3eb4-11ef-9d82-029a0e4b6159/1848517d-5da3-486f-8814-748b71ab1f34.gif",
+          "label": "gruffishere (107K)",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e06f8e4c-3eb4-11ef-9d82-029a0e4b6159/1848517d-5da3-486f-8814-748b71ab1f34.gif",
-          "label": "gruffishere (107K)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/8aed7371-9608-4b8f-943b-4a39c2a6ab5b.JPG",
+          "label": "Burnasso (77K)",
           "type": "image"
         }
       ],
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 152K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (152K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       },
       "dataBoxes": [
@@ -164,9 +164,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.5 ETH",
-      "raw": 38.46,
-      "delta": -0.10000000000000142,
-      "delta_fmt": "-0.10"
+      "raw": 38.5,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04"
     },
     {
       "label": "Holders",
@@ -181,28 +181,24 @@
     {
       "label": "#1 ikertje",
       "value": "57.6M TDH",
-      "raw": 57617799,
-      "delta": 26,
-      "delta_fmt": "+26"
+      "raw": 57632966,
+      "delta": 15167,
+      "delta_fmt": "+15K"
     },
     {
       "label": "24h Vol",
       "value": "0.36 ETH",
-      "raw": 0.3571,
-      "delta": 0.2954,
-      "delta_fmt": "+0.30"
+      "raw": 0.3571
     },
     {
       "label": "7d Vol",
       "value": "5.01 ETH",
-      "raw": 5.0138,
-      "delta": -0.8176000000000005,
-      "delta_fmt": "-0.82"
+      "raw": 5.0138
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 13d AGO",
-    "DIVE BAR: 160 MSGS IN LAST 6H"
+    "DIVE BAR: 168 MSGS IN LAST 6H"
   ]
 }
