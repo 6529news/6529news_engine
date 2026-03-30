@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T05:12:42.086130+00:00",
+  "generated_at": "2026-03-30T07:02:04.751160+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 57.6M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 80 voters) | \"Network for Good \" by BrynnAlise (55.3M projected TDH, 84 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 10h 47m.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.7M projected TDH, 85 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 8h 58m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "ikertje",
           "value": "57.6M",
-          "sub": "proj. (80 votes)"
+          "sub": "proj. (81 votes)"
         },
         {
           "label": "BrynnAlise",
-          "value": "55.3M",
-          "sub": "proj. (84 votes)"
+          "value": "55.7M",
+          "sub": "proj. (85 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -46,8 +46,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "13 New Memes Submissions (7d)",
-      "summary": "13 submissions this week. Ranking: desolalasisi (39K) | Carity (24K) | Keegan (12K) | akc (475) | blake69 (18).",
+      "headline": "12 New Memes Submissions This Week",
+      "summary": "12 submissions this week. Ranking: desolalasisi (39K) | Carity (24K) | Keegan (12K) | akc (546) | blake69 (1).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -63,57 +63,15 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_27a8bbd9-9ba5-4d20-9a7a-67c151054bee/da59d476-6b05-4009-91a5-ae9ef15dba70.gif",
-          "label": "akc (475)",
+          "label": "akc (546)",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ebb895e0-78fd-41ef-b2eb-f397454deca5/2ecd4b70-8974-4f6e-932d-43c0bba95023.mov",
-          "label": "ikertje (0)",
-          "type": "video"
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3fe1377b-57ca-4f92-bf04-316c9c17a1a1/6e605e38-3d03-4c61-b366-b4ba73d53763.jpeg",
+          "label": "AEZY (0)",
+          "type": "image"
         }
       ],
-      "dataBoxes": null
-    },
-    {
-      "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
-      "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (82K)",
-      "source": "SuperRare x 6529",
-      "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
-        "type": "image"
-      },
-      "dataBoxes": [
-        {
-          "label": "JasonOPhoto",
-          "value": "2.1M",
-          "sub": "TDH (12 votes)"
-        },
-        {
-          "label": "Articulate",
-          "value": "1.4M",
-          "sub": "TDH (13 votes)"
-        },
-        {
-          "label": "Zigmarillion",
-          "value": "1.2M",
-          "sub": "TDH (13 votes)"
-        }
-      ]
-    },
-    {
-      "category": "SR SUBMISSIONS",
-      "headline": "8 SuperRare Submissions This Week",
-      "summary": "8 SuperRare submissions this week: Gsen, dorinphotograph, Danielchideraa, Keegan, Metpenfaul, JasonOPhoto.",
-      "source": "SuperRare x 6529",
-      "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_82f0ceb5-df94-4915-ba0b-b7f4618c74c8/b1bba0b6-3cfc-4a25-b0bb-1903b6ecf5c4.jpg",
-        "label": "dorinphotograph",
-        "type": "image"
-      },
       "dataBoxes": null
     },
     {
@@ -201,6 +159,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 13d AGO",
-    "DIVE BAR: 49 MSGS IN LAST 6H"
+    "DIVE BAR: 48 MSGS IN LAST 6H"
   ]
 }
