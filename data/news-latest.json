@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T09:52:40.227523+00:00",
+  "generated_at": "2026-03-30T09:57:34.983358+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 57.6M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.8M projected TDH, 87 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 6h 8m.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.8M projected TDH, 87 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection: Mon Mar 30 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 152K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (152K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       },
       "dataBoxes": [
@@ -158,31 +158,38 @@
   "ticker": [
     {
       "label": "Network TDH",
-      "value": "1448.9M"
+      "value": "1448.9M",
+      "raw": 1448860616
     },
     {
       "label": "Full Set Bid",
-      "value": "37.9 ETH"
+      "value": "37.9 ETH",
+      "raw": 37.95
     },
     {
       "label": "Holders",
-      "value": "10,157"
+      "value": "10,157",
+      "raw": 10157
     },
     {
       "label": "Full Set",
-      "value": "53"
+      "value": "53",
+      "raw": 53
     },
     {
       "label": "#1 ikertje",
-      "value": "57.6M TDH"
+      "value": "57.6M TDH",
+      "raw": 57617773
     },
     {
       "label": "24h Vol",
-      "value": "0.08 ETH"
+      "value": "0.08 ETH",
+      "raw": 0.0762
     },
     {
       "label": "7d Vol",
-      "value": "5.83 ETH"
+      "value": "5.83 ETH",
+      "raw": 5.8314
     }
   ],
   "headline_extras": [
