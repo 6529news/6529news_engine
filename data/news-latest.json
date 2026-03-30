@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T15:43:01.853040+00:00",
+  "generated_at": "2026-03-30T16:41:47.629255+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,38 +16,51 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "ikertje Leads with 57.6M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 83 voters) | \"Network for Good \" by BrynnAlise (55.8M projected TDH, 89 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection: Mon Mar 30 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING WEDNESDAY",
+      "headline": "Minting Wednesday",
+      "summary": " \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje \u2014 57.6M TDH from 82 voters. Top supporter: Thor (7.7M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ebb895e0-78fd-41ef-b2eb-f397454deca5/9e2b5e8c-63e4-46fd-a7a8-4ed8df00b3e1.gif",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/waves/author_0f832fe9-87b4-11ee-9d82-029a0e4b6159/5940f45f-28bf-426a-8fab-2d012f0f688c.jpg",
         "label": "\u200bMEMERY CARD GAME - ALL SEASONS - ikertje",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "BrynnAlise Leads with 60.2M Projected TDH",
+      "summary": "\"Network for Good \" by BrynnAlise (60.2M projected TDH, 89 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 116 voters) | \"6529 NEWS\" by Sert (35.5M projected TDH, 52 voters) Next selection: Wed Apr 01 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ba12cc5a-5856-44f6-b50f-3aed56a02795/a92fc0d0-72f9-4b35-baf4-636545bbc88a.mp4",
+        "label": "Network for Good  - BrynnAlise",
+        "type": "video"
+      },
       "dataBoxes": [
         {
-          "label": "ikertje",
-          "value": "57.6M",
-          "sub": "proj. (83 votes)"
-        },
-        {
           "label": "BrynnAlise",
-          "value": "55.8M",
+          "value": "60.2M",
           "sub": "proj. (89 votes)"
         },
         {
           "label": "Guidodisalle",
-          "value": "45.3M",
+          "value": "45.5M",
           "sub": "proj. (116 votes)"
+        },
+        {
+          "label": "Sert",
+          "value": "35.5M",
+          "sub": "proj. (52 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "15 New Memes Submissions This Week",
-      "summary": "15 submissions this week. Ranking: Sert (30.0M) | peternitsch (487K) | gruffishere (107K) | Burnasso (77K) | RegularDad (49K) | desolalasisi (39K) | Saharrococo (26K) | Carity (24K).",
+      "headline": "12 New Memes Submissions This Week",
+      "summary": "12 submissions this week. Ranking: peternitsch (487K) | gruffishere (107K) | Burnasso (77K) | RegularDad (49K) | desolalasisi (39K) | Saharrococo (26K) | Carity (24K) | ricardotakamura (21K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -76,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#7 Gsen \u2014 152K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.4M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (152K)",
         "type": "image"
       },
       "dataBoxes": [
@@ -163,10 +176,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.5 ETH",
-      "raw": 38.5,
-      "delta": 0.03999999999999915,
-      "delta_fmt": "+0.04"
+      "value": "38.6 ETH",
+      "raw": 38.59,
+      "delta": 0.09000000000000341,
+      "delta_fmt": "+0.09"
     },
     {
       "label": "Holders",
@@ -179,11 +192,11 @@
       "raw": 53
     },
     {
-      "label": "#1 ikertje",
-      "value": "57.6M TDH",
-      "raw": 57632966,
-      "delta": 15167,
-      "delta_fmt": "+15K"
+      "label": "#1 BrynnAlise",
+      "value": "60.2M TDH",
+      "raw": 60157043,
+      "delta": 2524077,
+      "delta_fmt": "+2.5M"
     },
     {
       "label": "24h Vol",
@@ -199,6 +212,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 13d AGO",
-    "DIVE BAR: 205 MSGS IN LAST 6H"
+    "DIVE BAR: 206 MSGS IN LAST 6H"
   ]
 }
