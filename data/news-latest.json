@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T07:04:02.079931+00:00",
+  "generated_at": "2026-03-30T07:14:01.857614+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 57.6M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.7M projected TDH, 85 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 8h 56m.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.7M projected TDH, 85 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 8h 46m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -46,25 +46,30 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: desolalasisi (39K) | Carity (24K) | Keegan (12K) | akc (546) | blake69 (1).",
+      "headline": "18 New Memes Submissions This Week",
+      "summary": "18 submissions this week. Ranking: dangiuz (99.7M) | Sert (28.8M) | RegularDad (2.1M) | MintFace (731K) | peternitsch (487K) | Burnasso (357K) | gruffishere (107K) | desolalasisi (39K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0b9b54c2-0e02-4a87-a7e3-e287482b3530/d58d3ea7-4850-4f9d-ba65-582e18c49f59.png",
-        "label": "Carity (24K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/098a6cf4-6edb-42dc-85b7-555eb315ed23.png",
+        "label": "RegularDad (2.1M)",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0b9b54c2-0e02-4a87-a7e3-e287482b3530/d58d3ea7-4850-4f9d-ba65-582e18c49f59.png",
-          "label": "Carity (24K)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/098a6cf4-6edb-42dc-85b7-555eb315ed23.png",
+          "label": "RegularDad (2.1M)",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_27a8bbd9-9ba5-4d20-9a7a-67c151054bee/da59d476-6b05-4009-91a5-ae9ef15dba70.gif",
-          "label": "akc (546)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2429f98a-cf0e-4b19-9c57-d4ed3f49ac07/6311e20a-01f2-45d6-a59c-515fc1cb0da9.png",
+          "label": "MintFace (731K)",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c96970c9-d278-4011-83f5-e9a3571abe41/7ea28904-ba51-4026-86ff-7159112c79eb.mp4",
+          "label": "peternitsch (487K)",
+          "type": "video"
         }
       ],
       "dataBoxes": null
@@ -154,6 +159,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 13d AGO",
-    "DIVE BAR: 48 MSGS IN LAST 6H"
+    "DIVE BAR: 49 MSGS IN LAST 6H"
   ]
 }
