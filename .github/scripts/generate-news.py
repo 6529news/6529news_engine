@@ -133,7 +133,7 @@ def build_top_memes():
 
     if not top3: return []
 
-    # Countdown to next checkpoint (decisions Mon/Wed/Fri at 16:00 UTC)
+    # Next selection datetime (Mon/Wed/Fri at 16:00 UTC = 17:00 CET)
     countdown_text = ''
     now = datetime.now(timezone.utc)
     for i in range(0, 8):
@@ -141,13 +141,8 @@ def build_top_memes():
         if d.weekday() in {0, 2, 4}:
             checkpoint = d.replace(hour=16, minute=0, second=0, microsecond=0)
             if checkpoint > now:
-                delta = checkpoint - now
-                hours = int(delta.total_seconds() // 3600)
-                mins = int((delta.total_seconds() % 3600) // 60)
-                if hours >= 24:
-                    countdown_text = f' Next selection in {hours // 24}d {hours % 24}h.'
-                else:
-                    countdown_text = f' Next selection in {hours}h {mins}m.'
+                day_names = {0: 'Mon', 1: 'Tue', 2: 'Wed', 3: 'Thu', 4: 'Fri', 5: 'Sat', 6: 'Sun'}
+                countdown_text = f' Next selection: {day_names[checkpoint.weekday()]} {checkpoint.strftime("%b %d")} at 17:00 CET.'
                 break
 
     # Always show #1's preview; fallback to first with image if #1 has none
