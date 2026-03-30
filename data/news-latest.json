@@ -117,6 +117,18 @@
       ]
     },
     {
+      "category": "6529 TALKS",
+      "headline": "punk6529: 20 Messages Today",
+      "summary": "punk6529 pointed out that the address\u2011derivation method being used does not match Trezor\u2019s standard derivation path, noting that this is a frequent source of confusion between how Trezor Suite derives accounts and how Safe (via third\u2011web) scans them. They observed that",
+      "source": "maybe's dive bar",
+      "link": "https://6529.io/punk6529",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
+        "label": "punk6529"
+      },
+      "dataBoxes": null
+    },
+    {
       "category": "SALES RECAP",
       "headline": "7 Sales Today - 0.56 ETH Volume",
       "summary": "7 sales in 24h for 0.56 ETH. Highest: \"The Institutions Are Coming\" at 0.271 ETH.",
@@ -206,8 +218,7 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 13d AGO",
-    "DIVE BAR: 555 MSGS IN LAST 6H"
+    "DIVE BAR: 640 MSGS IN LAST 6H"
   ]
 }
