@@ -248,13 +248,32 @@ def _parse_winner(dec):
         if media:
             mime = media[0].get('mime_type', '')
             url = media[0].get('url', '')
-            # Use if it's an image or video served from a reliable CDN
-            if (mime.startswith('image/') or mime.startswith('video/')) and not url.startswith('ipfs://'):
+            if mime == 'text/html':
+                # HTML submission: get preview_image from metadata
+                for m in drop.get('metadata', []):
+                    if m.get('data_key') == 'additional_media':
+                        try:
+                            extra = json.loads(m['data_value'])
+                            preview_url = extra.get('preview_image', '')
+                            if preview_url and preview_url.startswith('https://'):
+                                try:
+                                    req = urllib.request.Request(preview_url, method='HEAD')
+                                    req.add_header('User-Agent', 'Mozilla/5.0 (compatible; 6529News/1.0)')
+                                    with urllib.request.urlopen(req, timeout=5) as r:
+                                        if r.status == 200 and not r.headers.get('Content-Type', '').startswith('text/html'):
+                                            img_url = preview_url
+                                            if preview_url.lower().endswith(('.mp4', '.webm', '.mov')):
+                                                img_media_type = 'video'
+                                except:
+                                    pass
+                        except: pass
+                        break
+            elif (mime.startswith('image/') or mime.startswith('video/')) and not url.startswith('ipfs://'):
                 img_url = url
                 if mime.startswith('video/'):
                     img_media_type = 'video'
             elif url.startswith('https://d3lqz0a4bldqgf.cloudfront.net/'):
-                img_url = url  # 6529 CDN, always works
+                img_url = url
 
     # Fallback: use the wave picture if no card image available
     if not img_url:
