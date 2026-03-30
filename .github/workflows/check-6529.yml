@@ -2,7 +2,7 @@ name: Check punk6529 Activity
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
+    - cron: '*/15 * * * *'  # Every 15 min
   workflow_dispatch:
 
 permissions:
