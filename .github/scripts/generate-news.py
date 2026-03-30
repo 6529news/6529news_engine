@@ -910,7 +910,7 @@ def build_hot_wave():
 # =============================================
 # 6. NEW SUBMISSIONS (24h, best by TDH)
 # =============================================
-def build_new_submissions():
+def build_new_submissions(exclude_authors=None):
     # Last 7 days rolling
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=7)
@@ -969,11 +969,13 @@ def build_new_submissions():
     if not recent: return []
 
     # Deduplicate by author — keep highest TDH per author
+    # Exclude authors already shown in TOP MEMES
     recent.sort(key=lambda x: x['tdh'], reverse=True)
     seen_authors = set()
+    skip = exclude_authors or set()
     unique = []
     for s in recent:
-        if s['author'] not in seen_authors:
+        if s['author'] not in seen_authors and s['author'] not in skip:
             seen_authors.add(s['author'])
             unique.append(s)
     count = len(unique)
@@ -991,7 +993,7 @@ def build_new_submissions():
     print(f"  {count} unique artists, top: {unique[0]['author']} ({format_tdh(unique[0]['tdh'])})")
     return [{
         'category': 'NEW MEMES SUBMISSIONS',
-        'headline': f'{count} New Memes Submission{"s" if count > 1 else ""} (7d)',
+        'headline': f'{count} New Memes Submission{"s" if count > 1 else ""} This Week',
         'summary': summary,
         'source': 'Main Stage',
         'link': f'https://6529.io/waves/{MEMES_WAVE_ID}',
@@ -1221,7 +1223,8 @@ def main():
     all_news += build_top_memes()
 
     print("\n--- 3. New Submissions ---")
-    all_news += build_new_submissions()
+    top3_authors = {s['author'] for s in top_memes_ranked[:3]}
+    all_news += build_new_submissions(exclude_authors=top3_authors)
 
     # SuperRare cards disabled for now
     # print("\n--- 4. Top SuperRare ---")
