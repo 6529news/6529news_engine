@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T07:04:02.079931+00:00",
+  "generated_at": "2026-03-30T08:49:31.668140+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ikertje Leads with 57.6M Projected TDH",
-      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.7M projected TDH, 85 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 8h 56m.",
+      "summary": "\"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje (57.6M projected TDH, 81 voters) | \"Network for Good \" by BrynnAlise (55.7M projected TDH, 86 voters) | \"Credo quia absurdum\" by Guidodisalle (45.3M projected TDH, 116 voters) Next selection in 7h 11m.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "BrynnAlise",
           "value": "55.7M",
-          "sub": "proj. (85 votes)"
+          "sub": "proj. (86 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -46,24 +46,29 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: desolalasisi (39K) | Carity (24K) | Keegan (12K) | akc (546) | blake69 (1).",
+      "headline": "17 New Memes Submissions This Week",
+      "summary": "17 submissions this week. Ranking: dangiuz (99.7M) | Sert (28.8M) | RegularDad (2.1M) | peternitsch (487K) | Burnasso (357K) | gruffishere (107K) | desolalasisi (39K) | Saharrococo (26K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0b9b54c2-0e02-4a87-a7e3-e287482b3530/d58d3ea7-4850-4f9d-ba65-582e18c49f59.png",
-        "label": "Carity (24K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/098a6cf4-6edb-42dc-85b7-555eb315ed23.png",
+        "label": "RegularDad (2.1M)",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0b9b54c2-0e02-4a87-a7e3-e287482b3530/d58d3ea7-4850-4f9d-ba65-582e18c49f59.png",
-          "label": "Carity (24K)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/098a6cf4-6edb-42dc-85b7-555eb315ed23.png",
+          "label": "RegularDad (2.1M)",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_27a8bbd9-9ba5-4d20-9a7a-67c151054bee/da59d476-6b05-4009-91a5-ae9ef15dba70.gif",
-          "label": "akc (546)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c96970c9-d278-4011-83f5-e9a3571abe41/7ea28904-ba51-4026-86ff-7159112c79eb.mp4",
+          "label": "peternitsch (487K)",
+          "type": "video"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/8aed7371-9608-4b8f-943b-4a39c2a6ab5b.JPG",
+          "label": "Burnasso (357K)",
           "type": "image"
         }
       ],
@@ -84,11 +89,6 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/96.WEBP",
           "label": "While You Sleep - 0.044 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/369.GIF",
-          "label": "Here They Come - 0.041 ETH",
           "type": "image"
         },
         {
@@ -115,7 +115,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.014599",
+          "value": "0.0145",
           "sub": "ETH"
         }
       ]
@@ -128,7 +128,7 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH"
+      "value": "37.2 ETH"
     },
     {
       "label": "Holders",
@@ -148,12 +148,12 @@
     },
     {
       "label": "7d Vol",
-      "value": "6.37 ETH"
+      "value": "5.81 ETH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 23 23:20 UTC)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 13d AGO",
-    "DIVE BAR: 48 MSGS IN LAST 6H"
+    "DIVE BAR: 53 MSGS IN LAST 6H"
   ]
 }
