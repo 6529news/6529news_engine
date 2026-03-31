@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T03:30:22.880080+00:00",
+  "generated_at": "2026-03-31T05:28:55.502226+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -59,8 +59,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "12 New Memes Submissions This Week",
-      "summary": "12 submissions this week. Ranking: peternitsch (488K) | gruffishere (107K) | Burnasso (77K) | RegularDad (49K) | desolalasisi (39K) | Saharrococo (26K) | Carity (24K) | iamshivanshsr (12K).",
+      "headline": "13 New Memes Submissions This Week",
+      "summary": "13 submissions this week. Ranking: peternitsch (488K) | gruffishere (107K) | Burnasso (77K) | RegularDad (49K) | desolalasisi (39K) | Saharrococo (26K) | Carity (24K) | iamshivanshsr (12K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 152K TDH",
+      "headline": "JasonOPhoto Leads with 2.1M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (152K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       },
       "dataBoxes": [
@@ -119,7 +119,7 @@
     {
       "category": "6529 TALKS",
       "headline": "punk6529: 20 Messages Today",
-      "summary": "Punk6529 noted that a sale could first be handled internally among existing card holders, with the possibility of later transferring the asset to the network museum, and argued that such internal deals are unlikely to involve unrelated parties. He cautioned that assuming a seller is a related party\u2014or that a low price indicates a \u201cstupid\u201d deal\u2014is speculative, since on\u2011chain data cannot reliably reveal counterparty relationships. Ultimately, he suggested that",
+      "summary": "punk6529 said that asale or transfer is indeed planned (with details still TBD for the network museum), and that it would be better handled internally among existing card holders rather than sold to an unrelated outside party. He added that any claim of a way\u2011under\u2011market sale is merely an assumption, since on\u2011chain data cannot reveal whether the parties are related, and that using internal transfers would prevent most of the ill\u2011advised deals that",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -130,8 +130,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "9 Sales Today - 0.73 ETH Volume",
-      "summary": "9 sales in 24h for 0.73 ETH. Highest: \"The Institutions Are Coming\" at 0.271 ETH.",
+      "headline": "9 Sales Today - 0.75 ETH Volume",
+      "summary": "9 sales in 24h for 0.75 ETH. Highest: \"The Institutions Are Coming\" at 0.271 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -164,7 +164,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.73",
+          "value": "0.75",
           "sub": "ETH"
         },
         {
@@ -184,16 +184,12 @@
     {
       "label": "Network TDH",
       "value": "1451.1M",
-      "raw": 1451087954,
-      "delta": 2227338,
-      "delta_fmt": "+2.2M TDH"
+      "raw": 1451087954
     },
     {
       "label": "Full Set Bid",
       "value": "39.3 ETH",
-      "raw": 39.3,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 39.3
     },
     {
       "label": "Holders",
@@ -208,25 +204,25 @@
     {
       "label": "#1 BrynnAlise",
       "value": "62.4M TDH",
-      "raw": 62447366,
-      "delta": 50676,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 62447366
     },
     {
       "label": "24h Vol",
-      "value": "0.73 ETH",
-      "raw": 0.7336
+      "value": "0.75 ETH",
+      "raw": 0.7512,
+      "delta": 0.01759999999999995,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "7d Vol",
-      "value": "4.79 ETH",
-      "raw": 4.7916,
-      "delta": -0.14759999999999973,
-      "delta_fmt": "-0.15 ETH"
+      "value": "4.85 ETH",
+      "raw": 4.8536,
+      "delta": 0.06200000000000028,
+      "delta_fmt": "+0.06 ETH"
     }
   ],
   "headline_extras": [
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 215 MSGS IN LAST 6H"
+    "DIVE BAR: 143 MSGS IN LAST 6H"
   ]
 }
