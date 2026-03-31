@@ -1419,10 +1419,14 @@ def main():
                     if 'TDH' in label or label == 'Network TDH' or label.startswith('#1 '):
                         # TDH values: show in M
                         t['delta_fmt'] = f"{delta/1_000_000:+.1f}M TDH"
-                    elif 'Vol' in label:
-                        # Volume: show percentage change
+                    elif label == '24h Vol':
+                        # 24h volume: show percentage change
                         pct = (delta / prev_val) * 100
                         t['delta_fmt'] = f"{pct:+.1f}%"
+                    elif 'Vol' in label:
+                        # 7d/30d volume: no delta (not meaningful between runs)
+                        del t['delta']
+                        continue
                     elif 'Bid' in label:
                         # ETH values
                         t['delta_fmt'] = f"{delta:+.2f} ETH"
