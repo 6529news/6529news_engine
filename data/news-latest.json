@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T05:42:14.105258+00:00",
+  "generated_at": "2026-03-31T06:03:03.774899+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#7 Gsen \u2014 152K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (152K)",
         "type": "image"
       },
       "dataBoxes": [
@@ -118,8 +118,8 @@
     },
     {
       "category": "6529 TALKS",
-      "headline": "punk6529: 183 Messages in Last 24h",
-      "summary": "183 messages in maybe's dive bar.",
+      "headline": "punk6529: 187 Messages in Last 24h",
+      "summary": "187 messages in maybe's dive bar.",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -189,7 +189,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.3 ETH",
-      "raw": 39.3
+      "raw": 39.31,
+      "delta": 0.010000000000005116,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Holders",
@@ -204,7 +206,9 @@
     {
       "label": "#1 BrynnAlise",
       "value": "62.4M TDH",
-      "raw": 62447366
+      "raw": 62447403,
+      "delta": 37,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "24h Vol",
