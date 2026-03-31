@@ -119,7 +119,7 @@
     {
       "category": "6529 TALKS",
       "headline": "punk6529: 20 Messages Today",
-      "summary": "Punk6529 noted that there isalready a plan to eventually move assets to the network museum, but for now transfers could be handled internally among existing card holders, since it\u2019s unlikely they\u2019d sell to unrelated parties. He cautioned that spotting under\u2011market sales is merely an assumption, as on\u2011chain data cannot reliably reveal whether counterparties are related, and that relying on internal transfers would help prevent the majority of holders from making poor, \u201cstupid\u201d deals.",
+      "summary": "Punk6529 noted that, rather than selling NFTs to unrelated third parties, holders could first conduct trades internally among themselves (e.g., \u201cTBD to the network museum\u201d or \u201cinternal to the other card holders\u201d). He argued that it\u2019s difficult to prove a buyer is a related party on\u2011chain, so assumptions about under\u2011market sales are just that\u2014assumptions\u2014and that an internal\u2011",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -223,6 +223,6 @@
   ],
   "headline_extras": [
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 1000 MSGS IN LAST 6H"
+    "DIVE BAR: 957 MSGS IN LAST 6H"
   ]
 }
