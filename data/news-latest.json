@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T16:58:27.054730+00:00",
+  "generated_at": "2026-03-31T17:58:49.335107+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "BrynnAlise Leads with 62.5M Projected TDH",
-      "summary": "\"Network for Good \" by BrynnAlise (62.5M projected TDH, 96 voters) | \"6529 NEWS\" by Sert (47.6M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 117 voters) Next selection: Wed Apr 01 at 17:00 CET.",
+      "headline": "BrynnAlise Leads with 62.4M Projected TDH",
+      "summary": "\"Network for Good \" by BrynnAlise (62.4M projected TDH, 96 voters) | \"6529 NEWS\" by Sert (47.6M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 117 voters) Next selection: Wed Apr 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "BrynnAlise",
-          "value": "62.5M",
+          "value": "62.4M",
           "sub": "proj. (96 votes)"
         },
         {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#2 Articulate \u2014 1.8M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (1.8M)",
         "type": "image"
       },
       "dataBoxes": [
@@ -175,10 +175,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.3 ETH",
-      "raw": 37.27,
-      "delta": 2.0900000000000034,
-      "delta_fmt": "+2.09 ETH"
+      "value": "37.8 ETH",
+      "raw": 37.84,
+      "delta": 0.5700000000000003,
+      "delta_fmt": "+0.57 ETH"
     },
     {
       "label": "Holders",
@@ -192,15 +192,15 @@
     },
     {
       "label": "#1 BrynnAlise",
-      "value": "62.5M TDH",
-      "raw": 62468097
+      "value": "62.4M TDH",
+      "raw": 62435295,
+      "delta": -32802,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "24h Vol",
       "value": "0.85 ETH",
-      "raw": 0.8485,
-      "delta": -0.20750000000000002,
-      "delta_fmt": "-19.6%"
+      "raw": 0.8485
     },
     {
       "label": "7d Vol",
@@ -211,6 +211,6 @@
   "headline_extras": [
     "PUNK6529: 187 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 552 MSGS IN LAST 6H"
+    "DIVE BAR: 557 MSGS IN LAST 6H"
   ]
 }
