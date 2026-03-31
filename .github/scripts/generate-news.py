@@ -194,8 +194,7 @@ def build_top_superrare():
         'summary': summary,
         'source': 'SuperRare x 6529',
         'link': f'https://6529.io/waves/{SR_WAVE_ID}',
-        'image': image,
-        'dataBoxes': [{'label': s['author'], 'value': format_tdh(s['current_tdh']), 'sub': f"TDH ({s['voters']} votes)"} for s in top3]
+        'image': image
     }]
 
 
