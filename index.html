@@ -91,25 +91,20 @@
   }
 
   /* --- Top-right controls --- */
-  .top-right { margin-left: auto; display: flex; align-items: center; gap: clamp(8px, 1.5vw, 16px); }
-  .gov-btn {
+  .top-right { margin-left: auto; display: flex; align-items: center; gap: clamp(10px, 1.5vw, 18px); }
+  .gov-btn, .tool-btn {
     background: rgba(200,168,78,0.08); border: 1px solid var(--c-gold-15);
-    color: var(--c-gold-60); font-family: var(--f-display); font-weight: 600;
-    font-size: clamp(13px, 1.5vw, 16px); letter-spacing: 2px; padding: 3px 12px; text-decoration: none;
+    color: var(--c-gold-60); font-family: var(--f-body); font-weight: 600;
+    font-size: 14px; letter-spacing: 2px; padding: 3px 12px;
+    text-decoration: none; cursor: pointer;
   }
-  .gov-btn:hover { background: rgba(200,168,78,0.15); color: var(--c-gold); }
-  .tool-btn {
-    background: rgba(200,168,78,0.06); border: 1px solid var(--c-gold-08);
-    color: rgba(200,168,78,0.45); font-family: var(--f-display); font-weight: 600;
-    font-size: clamp(12px, 1.3vw, 14px); letter-spacing: 2px; padding: 3px 10px; cursor: pointer;
-  }
-  .tool-btn:hover { background: rgba(200,168,78,0.12); color: var(--c-gold); }
+  .gov-btn:hover, .tool-btn:hover { background: rgba(200,168,78,0.15); color: var(--c-gold); }
   .live-indicator { display: flex; align-items: center; gap: 6px; }
   .live-dot { width: 8px; height: 8px; background: var(--c-red); border-radius: 50%; animation: blink 1s step-end infinite; box-shadow: 0 0 5px rgba(178,34,34,0.7); }
   @keyframes blink { 50% { opacity: 0.15; } }
-  .live-text { font-family: var(--f-display); font-weight: 600; font-size: clamp(15px, 1.8vw, 19px); color: var(--c-red); letter-spacing: 3px; }
-  .clock { font-family: var(--f-mono); font-size: clamp(13px, 1.6vw, 17px); color: var(--c-gold-60); letter-spacing: 2px; }
-  .date-display { font-family: var(--f-body); font-size: clamp(11px, 1.2vw, 13px); color: var(--c-text-55); letter-spacing: 1px; }
+  .live-text { font-family: var(--f-body); font-weight: 700; font-size: 16px; color: var(--c-red); letter-spacing: 3px; }
+  .clock { font-family: var(--f-mono); font-size: 15px; color: var(--c-gold-60); letter-spacing: 2px; }
+  .date-display { font-family: var(--f-body); font-size: 13px; color: var(--c-text-55); letter-spacing: 2px; }
 
   /* =============================================
      NEWS AREA (main content)
