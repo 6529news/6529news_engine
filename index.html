@@ -240,10 +240,10 @@
     border-top: 1px solid var(--c-gold-08); border-bottom: 1px solid var(--c-gold-04);
     display: flex; align-items: center; padding: 0 clamp(10px, 1.5vw, 18px); overflow: hidden;
   }
-  .headline-scroll { flex: 1; min-width: 0; overflow: hidden; }
+  .headline-scroll { flex: 1; min-width: 0; overflow: hidden; display: flex; align-items: center; }
   .headline-text {
     color: var(--c-text); font-family: var(--f-body); font-weight: 500;
-    font-size: clamp(15px, 2vw, 22px); letter-spacing: 1px;
+    font-size: clamp(15px, 2vw, 22px); letter-spacing: 1px; line-height: 1;
     white-space: nowrap; text-transform: uppercase; display: inline-block;
   }
   .headline-text.scrolling { animation: scroll 25s linear infinite; }
@@ -438,6 +438,7 @@
     .ticker-item { padding: 0 4px; gap: 2px; }
     .ticker-item-label { font-size: 8px; }
     .ticker-item-value { font-size: 9px; }
+    .ticker-delta { font-size: 7px; }
     .ticker-separator { font-size: 6px; padding: 0 1px; }
 
     /* --- Intro --- */
@@ -461,7 +462,7 @@
     .headline-label, .ticker-label { font-size: 7px; width: 34px; }
     .headline-text { font-size: 7px; }
     .nav-btn { width: 18px; height: 18px; font-size: 7px; }
-    .ticker-item-label { font-size: 6px; } .ticker-item-value { font-size: 6px; }
+    .ticker-item-label { font-size: 6px; } .ticker-item-value { font-size: 6px; } .ticker-delta { font-size: 5px; }
   }
 
   /* =============================================
