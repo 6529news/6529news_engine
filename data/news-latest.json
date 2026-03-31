@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T20:33:31.582611+00:00",
+  "generated_at": "2026-03-31T20:40:35.448717+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 302K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (302K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -159,9 +159,7 @@
     {
       "label": "Full Set Bid",
       "value": "39.3 ETH",
-      "raw": 39.32,
-      "delta": 0.22999999999999687,
-      "delta_fmt": "+0.23 ETH"
+      "raw": 39.32
     },
     {
       "label": "Holders",
@@ -181,21 +179,22 @@
     {
       "label": "24h Vol",
       "value": "1.02 ETH",
-      "raw": 1.0229,
-      "delta": 9.999999999998899e-05,
-      "delta_fmt": "+0.0%"
+      "raw": 1.0228,
+      "delta": -9.999999999998899e-05,
+      "delta_fmt": "-0.0%"
     },
     {
       "label": "7d Vol",
       "value": "5.10 ETH",
-      "raw": 5.0964,
-      "delta": 0.000700000000000145,
-      "delta_fmt": "+0.0%"
+      "raw": 5.0957,
+      "delta": -0.000700000000000145,
+      "delta_fmt": "-0.0%"
     }
   ],
   "headline_extras": [
     "PUNK6529: 187 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 954 MSGS IN LAST 6H"
+    "DIVE BAR: 935 MSGS IN LAST 6H",
+    "CARD #476: 141 MINTS (EXCL. MUSEUM) | 107 HOLDERS | THE BEAR SPOT"
   ]
 }
