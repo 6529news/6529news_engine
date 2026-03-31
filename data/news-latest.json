@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T20:40:35.448717+00:00",
+  "generated_at": "2026-03-31T20:56:25.596593+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "BrynnAlise Leads with 62.4M Projected TDH",
-      "summary": "\"Network for Good \" by BrynnAlise (62.4M projected TDH, 96 voters) | \"6529 NEWS\" by Sert (47.6M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 117 voters) Next selection: Wed Apr 01 at 17:00 CET.",
+      "summary": "\"Network for Good \" by BrynnAlise (62.4M projected TDH, 96 voters) | \"6529 NEWS\" by Sert (51.6M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 118 voters) Next selection: Wed Apr 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,13 +34,13 @@
         },
         {
           "label": "Sert",
-          "value": "47.6M",
+          "value": "51.6M",
           "sub": "proj. (62 votes)"
         },
         {
           "label": "Guidodisalle",
           "value": "45.5M",
-          "sub": "proj. (117 votes)"
+          "sub": "proj. (118 votes)"
         }
       ]
     },
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.1M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       }
     },
@@ -158,8 +158,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.3 ETH",
-      "raw": 39.32
+      "value": "39.4 ETH",
+      "raw": 39.39,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Holders",
@@ -179,22 +181,19 @@
     {
       "label": "24h Vol",
       "value": "1.02 ETH",
-      "raw": 1.0228,
-      "delta": -9.999999999998899e-05,
-      "delta_fmt": "-0.0%"
+      "raw": 1.0228
     },
     {
       "label": "7d Vol",
       "value": "5.10 ETH",
-      "raw": 5.0957,
-      "delta": -0.000700000000000145,
-      "delta_fmt": "-0.0%"
+      "raw": 5.0957
     }
   ],
   "headline_extras": [
     "PUNK6529: 187 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 935 MSGS IN LAST 6H",
-    "CARD #476: 141 MINTS (EXCL. MUSEUM) | 107 HOLDERS | THE BEAR SPOT"
+    "DIVE BAR: 889 MSGS IN LAST 6H",
+    "CARD #476: 141 MINTS (EXCL. MUSEUM) | 107 HOLDERS | THE BEAR SPOT",
+    "MOST ACTIVE TODAY: GPEBBLES (266) | PUNK6529 (214) | FRANKIEHGIH_ETH (107)"
   ]
 }
