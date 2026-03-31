@@ -263,14 +263,7 @@
     display: flex; background: linear-gradient(180deg, var(--c-bg-1), var(--c-bg-0));
     border-top: 1px solid var(--c-gold-04);
   }
-  .ticker-label {
-    background: linear-gradient(180deg, var(--c-text), #d8c8a8); color: var(--c-red);
-    font-family: var(--f-display); font-weight: 700; font-size: clamp(18px, 2.2vw, 24px);
-    letter-spacing: 2px;
-    width: var(--label-w); flex-shrink: 0;
-    display: flex; align-items: center; justify-content: center;
-    padding-bottom: 2px;
-  }
+  .ticker-label { display: none; }
   .ticker-track  { flex: 1; overflow: hidden; display: flex; align-items: center; position: relative; }
   .ticker-content { display: flex; align-items: center; white-space: nowrap; animation: tickerScroll 40s linear infinite; position: absolute; left: 0; }
   @keyframes tickerScroll { from { transform: translateX(0); } to { transform: translateX(-33.333%); } }
