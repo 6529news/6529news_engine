@@ -732,18 +732,29 @@ def build_gradients_sales():
 def build_punk6529():
     print("Checking punk6529...")
     try:
-        drops = fetch_json(f'https://api.6529.io/api/drops?author={PUNK6529_HANDLE}&limit=20')
+        # Paginate to get ALL drops in 24h
+        all_drops = []
+        sn = 999999
+        now_ms = datetime.now(timezone.utc).timestamp() * 1000
+        twenty_four_h = now_ms - 24 * 3600 * 1000
+        one_hour = now_ms - 3600 * 1000
+        for _ in range(20):
+            page = fetch_json(f'https://api.6529.io/api/drops?author={PUNK6529_HANDLE}&limit=20&serial_no_less_than={sn}')
+            if not page or not isinstance(page, list) or len(page) == 0:
+                break
+            all_drops += page
+            sn = page[-1]['serial_no']
+            if page[-1].get('created_at', 0) < twenty_four_h:
+                break
+        drops = all_drops
     except Exception as e:
         print(f"  API exception: {e}")
-        drops = None
+        drops = []
 
-    if not drops or not isinstance(drops, list) or len(drops) == 0:
-        print(f"  No drops data (got: {type(drops).__name__}) — adding fallback headline")
+    if not drops:
+        print(f"  No drops data — adding fallback headline")
         return [], ["PUNK6529 LAST SEEN: (data unavailable)"]
 
-    now_ms = datetime.now(timezone.utc).timestamp() * 1000
-    one_hour = now_ms - 3600 * 1000
-    twenty_four_h = now_ms - 24 * 3600 * 1000
     recent = [d for d in drops if d.get('created_at', 0) > twenty_four_h]
     very_recent = [d for d in drops if d.get('created_at', 0) > one_hour]
 
@@ -781,12 +792,14 @@ def build_punk6529():
             messages.append(content)
 
     summary = ai_summarize(
-        f"What is punk6529 talking about? One short sentence, max 15 words. Topic only, no filler:\n\n" +
-        '\n'.join([f'- {m}' for m in messages[:8]])
+        f"Main topic in 5-8 words. No intro, just the topic:\n\n" +
+        '\n'.join([f'- {m}' for m in messages[:8]]),
+        max_tokens=30
     )
-    if not summary:
-        best = [m for m in messages if len(m) > 40][:1]
-        summary = f'Active in {", ".join(waves_active)}.' + (f' "{best[0][:60]}..."' if best else '')
+    if summary:
+        summary = f'{len(recent)} messages in {", ".join(waves_active)}. Topic: {summary}'
+    else:
+        summary = f'{len(recent)} messages in {", ".join(waves_active)}.'
 
     print(f"  Active: {len(recent)} msgs")
     return [{
