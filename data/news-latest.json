@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T22:36:02.211465+00:00",
+  "generated_at": "2026-03-31T23:07:21.590612+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING WEDNESDAY",
-      "headline": "Minting Wednesday",
-      "summary": " \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje \u2014 57.6M TDH from 82 voters. Top supporter: Thor (7.7M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"\u200bMEMERY CARD GAME - ALL SEASONS\" by ikertje \u2014 57.6M TDH from 82 voters. Top supporter: Thor (7.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "BrynnAlise Leads with 64.0M Projected TDH",
-      "summary": "\"Network for Good \" by BrynnAlise (64.0M projected TDH, 98 voters) | \"6529 NEWS\" by Sert (51.6M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 118 voters) Next selection: Wed Apr 01 at 17:00 CET.",
+      "summary": "\"Network for Good \" by BrynnAlise (64.0M projected TDH, 98 voters) | \"6529 NEWS\" by Sert (51.5M projected TDH, 61 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 118 voters) Next selection: Wed Apr 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "Sert",
-          "value": "51.6M",
-          "sub": "proj. (62 votes)"
+          "value": "51.5M",
+          "sub": "proj. (61 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "17 New Memes Submissions This Week",
-      "summary": "17 submissions this week. Ranking: RegularDad (4.1M) | Burnasso (1.4M) | peternitsch (488K) | gruffishere (147K) | AEZY (84K) | kristopher (76K) | desolalasisi (39K) | Saharrococo (26K).",
+      "summary": "17 submissions this week. Ranking: RegularDad (4.1M) | Burnasso (2.0M) | peternitsch (488K) | gruffishere (147K) | AEZY (84K) | kristopher (76K) | desolalasisi (39K) | Saharrococo (26K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -63,7 +63,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/f253f3a9-17fa-4b2b-819b-b88bfedd6424.JPG",
-          "label": "Burnasso (1.4M)",
+          "label": "Burnasso (2.0M)",
           "type": "image"
         },
         {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.1M TDH",
+      "headline": "#2 Articulate \u2014 1.8M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (1.8M)",
         "type": "image"
       }
     },
@@ -157,9 +157,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.3 ETH",
-      "raw": 39.3,
-      "delta": -0.04000000000000625,
-      "delta_fmt": "-0.04 ETH"
+      "raw": 39.29,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -179,16 +179,14 @@
     {
       "label": "#1 BrynnAlise",
       "value": "64.0M TDH",
-      "raw": 64033295,
-      "delta": 9566,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 64033295
     }
   ],
   "headline_extras": [
     "PUNK6529: 4 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 15d AGO",
+    "DIVE BAR: 748 MSGS IN LAST 6H",
     "CARD #476: 141 MINTS (EXCL. MUSEUM) | 107 HOLDERS | THE BEAR SPOT",
-    "ACTIVE TODAY: GPEBBLES (223 MSGS) | CARITY (111) | FRANKIEHGIH_ETH (95)",
-    "DIVE BAR: 741 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GPEBBLES (162 MSGS) | CARITY (108) | MINTFACE (93)"
   ]
 }
