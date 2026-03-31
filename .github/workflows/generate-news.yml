@@ -37,6 +37,6 @@ jobs:
         run: |
           git config user.name "6529news"
           git config user.email "noreply@6529news.xyz"
-          git add data/news-latest.json index.html
+          git add data/news-latest.json data/ticker-history.json index.html
           git diff --staged --quiet || git commit -m "News update: $(date -u +%Y-%m-%d_%H:%M)"
           git push || echo "Nothing to push"

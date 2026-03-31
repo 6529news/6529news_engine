@@ -1377,12 +1377,48 @@ def main():
     # --- BUILD OUTPUT ---
     output = build_output(all_news, ticker_data, all_headlines, top_memes_ranked[:3])
 
-    # --- PRESERVE DATA: if ticker is empty/sparse, keep previous values ---
+    # --- TICKER HISTORY: store values with timestamps for 24h comparison ---
     out_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'data', 'news-latest.json')
+    history_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'data', 'ticker-history.json')
+    now_ts = datetime.now(timezone.utc).timestamp()
+
+    # Load history
+    history = []
+    try:
+        with open(history_path) as f:
+            history = json.load(f)
+    except:
+        pass
+
+    # Save current ticker values to history
+    current_raw = {}
+    for t in output['ticker']:
+        if 'raw' in t:
+            current_raw[t['label']] = t['raw']
+            # Also save by prefix for labels that change (like #1)
+            for prefix in ['#1 ']:
+                if t['label'].startswith(prefix):
+                    current_raw[prefix] = t['raw']
+    history.append({'ts': now_ts, 'data': current_raw})
+
+    # Clean history: keep only last 48h
+    cutoff = now_ts - 48 * 3600
+    history = [h for h in history if h['ts'] > cutoff]
+
+    # Find entry closest to 24h ago
+    target_ts = now_ts - 24 * 3600
+    prev_24h = None
+    best_diff = float('inf')
+    for h in history:
+        diff = abs(h['ts'] - target_ts)
+        if diff < best_diff:
+            best_diff = diff
+            prev_24h = h['data']
+
+    # --- PRESERVE DATA: if ticker is empty/sparse, keep previous values ---
     try:
         with open(out_path) as f:
             prev = json.load(f)
-        # If new ticker has fewer items than previous, merge missing from previous
         if len(output['ticker']) < len(prev.get('ticker', [])):
             prev_labels = {t['label'] for t in output['ticker']}
             for t in prev['ticker']:
@@ -1390,12 +1426,11 @@ def main():
                     output['ticker'].append(t)
             print(f"  Preserved {len(output['ticker']) - len(prev_labels)} ticker items from previous run")
 
-        # Calculate deltas vs previous values
+        # Calculate deltas
         prev_raw = {}
         for t in prev.get('ticker', []):
             if 'raw' in t:
                 prev_raw[t['label']] = t['raw']
-            # Also check labels that change (like #1 Author) by prefix
             for prefix in ['#1 ', 'Network TDH', 'Full Set Bid', 'Holders', 'Full Set', '24h Vol', '7d Vol', '30d Vol']:
                 if t['label'].startswith(prefix) and 'raw' in t:
                     prev_raw[prefix] = t['raw']
@@ -1403,35 +1438,40 @@ def main():
         for t in output['ticker']:
             if 'raw' not in t:
                 continue
-            # Match by exact label or prefix (for #1 which changes name)
-            prev_val = prev_raw.get(t['label'])
+            label = t['label']
+
+            # 24h Vol: compare with value from 24h ago (from history)
+            if label == '24h Vol':
+                if prev_24h and '24h Vol' in prev_24h and prev_24h['24h Vol'] != 0:
+                    old_val = prev_24h['24h Vol']
+                    delta = t['raw'] - old_val
+                    if delta != 0:
+                        pct = (delta / old_val) * 100
+                        t['delta'] = delta
+                        t['delta_fmt'] = f"{pct:+.1f}%"
+                        print(f"  24h Vol delta: {old_val:.4f} → {t['raw']:.4f} ({t['delta_fmt']})")
+                continue
+
+            # 7d/30d Vol: no delta
+            if 'Vol' in label:
+                continue
+
+            # Other stats: compare with previous run
+            prev_val = prev_raw.get(label)
             if prev_val is None:
-                for prefix in ['#1 ', 'Network TDH', 'Full Set Bid', 'Holders', 'Full Set', '24h Vol', '7d Vol', '30d Vol']:
-                    if t['label'].startswith(prefix) and prefix in prev_raw:
+                for prefix in ['#1 ', 'Network TDH', 'Full Set Bid', 'Holders', 'Full Set']:
+                    if label.startswith(prefix) and prefix in prev_raw:
                         prev_val = prev_raw[prefix]
                         break
             if prev_val is not None and prev_val != 0:
                 delta = t['raw'] - prev_val
                 if delta != 0:
                     t['delta'] = delta
-                    # Format delta matching the unit of each stat
-                    label = t['label']
                     if 'TDH' in label or label == 'Network TDH' or label.startswith('#1 '):
-                        # TDH values: show in M
                         t['delta_fmt'] = f"{delta/1_000_000:+.1f}M TDH"
-                    elif label == '24h Vol':
-                        # 24h volume: show percentage change
-                        pct = (delta / prev_val) * 100
-                        t['delta_fmt'] = f"{pct:+.1f}%"
-                    elif 'Vol' in label:
-                        # 7d/30d volume: no delta (not meaningful between runs)
-                        del t['delta']
-                        continue
                     elif 'Bid' in label:
-                        # ETH values
                         t['delta_fmt'] = f"{delta:+.2f} ETH"
                     elif label in ('Holders', 'Full Set'):
-                        # Plain numbers
                         t['delta_fmt'] = f"{delta:+,}"
                     elif isinstance(delta, float):
                         t['delta_fmt'] = f"{delta:+.2f}"
@@ -1439,6 +1479,14 @@ def main():
                         t['delta_fmt'] = f"{delta:+,}"
     except:
         pass
+
+    # Save ticker history
+    try:
+        with open(history_path, 'w') as f:
+            json.dump(history, f)
+        print(f"  Ticker history: {len(history)} entries")
+    except Exception as e:
+        print(f"  Ticker history save error: {e}")
 
     print(f"\n--- Total: {len(output['news'])} cards, {len(output['ticker'])} ticker, {len(output['headline_extras'])} headlines ---")
 
