@@ -1225,6 +1225,37 @@ def update_gist(output):
 
 
 # =============================================
+# HEADLINE: LATEST CARD MINT & HOLDERS
+# =============================================
+def build_latest_card_headline():
+    """Headline with mint count (excl research.6529.eth) and holders for latest card."""
+    print("Checking latest card stats...")
+    try:
+        nft = fetch_json(f'https://api.6529.io/api/nfts?contract={MEMES_CONTRACT}&page_size=1&sort=id&sort_direction=desc')
+        if not nft or not nft.get('data'):
+            return []
+        card = nft['data'][0]
+        card_id = card['id']
+        card_name = card.get('name', f'Card #{card_id}')
+
+        ext = fetch_json(f'https://api.6529.io/api/memes_extended_data?id={card_id}')
+        if not ext or not ext.get('data'):
+            return []
+        data = ext['data'][0]
+
+        mints = data.get('edition_size_cleaned', data.get('edition_size', 0))
+        total = data.get('edition_size', 0)
+        hodlers = data.get('hodlers', 0)
+
+        headline = f"CARD #{card_id}: {mints} MINTS (EXCL. MUSEUM) | {hodlers} HOLDERS | {card_name.upper()}"
+        print(f"  {headline}")
+        return [headline]
+    except Exception as e:
+        print(f"  Latest card headline error: {e}")
+        return []
+
+
+# =============================================
 # HEADLINE: NEW WAVES
 # =============================================
 def build_new_waves_headline():
@@ -1301,6 +1332,9 @@ def main():
 
     print("\n--- Nakamoto Sales (conditional headline) ---")
     all_headlines += build_naka_sales()
+
+    print("\n--- Latest Card stats (headline) ---")
+    all_headlines += build_latest_card_headline()
 
     # --- BUILD OUTPUT ---
     output = build_output(all_news, ticker_data, all_headlines, top_memes_ranked[:3])
