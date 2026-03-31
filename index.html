@@ -421,8 +421,7 @@
     }
     .headline-content { padding: 0 4px; }
     .headline-text { font-size: 9px; }
-    .nav-btn { width: 22px; height: 22px; font-size: 9px; border-radius: 2px; }
-    .nav-arrows { gap: 2px; margin-left: 2px; }
+    .nav-arrows { display: none; }
     .card-nav { display: none; }
 
     .ticker-bar { position: relative; bottom: auto; height: 26px; flex-shrink: 0; border-top: none; }
@@ -578,15 +577,28 @@
     const NODE_COUNT = 60;
     const CONNECT_DIST = Math.min(W, H) * 0.22;
 
-    // Generate nodes — keep center clear for logo
+    // Generate nodes — keep center clear for logo, word nodes spaced apart
+    const MIN_WORD_DIST = Math.min(W, H) * 0.18;
     for (let i = 0; i < NODE_COUNT; i++) {
       let x, y, tries = 0;
+      const isWord = i < WORDS.length;
       do {
         x = Math.random() * W;
         y = Math.random() * H;
         tries++;
-      } while (tries < 20 && Math.abs(x - W/2) < W*0.18 && Math.abs(y - H/2) < H*0.12);
-      const isWord = i < WORDS.length;
+        // Check: not in center (logo area)
+        const inCenter = Math.abs(x - W/2) < W*0.18 && Math.abs(y - H/2) < H*0.12;
+        // Check: word nodes must be far enough from other word nodes
+        let tooClose = false;
+        if (isWord) {
+          for (let j = 0; j < NODES.length; j++) {
+            if (NODES[j].word) {
+              const dx = x - NODES[j].x, dy = y - NODES[j].y;
+              if (Math.sqrt(dx*dx + dy*dy) < MIN_WORD_DIST) { tooClose = true; break; }
+            }
+          }
+        }
+      } while (tries < 50 && (Math.abs(x - W/2) < W*0.18 && Math.abs(y - H/2) < H*0.12 || (isWord && tries < 40 && NODES.some(n => n.word && Math.sqrt((x-n.x)**2 + (y-n.y)**2) < MIN_WORD_DIST))));
       NODES.push({
         x, y, r: isWord ? 7 : 2.5 + Math.random() * 3,
         word: isWord ? WORDS[i] : null,
