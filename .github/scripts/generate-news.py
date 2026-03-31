@@ -558,10 +558,12 @@ def build_sales_recap():
         if cid in NOTABLE_CARDS:
             headline_extras.append(f"{NOTABLE_CARDS[cid]} SALE: {sale['price']:.3f} ETH")
 
-    # 7d data for ticker
+    # 7d + 30d data for ticker
     intervals = stats.get('intervals', [])
     vol_7d = intervals[1].get('volume', 0) if len(intervals) > 1 else 0
     sales_7d = intervals[1].get('sales', 0) if len(intervals) > 1 else 0
+    vol_30d = intervals[2].get('volume', 0) if len(intervals) > 2 else 0
+    sales_30d = intervals[2].get('sales', 0) if len(intervals) > 2 else 0
 
     # Pebbles market + last sale time for headline
     pebbles = fetch_json('https://api.opensea.io/api/v2/collections/pebbles-by-zeblocks/stats', {'X-API-KEY': OPENSEA_KEY})
@@ -594,7 +596,8 @@ def build_sales_recap():
     ticker_data = [{
         'name': 'Memes', 'floor': floor, 'floor_sym': floor_sym,
         'vol_24h': vol_24h, 'sales_24h': sales_24h,
-        'vol_7d': vol_7d, 'sales_7d': sales_7d
+        'vol_7d': vol_7d, 'sales_7d': sales_7d,
+        'vol_30d': vol_30d, 'sales_30d': sales_30d
     }]
 
     return news, headline_extras, ticker_data
@@ -1214,26 +1217,28 @@ def build_output(news, ticker_data, headline_extras, top_memes_data=None):
 
     # Network stats
     network_tdh, full_set_bid, holders, full_set_holders = fetch_network_stats()
-    if network_tdh > 0:
-        ticker.append({'label': 'Network TDH', 'value': format_tdh(network_tdh), 'raw': network_tdh})
-    if full_set_bid > 0:
-        ticker.append({'label': 'Full Set Bid', 'value': f'{full_set_bid:.1f} ETH', 'raw': round(full_set_bid, 2)})
-    if holders > 0:
-        ticker.append({'label': 'Holders', 'value': f'{holders:,}', 'raw': holders})
-    if full_set_holders > 0:
-        ticker.append({'label': 'Full Set', 'value': str(full_set_holders), 'raw': full_set_holders})
 
-    # Memes #1 only
-    if top_memes_data and len(top_memes_data) > 0:
-        m = top_memes_data[0]
-        ticker.append({'label': f"#1 {m['author']}", 'value': f"{format_tdh(m['projected_tdh'])} TDH", 'raw': m['projected_tdh']})
+    # Memes #1
+    top1 = top_memes_data[0] if top_memes_data and len(top_memes_data) > 0 else None
 
-    # Sales data: 24h + 7d (ETH only)
+    # Order: 24h Vol → 7d Vol → 30d Vol → Full Set Bid → Full Set → Holders → Network TDH → #1
     for m in ticker_data:
         if m.get('vol_24h', 0) > 0:
             ticker.append({'label': '24h Vol', 'value': f"{m['vol_24h']:.2f} ETH", 'raw': round(m['vol_24h'], 4)})
         if m.get('vol_7d', 0) > 0:
             ticker.append({'label': '7d Vol', 'value': f"{m['vol_7d']:.2f} ETH", 'raw': round(m['vol_7d'], 4)})
+        if m.get('vol_30d', 0) > 0:
+            ticker.append({'label': '30d Vol', 'value': f"{m['vol_30d']:.2f} ETH", 'raw': round(m['vol_30d'], 4)})
+    if full_set_bid > 0:
+        ticker.append({'label': 'Full Set Bid', 'value': f'{full_set_bid:.1f} ETH', 'raw': round(full_set_bid, 2)})
+    if full_set_holders > 0:
+        ticker.append({'label': 'Full Set', 'value': str(full_set_holders), 'raw': full_set_holders})
+    if holders > 0:
+        ticker.append({'label': 'Holders', 'value': f'{holders:,}', 'raw': holders})
+    if network_tdh > 0:
+        ticker.append({'label': 'Network TDH', 'value': format_tdh(network_tdh), 'raw': network_tdh})
+    if top1:
+        ticker.append({'label': f"#1 {top1['author']}", 'value': f"{format_tdh(top1['projected_tdh'])} TDH", 'raw': top1['projected_tdh']})
 
     return {
         'generated_at': datetime.now(timezone.utc).isoformat(),
@@ -1391,7 +1396,7 @@ def main():
             if 'raw' in t:
                 prev_raw[t['label']] = t['raw']
             # Also check labels that change (like #1 Author) by prefix
-            for prefix in ['#1 ', 'Network TDH', 'Full Set Bid', 'Holders', 'Full Set', '24h Vol', '7d Vol']:
+            for prefix in ['#1 ', 'Network TDH', 'Full Set Bid', 'Holders', 'Full Set', '24h Vol', '7d Vol', '30d Vol']:
                 if t['label'].startswith(prefix) and 'raw' in t:
                     prev_raw[prefix] = t['raw']
 
@@ -1401,7 +1406,7 @@ def main():
             # Match by exact label or prefix (for #1 which changes name)
             prev_val = prev_raw.get(t['label'])
             if prev_val is None:
-                for prefix in ['#1 ', 'Network TDH', 'Full Set Bid', 'Holders', 'Full Set', '24h Vol', '7d Vol']:
+                for prefix in ['#1 ', 'Network TDH', 'Full Set Bid', 'Holders', 'Full Set', '24h Vol', '7d Vol', '30d Vol']:
                     if t['label'].startswith(prefix) and prefix in prev_raw:
                         prev_val = prev_raw[prefix]
                         break
