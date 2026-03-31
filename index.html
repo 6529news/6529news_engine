@@ -38,7 +38,7 @@
 
     /* Layout (responsive) */
     --topbar-h:  clamp(56px, 7.5vh, 74px);
-    --bar-h:     clamp(42px, 5.5vh, 58px);
+    --bar-h:     clamp(36px, 4.5vh, 48px);
     --label-w:   clamp(82px, 9vw, 110px);
     --pad-page:  clamp(14px, 2.5vw, 28px);
 
@@ -118,9 +118,9 @@
   .card-cat-bar { display: flex; align-items: center; gap: 12px; margin-bottom: clamp(4px, 0.8vh, 8px); }
   .card-cat {
     background: var(--grad-red); color: var(--c-text);
-    font-family: var(--f-display); font-weight: 700; font-size: clamp(15px, 1.8vw, 20px);
+    font-family: var(--f-display); font-weight: 700; font-size: clamp(18px, 2.2vw, 26px);
     letter-spacing: 2px; text-transform: uppercase;
-    padding: var(--badge-py-t) 16px var(--badge-py-b);
+    padding: var(--badge-py-t) 18px var(--badge-py-b);
   }
   .card-cat-line { flex: 1; height: 1px; background: linear-gradient(90deg, var(--c-gold-15), transparent); }
 
@@ -146,7 +146,7 @@
 
   .card-headline {
     color: var(--c-text); font-family: var(--f-body); font-weight: 700;
-    font-size: clamp(22px, 3.5vw, 40px); line-height: 1.15;
+    font-size: clamp(26px, 4vw, 48px); line-height: 1.15;
     margin-bottom: clamp(6px, 1vh, 10px);
     text-transform: uppercase; opacity: 0;
   }
@@ -223,7 +223,7 @@
   .headline-bar { position: absolute; bottom: var(--bar-h); left: 0; right: 0; height: var(--bar-h); z-index: 15; display: flex; }
   .headline-label {
     background: var(--grad-red); color: var(--c-text);
-    font-family: var(--f-display); font-weight: 700; font-size: 24px;
+    font-family: var(--f-display); font-weight: 700; font-size: 20px;
     letter-spacing: 3px; text-transform: uppercase;
     flex-shrink: 0; padding: 0 14px;
     display: flex; align-items: center; justify-content: center;
@@ -238,7 +238,7 @@
   .headline-scroll { flex: 1; min-width: 0; overflow: hidden; display: flex; align-items: center; height: 100%; }
   .headline-text {
     color: var(--c-text); font-family: var(--f-body); font-weight: 700;
-    font-size: clamp(15px, 2vw, 22px); letter-spacing: 1px;
+    font-size: clamp(13px, 1.6vw, 18px); letter-spacing: 1px;
     line-height: var(--bar-h);
     white-space: nowrap; text-transform: uppercase; display: inline-block;
   }
