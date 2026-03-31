@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T21:43:38.203108+00:00",
+  "generated_at": "2026-03-31T21:47:20.623397+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#7 Gsen \u2014 152K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (152K)",
         "type": "image"
       }
     },
     {
       "category": "6529 TALKS",
-      "headline": "punk6529: 164 Messages in Last 24h",
-      "summary": "164 messages in maybe's dive bar.",
+      "headline": "punk6529: 159 Messages in Last 24h",
+      "summary": "159 messages in maybe's dive bar.",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -193,10 +193,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529: 164 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "PUNK6529: 159 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 782 MSGS IN LAST 6H",
+    "DIVE BAR: 786 MSGS IN LAST 6H",
     "CARD #476: 141 MINTS (EXCL. MUSEUM) | 107 HOLDERS | THE BEAR SPOT",
-    "ACTIVE TODAY: GPEBBLES (266 MSGS) | PUNK6529 (182) | CARITY (110)"
+    "ACTIVE TODAY: GPEBBLES (266 MSGS) | PUNK6529 (177) | CARITY (111)"
   ]
 }
