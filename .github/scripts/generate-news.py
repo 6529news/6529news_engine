@@ -781,17 +781,17 @@ def build_punk6529():
             messages.append(content)
 
     summary = ai_summarize(
-        f"Summarize what punk6529 (a key figure in the 6529 NFT community) talked about in these messages. 2-3 sentences, factual:\n\n" +
+        f"What is punk6529 talking about? One short sentence, max 15 words. Topic only, no filler:\n\n" +
         '\n'.join([f'- {m}' for m in messages[:8]])
     )
     if not summary:
-        best = [m for m in messages if len(m) > 40][:2]
-        summary = f'punk6529 posted {len(recent)} messages in {", ".join(waves_active)}. ' + ' | '.join([f'"{q[:80]}"' for q in best])
+        best = [m for m in messages if len(m) > 40][:1]
+        summary = f'Active in {", ".join(waves_active)}.' + (f' "{best[0][:60]}..."' if best else '')
 
     print(f"  Active: {len(recent)} msgs")
     return [{
         'category': '6529 TALKS',
-        'headline': f'punk6529: {len(recent)} Messages Today',
+        'headline': f'punk6529: {len(recent)} Messages in Last 24h',
         'summary': summary,
         'source': list(waves_active)[0] if waves_active else 'Network',
         'link': 'https://6529.io/punk6529',
