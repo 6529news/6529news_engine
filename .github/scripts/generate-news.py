@@ -760,20 +760,31 @@ def build_punk6529():
 
     headline_extra = []
 
-    # FIXED: Always show last seen (from most recent drop ever)
     last = drops[0]
     last_dt = datetime.fromtimestamp(last.get('created_at', 0)/1000, tz=timezone.utc)
     wave_name = (last.get('wave') or {}).get('name') or 'unknown'
+    now_dt = datetime.now(timezone.utc)
+    days_ago = (now_dt - last_dt).days
+    hours_ago = (now_dt - last_dt).total_seconds() / 3600
+
+    # Count msgs in the session (last activity window)
+    # Use all fetched drops that are within 24h of the last message
+    session_cutoff = last_dt - timedelta(hours=24)
+    session_msgs = sum(1 for d in drops if datetime.fromtimestamp(d.get('created_at', 0)/1000, tz=timezone.utc) > session_cutoff)
 
     if very_recent:
-        latest_wave = (very_recent[0].get('wave') or {}).get('name') or 'unknown'
-        headline_extra.append(f"PUNK6529 ACTIVE NOW IN {latest_wave.upper()}")
-        if recent:
-            headline_extra.append(f"PUNK6529: {len(recent)} MESSAGES TODAY")
+        # Active right now
+        headline_extra.append(f"PUNK6529 ACTIVE NOW IN {wave_name.upper()} WITH {len(recent)} MSGS")
+    elif hours_ago < 24:
+        # Active today
+        headline_extra.append(f"PUNK6529 BACK TODAY IN {wave_name.upper()} WITH {len(recent)} MSGS")
+    elif days_ago < 3:
+        # Active recently (yesterday or 2 days ago)
+        day_label = 'YESTERDAY' if days_ago == 1 else f'{days_ago} DAYS AGO'
+        headline_extra.append(f"PUNK6529 BACK {day_label} IN {wave_name.upper()} WITH {session_msgs} MSGS")
     else:
-        headline_extra.append(f"PUNK6529 LAST SEEN: {wave_name} ({last_dt.strftime('%b %d %H:%M UTC')})")
-        if recent:
-            headline_extra.append(f"PUNK6529: {len(recent)} MESSAGES TODAY")
+        # Inactive 3+ days
+        headline_extra.append(f"PUNK6529 LAST SEEN: {wave_name} ({last_dt.strftime('%b %d')})")
 
     print(f"  punk6529: {len(recent)} recent, {len(very_recent)} very_recent, headlines: {headline_extra}")
 
