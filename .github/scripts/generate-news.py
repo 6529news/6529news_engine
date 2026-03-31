@@ -1160,7 +1160,7 @@ def build_divebar_most_active():
         return []
 
     top = sorted(counts.items(), key=lambda x: x[1], reverse=True)[:3]
-    parts = ' | '.join(f'{name.upper()} ({c})' for name, c in top)
+    parts = ' | '.join(f'{name.upper()} ({c} MSGS)' if i == 0 else f'{name.upper()} ({c})' for i, (name, c) in enumerate(top))
     headline = f"ACTIVE TODAY: {parts}"
     print(f"  {headline}")
     return [headline]
