@@ -87,18 +87,6 @@
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529: 37 Messages in Last 24h",
-      "summary": "37 messages in maybe's dive bar.",
-      "source": "maybe's dive bar",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
       "headline": "17 Sales Today - 0.85 ETH Volume",
       "summary": "17 sales in 24h for 0.85 ETH. Highest: \"The Institutions Are Coming\" at 0.270 ETH.",
@@ -197,10 +185,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529: 37 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "PUNK6529: 4 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 749 MSGS IN LAST 6H",
     "CARD #476: 141 MINTS (EXCL. MUSEUM) | 107 HOLDERS | THE BEAR SPOT",
-    "ACTIVE TODAY: GPEBBLES (223 MSGS) | CARITY (111) | FRANKIEHGIH_ETH (95)"
+    "ACTIVE TODAY: GPEBBLES (223 MSGS) | CARITY (111) | FRANKIEHGIH_ETH (95)",
+    "DIVE BAR: 741 MSGS IN LAST 6H"
   ]
 }
