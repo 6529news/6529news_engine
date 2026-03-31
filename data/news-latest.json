@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-03-31T14:16:58.222912+00:00",
+  "generated_at": "2026-03-31T15:46:42.276906+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"The Bear Spot\" by nathanabauman \u2014 67.8M TDH from 96 voters. Top supporter: gpebbles (13.0M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/476.JPG",
-        "label": "The Bear Spot - nathanabauman",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING WEDNESDAY",
       "headline": "Minting Wednesday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "BrynnAlise Leads with 62.5M Projected TDH",
-      "summary": "\"Network for Good \" by BrynnAlise (62.5M projected TDH, 96 voters) | \"6529 NEWS\" by Sert (47.5M projected TDH, 60 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 117 voters) Next selection: Wed Apr 01 at 17:00 CET.",
+      "summary": "\"Network for Good \" by BrynnAlise (62.5M projected TDH, 96 voters) | \"6529 NEWS\" by Sert (47.5M projected TDH, 61 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 117 voters) Next selection: Wed Apr 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +35,7 @@
         {
           "label": "Sert",
           "value": "47.5M",
-          "sub": "proj. (60 votes)"
+          "sub": "proj. (61 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -89,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#7 Gsen \u2014 152K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (152K)",
         "type": "image"
       },
       "dataBoxes": [
@@ -188,10 +175,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.2 ETH",
-      "raw": 39.16,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "35.2 ETH",
+      "raw": 35.18,
+      "delta": -3.979999999999997,
+      "delta_fmt": "-3.98 ETH"
     },
     {
       "label": "Holders",
@@ -206,28 +193,24 @@
     {
       "label": "#1 BrynnAlise",
       "value": "62.5M TDH",
-      "raw": 62466265,
-      "delta": 8529,
+      "raw": 62468097,
+      "delta": 1832,
       "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "24h Vol",
       "value": "1.06 ETH",
-      "raw": 1.056,
-      "delta": 0.3931,
-      "delta_fmt": "+59.3%"
+      "raw": 1.056
     },
     {
       "label": "7d Vol",
       "value": "5.33 ETH",
-      "raw": 5.3334,
-      "delta": 0.4175000000000004,
-      "delta_fmt": "+8.5%"
+      "raw": 5.3334
     }
   ],
   "headline_extras": [
     "PUNK6529: 187 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 276 MSGS IN LAST 6H"
+    "DIVE BAR: 430 MSGS IN LAST 6H"
   ]
 }
