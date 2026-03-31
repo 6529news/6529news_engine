@@ -467,10 +467,11 @@ def build_sales_recap():
 
     all_sales = []
     high_sales = []
-    sweeps = {}
+    sweeps_1h = {}  # Only direct sales in last hour for sweep detection
     headline_extras = []
     now = datetime.now(timezone.utc)
     twenty_four_h_ago = now - timedelta(hours=24)
+    one_hour_ago = now - timedelta(hours=1)
 
     if sales_data and 'asset_events' in sales_data:
         for e in sales_data['asset_events']:
@@ -483,13 +484,18 @@ def build_sales_recap():
                     sale_dt = datetime.fromisoformat(str(ts).replace('Z', '+00:00'))
                 if sale_dt < twenty_four_h_ago:
                     continue
+            else:
+                sale_dt = now
             price = int(e['payment']['quantity']) / 1e18
             name = e['nft']['name']
             card_id = e['nft']['identifier']
             all_sales.append({'name': name, 'price': price, 'card_id': card_id})
             if price >= 0.3:
                 high_sales.append(f'"{name}" {price:.3f} ETH')
-            sweeps[card_id] = sweeps.get(card_id, 0) + 1
+            # Sweep: only direct sales (not accepted offers) in last hour
+            is_offer = str(e.get('order_type', '')).lower() in ('offer', 'criteria_offer')
+            if sale_dt >= one_hour_ago and not is_offer:
+                sweeps_1h[card_id] = sweeps_1h.get(card_id, 0) + 1
 
     # Sort by price, take top 3 unique cards
     all_sales.sort(key=lambda x: x['price'], reverse=True)
@@ -503,13 +509,13 @@ def build_sales_recap():
             break
 
     highest = top_sales[0] if top_sales else {'name': '', 'price': 0, 'card_id': ''}
-    sweep_cards = [(cid, cnt) for cid, cnt in sweeps.items() if cnt >= 5]
+    sweep_cards = [(cid, cnt) for cid, cnt in sweeps_1h.items() if cnt >= 10]
 
     summary = f'{sales_24h} sales in 24h for {vol_24h:.2f} ETH.'
     if highest['price'] > 0:
         summary += f' Highest: "{highest["name"]}" at {highest["price"]:.3f} ETH.'
     if sweep_cards:
-        summary += f' Sweep detected: {len(sweep_cards)} card(s) with 5+ sales.'
+        summary += f' Sweep detected: {len(sweep_cards)} card(s) with 10+ sales in 1h.'
 
     # Build images for top 3 sales
     sales_images = []
@@ -542,9 +548,16 @@ def build_sales_recap():
     }]
 
     # Build headline extras for the NEWS bar
-    # CONDITIONAL: Sweep alert only
+    # CONDITIONAL: Sweep alert
     for cid, cnt in sweep_cards[:1]:
-        headline_extras.append(f"SWEEP ALERT: CARD #{cid} - {cnt} SALES IN 24H")
+        headline_extras.append(f"SWEEP ALERT: CARD #{cid} - {cnt} SALES IN LAST HOUR")
+
+    # CONDITIONAL: SGT PEPE (#37) and EXIT STRATEGY (#47) sales in last 24h
+    NOTABLE_CARDS = {'37': 'SGT PEPE', '47': 'EXIT STRATEGY'}
+    for sale in all_sales:
+        cid = str(sale['card_id'])
+        if cid in NOTABLE_CARDS:
+            headline_extras.append(f"{NOTABLE_CARDS[cid]} SALE: {sale['price']:.3f} ETH")
 
     # 7d data for ticker
     intervals = stats.get('intervals', [])
@@ -772,18 +785,14 @@ def build_punk6529():
     session_cutoff = last_dt - timedelta(hours=24)
     session_msgs = sum(1 for d in drops if datetime.fromtimestamp(d.get('created_at', 0)/1000, tz=timezone.utc) > session_cutoff)
 
-    if very_recent:
-        # Active right now
+    if len(very_recent) >= 10:
+        # Active now: 10+ msgs in last hour
         headline_extra.append(f"PUNK6529 ACTIVE NOW IN {wave_name.upper()} WITH {len(recent)} MSGS")
-    elif hours_ago < 24:
-        # Active today
-        headline_extra.append(f"PUNK6529 BACK TODAY IN {wave_name.upper()} WITH {len(recent)} MSGS")
-    elif days_ago < 3:
-        # Active recently (yesterday or 2 days ago)
-        day_label = 'YESTERDAY' if days_ago == 1 else f'{days_ago} DAYS AGO'
-        headline_extra.append(f"PUNK6529 BACK {day_label} IN {wave_name.upper()} WITH {session_msgs} MSGS")
+    elif recent:
+        # Has msgs in last 24h
+        headline_extra.append(f"PUNK6529: {len(recent)} MSGS IN THE LAST 24H IN {wave_name.upper()}")
     else:
-        # Inactive 3+ days
+        # No msgs in last 24h
         headline_extra.append(f"PUNK6529 LAST SEEN: {wave_name} ({last_dt.strftime('%b %d')})")
 
     print(f"  punk6529: {len(recent)} recent, {len(very_recent)} very_recent, headlines: {headline_extra}")
@@ -821,7 +830,7 @@ def build_punk6529():
         'link': 'https://6529.io/punk6529',
         'image': {'url': PUNK6529_PFP, 'label': 'punk6529'},
         'dataBoxes': None
-    }], []
+    }], headline_extra
 
 
 # =============================================
@@ -1069,12 +1078,12 @@ def build_tdh_on_submissions():
 NAKA_COLLECTION = 'nakamoto-freedom-by-punk6529'
 
 def build_naka_sales():
-    """CONDITIONAL headline: any Nakamoto card sale in last hour."""
+    """CONDITIONAL headline: any Nakamoto card sale in last 24h."""
     print("Checking Nakamoto sales...")
     if not OPENSEA_KEY:
         return []
     events = fetch_json(
-        f'https://api.opensea.io/api/v2/events/collection/{NAKA_COLLECTION}?event_type=sale&limit=10',
+        f'https://api.opensea.io/api/v2/events/collection/{NAKA_COLLECTION}?event_type=sale&limit=50',
         {'X-API-KEY': OPENSEA_KEY}
     )
     if not events or not events.get('asset_events'):
@@ -1082,7 +1091,7 @@ def build_naka_sales():
         return []
 
     now = datetime.now(timezone.utc)
-    one_hour_ago = now - timedelta(hours=1)
+    twenty_four_h_ago = now - timedelta(hours=24)
     headlines = []
 
     for e in events['asset_events']:
@@ -1093,13 +1102,13 @@ def build_naka_sales():
             sale_dt = datetime.fromtimestamp(ts, tz=timezone.utc)
         else:
             sale_dt = datetime.fromisoformat(str(ts).replace('Z', '+00:00'))
-        if sale_dt >= one_hour_ago:
+        if sale_dt >= twenty_four_h_ago:
             price = int(e['payment']['quantity']) / 1e18
             name = e['nft'].get('name', 'Nakamoto Card')
             headlines.append(f"NAKA SALE: \"{name}\" {price:.3f} ETH")
 
     if headlines:
-        print(f"  {len(headlines)} Nakamoto sales in last hour")
+        print(f"  {len(headlines)} Nakamoto sales in last 24h")
     else:
         print("  No recent Nakamoto sales")
     return headlines
@@ -1339,7 +1348,11 @@ def main():
                     if 'TDH' in label or label == 'Network TDH' or label.startswith('#1 '):
                         # TDH values: show in M
                         t['delta_fmt'] = f"{delta/1_000_000:+.1f}M TDH"
-                    elif 'Vol' in label or 'Bid' in label:
+                    elif 'Vol' in label:
+                        # Volume: show percentage change
+                        pct = (delta / prev_val) * 100
+                        t['delta_fmt'] = f"{pct:+.1f}%"
+                    elif 'Bid' in label:
                         # ETH values
                         t['delta_fmt'] = f"{delta:+.2f} ETH"
                     elif label in ('Holders', 'Full Set'):
