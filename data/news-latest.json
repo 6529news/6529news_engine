@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T05:28:55.502226+00:00",
+  "generated_at": "2026-03-31T05:42:14.105258+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "BrynnAlise Leads with 62.4M Projected TDH",
-      "summary": "\"Network for Good \" by BrynnAlise (62.4M projected TDH, 93 voters) | \"6529 NEWS\" by Sert (48.0M projected TDH, 57 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 117 voters) Next selection: Wed Apr 01 at 17:00 CET.",
+      "summary": "\"Network for Good \" by BrynnAlise (62.4M projected TDH, 93 voters) | \"6529 NEWS\" by Sert (48.0M projected TDH, 58 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 117 voters) Next selection: Wed Apr 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +48,7 @@
         {
           "label": "Sert",
           "value": "48.0M",
-          "sub": "proj. (57 votes)"
+          "sub": "proj. (58 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.1M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       },
       "dataBoxes": [
@@ -118,8 +118,8 @@
     },
     {
       "category": "6529 TALKS",
-      "headline": "punk6529: 20 Messages Today",
-      "summary": "punk6529 said that asale or transfer is indeed planned (with details still TBD for the network museum), and that it would be better handled internally among existing card holders rather than sold to an unrelated outside party. He added that any claim of a way\u2011under\u2011market sale is merely an assumption, since on\u2011chain data cannot reveal whether the parties are related, and that using internal transfers would prevent most of the ill\u2011advised deals that",
+      "headline": "punk6529: 183 Messages in Last 24h",
+      "summary": "183 messages in maybe's dive bar.",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -209,20 +209,16 @@
     {
       "label": "24h Vol",
       "value": "0.75 ETH",
-      "raw": 0.7512,
-      "delta": 0.01759999999999995,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 0.7512
     },
     {
       "label": "7d Vol",
       "value": "4.85 ETH",
-      "raw": 4.8536,
-      "delta": 0.06200000000000028,
-      "delta_fmt": "+0.06 ETH"
+      "raw": 4.8536
     }
   ],
   "headline_extras": [
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 143 MSGS IN LAST 6H"
+    "DIVE BAR: 128 MSGS IN LAST 6H"
   ]
 }
