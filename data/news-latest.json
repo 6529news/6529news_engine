@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T23:07:21.590612+00:00",
+  "generated_at": "2026-03-31T23:51:33.011522+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -157,9 +157,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.3 ETH",
-      "raw": 39.29,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "raw": 39.3,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -185,8 +185,8 @@
   "headline_extras": [
     "PUNK6529: 4 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 15d AGO",
+    "DIVE BAR: 706 MSGS IN LAST 6H",
     "CARD #476: 141 MINTS (EXCL. MUSEUM) | 107 HOLDERS | THE BEAR SPOT",
-    "ACTIVE TODAY: GPEBBLES (162 MSGS) | CARITY (108) | MINTFACE (93)",
-    "DIVE BAR: 710 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GPEBBLES (158 MSGS) | CARITY (107) | MINTFACE (93)"
   ]
 }
