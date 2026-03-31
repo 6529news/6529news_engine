@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T20:56:25.596593+00:00",
+  "generated_at": "2026-03-31T20:59:41.457803+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "BrynnAlise Leads with 62.4M Projected TDH",
-      "summary": "\"Network for Good \" by BrynnAlise (62.4M projected TDH, 96 voters) | \"6529 NEWS\" by Sert (51.6M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 118 voters) Next selection: Wed Apr 01 at 17:00 CET.",
+      "summary": "\"Network for Good \" by BrynnAlise (62.4M projected TDH, 97 voters) | \"6529 NEWS\" by Sert (51.6M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 118 voters) Next selection: Wed Apr 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "BrynnAlise",
           "value": "62.4M",
-          "sub": "proj. (96 votes)"
+          "sub": "proj. (97 votes)"
         },
         {
           "label": "Sert",
@@ -159,9 +159,7 @@
     {
       "label": "Full Set Bid",
       "value": "39.4 ETH",
-      "raw": 39.39,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "raw": 39.39
     },
     {
       "label": "Holders",
@@ -192,8 +190,8 @@
   "headline_extras": [
     "PUNK6529: 187 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 889 MSGS IN LAST 6H",
+    "DIVE BAR: 885 MSGS IN LAST 6H",
     "CARD #476: 141 MINTS (EXCL. MUSEUM) | 107 HOLDERS | THE BEAR SPOT",
-    "MOST ACTIVE TODAY: GPEBBLES (266) | PUNK6529 (214) | FRANKIEHGIH_ETH (107)"
+    "ACTIVE TODAY: GPEBBLES (266) | PUNK6529 (210) | FRANKIEHGIH_ETH (107)"
   ]
 }
