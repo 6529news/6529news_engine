@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T00:05:41.750406+00:00",
+  "generated_at": "2026-03-31T03:30:22.880080+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "BrynnAlise Leads with 62.4M Projected TDH",
-      "summary": "\"Network for Good \" by BrynnAlise (62.4M projected TDH, 90 voters) | \"6529 NEWS\" by Sert (48.1M projected TDH, 55 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 116 voters) Next selection: Wed Apr 01 at 17:00 CET.",
+      "summary": "\"Network for Good \" by BrynnAlise (62.4M projected TDH, 93 voters) | \"6529 NEWS\" by Sert (48.0M projected TDH, 57 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 117 voters) Next selection: Wed Apr 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,17 +43,17 @@
         {
           "label": "BrynnAlise",
           "value": "62.4M",
-          "sub": "proj. (90 votes)"
+          "sub": "proj. (93 votes)"
         },
         {
           "label": "Sert",
-          "value": "48.1M",
-          "sub": "proj. (55 votes)"
+          "value": "48.0M",
+          "sub": "proj. (57 votes)"
         },
         {
           "label": "Guidodisalle",
           "value": "45.5M",
-          "sub": "proj. (116 votes)"
+          "sub": "proj. (117 votes)"
         }
       ]
     },
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.1M TDH",
+      "headline": "#7 Gsen \u2014 152K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (152K)",
         "type": "image"
       },
       "dataBoxes": [
@@ -119,7 +119,7 @@
     {
       "category": "6529 TALKS",
       "headline": "punk6529: 20 Messages Today",
-      "summary": "Punk6529 noted that, rather than selling NFTs to unrelated third parties, holders could first conduct trades internally among themselves (e.g., \u201cTBD to the network museum\u201d or \u201cinternal to the other card holders\u201d). He argued that it\u2019s difficult to prove a buyer is a related party on\u2011chain, so assumptions about under\u2011market sales are just that\u2014assumptions\u2014and that an internal\u2011",
+      "summary": "punk6529 posted 20 messages in maybe's dive bar. \"you could do internal to the other card holders to start\" | \"they are not likely selling to an unrelated party\"",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -183,15 +183,17 @@
   "ticker": [
     {
       "label": "Network TDH",
-      "value": "1448.9M",
-      "raw": 1448860616
+      "value": "1451.1M",
+      "raw": 1451087954,
+      "delta": 2227338,
+      "delta_fmt": "+2.2M TDH"
     },
     {
       "label": "Full Set Bid",
       "value": "39.3 ETH",
-      "raw": 39.32,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 39.3,
+      "delta": -0.020000000000003126,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Holders",
@@ -206,7 +208,9 @@
     {
       "label": "#1 BrynnAlise",
       "value": "62.4M TDH",
-      "raw": 62396690
+      "raw": 62447366,
+      "delta": 50676,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "24h Vol",
@@ -215,14 +219,14 @@
     },
     {
       "label": "7d Vol",
-      "value": "4.94 ETH",
-      "raw": 4.9392,
-      "delta": -0.00020000000000042206,
-      "delta_fmt": "-0.00 ETH"
+      "value": "4.79 ETH",
+      "raw": 4.7916,
+      "delta": -0.14759999999999973,
+      "delta_fmt": "-0.15 ETH"
     }
   ],
   "headline_extras": [
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 14d AGO",
-    "DIVE BAR: 957 MSGS IN LAST 6H"
+    "DIVE BAR: 703 MSGS IN LAST 6H"
   ]
 }
