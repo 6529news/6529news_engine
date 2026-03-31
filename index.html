@@ -291,28 +291,12 @@
   .intro-overlay.fade-out { opacity: 0; pointer-events: none; }
   .intro-overlay.hidden   { display: none; }
 
-  .intro-words {
+  .intro-circuit {
     position: absolute; inset: 0; z-index: 2; pointer-events: none;
-    overflow: hidden; user-select: none;
-    display: flex; flex-direction: column; justify-content: center;
-    background: none;
-    opacity: 0;
-    animation: wordsIn 0.8s 0.05s ease-out forwards;
+    opacity: 0; animation: circuitIn 1.2s 0.1s ease-out forwards;
   }
-  .intro-words-row {
-    white-space: nowrap;
-    font-family: 'Anton', sans-serif; font-weight: 400;
-    color: rgba(200,168,78,0.05);
-    text-transform: uppercase;
-    line-height: 0.88;
-    letter-spacing: 0;
-    font-size: clamp(100px, 25vh, 300px);
-    word-spacing: 0;
-  }
-  @keyframes wordsIn {
-    0%   { opacity: 0; }
-    100% { opacity: 1; }
-  }
+  .intro-circuit canvas { width: 100%; height: 100%; }
+  @keyframes circuitIn { to { opacity: 1; } }
   @keyframes introFade { to { opacity: 1; } }
 
   .intro-flash {
@@ -488,7 +472,7 @@
 <body>
 <div class="container" id="container">
   <div class="intro-overlay" id="introOverlay">
-    <div class="intro-words" id="introWords"></div>
+    <div class="intro-circuit" id="introCircuit"><canvas id="circuitCanvas"></canvas></div>
     <div class="intro-flash"></div>
     <div class="intro-scanlines"></div>
     <div class="intro-logo">
@@ -560,18 +544,115 @@
 <script>
   // No scaling needed — layout is fully responsive via CSS
 
-  // === INTRO BACKGROUND WORDS ===
+  // === INTRO CIRCUIT BOARD / BRAIN NETWORK ===
   (function() {
-    const el = document.getElementById('introWords');
-    if (!el) return;
-    const rows = [
-      'TDHMEMESBRAINART',
-      'ARTBRAINTDHMEMES',
-      'MEMESARTTDHBRAIN',
-      'BRAINTDHARTMEMES',
-      'ARTMEMESBRAINTDH'
-    ];
-    el.innerHTML = rows.map(r => `<div class="intro-words-row">${r}</div>`).join('');
+    const canvas = document.getElementById('circuitCanvas');
+    if (!canvas) return;
+    const ctx = canvas.getContext('2d');
+    const dpr = window.devicePixelRatio || 1;
+    const W = canvas.parentElement.offsetWidth;
+    const H = canvas.parentElement.offsetHeight;
+    canvas.width = W * dpr; canvas.height = H * dpr;
+    ctx.scale(dpr, dpr);
+
+    const GOLD = [200, 168, 78];
+    const WORDS = ['TDH', 'BRAIN', 'NETWORK', 'COORDINATION', 'MEMES', 'ART', '6529', 'DECENTRALIZED'];
+    const NODES = [];
+    const EDGES = [];
+    const NODE_COUNT = 60;
+    const CONNECT_DIST = Math.min(W, H) * 0.22;
+
+    // Generate nodes — keep center clear for logo
+    for (let i = 0; i < NODE_COUNT; i++) {
+      let x, y, tries = 0;
+      do {
+        x = Math.random() * W;
+        y = Math.random() * H;
+        tries++;
+      } while (tries < 20 && Math.abs(x - W/2) < W*0.18 && Math.abs(y - H/2) < H*0.12);
+      const isWord = i < WORDS.length;
+      NODES.push({
+        x, y, r: isWord ? 4 : 1.5 + Math.random() * 2,
+        word: isWord ? WORDS[i] : null,
+        phase: Math.random() * Math.PI * 2,
+        speed: 0.3 + Math.random() * 0.7
+      });
+    }
+
+    // Build edges between nearby nodes
+    for (let i = 0; i < NODES.length; i++) {
+      for (let j = i + 1; j < NODES.length; j++) {
+        const dx = NODES[i].x - NODES[j].x, dy = NODES[i].y - NODES[j].y;
+        const dist = Math.sqrt(dx*dx + dy*dy);
+        if (dist < CONNECT_DIST) {
+          EDGES.push({ a: i, b: j, dist, pulseOffset: Math.random() * Math.PI * 2 });
+        }
+      }
+    }
+
+    let t = 0;
+    function draw() {
+      ctx.clearRect(0, 0, W, H);
+      t += 0.015;
+
+      // Draw edges with pulse
+      for (const e of EDGES) {
+        const na = NODES[e.a], nb = NODES[e.b];
+        const alpha = (1 - e.dist / CONNECT_DIST) * 0.12;
+        const pulse = 0.5 + 0.5 * Math.sin(t * 1.5 + e.pulseOffset);
+        ctx.strokeStyle = `rgba(${GOLD[0]},${GOLD[1]},${GOLD[2]},${alpha * (0.5 + pulse * 0.5)})`;
+        ctx.lineWidth = 0.5 + pulse * 0.5;
+        ctx.beginPath();
+        // Circuit-style: L-shaped lines
+        const midX = (na.x + nb.x) / 2;
+        if (Math.random() > 0.5 || true) {
+          ctx.moveTo(na.x, na.y);
+          if (Math.abs(na.x - nb.x) > Math.abs(na.y - nb.y)) {
+            ctx.lineTo(nb.x, na.y);
+            ctx.lineTo(nb.x, nb.y);
+          } else {
+            ctx.lineTo(na.x, nb.y);
+            ctx.lineTo(nb.x, nb.y);
+          }
+        }
+        ctx.stroke();
+      }
+
+      // Draw nodes
+      for (const n of NODES) {
+        const pulse = 0.6 + 0.4 * Math.sin(t * n.speed + n.phase);
+        const alpha = n.word ? 0.5 * pulse : 0.2 * pulse;
+
+        // Glow for word nodes
+        if (n.word) {
+          const grad = ctx.createRadialGradient(n.x, n.y, 0, n.x, n.y, 20);
+          grad.addColorStop(0, `rgba(${GOLD[0]},${GOLD[1]},${GOLD[2]},${0.08 * pulse})`);
+          grad.addColorStop(1, 'transparent');
+          ctx.fillStyle = grad;
+          ctx.fillRect(n.x - 20, n.y - 20, 40, 40);
+        }
+
+        // Dot
+        ctx.fillStyle = `rgba(${GOLD[0]},${GOLD[1]},${GOLD[2]},${alpha})`;
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.r * pulse, 0, Math.PI * 2);
+        ctx.fill();
+
+        // Word label
+        if (n.word) {
+          ctx.font = `600 ${Math.min(14, W * 0.012)}px Oswald, sans-serif`;
+          ctx.fillStyle = `rgba(${GOLD[0]},${GOLD[1]},${GOLD[2]},${0.35 * pulse})`;
+          ctx.textAlign = 'center';
+          ctx.letterSpacing = '2px';
+          ctx.fillText(n.word, n.x, n.y - 10);
+        }
+      }
+
+      if (!document.getElementById('introOverlay')?.classList.contains('hidden')) {
+        requestAnimationFrame(draw);
+      }
+    }
+    draw();
   })();
 
   // Intro: 2.5s then fade
