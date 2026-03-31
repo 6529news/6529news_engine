@@ -229,10 +229,10 @@
   .headline-label {
     background: var(--grad-red); color: var(--c-text);
     font-family: var(--f-display); font-weight: 700; font-size: clamp(18px, 2.2vw, 24px);
-    letter-spacing: 3px;
-    width: var(--label-w); flex-shrink: 0;
+    letter-spacing: 3px; text-transform: uppercase;
+    flex-shrink: 0; padding: 0 clamp(10px, 1.5vw, 18px);
     display: flex; align-items: center; justify-content: center;
-    padding-bottom: 2px;
+    line-height: var(--bar-h); white-space: nowrap;
   }
   .headline-content {
     flex: 1; min-width: 0;
@@ -240,12 +240,12 @@
     border-top: 1px solid var(--c-gold-08); border-bottom: 1px solid var(--c-gold-04);
     display: flex; align-items: center; padding: 0 clamp(10px, 1.5vw, 18px); overflow: hidden;
   }
-  .headline-scroll { flex: 1; min-width: 0; overflow: hidden; display: flex; align-items: center; }
+  .headline-scroll { flex: 1; min-width: 0; overflow: hidden; display: flex; align-items: center; height: 100%; }
   .headline-text {
     color: var(--c-text); font-family: var(--f-body); font-weight: 500;
-    font-size: clamp(15px, 2vw, 22px); letter-spacing: 1px; line-height: 1;
+    font-size: clamp(15px, 2vw, 22px); letter-spacing: 1px;
+    line-height: var(--bar-h);
     white-space: nowrap; text-transform: uppercase; display: inline-block;
-    padding-bottom: 0.15em;
   }
   .headline-text.scrolling { animation: scroll 25s linear infinite; }
   @keyframes scroll { to { transform: translateX(-50%); } }
@@ -426,7 +426,11 @@
 
     /* --- Bottom bars: thin on mobile --- */
     .headline-bar { position: relative; bottom: auto; height: 28px; flex-shrink: 0; }
-    .headline-label, .ticker-label {
+    .headline-label {
+      font-size: 9px; letter-spacing: 1px; padding: 0 6px;
+      line-height: 28px;
+    }
+    .ticker-label {
       font-size: 9px; width: 40px; letter-spacing: 1px;
       padding-bottom: 1px; display: flex; align-items: center; justify-content: center;
     }
@@ -460,7 +464,8 @@
     .headline-bar { height: 24px; }
     .ticker-bar { height: 22px; }
     .progress-bar { height: 1px; }
-    .headline-label, .ticker-label { font-size: 7px; width: 34px; }
+    .headline-label { font-size: 7px; padding: 0 4px; line-height: 24px; }
+    .ticker-label { font-size: 7px; width: 34px; }
     .headline-text { font-size: 7px; }
     .nav-btn { width: 18px; height: 18px; font-size: 7px; }
     .ticker-item-label { font-size: 6px; } .ticker-item-value { font-size: 6px; } .ticker-delta { font-size: 5px; }
@@ -481,7 +486,8 @@
   .container.screenshot-mode .card-preview { flex: 1; }
   .container.screenshot-mode .data-label { font-size: 10px; } .container.screenshot-mode .data-value { font-size: 26px; } .container.screenshot-mode .data-sub { font-size: 10px; }
   .container.screenshot-mode .headline-bar { bottom: 58px; height: 58px; }
-  .container.screenshot-mode .headline-label, .container.screenshot-mode .ticker-label { font-size: 20px; width: 100px; }
+  .container.screenshot-mode .headline-label { font-size: 20px; padding: 0 16px; line-height: 58px; }
+  .container.screenshot-mode .ticker-label { font-size: 20px; width: 100px; }
   .container.screenshot-mode .headline-text { font-size: 16px; }
   .container.screenshot-mode .nav-btn { width: 34px; height: 34px; font-size: 12px; }
   .container.screenshot-mode .progress-bar { bottom: 58px; }
@@ -529,7 +535,7 @@
   <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
 
   <div class="headline-bar">
-    <div class="headline-label">NEWS</div>
+    <div class="headline-label" id="headlineLabel">NEWS</div>
     <div class="headline-content">
       <div class="headline-scroll"><div class="headline-text" id="headlineText"></div></div>
       <div class="nav-arrows">
@@ -932,15 +938,20 @@
     setTimeout(() => {
       card.classList.add('active');
 
-      // Update headline: one at a time, rotate each card change
+      // Update headline: split on first ":" → label (red) + description (brown)
       headlineExtraIdx = (headlineExtraIdx + 1) % HEADLINE_EXTRAS.length;
+      const raw = HEADLINE_EXTRAS[headlineExtraIdx];
+      const colonIdx = raw.indexOf(':');
+      const hlLabel = colonIdx > 0 ? raw.substring(0, colonIdx).trim() : 'NEWS';
+      const hlDesc = colonIdx > 0 ? raw.substring(colonIdx + 1).trim() : raw;
+      document.getElementById('headlineLabel').textContent = hlLabel;
       const htEl = document.getElementById('headlineText');
       const scrollContainer = htEl.parentElement;
       htEl.classList.remove('scrolling');
-      htEl.textContent = HEADLINE_EXTRAS[headlineExtraIdx];
+      htEl.textContent = hlDesc;
       requestAnimationFrame(() => {
         if (htEl.scrollWidth > scrollContainer.clientWidth) {
-          htEl.textContent = HEADLINE_EXTRAS[headlineExtraIdx] + '    \u2022    ' + HEADLINE_EXTRAS[headlineExtraIdx] + '    \u2022    ';
+          htEl.textContent = hlDesc + '    \u2022    ' + hlDesc + '    \u2022    ';
           htEl.classList.add('scrolling');
         }
       });
