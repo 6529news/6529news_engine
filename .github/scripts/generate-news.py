@@ -1136,6 +1136,36 @@ def build_divebar_activity():
     return [f"DIVE BAR: {total} MSGS IN LAST 6H"]
 
 
+def build_divebar_most_active():
+    """Headline: most active users in Dive Bar today (last 24h)."""
+    print("Checking dive bar most active today...")
+    now_ms = datetime.now(timezone.utc).timestamp() * 1000
+    twenty_four_h = now_ms - 24 * 3600 * 1000
+    counts = {}
+    sn = 999999
+    for _ in range(100):
+        data = fetch_json(f'https://api.6529.io/api/waves/{DIVEBAR_WAVE_ID}/drops?limit=20&serial_no_less_than={sn}')
+        drops = data.get('drops', data) if isinstance(data, dict) else data
+        if not drops or not isinstance(drops, list) or len(drops) == 0:
+            break
+        for d in drops:
+            if d.get('created_at', 0) > twenty_four_h:
+                author = d.get('author', {}).get('handle') or d.get('author', {}).get('wallet', '?')
+                counts[author] = counts.get(author, 0) + 1
+        sn = drops[-1]['serial_no']
+        if drops[-1].get('created_at', 0) < twenty_four_h:
+            break
+
+    if not counts:
+        return []
+
+    top = sorted(counts.items(), key=lambda x: x[1], reverse=True)[:3]
+    parts = ' | '.join(f'{name.upper()} ({c})' for name, c in top)
+    headline = f"MOST ACTIVE TODAY: {parts}"
+    print(f"  {headline}")
+    return [headline]
+
+
 # =============================================
 # OUTPUT
 # =============================================
@@ -1335,6 +1365,9 @@ def main():
 
     print("\n--- Latest Card stats (headline) ---")
     all_headlines += build_latest_card_headline()
+
+    print("\n--- Dive Bar most active (headline) ---")
+    all_headlines += build_divebar_most_active()
 
     # --- BUILD OUTPUT ---
     output = build_output(all_news, ticker_data, all_headlines, top_memes_ranked[:3])
