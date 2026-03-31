@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T23:35:34.788670+00:00",
+  "generated_at": "2026-03-31T00:05:41.750406+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 302K TDH",
+      "headline": "JasonOPhoto Leads with 2.1M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (302K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       },
       "dataBoxes": [
@@ -119,7 +119,7 @@
     {
       "category": "6529 TALKS",
       "headline": "punk6529: 20 Messages Today",
-      "summary": "punk6529 noted that there is indeed a single item under discussion and that its eventual destination could be the network museum, but initially it could be handled internally among existing card holders. He argued that sellers are unlikely to off\u2011load the piece to an unrelated party, and that any claim of a sale far below market value is merely an assumption because on\u2011chain data cannot reveal whether the transacting parties are related. By keeping transfers",
+      "summary": "Punk6529 noted that there isalready a plan to eventually move assets to the network museum, but for now transfers could be handled internally among existing card holders, since it\u2019s unlikely they\u2019d sell to unrelated parties. He cautioned that spotting under\u2011market sales is merely an assumption, as on\u2011chain data cannot reliably reveal whether counterparties are related, and that relying on internal transfers would help prevent the majority of holders from making poor, \u201cstupid\u201d deals.",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -189,9 +189,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.3 ETH",
-      "raw": 39.31,
-      "delta": 0.21000000000000085,
-      "delta_fmt": "+0.21 ETH"
+      "raw": 39.32,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Holders",
@@ -206,9 +206,7 @@
     {
       "label": "#1 BrynnAlise",
       "value": "62.4M TDH",
-      "raw": 62396690,
-      "delta": 1068000,
-      "delta_fmt": "+1.1M TDH"
+      "raw": 62396690
     },
     {
       "label": "24h Vol",
@@ -218,7 +216,9 @@
     {
       "label": "7d Vol",
       "value": "4.94 ETH",
-      "raw": 4.9394
+      "raw": 4.9392,
+      "delta": -0.00020000000000042206,
+      "delta_fmt": "-0.00 ETH"
     }
   ],
   "headline_extras": [
