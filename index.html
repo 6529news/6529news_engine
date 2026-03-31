@@ -577,34 +577,38 @@
     const NODE_COUNT = 60;
     const CONNECT_DIST = Math.min(W, H) * 0.22;
 
-    // Generate nodes — keep center clear for logo, word nodes spaced apart
-    const MIN_WORD_DIST = Math.min(W, H) * 0.18;
-    for (let i = 0; i < NODE_COUNT; i++) {
+    // Word zones: 8 slots around the screen (avoid center where logo sits)
+    // Grid: 4 cols x 3 rows, skip the 2 center cells
+    const COLS = 4, ROWS = 3;
+    const cellW = W / COLS, cellH = H / ROWS;
+    const zones = [];
+    for (let r = 0; r < ROWS; r++) {
+      for (let c = 0; c < COLS; c++) {
+        if (r === 1 && (c === 1 || c === 2)) continue; // skip center
+        zones.push({ x0: c * cellW, y0: r * cellH, w: cellW, h: cellH });
+      }
+    }
+    // Shuffle zones and words independently
+    for (let i = zones.length - 1; i > 0; i--) { const j = Math.random() * (i+1) | 0; [zones[i], zones[j]] = [zones[j], zones[i]]; }
+    const shuffledWords = [...WORDS];
+    for (let i = shuffledWords.length - 1; i > 0; i--) { const j = Math.random() * (i+1) | 0; [shuffledWords[i], shuffledWords[j]] = [shuffledWords[j], shuffledWords[i]]; }
+
+    // Place word nodes: one per zone, random position within zone (with margin)
+    const margin = 0.15;
+    for (let i = 0; i < shuffledWords.length; i++) {
+      const z = zones[i];
+      const x = z.x0 + z.w * margin + Math.random() * z.w * (1 - 2*margin);
+      const y = z.y0 + z.h * margin + Math.random() * z.h * (1 - 2*margin);
+      NODES.push({ x, y, r: 7, word: shuffledWords[i], phase: Math.random() * Math.PI * 2, speed: 0.3 + Math.random() * 0.7 });
+    }
+
+    // Fill remaining nodes randomly (avoid center)
+    for (let i = NODES.length; i < NODE_COUNT; i++) {
       let x, y, tries = 0;
-      const isWord = i < WORDS.length;
       do {
-        x = Math.random() * W;
-        y = Math.random() * H;
-        tries++;
-        // Check: not in center (logo area)
-        const inCenter = Math.abs(x - W/2) < W*0.18 && Math.abs(y - H/2) < H*0.12;
-        // Check: word nodes must be far enough from other word nodes
-        let tooClose = false;
-        if (isWord) {
-          for (let j = 0; j < NODES.length; j++) {
-            if (NODES[j].word) {
-              const dx = x - NODES[j].x, dy = y - NODES[j].y;
-              if (Math.sqrt(dx*dx + dy*dy) < MIN_WORD_DIST) { tooClose = true; break; }
-            }
-          }
-        }
-      } while (tries < 50 && (Math.abs(x - W/2) < W*0.18 && Math.abs(y - H/2) < H*0.12 || (isWord && tries < 40 && NODES.some(n => n.word && Math.sqrt((x-n.x)**2 + (y-n.y)**2) < MIN_WORD_DIST))));
-      NODES.push({
-        x, y, r: isWord ? 7 : 2.5 + Math.random() * 3,
-        word: isWord ? WORDS[i] : null,
-        phase: Math.random() * Math.PI * 2,
-        speed: 0.3 + Math.random() * 0.7
-      });
+        x = Math.random() * W; y = Math.random() * H; tries++;
+      } while (tries < 20 && Math.abs(x - W/2) < W*0.18 && Math.abs(y - H/2) < H*0.12);
+      NODES.push({ x, y, r: 2.5 + Math.random() * 3, word: null, phase: Math.random() * Math.PI * 2, speed: 0.3 + Math.random() * 0.7 });
     }
 
     // Build edges between nearby nodes
