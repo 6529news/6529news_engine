@@ -254,6 +254,19 @@
   }
   .nav-btn:hover { background: rgba(200,168,78,0.1); color: var(--c-gold); }
 
+  /* --- Card nav arrows (overlay on news area) --- */
+  .card-nav { position: absolute; top: 50%; z-index: 12; transform: translateY(-50%); }
+  .card-nav-btn {
+    width: clamp(32px, 3.5vw, 44px); height: clamp(48px, 6vh, 72px);
+    background: rgba(14,8,6,0.6); border: 1px solid var(--c-gold-08); color: var(--c-gold-60);
+    font-size: clamp(14px, 1.6vw, 20px); cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    backdrop-filter: blur(4px); transition: background 0.2s, color 0.2s;
+  }
+  .card-nav-btn:hover { background: rgba(200,168,78,0.12); color: var(--c-gold); }
+  .card-nav-left { left: var(--pad-page); border-radius: 4px; }
+  .card-nav-right { right: var(--pad-page); border-radius: 4px; }
+
   .progress-bar { display: none; }
   .progress-fill { display: none; }
 
@@ -410,6 +423,7 @@
     .headline-text { font-size: 9px; }
     .nav-btn { width: 22px; height: 22px; font-size: 9px; border-radius: 2px; }
     .nav-arrows { gap: 2px; margin-left: 2px; }
+    .card-nav { display: none; }
 
     .ticker-bar { position: relative; bottom: auto; height: 26px; flex-shrink: 0; border-top: none; }
     .ticker-item { padding: 0 4px; gap: 2px; }
@@ -504,6 +518,8 @@
   </div>
 
   <div class="news-area" id="newsStage"></div>
+  <div class="card-nav card-nav-left"><button class="card-nav-btn" id="cardPrev">&#8249;</button></div>
+  <div class="card-nav card-nav-right"><button class="card-nav-btn" id="cardNext">&#8250;</button></div>
   <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
 
   <div class="headline-bar">
@@ -991,23 +1007,8 @@
     setTimeout(() => {
       card.classList.add('active');
 
-      // Update headline: split on first ":" → label (red) + description (brown)
-      headlineExtraIdx = (headlineExtraIdx + 1) % HEADLINE_EXTRAS.length;
-      const raw = HEADLINE_EXTRAS[headlineExtraIdx];
-      const colonIdx = raw.indexOf(':');
-      const hlLabel = colonIdx > 0 ? raw.substring(0, colonIdx).trim() : 'NEWS';
-      const hlDesc = colonIdx > 0 ? raw.substring(colonIdx + 1).trim() : raw;
-      document.getElementById('headlineLabel').textContent = hlLabel;
-      const htEl = document.getElementById('headlineText');
-      const scrollContainer = htEl.parentElement;
-      htEl.classList.remove('scrolling');
-      htEl.textContent = hlDesc;
-      requestAnimationFrame(() => {
-        if (htEl.scrollWidth > scrollContainer.clientWidth) {
-          htEl.textContent = hlDesc + '    \u2022    ' + hlDesc + '    \u2022    ';
-          htEl.classList.add('scrolling');
-        }
-      });
+      // Auto-advance headline with card change
+      showHeadline(headlineExtraIdx + 1);
 
       // Progress bar
       const fill = document.getElementById('progressFill');
@@ -1018,12 +1019,59 @@
     }, 150);
   }
   function resetAutoplay() { clearInterval(autoTimer); autoTimer = setInterval(() => showCard(currentIndex+1), CARD_DURATION); }
-  document.getElementById('navPrev').addEventListener('click', () => { showCard(currentIndex-1); resetAutoplay(); });
-  document.getElementById('navNext').addEventListener('click', () => { showCard(currentIndex+1); resetAutoplay(); });
+
+  // Card navigation (main news arrows + keyboard)
+  document.getElementById('cardPrev').addEventListener('click', () => { showCard(currentIndex-1); resetAutoplay(); });
+  document.getElementById('cardNext').addEventListener('click', () => { showCard(currentIndex+1); resetAutoplay(); });
   document.addEventListener('keydown', (e) => {
     if (e.key === 'ArrowLeft') { showCard(currentIndex-1); resetAutoplay(); }
     else if (e.key === 'ArrowRight') { showCard(currentIndex+1); resetAutoplay(); }
   });
+
+  // Headline strip navigation (independent from cards)
+  function showHeadline(idx) {
+    headlineExtraIdx = ((idx % HEADLINE_EXTRAS.length) + HEADLINE_EXTRAS.length) % HEADLINE_EXTRAS.length;
+    const raw = HEADLINE_EXTRAS[headlineExtraIdx];
+    const colonIdx = raw.indexOf(':');
+    const hlLabel = colonIdx > 0 ? raw.substring(0, colonIdx).trim() : 'NEWS';
+    const hlDesc = colonIdx > 0 ? raw.substring(colonIdx + 1).trim() : raw;
+    document.getElementById('headlineLabel').textContent = hlLabel;
+    const htEl = document.getElementById('headlineText');
+    const scrollContainer = htEl.parentElement;
+    htEl.classList.remove('scrolling');
+    htEl.textContent = hlDesc;
+    requestAnimationFrame(() => {
+      if (htEl.scrollWidth > scrollContainer.clientWidth) {
+        htEl.textContent = hlDesc + '    \u2022    ' + hlDesc + '    \u2022    ';
+        htEl.classList.add('scrolling');
+      }
+    });
+  }
+  document.getElementById('navPrev').addEventListener('click', () => showHeadline(headlineExtraIdx - 1));
+  document.getElementById('navNext').addEventListener('click', () => showHeadline(headlineExtraIdx + 1));
+
+  // Mobile swipe for cards
+  (function() {
+    const area = document.getElementById('newsStage');
+    let startX = 0;
+    area.addEventListener('touchstart', (e) => { startX = e.touches[0].clientX; }, {passive: true});
+    area.addEventListener('touchend', (e) => {
+      const dx = e.changedTouches[0].clientX - startX;
+      if (Math.abs(dx) > 50) { dx > 0 ? showCard(currentIndex-1) : showCard(currentIndex+1); resetAutoplay(); }
+    }, {passive: true});
+  })();
+
+  // Mobile swipe for headline strip
+  (function() {
+    const bar = document.querySelector('.headline-bar');
+    let startX = 0;
+    bar.addEventListener('touchstart', (e) => { startX = e.touches[0].clientX; }, {passive: true});
+    bar.addEventListener('touchend', (e) => {
+      const dx = e.changedTouches[0].clientX - startX;
+      if (Math.abs(dx) > 40) { dx > 0 ? showHeadline(headlineExtraIdx - 1) : showHeadline(headlineExtraIdx + 1); }
+    }, {passive: true});
+  })();
+
   showCard(0);
   autoTimer = setInterval(() => showCard(currentIndex+1), CARD_DURATION);
   loadDynamicNews();
