@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T17:07:49.910868+00:00",
+  "generated_at": "2026-04-01T17:12:32.988629+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -172,9 +172,7 @@
     {
       "label": "Full Set Bid",
       "value": "39.3 ETH",
-      "raw": 39.32,
-      "delta": 0.020000000000003126,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 39.32
     },
     {
       "label": "Full Set",
@@ -194,15 +192,14 @@
     {
       "label": "#1 Sert",
       "value": "55.4M TDH",
-      "raw": 55398002,
-      "delta": 7498503,
-      "delta_fmt": "+7.5M TDH"
+      "raw": 55398002
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 31)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 15d AGO",
-    "DIVE BAR: 660 MSGS IN LAST 6H",
+    "DIVE BAR: 663 MSGS IN LAST 6H",
+    "CARD #477: 112 MINTS (EXCL. MUSEUM) | 82 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
     "ACTIVE TODAY: GPEBBLES (152 MSGS) | KRISTOPHER (114) | ROCKETGIRL (96)"
   ]
 }
