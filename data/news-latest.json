@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T19:32:42.869711+00:00",
+  "generated_at": "2026-04-01T21:08:34.682012+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Sert Leads with 58.5M Projected TDH",
-      "summary": "\"6529 NEWS\" by Sert (58.5M projected TDH, 65 voters) | \"Credo quia absurdum\" by Guidodisalle (47.1M projected TDH, 121 voters) | \"AUTONOMY.EXE\" by arsonic (41.7M projected TDH, 45 voters) Next selection: Fri Apr 03 at 17:00 CET.",
+      "summary": "\"6529 NEWS\" by Sert (58.5M projected TDH, 65 voters) | \"AUTONOMY.EXE\" by arsonic (51.6M projected TDH, 51 voters) | \"Credo quia absurdum\" by Guidodisalle (46.0M projected TDH, 121 voters) Next selection: Fri Apr 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -46,21 +46,21 @@
           "sub": "proj. (65 votes)"
         },
         {
-          "label": "Guidodisalle",
-          "value": "47.1M",
-          "sub": "proj. (121 votes)"
+          "label": "arsonic",
+          "value": "51.6M",
+          "sub": "proj. (51 votes)"
         },
         {
-          "label": "arsonic",
-          "value": "41.7M",
-          "sub": "proj. (45 votes)"
+          "label": "Guidodisalle",
+          "value": "46.0M",
+          "sub": "proj. (121 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "14 New Memes Submissions This Week",
-      "summary": "14 submissions this week. Ranking: RegularDad (4.2M) | Burnasso (2.2M) | AEZY (750K) | peternitsch (488K) | kristopher (295K) | dorinphotograph (112K) | desolalasisi (58K) | Saharrococo (26K).",
+      "summary": "14 submissions this week. Ranking: RegularDad (4.2M) | Burnasso (2.2M) | AEZY (803K) | peternitsch (488K) | kristopher (295K) | dorinphotograph (112K) | desolalasisi (58K) | Saharrococo (26K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 302K TDH",
+      "headline": "#7 Gsen \u2014 152K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (302K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (152K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "42 Sales Today - 0.95 ETH Volume",
-      "summary": "42 sales in 24h for 0.95 ETH. Highest: \"The Life of Larry\" at 0.068 ETH.",
+      "headline": "44 Sales Today - 0.99 ETH Volume",
+      "summary": "44 sales in 24h for 0.99 ETH. Highest: \"The Life of Larry\" at 0.068 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "42",
+          "value": "44",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.95",
+          "value": "0.99",
           "sub": "ETH"
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016995",
+          "value": "0.016999",
           "sub": "ETH"
         }
       ]
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.95 ETH",
-      "raw": 0.9491,
-      "delta": 0.09530000000000005,
-      "delta_fmt": "+11.2%"
+      "value": "0.99 ETH",
+      "raw": 0.9907,
+      "delta": 0.13690000000000002,
+      "delta_fmt": "+16.0%"
     },
     {
       "label": "7d Vol",
-      "value": "4.62 ETH",
-      "raw": 4.6188
+      "value": "4.66 ETH",
+      "raw": 4.6604
     },
     {
       "label": "30d Vol",
-      "value": "49.72 ETH",
-      "raw": 49.7188
+      "value": "49.76 ETH",
+      "raw": 49.7604
     },
     {
       "label": "Full Set Bid",
-      "value": "39.2 ETH",
-      "raw": 39.25,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "36.9 ETH",
+      "raw": 36.94,
+      "delta": -2.3100000000000023,
+      "delta_fmt": "-2.31 ETH"
     },
     {
       "label": "Full Set",
@@ -194,16 +194,13 @@
     {
       "label": "#1 Sert",
       "value": "58.5M TDH",
-      "raw": 58536877,
-      "delta": -1861125,
-      "delta_fmt": "-1.9M TDH"
+      "raw": 58536877
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 31)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 15d AGO",
-    "CARD #477: 113 MINTS (EXCL. MUSEUM) | 83 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
-    "ACTIVE TODAY: MAYBE (121 MSGS) | ROCKETGIRL (112) | KRISTOPHER (106)",
-    "DIVE BAR: 799 MSGS IN LAST 6H"
+    "DIVE BAR: 798 MSGS IN LAST 6H",
+    "ACTIVE TODAY: MAYBE (121 MSGS) | KRISTOPHER (100) | ZIGMARILLION (97)"
   ]
 }
