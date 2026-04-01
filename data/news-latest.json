@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T23:51:33.011522+00:00",
+  "generated_at": "2026-04-01T02:36:56.502570+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "BrynnAlise Leads with 64.0M Projected TDH",
-      "summary": "\"Network for Good \" by BrynnAlise (64.0M projected TDH, 98 voters) | \"6529 NEWS\" by Sert (51.5M projected TDH, 61 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 118 voters) Next selection: Wed Apr 01 at 17:00 CET.",
+      "headline": "BrynnAlise Leads with 64.1M Projected TDH",
+      "summary": "\"Network for Good \" by BrynnAlise (64.1M projected TDH, 98 voters) | \"6529 NEWS\" by Sert (51.5M projected TDH, 61 voters) | \"Credo quia absurdum\" by Guidodisalle (45.5M projected TDH, 118 voters) Next selection: Wed Apr 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "BrynnAlise",
-          "value": "64.0M",
+          "value": "64.1M",
           "sub": "proj. (98 votes)"
         },
         {
@@ -46,19 +46,19 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "17 New Memes Submissions This Week",
-      "summary": "17 submissions this week. Ranking: RegularDad (4.1M) | Burnasso (2.0M) | peternitsch (488K) | gruffishere (147K) | AEZY (84K) | kristopher (76K) | desolalasisi (39K) | Saharrococo (26K).",
+      "headline": "16 New Memes Submissions This Week",
+      "summary": "16 submissions this week. Ranking: RegularDad (4.2M) | Burnasso (2.0M) | AEZY (748K) | peternitsch (488K) | kristopher (151K) | dorinphotograph (112K) | desolalasisi (49K) | Saharrococo (26K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/6556e48d-8e49-40be-849a-7c57e0bd4edd.gif",
-        "label": "RegularDad (4.1M)",
+        "label": "RegularDad (4.2M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/6556e48d-8e49-40be-849a-7c57e0bd4edd.gif",
-          "label": "RegularDad (4.1M)",
+          "label": "RegularDad (4.2M)",
           "type": "image"
         },
         {
@@ -146,20 +146,20 @@
     },
     {
       "label": "7d Vol",
-      "value": "5.10 ETH",
-      "raw": 5.0957
+      "value": "4.82 ETH",
+      "raw": 4.8177
     },
     {
       "label": "30d Vol",
-      "value": "49.93 ETH",
-      "raw": 49.9299
+      "value": "48.77 ETH",
+      "raw": 48.7697
     },
     {
       "label": "Full Set Bid",
-      "value": "39.3 ETH",
-      "raw": 39.3,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "36.5 ETH",
+      "raw": 36.51,
+      "delta": -2.789999999999999,
+      "delta_fmt": "-2.79 ETH"
     },
     {
       "label": "Full Set",
@@ -178,15 +178,17 @@
     },
     {
       "label": "#1 BrynnAlise",
-      "value": "64.0M TDH",
-      "raw": 64033295
+      "value": "64.1M TDH",
+      "raw": 64059421,
+      "delta": 26126,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529: 4 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 15d AGO",
+    "DIVE BAR: 239 MSGS IN LAST 6H",
     "CARD #476: 141 MINTS (EXCL. MUSEUM) | 107 HOLDERS | THE BEAR SPOT",
-    "ACTIVE TODAY: GPEBBLES (158 MSGS) | CARITY (107) | MINTFACE (93)",
-    "DIVE BAR: 701 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GPEBBLES (158 MSGS) | CARITY (108) | MINTFACE (93)"
   ]
 }
