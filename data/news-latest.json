@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T10:56:53.665789+00:00",
+  "generated_at": "2026-04-01T11:55:12.213600+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#7 Gsen \u2014 152K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (152K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "56 Sales Today - 1.52 ETH Volume",
-      "summary": "56 sales in 24h for 1.52 ETH. Highest: \"Alice in Memeland\" at 0.030 ETH.",
+      "headline": "44 Sales Today - 1.21 ETH Volume",
+      "summary": "44 sales in 24h for 1.21 ETH. Highest: \"Alice in Memeland\" at 0.030 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,12 +117,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "56",
+          "value": "44",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.52",
+          "value": "1.21",
           "sub": "ETH"
         },
         {
@@ -141,27 +141,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.52 ETH",
-      "raw": 1.5169,
-      "delta": 0.6630999999999999,
-      "delta_fmt": "+77.7%"
+      "value": "1.21 ETH",
+      "raw": 1.2146,
+      "delta": 0.3607999999999999,
+      "delta_fmt": "+42.3%"
     },
     {
       "label": "7d Vol",
-      "value": "5.65 ETH",
-      "raw": 5.6498
+      "value": "5.35 ETH",
+      "raw": 5.3475
     },
     {
       "label": "30d Vol",
-      "value": "49.64 ETH",
-      "raw": 49.6448
+      "value": "49.34 ETH",
+      "raw": 49.3425
     },
     {
       "label": "Full Set Bid",
       "value": "39.4 ETH",
-      "raw": 39.35,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 39.37,
+      "delta": 0.01999999999999602,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Full Set",
@@ -187,8 +187,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 31)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 15d AGO",
+    "DIVE BAR: 207 MSGS IN LAST 6H",
     "CARD #477: 95 MINTS (EXCL. MUSEUM) | 69 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
-    "ACTIVE TODAY: GPEBBLES (158 MSGS) | CARITY (107) | KRISTOPHER (89)",
-    "DIVE BAR: 179 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GPEBBLES (158 MSGS) | CARITY (107) | KRISTOPHER (89)"
   ]
 }
