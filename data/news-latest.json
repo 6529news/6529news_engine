@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T20:54:54.521175+00:00",
+  "generated_at": "2026-04-02T21:39:16.095421+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "arsonic Leads with 79.7M Projected TDH",
-      "summary": "\"AUTONOMY.EXE\" by arsonic (79.7M projected TDH, 86 voters) | \"6529 NEWS\" by Sert (65.0M projected TDH, 70 voters) | \"Credo quia absurdum\" by Guidodisalle (46.0M projected TDH, 121 voters) Next selection: Fri Apr 03 at 17:00 CET.",
+      "summary": "\"AUTONOMY.EXE\" by arsonic (79.7M projected TDH, 87 voters) | \"6529 NEWS\" by Sert (65.0M projected TDH, 70 voters) | \"Credo quia absurdum\" by Guidodisalle (46.0M projected TDH, 121 voters) Next selection: Fri Apr 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "arsonic",
           "value": "79.7M",
-          "sub": "proj. (86 votes)"
+          "sub": "proj. (87 votes)"
         },
         {
           "label": "Sert",
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.1M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -149,19 +149,19 @@
     {
       "label": "7d Vol",
       "value": "5.22 ETH",
-      "raw": 5.2214
+      "raw": 5.221
     },
     {
       "label": "30d Vol",
-      "value": "48.39 ETH",
-      "raw": 48.3886
+      "value": "48.38 ETH",
+      "raw": 48.3849
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH",
-      "raw": 38.27,
-      "delta": -0.19999999999999574,
-      "delta_fmt": "-0.20 ETH"
+      "value": "38.2 ETH",
+      "raw": 38.15,
+      "delta": -0.12000000000000455,
+      "delta_fmt": "-0.12 ETH"
     },
     {
       "label": "Full Set",
@@ -181,16 +181,16 @@
     {
       "label": "#1 arsonic",
       "value": "79.7M TDH",
-      "raw": 79746276,
-      "delta": 61944,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 79746336,
+      "delta": 60,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 31)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 16d AGO",
+    "DIVE BAR: 334 MSGS IN LAST 6H",
     "CARD #477: 131 MINTS (EXCL. MUSEUM) | 93 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (85 MSGS) | KRISTOPHER (77) | MAYBE (58)",
-    "DIVE BAR: 335 MSGS IN LAST 6H"
+    "ACTIVE TODAY: FRANKIEHGIH_ETH (85 MSGS) | KRISTOPHER (75) | MAYBE (63)"
   ]
 }
