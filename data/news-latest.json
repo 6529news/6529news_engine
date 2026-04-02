@@ -87,6 +87,18 @@
       }
     },
     {
+      "category": "6529 TALKS",
+      "headline": "punk6529: 15 Messages in Last 24h",
+      "summary": "15 messages in maybe's dive bar. Topic: We need to extract main topic in 5-8 words, no intro, just the topic. The content mentions social media timeline, reason we,",
+      "source": "maybe's dive bar",
+      "link": "https://6529.io/punk6529",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
+        "label": "punk6529"
+      },
+      "dataBoxes": null
+    },
+    {
       "category": "SALES RECAP",
       "headline": "29 Sales Today - 1.03 ETH Volume",
       "summary": "29 sales in 24h for 1.03 ETH. Highest: \"6529Seizing\" at 0.169 ETH.",
@@ -187,10 +199,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Mar 31)",
+    "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 15 MSGS",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 16d AGO",
-    "DIVE BAR: 335 MSGS IN LAST 6H",
     "CARD #477: 131 MINTS (EXCL. MUSEUM) | 93 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (83 MSGS) | KRISTOPHER (71) | MAYBE (66)"
+    "ACTIVE TODAY: FRANKIEHGIH_ETH (83 MSGS) | KRISTOPHER (71) | MAYBE (66)",
+    "DIVE BAR: 346 MSGS IN LAST 6H"
   ]
 }
