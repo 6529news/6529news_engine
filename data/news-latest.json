@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T18:01:42.998783+00:00",
+  "generated_at": "2026-04-02T19:16:40.110471+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#6 blake69 \u2014 302K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (302K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "34 Sales Today - 1.14 ETH Volume",
-      "summary": "34 sales in 24h for 1.14 ETH. Highest: \"6529Seizing\" at 0.169 ETH.",
+      "headline": "29 Sales Today - 1.03 ETH Volume",
+      "summary": "29 sales in 24h for 1.03 ETH. Highest: \"6529Seizing\" at 0.169 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,12 +117,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "34",
+          "value": "29",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.14",
+          "value": "1.03",
           "sub": "ETH"
         },
         {
@@ -132,7 +132,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01699898",
+          "value": "0.016998959999999994",
           "sub": "ETH"
         }
       ]
@@ -141,15 +141,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.14 ETH",
-      "raw": 1.1396,
-      "delta": 0.08189999999999986,
-      "delta_fmt": "+7.7%"
+      "value": "1.03 ETH",
+      "raw": 1.0324,
+      "delta": 0.08329999999999993,
+      "delta_fmt": "+8.8%"
     },
     {
       "label": "7d Vol",
-      "value": "5.28 ETH",
-      "raw": 5.2815
+      "value": "5.22 ETH",
+      "raw": 5.221
     },
     {
       "label": "30d Vol",
@@ -158,10 +158,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.4 ETH",
-      "raw": 38.4,
-      "delta": 0.4399999999999977,
-      "delta_fmt": "+0.44 ETH"
+      "value": "38.6 ETH",
+      "raw": 38.58,
+      "delta": 0.17999999999999972,
+      "delta_fmt": "+0.18 ETH"
     },
     {
       "label": "Full Set",
@@ -181,16 +181,14 @@
     {
       "label": "#1 arsonic",
       "value": "78.4M TDH",
-      "raw": 78428939,
-      "delta": 155151,
-      "delta_fmt": "+0.2M TDH"
+      "raw": 78428939
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 31)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 16d AGO",
+    "DIVE BAR: 321 MSGS IN LAST 6H",
     "CARD #477: 131 MINTS (EXCL. MUSEUM) | 93 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
-    "ACTIVE TODAY: KRISTOPHER (103 MSGS) | FRANKIEHGIH_ETH (85) | MAYBE (73)",
-    "DIVE BAR: 306 MSGS IN LAST 6H"
+    "ACTIVE TODAY: KRISTOPHER (96 MSGS) | FRANKIEHGIH_ETH (85) | MAYBE (57)"
   ]
 }
