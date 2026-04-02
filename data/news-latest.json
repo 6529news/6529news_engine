@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T23:36:37.100674+00:00",
+  "generated_at": "2026-04-02T00:02:58.964526+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 1.8M TDH",
+      "headline": "#6 blake69 \u2014 302K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (1.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (302K)",
         "type": "image"
       }
     },
@@ -161,20 +161,20 @@
     },
     {
       "label": "7d Vol",
-      "value": "4.71 ETH",
-      "raw": 4.7117
+      "value": "4.43 ETH",
+      "raw": 4.4318
     },
     {
       "label": "30d Vol",
-      "value": "49.81 ETH",
-      "raw": 49.8118
+      "value": "47.25 ETH",
+      "raw": 47.253
     },
     {
       "label": "Full Set Bid",
-      "value": "37.0 ETH",
-      "raw": 37.02,
-      "delta": -0.19999999999999574,
-      "delta_fmt": "-0.20 ETH"
+      "value": "36.5 ETH",
+      "raw": 36.5,
+      "delta": -0.5200000000000031,
+      "delta_fmt": "-0.52 ETH"
     },
     {
       "label": "Full Set",
@@ -194,16 +194,14 @@
     {
       "label": "#1 Sert",
       "value": "64.0M TDH",
-      "raw": 64018448,
-      "delta": 4846687,
-      "delta_fmt": "+4.8M TDH"
+      "raw": 64018448
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 31)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 16d AGO",
-    "CARD #477: 114 MINTS (EXCL. MUSEUM) | 85 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
-    "ACTIVE TODAY: MAYBE (122 MSGS) | KRISTOPHER (98) | ZIGMARILLION (95)",
-    "DIVE BAR: 497 MSGS IN LAST 6H"
+    "DIVE BAR: 458 MSGS IN LAST 6H",
+    "CARD #477: 115 MINTS (EXCL. MUSEUM) | 86 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
+    "ACTIVE TODAY: MAYBE (122 MSGS) | KRISTOPHER (98) | ZIGMARILLION (95)"
   ]
 }
