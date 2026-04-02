@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T22:19:11.127784+00:00",
+  "generated_at": "2026-04-02T22:59:17.813569+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 152K TDH",
+      "headline": "JasonOPhoto Leads with 2.1M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (152K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       }
     },
     {
       "category": "6529 TALKS",
       "headline": "punk6529: 15 Messages in Last 24h",
-      "summary": "15 messages in maybe's dive bar. Topic: We need to extract main topic in 5-8 words, no intro, just the topic. The content mentions social media timeline, reason we,",
+      "summary": "15 messages in maybe's dive bar. Topic: We need to output main topic in 5-8 words, no intro, just the topic. The content is about timeline, social media site,",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -155,8 +155,8 @@
       "label": "24h Vol",
       "value": "1.03 ETH",
       "raw": 1.0324,
-      "delta": 0.04169999999999996,
-      "delta_fmt": "+4.2%"
+      "delta": 0.011700000000000044,
+      "delta_fmt": "+1.1%"
     },
     {
       "label": "7d Vol",
@@ -171,9 +171,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.5 ETH",
-      "raw": 38.53,
-      "delta": 0.38000000000000256,
-      "delta_fmt": "+0.38 ETH"
+      "raw": 38.52,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -193,16 +193,14 @@
     {
       "label": "#1 arsonic",
       "value": "79.7M TDH",
-      "raw": 79747900,
-      "delta": 1564,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 79747900
     }
   ],
   "headline_extras": [
     "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 15 MSGS",
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 16d AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 17d AGO",
+    "DIVE BAR: 345 MSGS IN LAST 6H",
     "CARD #477: 131 MINTS (EXCL. MUSEUM) | 93 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (83 MSGS) | KRISTOPHER (71) | MAYBE (66)",
-    "DIVE BAR: 346 MSGS IN LAST 6H"
+    "ACTIVE TODAY: FRANKIEHGIH_ETH (83 MSGS) | MAYBE (64) | KRISTOPHER (63)"
   ]
 }
