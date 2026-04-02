@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T06:49:14.053440+00:00",
+  "generated_at": "2026-04-02T08:06:59.148643+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "arsonic Leads with 66.5M Projected TDH",
-      "summary": "\"AUTONOMY.EXE\" by arsonic (66.5M projected TDH, 63 voters) | \"6529 NEWS\" by Sert (65.0M projected TDH, 68 voters) | \"Credo quia absurdum\" by Guidodisalle (46.0M projected TDH, 121 voters) Next selection: Fri Apr 03 at 17:00 CET.",
+      "headline": "arsonic Leads with 66.6M Projected TDH",
+      "summary": "\"AUTONOMY.EXE\" by arsonic (66.6M projected TDH, 64 voters) | \"6529 NEWS\" by Sert (65.0M projected TDH, 68 voters) | \"Credo quia absurdum\" by Guidodisalle (46.0M projected TDH, 121 voters) Next selection: Fri Apr 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "arsonic",
-          "value": "66.5M",
-          "sub": "proj. (63 votes)"
+          "value": "66.6M",
+          "sub": "proj. (64 votes)"
         },
         {
           "label": "Sert",
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 152K TDH",
+      "headline": "#5 awhurst \u2014 556K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (152K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (556K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "39 Sales Today - 1.14 ETH Volume",
-      "summary": "39 sales in 24h for 1.14 ETH. Highest: \"6529Seizing\" at 0.169 ETH.",
+      "headline": "34 Sales Today - 1.07 ETH Volume",
+      "summary": "34 sales in 24h for 1.07 ETH. Highest: \"6529Seizing\" at 0.169 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "39",
+          "value": "34",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.14",
+          "value": "1.07",
           "sub": "ETH"
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016999",
+          "value": "0.01699899",
           "sub": "ETH"
         }
       ]
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.14 ETH",
-      "raw": 1.1433,
-      "delta": 0.040000000000000036,
-      "delta_fmt": "+3.6%"
+      "value": "1.07 ETH",
+      "raw": 1.074,
+      "delta": -0.21919999999999984,
+      "delta_fmt": "-17.0%"
     },
     {
       "label": "7d Vol",
-      "value": "4.60 ETH",
-      "raw": 4.6015
+      "value": "4.65 ETH",
+      "raw": 4.6525
     },
     {
       "label": "30d Vol",
-      "value": "47.69 ETH",
-      "raw": 47.6887
+      "value": "47.74 ETH",
+      "raw": 47.7397
     },
     {
       "label": "Full Set Bid",
-      "value": "38.5 ETH",
-      "raw": 38.54,
-      "delta": 0.0799999999999983,
-      "delta_fmt": "+0.08 ETH"
+      "value": "38.3 ETH",
+      "raw": 38.35,
+      "delta": -0.18999999999999773,
+      "delta_fmt": "-0.19 ETH"
     },
     {
       "label": "Full Set",
@@ -193,17 +193,17 @@
     },
     {
       "label": "#1 arsonic",
-      "value": "66.5M TDH",
-      "raw": 66508835,
-      "delta": 1490386,
-      "delta_fmt": "+1.5M TDH"
+      "value": "66.6M TDH",
+      "raw": 66554717,
+      "delta": 45882,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Mar 31)",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 16d AGO",
-    "CARD #477: 123 MINTS (EXCL. MUSEUM) | 89 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
-    "ACTIVE TODAY: KRISTOPHER (125 MSGS) | MAYBE (119) | ZIGMARILLION (96)",
-    "DIVE BAR: 55 MSGS IN LAST 6H"
+    "DIVE BAR: 39 MSGS IN LAST 6H",
+    "CARD #477: 125 MINTS (EXCL. MUSEUM) | 90 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
+    "ACTIVE TODAY: KRISTOPHER (125 MSGS) | MAYBE (119) | ZIGMARILLION (96)"
   ]
 }
