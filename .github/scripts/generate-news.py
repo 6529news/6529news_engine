@@ -1097,8 +1097,12 @@ def build_new_submissions(exclude_authors=None):
                         img = url
 
         # Also check additional_media for HTML submissions
-        if not img and d.get('metadata', {}).get('additional_media', {}).get('preview_image'):
-            preview = d['metadata']['additional_media']['preview_image']
+        meta = d.get('metadata') or {}
+        if isinstance(meta, list):
+            meta = {}
+        add_media = meta.get('additional_media') or {}
+        if not img and add_media.get('preview_image'):
+            preview = add_media['preview_image']
             try:
                 req = urllib.request.Request(preview, method='HEAD')
                 req.add_header('User-Agent', 'Mozilla/5.0 (compatible; 6529News/1.0)')
