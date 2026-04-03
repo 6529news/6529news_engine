@@ -116,7 +116,7 @@ def fetch_ranked_drops(wave_id, limit=10):
         all_ranked.append({
             'rank': d.get('rank', 0), 'title': d.get('title') or 'Untitled',
             'author': d['author']['handle'],
-            'current_tdh': d.get('realtime_rating', 0),
+            'current_tdh': d.get('rating_prediction', d.get('realtime_rating', 0)),
             'projected_tdh': d.get('rating_prediction', 0),
             'voters': d.get('raters_count', 0),
             'img': img, 'media_type': media_type
@@ -215,12 +215,12 @@ def build_museum_signers():
             if pfp:
                 top2_images.append({
                     'url': pfp,
-                    'label': f"#{d.get('rank',0)} {d['author']['handle']} — {format_tdh(d.get('realtime_rating', 0))} TDH",
+                    'label': f"#{d.get('rank',0)} {d['author']['handle']} — {format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0)))} TDH",
                     'type': 'image'
                 })
 
         summary = 'Top candidates: ' + ' | '.join([
-            f"#{d.get('rank',0)} {d['author']['handle']} ({format_tdh(d.get('realtime_rating', 0))} TDH, {d.get('raters_count', 0)} voters)"
+            f"#{d.get('rank',0)} {d['author']['handle']} ({format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0)))} TDH, {d.get('raters_count', 0)} voters)"
             for d in top3
         ])
 
@@ -231,7 +231,7 @@ def build_museum_signers():
             'source': 'Network Museum',
             'link': f'https://6529.io/waves/{MUSEUM_WAVE_ID}',
             'dataBoxes': [
-                {'label': d['author']['handle'], 'value': format_tdh(d.get('realtime_rating', 0)), 'sub': f"{d.get('raters_count', 0)} voters"}
+                {'label': d['author']['handle'], 'value': format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0))), 'sub': f"{d.get('raters_count', 0)} voters"}
                 for d in top3
             ]
         }
@@ -729,7 +729,7 @@ def build_sr_submissions():
             recent.append({
                 'title': d.get('title') or 'Untitled',
                 'author': d['author']['handle'],
-                'tdh': d.get('realtime_rating', 0),
+                'tdh': d.get('rating_prediction', d.get('realtime_rating', 0)),
                 'img': img, 'media_type': m_type
             })
 
@@ -1071,7 +1071,7 @@ def build_new_submissions(exclude_authors=None):
             title = d.get('title') or ''
             if not title or title == 'None':
                 continue  # No title = chat message with media, not a real submission
-            tdh = d.get('realtime_rating', 0)
+            tdh = d.get('rating_prediction', d.get('realtime_rating', 0))
             mime = media[0].get('mime_type', '')
             url = media[0].get('url', '')
 
@@ -1150,7 +1150,7 @@ def build_tdh_on_submissions():
         sn = data[-1]['serial_no']
         if len(data) < 50: break
 
-    total_tdh = sum(d.get('realtime_rating', 0) for d in all_drops)
+    total_tdh = sum(d.get('rating_prediction', d.get('realtime_rating', 0)) for d in all_drops)
     count = len(all_drops)
     print(f"  {count} submissions, total TDH: {format_tdh(total_tdh)}")
     return [f"TDH ON SUBMISSIONS: {format_tdh(total_tdh)} ({count} SUBMISSIONS)"]
