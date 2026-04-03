@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T16:51:49.617606+00:00",
+  "generated_at": "2026-04-03T17:20:13.654322+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Sert Leads with 53.5M Projected TDH",
-      "summary": "\"6529 NEWS\" by Sert (53.5M projected TDH, 74 voters) | \"Credo quia absurdum\" by Guidodisalle (45.9M projected TDH, 121 voters) | \"The Sacrifice of the Memes\" by Bicasso (28.7M projected TDH, 14 voters) Next selection: Mon Apr 06 at 17:00 CET.",
+      "headline": "Sert Leads with 55.4M Projected TDH",
+      "summary": "\"6529 NEWS\" by Sert (55.4M projected TDH, 75 voters) | \"Credo quia absurdum\" by Guidodisalle (45.9M projected TDH, 121 voters) | \"The Sacrifice of the Memes\" by Bicasso (28.7M projected TDH, 15 voters) Next selection: Mon Apr 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Sert",
-          "value": "53.5M",
-          "sub": "proj. (74 votes)"
+          "value": "55.4M",
+          "sub": "proj. (75 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -53,7 +53,7 @@
         {
           "label": "Bicasso",
           "value": "28.7M",
-          "sub": "proj. (14 votes)"
+          "sub": "proj. (15 votes)"
         }
       ]
     },
@@ -73,7 +73,7 @@
     {
       "category": "MUSEUM SIGNERS",
       "headline": "david Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 david (20.0M TDH, 21 voters) | #2 HugoFaz (18.2M TDH, 24 voters) | #3 maybe (13.5M TDH, 13 voters)",
+      "summary": "Top candidates: #1 david (20.0M TDH, 21 voters) | #2 HugoFaz (18.2M TDH, 24 voters) | #3 maybe (13.8M TDH, 14 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "dataBoxes": [
@@ -89,8 +89,8 @@
         },
         {
           "label": "maybe",
-          "value": "13.5M",
-          "sub": "13 voters"
+          "value": "13.8M",
+          "sub": "14 voters"
         }
       ],
       "images": [
@@ -138,13 +138,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 1.8M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (1.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -220,10 +220,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH",
-      "raw": 38.71,
-      "delta": 0.13000000000000256,
-      "delta_fmt": "+0.13 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.4,
+      "delta": -0.3100000000000023,
+      "delta_fmt": "-0.31 ETH"
     },
     {
       "label": "Full Set",
@@ -242,17 +242,17 @@
     },
     {
       "label": "#1 Sert",
-      "value": "53.5M TDH",
-      "raw": 53521195,
-      "delta": 1082103,
-      "delta_fmt": "+1.1M TDH"
+      "value": "55.4M TDH",
+      "raw": 55442707,
+      "delta": 1921512,
+      "delta_fmt": "+1.9M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529: 18 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #478: 114 MINTS (EXCL. MUSEUM) | 82 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: MAYBE (62 MSGS) | JAMESANDREW (48) | ZIGMARILLION (48)",
-    "DIVE BAR: 295 MSGS IN LAST 6H"
+    "PUNK6529: 18 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 361 MSGS IN LAST 6H",
+    "CARD #478: 116 MINTS (EXCL. MUSEUM) | 83 HOLDERS | NETWORK FOR GOOD ",
+    "ACTIVE TODAY: JAMESANDREW (55 MSGS) | MAYBE (53) | ZIGMARILLION (48)"
   ]
 }
