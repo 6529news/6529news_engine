@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T20:36:58.450263+00:00",
+  "generated_at": "2026-04-03T21:17:47.314296+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -72,20 +72,20 @@
     },
     {
       "category": "MUSEUM SIGNERS",
-      "headline": "david Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 david (20.0M TDH, 21 voters) | #2 HugoFaz (18.2M TDH, 24 voters) | #3 maybe (13.8M TDH, 14 voters)",
+      "headline": "HugoFaz Leads \u2014 Museum Signers",
+      "summary": "Top candidates: #1 HugoFaz (32.5M TDH, 25 voters) | #2 david (20.0M TDH, 21 voters) | #3 maybe (13.8M TDH, 14 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "dataBoxes": [
         {
+          "label": "HugoFaz",
+          "value": "32.5M",
+          "sub": "25 voters"
+        },
+        {
           "label": "david",
           "value": "20.0M",
           "sub": "21 voters"
-        },
-        {
-          "label": "HugoFaz",
-          "value": "18.2M",
-          "sub": "24 voters"
         },
         {
           "label": "maybe",
@@ -95,13 +95,13 @@
       ],
       "images": [
         {
-          "url": "https://dweb.link/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
-          "label": "#1 david \u2014 20.0M TDH",
+          "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
+          "label": "#1 HugoFaz \u2014 32.5M TDH",
           "type": "image"
         },
         {
-          "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-          "label": "#2 HugoFaz \u2014 18.2M TDH",
+          "url": "https://dweb.link/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
+          "label": "#2 david \u2014 20.0M TDH",
           "type": "image"
         }
       ]
@@ -138,13 +138,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 1.8M TDH",
-      "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
+      "headline": "#6 blake69 \u2014 302K TDH",
+      "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (302K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (1.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (302K)",
         "type": "image"
       }
     },
@@ -220,10 +220,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.8 ETH",
-      "raw": 38.82,
-      "delta": 0.4299999999999997,
-      "delta_fmt": "+0.43 ETH"
+      "value": "38.5 ETH",
+      "raw": 38.53,
+      "delta": -0.28999999999999915,
+      "delta_fmt": "-0.29 ETH"
     },
     {
       "label": "Full Set",
@@ -247,10 +247,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529: 18 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #478: 124 MINTS (EXCL. MUSEUM) | 90 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: JAMESANDREW (62 MSGS) | AEZY (56) | KRISTOPHER (53)",
-    "DIVE BAR: 367 MSGS IN LAST 6H"
+    "PUNK6529: 18 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 392 MSGS IN LAST 6H",
+    "CARD #478: 124 MINTS (EXCL. MUSEUM) | 92 HOLDERS | NETWORK FOR GOOD ",
+    "ACTIVE TODAY: AEZY (66 MSGS) | JAMESANDREW (59) | KRISTOPHER (54)"
   ]
 }
