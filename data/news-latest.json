@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T22:37:58.908718+00:00",
+  "generated_at": "2026-04-03T23:06:47.407699+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Network for Good \" by BrynnAlise \u2014 62.8M TDH from 100 voters. Top supporter: gpebbles (13.4M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Network for Good \" by BrynnAlise \u2014 62.8M TDH from 100 voters. Top supporter: gpebbles (13.4M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -138,13 +138,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (302K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -220,10 +220,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.6 ETH",
-      "raw": 38.56,
-      "delta": -0.19999999999999574,
-      "delta_fmt": "-0.20 ETH"
+      "value": "38.3 ETH",
+      "raw": 38.33,
+      "delta": -0.23000000000000398,
+      "delta_fmt": "-0.23 ETH"
     },
     {
       "label": "Full Set",
@@ -243,16 +243,14 @@
     {
       "label": "#1 Sert",
       "value": "56.1M TDH",
-      "raw": 56083212,
-      "delta": 580351,
-      "delta_fmt": "+0.6M TDH"
+      "raw": 56083212
     }
   ],
   "headline_extras": [
-    "PUNK6529: 3 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 3 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 415 MSGS IN LAST 6H",
     "CARD #478: 125 MINTS (EXCL. MUSEUM) | 95 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: MAYBE (75 MSGS) | AEZY (63) | KRISTOPHER (54)",
-    "DIVE BAR: 420 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (84 MSGS) | AEZY (63) | KRISTOPHER (54)"
   ]
 }
