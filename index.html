@@ -956,6 +956,11 @@
       const data = await res.json();
       if (data.news && data.news.length > 0) {
         NEWS = data.news;
+        // Preload all images immediately
+        for (const item of NEWS) {
+          if (item.image?.url) { new Image().src = item.image.url; }
+          if (item.images) { for (const img of item.images) { new Image().src = img.url; } }
+        }
         buildArtistList();
         document.getElementById('newsStage').innerHTML = '';
         buildCards();
@@ -1022,7 +1027,7 @@
       const isVideo = (m) => m.type === 'video' || /\.(mp4|webm|mov|ogg)(\?|$)/i.test(m.url);
       const mediaTag = (m) => isVideo(m)
         ? `<video src="${m.url}" autoplay loop muted playsinline></video>`
-        : `<img src="${m.url}" alt="${m.label || ''}" loading="lazy">`;
+        : `<img src="${m.url}" alt="${m.label || ''}" loading="eager">`;
       let imageHTML = '';
       if (item.images && item.images.length > 1) {
         imageHTML = '<div class="card-preview-grid">' + item.images.map(img =>
