@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T23:44:15.315718+00:00",
+  "generated_at": "2026-04-03T01:03:00.395820+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "arsonic Leads with 79.7M Projected TDH",
-      "summary": "\"AUTONOMY.EXE\" by arsonic (79.7M projected TDH, 88 voters) | \"6529 NEWS\" by Sert (65.0M projected TDH, 70 voters) | \"Credo quia absurdum\" by Guidodisalle (46.0M projected TDH, 121 voters) Next selection: Fri Apr 03 at 17:00 CET.",
+      "headline": "arsonic Leads with 80.0M Projected TDH",
+      "summary": "\"AUTONOMY.EXE\" by arsonic (80.0M projected TDH, 89 voters) | \"6529 NEWS\" by Sert (65.0M projected TDH, 70 voters) | \"Credo quia absurdum\" by Guidodisalle (46.0M projected TDH, 121 voters) Next selection: Fri Apr 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "arsonic",
-          "value": "79.7M",
-          "sub": "proj. (88 votes)"
+          "value": "80.0M",
+          "sub": "proj. (89 votes)"
         },
         {
           "label": "Sert",
@@ -89,7 +89,7 @@
     {
       "category": "6529 TALKS",
       "headline": "punk6529: 15 Messages in Last 24h",
-      "summary": "15 messages in maybe's dive bar. Topic: We need to extract main topic in 5-8 words, no intro, just the topic. The content: mentions timeline, social media site,",
+      "summary": "15 messages in maybe's dive bar. Topic: We need to extract main topic in 5-8 words, no intro, just the topic. The content: mentions timeline, social media siteevery",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -100,21 +100,16 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "29 Sales Today - 1.03 ETH Volume",
-      "summary": "29 sales in 24h for 1.03 ETH. Highest: \"6529Seizing\" at 0.169 ETH.",
+      "headline": "28 Sales Today - 1.01 ETH Volume",
+      "summary": "28 sales in 24h for 1.01 ETH. Highest: \"Feeling Lucky?\" at 0.081 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-        "label": "6529Seizing - 0.169 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/33.WEBP",
+        "label": "Feeling Lucky? - 0.081 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.169 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/33.WEBP",
           "label": "Feeling Lucky? - 0.081 ETH",
@@ -124,23 +119,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/287.WEBP",
           "label": "Meta(morphosis) - 0.079 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/252.GIF",
+          "label": "What A Memeable Day - 0.075 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "29",
+          "value": "28",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.03",
+          "value": "1.01",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.169",
-          "sub": "6529Seizing"
+          "value": "0.081",
+          "sub": "Feeling Lucky?"
         },
         {
           "label": "Floor",
@@ -153,27 +153,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.03 ETH",
-      "raw": 1.0324,
-      "delta": -0.009700000000000042,
-      "delta_fmt": "-0.9%"
+      "value": "1.01 ETH",
+      "raw": 1.011,
+      "delta": -0.031100000000000128,
+      "delta_fmt": "-3.0%"
     },
     {
       "label": "7d Vol",
-      "value": "5.22 ETH",
-      "raw": 5.221
+      "value": "4.58 ETH",
+      "raw": 4.5771
     },
     {
       "label": "30d Vol",
-      "value": "48.38 ETH",
-      "raw": 48.3849
+      "value": "47.24 ETH",
+      "raw": 47.2433
     },
     {
       "label": "Full Set Bid",
       "value": "38.5 ETH",
-      "raw": 38.54,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 38.49,
+      "delta": -0.04999999999999716,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Full Set",
@@ -187,20 +187,24 @@
     },
     {
       "label": "Network TDH",
-      "value": "1455.5M",
-      "raw": 1455500409
+      "value": "1460.0M",
+      "raw": 1459992693,
+      "delta": 4492284,
+      "delta_fmt": "+4.5M TDH"
     },
     {
       "label": "#1 arsonic",
-      "value": "79.7M TDH",
-      "raw": 79747900
+      "value": "80.0M TDH",
+      "raw": 79961304,
+      "delta": 213404,
+      "delta_fmt": "+0.2M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529: 15 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 17d AGO",
+    "DIVE BAR: 301 MSGS IN LAST 6H",
     "CARD #477: 131 MINTS (EXCL. MUSEUM) | 93 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (83 MSGS) | MAYBE (64) | KRISTOPHER (62)",
-    "DIVE BAR: 292 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (64 MSGS) | JAMESANDREW (45) | ZIGMARILLION (45)"
   ]
 }
