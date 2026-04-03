@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T05:53:49.611666+00:00",
+  "generated_at": "2026-04-03T06:19:58.561904+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -45,6 +45,48 @@
       ]
     },
     {
+      "category": "NEW WAVE",
+      "headline": "Network Museum SAFE Signers",
+      "summary": "A new wave is live to find 2 new signers + 2 alternates for the Network Museum multisig. Apply and vote now.",
+      "source": "Network Museum",
+      "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/349.JPEG",
+        "label": "Wanderer of a New Era - Card #349",
+        "type": "image"
+      },
+      "dataBoxes": null
+    },
+    {
+      "category": "MUSEUM SIGNERS",
+      "headline": "HugoFaz Leads \u2014 Museum Signers",
+      "summary": "Top candidates: #1 HugoFaz (16.7M TDH, 16 voters) | #2 david (5.3M TDH, 11 voters) | #3 blocknoob (7.3M TDH, 5 voters)",
+      "source": "Network Museum",
+      "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/349.JPEG",
+        "label": "Network Museum SAFE Signers",
+        "type": "image"
+      },
+      "dataBoxes": [
+        {
+          "label": "HugoFaz",
+          "value": "16.7M",
+          "sub": "16 voters"
+        },
+        {
+          "label": "david",
+          "value": "5.3M",
+          "sub": "11 voters"
+        },
+        {
+          "label": "blocknoob",
+          "value": "7.3M",
+          "sub": "5 voters"
+        }
+      ]
+    },
+    {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "14 New Memes Submissions This Week",
       "summary": "14 submissions this week. Ranking: RegularDad (4.2M) | Burnasso (2.2M) | kristopher (975K) | AEZY (804K) | MintFace (677K) | dorinphotograph (119K) | tito (113K) | desolalasisi (82K).",
@@ -75,68 +117,14 @@
       "dataBoxes": null
     },
     {
-      "category": "NEW WAVE",
-      "headline": "Network Museum SAFE Signers",
-      "summary": "A new wave is live to find 2 new signers + 2 alternates for the Network Museum multisig. Apply and vote now.",
-      "source": "Network Museum",
-      "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/349.JPEG",
-        "label": "Wanderer of a New Era - Card #349",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
-    {
-      "category": "MUSEUM SIGNERS",
-      "headline": "#HugoFaz Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 HugoFaz (16.7M TDH, 14 voters) | #2 david (5.2M TDH, 9 voters) | #3 blocknoob (5.9M TDH, 4 voters)",
-      "source": "Network Museum",
-      "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
-      "image": {
-        "url": "https://ipfs.io/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-        "label": "#1 HugoFaz",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://ipfs.io/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-          "label": "#1 HugoFaz",
-          "type": "image"
-        },
-        {
-          "url": "https://ipfs.io/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
-          "label": "#2 david",
-          "type": "image"
-        }
-      ],
-      "dataBoxes": [
-        {
-          "label": "HugoFaz",
-          "value": "16.7M",
-          "sub": "14 voters"
-        },
-        {
-          "label": "david",
-          "value": "5.2M",
-          "sub": "9 voters"
-        },
-        {
-          "label": "blocknoob",
-          "value": "5.9M",
-          "sub": "4 voters"
-        }
-      ]
-    },
-    {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#6 blake69 \u2014 302K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (302K)",
         "type": "image"
       }
     },
@@ -209,8 +197,8 @@
       "label": "24h Vol",
       "value": "0.66 ETH",
       "raw": 0.6621,
-      "delta": -0.26869999999999994,
-      "delta_fmt": "-28.9%"
+      "delta": -0.48119999999999996,
+      "delta_fmt": "-42.1%"
     },
     {
       "label": "7d Vol",
@@ -224,10 +212,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.2 ETH",
-      "raw": 38.24,
-      "delta": 0.1600000000000037,
-      "delta_fmt": "+0.16 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.36,
+      "delta": 0.11999999999999744,
+      "delta_fmt": "+0.12 ETH"
     },
     {
       "label": "Full Set",
@@ -247,14 +235,16 @@
     {
       "label": "#1 arsonic",
       "value": "77.3M TDH",
-      "raw": 77264702
+      "raw": 77264811,
+      "delta": 109,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
+    "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
     "PUNK6529: 15 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 17d AGO",
+    "DIVE BAR: 120 MSGS IN LAST 6H",
     "CARD #477: 131 MINTS (EXCL. MUSEUM) | 93 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
-    "ACTIVE TODAY: MAYBE (66 MSGS) | JAMESANDREW (50) | ZIGMARILLION (45)",
-    "DIVE BAR: 129 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (66 MSGS) | JAMESANDREW (50) | ZIGMARILLION (44)"
   ]
 }
