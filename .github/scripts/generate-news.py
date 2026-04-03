@@ -163,6 +163,29 @@ def build_top_memes():
     }]
 
 
+MUSEUM_WAVE_ID = 'a2ed7791-6402-4333-9780-d7af1fdce918'
+MUSEUM_EXPIRES = datetime(2026, 4, 10, tzinfo=timezone.utc)  # Show for ~7 days
+
+def build_museum_signers():
+    """Temporary card: Network Museum SAFE Signers wave announcement."""
+    if datetime.now(timezone.utc) > MUSEUM_EXPIRES:
+        return []
+    print("Adding Network Museum SAFE Signers card...")
+    return [{
+        'category': 'NEW WAVE',
+        'headline': 'Network Museum SAFE Signers',
+        'summary': 'A new wave is live to find 2 new signers + 2 alternates for the Network Museum multisig. Apply and vote now.',
+        'source': 'Network Museum',
+        'link': f'https://6529.io/waves/{MUSEUM_WAVE_ID}',
+        'image': {
+            'url': 'https://d3lqz0a4bldqgf.cloudfront.net/waves/author_0f832fe9-87b4-11ee-9d82-029a0e4b6159/4d419c4f-8bb4-4395-98ea-bc5911b9056d.jpg',
+            'label': 'Network Museum SAFE Signers',
+            'type': 'image'
+        },
+        'dataBoxes': None
+    }]
+
+
 def build_top_superrare():
     """Top 20 SuperRare by current vote, random featured preview from top 20."""
     import random
@@ -1338,6 +1361,9 @@ def main():
     print("\n--- 3. New Submissions ---")
     top3_authors = {s['author'] for s in top_memes_ranked[:3]}
     all_news += build_new_submissions(exclude_authors=top3_authors)
+
+    print("\n--- 3b. Network Museum SAFE Signers ---")
+    all_news += build_museum_signers()
 
     print("\n--- 4. Top SuperRare ---")
     all_news += build_top_superrare()
