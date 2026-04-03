@@ -165,7 +165,7 @@ def build_top_memes():
 
 MUSEUM_WAVE_ID = 'a2ed7791-6402-4333-9780-d7af1fdce918'
 MUSEUM_EXPIRES = datetime(2026, 4, 10, tzinfo=timezone.utc)  # Show for ~7 days
-MUSEUM_CARD_IMG = 'https://arweave.net/74964uTqUku0r8LmIV6VU00ZVqhrw7co_CRS-8Ov-JI'
+MUSEUM_CARD_IMG = 'https://6529news.github.io/6529news_engine/data/card-349.jpg'
 
 def _ipfs_to_http(url):
     """Convert ipfs:// to gateway URL."""
