@@ -188,6 +188,8 @@
   /* --- Card layout variants --- */
   .card-no-data .card-summary { font-size: clamp(16px, 2.2vw, 24px); }
   .card-has-data .card-preview img, .card-has-data .card-preview video { object-fit: cover; }
+  .card-force-contain .card-preview img, .card-force-contain .card-preview video { object-fit: contain !important; }
+  .card-force-cover .card-preview img, .card-force-cover .card-preview video { object-fit: cover !important; }
 
   /* Multi-image grid (sales, submissions) */
   .card-multi-preview .card-headline { font-size: clamp(18px, 3vw, 34px); }
@@ -1011,6 +1013,11 @@
       else if (hasImage) card.classList.add('card-no-data');
       if (!hasData && !hasGrid && hasImage && shortText) card.classList.add('card-big-preview');
       if (!hasImage && !hasGrid) card.classList.add('card-no-image');
+
+      // Per-card object-fit overrides
+      const cat = (item.category || '').toUpperCase();
+      if (cat.includes('TOP MEMES')) card.classList.add('card-force-contain');
+      if (cat.includes('MUSEUM') || cat.includes('NEW WAVE')) card.classList.add('card-force-cover');
 
       let dataHTML = '';
       if (hasData) {
