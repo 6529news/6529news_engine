@@ -884,9 +884,8 @@ def build_punk6529():
 
     print(f"  punk6529: {len(recent)} recent, {len(very_recent)} very_recent, headlines: {headline_extra}")
 
-    if not recent or len(recent) < 5:
-        if recent:
-            print(f"  Only {len(recent)} msgs in 24h (need 5+)")
+    if not very_recent:
+        print(f"  No msgs in last 1h — skipping main card (headline only)")
         return [], headline_extra
 
     # Get messages for AI summary
