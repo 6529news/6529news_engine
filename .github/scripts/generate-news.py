@@ -165,7 +165,7 @@ def build_top_memes():
 
 MUSEUM_WAVE_ID = 'a2ed7791-6402-4333-9780-d7af1fdce918'
 MUSEUM_EXPIRES = datetime(2026, 4, 10, tzinfo=timezone.utc)  # Show for ~7 days
-MUSEUM_CARD_IMG = 'https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/349.JPEG'
+MUSEUM_CARD_IMG = 'https://arweave.net/74964uTqUku0r8LmIV6VU00ZVqhrw7co_CRS-8Ov-JI'
 
 def _ipfs_to_http(url):
     """Convert ipfs:// to gateway URL."""
@@ -1043,42 +1043,44 @@ def build_hot_wave():
 # 6. NEW SUBMISSIONS (24h, best by TDH)
 # =============================================
 def build_new_submissions(exclude_authors=None):
-    # Last 7 days rolling
+    # Use leaderboard for projected TDH (drops don't have useful rating data)
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=7)
     cutoff_ms = int(cutoff.timestamp() * 1000)
     print(f"Checking new Memes submissions (last 7 days, since {cutoff.strftime('%a %b %d')})...")
 
-    # Paginate fully to get ALL drops in 7 days (use /waves endpoint for complete results)
-    all_drops = []
-    sn = 999999
-    for _ in range(50):
-        data = fetch_json(f'https://api.6529.io/api/waves/{MEMES_WAVE_ID}/drops?limit=20&drop_type=PARTICIPATION&serial_no_less_than={sn}')
-        drops = data.get('drops', data) if isinstance(data, dict) else data
-        if not drops or not isinstance(drops, list): break
-        all_drops += drops
-        sn = drops[-1]['serial_no']
-        if drops[-1]['created_at'] < cutoff_ms: break
+    # Get leaderboard sorted by projected vote
+    lb_data = fetch_json(f'https://api.6529.io/api/waves/{MEMES_WAVE_ID}/leaderboard?page_size=50')
+    if not lb_data or 'drops' not in lb_data:
+        return []
 
-    if not all_drops: return []
+    # Sort by projected vote
+    lb_drops = sorted(lb_data['drops'], key=lambda d: d.get('rating_prediction', d.get('realtime_rating', 0)), reverse=True)
 
-    recent = []
-    for d in all_drops:
-        if d['created_at'] >= cutoff_ms:
-            parts = d.get('parts') or []
-            media = parts[0].get('media', []) if parts else []
-            if not media:
-                continue  # No media = not a submission (just text)
-            title = d.get('title') or ''
-            if not title or title == 'None':
-                continue  # No title = chat message with media, not a real submission
-            tdh = d.get('rating_prediction', d.get('realtime_rating', 0))
+    skip = exclude_authors or set()
+    unique = []
+    seen_authors = set()
+
+    for d in lb_drops:
+        author = d['author']['handle']
+        if author in seen_authors or author in skip:
+            continue
+        seen_authors.add(author)
+
+        title = d.get('title') or ''
+        if not title or title == 'None':
+            continue
+
+        tdh = d.get('rating_prediction', d.get('realtime_rating', 0))
+        parts = d.get('parts') or []
+        media = parts[0].get('media', []) if parts else []
+
+        # Preview media
+        img = None
+        m_type = 'image'
+        if media:
             mime = media[0].get('mime_type', '')
             url = media[0].get('url', '')
-
-            # Preview media: images < 5MB, or videos
-            img = None
-            m_type = 'image'
             if (mime.startswith('image/') or mime.startswith('video/')) and not url.startswith('ipfs://'):
                 if mime.startswith('video/'):
                     img = url
@@ -1092,34 +1094,35 @@ def build_new_submissions(exclude_authors=None):
                             if size < 5_000_000:
                                 img = url
                     except:
-                        img = url  # If HEAD fails, include anyway
+                        img = url
 
-            recent.append({
-                'title': title or 'Untitled',
-                'author': d['author']['handle'],
-                'tdh': tdh,
-                'img': img, 'media_type': m_type
-            })
+        # Also check additional_media for HTML submissions
+        if not img and d.get('metadata', {}).get('additional_media', {}).get('preview_image'):
+            preview = d['metadata']['additional_media']['preview_image']
+            try:
+                req = urllib.request.Request(preview, method='HEAD')
+                req.add_header('User-Agent', 'Mozilla/5.0 (compatible; 6529News/1.0)')
+                with urllib.request.urlopen(req, timeout=5) as r:
+                    if r.status == 200:
+                        img = preview
+            except:
+                pass
 
-    if not recent: return []
+        unique.append({
+            'title': title or 'Untitled',
+            'author': author,
+            'tdh': tdh,
+            'img': img, 'media_type': m_type
+        })
 
-    # Deduplicate by author — keep highest TDH per author
-    # Exclude authors already shown in TOP MEMES
-    recent.sort(key=lambda x: x['tdh'], reverse=True)
-    seen_authors = set()
-    skip = exclude_authors or set()
-    unique = []
-    for s in recent:
-        if s['author'] not in seen_authors and s['author'] not in skip:
-            seen_authors.add(s['author'])
-            unique.append(s)
+    if not unique: return []
     count = len(unique)
 
-    # Top 3 media (images/videos, already filtered for size < 5MB)
+    # Top 3 media sorted by projected TDH (already sorted)
     with_img = [s for s in unique if s.get('img')]
     top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})', 'type': s.get('media_type', 'image')} for s in with_img[:3]]
 
-    # Summary: ranked unique artists by TDH
+    # Summary: ranked by projected TDH
     ranked = [f'{s["author"]} ({format_tdh(s["tdh"])})' for s in unique if s['tdh'] > 0][:8]
     summary = f'{count} submissions this week. Ranking: {" | ".join(ranked)}.' if ranked else f'{count} submissions this week.'
 
