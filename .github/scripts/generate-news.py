@@ -195,9 +195,10 @@ def build_museum_signers():
     }]
 
     # Card 2: Top candidates leaderboard with PFP previews
-    data = fetch_json(f'https://api.6529.io/api/waves/{MUSEUM_WAVE_ID}/leaderboard?page_size=5')
+    data = fetch_json(f'https://api.6529.io/api/waves/{MUSEUM_WAVE_ID}/leaderboard?page_size=10')
     if data and 'drops' in data and len(data['drops']) >= 2:
-        ranked = data['drops'][:5]
+        # Re-sort by projected vote (rating_prediction), not settled (rating)
+        ranked = sorted(data['drops'], key=lambda d: d.get('rating_prediction', d.get('realtime_rating', 0)), reverse=True)[:5]
         top3 = ranked[:3]
 
         def resolve_pfp(url):
@@ -210,18 +211,18 @@ def build_museum_signers():
 
         # Use top 2 PFPs as preview images
         top2_images = []
-        for d in ranked[:2]:
+        for idx, d in enumerate(ranked[:2]):
             pfp = resolve_pfp(d['author'].get('pfp'))
             if pfp:
                 top2_images.append({
                     'url': pfp,
-                    'label': f"#{d.get('rank',0)} {d['author']['handle']} — {format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0)))} TDH",
+                    'label': f"#{idx+1} {d['author']['handle']} — {format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0)))} TDH",
                     'type': 'image'
                 })
 
         summary = 'Top candidates: ' + ' | '.join([
-            f"#{d.get('rank',0)} {d['author']['handle']} ({format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0)))} TDH, {d.get('raters_count', 0)} voters)"
-            for d in top3
+            f"#{idx+1} {d['author']['handle']} ({format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0)))} TDH, {d.get('raters_count', 0)} voters)"
+            for idx, d in enumerate(top3)
         ])
 
         card_data = {
