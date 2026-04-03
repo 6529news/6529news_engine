@@ -198,19 +198,7 @@ def build_museum_signers():
     data = fetch_json(f'https://api.6529.io/api/waves/{MUSEUM_WAVE_ID}/leaderboard?page_size=5')
     if data and 'drops' in data and len(data['drops']) >= 2:
         ranked = data['drops'][:5]
-        top2 = ranked[:2]
         top3 = ranked[:3]
-
-        # Top 2 profile pics as preview grid
-        images = []
-        for d in top2:
-            pfp = _ipfs_to_http(d['author'].get('pfp', ''))
-            if pfp:
-                images.append({
-                    'url': pfp,
-                    'label': f"#{d.get('rank',0)} {d['author']['handle']}",
-                    'type': 'image'
-                })
 
         summary = 'Top candidates: ' + ' | '.join([
             f"#{d.get('rank',0)} {d['author']['handle']} ({format_tdh(d.get('realtime_rating', 0))} TDH, {d.get('raters_count', 0)} voters)"
@@ -219,12 +207,15 @@ def build_museum_signers():
 
         cards.append({
             'category': 'MUSEUM SIGNERS',
-            'headline': f"#{ranked[0]['author']['handle']} Leads — Museum Signers",
+            'headline': f"{ranked[0]['author']['handle']} Leads — Museum Signers",
             'summary': summary,
             'source': 'Network Museum',
             'link': f'https://6529.io/waves/{MUSEUM_WAVE_ID}',
-            'image': images[0] if images else None,
-            'images': images if len(images) > 1 else None,
+            'image': {
+                'url': MUSEUM_CARD_IMG,
+                'label': 'Network Museum SAFE Signers',
+                'type': 'image'
+            },
             'dataBoxes': [
                 {'label': d['author']['handle'], 'value': format_tdh(d.get('realtime_rating', 0)), 'sub': f"{d.get('raters_count', 0)} voters"}
                 for d in top3
@@ -662,7 +653,8 @@ def build_sales_recap():
                 else:
                     days_ago = hours_ago // 24
                     pebbles_text += f' | LAST SALE {days_ago}d AGO'
-        headline_extras.append(pebbles_text)
+        if p_sales > 0:
+            headline_extras.append(pebbles_text)
 
     ticker_data = [{
         'name': 'Memes', 'floor': floor, 'floor_sym': floor_sym,
@@ -1406,12 +1398,15 @@ def main():
     top_memes_ranked.sort(key=lambda x: x['projected_tdh'], reverse=True)
     all_news += build_top_memes()
 
-    print("\n--- 3. New Submissions ---")
+    print("\n--- 3. Network Museum SAFE Signers ---")
+    museum_cards = build_museum_signers()
+    all_news += museum_cards
+    if museum_cards:
+        all_headlines.append("NEW WAVE: NETWORK MUSEUM SAFE SIGNERS — APPLY NOW")
+
+    print("\n--- 3b. New Submissions ---")
     top3_authors = {s['author'] for s in top_memes_ranked[:3]}
     all_news += build_new_submissions(exclude_authors=top3_authors)
-
-    print("\n--- 3b. Network Museum SAFE Signers ---")
-    all_news += build_museum_signers()
 
     print("\n--- 4. Top SuperRare ---")
     all_news += build_top_superrare()
