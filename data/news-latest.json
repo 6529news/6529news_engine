@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T19:53:29.455084+00:00",
+  "generated_at": "2026-04-03T20:36:58.450263+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -138,13 +138,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 Articulate \u2014 1.8M TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (1.8M)",
         "type": "image"
       }
     },
@@ -220,10 +220,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.4 ETH",
-      "raw": 38.39,
-      "delta": -0.3100000000000023,
-      "delta_fmt": "-0.31 ETH"
+      "value": "38.8 ETH",
+      "raw": 38.82,
+      "delta": 0.4299999999999997,
+      "delta_fmt": "+0.43 ETH"
     },
     {
       "label": "Full Set",
@@ -243,16 +243,14 @@
     {
       "label": "#1 Sert",
       "value": "55.5M TDH",
-      "raw": 55502861,
-      "delta": 40310,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 55502861
     }
   ],
   "headline_extras": [
-    "PUNK6529: 18 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 18 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 338 MSGS IN LAST 6H",
     "CARD #478: 124 MINTS (EXCL. MUSEUM) | 90 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: JAMESANDREW (62 MSGS) | KRISTOPHER (54) | AEZY (49)",
-    "DIVE BAR: 335 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (62 MSGS) | AEZY (56) | KRISTOPHER (53)"
   ]
 }
