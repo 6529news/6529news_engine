@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T05:53:49.611666+00:00",
+  "generated_at": "2026-04-03T21:17:47.314296+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,70 +9,53 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ba12cc5a-5856-44f6-b50f-3aed56a02795/a92fc0d0-72f9-4b35-baf4-636545bbc88a.mp4",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/478.JPG",
         "label": "Network for Good  - BrynnAlise",
-        "type": "video"
+        "type": "image"
       },
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "arsonic Leads with 77.3M Projected TDH",
-      "summary": "\"AUTONOMY.EXE\" by arsonic (77.3M projected TDH, 92 voters) | \"6529 NEWS\" by Sert (54.9M projected TDH, 70 voters) | \"Credo quia absurdum\" by Guidodisalle (46.0M projected TDH, 121 voters) Next selection: Fri Apr 03 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"AUTONOMY.EXE\" by arsonic \u2014 77.6M TDH from 100 voters. Top supporter: gpebbles (12.7M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f82dd26-87b4-11ee-9d82-029a0e4b6159/0b3dca95-5be4-44de-b7c7-cc9f250f76e1.jpg",
         "label": "AUTONOMY.EXE - arsonic",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "Sert Leads with 55.5M Projected TDH",
+      "summary": "\"6529 NEWS\" by Sert (55.5M projected TDH, 77 voters) | \"Credo quia absurdum\" by Guidodisalle (45.9M projected TDH, 121 voters) | \"The Sacrifice of the Memes\" by Bicasso (28.7M projected TDH, 17 voters) Next selection: Mon Apr 06 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f832f00-87b4-11ee-9d82-029a0e4b6159/31b69f46-2df8-451d-85d5-d2a4474a6812.gif",
+        "label": "6529 NEWS - Sert",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "arsonic",
-          "value": "77.3M",
-          "sub": "proj. (92 votes)"
-        },
-        {
           "label": "Sert",
-          "value": "54.9M",
-          "sub": "proj. (70 votes)"
+          "value": "55.5M",
+          "sub": "proj. (77 votes)"
         },
         {
           "label": "Guidodisalle",
-          "value": "46.0M",
+          "value": "45.9M",
           "sub": "proj. (121 votes)"
+        },
+        {
+          "label": "Bicasso",
+          "value": "28.7M",
+          "sub": "proj. (17 votes)"
         }
       ]
-    },
-    {
-      "category": "NEW MEMES SUBMISSIONS",
-      "headline": "14 New Memes Submissions This Week",
-      "summary": "14 submissions this week. Ranking: RegularDad (4.2M) | Burnasso (2.2M) | kristopher (975K) | AEZY (804K) | MintFace (677K) | dorinphotograph (119K) | tito (113K) | desolalasisi (82K).",
-      "source": "Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/6556e48d-8e49-40be-849a-7c57e0bd4edd.gif",
-        "label": "RegularDad (4.2M)",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/6556e48d-8e49-40be-849a-7c57e0bd4edd.gif",
-          "label": "RegularDad (4.2M)",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_9d11dcbe-f2cb-40a3-9256-2333496518b1/f253f3a9-17fa-4b2b-819b-b88bfedd6424.JPG",
-          "label": "Burnasso (2.2M)",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0ee3cb6c-7380-4160-9b94-7a45717468ab/bef14fc7-6b31-4550-b02c-d96b092e75d0.jpg",
-          "label": "tito (113K)",
-          "type": "image"
-        }
-      ],
-      "dataBoxes": null
     },
     {
       "category": "NEW WAVE",
@@ -81,7 +64,7 @@
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/349.JPEG",
+        "url": "https://6529news.github.io/6529news_engine/data/card-349.jpg",
         "label": "Wanderer of a New Era - Card #349",
         "type": "image"
       },
@@ -89,116 +72,129 @@
     },
     {
       "category": "MUSEUM SIGNERS",
-      "headline": "#HugoFaz Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 HugoFaz (16.7M TDH, 14 voters) | #2 david (5.2M TDH, 9 voters) | #3 blocknoob (5.9M TDH, 4 voters)",
+      "headline": "HugoFaz Leads \u2014 Museum Signers",
+      "summary": "Top candidates: #1 HugoFaz (32.5M TDH, 25 voters) | #2 david (20.0M TDH, 21 voters) | #3 maybe (13.8M TDH, 14 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
-      "image": {
-        "url": "https://ipfs.io/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-        "label": "#1 HugoFaz",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://ipfs.io/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-          "label": "#1 HugoFaz",
-          "type": "image"
-        },
-        {
-          "url": "https://ipfs.io/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
-          "label": "#2 david",
-          "type": "image"
-        }
-      ],
       "dataBoxes": [
         {
           "label": "HugoFaz",
-          "value": "16.7M",
-          "sub": "14 voters"
+          "value": "32.5M",
+          "sub": "25 voters"
         },
         {
           "label": "david",
-          "value": "5.2M",
-          "sub": "9 voters"
+          "value": "20.0M",
+          "sub": "21 voters"
         },
         {
-          "label": "blocknoob",
-          "value": "5.9M",
-          "sub": "4 voters"
+          "label": "maybe",
+          "value": "13.8M",
+          "sub": "14 voters"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
+          "label": "#1 HugoFaz \u2014 32.5M TDH",
+          "type": "image"
+        },
+        {
+          "url": "https://dweb.link/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
+          "label": "#2 david \u2014 20.0M TDH",
+          "type": "image"
         }
       ]
     },
     {
+      "category": "NEW MEMES SUBMISSIONS",
+      "headline": "45 New Memes Submissions This Week",
+      "summary": "45 submissions this week. Ranking: Nrsin (28.3M) | RalenArc (11.3M) | fercaggiano (10.3M) | maybe (7.2M) | Zoku (7.0M) | RegularDad (6.5M) | JamesAndrew (4.5M) | MACBETH (4.5M).",
+      "source": "Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_cf7cd4b9-2421-45d2-b5be-cd5c8849ad06/160168aa-9c36-4b6d-8a14-d9b2d1277a0a.mov",
+        "label": "RalenArc (11.3M)",
+        "type": "video"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_cf7cd4b9-2421-45d2-b5be-cd5c8849ad06/160168aa-9c36-4b6d-8a14-d9b2d1277a0a.mov",
+          "label": "RalenArc (11.3M)",
+          "type": "video"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/6556e48d-8e49-40be-849a-7c57e0bd4edd.gif",
+          "label": "RegularDad (6.5M)",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_8a6a77f5-cb65-4c27-9501-cb9cb2b2401a/f6b0b555-a1eb-407f-adc0-e3a41f68ba98.mp4",
+          "label": "JamesAndrew (4.5M)",
+          "type": "video"
+        }
+      ],
+      "dataBoxes": null
+    },
+    {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
-      "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
+      "headline": "#6 blake69 \u2014 302K TDH",
+      "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (302K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (302K)",
         "type": "image"
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529 Active in maybe's dive bar",
-      "summary": "Active in maybe's dive bar.",
-      "source": "maybe's dive bar",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 0.66 ETH Volume",
-      "summary": "19 sales in 24h for 0.66 ETH. Highest: \"Feeling Lucky?\" at 0.081 ETH.",
+      "headline": "8 Sales Today - 0.52 ETH Volume",
+      "summary": "8 sales in 24h for 0.52 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.151 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/33.WEBP",
-        "label": "Feeling Lucky? - 0.081 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+        "label": "< no, really [ this ] is going to be our year > - 0.151 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/33.WEBP",
-          "label": "Feeling Lucky? - 0.081 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+          "label": "< no, really [ this ] is going to be our year > - 0.151 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/287.WEBP",
-          "label": "Meta(morphosis) - 0.079 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/456.GIF",
+          "label": "Don't Let Them! - 0.069 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/252.GIF",
-          "label": "What A Memeable Day - 0.075 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/475.WEBP",
+          "label": "Cogito, ergo sum - 0.069 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "8",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.66",
+          "value": "0.52",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.081",
-          "sub": "Feeling Lucky?"
+          "value": "0.151",
+          "sub": "< no, really [ this "
         },
         {
           "label": "Floor",
-          "value": "0.01689999",
+          "value": "0.016889969999999997",
           "sub": "ETH"
         }
       ]
@@ -207,27 +203,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.66 ETH",
-      "raw": 0.6621,
-      "delta": -0.26869999999999994,
-      "delta_fmt": "-28.9%"
+      "value": "0.52 ETH",
+      "raw": 0.5155,
+      "delta": -0.5169,
+      "delta_fmt": "-50.1%"
     },
     {
       "label": "7d Vol",
-      "value": "4.61 ETH",
-      "raw": 4.611
+      "value": "4.84 ETH",
+      "raw": 4.8363
     },
     {
       "label": "30d Vol",
-      "value": "47.28 ETH",
-      "raw": 47.2772
+      "value": "47.78 ETH",
+      "raw": 47.7788
     },
     {
       "label": "Full Set Bid",
-      "value": "38.2 ETH",
-      "raw": 38.24,
-      "delta": 0.1600000000000037,
-      "delta_fmt": "+0.16 ETH"
+      "value": "38.5 ETH",
+      "raw": 38.53,
+      "delta": -0.28999999999999915,
+      "delta_fmt": "-0.29 ETH"
     },
     {
       "label": "Full Set",
@@ -236,8 +232,8 @@
     },
     {
       "label": "Holders",
-      "value": "10,162",
-      "raw": 10162
+      "value": "10,157",
+      "raw": 10157
     },
     {
       "label": "Network TDH",
@@ -245,16 +241,16 @@
       "raw": 1459992693
     },
     {
-      "label": "#1 arsonic",
-      "value": "77.3M TDH",
-      "raw": 77264702
+      "label": "#1 Sert",
+      "value": "55.5M TDH",
+      "raw": 55502861
     }
   ],
   "headline_extras": [
-    "PUNK6529: 15 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "PEBBLES: FLOOR 0.595 ETH | 0 SALES | LAST SALE 17d AGO",
-    "CARD #477: 131 MINTS (EXCL. MUSEUM) | 93 HOLDERS | \u200bMEMERY CARD GAME - ALL SEASONS",
-    "ACTIVE TODAY: MAYBE (66 MSGS) | JAMESANDREW (50) | ZIGMARILLION (45)",
-    "DIVE BAR: 129 MSGS IN LAST 6H"
+    "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 18 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 392 MSGS IN LAST 6H",
+    "CARD #478: 124 MINTS (EXCL. MUSEUM) | 92 HOLDERS | NETWORK FOR GOOD ",
+    "ACTIVE TODAY: AEZY (66 MSGS) | JAMESANDREW (59) | KRISTOPHER (54)"
   ]
 }

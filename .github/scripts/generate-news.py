@@ -116,7 +116,7 @@ def fetch_ranked_drops(wave_id, limit=10):
         all_ranked.append({
             'rank': d.get('rank', 0), 'title': d.get('title') or 'Untitled',
             'author': d['author']['handle'],
-            'current_tdh': d.get('realtime_rating', 0),
+            'current_tdh': d.get('rating_prediction', d.get('realtime_rating', 0)),
             'projected_tdh': d.get('rating_prediction', 0),
             'voters': d.get('raters_count', 0),
             'img': img, 'media_type': media_type
@@ -165,7 +165,7 @@ def build_top_memes():
 
 MUSEUM_WAVE_ID = 'a2ed7791-6402-4333-9780-d7af1fdce918'
 MUSEUM_EXPIRES = datetime(2026, 4, 10, tzinfo=timezone.utc)  # Show for ~7 days
-MUSEUM_CARD_IMG = 'https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/349.JPEG'
+MUSEUM_CARD_IMG = 'https://6529news.github.io/6529news_engine/data/card-349.jpg'
 
 def _ipfs_to_http(url):
     """Convert ipfs:// to gateway URL."""
@@ -194,33 +194,56 @@ def build_museum_signers():
         'dataBoxes': None
     }]
 
-    # Card 2: Top candidates leaderboard
-    data = fetch_json(f'https://api.6529.io/api/waves/{MUSEUM_WAVE_ID}/leaderboard?page_size=5')
+    # Card 2: Top candidates leaderboard with PFP previews
+    data = fetch_json(f'https://api.6529.io/api/waves/{MUSEUM_WAVE_ID}/leaderboard?page_size=10')
     if data and 'drops' in data and len(data['drops']) >= 2:
-        ranked = data['drops'][:5]
+        # Re-sort by projected vote (rating_prediction), not settled (rating)
+        ranked = sorted(data['drops'], key=lambda d: d.get('rating_prediction', d.get('realtime_rating', 0)), reverse=True)[:5]
         top3 = ranked[:3]
 
+        def resolve_pfp(url):
+            """Convert ipfs:// to HTTP gateway URL."""
+            if not url:
+                return None
+            if url.startswith('ipfs://'):
+                return 'https://dweb.link/ipfs/' + url[7:]
+            return url
+
+        # Use top 2 PFPs as preview images
+        top2_images = []
+        for idx, d in enumerate(ranked[:2]):
+            pfp = resolve_pfp(d['author'].get('pfp'))
+            if pfp:
+                top2_images.append({
+                    'url': pfp,
+                    'label': f"#{idx+1} {d['author']['handle']} — {format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0)))} TDH",
+                    'type': 'image'
+                })
+
         summary = 'Top candidates: ' + ' | '.join([
-            f"#{d.get('rank',0)} {d['author']['handle']} ({format_tdh(d.get('realtime_rating', 0))} TDH, {d.get('raters_count', 0)} voters)"
-            for d in top3
+            f"#{idx+1} {d['author']['handle']} ({format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0)))} TDH, {d.get('raters_count', 0)} voters)"
+            for idx, d in enumerate(top3)
         ])
 
-        cards.append({
+        card_data = {
             'category': 'MUSEUM SIGNERS',
             'headline': f"{ranked[0]['author']['handle']} Leads — Museum Signers",
             'summary': summary,
             'source': 'Network Museum',
             'link': f'https://6529.io/waves/{MUSEUM_WAVE_ID}',
-            'image': {
-                'url': MUSEUM_CARD_IMG,
-                'label': 'Network Museum SAFE Signers',
-                'type': 'image'
-            },
             'dataBoxes': [
-                {'label': d['author']['handle'], 'value': format_tdh(d.get('realtime_rating', 0)), 'sub': f"{d.get('raters_count', 0)} voters"}
+                {'label': d['author']['handle'], 'value': format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0))), 'sub': f"{d.get('raters_count', 0)} voters"}
                 for d in top3
             ]
-        })
+        }
+        if len(top2_images) >= 2:
+            card_data['images'] = top2_images
+        elif top2_images:
+            card_data['image'] = top2_images[0]
+        else:
+            card_data['image'] = {'url': MUSEUM_CARD_IMG, 'label': 'Network Museum SAFE Signers', 'type': 'image'}
+
+        cards.append(card_data)
 
     return cards
 
@@ -707,7 +730,7 @@ def build_sr_submissions():
             recent.append({
                 'title': d.get('title') or 'Untitled',
                 'author': d['author']['handle'],
-                'tdh': d.get('realtime_rating', 0),
+                'tdh': d.get('rating_prediction', d.get('realtime_rating', 0)),
                 'img': img, 'media_type': m_type
             })
 
@@ -862,9 +885,8 @@ def build_punk6529():
 
     print(f"  punk6529: {len(recent)} recent, {len(very_recent)} very_recent, headlines: {headline_extra}")
 
-    if not recent or len(recent) < 5:
-        if recent:
-            print(f"  Only {len(recent)} msgs in 24h (need 5+)")
+    if not very_recent:
+        print(f"  No msgs in last 1h — skipping main card (headline only)")
         return [], headline_extra
 
     # Get messages for AI summary
@@ -1021,42 +1043,44 @@ def build_hot_wave():
 # 6. NEW SUBMISSIONS (24h, best by TDH)
 # =============================================
 def build_new_submissions(exclude_authors=None):
-    # Last 7 days rolling
+    # Use leaderboard for projected TDH (drops don't have useful rating data)
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=7)
     cutoff_ms = int(cutoff.timestamp() * 1000)
     print(f"Checking new Memes submissions (last 7 days, since {cutoff.strftime('%a %b %d')})...")
 
-    # Paginate fully to get ALL drops in 7 days (use /waves endpoint for complete results)
-    all_drops = []
-    sn = 999999
-    for _ in range(50):
-        data = fetch_json(f'https://api.6529.io/api/waves/{MEMES_WAVE_ID}/drops?limit=20&drop_type=PARTICIPATION&serial_no_less_than={sn}')
-        drops = data.get('drops', data) if isinstance(data, dict) else data
-        if not drops or not isinstance(drops, list): break
-        all_drops += drops
-        sn = drops[-1]['serial_no']
-        if drops[-1]['created_at'] < cutoff_ms: break
+    # Get leaderboard sorted by projected vote
+    lb_data = fetch_json(f'https://api.6529.io/api/waves/{MEMES_WAVE_ID}/leaderboard?page_size=50')
+    if not lb_data or 'drops' not in lb_data:
+        return []
 
-    if not all_drops: return []
+    # Sort by projected vote
+    lb_drops = sorted(lb_data['drops'], key=lambda d: d.get('rating_prediction', d.get('realtime_rating', 0)), reverse=True)
 
-    recent = []
-    for d in all_drops:
-        if d['created_at'] >= cutoff_ms:
-            parts = d.get('parts') or []
-            media = parts[0].get('media', []) if parts else []
-            if not media:
-                continue  # No media = not a submission (just text)
-            title = d.get('title') or ''
-            if not title or title == 'None':
-                continue  # No title = chat message with media, not a real submission
-            tdh = d.get('realtime_rating', 0)
+    skip = exclude_authors or set()
+    unique = []
+    seen_authors = set()
+
+    for d in lb_drops:
+        author = d['author']['handle']
+        if author in seen_authors or author in skip:
+            continue
+        seen_authors.add(author)
+
+        title = d.get('title') or ''
+        if not title or title == 'None':
+            continue
+
+        tdh = d.get('rating_prediction', d.get('realtime_rating', 0))
+        parts = d.get('parts') or []
+        media = parts[0].get('media', []) if parts else []
+
+        # Preview media
+        img = None
+        m_type = 'image'
+        if media:
             mime = media[0].get('mime_type', '')
             url = media[0].get('url', '')
-
-            # Preview media: images < 5MB, or videos
-            img = None
-            m_type = 'image'
             if (mime.startswith('image/') or mime.startswith('video/')) and not url.startswith('ipfs://'):
                 if mime.startswith('video/'):
                     img = url
@@ -1070,34 +1094,39 @@ def build_new_submissions(exclude_authors=None):
                             if size < 5_000_000:
                                 img = url
                     except:
-                        img = url  # If HEAD fails, include anyway
+                        img = url
 
-            recent.append({
-                'title': title or 'Untitled',
-                'author': d['author']['handle'],
-                'tdh': tdh,
-                'img': img, 'media_type': m_type
-            })
+        # Also check additional_media for HTML submissions
+        meta = d.get('metadata') or {}
+        if isinstance(meta, list):
+            meta = {}
+        add_media = meta.get('additional_media') or {}
+        if not img and add_media.get('preview_image'):
+            preview = add_media['preview_image']
+            try:
+                req = urllib.request.Request(preview, method='HEAD')
+                req.add_header('User-Agent', 'Mozilla/5.0 (compatible; 6529News/1.0)')
+                with urllib.request.urlopen(req, timeout=5) as r:
+                    if r.status == 200:
+                        img = preview
+            except:
+                pass
 
-    if not recent: return []
+        unique.append({
+            'title': title or 'Untitled',
+            'author': author,
+            'tdh': tdh,
+            'img': img, 'media_type': m_type
+        })
 
-    # Deduplicate by author — keep highest TDH per author
-    # Exclude authors already shown in TOP MEMES
-    recent.sort(key=lambda x: x['tdh'], reverse=True)
-    seen_authors = set()
-    skip = exclude_authors or set()
-    unique = []
-    for s in recent:
-        if s['author'] not in seen_authors and s['author'] not in skip:
-            seen_authors.add(s['author'])
-            unique.append(s)
+    if not unique: return []
     count = len(unique)
 
-    # Top 3 media (images/videos, already filtered for size < 5MB)
+    # Top 3 media sorted by projected TDH (already sorted)
     with_img = [s for s in unique if s.get('img')]
     top_images = [{'url': s['img'], 'label': f'{s["author"]} ({format_tdh(s["tdh"])})', 'type': s.get('media_type', 'image')} for s in with_img[:3]]
 
-    # Summary: ranked unique artists by TDH
+    # Summary: ranked by projected TDH
     ranked = [f'{s["author"]} ({format_tdh(s["tdh"])})' for s in unique if s['tdh'] > 0][:8]
     summary = f'{count} submissions this week. Ranking: {" | ".join(ranked)}.' if ranked else f'{count} submissions this week.'
 
@@ -1129,7 +1158,7 @@ def build_tdh_on_submissions():
         sn = data[-1]['serial_no']
         if len(data) < 50: break
 
-    total_tdh = sum(d.get('realtime_rating', 0) for d in all_drops)
+    total_tdh = sum(d.get('rating_prediction', d.get('realtime_rating', 0)) for d in all_drops)
     count = len(all_drops)
     print(f"  {count} submissions, total TDH: {format_tdh(total_tdh)}")
     return [f"TDH ON SUBMISSIONS: {format_tdh(total_tdh)} ({count} SUBMISSIONS)"]
