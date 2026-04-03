@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T10:03:53.665355+00:00",
+  "generated_at": "2026-04-03T11:03:52.820819+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "arsonic Leads with 77.7M Projected TDH",
-      "summary": "\"AUTONOMY.EXE\" by arsonic (77.7M projected TDH, 95 voters) | \"6529 NEWS\" by Sert (54.9M projected TDH, 70 voters) | \"Credo quia absurdum\" by Guidodisalle (46.0M projected TDH, 121 voters) Next selection: Fri Apr 03 at 17:00 CET.",
+      "summary": "\"AUTONOMY.EXE\" by arsonic (77.7M projected TDH, 96 voters) | \"6529 NEWS\" by Sert (54.9M projected TDH, 70 voters) | \"Credo quia absurdum\" by Guidodisalle (46.0M projected TDH, 121 voters) Next selection: Fri Apr 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "arsonic",
           "value": "77.7M",
-          "sub": "proj. (95 votes)"
+          "sub": "proj. (96 votes)"
         },
         {
           "label": "Sert",
@@ -125,13 +125,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 1.8M TDH",
+      "headline": "#7 Gsen \u2014 152K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (1.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (152K)",
         "type": "image"
       }
     },
@@ -181,7 +181,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016895",
+          "value": "0.01689449",
           "sub": "ETH"
         }
       ]
@@ -192,8 +192,8 @@
       "label": "24h Vol",
       "value": "0.73 ETH",
       "raw": 0.7291,
-      "delta": -0.29700000000000004,
-      "delta_fmt": "-28.9%"
+      "delta": -0.20910000000000006,
+      "delta_fmt": "-22.3%"
     },
     {
       "label": "7d Vol",
@@ -207,10 +207,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.6 ETH",
-      "raw": 38.58,
-      "delta": 0.3200000000000003,
-      "delta_fmt": "+0.32 ETH"
+      "value": "38.3 ETH",
+      "raw": 38.34,
+      "delta": -0.23999999999999488,
+      "delta_fmt": "-0.24 ETH"
     },
     {
       "label": "Full Set",
@@ -219,8 +219,10 @@
     },
     {
       "label": "Holders",
-      "value": "10,162",
-      "raw": 10162
+      "value": "10,157",
+      "raw": 10157,
+      "delta": -5,
+      "delta_fmt": "-5"
     },
     {
       "label": "Network TDH",
@@ -230,14 +232,16 @@
     {
       "label": "#1 arsonic",
       "value": "77.7M TDH",
-      "raw": 77708353
+      "raw": 77713008,
+      "delta": 4655,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529: 15 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 15 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 107 MSGS IN LAST 6H",
     "CARD #478: 104 MINTS (EXCL. MUSEUM) | 72 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: MAYBE (66 MSGS) | JAMESANDREW (50) | ZIGMARILLION (43)",
-    "DIVE BAR: 94 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (66 MSGS) | JAMESANDREW (50) | ZIGMARILLION (43)"
   ]
 }
