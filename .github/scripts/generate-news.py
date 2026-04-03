@@ -165,7 +165,7 @@ def build_top_memes():
 
 MUSEUM_WAVE_ID = 'a2ed7791-6402-4333-9780-d7af1fdce918'
 MUSEUM_EXPIRES = datetime(2026, 4, 10, tzinfo=timezone.utc)  # Show for ~7 days
-MUSEUM_CARD_IMG = 'https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/349.JPEG'
+MUSEUM_CARD_IMG = 'https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/349.JPEG'
 
 def _ipfs_to_http(url):
     """Convert ipfs:// to gateway URL."""
