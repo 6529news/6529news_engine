@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T19:06:29.499234+00:00",
+  "generated_at": "2026-04-03T19:53:29.455084+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -109,7 +109,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "45 New Memes Submissions This Week",
-      "summary": "45 submissions this week. Ranking: Nrsin (25.4M) | RalenArc (11.3M) | fercaggiano (10.3M) | maybe (7.2M) | Zoku (7.0M) | RegularDad (6.5M) | JamesAndrew (4.5M) | MACBETH (4.5M).",
+      "summary": "45 submissions this week. Ranking: Nrsin (28.3M) | RalenArc (11.3M) | fercaggiano (10.3M) | maybe (7.2M) | Zoku (7.0M) | RegularDad (6.5M) | JamesAndrew (4.5M) | MACBETH (4.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -138,13 +138,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 302K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (556K) | blake69 (302K) | Gsen (152K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (302K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -220,10 +220,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH",
-      "raw": 38.7,
-      "delta": 0.5300000000000011,
-      "delta_fmt": "+0.53 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.39,
+      "delta": -0.3100000000000023,
+      "delta_fmt": "-0.31 ETH"
     },
     {
       "label": "Full Set",
@@ -243,16 +243,16 @@
     {
       "label": "#1 Sert",
       "value": "55.5M TDH",
-      "raw": 55462551,
-      "delta": 8836,
+      "raw": 55502861,
+      "delta": 40310,
       "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529: 18 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #478: 123 MINTS (EXCL. MUSEUM) | 89 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: JAMESANDREW (62 MSGS) | KRISTOPHER (53) | AEZY (47)",
-    "DIVE BAR: 340 MSGS IN LAST 6H"
+    "PUNK6529: 18 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 340 MSGS IN LAST 6H",
+    "CARD #478: 124 MINTS (EXCL. MUSEUM) | 90 HOLDERS | NETWORK FOR GOOD ",
+    "ACTIVE TODAY: JAMESANDREW (62 MSGS) | KRISTOPHER (54) | AEZY (49)"
   ]
 }
