@@ -165,25 +165,73 @@ def build_top_memes():
 
 MUSEUM_WAVE_ID = 'a2ed7791-6402-4333-9780-d7af1fdce918'
 MUSEUM_EXPIRES = datetime(2026, 4, 10, tzinfo=timezone.utc)  # Show for ~7 days
+MUSEUM_CARD_IMG = 'https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/349.JPEG'
+
+def _ipfs_to_http(url):
+    """Convert ipfs:// to gateway URL."""
+    if url and url.startswith('ipfs://'):
+        return url.replace('ipfs://', 'https://ipfs.io/ipfs/')
+    return url
 
 def build_museum_signers():
-    """Temporary card: Network Museum SAFE Signers wave announcement."""
+    """Temporary cards: Museum wave announcement + leaderboard."""
     if datetime.now(timezone.utc) > MUSEUM_EXPIRES:
         return []
-    print("Adding Network Museum SAFE Signers card...")
-    return [{
+    print("Adding Network Museum SAFE Signers cards...")
+
+    # Card 1: Wave announcement with Wanderer of a New Era preview
+    cards = [{
         'category': 'NEW WAVE',
         'headline': 'Network Museum SAFE Signers',
         'summary': 'A new wave is live to find 2 new signers + 2 alternates for the Network Museum multisig. Apply and vote now.',
         'source': 'Network Museum',
         'link': f'https://6529.io/waves/{MUSEUM_WAVE_ID}',
         'image': {
-            'url': 'https://d3lqz0a4bldqgf.cloudfront.net/waves/author_0f832fe9-87b4-11ee-9d82-029a0e4b6159/4d419c4f-8bb4-4395-98ea-bc5911b9056d.jpg',
-            'label': 'Network Museum SAFE Signers',
+            'url': MUSEUM_CARD_IMG,
+            'label': 'Wanderer of a New Era - Card #349',
             'type': 'image'
         },
         'dataBoxes': None
     }]
+
+    # Card 2: Top candidates leaderboard
+    data = fetch_json(f'https://api.6529.io/api/waves/{MUSEUM_WAVE_ID}/leaderboard?page_size=5')
+    if data and 'drops' in data and len(data['drops']) >= 2:
+        ranked = data['drops'][:5]
+        top2 = ranked[:2]
+        top3 = ranked[:3]
+
+        # Top 2 profile pics as preview grid
+        images = []
+        for d in top2:
+            pfp = _ipfs_to_http(d['author'].get('pfp', ''))
+            if pfp:
+                images.append({
+                    'url': pfp,
+                    'label': f"#{d.get('rank',0)} {d['author']['handle']}",
+                    'type': 'image'
+                })
+
+        summary = 'Top candidates: ' + ' | '.join([
+            f"#{d.get('rank',0)} {d['author']['handle']} ({format_tdh(d.get('realtime_rating', 0))} TDH, {d.get('raters_count', 0)} voters)"
+            for d in top3
+        ])
+
+        cards.append({
+            'category': 'MUSEUM SIGNERS',
+            'headline': f"#{ranked[0]['author']['handle']} Leads — Museum Signers",
+            'summary': summary,
+            'source': 'Network Museum',
+            'link': f'https://6529.io/waves/{MUSEUM_WAVE_ID}',
+            'image': images[0] if images else None,
+            'images': images if len(images) > 1 else None,
+            'dataBoxes': [
+                {'label': d['author']['handle'], 'value': format_tdh(d.get('realtime_rating', 0)), 'sub': f"{d.get('raters_count', 0)} voters"}
+                for d in top3
+            ]
+        })
+
+    return cards
 
 
 def build_top_superrare():
