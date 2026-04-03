@@ -194,33 +194,55 @@ def build_museum_signers():
         'dataBoxes': None
     }]
 
-    # Card 2: Top candidates leaderboard
+    # Card 2: Top candidates leaderboard with PFP previews
     data = fetch_json(f'https://api.6529.io/api/waves/{MUSEUM_WAVE_ID}/leaderboard?page_size=5')
     if data and 'drops' in data and len(data['drops']) >= 2:
         ranked = data['drops'][:5]
         top3 = ranked[:3]
+
+        def resolve_pfp(url):
+            """Convert ipfs:// to HTTP gateway URL."""
+            if not url:
+                return None
+            if url.startswith('ipfs://'):
+                return 'https://dweb.link/ipfs/' + url[7:]
+            return url
+
+        # Use top 2 PFPs as preview images
+        top2_images = []
+        for d in ranked[:2]:
+            pfp = resolve_pfp(d['author'].get('pfp'))
+            if pfp:
+                top2_images.append({
+                    'url': pfp,
+                    'label': f"#{d.get('rank',0)} {d['author']['handle']} — {format_tdh(d.get('realtime_rating', 0))} TDH",
+                    'type': 'image'
+                })
 
         summary = 'Top candidates: ' + ' | '.join([
             f"#{d.get('rank',0)} {d['author']['handle']} ({format_tdh(d.get('realtime_rating', 0))} TDH, {d.get('raters_count', 0)} voters)"
             for d in top3
         ])
 
-        cards.append({
+        card_data = {
             'category': 'MUSEUM SIGNERS',
             'headline': f"{ranked[0]['author']['handle']} Leads — Museum Signers",
             'summary': summary,
             'source': 'Network Museum',
             'link': f'https://6529.io/waves/{MUSEUM_WAVE_ID}',
-            'image': {
-                'url': MUSEUM_CARD_IMG,
-                'label': 'Network Museum SAFE Signers',
-                'type': 'image'
-            },
             'dataBoxes': [
                 {'label': d['author']['handle'], 'value': format_tdh(d.get('realtime_rating', 0)), 'sub': f"{d.get('raters_count', 0)} voters"}
                 for d in top3
             ]
-        })
+        }
+        if len(top2_images) >= 2:
+            card_data['images'] = top2_images
+        elif top2_images:
+            card_data['image'] = top2_images[0]
+        else:
+            card_data['image'] = {'url': MUSEUM_CARD_IMG, 'label': 'Network Museum SAFE Signers', 'type': 'image'}
+
+        cards.append(card_data)
 
     return cards
 
