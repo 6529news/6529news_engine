@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T21:17:47.314296+00:00",
+  "generated_at": "2026-04-03T21:56:42.390807+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -109,7 +109,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "45 New Memes Submissions This Week",
-      "summary": "45 submissions this week. Ranking: Nrsin (28.3M) | RalenArc (11.3M) | fercaggiano (10.3M) | maybe (7.2M) | Zoku (7.0M) | RegularDad (6.5M) | JamesAndrew (4.5M) | MACBETH (4.5M).",
+      "summary": "45 submissions this week. Ranking: Nrsin (28.3M) | RalenArc (11.3M) | fercaggiano (10.3M) | maybe (7.2M) | Zoku (7.0M) | RegularDad (6.5M) | MACBETH (5.0M) | JamesAndrew (4.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -129,8 +129,8 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_8a6a77f5-cb65-4c27-9501-cb9cb2b2401a/f6b0b555-a1eb-407f-adc0-e3a41f68ba98.mp4",
-          "label": "JamesAndrew (4.5M)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e0b76548-3eb4-11ef-9d82-029a0e4b6159/2950d2f0-4817-4ee3-99f9-25edfc6f57af.mp4",
+          "label": "MACBETH (5.0M)",
           "type": "video"
         }
       ],
@@ -138,20 +138,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 302K TDH",
-      "summary": "JasonOPhoto (2.1M) | Articulate (1.8M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (302K) | Gsen (149K)",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (302K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (302K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "8 Sales Today - 0.52 ETH Volume",
-      "summary": "8 sales in 24h for 0.52 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.151 ETH.",
+      "headline": "10 Sales Today - 0.57 ETH Volume",
+      "summary": "10 sales in 24h for 0.57 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.151 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -179,12 +179,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "8",
+          "value": "10",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.52",
+          "value": "0.57",
           "sub": "ETH"
         },
         {
@@ -194,7 +194,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016889969999999997",
+          "value": "0.01688998",
           "sub": "ETH"
         }
       ]
@@ -203,27 +203,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.52 ETH",
-      "raw": 0.5155,
-      "delta": -0.5169,
-      "delta_fmt": "-50.1%"
+      "value": "0.57 ETH",
+      "raw": 0.5708,
+      "delta": -0.4616,
+      "delta_fmt": "-44.7%"
     },
     {
       "label": "7d Vol",
-      "value": "4.84 ETH",
-      "raw": 4.8363
+      "value": "4.89 ETH",
+      "raw": 4.8916
     },
     {
       "label": "30d Vol",
-      "value": "47.78 ETH",
-      "raw": 47.7788
+      "value": "47.83 ETH",
+      "raw": 47.8341
     },
     {
       "label": "Full Set Bid",
-      "value": "38.5 ETH",
-      "raw": 38.53,
-      "delta": -0.28999999999999915,
-      "delta_fmt": "-0.29 ETH"
+      "value": "38.8 ETH",
+      "raw": 38.76,
+      "delta": 0.22999999999999687,
+      "delta_fmt": "+0.23 ETH"
     },
     {
       "label": "Full Set",
@@ -247,10 +247,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529: 18 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #478: 124 MINTS (EXCL. MUSEUM) | 92 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: AEZY (66 MSGS) | JAMESANDREW (59) | KRISTOPHER (54)",
-    "DIVE BAR: 407 MSGS IN LAST 6H"
+    "PUNK6529: 18 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 433 MSGS IN LAST 6H",
+    "CARD #478: 125 MINTS (EXCL. MUSEUM) | 93 HOLDERS | NETWORK FOR GOOD ",
+    "ACTIVE TODAY: AEZY (66 MSGS) | MAYBE (63) | KRISTOPHER (54)"
   ]
 }
