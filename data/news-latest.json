@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T09:18:40.858091+00:00",
+  "generated_at": "2026-04-03T10:03:53.665355+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -181,7 +181,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01689499",
+          "value": "0.016895",
           "sub": "ETH"
         }
       ]
@@ -207,10 +207,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH",
-      "raw": 38.26,
-      "delta": -0.45000000000000284,
-      "delta_fmt": "-0.45 ETH"
+      "value": "38.6 ETH",
+      "raw": 38.58,
+      "delta": 0.3200000000000003,
+      "delta_fmt": "+0.32 ETH"
     },
     {
       "label": "Full Set",
@@ -230,16 +230,14 @@
     {
       "label": "#1 arsonic",
       "value": "77.7M TDH",
-      "raw": 77708353,
-      "delta": 349883,
-      "delta_fmt": "+0.3M TDH"
+      "raw": 77708353
     }
   ],
   "headline_extras": [
-    "PUNK6529: 15 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 15 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 92 MSGS IN LAST 6H",
     "CARD #478: 104 MINTS (EXCL. MUSEUM) | 72 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: MAYBE (66 MSGS) | JAMESANDREW (50) | ZIGMARILLION (43)",
-    "DIVE BAR: 91 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (66 MSGS) | JAMESANDREW (50) | ZIGMARILLION (43)"
   ]
 }
