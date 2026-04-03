@@ -813,20 +813,18 @@ def build_punk6529():
         if content and len(content) > 20:
             messages.append(content)
 
-    summary = ai_summarize(
-        f"Main topic in 5-8 words. No intro, just the topic:\n\n" +
-        '\n'.join([f'- {m}' for m in messages[:8]]),
-        max_tokens=30
-    )
-    if summary:
-        summary = f'{len(recent)} messages in {", ".join(waves_active)}. Topic: {summary}'
+    waves_str = ', '.join(waves_active)
+    if len(recent) > 42:
+        summary = f'{len(recent)} messages in {waves_str}.'
+        headline = f'punk6529: {len(recent)} Messages in Last 24h'
     else:
-        summary = f'{len(recent)} messages in {", ".join(waves_active)}.'
+        summary = f'Active in {waves_str}.'
+        headline = f'punk6529 Active in {waves_str}'
 
     print(f"  Active: {len(recent)} msgs")
     return [{
         'category': '6529 TALKS',
-        'headline': f'punk6529: {len(recent)} Messages in Last 24h',
+        'headline': headline,
         'summary': summary,
         'source': list(waves_active)[0] if waves_active else 'Network',
         'link': 'https://6529.io/punk6529',
