@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T16:53:34.419558+00:00",
+  "generated_at": "2026-04-04T17:30:27.794833+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -60,24 +60,24 @@
     {
       "category": "MUSEUM SIGNERS",
       "headline": "HugoFaz Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 HugoFaz (34.0M TDH, 28 voters) | #2 david (24.2M TDH, 27 voters) | #3 maybe (21.0M TDH, 20 voters)",
+      "summary": "Top candidates: #1 HugoFaz (34.0M TDH, 29 voters) | #2 david (24.3M TDH, 28 voters) | #3 maybe (21.0M TDH, 21 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "dataBoxes": [
         {
           "label": "HugoFaz",
           "value": "34.0M",
-          "sub": "28 voters"
+          "sub": "29 voters"
         },
         {
           "label": "david",
-          "value": "24.2M",
-          "sub": "27 voters"
+          "value": "24.3M",
+          "sub": "28 voters"
         },
         {
           "label": "maybe",
           "value": "21.0M",
-          "sub": "20 voters"
+          "sub": "21 voters"
         }
       ],
       "images": [
@@ -88,7 +88,7 @@
         },
         {
           "url": "https://dweb.link/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
-          "label": "#2 david \u2014 24.2M TDH",
+          "label": "#2 david \u2014 24.3M TDH",
           "type": "image"
         }
       ]
@@ -125,20 +125,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
+      "headline": "#6 blake69 \u2014 306K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (306K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "10 Sales Today - 0.63 ETH Volume",
-      "summary": "10 sales in 24h for 0.63 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
+      "headline": "8 Sales Today - 0.46 ETH Volume",
+      "summary": "8 sales in 24h for 0.46 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -166,12 +166,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "10",
+          "value": "8",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.63",
+          "value": "0.46",
           "sub": "ETH"
         },
         {
@@ -190,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.63 ETH",
-      "raw": 0.6323,
-      "delta": 0.30589999999999995,
-      "delta_fmt": "+93.7%"
+      "value": "0.46 ETH",
+      "raw": 0.4642,
+      "delta": 0.13779999999999998,
+      "delta_fmt": "+42.2%"
     },
     {
       "label": "7d Vol",
-      "value": "4.95 ETH",
-      "raw": 4.9491
+      "value": "4.97 ETH",
+      "raw": 4.9701
     },
     {
       "label": "30d Vol",
-      "value": "44.26 ETH",
-      "raw": 44.2639
+      "value": "44.28 ETH",
+      "raw": 44.2849
     },
     {
       "label": "Full Set Bid",
-      "value": "37.0 ETH",
-      "raw": 37.0,
-      "delta": -1.0900000000000034,
-      "delta_fmt": "-1.09 ETH"
+      "value": "37.5 ETH",
+      "raw": 37.46,
+      "delta": 0.46000000000000085,
+      "delta_fmt": "+0.46 ETH"
     },
     {
       "label": "Full Set",
@@ -234,10 +234,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
+    "DIVE BAR: 232 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: MAYBE (92 MSGS) | AEZY (57) | JAMESANDREW (45)",
-    "DIVE BAR: 234 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (93 MSGS) | AEZY (57) | DOUGFRIESEN (41)"
   ]
 }
