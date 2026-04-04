@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T05:40:12.683844+00:00",
+  "generated_at": "2026-04-04T06:41:06.582212+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -138,13 +138,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 302K TDH",
-      "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (302K) | Gsen (149K)",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (303K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (302K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -220,10 +220,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.9 ETH",
-      "raw": 37.9,
-      "delta": -0.20000000000000284,
-      "delta_fmt": "-0.20 ETH"
+      "value": "36.6 ETH",
+      "raw": 36.58,
+      "delta": -1.3200000000000003,
+      "delta_fmt": "-1.32 ETH"
     },
     {
       "label": "Full Set",
@@ -243,16 +243,14 @@
     {
       "label": "#1 Sert",
       "value": "60.7M TDH",
-      "raw": 60746965,
-      "delta": 95149,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 60746965
     }
   ],
   "headline_extras": [
-    "PUNK6529: 3 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 3 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 77 MSGS IN LAST 6H",
     "CARD #478: 129 MINTS (EXCL. MUSEUM) | 96 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: MAYBE (87 MSGS) | AEZY (62) | KRISTOPHER (46)",
-    "DIVE BAR: 77 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (87 MSGS) | AEZY (63) | KRISTOPHER (46)"
   ]
 }
