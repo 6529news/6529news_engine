@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T10:34:11.401354+00:00",
+  "generated_at": "2026-04-04T11:05:41.961103+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Sert Leads with 65.3M Projected TDH",
-      "summary": "\"6529 NEWS\" by Sert (65.3M projected TDH, 81 voters) | \"Credo quia absurdum\" by Guidodisalle (46.6M projected TDH, 122 voters) | \"The Sacrifice of the Memes\" by Bicasso (31.1M projected TDH, 21 voters) Next selection: Mon Apr 06 at 17:00 CET.",
+      "summary": "\"6529 NEWS\" by Sert (65.3M projected TDH, 81 voters) | \"Credo quia absurdum\" by Guidodisalle (46.6M projected TDH, 122 voters) | \"The Sacrifice of the Memes\" by Bicasso (31.1M projected TDH, 22 voters) Next selection: Mon Apr 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -53,7 +53,7 @@
         {
           "label": "Bicasso",
           "value": "31.1M",
-          "sub": "proj. (21 votes)"
+          "sub": "proj. (22 votes)"
         }
       ]
     },
@@ -73,30 +73,30 @@
     {
       "category": "MUSEUM SIGNERS",
       "headline": "HugoFaz Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 HugoFaz (33.9M TDH, 27 voters) | #2 david (24.2M TDH, 26 voters) | #3 maybe (20.9M TDH, 19 voters)",
+      "summary": "Top candidates: #1 HugoFaz (34.0M TDH, 28 voters) | #2 david (24.2M TDH, 27 voters) | #3 maybe (21.0M TDH, 20 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "dataBoxes": [
         {
           "label": "HugoFaz",
-          "value": "33.9M",
-          "sub": "27 voters"
+          "value": "34.0M",
+          "sub": "28 voters"
         },
         {
           "label": "david",
           "value": "24.2M",
-          "sub": "26 voters"
+          "sub": "27 voters"
         },
         {
           "label": "maybe",
-          "value": "20.9M",
-          "sub": "19 voters"
+          "value": "21.0M",
+          "sub": "20 voters"
         }
       ],
       "images": [
         {
           "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-          "label": "#1 HugoFaz \u2014 33.9M TDH",
+          "label": "#1 HugoFaz \u2014 34.0M TDH",
           "type": "image"
         },
         {
@@ -138,13 +138,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 306K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (306K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -220,20 +220,24 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.4 ETH",
-      "raw": 37.39,
-      "delta": -0.240000000000002,
-      "delta_fmt": "-0.24 ETH"
+      "value": "37.1 ETH",
+      "raw": 37.11,
+      "delta": -0.28000000000000114,
+      "delta_fmt": "-0.28 ETH"
     },
     {
       "label": "Full Set",
-      "value": "53",
-      "raw": 53
+      "value": "54",
+      "raw": 54,
+      "delta": 1,
+      "delta_fmt": "+1"
     },
     {
       "label": "Holders",
-      "value": "10,157",
-      "raw": 10157
+      "value": "10,158",
+      "raw": 10158,
+      "delta": 1,
+      "delta_fmt": "+1"
     },
     {
       "label": "Network TDH",
@@ -243,16 +247,14 @@
     {
       "label": "#1 Sert",
       "value": "65.3M TDH",
-      "raw": 65308201,
-      "delta": 4561236,
-      "delta_fmt": "+4.6M TDH"
+      "raw": 65308201
     }
   ],
   "headline_extras": [
-    "PUNK6529: 3 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 3 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 56 MSGS IN LAST 6H",
     "CARD #478: 130 MINTS (EXCL. MUSEUM) | 97 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: MAYBE (87 MSGS) | AEZY (64) | KRISTOPHER (46)",
-    "DIVE BAR: 56 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (87 MSGS) | AEZY (64) | KRISTOPHER (46)"
   ]
 }
