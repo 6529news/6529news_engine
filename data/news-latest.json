@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T04:26:33.091118+00:00",
+  "generated_at": "2026-04-04T05:40:12.683844+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Sert Leads with 60.7M Projected TDH",
-      "summary": "\"6529 NEWS\" by Sert (60.7M projected TDH, 77 voters) | \"Credo quia absurdum\" by Guidodisalle (46.6M projected TDH, 122 voters) | \"The Sacrifice of the Memes\" by Bicasso (30.7M projected TDH, 19 voters) Next selection: Mon Apr 06 at 17:00 CET.",
+      "summary": "\"6529 NEWS\" by Sert (60.7M projected TDH, 78 voters) | \"Credo quia absurdum\" by Guidodisalle (46.6M projected TDH, 122 voters) | \"The Sacrifice of the Memes\" by Bicasso (30.7M projected TDH, 19 voters) Next selection: Mon Apr 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Sert",
           "value": "60.7M",
-          "sub": "proj. (77 votes)"
+          "sub": "proj. (78 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -73,7 +73,7 @@
     {
       "category": "MUSEUM SIGNERS",
       "headline": "HugoFaz Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 HugoFaz (33.9M TDH, 27 voters) | #2 david (24.1M TDH, 25 voters) | #3 maybe (20.8M TDH, 18 voters)",
+      "summary": "Top candidates: #1 HugoFaz (33.9M TDH, 27 voters) | #2 david (24.1M TDH, 25 voters) | #3 maybe (20.9M TDH, 18 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "dataBoxes": [
@@ -89,7 +89,7 @@
         },
         {
           "label": "maybe",
-          "value": "20.8M",
+          "value": "20.9M",
           "sub": "18 voters"
         }
       ],
@@ -138,13 +138,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#6 blake69 \u2014 302K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (302K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (302K)",
         "type": "image"
       }
     },
@@ -205,8 +205,8 @@
       "label": "24h Vol",
       "value": "0.63 ETH",
       "raw": 0.6338,
-      "delta": -0.24209999999999998,
-      "delta_fmt": "-27.6%"
+      "delta": -0.028299999999999992,
+      "delta_fmt": "-4.3%"
     },
     {
       "label": "7d Vol",
@@ -220,10 +220,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.1 ETH",
-      "raw": 38.1,
-      "delta": -0.36999999999999744,
-      "delta_fmt": "-0.37 ETH"
+      "value": "37.9 ETH",
+      "raw": 37.9,
+      "delta": -0.20000000000000284,
+      "delta_fmt": "-0.20 ETH"
     },
     {
       "label": "Full Set",
@@ -243,14 +243,16 @@
     {
       "label": "#1 Sert",
       "value": "60.7M TDH",
-      "raw": 60651816
+      "raw": 60746965,
+      "delta": 95149,
+      "delta_fmt": "+0.1M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529: 3 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #478: 128 MINTS (EXCL. MUSEUM) | 96 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: MAYBE (85 MSGS) | AEZY (63) | KRISTOPHER (46)",
-    "DIVE BAR: 76 MSGS IN LAST 6H"
+    "PUNK6529: 3 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 75 MSGS IN LAST 6H",
+    "CARD #478: 129 MINTS (EXCL. MUSEUM) | 96 HOLDERS | NETWORK FOR GOOD ",
+    "ACTIVE TODAY: MAYBE (87 MSGS) | AEZY (62) | KRISTOPHER (46)"
   ]
 }
