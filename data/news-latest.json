@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T12:02:22.454428+00:00",
+  "generated_at": "2026-04-04T13:20:47.027934+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Sert Leads with 73.9M Projected TDH",
-      "summary": "\"6529 NEWS\" by Sert (73.9M projected TDH, 82 voters) | \"Credo quia absurdum\" by Guidodisalle (46.6M projected TDH, 122 voters) | \"The Sacrifice of the Memes\" by Bicasso (31.1M projected TDH, 22 voters) Next selection: Mon Apr 06 at 17:00 CET.",
+      "summary": "\"6529 NEWS\" by Sert (73.9M projected TDH, 82 voters) | \"Credo quia absurdum\" by Guidodisalle (46.6M projected TDH, 123 voters) | \"The Sacrifice of the Memes\" by Bicasso (31.1M projected TDH, 23 voters) Next selection: Mon Apr 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,12 +48,12 @@
         {
           "label": "Guidodisalle",
           "value": "46.6M",
-          "sub": "proj. (122 votes)"
+          "sub": "proj. (123 votes)"
         },
         {
           "label": "Bicasso",
           "value": "31.1M",
-          "sub": "proj. (22 votes)"
+          "sub": "proj. (23 votes)"
         }
       ]
     },
@@ -138,20 +138,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#6 blake69 \u2014 306K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (306K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 0.69 ETH Volume",
-      "summary": "11 sales in 24h for 0.69 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
+      "headline": "10 Sales Today - 0.63 ETH Volume",
+      "summary": "10 sales in 24h for 0.63 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -179,12 +179,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "10",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.69",
+          "value": "0.63",
           "sub": "ETH"
         },
         {
@@ -203,15 +203,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.69 ETH",
-      "raw": 0.6926,
-      "delta": -0.10560000000000003,
-      "delta_fmt": "-13.2%"
+      "value": "0.63 ETH",
+      "raw": 0.6323,
+      "delta": 0.2349,
+      "delta_fmt": "+59.1%"
     },
     {
       "label": "7d Vol",
-      "value": "5.24 ETH",
-      "raw": 5.2445
+      "value": "5.07 ETH",
+      "raw": 5.0677
     },
     {
       "label": "30d Vol",
@@ -241,16 +241,14 @@
     {
       "label": "#1 Sert",
       "value": "73.9M TDH",
-      "raw": 73903320,
-      "delta": 192,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 73903320
     }
   ],
   "headline_extras": [
-    "PUNK6529: 3 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #478: 134 MINTS (EXCL. MUSEUM) | 97 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: MAYBE (87 MSGS) | AEZY (63) | KRISTOPHER (46)",
-    "DIVE BAR: 57 MSGS IN LAST 6H"
+    "PUNK6529: 3 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 78 MSGS IN LAST 6H",
+    "CARD #478: 140 MINTS (EXCL. MUSEUM) | 97 HOLDERS | NETWORK FOR GOOD ",
+    "ACTIVE TODAY: MAYBE (87 MSGS) | AEZY (62) | KRISTOPHER (46)"
   ]
 }
