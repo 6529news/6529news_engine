@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T16:02:57.861252+00:00",
+  "generated_at": "2026-04-04T16:53:34.419558+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Sert Leads with 74.0M Projected TDH",
-      "summary": "\"6529 NEWS\" by Sert (74.0M projected TDH, 85 voters) | \"Credo quia absurdum\" by Guidodisalle (46.8M projected TDH, 123 voters) | \"The Sacrifice of the Memes\" by Bicasso (31.1M projected TDH, 24 voters) Next selection: Mon Apr 06 at 17:00 CET.",
+      "summary": "\"6529 NEWS\" by Sert (74.0M projected TDH, 85 voters) | \"Credo quia absurdum\" by Guidodisalle (46.8M projected TDH, 123 voters) | \"The Sacrifice of the Memes\" by Bicasso (31.2M projected TDH, 25 voters) Next selection: Mon Apr 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,8 +39,8 @@
         },
         {
           "label": "Bicasso",
-          "value": "31.1M",
-          "sub": "proj. (24 votes)"
+          "value": "31.2M",
+          "sub": "proj. (25 votes)"
         }
       ]
     },
@@ -125,13 +125,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       }
     },
@@ -197,20 +197,20 @@
     },
     {
       "label": "7d Vol",
-      "value": "5.05 ETH",
-      "raw": 5.0476
+      "value": "4.95 ETH",
+      "raw": 4.9491
     },
     {
       "label": "30d Vol",
-      "value": "44.36 ETH",
-      "raw": 44.3624
+      "value": "44.26 ETH",
+      "raw": 44.2639
     },
     {
       "label": "Full Set Bid",
-      "value": "38.1 ETH",
-      "raw": 38.09,
-      "delta": 0.36000000000000654,
-      "delta_fmt": "+0.36 ETH"
+      "value": "37.0 ETH",
+      "raw": 37.0,
+      "delta": -1.0900000000000034,
+      "delta_fmt": "-1.09 ETH"
     },
     {
       "label": "Full Set",
@@ -230,16 +230,14 @@
     {
       "label": "#1 Sert",
       "value": "74.0M TDH",
-      "raw": 73992672,
-      "delta": 10000,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 73992672
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
+    "DIVE BAR: 238 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: MAYBE (91 MSGS) | AEZY (66) | JAMESANDREW (50)",
-    "DIVE BAR: 238 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (92 MSGS) | AEZY (57) | JAMESANDREW (45)"
   ]
 }
