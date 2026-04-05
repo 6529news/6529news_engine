@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T13:58:30.395107+00:00",
+  "generated_at": "2026-04-05T14:44:00.445775+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -125,32 +125,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "Articulate Leads with 2.2M TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529 Active in maybe's dive bar",
-      "summary": "Active in maybe's dive bar.",
-      "source": "maybe's dive bar",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
-      "headline": "38 Sales Today - 1.31 ETH Volume",
-      "summary": "38 sales in 24h for 1.31 ETH. Highest: \"A Memelionaire\u2019s Adventure\" at 0.148 ETH.",
+      "headline": "40 Sales Today - 1.34 ETH Volume",
+      "summary": "40 sales in 24h for 1.34 ETH. Highest: \"A Memelionaire\u2019s Adventure\" at 0.148 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -178,12 +166,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "38",
+          "value": "40",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.31",
+          "value": "1.34",
           "sub": "ETH"
         },
         {
@@ -193,7 +181,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01689999",
+          "value": "0.016894979999999997",
           "sub": "ETH"
         }
       ]
@@ -202,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.31 ETH",
-      "raw": 1.3092,
-      "delta": 0.6769,
-      "delta_fmt": "+107.1%"
+      "value": "1.34 ETH",
+      "raw": 1.3447,
+      "delta": 0.7124,
+      "delta_fmt": "+112.7%"
     },
     {
       "label": "7d Vol",
-      "value": "5.91 ETH",
-      "raw": 5.9078
+      "value": "5.94 ETH",
+      "raw": 5.9433
     },
     {
       "label": "30d Vol",
-      "value": "44.91 ETH",
-      "raw": 44.9077
+      "value": "44.94 ETH",
+      "raw": 44.9432
     },
     {
       "label": "Full Set Bid",
       "value": "37.4 ETH",
-      "raw": 37.44,
-      "delta": 0.14999999999999858,
-      "delta_fmt": "+0.15 ETH"
+      "raw": 37.39,
+      "delta": -0.04999999999999716,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Full Set",
@@ -242,16 +230,14 @@
     {
       "label": "#1 Sert",
       "value": "75.5M TDH",
-      "raw": 75480700,
-      "delta": 204,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 75480700
     }
   ],
   "headline_extras": [
-    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 128 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: ONLYMEMES (82 MSGS) | AEZY (80) | BLAKE69 (47)",
-    "DIVE BAR: 131 MSGS IN LAST 6H"
+    "ACTIVE TODAY: ONLYMEMES (82 MSGS) | AEZY (80) | BLAKE69 (47)"
   ]
 }
