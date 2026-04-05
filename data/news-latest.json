@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T10:03:55.163902+00:00",
+  "generated_at": "2026-04-05T10:55:33.224856+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -125,20 +125,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "Articulate Leads with 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 1.23 ETH Volume",
-      "summary": "28 sales in 24h for 1.23 ETH. Highest: \"A Memelionaire\u2019s Adventure\" at 0.148 ETH.",
+      "headline": "27 Sales Today - 1.06 ETH Volume",
+      "summary": "27 sales in 24h for 1.06 ETH. Highest: \"A Memelionaire\u2019s Adventure\" at 0.148 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -153,25 +153,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/196.WEBP",
-          "label": "Hunted - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/450.WEBP",
+          "label": "A Node from the Outer Rim - 0.077 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/341.WEBP",
-          "label": "Decentralization of Independence - 0.069 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/196.WEBP",
+          "label": "Hunted - 0.070 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "28",
+          "value": "27",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.23",
+          "value": "1.06",
           "sub": "ETH"
         },
         {
@@ -190,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.23 ETH",
-      "raw": 1.234,
-      "delta": 0.5273,
-      "delta_fmt": "+74.6%"
+      "value": "1.06 ETH",
+      "raw": 1.0554,
+      "delta": 0.3486999999999999,
+      "delta_fmt": "+49.3%"
     },
     {
       "label": "7d Vol",
-      "value": "5.58 ETH",
-      "raw": 5.5771
+      "value": "5.60 ETH",
+      "raw": 5.6
     },
     {
       "label": "30d Vol",
-      "value": "44.52 ETH",
-      "raw": 44.5215
+      "value": "44.61 ETH",
+      "raw": 44.6093
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH",
-      "raw": 38.33,
-      "delta": -0.2700000000000031,
-      "delta_fmt": "-0.27 ETH"
+      "value": "38.5 ETH",
+      "raw": 38.47,
+      "delta": 0.14000000000000057,
+      "delta_fmt": "+0.14 ETH"
     },
     {
       "label": "Full Set",
@@ -234,10 +234,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
+    "DIVE BAR: 259 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: ONLYMEMES (95 MSGS) | AEZY (81) | BLAKE69 (50)",
-    "DIVE BAR: 247 MSGS IN LAST 6H"
+    "ACTIVE TODAY: ONLYMEMES (95 MSGS) | AEZY (80) | BLAKE69 (53)"
   ]
 }
