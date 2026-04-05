@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T00:01:34.537902+00:00",
+  "generated_at": "2026-04-05T03:37:09.850417+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Sert Leads with 75.4M Projected TDH",
-      "summary": "\"6529 NEWS\" by Sert (75.4M projected TDH, 86 voters) | \"Credo quia absurdum\" by Guidodisalle (46.8M projected TDH, 123 voters) | \"The Sacrifice of the Memes\" by Bicasso (31.2M projected TDH, 26 voters) Next selection: Mon Apr 06 at 17:00 CET.",
+      "headline": "Sert Leads with 75.5M Projected TDH",
+      "summary": "\"6529 NEWS\" by Sert (75.5M projected TDH, 87 voters) | \"Credo quia absurdum\" by Guidodisalle (46.8M projected TDH, 123 voters) | \"The Sacrifice of the Memes\" by Bicasso (31.2M projected TDH, 26 voters) Next selection: Mon Apr 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "Sert",
-          "value": "75.4M",
-          "sub": "proj. (86 votes)"
+          "value": "75.5M",
+          "sub": "proj. (87 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -60,7 +60,7 @@
     {
       "category": "MUSEUM SIGNERS",
       "headline": "HugoFaz Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 HugoFaz (34.0M TDH, 29 voters) | #2 david (24.5M TDH, 28 voters) | #3 maybe (21.2M TDH, 23 voters)",
+      "summary": "Top candidates: #1 HugoFaz (34.0M TDH, 29 voters) | #2 david (24.7M TDH, 28 voters) | #3 maybe (21.2M TDH, 23 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "dataBoxes": [
@@ -71,7 +71,7 @@
         },
         {
           "label": "david",
-          "value": "24.5M",
+          "value": "24.7M",
           "sub": "28 voters"
         },
         {
@@ -88,7 +88,7 @@
         },
         {
           "url": "https://dweb.link/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
-          "label": "#2 david \u2014 24.5M TDH",
+          "label": "#2 david \u2014 24.7M TDH",
           "type": "image"
         }
       ]
@@ -96,7 +96,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "45 New Memes Submissions This Week",
-      "summary": "45 submissions this week. Ranking: Nrsin (28.6M) | fercaggiano (16.1M) | RalenArc (11.3M) | Josei (10.9M) | Zoku (9.7M) | RegularDad (8.5M) | maybe (7.4M) | JamesAndrew (6.9M).",
+      "summary": "45 submissions this week. Ranking: Nrsin (28.6M) | fercaggiano (16.1M) | RalenArc (11.3M) | Josei (11.0M) | Zoku (9.7M) | RegularDad (8.5M) | maybe (7.4M) | JamesAndrew (6.9M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -125,20 +125,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 1.10 ETH Volume",
-      "summary": "21 sales in 24h for 1.10 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
+      "headline": "27 Sales Today - 1.21 ETH Volume",
+      "summary": "27 sales in 24h for 1.21 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -166,12 +166,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "27",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.10",
+          "value": "1.21",
           "sub": "ETH"
         },
         {
@@ -181,7 +181,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01688999",
+          "value": "0.0169",
           "sub": "ETH"
         }
       ]
@@ -190,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.10 ETH",
-      "raw": 1.0983,
-      "delta": 0.5275000000000001,
-      "delta_fmt": "+92.4%"
+      "value": "1.21 ETH",
+      "raw": 1.2069,
+      "delta": 0.5731,
+      "delta_fmt": "+90.4%"
     },
     {
       "label": "7d Vol",
-      "value": "5.43 ETH",
-      "raw": 5.4339
+      "value": "5.55 ETH",
+      "raw": 5.55
     },
     {
       "label": "30d Vol",
-      "value": "44.97 ETH",
-      "raw": 44.9743
+      "value": "44.49 ETH",
+      "raw": 44.4944
     },
     {
       "label": "Full Set Bid",
-      "value": "37.3 ETH",
-      "raw": 37.29,
-      "delta": -0.259999999999998,
-      "delta_fmt": "-0.26 ETH"
+      "value": "37.9 ETH",
+      "raw": 37.92,
+      "delta": 0.6300000000000026,
+      "delta_fmt": "+0.63 ETH"
     },
     {
       "label": "Full Set",
@@ -224,20 +224,24 @@
     },
     {
       "label": "Network TDH",
-      "value": "1462.4M",
-      "raw": 1462396192
+      "value": "1464.9M",
+      "raw": 1464942652,
+      "delta": 2546460,
+      "delta_fmt": "+2.5M TDH"
     },
     {
       "label": "#1 Sert",
-      "value": "75.4M TDH",
-      "raw": 75391858
+      "value": "75.5M TDH",
+      "raw": 75464452,
+      "delta": 72594,
+      "delta_fmt": "+0.1M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
+    "DIVE BAR: 78 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: AEZY (55 MSGS) | BLAKE69 (38) | JAMESANDREW (37)",
-    "DIVE BAR: 157 MSGS IN LAST 6H"
+    "ACTIVE TODAY: AEZY (55 MSGS) | MAYBE (39) | BLAKE69 (38)"
   ]
 }
