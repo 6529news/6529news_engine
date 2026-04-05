@@ -136,6 +136,18 @@
       }
     },
     {
+      "category": "6529 TALKS",
+      "headline": "punk6529 Active in maybe's dive bar",
+      "summary": "Active in maybe's dive bar.",
+      "source": "maybe's dive bar",
+      "link": "https://6529.io/punk6529",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
+        "label": "punk6529"
+      },
+      "dataBoxes": null
+    },
+    {
       "category": "SALES RECAP",
       "headline": "27 Sales Today - 1.07 ETH Volume",
       "summary": "27 sales in 24h for 1.07 ETH. Highest: \"A Memelionaire\u2019s Adventure\" at 0.148 ETH.",
@@ -234,10 +246,10 @@
     }
   ],
   "headline_extras": [
+    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
-    "DIVE BAR: 126 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: ONLYMEMES (95 MSGS) | AEZY (83) | BLAKE69 (52)"
+    "ACTIVE TODAY: ONLYMEMES (95 MSGS) | AEZY (83) | BLAKE69 (52)",
+    "DIVE BAR: 132 MSGS IN LAST 6H"
   ]
 }
