@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T17:16:23.857555+00:00",
+  "generated_at": "2026-04-05T17:57:56.687767+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -95,8 +95,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "45 New Memes Submissions This Week",
-      "summary": "45 submissions this week. Ranking: Nrsin (28.6M) | fercaggiano (16.1M) | RalenArc (11.3M) | Josei (11.0M) | Zoku (9.7M) | RegularDad (8.5M) | maybe (7.4M) | JamesAndrew (7.0M).",
+      "headline": "44 New Memes Submissions This Week",
+      "summary": "44 submissions this week. Ranking: Nrsin (28.6M) | fercaggiano (16.1M) | RalenArc (11.3M) | Josei (11.0M) | Zoku (9.7M) | RegularDad (8.5M) | maybe (7.4M) | JamesAndrew (7.0M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -125,13 +125,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "Articulate Leads with 2.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -181,7 +181,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01689499",
+          "value": "0.016894979999999997",
           "sub": "ETH"
         }
       ]
@@ -192,8 +192,8 @@
       "label": "24h Vol",
       "value": "1.45 ETH",
       "raw": 1.4474,
-      "delta": 0.9832000000000001,
-      "delta_fmt": "+211.8%"
+      "delta": 0.9332,
+      "delta_fmt": "+181.5%"
     },
     {
       "label": "7d Vol",
@@ -207,10 +207,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.9 ETH",
-      "raw": 37.88,
-      "delta": -0.5799999999999983,
-      "delta_fmt": "-0.58 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.41,
+      "delta": 0.529999999999994,
+      "delta_fmt": "+0.53 ETH"
     },
     {
       "label": "Full Set",
@@ -234,10 +234,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 119 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: ONLYMEMES (82 MSGS) | AEZY (64) | GRAFFITIONGRAVE (47)",
-    "DIVE BAR: 114 MSGS IN LAST 6H"
+    "ACTIVE TODAY: ONLYMEMES (82 MSGS) | AEZY (64) | GRAFFITIONGRAVE (47)"
   ]
 }
