@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T17:57:56.687767+00:00",
+  "generated_at": "2026-04-05T18:55:19.398439+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Sert Leads with 75.5M Projected TDH",
-      "summary": "\"6529 NEWS\" by Sert (75.5M projected TDH, 88 voters) | \"Credo quia absurdum\" by Guidodisalle (46.8M projected TDH, 123 voters) | \"The Sacrifice of the Memes\" by Bicasso (31.2M projected TDH, 27 voters) Next selection: Mon Apr 06 at 17:00 CET.",
+      "headline": "Sert Leads with 75.9M Projected TDH",
+      "summary": "\"6529 NEWS\" by Sert (75.9M projected TDH, 89 voters) | \"Credo quia absurdum\" by Guidodisalle (46.8M projected TDH, 123 voters) | \"The Sacrifice of the Memes\" by Bicasso (31.2M projected TDH, 27 voters) Next selection: Mon Apr 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "Sert",
-          "value": "75.5M",
-          "sub": "proj. (88 votes)"
+          "value": "75.9M",
+          "sub": "proj. (89 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -137,8 +137,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "43 Sales Today - 1.45 ETH Volume",
-      "summary": "43 sales in 24h for 1.45 ETH. Highest: \"A Memelionaire\u2019s Adventure\" at 0.148 ETH.",
+      "headline": "43 Sales Today - 1.50 ETH Volume",
+      "summary": "43 sales in 24h for 1.50 ETH. Highest: \"A Memelionaire\u2019s Adventure\" at 0.148 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -171,7 +171,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.45",
+          "value": "1.50",
           "sub": "ETH"
         },
         {
@@ -190,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.45 ETH",
-      "raw": 1.4474,
-      "delta": 0.9332,
-      "delta_fmt": "+181.5%"
+      "value": "1.50 ETH",
+      "raw": 1.4964,
+      "delta": 0.9822,
+      "delta_fmt": "+191.0%"
     },
     {
       "label": "7d Vol",
-      "value": "6.05 ETH",
-      "raw": 6.046
+      "value": "6.17 ETH",
+      "raw": 6.166
     },
     {
       "label": "30d Vol",
-      "value": "45.05 ETH",
-      "raw": 45.0459
+      "value": "45.17 ETH",
+      "raw": 45.1659
     },
     {
       "label": "Full Set Bid",
       "value": "38.4 ETH",
-      "raw": 38.41,
-      "delta": 0.529999999999994,
-      "delta_fmt": "+0.53 ETH"
+      "raw": 38.36,
+      "delta": -0.04999999999999716,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Full Set",
@@ -229,15 +229,17 @@
     },
     {
       "label": "#1 Sert",
-      "value": "75.5M TDH",
-      "raw": 75480700
+      "value": "75.9M TDH",
+      "raw": 75853445,
+      "delta": 372745,
+      "delta_fmt": "+0.4M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 177 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: ONLYMEMES (82 MSGS) | AEZY (64) | GRAFFITIONGRAVE (47)",
-    "DIVE BAR: 129 MSGS IN LAST 6H"
+    "ACTIVE TODAY: ONLYMEMES (84 MSGS) | AEZY (66) | GRAFFITIONGRAVE (53)"
   ]
 }
