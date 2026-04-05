@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T22:51:47.392316+00:00",
+  "generated_at": "2026-04-05T23:33:57.811182+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING MONDAY",
-      "headline": "Minting Monday",
-      "summary": " \"AUTONOMY.EXE\" by arsonic \u2014 77.6M TDH from 100 voters. Top supporter: gpebbles (12.7M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"AUTONOMY.EXE\" by arsonic \u2014 77.6M TDH from 100 voters. Top supporter: gpebbles (12.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -207,10 +207,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.9 ETH",
-      "raw": 37.89,
-      "delta": -0.060000000000002274,
-      "delta_fmt": "-0.06 ETH"
+      "value": "38.1 ETH",
+      "raw": 38.08,
+      "delta": 0.18999999999999773,
+      "delta_fmt": "+0.19 ETH"
     },
     {
       "label": "Full Set",
@@ -234,10 +234,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 191 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: ONLYMEMES (84 MSGS) | GRAFFITIONGRAVE (53) | ROCKETGIRL (52)",
-    "DIVE BAR: 199 MSGS IN LAST 6H"
+    "ACTIVE TODAY: ONLYMEMES (84 MSGS) | GRAFFITIONGRAVE (53) | ROCKETGIRL (52)"
   ]
 }
