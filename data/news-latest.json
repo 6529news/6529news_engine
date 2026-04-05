@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T11:30:18.922070+00:00",
+  "generated_at": "2026-04-05T11:55:41.476379+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -125,13 +125,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 306K TDH",
+      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (306K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       }
     },
@@ -207,10 +207,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH",
-      "raw": 38.35,
-      "delta": -0.11999999999999744,
-      "delta_fmt": "-0.12 ETH"
+      "value": "38.6 ETH",
+      "raw": 38.65,
+      "delta": 0.29999999999999716,
+      "delta_fmt": "+0.30 ETH"
     },
     {
       "label": "Full Set",
@@ -220,9 +220,7 @@
     {
       "label": "Holders",
       "value": "10,157",
-      "raw": 10157,
-      "delta": -1,
-      "delta_fmt": "-1"
+      "raw": 10157
     },
     {
       "label": "Network TDH",
@@ -236,10 +234,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
+    "DIVE BAR: 210 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: ONLYMEMES (95 MSGS) | AEZY (80) | BLAKE69 (53)",
-    "DIVE BAR: 234 MSGS IN LAST 6H"
+    "ACTIVE TODAY: ONLYMEMES (95 MSGS) | AEZY (80) | BLAKE69 (52)"
   ]
 }
