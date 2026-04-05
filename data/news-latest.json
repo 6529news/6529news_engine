@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T08:43:23.680696+00:00",
+  "generated_at": "2026-04-05T09:25:56.182812+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -207,10 +207,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.0 ETH",
-      "raw": 38.04,
-      "delta": -0.5200000000000031,
-      "delta_fmt": "-0.52 ETH"
+      "value": "38.6 ETH",
+      "raw": 38.6,
+      "delta": 0.5600000000000023,
+      "delta_fmt": "+0.56 ETH"
     },
     {
       "label": "Full Set",
@@ -234,10 +234,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 03)",
+    "DIVE BAR: 210 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: ONLYMEMES (95 MSGS) | AEZY (65) | BLAKE69 (39)",
-    "DIVE BAR: 217 MSGS IN LAST 6H"
+    "ACTIVE TODAY: ONLYMEMES (95 MSGS) | AEZY (68) | BLAKE69 (39)"
   ]
 }
