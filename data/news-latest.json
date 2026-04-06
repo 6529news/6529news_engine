@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T13:46:42.318147+00:00",
+  "generated_at": "2026-04-06T14:47:08.259946+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -125,20 +125,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
+      "headline": "Articulate Leads with 2.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "36 Sales Today - 1.28 ETH Volume",
-      "summary": "36 sales in 24h for 1.28 ETH. Highest: \"The Institutions Are Coming\" at 0.269 ETH.",
+      "headline": "40 Sales Today - 1.38 ETH Volume",
+      "summary": "40 sales in 24h for 1.38 ETH. Highest: \"The Institutions Are Coming\" at 0.269 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -166,12 +166,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "36",
+          "value": "40",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.28",
+          "value": "1.38",
           "sub": "ETH"
         },
         {
@@ -181,7 +181,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01499999",
+          "value": "0.01459999",
           "sub": "ETH"
         }
       ]
@@ -190,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.28 ETH",
-      "raw": 1.2836,
-      "delta": -0.025599999999999845,
-      "delta_fmt": "-2.0%"
+      "value": "1.38 ETH",
+      "raw": 1.382,
+      "delta": 0.03729999999999989,
+      "delta_fmt": "+2.8%"
     },
     {
       "label": "7d Vol",
-      "value": "6.69 ETH",
-      "raw": 6.6939
+      "value": "6.79 ETH",
+      "raw": 6.7923
     },
     {
       "label": "30d Vol",
-      "value": "42.45 ETH",
-      "raw": 42.4518
+      "value": "42.55 ETH",
+      "raw": 42.5502
     },
     {
       "label": "Full Set Bid",
       "value": "37.9 ETH",
-      "raw": 37.94,
-      "delta": -0.10000000000000142,
-      "delta_fmt": "-0.10 ETH"
+      "raw": 37.93,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -230,16 +230,14 @@
     {
       "label": "#1 Sert",
       "value": "77.2M TDH",
-      "raw": 77244937,
-      "delta": 402,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 77244937
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #479: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: ROCKETGIRL (52 MSGS) | FRANKIEHGIH_ETH (35) | ZIGMARILLION (33)",
-    "DIVE BAR: 142 MSGS IN LAST 6H"
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
+    "DIVE BAR: 161 MSGS IN LAST 6H",
+    "CARD #479: 148 MINTS (EXCL. MUSEUM) | 118 HOLDERS | AUTONOMY.EXE",
+    "ACTIVE TODAY: ROCKETGIRL (52 MSGS) | FRANKIEHGIH_ETH (35) | ZIGMARILLION (33)"
   ]
 }
