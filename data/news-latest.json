@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T21:51:54.827364+00:00",
+  "generated_at": "2026-04-06T22:37:08.012171+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -109,7 +109,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "44 New Memes Submissions This Week",
-      "summary": "44 submissions this week. Ranking: fercaggiano (22.6M) | Josei (11.3M) | RalenArc (11.3M) | JoelleLB (11.3M) | Zoku (9.7M) | RegularDad (8.5M) | maybe (8.0M) | JamesAndrew (7.2M).",
+      "summary": "44 submissions this week. Ranking: fercaggiano (24.6M) | JoelleLB (13.3M) | Josei (11.3M) | RalenArc (11.3M) | Zoku (9.7M) | RegularDad (8.5M) | maybe (8.0M) | JamesAndrew (7.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -150,8 +150,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "49 Sales Today - 14.98 ETH Volume",
-      "summary": "49 sales in 24h for 14.98 ETH. Highest: \"NakamotoFreedom\" at 6.990 ETH.",
+      "headline": "50 Sales Today - 15.05 ETH Volume",
+      "summary": "50 sales in 24h for 15.05 ETH. Highest: \"NakamotoFreedom\" at 6.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -179,12 +179,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "49",
+          "value": "50",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "14.98",
+          "value": "15.05",
           "sub": "ETH"
         },
         {
@@ -203,27 +203,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "14.98 ETH",
-      "raw": 14.9756,
-      "delta": 13.5397,
-      "delta_fmt": "+942.9%"
+      "value": "15.05 ETH",
+      "raw": 15.0486,
+      "delta": 14.1746,
+      "delta_fmt": "+1621.8%"
     },
     {
       "label": "7d Vol",
-      "value": "20.42 ETH",
-      "raw": 20.4248
+      "value": "20.50 ETH",
+      "raw": 20.4978
     },
     {
       "label": "30d Vol",
-      "value": "56.35 ETH",
-      "raw": 56.3517
+      "value": "56.42 ETH",
+      "raw": 56.4247
     },
     {
       "label": "Full Set Bid",
-      "value": "38.6 ETH",
-      "raw": 38.62,
-      "delta": -0.15000000000000568,
-      "delta_fmt": "-0.15 ETH"
+      "value": "38.7 ETH",
+      "raw": 38.67,
+      "delta": 0.05000000000000426,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Full Set",
@@ -243,16 +243,14 @@
     {
       "label": "#1 Guidodisalle",
       "value": "47.7M TDH",
-      "raw": 47689734,
-      "delta": 368,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 47689734
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #479: 300 MINTS (EXCL. MUSEUM) | 220 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: AEZY (62 MSGS) | MAYBE (56) | BICASSO (45)",
-    "DIVE BAR: 435 MSGS IN LAST 6H"
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
+    "DIVE BAR: 371 MSGS IN LAST 6H",
+    "CARD #479: 300 MINTS (EXCL. MUSEUM) | 221 HOLDERS | AUTONOMY.EXE",
+    "ACTIVE TODAY: MAYBE (64 MSGS) | AEZY (62) | BICASSO (45)"
   ]
 }
