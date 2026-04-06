@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T19:41:28.763223+00:00",
+  "generated_at": "2026-04-06T20:23:59.575080+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -138,20 +138,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
+      "headline": "Articulate Leads with 2.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "44 Sales Today - 14.82 ETH Volume",
-      "summary": "44 sales in 24h for 14.82 ETH. Highest: \"NakamotoFreedom\" at 6.990 ETH.",
+      "headline": "49 Sales Today - 14.91 ETH Volume",
+      "summary": "49 sales in 24h for 14.91 ETH. Highest: \"NakamotoFreedom\" at 6.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -179,12 +179,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "44",
+          "value": "49",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "14.82",
+          "value": "14.91",
           "sub": "ETH"
         },
         {
@@ -194,7 +194,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01459999",
+          "value": "0.0169",
           "sub": "ETH"
         }
       ]
@@ -203,27 +203,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "14.82 ETH",
-      "raw": 14.823,
-      "delta": 13.326600000000001,
-      "delta_fmt": "+890.6%"
+      "value": "14.91 ETH",
+      "raw": 14.9125,
+      "delta": 13.4161,
+      "delta_fmt": "+896.6%"
     },
     {
       "label": "7d Vol",
-      "value": "20.26 ETH",
-      "raw": 20.2553
+      "value": "20.34 ETH",
+      "raw": 20.3448
     },
     {
       "label": "30d Vol",
-      "value": "56.18 ETH",
-      "raw": 56.1822
+      "value": "56.27 ETH",
+      "raw": 56.2717
     },
     {
       "label": "Full Set Bid",
-      "value": "33.0 ETH",
-      "raw": 33.03,
-      "delta": -2.6700000000000017,
-      "delta_fmt": "-2.67 ETH"
+      "value": "38.5 ETH",
+      "raw": 38.53,
+      "delta": 5.5,
+      "delta_fmt": "+5.50 ETH"
     },
     {
       "label": "Full Set",
@@ -247,10 +247,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
+    "DIVE BAR: 370 MSGS IN LAST 6H",
     "CARD #479: 300 MINTS (EXCL. MUSEUM) | 220 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: MAYBE (60 MSGS) | BICASSO (45) | GPEBBLES (42)",
-    "DIVE BAR: 378 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (56 MSGS) | BICASSO (45) | AEZY (44)"
   ]
 }
