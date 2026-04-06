@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T14:47:08.259946+00:00",
+  "generated_at": "2026-04-06T15:47:54.439234+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -125,28 +125,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "Articulate Leads with 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "40 Sales Today - 1.38 ETH Volume",
-      "summary": "40 sales in 24h for 1.38 ETH. Highest: \"The Institutions Are Coming\" at 0.269 ETH.",
+      "headline": "41 Sales Today - 7.74 ETH Volume",
+      "summary": "41 sales in 24h for 7.74 ETH. Highest: \"NakamotoFreedom\" at 6.360 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
-        "label": "The Institutions Are Coming - 0.269 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4.WEBP",
+        "label": "NakamotoFreedom - 6.360 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4.WEBP",
+          "label": "NakamotoFreedom - 6.360 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
           "label": "The Institutions Are Coming - 0.269 ETH",
@@ -156,32 +161,27 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
           "label": "6529Seizing - 0.105 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-          "label": "UncleSeize - 0.098 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "40",
+          "value": "41",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.38",
+          "value": "7.74",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.269",
-          "sub": "The Institutions Are"
+          "value": "6.360",
+          "sub": "NakamotoFreedom"
         },
         {
           "label": "Floor",
-          "value": "0.01459999",
+          "value": "0.0145",
           "sub": "ETH"
         }
       ]
@@ -190,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.38 ETH",
-      "raw": 1.382,
-      "delta": 0.03729999999999989,
-      "delta_fmt": "+2.8%"
+      "value": "7.74 ETH",
+      "raw": 7.742,
+      "delta": 6.3656,
+      "delta_fmt": "+462.5%"
     },
     {
       "label": "7d Vol",
-      "value": "6.79 ETH",
-      "raw": 6.7923
+      "value": "13.15 ETH",
+      "raw": 13.1523
     },
     {
       "label": "30d Vol",
-      "value": "42.55 ETH",
-      "raw": 42.5502
+      "value": "48.91 ETH",
+      "raw": 48.9102
     },
     {
       "label": "Full Set Bid",
-      "value": "37.9 ETH",
-      "raw": 37.93,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "38.0 ETH",
+      "raw": 37.98,
+      "delta": 0.04999999999999716,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Full Set",
@@ -234,10 +234,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #479: 148 MINTS (EXCL. MUSEUM) | 118 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: ROCKETGIRL (52 MSGS) | FRANKIEHGIH_ETH (35) | ZIGMARILLION (33)",
-    "DIVE BAR: 154 MSGS IN LAST 6H"
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
+    "DIVE BAR: 163 MSGS IN LAST 6H",
+    "CARD #479: 232 MINTS (EXCL. MUSEUM) | 197 HOLDERS | AUTONOMY.EXE",
+    "ACTIVE TODAY: ROCKETGIRL (53 MSGS) | FRANKIEHGIH_ETH (34) | ZIGMARILLION (33)"
   ]
 }
