@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T23:21:27.067643+00:00",
+  "generated_at": "2026-04-06T23:59:35.942827+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -138,13 +138,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 306K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (306K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -220,10 +220,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.6 ETH",
-      "raw": 38.58,
-      "delta": -0.09000000000000341,
-      "delta_fmt": "-0.09 ETH"
+      "value": "38.5 ETH",
+      "raw": 38.53,
+      "delta": -0.04999999999999716,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Full Set",
@@ -247,10 +247,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
+    "DIVE BAR: 279 MSGS IN LAST 6H",
     "CARD #479: 300 MINTS (EXCL. MUSEUM) | 221 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: MAYBE (70 MSGS) | AEZY (62) | BICASSO (45)",
-    "DIVE BAR: 290 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (70 MSGS) | AEZY (62) | BICASSO (45)"
   ]
 }
