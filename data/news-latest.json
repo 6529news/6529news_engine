@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T11:27:19.756490+00:00",
+  "generated_at": "2026-04-06T12:06:34.732922+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -125,13 +125,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#6 blake69 \u2014 306K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (306K)",
         "type": "image"
       }
     },
@@ -181,7 +181,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01589999",
+          "value": "0.01559998",
           "sub": "ETH"
         }
       ]
@@ -208,23 +208,19 @@
     {
       "label": "Full Set Bid",
       "value": "38.0 ETH",
-      "raw": 38.01,
-      "delta": 0.11999999999999744,
-      "delta_fmt": "+0.12 ETH"
+      "raw": 38.04,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Full Set",
       "value": "53",
-      "raw": 53,
-      "delta": -1,
-      "delta_fmt": "-1"
+      "raw": 53
     },
     {
       "label": "Holders",
       "value": "10,154",
-      "raw": 10154,
-      "delta": -3,
-      "delta_fmt": "-3"
+      "raw": 10154
     },
     {
       "label": "Network TDH",
@@ -238,10 +234,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #479: 20 MINTS (EXCL. MUSEUM) | 1 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: ROCKETGIRL (51 MSGS) | FRANKIEHGIH_ETH (37) | ZIGMARILLION (32)",
-    "DIVE BAR: 101 MSGS IN LAST 6H"
+    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 97 MSGS IN LAST 6H",
+    "CARD #479: 140 MINTS (EXCL. MUSEUM) | 108 HOLDERS | AUTONOMY.EXE",
+    "ACTIVE TODAY: ROCKETGIRL (51 MSGS) | FRANKIEHGIH_ETH (37) | ZIGMARILLION (32)"
   ]
 }
