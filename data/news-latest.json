@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T03:42:00.406851+00:00",
+  "generated_at": "2026-04-06T05:51:58.069148+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -125,20 +125,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
+      "headline": "Articulate Leads with 2.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "53 Sales Today - 1.73 ETH Volume",
-      "summary": "53 sales in 24h for 1.73 ETH. Highest: \"The Institutions Are Coming\" at 0.269 ETH.",
+      "headline": "53 Sales Today - 1.72 ETH Volume",
+      "summary": "53 sales in 24h for 1.72 ETH. Highest: \"The Institutions Are Coming\" at 0.269 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -171,7 +171,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.73",
+          "value": "1.72",
           "sub": "ETH"
         },
         {
@@ -190,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.73 ETH",
-      "raw": 1.7289,
-      "delta": 0.522,
-      "delta_fmt": "+43.3%"
+      "value": "1.72 ETH",
+      "raw": 1.7218,
+      "delta": 0.4878,
+      "delta_fmt": "+39.5%"
     },
     {
       "label": "7d Vol",
-      "value": "7.18 ETH",
-      "raw": 7.1789
+      "value": "7.20 ETH",
+      "raw": 7.1989
     },
     {
       "label": "30d Vol",
-      "value": "42.42 ETH",
-      "raw": 42.4166
+      "value": "42.44 ETH",
+      "raw": 42.4366
     },
     {
       "label": "Full Set Bid",
-      "value": "38.1 ETH",
-      "raw": 38.1,
-      "delta": 0.020000000000003126,
-      "delta_fmt": "+0.02 ETH"
+      "value": "38.2 ETH",
+      "raw": 38.24,
+      "delta": 0.14000000000000057,
+      "delta_fmt": "+0.14 ETH"
     },
     {
       "label": "Full Set",
@@ -225,23 +225,19 @@
     {
       "label": "Network TDH",
       "value": "1467.3M",
-      "raw": 1467345939,
-      "delta": 2403287,
-      "delta_fmt": "+2.4M TDH"
+      "raw": 1467345939
     },
     {
       "label": "#1 Sert",
       "value": "77.2M TDH",
-      "raw": 77243444,
-      "delta": 1320973,
-      "delta_fmt": "+1.3M TDH"
+      "raw": 77243444
     }
   ],
   "headline_extras": [
-    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 30 MSGS IN LAST 6H",
     "CARD #478: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | NETWORK FOR GOOD ",
-    "ACTIVE TODAY: ONLYMEMES (84 MSGS) | GRAFFITIONGRAVE (54) | ROCKETGIRL (52)",
-    "DIVE BAR: 30 MSGS IN LAST 6H"
+    "ACTIVE TODAY: ROCKETGIRL (52 MSGS) | ONLYMEMES (50) | FRANKIEHGIH_ETH (38)"
   ]
 }
