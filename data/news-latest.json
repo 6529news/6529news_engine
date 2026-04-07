@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T10:41:58.157472+00:00",
+  "generated_at": "2026-04-07T11:39:54.459860+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,25 +30,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Guidodisalle Leads with 47.7M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (47.7M projected TDH, 125 voters) | \"The Sacrifice of the Memes\" by Bicasso (47.7M projected TDH, 35 voters) | \"ASCENT\" by Nrsin (30.7M projected TDH, 37 voters) Next selection: Wed Apr 08 at 17:00 CET.",
+      "headline": "Bicasso Leads with 47.7M Projected TDH",
+      "summary": "\"The Sacrifice of the Memes\" by Bicasso (47.7M projected TDH, 35 voters) | \"Credo quia absurdum\" by Guidodisalle (47.7M projected TDH, 125 voters) | \"ASCENT\" by Nrsin (30.7M projected TDH, 37 voters) Next selection: Wed Apr 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e4aa2c78-c159-4625-bc64-dfb6684c814c/f98ac686-9094-4a01-98c8-4ebf23d289bc.jpg",
-        "label": "Credo quia absurdum - Guidodisalle",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_fa9740cb-1dca-47cb-93ea-c58e861aab82/2183f802-2bc6-4506-820b-e89ab5c4a1c9.png",
+        "label": "The Sacrifice of the Memes - Bicasso",
         "type": "image"
       },
       "dataBoxes": [
         {
-          "label": "Guidodisalle",
-          "value": "47.7M",
-          "sub": "proj. (125 votes)"
-        },
-        {
           "label": "Bicasso",
           "value": "47.7M",
           "sub": "proj. (35 votes)"
+        },
+        {
+          "label": "Guidodisalle",
+          "value": "47.7M",
+          "sub": "proj. (125 votes)"
         },
         {
           "label": "Nrsin",
@@ -73,13 +73,13 @@
     {
       "category": "MUSEUM SIGNERS",
       "headline": "HugoFaz Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 HugoFaz (39.1M TDH, 32 voters) | #2 david (32.9M TDH, 33 voters) | #3 maybe (23.3M TDH, 30 voters)",
+      "summary": "Top candidates: #1 HugoFaz (34.3M TDH, 32 voters) | #2 david (32.9M TDH, 33 voters) | #3 maybe (28.0M TDH, 30 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "dataBoxes": [
         {
           "label": "HugoFaz",
-          "value": "39.1M",
+          "value": "34.3M",
           "sub": "32 voters"
         },
         {
@@ -89,14 +89,14 @@
         },
         {
           "label": "maybe",
-          "value": "23.3M",
+          "value": "28.0M",
           "sub": "30 voters"
         }
       ],
       "images": [
         {
           "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-          "label": "#1 HugoFaz \u2014 39.1M TDH",
+          "label": "#1 HugoFaz \u2014 34.3M TDH",
           "type": "image"
         },
         {
@@ -138,20 +138,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 14.37 ETH Volume",
-      "summary": "28 sales in 24h for 14.37 ETH. Highest: \"NakamotoFreedom\" at 6.990 ETH.",
+      "headline": "29 Sales Today - 14.40 ETH Volume",
+      "summary": "29 sales in 24h for 14.40 ETH. Highest: \"NakamotoFreedom\" at 6.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -179,12 +179,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "28",
+          "value": "29",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "14.37",
+          "value": "14.40",
           "sub": "ETH"
         },
         {
@@ -203,37 +203,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "14.37 ETH",
-      "raw": 14.369,
-      "delta": 12.7091,
-      "delta_fmt": "+765.7%"
+      "value": "14.40 ETH",
+      "raw": 14.3951,
+      "delta": 12.735199999999999,
+      "delta_fmt": "+767.2%"
     },
     {
       "label": "7d Vol",
-      "value": "20.68 ETH",
-      "raw": 20.6819
+      "value": "20.71 ETH",
+      "raw": 20.708
     },
     {
       "label": "30d Vol",
-      "value": "54.80 ETH",
-      "raw": 54.8004
+      "value": "54.83 ETH",
+      "raw": 54.8265
     },
     {
       "label": "Full Set Bid",
-      "value": "38.0 ETH",
-      "raw": 37.95,
-      "delta": -0.6299999999999955,
-      "delta_fmt": "-0.63 ETH"
+      "value": "38.5 ETH",
+      "raw": 38.53,
+      "delta": 0.5799999999999983,
+      "delta_fmt": "+0.58 ETH"
     },
     {
       "label": "Full Set",
-      "value": "53",
-      "raw": 53
+      "value": "54",
+      "raw": 54,
+      "delta": 1,
+      "delta_fmt": "+1"
     },
     {
       "label": "Holders",
-      "value": "10,154",
-      "raw": 10154
+      "value": "10,151",
+      "raw": 10151,
+      "delta": -3,
+      "delta_fmt": "-3"
     },
     {
       "label": "Network TDH",
@@ -241,16 +245,18 @@
       "raw": 1469291297
     },
     {
-      "label": "#1 Guidodisalle",
+      "label": "#1 Bicasso",
       "value": "47.7M TDH",
-      "raw": 47689762
+      "raw": 47695636,
+      "delta": 5874,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
+    "DIVE BAR: 57 MSGS IN LAST 6H",
     "CARD #479: 300 MINTS (EXCL. MUSEUM) | 221 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: MAYBE (100 MSGS) | AEZY (65) | AWHURST (53)",
-    "DIVE BAR: 56 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (100 MSGS) | AEZY (63) | AWHURST (53)"
   ]
 }
