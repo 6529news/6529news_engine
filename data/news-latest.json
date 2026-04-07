@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T05:25:21.544248+00:00",
+  "generated_at": "2026-04-07T06:52:22.384839+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -138,20 +138,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "30 Sales Today - 14.32 ETH Volume",
-      "summary": "30 sales in 24h for 14.32 ETH. Highest: \"NakamotoFreedom\" at 6.990 ETH.",
+      "headline": "28 Sales Today - 14.40 ETH Volume",
+      "summary": "28 sales in 24h for 14.40 ETH. Highest: \"NakamotoFreedom\" at 6.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -166,25 +166,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.080 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/463.GIF",
+          "label": "still standing - 0.110 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/450.WEBP",
-          "label": "A Node from the Outer Rim - 0.077 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+          "label": "AUTONOMY.EXE - 0.080 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "30",
+          "value": "28",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "14.32",
+          "value": "14.40",
           "sub": "ETH"
         },
         {
@@ -203,27 +203,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "14.32 ETH",
-      "raw": 14.3161,
-      "delta": 12.5943,
-      "delta_fmt": "+731.5%"
+      "value": "14.40 ETH",
+      "raw": 14.3988,
+      "delta": 12.721599999999999,
+      "delta_fmt": "+758.5%"
     },
     {
       "label": "7d Vol",
-      "value": "20.61 ETH",
-      "raw": 20.6119
+      "value": "20.65 ETH",
+      "raw": 20.6519
     },
     {
       "label": "30d Vol",
-      "value": "54.58 ETH",
-      "raw": 54.5804
+      "value": "54.77 ETH",
+      "raw": 54.7704
     },
     {
       "label": "Full Set Bid",
-      "value": "38.6 ETH",
-      "raw": 38.61,
-      "delta": 1.2199999999999989,
-      "delta_fmt": "+1.22 ETH"
+      "value": "38.1 ETH",
+      "raw": 38.06,
+      "delta": -0.5499999999999972,
+      "delta_fmt": "-0.55 ETH"
     },
     {
       "label": "Full Set",
@@ -238,9 +238,7 @@
     {
       "label": "Network TDH",
       "value": "1469.3M",
-      "raw": 1469291297,
-      "delta": 1945358,
-      "delta_fmt": "+1.9M TDH"
+      "raw": 1469291297
     },
     {
       "label": "#1 Guidodisalle",
@@ -249,10 +247,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
+    "DIVE BAR: 265 MSGS IN LAST 6H",
     "CARD #479: 300 MINTS (EXCL. MUSEUM) | 221 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: MAYBE (100 MSGS) | AEZY (64) | AWHURST (53)",
-    "DIVE BAR: 265 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (100 MSGS) | AEZY (63) | AWHURST (53)"
   ]
 }
