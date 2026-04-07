@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T08:13:16.094367+00:00",
+  "generated_at": "2026-04-07T09:35:54.699232+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 47.7M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (47.7M projected TDH, 125 voters) | \"The Sacrifice of the Memes\" by Bicasso (38.0M projected TDH, 32 voters) | \"ASCENT\" by Nrsin (30.8M projected TDH, 37 voters) Next selection: Wed Apr 08 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (47.7M projected TDH, 125 voters) | \"The Sacrifice of the Memes\" by Bicasso (46.7M projected TDH, 34 voters) | \"ASCENT\" by Nrsin (30.7M projected TDH, 37 voters) Next selection: Wed Apr 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,12 +47,12 @@
         },
         {
           "label": "Bicasso",
-          "value": "38.0M",
-          "sub": "proj. (32 votes)"
+          "value": "46.7M",
+          "sub": "proj. (34 votes)"
         },
         {
           "label": "Nrsin",
-          "value": "30.8M",
+          "value": "30.7M",
           "sub": "proj. (37 votes)"
         }
       ]
@@ -109,7 +109,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "44 New Memes Submissions This Week",
-      "summary": "44 submissions this week. Ranking: fercaggiano (28.7M) | JoelleLB (16.9M) | Josei (11.3M) | RalenArc (11.3M) | Zoku (10.0M) | RegularDad (8.6M) | maybe (8.0M) | GarryB1rd (7.1M).",
+      "summary": "44 submissions this week. Ranking: fercaggiano (28.7M) | JoelleLB (17.1M) | Josei (11.3M) | RalenArc (11.3M) | Zoku (10.0M) | RegularDad (8.6M) | maybe (8.0M) | GarryB1rd (7.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -138,13 +138,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
@@ -220,10 +220,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH",
-      "raw": 38.69,
-      "delta": 0.6299999999999955,
-      "delta_fmt": "+0.63 ETH"
+      "value": "38.6 ETH",
+      "raw": 38.58,
+      "delta": -0.10999999999999943,
+      "delta_fmt": "-0.11 ETH"
     },
     {
       "label": "Full Set",
@@ -247,10 +247,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
+    "DIVE BAR: 60 MSGS IN LAST 6H",
     "CARD #479: 300 MINTS (EXCL. MUSEUM) | 221 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: MAYBE (100 MSGS) | AEZY (63) | AWHURST (53)",
-    "DIVE BAR: 61 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (100 MSGS) | AEZY (65) | AWHURST (53)"
   ]
 }
