@@ -136,18 +136,6 @@
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529 Active in maybe's dive bar",
-      "summary": "Active in maybe's dive bar.",
-      "source": "maybe's dive bar",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
       "headline": "23 Sales Today - 1.02 ETH Volume",
       "summary": "23 sales in 24h for 1.02 ETH. Highest: \"still standing\" at 0.110 ETH.",
@@ -252,6 +240,6 @@
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
     "CARD #479: 300 MINTS (EXCL. MUSEUM) | 220 HOLDERS | AUTONOMY.EXE",
     "ACTIVE TODAY: MAYBE (91 MSGS) | ROCKETGIRL (70) | JAMESANDREW (63)",
-    "DIVE BAR: 408 MSGS IN LAST 6H"
+    "DIVE BAR: 307 MSGS IN LAST 6H"
   ]
 }
