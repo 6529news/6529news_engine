@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T18:03:01.001257+00:00",
+  "generated_at": "2026-04-07T19:32:49.493140+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Bicasso Leads with 51.4M Projected TDH",
-      "summary": "\"The Sacrifice of the Memes\" by Bicasso (51.4M projected TDH, 41 voters) | \"Credo quia absurdum\" by Guidodisalle (47.4M projected TDH, 125 voters) | \"An Artist's Life\" by fercaggiano (35.6M projected TDH, 70 voters) Next selection: Wed Apr 08 at 17:00 CET.",
+      "summary": "\"The Sacrifice of the Memes\" by Bicasso (51.4M projected TDH, 42 voters) | \"Credo quia absurdum\" by Guidodisalle (47.4M projected TDH, 125 voters) | \"An Artist's Life\" by fercaggiano (35.6M projected TDH, 70 voters) Next selection: Wed Apr 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Bicasso",
           "value": "51.4M",
-          "sub": "proj. (41 votes)"
+          "sub": "proj. (42 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -125,20 +125,32 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
+      "category": "6529 TALKS",
+      "headline": "punk6529 Active in maybe's dive bar",
+      "summary": "Active in maybe's dive bar.",
+      "source": "maybe's dive bar",
+      "link": "https://6529.io/punk6529",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
+        "label": "punk6529"
+      },
+      "dataBoxes": null
+    },
+    {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.01 ETH Volume",
-      "summary": "23 sales in 24h for 1.01 ETH. Highest: \"still standing\" at 0.110 ETH.",
+      "headline": "23 Sales Today - 1.02 ETH Volume",
+      "summary": "23 sales in 24h for 1.02 ETH. Highest: \"still standing\" at 0.110 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -171,7 +183,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.01",
+          "value": "1.02",
           "sub": "ETH"
         },
         {
@@ -190,27 +202,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.01 ETH",
-      "raw": 1.0147,
-      "delta": -6.8873,
-      "delta_fmt": "-87.2%"
+      "value": "1.02 ETH",
+      "raw": 1.0152,
+      "delta": -13.8078,
+      "delta_fmt": "-93.2%"
     },
     {
       "label": "7d Vol",
-      "value": "20.59 ETH",
-      "raw": 20.5905
+      "value": "20.43 ETH",
+      "raw": 20.4257
     },
     {
       "label": "30d Vol",
-      "value": "55.18 ETH",
-      "raw": 55.1765
+      "value": "55.20 ETH",
+      "raw": 55.2023
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH",
-      "raw": 38.72,
-      "delta": 0.46000000000000085,
-      "delta_fmt": "+0.46 ETH"
+      "value": "37.8 ETH",
+      "raw": 37.81,
+      "delta": -0.9099999999999966,
+      "delta_fmt": "-0.91 ETH"
     },
     {
       "label": "Full Set",
@@ -230,14 +242,16 @@
     {
       "label": "#1 Bicasso",
       "value": "51.4M TDH",
-      "raw": 51357487
+      "raw": 51357548,
+      "delta": 61,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 409 MSGS IN LAST 6H",
     "CARD #479: 300 MINTS (EXCL. MUSEUM) | 220 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: MAYBE (82 MSGS) | AEZY (71) | JAMESANDREW (63)",
-    "DIVE BAR: 341 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (91 MSGS) | ROCKETGIRL (70) | JAMESANDREW (63)"
   ]
 }
