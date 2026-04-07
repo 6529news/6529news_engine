@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T09:35:54.699232+00:00",
+  "generated_at": "2026-04-07T10:41:58.157472+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 47.7M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (47.7M projected TDH, 125 voters) | \"The Sacrifice of the Memes\" by Bicasso (46.7M projected TDH, 34 voters) | \"ASCENT\" by Nrsin (30.7M projected TDH, 37 voters) Next selection: Wed Apr 08 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (47.7M projected TDH, 125 voters) | \"The Sacrifice of the Memes\" by Bicasso (47.7M projected TDH, 35 voters) | \"ASCENT\" by Nrsin (30.7M projected TDH, 37 voters) Next selection: Wed Apr 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "Bicasso",
-          "value": "46.7M",
-          "sub": "proj. (34 votes)"
+          "value": "47.7M",
+          "sub": "proj. (35 votes)"
         },
         {
           "label": "Nrsin",
@@ -73,19 +73,19 @@
     {
       "category": "MUSEUM SIGNERS",
       "headline": "HugoFaz Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 HugoFaz (35.6M TDH, 31 voters) | #2 david (29.4M TDH, 32 voters) | #3 maybe (23.3M TDH, 30 voters)",
+      "summary": "Top candidates: #1 HugoFaz (39.1M TDH, 32 voters) | #2 david (32.9M TDH, 33 voters) | #3 maybe (23.3M TDH, 30 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "dataBoxes": [
         {
           "label": "HugoFaz",
-          "value": "35.6M",
-          "sub": "31 voters"
+          "value": "39.1M",
+          "sub": "32 voters"
         },
         {
           "label": "david",
-          "value": "29.4M",
-          "sub": "32 voters"
+          "value": "32.9M",
+          "sub": "33 voters"
         },
         {
           "label": "maybe",
@@ -96,12 +96,12 @@
       "images": [
         {
           "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-          "label": "#1 HugoFaz \u2014 35.6M TDH",
+          "label": "#1 HugoFaz \u2014 39.1M TDH",
           "type": "image"
         },
         {
           "url": "https://dweb.link/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
-          "label": "#2 david \u2014 29.4M TDH",
+          "label": "#2 david \u2014 32.9M TDH",
           "type": "image"
         }
       ]
@@ -109,7 +109,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "44 New Memes Submissions This Week",
-      "summary": "44 submissions this week. Ranking: fercaggiano (28.7M) | JoelleLB (17.1M) | Josei (11.3M) | RalenArc (11.3M) | Zoku (10.0M) | RegularDad (8.6M) | maybe (8.0M) | GarryB1rd (7.1M).",
+      "summary": "44 submissions this week. Ranking: fercaggiano (28.7M) | JoelleLB (17.1M) | Josei (11.4M) | RalenArc (11.3M) | Zoku (10.0M) | RegularDad (8.6M) | maybe (8.0M) | GarryB1rd (7.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -138,20 +138,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 14.40 ETH Volume",
-      "summary": "28 sales in 24h for 14.40 ETH. Highest: \"NakamotoFreedom\" at 6.990 ETH.",
+      "headline": "28 Sales Today - 14.37 ETH Volume",
+      "summary": "28 sales in 24h for 14.37 ETH. Highest: \"NakamotoFreedom\" at 6.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -184,7 +184,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "14.40",
+          "value": "14.37",
           "sub": "ETH"
         },
         {
@@ -203,27 +203,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "14.40 ETH",
-      "raw": 14.3988,
-      "delta": 12.721599999999999,
-      "delta_fmt": "+758.5%"
+      "value": "14.37 ETH",
+      "raw": 14.369,
+      "delta": 12.7091,
+      "delta_fmt": "+765.7%"
     },
     {
       "label": "7d Vol",
-      "value": "20.65 ETH",
-      "raw": 20.6519
+      "value": "20.68 ETH",
+      "raw": 20.6819
     },
     {
       "label": "30d Vol",
-      "value": "54.77 ETH",
-      "raw": 54.7704
+      "value": "54.80 ETH",
+      "raw": 54.8004
     },
     {
       "label": "Full Set Bid",
-      "value": "38.6 ETH",
-      "raw": 38.58,
-      "delta": -0.10999999999999943,
-      "delta_fmt": "-0.11 ETH"
+      "value": "38.0 ETH",
+      "raw": 37.95,
+      "delta": -0.6299999999999955,
+      "delta_fmt": "-0.63 ETH"
     },
     {
       "label": "Full Set",
@@ -247,10 +247,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 05)",
+    "DIVE BAR: 52 MSGS IN LAST 6H",
     "CARD #479: 300 MINTS (EXCL. MUSEUM) | 221 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: MAYBE (100 MSGS) | AEZY (65) | AWHURST (53)",
-    "DIVE BAR: 53 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (100 MSGS) | AEZY (65) | AWHURST (53)"
   ]
 }
