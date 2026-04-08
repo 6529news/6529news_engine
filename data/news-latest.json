@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T18:17:43.574663+00:00",
+  "generated_at": "2026-04-08T19:47:19.463288+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "fercaggiano Leads with 56.6M Projected TDH",
-      "summary": "\"An Artist's Life\" by fercaggiano (56.6M projected TDH, 78 voters) | \"Credo quia absurdum\" by Guidodisalle (46.8M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (31.4M projected TDH, 62 voters) Next selection: Fri Apr 10 at 17:00 CET.",
+      "headline": "fercaggiano Leads with 64.5M Projected TDH",
+      "summary": "\"An Artist's Life\" by fercaggiano (64.5M projected TDH, 78 voters) | \"Credo quia absurdum\" by Guidodisalle (46.8M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (33.4M projected TDH, 64 voters) Next selection: Fri Apr 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "fercaggiano",
-          "value": "56.6M",
+          "value": "64.5M",
           "sub": "proj. (78 votes)"
         },
         {
@@ -52,8 +52,8 @@
         },
         {
           "label": "JoelleLB",
-          "value": "31.4M",
-          "sub": "proj. (62 votes)"
+          "value": "33.4M",
+          "sub": "proj. (64 votes)"
         }
       ]
     },
@@ -109,7 +109,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "45 New Memes Submissions This Week",
-      "summary": "45 submissions this week. Ranking: Nrsin (26.3M) | Josei (11.4M) | RalenArc (11.3M) | Zoku (9.8M) | RegularDad (8.6M) | maybe (8.0M) | lapislight (6.9M) | JamesAndrew (6.8M).",
+      "summary": "45 submissions this week. Ranking: Nrsin (27.3M) | Josei (11.4M) | RalenArc (11.3M) | Zoku (9.8M) | RegularDad (8.6M) | maybe (8.0M) | lapislight (6.9M) | JamesAndrew (6.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -138,13 +138,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       }
     },
@@ -205,7 +205,7 @@
       "label": "24h Vol",
       "value": "0.74 ETH",
       "raw": 0.7368,
-      "delta": -0.2778999999999999,
+      "delta": -0.2784000000000001,
       "delta_fmt": "-27.4%"
     },
     {
@@ -221,9 +221,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.0 ETH",
-      "raw": 39.98,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 40.0,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Full Set",
@@ -242,17 +242,17 @@
     },
     {
       "label": "#1 fercaggiano",
-      "value": "56.6M TDH",
-      "raw": 56592295,
-      "delta": 6068654,
-      "delta_fmt": "+6.1M TDH"
+      "value": "64.5M TDH",
+      "raw": 64534864,
+      "delta": 7942569,
+      "delta_fmt": "+7.9M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529: 4 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 287 MSGS IN LAST 6H",
     "CARD #480: 121 MINTS (EXCL. MUSEUM) | 90 HOLDERS | 6529 NEWS",
-    "ACTIVE TODAY: MAYBE (91 MSGS) | ZIGMARILLION (42) | BLAKE69 (27)",
-    "DIVE BAR: 276 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (82 MSGS) | ZIGMARILLION (25) | BLAKE69 (24)"
   ]
 }
