@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T19:47:19.463288+00:00",
+  "generated_at": "2026-04-08T20:42:50.715075+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "fercaggiano Leads with 64.5M Projected TDH",
-      "summary": "\"An Artist's Life\" by fercaggiano (64.5M projected TDH, 78 voters) | \"Credo quia absurdum\" by Guidodisalle (46.8M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (33.4M projected TDH, 64 voters) Next selection: Fri Apr 10 at 17:00 CET.",
+      "summary": "\"An Artist's Life\" by fercaggiano (64.5M projected TDH, 78 voters) | \"Credo quia absurdum\" by Guidodisalle (46.8M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (39.9M projected TDH, 66 voters) Next selection: Fri Apr 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -52,8 +52,8 @@
         },
         {
           "label": "JoelleLB",
-          "value": "33.4M",
-          "sub": "proj. (64 votes)"
+          "value": "39.9M",
+          "sub": "proj. (66 votes)"
         }
       ]
     },
@@ -150,8 +150,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 0.74 ETH Volume",
-      "summary": "17 sales in 24h for 0.74 ETH. Highest: \"UncleSeize\" at 0.129 ETH.",
+      "headline": "19 Sales Today - 0.83 ETH Volume",
+      "summary": "19 sales in 24h for 0.83 ETH. Highest: \"UncleSeize\" at 0.129 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -179,12 +179,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "19",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.74",
+          "value": "0.83",
           "sub": "ETH"
         },
         {
@@ -203,27 +203,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.74 ETH",
-      "raw": 0.7368,
-      "delta": -0.2784000000000001,
-      "delta_fmt": "-27.4%"
+      "value": "0.83 ETH",
+      "raw": 0.8338,
+      "delta": -0.09140000000000004,
+      "delta_fmt": "-9.9%"
     },
     {
       "label": "7d Vol",
-      "value": "20.01 ETH",
-      "raw": 20.0129
+      "value": "20.11 ETH",
+      "raw": 20.1099
     },
     {
       "label": "30d Vol",
-      "value": "55.27 ETH",
-      "raw": 55.265
+      "value": "55.36 ETH",
+      "raw": 55.362
     },
     {
       "label": "Full Set Bid",
       "value": "40.0 ETH",
-      "raw": 40.0,
-      "delta": 0.020000000000003126,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 39.99,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -243,16 +243,14 @@
     {
       "label": "#1 fercaggiano",
       "value": "64.5M TDH",
-      "raw": 64534864,
-      "delta": 7942569,
-      "delta_fmt": "+7.9M TDH"
+      "raw": 64534864
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 07)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 07)",
+    "DIVE BAR: 493 MSGS IN LAST 6H",
     "CARD #480: 121 MINTS (EXCL. MUSEUM) | 90 HOLDERS | 6529 NEWS",
-    "ACTIVE TODAY: MAYBE (82 MSGS) | ZIGMARILLION (25) | BLAKE69 (24)",
-    "DIVE BAR: 443 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (154 MSGS) | DAVID_OTHER (50) | AEZY (49)"
   ]
 }
