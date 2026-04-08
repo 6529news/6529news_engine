@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T23:37:10.569887+00:00",
+  "generated_at": "2026-04-08T01:04:10.891710+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Bicasso Leads with 53.0M Projected TDH",
-      "summary": "\"The Sacrifice of the Memes\" by Bicasso (53.0M projected TDH, 43 voters) | \"Credo quia absurdum\" by Guidodisalle (51.3M projected TDH, 125 voters) | \"An Artist's Life\" by fercaggiano (35.6M projected TDH, 71 voters) Next selection: Wed Apr 08 at 17:00 CET.",
+      "summary": "\"The Sacrifice of the Memes\" by Bicasso (53.0M projected TDH, 44 voters) | \"Credo quia absurdum\" by Guidodisalle (51.0M projected TDH, 125 voters) | \"An Artist's Life\" by fercaggiano (35.6M projected TDH, 71 voters) Next selection: Wed Apr 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,11 +30,11 @@
         {
           "label": "Bicasso",
           "value": "53.0M",
-          "sub": "proj. (43 votes)"
+          "sub": "proj. (44 votes)"
         },
         {
           "label": "Guidodisalle",
-          "value": "51.3M",
+          "value": "51.0M",
           "sub": "proj. (125 votes)"
         },
         {
@@ -60,13 +60,13 @@
     {
       "category": "MUSEUM SIGNERS",
       "headline": "maybe Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 maybe (57.7M TDH, 41 voters) | #2 HugoFaz (37.1M TDH, 39 voters) | #3 david (31.0M TDH, 37 voters)",
+      "summary": "Top candidates: #1 maybe (53.8M TDH, 41 voters) | #2 HugoFaz (37.1M TDH, 39 voters) | #3 david (35.0M TDH, 37 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "dataBoxes": [
         {
           "label": "maybe",
-          "value": "57.7M",
+          "value": "53.8M",
           "sub": "41 voters"
         },
         {
@@ -76,14 +76,14 @@
         },
         {
           "label": "david",
-          "value": "31.0M",
+          "value": "35.0M",
           "sub": "37 voters"
         }
       ],
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/12fa1870-6850-4868-84a2-57266e9b0ee4.webp?d=1727299339629",
-          "label": "#1 maybe \u2014 57.7M TDH",
+          "label": "#1 maybe \u2014 53.8M TDH",
           "type": "image"
         },
         {
@@ -125,20 +125,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "Articulate Leads with 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 0.76 ETH Volume",
-      "summary": "15 sales in 24h for 0.76 ETH. Highest: \"still standing\" at 0.110 ETH.",
+      "headline": "16 Sales Today - 0.84 ETH Volume",
+      "summary": "16 sales in 24h for 0.84 ETH. Highest: \"still standing\" at 0.110 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -153,25 +153,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/450.WEBP",
-          "label": "A Node from the Outer Rim - 0.077 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+          "label": "AUTONOMY.EXE - 0.079 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.075 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/450.WEBP",
+          "label": "A Node from the Outer Rim - 0.077 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.76",
+          "value": "0.84",
           "sub": "ETH"
         },
         {
@@ -190,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.76 ETH",
-      "raw": 0.7572,
-      "delta": -14.3064,
-      "delta_fmt": "-95.0%"
+      "value": "0.84 ETH",
+      "raw": 0.8362,
+      "delta": -14.2274,
+      "delta_fmt": "-94.4%"
     },
     {
       "label": "7d Vol",
-      "value": "20.42 ETH",
-      "raw": 20.4162
+      "value": "20.18 ETH",
+      "raw": 20.1837
     },
     {
       "label": "30d Vol",
-      "value": "55.18 ETH",
-      "raw": 55.1765
+      "value": "54.61 ETH",
+      "raw": 54.6072
     },
     {
       "label": "Full Set Bid",
       "value": "39.2 ETH",
-      "raw": 39.2,
-      "delta": 0.45000000000000284,
-      "delta_fmt": "+0.45 ETH"
+      "raw": 39.17,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Full Set",
@@ -224,22 +224,24 @@
     },
     {
       "label": "Network TDH",
-      "value": "1469.3M",
-      "raw": 1469291297
+      "value": "1471.7M",
+      "raw": 1471718902,
+      "delta": 2427605,
+      "delta_fmt": "+2.4M TDH"
     },
     {
       "label": "#1 Bicasso",
       "value": "53.0M TDH",
-      "raw": 52990236,
-      "delta": 1632688,
-      "delta_fmt": "+1.6M TDH"
+      "raw": 53032974,
+      "delta": 42738,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529: 5 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 5 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 186 MSGS IN LAST 6H",
     "CARD #479: 300 MINTS (EXCL. MUSEUM) | 220 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: MAYBE (101 MSGS) | JAMESANDREW (62) | AWHURST (52)",
-    "DIVE BAR: 244 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (105 MSGS) | JAMESANDREW (59) | AWHURST (52)"
   ]
 }
