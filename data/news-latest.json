@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T11:30:38.711544+00:00",
+  "generated_at": "2026-04-08T12:43:23.292068+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -60,18 +60,18 @@
     {
       "category": "MUSEUM SIGNERS",
       "headline": "maybe Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 maybe (53.8M TDH, 42 voters) | #2 HugoFaz (37.1M TDH, 39 voters) | #3 david (35.0M TDH, 37 voters)",
+      "summary": "Top candidates: #1 maybe (53.6M TDH, 42 voters) | #2 HugoFaz (37.3M TDH, 39 voters) | #3 david (35.0M TDH, 37 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "dataBoxes": [
         {
           "label": "maybe",
-          "value": "53.8M",
+          "value": "53.6M",
           "sub": "42 voters"
         },
         {
           "label": "HugoFaz",
-          "value": "37.1M",
+          "value": "37.3M",
           "sub": "39 voters"
         },
         {
@@ -83,12 +83,12 @@
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/12fa1870-6850-4868-84a2-57266e9b0ee4.webp?d=1727299339629",
-          "label": "#1 maybe \u2014 53.8M TDH",
+          "label": "#1 maybe \u2014 53.6M TDH",
           "type": "image"
         },
         {
           "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-          "label": "#2 HugoFaz \u2014 37.1M TDH",
+          "label": "#2 HugoFaz \u2014 37.3M TDH",
           "type": "image"
         }
       ]
@@ -125,20 +125,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 306K TDH",
+      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (306K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 0.65 ETH Volume",
-      "summary": "16 sales in 24h for 0.65 ETH. Highest: \"AUTONOMY.EXE\" at 0.079 ETH.",
+      "headline": "15 Sales Today - 0.62 ETH Volume",
+      "summary": "15 sales in 24h for 0.62 ETH. Highest: \"AUTONOMY.EXE\" at 0.079 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -166,12 +166,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.65",
+          "value": "0.62",
           "sub": "ETH"
         },
         {
@@ -190,10 +190,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.65 ETH",
-      "raw": 0.6493,
-      "delta": -13.7458,
-      "delta_fmt": "-95.5%"
+      "value": "0.62 ETH",
+      "raw": 0.6232,
+      "delta": -13.771899999999999,
+      "delta_fmt": "-95.7%"
     },
     {
       "label": "7d Vol",
@@ -208,9 +208,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.1 ETH",
-      "raw": 39.14,
-      "delta": 0.14000000000000057,
-      "delta_fmt": "+0.14 ETH"
+      "raw": 39.12,
+      "delta": -0.020000000000003126,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Full Set",
@@ -220,9 +220,7 @@
     {
       "label": "Holders",
       "value": "10,159",
-      "raw": 10159,
-      "delta": 8,
-      "delta_fmt": "+8"
+      "raw": 10159
     },
     {
       "label": "Network TDH",
@@ -232,16 +230,14 @@
     {
       "label": "#1 Bicasso",
       "value": "52.6M TDH",
-      "raw": 52579104,
-      "delta": -1058177,
-      "delta_fmt": "-1.1M TDH"
+      "raw": 52579104
     }
   ],
   "headline_extras": [
-    "PUNK6529: 5 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529: 5 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 75 MSGS IN LAST 6H",
     "CARD #480: 111 MINTS (EXCL. MUSEUM) | 79 HOLDERS | 6529 NEWS",
-    "ACTIVE TODAY: MAYBE (92 MSGS) | ZIGMARILLION (46) | ROCKETGIRL (43)",
-    "DIVE BAR: 75 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (92 MSGS) | ZIGMARILLION (46) | ROCKETGIRL (43)"
   ]
 }
