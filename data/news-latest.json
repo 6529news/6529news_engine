@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T07:46:24.317317+00:00",
+  "generated_at": "2026-04-08T09:01:26.289285+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f832f00-87b4-11ee-9d82-029a0e4b6159/31b69f46-2df8-451d-85d5-d2a4474a6812.gif",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/480.GIF",
         "label": "6529 NEWS - Sert",
         "type": "image"
       },
@@ -60,14 +60,14 @@
     {
       "category": "MUSEUM SIGNERS",
       "headline": "maybe Leads \u2014 Museum Signers",
-      "summary": "Top candidates: #1 maybe (53.8M TDH, 41 voters) | #2 HugoFaz (37.1M TDH, 39 voters) | #3 david (35.0M TDH, 37 voters)",
+      "summary": "Top candidates: #1 maybe (53.8M TDH, 42 voters) | #2 HugoFaz (37.1M TDH, 39 voters) | #3 david (35.0M TDH, 37 voters)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "dataBoxes": [
         {
           "label": "maybe",
           "value": "53.8M",
-          "sub": "41 voters"
+          "sub": "42 voters"
         },
         {
           "label": "HugoFaz",
@@ -125,13 +125,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       }
     },
@@ -181,7 +181,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0168",
+          "value": "0.0167",
           "sub": "ETH"
         }
       ]
@@ -207,10 +207,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.0 ETH",
-      "raw": 39.0,
-      "delta": 0.4799999999999969,
-      "delta_fmt": "+0.48 ETH"
+      "value": "39.1 ETH",
+      "raw": 39.07,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Full Set",
@@ -224,8 +224,10 @@
     },
     {
       "label": "Network TDH",
-      "value": "1471.7M",
-      "raw": 1471718902
+      "value": "1509.6M",
+      "raw": 1509583961,
+      "delta": 37865059,
+      "delta_fmt": "+37.9M TDH"
     },
     {
       "label": "#1 Bicasso",
@@ -234,10 +236,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529: 5 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #479: 300 MINTS (EXCL. MUSEUM) | 220 HOLDERS | AUTONOMY.EXE",
-    "ACTIVE TODAY: MAYBE (92 MSGS) | ZIGMARILLION (43) | ROCKETGIRL (43)",
-    "DIVE BAR: 77 MSGS IN LAST 6H"
+    "PUNK6529: 5 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 53 MSGS IN LAST 6H",
+    "CARD #480: 111 MINTS (EXCL. MUSEUM) | 79 HOLDERS | 6529 NEWS",
+    "ACTIVE TODAY: MAYBE (92 MSGS) | ZIGMARILLION (45) | ROCKETGIRL (43)"
   ]
 }
