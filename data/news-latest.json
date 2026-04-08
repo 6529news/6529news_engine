@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T20:42:50.715075+00:00",
+  "generated_at": "2026-04-08T21:30:39.526984+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "fercaggiano Leads with 64.5M Projected TDH",
-      "summary": "\"An Artist's Life\" by fercaggiano (64.5M projected TDH, 78 voters) | \"Credo quia absurdum\" by Guidodisalle (46.8M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (39.9M projected TDH, 66 voters) Next selection: Fri Apr 10 at 17:00 CET.",
+      "summary": "\"An Artist's Life\" by fercaggiano (64.5M projected TDH, 78 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (39.9M projected TDH, 66 voters) Next selection: Fri Apr 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,7 +47,7 @@
         },
         {
           "label": "Guidodisalle",
-          "value": "46.8M",
+          "value": "47.9M",
           "sub": "proj. (126 votes)"
         },
         {
@@ -138,20 +138,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 0.83 ETH Volume",
-      "summary": "19 sales in 24h for 0.83 ETH. Highest: \"UncleSeize\" at 0.129 ETH.",
+      "headline": "20 Sales Today - 0.94 ETH Volume",
+      "summary": "20 sales in 24h for 0.94 ETH. Highest: \"UncleSeize\" at 0.129 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -166,25 +166,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/477.GIF",
-          "label": "\u200bMEMERY CARD GAME - ALL SEASONS - 0.093 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/421.GIF",
+          "label": "inception - 0.105 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.079 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/477.GIF",
+          "label": "\u200bMEMERY CARD GAME - ALL SEASONS - 0.093 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.83",
+          "value": "0.94",
           "sub": "ETH"
         },
         {
@@ -203,27 +203,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.83 ETH",
-      "raw": 0.8338,
-      "delta": -0.09140000000000004,
-      "delta_fmt": "-9.9%"
+      "value": "0.94 ETH",
+      "raw": 0.9388,
+      "delta": 0.013599999999999945,
+      "delta_fmt": "+1.5%"
     },
     {
       "label": "7d Vol",
-      "value": "20.11 ETH",
-      "raw": 20.1099
+      "value": "20.21 ETH",
+      "raw": 20.2149
     },
     {
       "label": "30d Vol",
-      "value": "55.36 ETH",
-      "raw": 55.362
+      "value": "55.47 ETH",
+      "raw": 55.467
     },
     {
       "label": "Full Set Bid",
-      "value": "40.0 ETH",
-      "raw": 39.99,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.06,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Full Set",
@@ -247,10 +247,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 07)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 07)",
+    "DIVE BAR: 574 MSGS IN LAST 6H",
     "CARD #480: 121 MINTS (EXCL. MUSEUM) | 90 HOLDERS | 6529 NEWS",
-    "ACTIVE TODAY: MAYBE (154 MSGS) | DAVID_OTHER (50) | AEZY (49)",
-    "DIVE BAR: 576 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (164 MSGS) | AEZY (71) | DAVID_OTHER (69)"
   ]
 }
