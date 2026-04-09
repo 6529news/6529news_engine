@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T11:38:13.844661+00:00",
+  "generated_at": "2026-04-09T12:47:07.476007+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -133,13 +133,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "Articulate Leads with 2.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -200,25 +200,23 @@
       "label": "24h Vol",
       "value": "1.36 ETH",
       "raw": 1.3577,
-      "delta": 0.7083999999999999,
-      "delta_fmt": "+109.1%"
+      "delta": 0.7344999999999999,
+      "delta_fmt": "+117.9%"
     },
     {
       "label": "7d Vol",
-      "value": "20.50 ETH",
-      "raw": 20.5014
+      "value": "20.04 ETH",
+      "raw": 20.0442
     },
     {
       "label": "30d Vol",
-      "value": "53.73 ETH",
-      "raw": 53.7317
+      "value": "53.75 ETH",
+      "raw": 53.7482
     },
     {
       "label": "Full Set Bid",
       "value": "39.4 ETH",
-      "raw": 39.42,
-      "delta": -0.29999999999999716,
-      "delta_fmt": "-0.30 ETH"
+      "raw": 39.42
     },
     {
       "label": "Full Set",
@@ -228,9 +226,7 @@
     {
       "label": "Holders",
       "value": "10,157",
-      "raw": 10157,
-      "delta": -2,
-      "delta_fmt": "-2"
+      "raw": 10157
     },
     {
       "label": "Network TDH",
@@ -240,16 +236,16 @@
     {
       "label": "#1 fercaggiano",
       "value": "65.2M TDH",
-      "raw": 65209032,
-      "delta": 1,
+      "raw": 65209438,
+      "delta": 406,
       "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 07)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #480: 128 MINTS (EXCL. MUSEUM) | 94 HOLDERS | 6529 NEWS",
-    "ACTIVE TODAY: MAYBE (135 MSGS) | AEZY (72) | DAVID_OTHER (68)",
-    "DIVE BAR: 84 MSGS IN LAST 6H"
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 07)",
+    "DIVE BAR: 84 MSGS IN LAST 6H",
+    "CARD #480: 129 MINTS (EXCL. MUSEUM) | 95 HOLDERS | 6529 NEWS",
+    "ACTIVE TODAY: MAYBE (135 MSGS) | AEZY (72) | DAVID_OTHER (68)"
   ]
 }
