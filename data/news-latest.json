@@ -143,18 +143,6 @@
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529 Active in Announcements, Network Museum SAFE Signers, maybe's dive bar",
-      "summary": "Active in Announcements, Network Museum SAFE Signers, maybe's dive bar.",
-      "source": "Announcements",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
       "headline": "17 Sales Today - 0.87 ETH Volume",
       "summary": "17 sales in 24h for 0.87 ETH. Highest: \"Pepe X\" at 0.171 ETH.",
@@ -251,9 +239,9 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 ACTIVE NOW IN ANNOUNCEMENTS WITH 10 MSGS",
-    "DIVE BAR: 290 MSGS IN LAST 6H",
+    "PUNK6529: 10 MSGS IN THE LAST 24H IN ANNOUNCEMENTS",
     "CARD #480: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | 6529 NEWS",
-    "ACTIVE TODAY: JAMESANDREW (80 MSGS) | MAYBE (56) | WALASAVAGEPHOTO (55)"
+    "ACTIVE TODAY: JAMESANDREW (80 MSGS) | MAYBE (56) | WALASAVAGEPHOTO (55)",
+    "DIVE BAR: 271 MSGS IN LAST 6H"
   ]
 }
