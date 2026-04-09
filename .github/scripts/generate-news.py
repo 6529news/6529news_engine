@@ -165,8 +165,12 @@ def build_top_memes():
     }]
 
 
+MUSEUM_SIGNERS_EXPIRES = datetime(2026, 4, 23, tzinfo=timezone.utc)  # Show for 14 days
+
 def build_museum_signers():
-    """Show Museum SAFE Signers winners from wave decisions."""
+    """Show Museum SAFE Signers winners from wave decisions (temporary, 14d)."""
+    if datetime.now(timezone.utc) > MUSEUM_SIGNERS_EXPIRES:
+        return []
     print("Building Museum Signers...")
     data = fetch_json(f'https://api.6529.io/api/waves/{MUSEUM_WAVE_ID}/decisions?page_size=1')
     if not data or not data.get('data'):
