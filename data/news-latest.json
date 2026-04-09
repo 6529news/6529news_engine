@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T22:27:39.092850+00:00",
+  "generated_at": "2026-04-09T22:28:42.928945+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -132,21 +132,21 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 306K TDH",
+      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (306K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       }
     },
     {
       "category": "6529 TALKS",
-      "headline": "punk6529 Active in Network Museum SAFE Signers, maybe's dive bar, Announcements",
-      "summary": "Active in Network Museum SAFE Signers, maybe's dive bar, Announcements.",
-      "source": "Network Museum SAFE Signers",
+      "headline": "punk6529 Active in Announcements, Network Museum SAFE Signers, maybe's dive bar",
+      "summary": "Active in Announcements, Network Museum SAFE Signers, maybe's dive bar.",
+      "source": "Announcements",
       "link": "https://6529.io/punk6529",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
@@ -254,6 +254,6 @@
     "PUNK6529 ACTIVE NOW IN ANNOUNCEMENTS WITH 10 MSGS",
     "DIVE BAR: 290 MSGS IN LAST 6H",
     "CARD #480: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | 6529 NEWS",
-    "ACTIVE TODAY: JAMESANDREW (80 MSGS) | WALASAVAGEPHOTO (55) | MAYBE (55)"
+    "ACTIVE TODAY: JAMESANDREW (80 MSGS) | MAYBE (56) | WALASAVAGEPHOTO (55)"
   ]
 }
