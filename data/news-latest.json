@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T18:39:42.423758+00:00",
+  "generated_at": "2026-04-09T19:50:54.276963+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "fercaggiano Leads with 66.5M Projected TDH",
-      "summary": "\"An Artist's Life\" by fercaggiano (66.5M projected TDH, 89 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (46.0M projected TDH, 79 voters) Next selection: Fri Apr 10 at 17:00 CET.",
+      "summary": "\"An Artist's Life\" by fercaggiano (66.5M projected TDH, 90 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (46.5M projected TDH, 82 voters) Next selection: Fri Apr 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "fercaggiano",
           "value": "66.5M",
-          "sub": "proj. (89 votes)"
+          "sub": "proj. (90 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -39,8 +39,8 @@
         },
         {
           "label": "JoelleLB",
-          "value": "46.0M",
-          "sub": "proj. (79 votes)"
+          "value": "46.5M",
+          "sub": "proj. (82 votes)"
         }
       ]
     },
@@ -120,13 +120,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 306K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (306K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -203,9 +203,7 @@
     {
       "label": "Full Set Bid",
       "value": "39.8 ETH",
-      "raw": 39.82,
-      "delta": 0.18999999999999773,
-      "delta_fmt": "+0.19 ETH"
+      "raw": 39.82
     },
     {
       "label": "Full Set",
@@ -225,14 +223,16 @@
     {
       "label": "#1 fercaggiano",
       "value": "66.5M TDH",
-      "raw": 66457867
+      "raw": 66479954,
+      "delta": 22087,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 07)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 07)",
+    "DIVE BAR: 547 MSGS IN LAST 6H",
     "CARD #480: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | 6529 NEWS",
-    "ACTIVE TODAY: MAYBE (154 MSGS) | JAMESANDREW (97) | DAVID_OTHER (68)",
-    "DIVE BAR: 552 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (133 MSGS) | JAMESANDREW (97) | AEZY (78)"
   ]
 }
