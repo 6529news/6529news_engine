@@ -192,14 +192,32 @@ def build_museum_signers():
             'sub': role
         })
 
-    top = winners[0]['drop']['author']
-    headline = f"Museum Signers Elected — {top['handle']} #1"
-    summary_parts = []
-    for i, w in enumerate(winners[:4]):
+    signer1 = winners[0]['drop']['author']['handle']
+    signer2 = winners[1]['drop']['author']['handle'] if len(winners) > 1 else ''
+    headline = f"Museum Vault Signers Elected — {signer1} & {signer2}"
+
+    # Summary: alternates in text
+    alt_parts = []
+    for w in winners[2:4]:
         a = w['drop']['author']
-        role = 'Vault Signer' if i < 2 else 'Alternate'
-        summary_parts.append(f"{a['handle']} ({format_tdh(a['tdh'])}, {role})")
-    summary = "Network Museum SAFE Signers elected: " + " | ".join(summary_parts)
+        alt_parts.append(f"{a['handle']} ({format_tdh(a['tdh'])})")
+    summary = f"{signer1} and {signer2} elected as Network Museum Vault Signers."
+    if alt_parts:
+        summary += f" Alternates: {' & '.join(alt_parts)}."
+
+    # PFP images of all 4 winners
+    pfp_images = []
+    for i, w in enumerate(winners[:4]):
+        author = w['drop']['author']
+        pfp = author.get('pfp', '')
+        if pfp and pfp.startswith('ipfs://'):
+            pfp = 'https://dweb.link/ipfs/' + pfp[7:]
+        if pfp:
+            pfp_images.append({
+                'url': pfp,
+                'label': author['handle'],
+                'type': 'image'
+            })
 
     return [{
         'category': 'MUSEUM SIGNERS',
@@ -207,7 +225,8 @@ def build_museum_signers():
         'summary': summary,
         'source': 'Network Museum',
         'link': f'https://6529.io/waves/{MUSEUM_WAVE_ID}',
-        'image': None,
+        'image': pfp_images[0] if pfp_images else None,
+        'images': pfp_images,
         'dataBoxes': boxes
     }]
 
@@ -215,8 +234,11 @@ def build_museum_signers():
 # =============================================
 # NEW ANNOUNCEMENT (last 24h from Announcements wave)
 # =============================================
+# Only show announcements posted AFTER this timestamp (ignores existing ones at deploy time)
+ANNOUNCEMENTS_AFTER = 1775771000000  # 2026-04-09T21:43 UTC (after punk6529's museum signers announcement)
+
 def build_announcements():
-    """Show latest announcement if posted in last 24h."""
+    """Show latest announcement if posted in last 24h (and after ANNOUNCEMENTS_AFTER)."""
     print("Checking Announcements...")
     resp = fetch_json(f'https://api.6529.io/api/waves/{ANNOUNCEMENTS_WAVE_ID}/drops?limit=5')
     if not resp or not resp.get('drops'):
@@ -226,8 +248,8 @@ def build_announcements():
     now_ms = datetime.now(timezone.utc).timestamp() * 1000
     twenty_four_h = now_ms - 24 * 3600 * 1000
 
-    # Filter: only real announcements posted in last 24h
-    recent = [d for d in drops if d['created_at'] > twenty_four_h and d.get('drop_type') == 'CHAT']
+    # Filter: only announcements posted in last 24h AND after the cutoff
+    recent = [d for d in drops if d['created_at'] > max(twenty_four_h, ANNOUNCEMENTS_AFTER) and d.get('drop_type') == 'CHAT']
     if not recent:
         return []
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T22:18:30.017604+00:00",
+  "generated_at": "2026-04-09T22:26:03.086463+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -46,11 +46,37 @@
     },
     {
       "category": "MUSEUM SIGNERS",
-      "headline": "Museum Signers Elected \u2014 HugoFaz #1",
-      "summary": "Network Museum SAFE Signers elected: HugoFaz (5.9M, Vault Signer) | maybe (2.6M, Vault Signer) | blocknoob (7.2M, Alternate) | david (6.5M, Alternate)",
+      "headline": "Museum Vault Signers Elected \u2014 HugoFaz & maybe",
+      "summary": "HugoFaz and maybe elected as Network Museum Vault Signers. Alternates: blocknoob (7.2M) & david (6.5M).",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
-      "image": null,
+      "image": {
+        "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
+        "label": "HugoFaz",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
+          "label": "HugoFaz",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/12fa1870-6850-4868-84a2-57266e9b0ee4.webp?d=1727299339629",
+          "label": "maybe",
+          "type": "image"
+        },
+        {
+          "url": "https://dweb.link/ipfs/QmUxmk3atWP7TPtgnk6NkGL8Y3BgQaU7ig5M85bfBcSH2E",
+          "label": "blocknoob",
+          "type": "image"
+        },
+        {
+          "url": "https://dweb.link/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
+          "label": "david",
+          "type": "image"
+        }
+      ],
       "dataBoxes": [
         {
           "label": "#1 HugoFaz",
@@ -71,24 +97,6 @@
           "label": "#4 david",
           "value": "6.5M",
           "sub": "Alternate"
-        }
-      ]
-    },
-    {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by punk6529",
-      "summary": "punk6529: I would like to congratulate @maybe and @HugoFaz for their election to their term as Network Museum Vault Signers and @david and @blocknoob to their election as alternates.\n\n\nIt...",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": [
-        {
-          "label": "punk6529",
-          "value": "Lv100",
-          "sub": "65.1M TDH"
         }
       ]
     },
@@ -124,20 +132,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "Articulate Leads with 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "6529 TALKS",
-      "headline": "punk6529 Active in Announcements, maybe's dive bar, Network Museum SAFE Signers",
-      "summary": "Active in Announcements, maybe's dive bar, Network Museum SAFE Signers.",
+      "headline": "punk6529 Active in Announcements, Network Museum SAFE Signers, maybe's dive bar",
+      "summary": "Active in Announcements, Network Museum SAFE Signers, maybe's dive bar.",
       "source": "Announcements",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -219,14 +227,12 @@
     {
       "label": "#1 fercaggiano",
       "value": "65.7M TDH",
-      "raw": 65728918,
-      "delta": -751036,
-      "delta_fmt": "-0.8M TDH"
+      "raw": 65728918
     }
   ],
   "headline_extras": [
     "PUNK6529 ACTIVE NOW IN ANNOUNCEMENTS WITH 10 MSGS",
-    "DIVE BAR: 304 MSGS IN LAST 6H",
+    "DIVE BAR: 298 MSGS IN LAST 6H",
     "CARD #480: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | 6529 NEWS",
     "ACTIVE TODAY: JAMESANDREW (80 MSGS) | WALASAVAGEPHOTO (55) | MAYBE (55)"
   ]
