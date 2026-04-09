@@ -22,6 +22,8 @@ GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
 MEMES_WAVE_ID = 'b6128077-ea78-4dd9-b381-52c4eadb2077'
 SR_WAVE_ID = 'd22e3046-a00e-48b9-b245-a339a44c37cd'
 DIVEBAR_WAVE_ID = 'b38288e6-ca9d-45ce-8323-3dc5e094f04e'
+MUSEUM_WAVE_ID = 'a2ed7791-6402-4333-9780-d7af1fdce918'
+ANNOUNCEMENTS_WAVE_ID = 'da16201a-f4d0-40cf-b888-9f3a4a86a894'
 PUNK6529_HANDLE = 'punk6529'
 PUNK6529_PFP = 'https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938'
 
@@ -163,89 +165,108 @@ def build_top_memes():
     }]
 
 
-MUSEUM_WAVE_ID = 'a2ed7791-6402-4333-9780-d7af1fdce918'
-MUSEUM_EXPIRES = datetime(2026, 4, 10, tzinfo=timezone.utc)  # Show for ~7 days
-MUSEUM_CARD_IMG = 'https://6529news.github.io/6529news_engine/data/card-349.jpg'
-
-def _ipfs_to_http(url):
-    """Convert ipfs:// to gateway URL."""
-    if url and url.startswith('ipfs://'):
-        return url.replace('ipfs://', 'https://ipfs.io/ipfs/')
-    return url
-
 def build_museum_signers():
-    """Temporary cards: Museum wave announcement + leaderboard."""
-    if datetime.now(timezone.utc) > MUSEUM_EXPIRES:
+    """Show Museum SAFE Signers winners from wave decisions."""
+    print("Building Museum Signers...")
+    data = fetch_json(f'https://api.6529.io/api/waves/{MUSEUM_WAVE_ID}/decisions?page_size=1')
+    if not data or not data.get('data'):
         return []
-    print("Adding Network Museum SAFE Signers cards...")
 
-    # Card 1: Wave announcement with Wanderer of a New Era preview
-    cards = [{
-        'category': 'NEW WAVE',
-        'headline': 'Network Museum SAFE Signers',
-        'summary': 'A new wave is live to find 2 new signers + 2 alternates for the Network Museum multisig. Apply and vote now.',
+    dec = data['data'][0]
+    winners = dec.get('winners', [])
+    if not winners:
+        return []
+
+    # Build dataBoxes: first 2 = Vault Signers, next 2 = Alternates
+    boxes = []
+    for i, w in enumerate(winners[:4]):
+        author = w['drop']['author']
+        role = 'Vault Signer' if i < 2 else 'Alternate'
+        boxes.append({
+            'label': f'#{i+1} {author["handle"]}',
+            'value': format_tdh(author['tdh']),
+            'sub': role
+        })
+
+    top = winners[0]['drop']['author']
+    headline = f"Museum Signers Elected — {top['handle']} #1"
+    summary_parts = []
+    for i, w in enumerate(winners[:4]):
+        a = w['drop']['author']
+        role = 'Vault Signer' if i < 2 else 'Alternate'
+        summary_parts.append(f"{a['handle']} ({format_tdh(a['tdh'])}, {role})")
+    summary = "Network Museum SAFE Signers elected: " + " | ".join(summary_parts)
+
+    return [{
+        'category': 'MUSEUM SIGNERS',
+        'headline': headline,
+        'summary': summary,
         'source': 'Network Museum',
         'link': f'https://6529.io/waves/{MUSEUM_WAVE_ID}',
-        'image': {
-            'url': MUSEUM_CARD_IMG,
-            'label': 'Wanderer of a New Era - Card #349',
-            'type': 'image'
-        },
-        'dataBoxes': None
+        'image': None,
+        'dataBoxes': boxes
     }]
 
-    # Card 2: Top candidates leaderboard with PFP previews
-    data = fetch_json(f'https://api.6529.io/api/waves/{MUSEUM_WAVE_ID}/leaderboard?page_size=10')
-    if data and 'drops' in data and len(data['drops']) >= 2:
-        # Re-sort by projected vote (rating_prediction), not settled (rating)
-        ranked = sorted(data['drops'], key=lambda d: d.get('rating_prediction', d.get('realtime_rating', 0)), reverse=True)[:5]
-        top3 = ranked[:3]
 
-        def resolve_pfp(url):
-            """Convert ipfs:// to HTTP gateway URL."""
-            if not url:
-                return None
-            if url.startswith('ipfs://'):
-                return 'https://dweb.link/ipfs/' + url[7:]
-            return url
+# =============================================
+# NEW ANNOUNCEMENT (last 24h from Announcements wave)
+# =============================================
+def build_announcements():
+    """Show latest announcement if posted in last 24h."""
+    print("Checking Announcements...")
+    resp = fetch_json(f'https://api.6529.io/api/waves/{ANNOUNCEMENTS_WAVE_ID}/drops?limit=5')
+    if not resp or not resp.get('drops'):
+        return []
+    drops = resp['drops']
 
-        # Use top 2 PFPs as preview images
-        top2_images = []
-        for idx, d in enumerate(ranked[:2]):
-            pfp = resolve_pfp(d['author'].get('pfp'))
-            if pfp:
-                top2_images.append({
-                    'url': pfp,
-                    'label': f"#{idx+1} {d['author']['handle']} — {format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0)))} TDH",
-                    'type': 'image'
-                })
+    now_ms = datetime.now(timezone.utc).timestamp() * 1000
+    twenty_four_h = now_ms - 24 * 3600 * 1000
 
-        summary = 'Top candidates: ' + ' | '.join([
-            f"#{idx+1} {d['author']['handle']} ({format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0)))} TDH, {d.get('raters_count', 0)} voters)"
-            for idx, d in enumerate(top3)
-        ])
+    # Filter: only real announcements posted in last 24h
+    recent = [d for d in drops if d['created_at'] > twenty_four_h and d.get('drop_type') == 'CHAT']
+    if not recent:
+        return []
 
-        card_data = {
-            'category': 'MUSEUM SIGNERS',
-            'headline': f"{ranked[0]['author']['handle']} Leads — Museum Signers",
-            'summary': summary,
-            'source': 'Network Museum',
-            'link': f'https://6529.io/waves/{MUSEUM_WAVE_ID}',
-            'dataBoxes': [
-                {'label': d['author']['handle'], 'value': format_tdh(d.get('rating_prediction', d.get('realtime_rating', 0))), 'sub': f"{d.get('raters_count', 0)} voters"}
-                for d in top3
-            ]
-        }
-        if len(top2_images) >= 2:
-            card_data['images'] = top2_images
-        elif top2_images:
-            card_data['image'] = top2_images[0]
-        else:
-            card_data['image'] = {'url': MUSEUM_CARD_IMG, 'label': 'Network Museum SAFE Signers', 'type': 'image'}
+    # Take the most recent announcement
+    latest = recent[0]
+    author = latest['author']
+    handle = author.get('handle', '?')
+    level = author.get('level', 0)
+    pfp_url = author.get('pfp', '')
+    if pfp_url and pfp_url.startswith('ipfs://'):
+        pfp_url = pfp_url.replace('ipfs://', 'https://d3lqz0a4bldqgf.cloudfront.net/ipfs/')
 
-        cards.append(card_data)
+    parts = latest.get('parts') or []
+    content = (parts[0].get('content') or '')[:300] if parts else ''
 
-    return cards
+    import re
+    content = re.sub(r'@\[(\w+)\]', r'@\1', content)
+
+    # AI-generated short title (3-6 words)
+    title = ai_summarize(
+        f"Write a 3-6 word headline title for this announcement. No quotes, no punctuation at the end:\n\n{content[:300]}",
+        max_tokens=20)
+    if not title or len(title) > 60:
+        title = f"New Announcement by {handle}"
+    title = title.strip().strip('"\'.')
+
+    headline = title
+    summary = f"{handle}: {content}" if len(content) <= 180 else f"{handle}: {content[:177]}..."
+
+    pfp_image = {'url': pfp_url, 'label': handle} if pfp_url else None
+
+    print(f"  Announcement by {handle} (Lv{level}): {content[:80]}...")
+    return [{
+        'category': 'ANNOUNCEMENT',
+        'headline': headline,
+        'summary': summary,
+        'source': 'Announcements',
+        'link': f'https://6529.io/waves/{ANNOUNCEMENTS_WAVE_ID}',
+        'image': pfp_image,
+        'dataBoxes': [
+            {'label': handle, 'value': f'Lv{level}', 'sub': format_tdh(author.get('tdh', 0)) + ' TDH'}
+        ]
+    }]
 
 
 def build_top_superrare():
@@ -938,7 +959,7 @@ def build_hot_wave():
     if not waves or not isinstance(waves, list):
         return [], []
 
-    skip = {'QUORUM', 'quorum'}
+    skip = {'QUORUM', 'quorum', 'Network Museum SAFE Signers', 'Announcements'}
     active = []
     hot_wave = None
 
@@ -1062,6 +1083,9 @@ def build_new_submissions(exclude_authors=None):
     seen_authors = set()
 
     for d in lb_drops:
+        if d['created_at'] < cutoff_ms:
+            continue  # Submission older than 7 days
+
         author = d['author']['handle']
         if author in seen_authors or author in skip:
             continue
@@ -1394,7 +1418,7 @@ def build_new_waves_headline():
     twenty_four_h = now_ms - 24 * 3600 * 1000
     headlines = []
 
-    skip = {'QUORUM', 'quorum'}
+    skip = {'QUORUM', 'quorum', 'Network Museum SAFE Signers', 'Announcements'}
     new_waves = [w for w in waves if w.get('created_at', 0) > twenty_four_h and w['name'] not in skip]
     if new_waves:
         names = [w['name'] for w in new_waves[:3]]
@@ -1427,13 +1451,13 @@ def main():
     top_memes_ranked.sort(key=lambda x: x['projected_tdh'], reverse=True)
     all_news += build_top_memes()
 
-    print("\n--- 3. Network Museum SAFE Signers ---")
-    museum_cards = build_museum_signers()
-    all_news += museum_cards
-    if museum_cards:
-        all_headlines.append("NEW WAVE: NETWORK MUSEUM SAFE SIGNERS — APPLY NOW")
+    print("\n--- 3. Museum Signers (winners) ---")
+    all_news += build_museum_signers()
 
-    print("\n--- 3b. New Submissions ---")
+    print("\n--- 3b. Announcements (conditional) ---")
+    all_news += build_announcements()
+
+    print("\n--- 3c. New Submissions ---")
     top3_authors = {s['author'] for s in top_memes_ranked[:3]}
     all_news += build_new_submissions(exclude_authors=top3_authors)
 
