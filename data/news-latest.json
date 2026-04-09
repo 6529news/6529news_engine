@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T22:26:03.086463+00:00",
+  "generated_at": "2026-04-09T22:26:31.491686+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -46,37 +46,11 @@
     },
     {
       "category": "MUSEUM SIGNERS",
-      "headline": "Museum Vault Signers Elected \u2014 HugoFaz & maybe",
-      "summary": "HugoFaz and maybe elected as Network Museum Vault Signers. Alternates: blocknoob (7.2M) & david (6.5M).",
+      "headline": "Museum Signers Elected \u2014 HugoFaz #1",
+      "summary": "Network Museum SAFE Signers elected: HugoFaz (5.9M, Vault Signer) | maybe (2.6M, Vault Signer) | blocknoob (7.2M, Alternate) | david (6.5M, Alternate)",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
-      "image": {
-        "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-        "label": "HugoFaz",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-          "label": "HugoFaz",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/12fa1870-6850-4868-84a2-57266e9b0ee4.webp?d=1727299339629",
-          "label": "maybe",
-          "type": "image"
-        },
-        {
-          "url": "https://dweb.link/ipfs/QmUxmk3atWP7TPtgnk6NkGL8Y3BgQaU7ig5M85bfBcSH2E",
-          "label": "blocknoob",
-          "type": "image"
-        },
-        {
-          "url": "https://dweb.link/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
-          "label": "david",
-          "type": "image"
-        }
-      ],
+      "image": null,
       "dataBoxes": [
         {
           "label": "#1 HugoFaz",
@@ -97,6 +71,24 @@
           "label": "#4 david",
           "value": "6.5M",
           "sub": "Alternate"
+        }
+      ]
+    },
+    {
+      "category": "ANNOUNCEMENT",
+      "headline": "New Announcement by punk6529",
+      "summary": "punk6529: I would like to congratulate @maybe and @HugoFaz for their election to their term as Network Museum Vault Signers and @david and @blocknoob to their election as alternates.\n\n\nIt...",
+      "source": "Announcements",
+      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
+        "label": "punk6529"
+      },
+      "dataBoxes": [
+        {
+          "label": "punk6529",
+          "value": "Lv100",
+          "sub": "65.1M TDH"
         }
       ]
     },
@@ -144,9 +136,9 @@
     },
     {
       "category": "6529 TALKS",
-      "headline": "punk6529 Active in Announcements, Network Museum SAFE Signers, maybe's dive bar",
-      "summary": "Active in Announcements, Network Museum SAFE Signers, maybe's dive bar.",
-      "source": "Announcements",
+      "headline": "punk6529 Active in Network Museum SAFE Signers, maybe's dive bar, Announcements",
+      "summary": "Active in Network Museum SAFE Signers, maybe's dive bar, Announcements.",
+      "source": "Network Museum SAFE Signers",
       "link": "https://6529.io/punk6529",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
@@ -157,11 +149,31 @@
     {
       "category": "SALES RECAP",
       "headline": "17 Sales Today - 0.87 ETH Volume",
-      "summary": "17 sales in 24h for 0.87 ETH.",
+      "summary": "17 sales in 24h for 0.87 ETH. Highest: \"Pepe X\" at 0.171 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
-      "image": null,
-      "images": [],
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+        "label": "Pepe X - 0.171 ETH",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+          "label": "Pepe X - 0.171 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
+          "label": "6529Seizing - 0.120 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/421.GIF",
+          "label": "inception - 0.077 ETH",
+          "type": "image"
+        }
+      ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
@@ -175,8 +187,8 @@
         },
         {
           "label": "Top Sale",
-          "value": "0.000",
-          "sub": ""
+          "value": "0.171",
+          "sub": "Pepe X"
         },
         {
           "label": "Floor",
@@ -232,7 +244,7 @@
   ],
   "headline_extras": [
     "PUNK6529 ACTIVE NOW IN ANNOUNCEMENTS WITH 10 MSGS",
-    "DIVE BAR: 298 MSGS IN LAST 6H",
+    "DIVE BAR: 295 MSGS IN LAST 6H",
     "CARD #480: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | 6529 NEWS",
     "ACTIVE TODAY: JAMESANDREW (80 MSGS) | WALASAVAGEPHOTO (55) | MAYBE (55)"
   ]
