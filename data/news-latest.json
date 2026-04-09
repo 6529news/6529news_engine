@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T06:11:07.248936+00:00",
+  "generated_at": "2026-04-09T07:56:11.719253+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "fercaggiano Leads with 65.2M Projected TDH",
-      "summary": "\"An Artist's Life\" by fercaggiano (65.2M projected TDH, 83 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (41.8M projected TDH, 68 voters) Next selection: Fri Apr 10 at 17:00 CET.",
+      "summary": "\"An Artist's Life\" by fercaggiano (65.2M projected TDH, 84 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (41.8M projected TDH, 68 voters) Next selection: Fri Apr 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "fercaggiano",
           "value": "65.2M",
-          "sub": "proj. (83 votes)"
+          "sub": "proj. (84 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -133,20 +133,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 1.08 ETH Volume",
-      "summary": "19 sales in 24h for 1.08 ETH. Highest: \"UncleSeize\" at 0.129 ETH.",
+      "headline": "19 Sales Today - 1.12 ETH Volume",
+      "summary": "19 sales in 24h for 1.12 ETH. Highest: \"UncleSeize\" at 0.129 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -179,7 +179,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.08",
+          "value": "1.12",
           "sub": "ETH"
         },
         {
@@ -198,27 +198,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.08 ETH",
-      "raw": 1.0777,
-      "delta": 0.23440000000000005,
-      "delta_fmt": "+27.8%"
+      "value": "1.12 ETH",
+      "raw": 1.1207,
+      "delta": 0.4414,
+      "delta_fmt": "+65.0%"
     },
     {
       "label": "7d Vol",
-      "value": "20.31 ETH",
-      "raw": 20.3115
+      "value": "20.26 ETH",
+      "raw": 20.2644
     },
     {
       "label": "30d Vol",
-      "value": "53.43 ETH",
-      "raw": 53.4257
+      "value": "53.49 ETH",
+      "raw": 53.4947
     },
     {
       "label": "Full Set Bid",
-      "value": "39.7 ETH",
-      "raw": 39.69,
-      "delta": -0.21000000000000085,
-      "delta_fmt": "-0.21 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.05,
+      "delta": 0.35999999999999943,
+      "delta_fmt": "+0.36 ETH"
     },
     {
       "label": "Full Set",
@@ -238,14 +238,16 @@
     {
       "label": "#1 fercaggiano",
       "value": "65.2M TDH",
-      "raw": 65192151
+      "raw": 65202151,
+      "delta": 10000,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 07)",
     "NEW WAVE: NETWORK MUSEUM SAFE SIGNERS \u2014 APPLY NOW",
-    "CARD #480: 125 MINTS (EXCL. MUSEUM) | 91 HOLDERS | 6529 NEWS",
-    "ACTIVE TODAY: MAYBE (135 MSGS) | AEZY (71) | DAVID_OTHER (68)",
-    "DIVE BAR: 69 MSGS IN LAST 6H"
+    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 07)",
+    "DIVE BAR: 73 MSGS IN LAST 6H",
+    "CARD #480: 126 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 6529 NEWS",
+    "ACTIVE TODAY: MAYBE (135 MSGS) | AEZY (72) | DAVID_OTHER (68)"
   ]
 }
