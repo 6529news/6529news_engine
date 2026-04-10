@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T16:57:57.282371+00:00",
+  "generated_at": "2026-04-10T17:48:32.959271+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "JoelleLB Leads with 49.8M Projected TDH",
-      "summary": "\"Codex Obscura\" by JoelleLB (49.8M projected TDH, 92 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"ASCENT\" by Nrsin (28.5M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
+      "headline": "JoelleLB Leads with 52.0M Projected TDH",
+      "summary": "\"Codex Obscura\" by JoelleLB (52.0M projected TDH, 93 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"ASCENT\" by Nrsin (28.5M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "JoelleLB",
-          "value": "49.8M",
-          "sub": "proj. (92 votes)"
+          "value": "52.0M",
+          "sub": "proj. (93 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -116,18 +116,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "7 New Memes Submissions This Week",
-      "summary": "7 submissions this week. Ranking: JamesAndrew (8.4M) | 1dontknows (6.1M) | Abrahanny (2.4M) | RestlessMinds (2.1M) | GarryB1rd (1.8M) | Mfer_Ones (1.3M) | MintFace (745K).",
+      "summary": "7 submissions this week. Ranking: JamesAndrew (11.5M) | 1dontknows (6.1M) | Abrahanny (2.4M) | RestlessMinds (2.1M) | GarryB1rd (1.8M) | Mfer_Ones (1.3M) | MintFace (745K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_8a6a77f5-cb65-4c27-9501-cb9cb2b2401a/2b3d53bb-0b63-4380-9071-647f13ec0c48.mov",
-        "label": "JamesAndrew (8.4M)",
+        "label": "JamesAndrew (11.5M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_8a6a77f5-cb65-4c27-9501-cb9cb2b2401a/2b3d53bb-0b63-4380-9071-647f13ec0c48.mov",
-          "label": "JamesAndrew (8.4M)",
+          "label": "JamesAndrew (11.5M)",
           "type": "video"
         },
         {
@@ -228,9 +228,7 @@
     {
       "label": "Full Set Bid",
       "value": "36.6 ETH",
-      "raw": 36.63,
-      "delta": 0.010000000000005116,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 36.63
     },
     {
       "label": "Full Set",
@@ -249,14 +247,16 @@
     },
     {
       "label": "#1 JoelleLB",
-      "value": "49.8M TDH",
-      "raw": 49759374
+      "value": "52.0M TDH",
+      "raw": 51979703,
+      "delta": 2220329,
+      "delta_fmt": "+2.2M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529: 10 MSGS IN THE LAST 24H IN ANNOUNCEMENTS",
-    "CARD #481: 118 MINTS (EXCL. MUSEUM) | 91 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: MAYBE (130 MSGS) | JAMESANDREW (73) | ROCKETGIRL (42)",
-    "DIVE BAR: 369 MSGS IN LAST 6H"
+    "DIVE BAR: 380 MSGS IN LAST 6H",
+    "CARD #481: 119 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE SACRIFICE OF THE MEMES",
+    "ACTIVE TODAY: MAYBE (124 MSGS) | JAMESANDREW (63) | 0XCUTTLEFISH (39)"
   ]
 }
