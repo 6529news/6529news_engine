@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T22:37:29.162101+00:00",
+  "generated_at": "2026-04-10T23:20:50.469535+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"The Sacrifice of the Memes\" by Bicasso \u2014 52.6M TDH from 48 voters. Top supporter: Thor (11.5M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"The Sacrifice of the Memes\" by Bicasso \u2014 52.6M TDH from 48 voters. Top supporter: Thor (11.5M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "JoelleLB Leads with 68.5M Projected TDH",
-      "summary": "\"Codex Obscura\" by JoelleLB (68.5M projected TDH, 97 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
+      "summary": "\"Codex Obscura\" by JoelleLB (68.5M projected TDH, 99 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "JoelleLB",
           "value": "68.5M",
-          "sub": "proj. (97 votes)"
+          "sub": "proj. (99 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -145,13 +145,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 308K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (308K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -227,8 +227,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.0 ETH",
-      "raw": 40.01
+      "value": "40.1 ETH",
+      "raw": 40.06,
+      "delta": 0.05000000000000426,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Full Set",
@@ -248,15 +250,15 @@
     {
       "label": "#1 JoelleLB",
       "value": "68.5M TDH",
-      "raw": 68541612,
-      "delta": 2000420,
-      "delta_fmt": "+2.0M TDH"
+      "raw": 68545506,
+      "delta": 3894,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "CARD #481: 121 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: MAYBE (234 MSGS) | GPEBBLES (134) | AEZY (97)",
-    "DIVE BAR: 946 MSGS IN LAST 6H"
+    "DIVE BAR: 950 MSGS IN LAST 6H",
+    "CARD #481: 122 MINTS (EXCL. MUSEUM) | 93 HOLDERS | THE SACRIFICE OF THE MEMES",
+    "ACTIVE TODAY: MAYBE (247 MSGS) | GPEBBLES (179) | FRANKIEHGIH_ETH (99)"
   ]
 }
