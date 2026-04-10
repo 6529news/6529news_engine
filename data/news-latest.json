@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T16:51:42.044959+00:00",
+  "generated_at": "2026-04-10T16:57:57.282371+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "JoelleLB Leads with 49.8M Projected TDH",
-      "summary": "\"Codex Obscura\" by JoelleLB (49.8M projected TDH, 91 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"ASCENT\" by Nrsin (28.5M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
+      "summary": "\"Codex Obscura\" by JoelleLB (49.8M projected TDH, 92 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"ASCENT\" by Nrsin (28.5M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "JoelleLB",
           "value": "49.8M",
-          "sub": "proj. (91 votes)"
+          "sub": "proj. (92 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -145,13 +145,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -228,9 +228,9 @@
     {
       "label": "Full Set Bid",
       "value": "36.6 ETH",
-      "raw": 36.62,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "raw": 36.63,
+      "delta": 0.010000000000005116,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -250,15 +250,13 @@
     {
       "label": "#1 JoelleLB",
       "value": "49.8M TDH",
-      "raw": 49759374,
-      "delta": -16146736,
-      "delta_fmt": "-16.1M TDH"
+      "raw": 49759374
     }
   ],
   "headline_extras": [
     "PUNK6529: 10 MSGS IN THE LAST 24H IN ANNOUNCEMENTS",
-    "DIVE BAR: 355 MSGS IN LAST 6H",
+    "DIVE BAR: 362 MSGS IN LAST 6H",
     "CARD #481: 118 MINTS (EXCL. MUSEUM) | 91 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: MAYBE (143 MSGS) | JAMESANDREW (76) | ROCKETGIRL (44)"
+    "ACTIVE TODAY: MAYBE (130 MSGS) | JAMESANDREW (73) | ROCKETGIRL (42)"
   ]
 }
