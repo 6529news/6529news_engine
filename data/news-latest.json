@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T23:53:53.459496+00:00",
+  "generated_at": "2026-04-10T02:32:49.356653+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "fercaggiano Leads with 65.9M Projected TDH",
-      "summary": "\"An Artist's Life\" by fercaggiano (65.9M projected TDH, 91 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (41.6M projected TDH, 82 voters) Next selection: Fri Apr 10 at 17:00 CET.",
+      "summary": "\"An Artist's Life\" by fercaggiano (65.9M projected TDH, 91 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (46.5M projected TDH, 85 voters) Next selection: Fri Apr 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,8 +39,8 @@
         },
         {
           "label": "JoelleLB",
-          "value": "41.6M",
-          "sub": "proj. (82 votes)"
+          "value": "46.5M",
+          "sub": "proj. (85 votes)"
         }
       ]
     },
@@ -144,8 +144,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 0.87 ETH Volume",
-      "summary": "17 sales in 24h for 0.87 ETH. Highest: \"Pepe X\" at 0.171 ETH.",
+      "headline": "15 Sales Today - 0.67 ETH Volume",
+      "summary": "15 sales in 24h for 0.67 ETH. Highest: \"Pepe X\" at 0.171 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -173,12 +173,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.87",
+          "value": "0.67",
           "sub": "ETH"
         },
         {
@@ -197,27 +197,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.87 ETH",
-      "raw": 0.8714,
-      "delta": -0.1834,
-      "delta_fmt": "-17.4%"
+      "value": "0.67 ETH",
+      "raw": 0.6656,
+      "delta": -0.2491,
+      "delta_fmt": "-27.2%"
     },
     {
       "label": "7d Vol",
-      "value": "20.22 ETH",
-      "raw": 20.2235
+      "value": "20.32 ETH",
+      "raw": 20.3199
     },
     {
       "label": "30d Vol",
-      "value": "53.93 ETH",
-      "raw": 53.9275
+      "value": "50.52 ETH",
+      "raw": 50.5208
     },
     {
       "label": "Full Set Bid",
-      "value": "39.8 ETH",
-      "raw": 39.77,
-      "delta": 0.010000000000005116,
-      "delta_fmt": "+0.01 ETH"
+      "value": "39.2 ETH",
+      "raw": 39.23,
+      "delta": -0.5400000000000063,
+      "delta_fmt": "-0.54 ETH"
     },
     {
       "label": "Full Set",
@@ -231,21 +231,21 @@
     },
     {
       "label": "Network TDH",
-      "value": "1512.1M",
-      "raw": 1512055757
+      "value": "1514.5M",
+      "raw": 1514512227,
+      "delta": 2456470,
+      "delta_fmt": "+2.5M TDH"
     },
     {
       "label": "#1 fercaggiano",
       "value": "65.9M TDH",
-      "raw": 65881826,
-      "delta": 151078,
-      "delta_fmt": "+0.2M TDH"
+      "raw": 65881826
     }
   ],
   "headline_extras": [
     "PUNK6529: 10 MSGS IN THE LAST 24H IN ANNOUNCEMENTS",
+    "DIVE BAR: 188 MSGS IN LAST 6H",
     "CARD #480: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | 6529 NEWS",
-    "ACTIVE TODAY: MAYBE (101 MSGS) | JAMESANDREW (74) | WALASAVAGEPHOTO (54)",
-    "DIVE BAR: 177 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (97 MSGS) | JAMESANDREW (85) | WALASAVAGEPHOTO (54)"
   ]
 }
