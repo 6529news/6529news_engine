@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T21:55:26.535800+00:00",
+  "generated_at": "2026-04-10T22:37:29.162101+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "JoelleLB Leads with 66.5M Projected TDH",
-      "summary": "\"Codex Obscura\" by JoelleLB (66.5M projected TDH, 96 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
+      "headline": "JoelleLB Leads with 68.5M Projected TDH",
+      "summary": "\"Codex Obscura\" by JoelleLB (68.5M projected TDH, 97 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "JoelleLB",
-          "value": "66.5M",
-          "sub": "proj. (96 votes)"
+          "value": "68.5M",
+          "sub": "proj. (97 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -228,9 +228,7 @@
     {
       "label": "Full Set Bid",
       "value": "40.0 ETH",
-      "raw": 40.01,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 40.01
     },
     {
       "label": "Full Set",
@@ -249,14 +247,16 @@
     },
     {
       "label": "#1 JoelleLB",
-      "value": "66.5M TDH",
-      "raw": 66541192
+      "value": "68.5M TDH",
+      "raw": 68541612,
+      "delta": 2000420,
+      "delta_fmt": "+2.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 767 MSGS IN LAST 6H",
     "CARD #481: 121 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: MAYBE (208 MSGS) | GPEBBLES (130) | AEZY (97)",
-    "DIVE BAR: 753 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (234 MSGS) | GPEBBLES (134) | AEZY (97)"
   ]
 }
