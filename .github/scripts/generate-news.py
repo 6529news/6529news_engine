@@ -824,13 +824,26 @@ def build_pebbles_sales():
         print("  No Pebbles sales in 24h")
         return []
 
-    print(f"  Pebbles: {sales_24h} sales, {vol_24h:.3f} ETH vol, floor {floor}")
+    # Fetch sale events for preview images
+    sales_images = []
+    events = fetch_json('https://api.opensea.io/api/v2/events/collection/pebbles-by-zeblocks?event_type=sale&limit=3', {'X-API-KEY': OPENSEA_KEY})
+    if events and events.get('asset_events'):
+        for e in events['asset_events'][:3]:
+            nft = e.get('nft', {})
+            img = nft.get('image_url') or nft.get('display_image_url')
+            name = nft.get('name') or f"Pebble #{nft.get('identifier', '?')}"
+            price = int(e['payment']['quantity']) / 1e18 if e.get('payment') else 0
+            if img:
+                sales_images.append({'url': img, 'label': f'{name} - {price:.3f} ETH', 'type': 'image'})
+
+    print(f"  Pebbles: {sales_24h} sales, {vol_24h:.3f} ETH vol, floor {floor}, {len(sales_images)} preview images")
     return [{
         'category': 'PEBBLES',
         'headline': f'Pebbles: {sales_24h} Sales - {vol_24h:.3f} ETH',
         'summary': f'{sales_24h} Pebbles sold in the last 24h for a total of {vol_24h:.3f} ETH. Current floor: {floor} {floor_sym}.',
         'source': 'OpenSea', 'link': 'https://opensea.io/collection/pebbles-by-zeblocks',
-        'image': None,
+        'image': sales_images[0] if sales_images else None,
+        'images': sales_images if sales_images else [],
         'dataBoxes': [
             {'label': 'Sales 24h', 'value': str(sales_24h), 'sub': ''},
             {'label': 'Volume', 'value': f'{vol_24h:.3f}', 'sub': 'ETH'},
@@ -859,13 +872,26 @@ def build_gradients_sales():
         print("  No Gradients sales in 24h")
         return []
 
-    print(f"  Gradients: {sales_24h} sales, {vol_24h:.3f} ETH vol, floor {floor}")
+    # Fetch sale events for preview images
+    sales_images = []
+    events = fetch_json('https://api.opensea.io/api/v2/events/collection/6529gradient?event_type=sale&limit=3', {'X-API-KEY': OPENSEA_KEY})
+    if events and events.get('asset_events'):
+        for e in events['asset_events'][:3]:
+            nft = e.get('nft', {})
+            img = nft.get('image_url') or nft.get('display_image_url')
+            name = nft.get('name') or f"Gradient #{nft.get('identifier', '?')}"
+            price = int(e['payment']['quantity']) / 1e18 if e.get('payment') else 0
+            if img:
+                sales_images.append({'url': img, 'label': f'{name} - {price:.3f} ETH', 'type': 'image'})
+
+    print(f"  Gradients: {sales_24h} sales, {vol_24h:.3f} ETH vol, floor {floor}, {len(sales_images)} preview images")
     return [{
         'category': 'GRADIENTS',
         'headline': f'Gradients: {sales_24h} Sales - {vol_24h:.3f} ETH',
         'summary': f'{sales_24h} Gradients sold in the last 24h for a total of {vol_24h:.3f} ETH. Current floor: {floor} {floor_sym}.',
         'source': 'OpenSea', 'link': 'https://opensea.io/collection/6529gradient',
-        'image': None,
+        'image': sales_images[0] if sales_images else None,
+        'images': sales_images if sales_images else [],
         'dataBoxes': [
             {'label': 'Sales 24h', 'value': str(sales_24h), 'sub': ''},
             {'label': 'Volume', 'value': f'{vol_24h:.3f}', 'sub': 'ETH'},
