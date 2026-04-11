@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T20:01:54.192334+00:00",
+  "generated_at": "2026-04-11T20:51:44.455203+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -132,13 +132,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.1M)",
         "type": "image"
       }
     },
@@ -245,8 +245,8 @@
       "label": "24h Vol",
       "value": "0.46 ETH",
       "raw": 0.4607,
-      "delta": 0.0388,
-      "delta_fmt": "+9.2%"
+      "delta": 0.05880000000000002,
+      "delta_fmt": "+14.6%"
     },
     {
       "label": "7d Vol",
@@ -261,7 +261,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.6 ETH",
-      "raw": 39.55
+      "raw": 39.56,
+      "delta": 0.010000000000005116,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -287,8 +289,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
     "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 16h AGO",
+    "DIVE BAR: 378 MSGS IN LAST 6H",
     "CARD #481: 132 MINTS (EXCL. MUSEUM) | 101 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: MAYBE (204 MSGS) | JAMESANDREW (194) | GPEBBLES (164)",
-    "DIVE BAR: 407 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (194 MSGS) | MAYBE (177) | GPEBBLES (162)"
   ]
 }
