@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T17:18:23.861231+00:00",
+  "generated_at": "2026-04-11T17:58:17.508568+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -132,13 +132,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "Articulate Leads with 2.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -261,9 +261,7 @@
     {
       "label": "Full Set Bid",
       "value": "39.5 ETH",
-      "raw": 39.47,
-      "delta": 0.6599999999999966,
-      "delta_fmt": "+0.66 ETH"
+      "raw": 39.47
     },
     {
       "label": "Full Set",
@@ -283,16 +281,14 @@
     {
       "label": "#1 JoelleLB",
       "value": "70.0M TDH",
-      "raw": 70007541,
-      "delta": 69,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 70007541
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 13h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 14h AGO",
+    "DIVE BAR: 762 MSGS IN LAST 6H",
     "CARD #481: 132 MINTS (EXCL. MUSEUM) | 101 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: GPEBBLES (264 MSGS) | MAYBE (238) | JAMESANDREW (155)",
-    "DIVE BAR: 747 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GPEBBLES (264 MSGS) | MAYBE (234) | JAMESANDREW (178)"
   ]
 }
