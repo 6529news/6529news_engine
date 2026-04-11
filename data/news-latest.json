@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T22:52:37.641797+00:00",
+  "generated_at": "2026-04-11T23:34:38.966974+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -132,13 +132,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
@@ -261,7 +261,7 @@
     {
       "label": "Full Set Bid",
       "value": "39.6 ETH",
-      "raw": 39.57,
+      "raw": 39.58,
       "delta": 0.00999999999999801,
       "delta_fmt": "+0.01 ETH"
     },
@@ -288,9 +288,9 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 18h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 19h AGO",
+    "DIVE BAR: 242 MSGS IN LAST 6H",
     "CARD #481: 132 MINTS (EXCL. MUSEUM) | 101 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: JAMESANDREW (184 MSGS) | GPEBBLES (153) | MAYBE (127)",
-    "DIVE BAR: 255 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (171 MSGS) | GPEBBLES (110) | KRISTOPHER (99)"
   ]
 }
