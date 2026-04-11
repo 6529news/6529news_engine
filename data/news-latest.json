@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T10:40:23.594174+00:00",
+  "generated_at": "2026-04-11T11:17:11.376531+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "JoelleLB Leads with 68.8M Projected TDH",
-      "summary": "\"Codex Obscura\" by JoelleLB (68.8M projected TDH, 100 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 128 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
+      "summary": "\"Codex Obscura\" by JoelleLB (68.8M projected TDH, 100 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 128 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 44 voters) Next selection: Mon Apr 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -53,7 +53,7 @@
         {
           "label": "Nrsin",
           "value": "29.8M",
-          "sub": "proj. (43 votes)"
+          "sub": "proj. (44 votes)"
         }
       ]
     },
@@ -115,8 +115,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "6 New Memes Submissions This Week",
-      "summary": "6 submissions this week. Ranking: JamesAndrew (11.6M) | 1dontknows (11.1M) | Abrahanny (2.4M) | RestlessMinds (2.1M) | GarryB1rd (1.6M) | MintFace (820K).",
+      "headline": "7 New Memes Submissions This Week",
+      "summary": "7 submissions this week. Ranking: JamesAndrew (11.6M) | 1dontknows (11.1M) | Abrahanny (2.4M) | RestlessMinds (2.1M) | GarryB1rd (1.6M) | Articulate (1.4M) | MintFace (820K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -145,13 +145,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -258,8 +258,8 @@
       "label": "24h Vol",
       "value": "0.18 ETH",
       "raw": 0.1779,
-      "delta": -0.2914,
-      "delta_fmt": "-62.1%"
+      "delta": -0.23959999999999998,
+      "delta_fmt": "-57.4%"
     },
     {
       "label": "7d Vol",
@@ -273,18 +273,24 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.5 ETH",
-      "raw": 39.51
+      "value": "40.0 ETH",
+      "raw": 39.97,
+      "delta": 0.46000000000000085,
+      "delta_fmt": "+0.46 ETH"
     },
     {
       "label": "Full Set",
-      "value": "54",
-      "raw": 54
+      "value": "53",
+      "raw": 53,
+      "delta": -1,
+      "delta_fmt": "-1"
     },
     {
       "label": "Holders",
-      "value": "10,157",
-      "raw": 10157
+      "value": "10,154",
+      "raw": 10154,
+      "delta": -3,
+      "delta_fmt": "-3"
     },
     {
       "label": "Network TDH",
@@ -299,9 +305,9 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 6h AGO",
-    "CARD #481: 125 MINTS (EXCL. MUSEUM) | 94 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: MAYBE (265 MSGS) | GPEBBLES (185) | FRANKIEHGIH_ETH (131)",
-    "DIVE BAR: 72 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 7h AGO",
+    "DIVE BAR: 71 MSGS IN LAST 6H",
+    "CARD #481: 126 MINTS (EXCL. MUSEUM) | 96 HOLDERS | THE SACRIFICE OF THE MEMES",
+    "ACTIVE TODAY: MAYBE (265 MSGS) | GPEBBLES (185) | FRANKIEHGIH_ETH (131)"
   ]
 }
