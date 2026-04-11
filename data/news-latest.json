@@ -1,56 +1,95 @@
 {
-  "generated_at": "2026-04-09T22:26:31.491686+00:00",
+  "generated_at": "2026-04-11T09:57:42.607429+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING FRIDAY",
-      "headline": "Minting Friday",
-      "summary": " \"The Sacrifice of the Memes\" by Bicasso \u2014 52.6M TDH from 48 voters. Top supporter: Thor (11.5M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"The Sacrifice of the Memes\" by Bicasso \u2014 52.6M TDH from 48 voters. Top supporter: Thor (11.5M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_fa9740cb-1dca-47cb-93ea-c58e861aab82/2183f802-2bc6-4506-820b-e89ab5c4a1c9.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/481.PNG",
         "label": "The Sacrifice of the Memes - Bicasso",
         "type": "image"
       },
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "fercaggiano Leads with 65.7M Projected TDH",
-      "summary": "\"An Artist's Life\" by fercaggiano (65.7M projected TDH, 90 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"Codex Obscura\" by JoelleLB (41.6M projected TDH, 82 voters) Next selection: Fri Apr 10 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"An Artist's Life\" by fercaggiano \u2014 65.9M TDH from 92 voters. Top supporter: Thor (8.7M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_8582c4ab-5aeb-4990-91c6-544dedf1c47c/fcd18e6d-c925-4518-a34b-e9b9ceda1a24.gif",
         "label": "An Artist's Life - fercaggiano",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "JoelleLB Leads with 68.8M Projected TDH",
+      "summary": "\"Codex Obscura\" by JoelleLB (68.8M projected TDH, 100 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 128 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3ec964f0-13ab-481c-bdbd-a0e752c39221/508fb1fc-a3e6-4bde-8bb5-bbb9577341c5.png",
+        "label": "Codex Obscura - JoelleLB",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "fercaggiano",
-          "value": "65.7M",
-          "sub": "proj. (90 votes)"
+          "label": "JoelleLB",
+          "value": "68.8M",
+          "sub": "proj. (100 votes)"
         },
         {
           "label": "Guidodisalle",
           "value": "47.9M",
-          "sub": "proj. (126 votes)"
+          "sub": "proj. (128 votes)"
         },
         {
-          "label": "JoelleLB",
-          "value": "41.6M",
-          "sub": "proj. (82 votes)"
+          "label": "Nrsin",
+          "value": "29.8M",
+          "sub": "proj. (43 votes)"
         }
       ]
     },
     {
       "category": "MUSEUM SIGNERS",
-      "headline": "Museum Signers Elected \u2014 HugoFaz #1",
-      "summary": "Network Museum SAFE Signers elected: HugoFaz (5.9M, Vault Signer) | maybe (2.6M, Vault Signer) | blocknoob (7.2M, Alternate) | david (6.5M, Alternate)",
+      "headline": "Museum Vault Signers Elected \u2014 HugoFaz & maybe",
+      "summary": "HugoFaz and maybe elected as Network Museum Vault Signers. Alternates: blocknoob (7.2M) & david (6.6M).",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
-      "image": null,
+      "image": {
+        "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
+        "label": "HugoFaz",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
+          "label": "HugoFaz",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/12fa1870-6850-4868-84a2-57266e9b0ee4.webp?d=1727299339629",
+          "label": "maybe",
+          "type": "image"
+        },
+        {
+          "url": "https://dweb.link/ipfs/QmUxmk3atWP7TPtgnk6NkGL8Y3BgQaU7ig5M85bfBcSH2E",
+          "label": "blocknoob",
+          "type": "image"
+        },
+        {
+          "url": "https://dweb.link/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
+          "label": "david",
+          "type": "image"
+        }
+      ],
       "dataBoxes": [
         {
           "label": "#1 HugoFaz",
@@ -69,54 +108,36 @@
         },
         {
           "label": "#4 david",
-          "value": "6.5M",
+          "value": "6.6M",
           "sub": "Alternate"
-        }
-      ]
-    },
-    {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by punk6529",
-      "summary": "punk6529: I would like to congratulate @maybe and @HugoFaz for their election to their term as Network Museum Vault Signers and @david and @blocknoob to their election as alternates.\n\n\nIt...",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": [
-        {
-          "label": "punk6529",
-          "value": "Lv100",
-          "sub": "65.1M TDH"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "6 New Memes Submissions This Week",
-      "summary": "6 submissions this week. Ranking: 1dontknows (6.0M) | JamesAndrew (5.5M) | Abrahanny (2.3M) | GarryB1rd (1.8M) | Mfer_Ones (1.3M) | MintFace (745K).",
+      "summary": "6 submissions this week. Ranking: JamesAndrew (11.6M) | 1dontknows (11.1M) | Abrahanny (2.4M) | RestlessMinds (2.1M) | GarryB1rd (1.6M) | MintFace (820K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_8a6a77f5-cb65-4c27-9501-cb9cb2b2401a/2b3d53bb-0b63-4380-9071-647f13ec0c48.mov",
-        "label": "JamesAndrew (5.5M)",
+        "label": "JamesAndrew (11.6M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_8a6a77f5-cb65-4c27-9501-cb9cb2b2401a/2b3d53bb-0b63-4380-9071-647f13ec0c48.mov",
-          "label": "JamesAndrew (5.5M)",
+          "label": "JamesAndrew (11.6M)",
           "type": "video"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_eb1f7ed0-a501-46c2-8433-1496f624a490/aa40e70e-df3a-4581-bfb0-3e87e15aeaa5.mp4",
-          "label": "Abrahanny (2.3M)",
+          "label": "Abrahanny (2.4M)",
           "type": "video"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/6170bbe2-b41c-4814-b97e-8f64b80526ca.jpg",
-          "label": "GarryB1rd (1.8M)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0aa5df2e-a14b-4e00-971b-5b8eb826e5eb/511ca0a0-e872-41de-9f03-40175a6f95a4.gif",
+          "label": "RestlessMinds (2.1M)",
           "type": "image"
         }
       ],
@@ -125,7 +146,7 @@
     {
       "category": "TOP SUPERRARE",
       "headline": "#3 Zigmarillion \u2014 1.2M TDH",
-      "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (306K) | Gsen (149K)",
+      "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
@@ -135,64 +156,77 @@
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529 Active in Network Museum SAFE Signers, maybe's dive bar, Announcements",
-      "summary": "Active in Network Museum SAFE Signers, maybe's dive bar, Announcements.",
-      "source": "Network Museum SAFE Signers",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 0.87 ETH Volume",
-      "summary": "17 sales in 24h for 0.87 ETH. Highest: \"Pepe X\" at 0.171 ETH.",
+      "headline": "8 Sales Today - 0.18 ETH Volume",
+      "summary": "8 sales in 24h for 0.18 ETH. Highest: \"The Network\" at 0.065 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
-        "label": "Pepe X - 0.171 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/473.WEBP",
+        "label": "The Network - 0.065 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
-          "label": "Pepe X - 0.171 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/473.WEBP",
+          "label": "The Network - 0.065 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.120 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/404.GIF",
+          "label": "Weight of Culture - 0.040 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/421.GIF",
-          "label": "inception - 0.077 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/61.WEBP",
+          "label": "survive at all cost - 0.028 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "8",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.87",
+          "value": "0.18",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.171",
-          "sub": "Pepe X"
+          "value": "0.065",
+          "sub": "The Network"
         },
         {
           "label": "Floor",
-          "value": "0.0167",
+          "value": "0.01664444",
+          "sub": "ETH"
+        }
+      ]
+    },
+    {
+      "category": "PEBBLES",
+      "headline": "Pebbles: 1 Sales - 0.306 ETH",
+      "summary": "1 Pebbles sold in the last 24h for a total of 0.306 ETH. Current floor: 0.595 ETH.",
+      "source": "OpenSea",
+      "link": "https://opensea.io/collection/pebbles-by-zeblocks",
+      "image": null,
+      "dataBoxes": [
+        {
+          "label": "Sales 24h",
+          "value": "1",
+          "sub": ""
+        },
+        {
+          "label": "Volume",
+          "value": "0.306",
+          "sub": "ETH"
+        },
+        {
+          "label": "Floor",
+          "value": "0.595",
           "sub": "ETH"
         }
       ]
@@ -201,25 +235,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.87 ETH",
-      "raw": 0.8714,
-      "delta": -0.06740000000000002,
-      "delta_fmt": "-7.2%"
+      "value": "0.18 ETH",
+      "raw": 0.1779,
+      "delta": -0.2914,
+      "delta_fmt": "-62.1%"
     },
     {
       "label": "7d Vol",
-      "value": "20.22 ETH",
-      "raw": 20.2235
+      "value": "19.67 ETH",
+      "raw": 19.6667
     },
     {
       "label": "30d Vol",
-      "value": "53.93 ETH",
-      "raw": 53.9275
+      "value": "49.72 ETH",
+      "raw": 49.7171
     },
     {
       "label": "Full Set Bid",
-      "value": "39.8 ETH",
-      "raw": 39.77
+      "value": "38.9 ETH",
+      "raw": 38.86,
+      "delta": -1.2999999999999972,
+      "delta_fmt": "-1.30 ETH"
     },
     {
       "label": "Full Set",
@@ -233,19 +269,20 @@
     },
     {
       "label": "Network TDH",
-      "value": "1512.1M",
-      "raw": 1512055757
+      "value": "1517.0M",
+      "raw": 1517000664
     },
     {
-      "label": "#1 fercaggiano",
-      "value": "65.7M TDH",
-      "raw": 65728918
+      "label": "#1 JoelleLB",
+      "value": "68.8M TDH",
+      "raw": 68774391
     }
   ],
   "headline_extras": [
-    "PUNK6529 ACTIVE NOW IN ANNOUNCEMENTS WITH 10 MSGS",
-    "DIVE BAR: 295 MSGS IN LAST 6H",
-    "CARD #480: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | 6529 NEWS",
-    "ACTIVE TODAY: JAMESANDREW (80 MSGS) | WALASAVAGEPHOTO (55) | MAYBE (55)"
+    "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 6h AGO",
+    "DIVE BAR: 77 MSGS IN LAST 6H",
+    "CARD #481: 125 MINTS (EXCL. MUSEUM) | 94 HOLDERS | THE SACRIFICE OF THE MEMES",
+    "ACTIVE TODAY: MAYBE (265 MSGS) | GPEBBLES (185) | FRANKIEHGIH_ETH (131)"
   ]
 }
