@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T13:59:23.067325+00:00",
+  "generated_at": "2026-04-11T14:44:30.007217+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -145,20 +145,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "9 Sales Today - 0.52 ETH Volume",
-      "summary": "9 sales in 24h for 0.52 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
+      "headline": "5 Sales Today - 0.43 ETH Volume",
+      "summary": "5 sales in 24h for 0.43 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -186,12 +186,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "9",
+          "value": "5",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.52",
+          "value": "0.43",
           "sub": "ETH"
         },
         {
@@ -256,10 +256,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.52 ETH",
-      "raw": 0.5187,
-      "delta": 0.11530000000000007,
-      "delta_fmt": "+28.6%"
+      "value": "0.43 ETH",
+      "raw": 0.4331,
+      "delta": -0.055900000000000005,
+      "delta_fmt": "-11.4%"
     },
     {
       "label": "7d Vol",
@@ -274,9 +274,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.6 ETH",
-      "raw": 39.64,
-      "delta": -0.1599999999999966,
-      "delta_fmt": "-0.16 ETH"
+      "raw": 39.62,
+      "delta": -0.020000000000003126,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Full Set",
@@ -296,16 +296,16 @@
     {
       "label": "#1 JoelleLB",
       "value": "68.9M TDH",
-      "raw": 68874391,
-      "delta": 100000,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 68874494,
+      "delta": 103,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
     "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 10h AGO",
-    "CARD #481: 130 MINTS (EXCL. MUSEUM) | 99 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: MAYBE (291 MSGS) | GPEBBLES (263) | FRANKIEHGIH_ETH (131)",
-    "DIVE BAR: 503 MSGS IN LAST 6H"
+    "DIVE BAR: 555 MSGS IN LAST 6H",
+    "CARD #481: 132 MINTS (EXCL. MUSEUM) | 101 HOLDERS | THE SACRIFICE OF THE MEMES",
+    "ACTIVE TODAY: MAYBE (271 MSGS) | GPEBBLES (264) | FRANKIEHGIH_ETH (131)"
   ]
 }
