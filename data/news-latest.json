@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T00:00:29.730935+00:00",
+  "generated_at": "2026-04-11T03:14:38.592791+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "JoelleLB Leads with 68.5M Projected TDH",
-      "summary": "\"Codex Obscura\" by JoelleLB (68.5M projected TDH, 99 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 126 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
+      "headline": "JoelleLB Leads with 68.7M Projected TDH",
+      "summary": "\"Codex Obscura\" by JoelleLB (68.7M projected TDH, 101 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 127 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "JoelleLB",
-          "value": "68.5M",
-          "sub": "proj. (99 votes)"
+          "value": "68.7M",
+          "sub": "proj. (101 votes)"
         },
         {
           "label": "Guidodisalle",
           "value": "47.9M",
-          "sub": "proj. (126 votes)"
+          "sub": "proj. (127 votes)"
         },
         {
           "label": "Nrsin",
@@ -60,7 +60,7 @@
     {
       "category": "MUSEUM SIGNERS",
       "headline": "Museum Vault Signers Elected \u2014 HugoFaz & maybe",
-      "summary": "HugoFaz and maybe elected as Network Museum Vault Signers. Alternates: blocknoob (7.2M) & david (6.5M).",
+      "summary": "HugoFaz and maybe elected as Network Museum Vault Signers. Alternates: blocknoob (7.2M) & david (6.6M).",
       "source": "Network Museum",
       "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
       "image": {
@@ -108,7 +108,7 @@
         },
         {
           "label": "#4 david",
-          "value": "6.5M",
+          "value": "6.6M",
           "sub": "Alternate"
         }
       ]
@@ -116,7 +116,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "6 New Memes Submissions This Week",
-      "summary": "6 submissions this week. Ranking: JamesAndrew (11.6M) | 1dontknows (11.1M) | Abrahanny (2.4M) | RestlessMinds (2.1M) | GarryB1rd (1.8M) | MintFace (814K).",
+      "summary": "6 submissions this week. Ranking: JamesAndrew (11.6M) | 1dontknows (11.1M) | Abrahanny (2.4M) | RestlessMinds (2.1M) | GarryB1rd (1.6M) | MintFace (814K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -145,20 +145,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 JasonOPhoto \u2014 2.1M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.1M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "18 Sales Today - 0.40 ETH Volume",
-      "summary": "18 sales in 24h for 0.40 ETH. Highest: \"The Network\" at 0.065 ETH.",
+      "headline": "13 Sales Today - 0.29 ETH Volume",
+      "summary": "13 sales in 24h for 0.29 ETH. Highest: \"The Network\" at 0.065 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -186,12 +186,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "18",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.40",
+          "value": "0.29",
           "sub": "ETH"
         },
         {
@@ -210,27 +210,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.40 ETH",
-      "raw": 0.4019,
-      "delta": -0.4695,
-      "delta_fmt": "-53.9%"
+      "value": "0.29 ETH",
+      "raw": 0.2916,
+      "delta": -0.37399999999999994,
+      "delta_fmt": "-56.2%"
     },
     {
       "label": "7d Vol",
-      "value": "20.05 ETH",
-      "raw": 20.0546
+      "value": "19.98 ETH",
+      "raw": 19.9777
     },
     {
       "label": "30d Vol",
-      "value": "50.81 ETH",
-      "raw": 50.8124
+      "value": "49.72 ETH",
+      "raw": 49.7171
     },
     {
       "label": "Full Set Bid",
       "value": "40.1 ETH",
-      "raw": 40.07,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 40.06,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -244,21 +244,23 @@
     },
     {
       "label": "Network TDH",
-      "value": "1514.5M",
-      "raw": 1514512227
+      "value": "1517.0M",
+      "raw": 1517000664,
+      "delta": 2488437,
+      "delta_fmt": "+2.5M TDH"
     },
     {
       "label": "#1 JoelleLB",
-      "value": "68.5M TDH",
-      "raw": 68545523,
-      "delta": 17,
-      "delta_fmt": "+0.0M TDH"
+      "value": "68.7M TDH",
+      "raw": 68740450,
+      "delta": 194927,
+      "delta_fmt": "+0.2M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "CARD #481: 124 MINTS (EXCL. MUSEUM) | 94 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: MAYBE (253 MSGS) | GPEBBLES (182) | FRANKIEHGIH_ETH (131)",
-    "DIVE BAR: 731 MSGS IN LAST 6H"
+    "DIVE BAR: 641 MSGS IN LAST 6H",
+    "CARD #481: 125 MINTS (EXCL. MUSEUM) | 94 HOLDERS | THE SACRIFICE OF THE MEMES",
+    "ACTIVE TODAY: MAYBE (267 MSGS) | GPEBBLES (182) | FRANKIEHGIH_ETH (131)"
   ]
 }
