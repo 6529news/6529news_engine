@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T05:07:30.864905+00:00",
+  "generated_at": "2026-04-11T06:13:37.365221+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "JoelleLB Leads with 68.7M Projected TDH",
-      "summary": "\"Codex Obscura\" by JoelleLB (68.7M projected TDH, 100 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 127 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
+      "headline": "JoelleLB Leads with 68.8M Projected TDH",
+      "summary": "\"Codex Obscura\" by JoelleLB (68.8M projected TDH, 100 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 127 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "JoelleLB",
-          "value": "68.7M",
+          "value": "68.8M",
           "sub": "proj. (100 votes)"
         },
         {
@@ -237,8 +237,8 @@
       "label": "24h Vol",
       "value": "0.21 ETH",
       "raw": 0.206,
-      "delta": -0.47520000000000007,
-      "delta_fmt": "-69.8%"
+      "delta": -0.4062,
+      "delta_fmt": "-66.4%"
     },
     {
       "label": "7d Vol",
@@ -252,10 +252,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.0 ETH",
-      "raw": 40.03,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.09,
+      "delta": 0.060000000000002274,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Full Set",
@@ -274,17 +274,17 @@
     },
     {
       "label": "#1 JoelleLB",
-      "value": "68.7M TDH",
-      "raw": 68740838,
-      "delta": 388,
+      "value": "68.8M TDH",
+      "raw": 68770367,
+      "delta": 29529,
       "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 1h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 2h AGO",
+    "DIVE BAR: 131 MSGS IN LAST 6H",
     "CARD #481: 125 MINTS (EXCL. MUSEUM) | 94 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: MAYBE (266 MSGS) | GPEBBLES (185) | FRANKIEHGIH_ETH (131)",
-    "DIVE BAR: 184 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (265 MSGS) | GPEBBLES (185) | FRANKIEHGIH_ETH (131)"
   ]
 }
