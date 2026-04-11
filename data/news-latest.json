@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T09:02:05.909235+00:00",
+  "generated_at": "2026-04-11T09:57:42.607429+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "JoelleLB Leads with 68.8M Projected TDH",
-      "summary": "\"Codex Obscura\" by JoelleLB (68.8M projected TDH, 100 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 127 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
+      "summary": "\"Codex Obscura\" by JoelleLB (68.8M projected TDH, 100 voters) | \"Credo quia absurdum\" by Guidodisalle (47.9M projected TDH, 128 voters) | \"ASCENT\" by Nrsin (29.8M projected TDH, 43 voters) Next selection: Mon Apr 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +48,7 @@
         {
           "label": "Guidodisalle",
           "value": "47.9M",
-          "sub": "proj. (127 votes)"
+          "sub": "proj. (128 votes)"
         },
         {
           "label": "Nrsin",
@@ -145,13 +145,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 308K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (308K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -252,8 +252,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.2 ETH",
-      "raw": 40.16
+      "value": "38.9 ETH",
+      "raw": 38.86,
+      "delta": -1.2999999999999972,
+      "delta_fmt": "-1.30 ETH"
     },
     {
       "label": "Full Set",
@@ -273,16 +275,14 @@
     {
       "label": "#1 JoelleLB",
       "value": "68.8M TDH",
-      "raw": 68774391,
-      "delta": 3409,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 68774391
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 5h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 6h AGO",
+    "DIVE BAR: 77 MSGS IN LAST 6H",
     "CARD #481: 125 MINTS (EXCL. MUSEUM) | 94 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: MAYBE (265 MSGS) | GPEBBLES (185) | FRANKIEHGIH_ETH (131)",
-    "DIVE BAR: 77 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (265 MSGS) | GPEBBLES (185) | FRANKIEHGIH_ETH (131)"
   ]
 }
