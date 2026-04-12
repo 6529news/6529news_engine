@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T18:00:56.867237+00:00",
+  "generated_at": "2026-04-12T19:08:27.929094+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -132,20 +132,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "9 Sales Today - 0.48 ETH Volume",
-      "summary": "9 sales in 24h for 0.48 ETH. Highest: \"The JPEGs Are Coming For Your Institutions\" at 0.075 ETH.",
+      "headline": "5 Sales Today - 0.27 ETH Volume",
+      "summary": "5 sales in 24h for 0.27 ETH. Highest: \"The JPEGs Are Coming For Your Institutions\" at 0.075 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -173,12 +173,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "9",
+          "value": "5",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.48",
+          "value": "0.27",
           "sub": "ETH"
         },
         {
@@ -197,27 +197,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.48 ETH",
-      "raw": 0.4757,
-      "delta": -0.045399999999999996,
-      "delta_fmt": "-8.7%"
+      "value": "0.27 ETH",
+      "raw": 0.2677,
+      "delta": -0.1753,
+      "delta_fmt": "-39.6%"
     },
     {
       "label": "7d Vol",
-      "value": "19.09 ETH",
-      "raw": 19.087
+      "value": "18.79 ETH",
+      "raw": 18.7931
     },
     {
       "label": "30d Vol",
-      "value": "48.41 ETH",
-      "raw": 48.405
+      "value": "48.20 ETH",
+      "raw": 48.197
     },
     {
       "label": "Full Set Bid",
-      "value": "38.9 ETH",
-      "raw": 38.89,
-      "delta": -0.519999999999996,
-      "delta_fmt": "-0.52 ETH"
+      "value": "39.0 ETH",
+      "raw": 38.95,
+      "delta": 0.060000000000002274,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Full Set",
@@ -237,15 +237,13 @@
     {
       "label": "#1 JoelleLB",
       "value": "75.6M TDH",
-      "raw": 75608392,
-      "delta": 189,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 75608392
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 361 MSGS IN LAST 6H",
     "CARD #481: 132 MINTS (EXCL. MUSEUM) | 101 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: GPEBBLES (179 MSGS) | MAYBE (80) | GRAFFITIONGRAVE (55)",
-    "DIVE BAR: 421 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GPEBBLES (151 MSGS) | MAYBE (57) | GRAFFITIONGRAVE (55)"
   ]
 }
