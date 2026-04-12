@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T05:54:23.513155+00:00",
+  "generated_at": "2026-04-12T07:14:27.069842+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -132,13 +132,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "Articulate Leads with 2.2M TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
@@ -204,8 +204,8 @@
     },
     {
       "label": "7d Vol",
-      "value": "19.25 ETH",
-      "raw": 19.2494
+      "value": "19.17 ETH",
+      "raw": 19.1723
     },
     {
       "label": "30d Vol",
@@ -214,10 +214,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.3 ETH",
-      "raw": 39.29,
-      "delta": -0.10999999999999943,
-      "delta_fmt": "-0.11 ETH"
+      "value": "39.4 ETH",
+      "raw": 39.36,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Full Set",
@@ -237,15 +237,13 @@
     {
       "label": "#1 JoelleLB",
       "value": "75.6M TDH",
-      "raw": 75635554,
-      "delta": 5628013,
-      "delta_fmt": "+5.6M TDH"
+      "raw": 75635554
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 98 MSGS IN LAST 6H",
     "CARD #481: 132 MINTS (EXCL. MUSEUM) | 101 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: JAMESANDREW (142 MSGS) | GPEBBLES (107) | KRISTOPHER (98)",
-    "DIVE BAR: 94 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (142 MSGS) | GPEBBLES (107) | KRISTOPHER (98)"
   ]
 }
