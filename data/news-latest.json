@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T00:05:23.062622+00:00",
+  "generated_at": "2026-04-12T03:46:50.507572+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -102,8 +102,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "7 New Memes Submissions This Week",
-      "summary": "7 submissions this week. Ranking: JamesAndrew (11.7M) | 1dontknows (11.1M) | Abrahanny (2.6M) | RestlessMinds (2.1M) | GarryB1rd (1.6M) | Articulate (1.4M) | MintFace (820K).",
+      "headline": "6 New Memes Submissions This Week",
+      "summary": "6 submissions this week. Ranking: JamesAndrew (11.7M) | 1dontknows (11.1M) | Abrahanny (2.6M) | RestlessMinds (2.1M) | GarryB1rd (1.6M) | Articulate (1.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -188,7 +188,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01664344",
+          "value": "0.01664343999",
           "sub": "ETH"
         }
       ]
@@ -245,25 +245,25 @@
       "label": "24h Vol",
       "value": "0.46 ETH",
       "raw": 0.4607,
-      "delta": 0.05880000000000002,
-      "delta_fmt": "+14.6%"
+      "delta": 0.16909999999999997,
+      "delta_fmt": "+58.0%"
     },
     {
       "label": "7d Vol",
-      "value": "19.42 ETH",
-      "raw": 19.417
+      "value": "19.20 ETH",
+      "raw": 19.2044
     },
     {
       "label": "30d Vol",
-      "value": "50.20 ETH",
-      "raw": 50.1998
+      "value": "47.93 ETH",
+      "raw": 47.926
     },
     {
       "label": "Full Set Bid",
-      "value": "39.6 ETH",
-      "raw": 39.57,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "39.4 ETH",
+      "raw": 39.4,
+      "delta": -0.1700000000000017,
+      "delta_fmt": "-0.17 ETH"
     },
     {
       "label": "Full Set",
@@ -277,8 +277,10 @@
     },
     {
       "label": "Network TDH",
-      "value": "1517.0M",
-      "raw": 1517000664
+      "value": "1519.5M",
+      "raw": 1519523644,
+      "delta": 2522980,
+      "delta_fmt": "+2.5M TDH"
     },
     {
       "label": "#1 JoelleLB",
@@ -288,9 +290,9 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 20h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 23h AGO",
+    "DIVE BAR: 101 MSGS IN LAST 6H",
     "CARD #481: 132 MINTS (EXCL. MUSEUM) | 101 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: JAMESANDREW (149 MSGS) | GPEBBLES (110) | KRISTOPHER (99)",
-    "DIVE BAR: 110 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (142 MSGS) | GPEBBLES (107) | KRISTOPHER (93)"
   ]
 }
