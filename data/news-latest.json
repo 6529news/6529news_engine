@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T10:59:45.775433+00:00",
+  "generated_at": "2026-04-12T11:41:28.689067+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -132,20 +132,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "9 Sales Today - 0.58 ETH Volume",
-      "summary": "9 sales in 24h for 0.58 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
+      "headline": "10 Sales Today - 0.65 ETH Volume",
+      "summary": "10 sales in 24h for 0.65 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -173,12 +173,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "9",
+          "value": "10",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.58",
+          "value": "0.65",
           "sub": "ETH"
         },
         {
@@ -197,37 +197,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.58 ETH",
-      "raw": 0.5757,
-      "delta": 0.3978,
-      "delta_fmt": "+223.6%"
+      "value": "0.65 ETH",
+      "raw": 0.6507,
+      "delta": 0.48699999999999993,
+      "delta_fmt": "+297.5%"
     },
     {
       "label": "7d Vol",
-      "value": "19.24 ETH",
-      "raw": 19.2423
+      "value": "19.32 ETH",
+      "raw": 19.3173
     },
     {
       "label": "30d Vol",
-      "value": "48.04 ETH",
-      "raw": 48.041
+      "value": "48.12 ETH",
+      "raw": 48.116
     },
     {
       "label": "Full Set Bid",
-      "value": "39.4 ETH",
-      "raw": 39.42,
-      "delta": 0.010000000000005116,
-      "delta_fmt": "+0.01 ETH"
+      "value": "39.1 ETH",
+      "raw": 39.11,
+      "delta": -0.3100000000000023,
+      "delta_fmt": "-0.31 ETH"
     },
     {
       "label": "Full Set",
-      "value": "53",
-      "raw": 53
+      "value": "33",
+      "raw": 33,
+      "delta": -20,
+      "delta_fmt": "-20"
     },
     {
       "label": "Holders",
-      "value": "10,154",
-      "raw": 10154
+      "value": "10,159",
+      "raw": 10159,
+      "delta": 5,
+      "delta_fmt": "+5"
     },
     {
       "label": "Network TDH",
@@ -242,8 +246,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 61 MSGS IN LAST 6H",
     "CARD #481: 132 MINTS (EXCL. MUSEUM) | 101 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: JAMESANDREW (142 MSGS) | GPEBBLES (107) | KRISTOPHER (98)",
-    "DIVE BAR: 59 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (142 MSGS) | GPEBBLES (107) | KRISTOPHER (98)"
   ]
 }
