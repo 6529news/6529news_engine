@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T11:41:28.689067+00:00",
+  "generated_at": "2026-04-12T12:04:40.403461+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -103,7 +103,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "6 New Memes Submissions This Week",
-      "summary": "6 submissions this week. Ranking: JamesAndrew (11.7M) | 1dontknows (11.1M) | Abrahanny (2.6M) | RestlessMinds (2.1M) | GarryB1rd (1.6M) | Articulate (1.4M).",
+      "summary": "6 submissions this week. Ranking: JamesAndrew (11.7M) | 1dontknows (11.1M) | Abrahanny (2.6M) | RestlessMinds (2.1M) | GarryB1rd (1.7M) | Articulate (1.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -132,13 +132,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "Articulate (2.2M) | JasonOPhoto (2.1M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
@@ -204,8 +204,8 @@
     },
     {
       "label": "7d Vol",
-      "value": "19.32 ETH",
-      "raw": 19.3173
+      "value": "18.82 ETH",
+      "raw": 18.819
     },
     {
       "label": "30d Vol",
@@ -214,24 +214,20 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.1 ETH",
-      "raw": 39.11,
-      "delta": -0.3100000000000023,
-      "delta_fmt": "-0.31 ETH"
+      "value": "39.0 ETH",
+      "raw": 39.01,
+      "delta": -0.10000000000000142,
+      "delta_fmt": "-0.10 ETH"
     },
     {
       "label": "Full Set",
       "value": "33",
-      "raw": 33,
-      "delta": -20,
-      "delta_fmt": "-20"
+      "raw": 33
     },
     {
       "label": "Holders",
       "value": "10,159",
-      "raw": 10159,
-      "delta": 5,
-      "delta_fmt": "+5"
+      "raw": 10159
     },
     {
       "label": "Network TDH",
@@ -246,8 +242,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 67 MSGS IN LAST 6H",
     "CARD #481: 132 MINTS (EXCL. MUSEUM) | 101 HOLDERS | THE SACRIFICE OF THE MEMES",
-    "ACTIVE TODAY: JAMESANDREW (142 MSGS) | GPEBBLES (107) | KRISTOPHER (98)",
-    "DIVE BAR: 63 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (142 MSGS) | GPEBBLES (107) | KRISTOPHER (98)"
   ]
 }
