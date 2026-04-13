@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T22:03:01.050441+00:00",
+  "generated_at": "2026-04-13T23:03:43.429767+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"An Artist's Life\" by fercaggiano \u2014 65.9M TDH from 92 voters. Top supporter: Thor (8.7M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"An Artist's Life\" by fercaggiano \u2014 65.9M TDH from 92 voters. Top supporter: Thor (8.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -227,10 +227,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.0 ETH",
-      "raw": 38.96,
-      "delta": -0.269999999999996,
-      "delta_fmt": "-0.27 ETH"
+      "value": "39.1 ETH",
+      "raw": 39.08,
+      "delta": 0.11999999999999744,
+      "delta_fmt": "+0.12 ETH"
     },
     {
       "label": "Full Set",
@@ -250,15 +250,13 @@
     {
       "label": "#1 Guidodisalle",
       "value": "48.0M TDH",
-      "raw": 47964658,
-      "delta": 11,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 47964658
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 676 MSGS IN LAST 6H",
     "CARD #482: 125 MINTS (EXCL. MUSEUM) | 91 HOLDERS | AN ARTIST'S LIFE",
-    "ACTIVE TODAY: ZOKU (67 MSGS) | GPEBBLES (63) | JASONOPHOTO (50)",
-    "DIVE BAR: 677 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JASONOPHOTO (103 MSGS) | GPEBBLES (75) | ZOKU (73)"
   ]
 }
