@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T23:03:43.429767+00:00",
+  "generated_at": "2026-04-13T23:59:46.293729+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -145,20 +145,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "12 Sales Today - 0.37 ETH Volume",
-      "summary": "12 sales in 24h for 0.37 ETH. Highest: \"Fortitude\" at 0.075 ETH.",
+      "headline": "13 Sales Today - 0.41 ETH Volume",
+      "summary": "13 sales in 24h for 0.41 ETH. Highest: \"Fortitude\" at 0.075 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -186,12 +186,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "12",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.37",
+          "value": "0.41",
           "sub": "ETH"
         },
         {
@@ -210,27 +210,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.37 ETH",
-      "raw": 0.373,
-      "delta": 0.123,
-      "delta_fmt": "+49.2%"
+      "value": "0.41 ETH",
+      "raw": 0.413,
+      "delta": 0.16299999999999998,
+      "delta_fmt": "+65.2%"
     },
     {
       "label": "7d Vol",
-      "value": "4.05 ETH",
-      "raw": 4.0531
+      "value": "4.09 ETH",
+      "raw": 4.0931
     },
     {
       "label": "30d Vol",
-      "value": "46.69 ETH",
-      "raw": 46.6886
+      "value": "46.73 ETH",
+      "raw": 46.7286
     },
     {
       "label": "Full Set Bid",
-      "value": "39.1 ETH",
-      "raw": 39.08,
-      "delta": 0.11999999999999744,
-      "delta_fmt": "+0.12 ETH"
+      "value": "38.8 ETH",
+      "raw": 38.78,
+      "delta": -0.29999999999999716,
+      "delta_fmt": "-0.30 ETH"
     },
     {
       "label": "Full Set",
@@ -255,8 +255,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 696 MSGS IN LAST 6H",
     "CARD #482: 125 MINTS (EXCL. MUSEUM) | 91 HOLDERS | AN ARTIST'S LIFE",
-    "ACTIVE TODAY: JASONOPHOTO (103 MSGS) | GPEBBLES (75) | ZOKU (73)",
-    "DIVE BAR: 694 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JASONOPHOTO (112 MSGS) | ZOKU (84) | GPEBBLES (80)"
   ]
 }
