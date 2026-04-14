@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T05:50:51.938762+00:00",
+  "generated_at": "2026-04-14T07:46:17.082175+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -145,20 +145,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 0.41 ETH Volume",
-      "summary": "13 sales in 24h for 0.41 ETH. Highest: \"Fortitude\" at 0.075 ETH.",
+      "headline": "11 Sales Today - 0.42 ETH Volume",
+      "summary": "11 sales in 24h for 0.42 ETH. Highest: \"Fortitude\" at 0.075 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -186,12 +186,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "11",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.41",
+          "value": "0.42",
           "sub": "ETH"
         },
         {
@@ -201,7 +201,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01664244",
+          "value": "0.01664243999",
           "sub": "ETH"
         }
       ]
@@ -210,27 +210,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.41 ETH",
-      "raw": 0.4125,
-      "delta": 0.09709999999999996,
-      "delta_fmt": "+30.8%"
+      "value": "0.42 ETH",
+      "raw": 0.4234,
+      "delta": 0.09389999999999998,
+      "delta_fmt": "+28.5%"
     },
     {
       "label": "7d Vol",
-      "value": "3.95 ETH",
-      "raw": 3.9534
+      "value": "3.78 ETH",
+      "raw": 3.7773
     },
     {
       "label": "30d Vol",
-      "value": "44.60 ETH",
-      "raw": 44.6046
+      "value": "44.67 ETH",
+      "raw": 44.6746
     },
     {
       "label": "Full Set Bid",
       "value": "38.8 ETH",
-      "raw": 38.78,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 38.8,
+      "delta": 0.01999999999999602,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Full Set",
@@ -250,15 +250,13 @@
     {
       "label": "#1 Guidodisalle",
       "value": "48.1M TDH",
-      "raw": 48132271,
-      "delta": 167613,
-      "delta_fmt": "+0.2M TDH"
+      "raw": 48132271
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "CARD #482: 126 MINTS (EXCL. MUSEUM) | 92 HOLDERS | AN ARTIST'S LIFE",
-    "ACTIVE TODAY: JASONOPHOTO (111 MSGS) | ZOKU (85) | GPEBBLES (80)",
-    "DIVE BAR: 122 MSGS IN LAST 6H"
+    "DIVE BAR: 140 MSGS IN LAST 6H",
+    "CARD #482: 128 MINTS (EXCL. MUSEUM) | 93 HOLDERS | AN ARTIST'S LIFE",
+    "ACTIVE TODAY: JASONOPHOTO (111 MSGS) | ZOKU (85) | GPEBBLES (80)"
   ]
 }
