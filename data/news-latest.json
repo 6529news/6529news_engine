@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T21:07:52.637446+00:00",
+  "generated_at": "2026-04-14T22:06:55.412432+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 48.1M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"From Network Society with Love\" by Fitzcarraldo (43.4M projected TDH, 36 voters) | \"ASCENT\" by Nrsin (32.7M projected TDH, 46 voters) Next selection: Wed Apr 15 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"From Network Society with Love\" by Fitzcarraldo (47.6M projected TDH, 40 voters) | \"ASCENT\" by Nrsin (32.7M projected TDH, 46 voters) Next selection: Wed Apr 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "Fitzcarraldo",
-          "value": "43.4M",
-          "sub": "proj. (36 votes)"
+          "value": "47.6M",
+          "sub": "proj. (40 votes)"
         },
         {
           "label": "Nrsin",
@@ -132,13 +132,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -214,10 +214,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH",
-      "raw": 38.67,
-      "delta": 0.44000000000000483,
-      "delta_fmt": "+0.44 ETH"
+      "value": "38.9 ETH",
+      "raw": 38.88,
+      "delta": 0.21000000000000085,
+      "delta_fmt": "+0.21 ETH"
     },
     {
       "label": "Full Set",
@@ -237,15 +237,13 @@
     {
       "label": "#1 Guidodisalle",
       "value": "48.1M TDH",
-      "raw": 48110994,
-      "delta": 7076,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 48110994
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 433 MSGS IN LAST 6H",
     "CARD #482: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | AN ARTIST'S LIFE",
-    "ACTIVE TODAY: SIMO (189 MSGS) | MAYBE (159) | GRAFFITIONGRAVE (89)",
-    "DIVE BAR: 433 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SIMO (189 MSGS) | MAYBE (137) | GRAFFITIONGRAVE (89)"
   ]
 }
