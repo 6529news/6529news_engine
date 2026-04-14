@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T22:06:55.412432+00:00",
+  "generated_at": "2026-04-14T23:05:34.274258+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING WEDNESDAY",
-      "headline": "Minting Wednesday",
-      "summary": " \"Codex Obscura\" by JoelleLB \u2014 77.5M TDH from 108 voters. Top supporter: Thor (8.0M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Codex Obscura\" by JoelleLB \u2014 77.5M TDH from 108 voters. Top supporter: Thor (8.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -17,30 +17,30 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Guidodisalle Leads with 48.1M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"From Network Society with Love\" by Fitzcarraldo (47.6M projected TDH, 40 voters) | \"ASCENT\" by Nrsin (32.7M projected TDH, 46 voters) Next selection: Wed Apr 15 at 17:00 CET.",
+      "headline": "Fitzcarraldo Leads with 57.6M Projected TDH",
+      "summary": "\"From Network Society with Love\" by Fitzcarraldo (57.6M projected TDH, 42 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"The Meme Market\" by 1dontknows (32.0M projected TDH, 45 voters) Next selection: Wed Apr 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e4aa2c78-c159-4625-bc64-dfb6684c814c/f98ac686-9094-4a01-98c8-4ebf23d289bc.jpg",
-        "label": "Credo quia absurdum - Guidodisalle",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_cea44605-fb72-4de9-a2eb-c9c13102ee93/c275a125-cd05-422e-b84d-2fa6cf1904bd.gif",
+        "label": "From Network Society with Love - Fitzcarraldo",
         "type": "image"
       },
       "dataBoxes": [
+        {
+          "label": "Fitzcarraldo",
+          "value": "57.6M",
+          "sub": "proj. (42 votes)"
+        },
         {
           "label": "Guidodisalle",
           "value": "48.1M",
           "sub": "proj. (129 votes)"
         },
         {
-          "label": "Fitzcarraldo",
-          "value": "47.6M",
-          "sub": "proj. (40 votes)"
-        },
-        {
-          "label": "Nrsin",
-          "value": "32.7M",
-          "sub": "proj. (46 votes)"
+          "label": "1dontknows",
+          "value": "32.0M",
+          "sub": "proj. (45 votes)"
         }
       ]
     },
@@ -132,13 +132,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
@@ -215,9 +215,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.9 ETH",
-      "raw": 38.88,
-      "delta": 0.21000000000000085,
-      "delta_fmt": "+0.21 ETH"
+      "raw": 38.92,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Full Set",
@@ -235,15 +235,17 @@
       "raw": 1524595150
     },
     {
-      "label": "#1 Guidodisalle",
-      "value": "48.1M TDH",
-      "raw": 48110994
+      "label": "#1 Fitzcarraldo",
+      "value": "57.6M TDH",
+      "raw": 57600407,
+      "delta": 9489413,
+      "delta_fmt": "+9.5M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 363 MSGS IN LAST 6H",
     "CARD #482: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | AN ARTIST'S LIFE",
-    "ACTIVE TODAY: SIMO (189 MSGS) | MAYBE (137) | GRAFFITIONGRAVE (89)",
-    "DIVE BAR: 372 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SIMO (189 MSGS) | MAYBE (137) | GRAFFITIONGRAVE (89)"
   ]
 }
