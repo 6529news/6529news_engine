@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T10:45:11.394954+00:00",
+  "generated_at": "2026-04-14T11:44:31.624309+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -115,16 +115,21 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: JamesAndrew (14.1M) | Abrahanny (2.7M) | RestlessMinds (2.2M) | Articulate (1.7M).",
+      "headline": "5 New Memes Submissions This Week",
+      "summary": "5 submissions this week. Ranking: Fitzcarraldo (15.4M) | JamesAndrew (14.1M) | Abrahanny (2.7M) | RestlessMinds (2.2M) | Articulate (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_8a6a77f5-cb65-4c27-9501-cb9cb2b2401a/2b3d53bb-0b63-4380-9071-647f13ec0c48.mov",
-        "label": "JamesAndrew (14.1M)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_cea44605-fb72-4de9-a2eb-c9c13102ee93/c275a125-cd05-422e-b84d-2fa6cf1904bd.gif",
+        "label": "Fitzcarraldo (15.4M)",
+        "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_cea44605-fb72-4de9-a2eb-c9c13102ee93/c275a125-cd05-422e-b84d-2fa6cf1904bd.gif",
+          "label": "Fitzcarraldo (15.4M)",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_8a6a77f5-cb65-4c27-9501-cb9cb2b2401a/2b3d53bb-0b63-4380-9071-647f13ec0c48.mov",
           "label": "JamesAndrew (14.1M)",
@@ -134,31 +139,26 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_eb1f7ed0-a501-46c2-8433-1496f624a490/aa40e70e-df3a-4581-bfb0-3e87e15aeaa5.mp4",
           "label": "Abrahanny (2.7M)",
           "type": "video"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0aa5df2e-a14b-4e00-971b-5b8eb826e5eb/511ca0a0-e872-41de-9f03-40175a6f95a4.gif",
-          "label": "RestlessMinds (2.2M)",
-          "type": "image"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "12 Sales Today - 0.62 ETH Volume",
-      "summary": "12 sales in 24h for 0.62 ETH. Highest: \"Survive and Thrive\" at 0.142 ETH.",
+      "headline": "13 Sales Today - 0.72 ETH Volume",
+      "summary": "13 sales in 24h for 0.72 ETH. Highest: \"Survive and Thrive\" at 0.142 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -173,25 +173,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/270.GIF",
-          "label": "Fortitude - 0.075 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/246.GIF",
+          "label": "Inside the Vault - 0.100 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.072 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/270.GIF",
+          "label": "Fortitude - 0.075 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "12",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.62",
+          "value": "0.72",
           "sub": "ETH"
         },
         {
@@ -210,37 +210,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.62 ETH",
-      "raw": 0.6243,
-      "delta": 0.4062,
-      "delta_fmt": "+186.2%"
+      "value": "0.72 ETH",
+      "raw": 0.7243,
+      "delta": 0.5062000000000001,
+      "delta_fmt": "+232.1%"
     },
     {
       "label": "7d Vol",
-      "value": "4.01 ETH",
-      "raw": 4.0118
+      "value": "4.11 ETH",
+      "raw": 4.1118
     },
     {
       "label": "30d Vol",
-      "value": "44.91 ETH",
-      "raw": 44.9091
+      "value": "45.01 ETH",
+      "raw": 45.0091
     },
     {
       "label": "Full Set Bid",
-      "value": "39.0 ETH",
-      "raw": 38.96,
-      "delta": 0.10999999999999943,
-      "delta_fmt": "+0.11 ETH"
+      "value": "38.8 ETH",
+      "raw": 38.77,
+      "delta": -0.18999999999999773,
+      "delta_fmt": "-0.19 ETH"
     },
     {
       "label": "Full Set",
-      "value": "33",
-      "raw": 33
+      "value": "31",
+      "raw": 31,
+      "delta": -2,
+      "delta_fmt": "-2"
     },
     {
       "label": "Holders",
-      "value": "10,160",
-      "raw": 10160
+      "value": "10,158",
+      "raw": 10158,
+      "delta": -2,
+      "delta_fmt": "-2"
     },
     {
       "label": "Network TDH",
@@ -255,8 +259,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 183 MSGS IN LAST 6H",
     "CARD #482: 129 MINTS (EXCL. MUSEUM) | 93 HOLDERS | AN ARTIST'S LIFE",
-    "ACTIVE TODAY: JASONOPHOTO (111 MSGS) | ZOKU (85) | GPEBBLES (80)",
-    "DIVE BAR: 168 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JASONOPHOTO (111 MSGS) | ZOKU (89) | GPEBBLES (80)"
   ]
 }
