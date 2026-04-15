@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T05:51:04.119432+00:00",
+  "generated_at": "2026-04-15T07:46:07.710654+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Fitzcarraldo Leads with 70.0M Projected TDH",
-      "summary": "\"From Network Society with Love\" by Fitzcarraldo (70.0M projected TDH, 54 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (32.5M projected TDH, 47 voters) Next selection: Wed Apr 15 at 17:00 CET.",
+      "headline": "Fitzcarraldo Leads with 70.1M Projected TDH",
+      "summary": "\"From Network Society with Love\" by Fitzcarraldo (70.1M projected TDH, 57 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (32.5M projected TDH, 47 voters) Next selection: Wed Apr 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "Fitzcarraldo",
-          "value": "70.0M",
-          "sub": "proj. (54 votes)"
+          "value": "70.1M",
+          "sub": "proj. (57 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -103,7 +103,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: JamesAndrew (10.8M) | Abrahanny (2.8M) | RestlessMinds (2.2M) | Articulate (1.7M) | 6529Pizza (934K).",
+      "summary": "5 submissions this week. Ranking: JamesAndrew (10.8M) | Abrahanny (2.8M) | RestlessMinds (2.2M) | Articulate (1.7M) | 6529Pizza (938K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -132,20 +132,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 1.42 ETH Volume",
-      "summary": "16 sales in 24h for 1.42 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.370 ETH.",
+      "headline": "16 Sales Today - 1.37 ETH Volume",
+      "summary": "16 sales in 24h for 1.37 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.370 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -178,7 +178,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.42",
+          "value": "1.37",
           "sub": "ETH"
         },
         {
@@ -188,7 +188,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01663943999",
+          "value": "0.0166",
           "sub": "ETH"
         }
       ]
@@ -243,27 +243,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.42 ETH",
-      "raw": 1.4151,
-      "delta": 1.0026000000000002,
-      "delta_fmt": "+243.1%"
+      "value": "1.37 ETH",
+      "raw": 1.3701,
+      "delta": 0.9467000000000001,
+      "delta_fmt": "+223.6%"
     },
     {
       "label": "7d Vol",
-      "value": "4.53 ETH",
-      "raw": 4.5252
+      "value": "4.52 ETH",
+      "raw": 4.5242
     },
     {
       "label": "30d Vol",
-      "value": "44.68 ETH",
-      "raw": 44.6838
+      "value": "44.71 ETH",
+      "raw": 44.7088
     },
     {
       "label": "Full Set Bid",
       "value": "34.2 ETH",
-      "raw": 34.24,
-      "delta": 0.020000000000003126,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 34.17,
+      "delta": -0.07000000000000028,
+      "delta_fmt": "-0.07 ETH"
     },
     {
       "label": "Full Set",
@@ -282,17 +282,17 @@
     },
     {
       "label": "#1 Fitzcarraldo",
-      "value": "70.0M TDH",
-      "raw": 70044666,
-      "delta": 920040,
-      "delta_fmt": "+0.9M TDH"
+      "value": "70.1M TDH",
+      "raw": 70064003,
+      "delta": 19337,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 4h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 6h AGO",
+    "DIVE BAR: 62 MSGS IN LAST 6H",
     "CARD #482: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | AN ARTIST'S LIFE",
-    "ACTIVE TODAY: SIMO (187 MSGS) | MAYBE (133) | GRAFFITIONGRAVE (84)",
-    "DIVE BAR: 81 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SIMO (189 MSGS) | MAYBE (133) | GRAFFITIONGRAVE (81)"
   ]
 }
