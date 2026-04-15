@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T21:52:42.484286+00:00",
+  "generated_at": "2026-04-15T22:41:42.224837+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -163,13 +163,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -291,10 +291,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "33.5 ETH",
-      "raw": 33.48,
-      "delta": 0.259999999999998,
-      "delta_fmt": "+0.26 ETH"
+      "value": "33.7 ETH",
+      "raw": 33.67,
+      "delta": 0.19000000000000483,
+      "delta_fmt": "+0.19 ETH"
     },
     {
       "label": "Full Set",
@@ -319,9 +319,9 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 20h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 21h AGO",
+    "DIVE BAR: 494 MSGS IN LAST 6H",
     "CARD #483: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: MAYBE (144 MSGS) | ZIGMARILLION (79) | WALASAVAGEPHOTO (51)",
-    "DIVE BAR: 525 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (146 MSGS) | ZIGMARILLION (72) | WALASAVAGEPHOTO (53)"
   ]
 }
