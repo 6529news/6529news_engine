@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T19:49:31.953843+00:00",
+  "generated_at": "2026-04-15T20:49:35.784481+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 48.3M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (48.3M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (33.5M projected TDH, 48 voters) | \"The Meme Market\" by 1dontknows (32.4M projected TDH, 48 voters) Next selection: Fri Apr 17 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (48.3M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (33.5M projected TDH, 49 voters) | \"The Meme Market\" by 1dontknows (32.4M projected TDH, 48 voters) Next selection: Fri Apr 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +48,7 @@
         {
           "label": "Nrsin",
           "value": "33.5M",
-          "sub": "proj. (48 votes)"
+          "sub": "proj. (49 votes)"
         },
         {
           "label": "1dontknows",
@@ -115,7 +115,7 @@
     },
     {
       "category": "ANNOUNCEMENT",
-      "headline": "We",
+      "headline": "New Announcement by GelatoGenesis",
       "summary": "GelatoGenesis: @all As you see we now have the possibility to tag all wave joiners at once :) \n\n1. You have to be wave admin to do it.\n2. Only people joined to the wave you do it get notified ...",
       "source": "Announcements",
       "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
@@ -133,8 +133,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "6 New Memes Submissions This Week",
-      "summary": "6 submissions this week. Ranking: JamesAndrew (10.6M) | sqpx (5.2M) | Abrahanny (2.8M) | RestlessMinds (2.2M) | Articulate (1.7M) | 6529Pizza (953K).",
+      "headline": "5 New Memes Submissions This Week",
+      "summary": "5 submissions this week. Ranking: JamesAndrew (10.6M) | sqpx (5.2M) | RestlessMinds (2.2M) | Articulate (1.7M) | 6529Pizza (953K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -149,14 +149,14 @@
           "type": "video"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_eb1f7ed0-a501-46c2-8433-1496f624a490/aa40e70e-df3a-4581-bfb0-3e87e15aeaa5.mp4",
-          "label": "Abrahanny (2.8M)",
-          "type": "video"
-        },
-        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0aa5df2e-a14b-4e00-971b-5b8eb826e5eb/511ca0a0-e872-41de-9f03-40175a6f95a4.gif",
           "label": "RestlessMinds (2.2M)",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/acf028d5-b18a-4cae-abd7-5ed2ee7f6aa1.mp4",
+          "label": "Articulate (1.7M)",
+          "type": "video"
         }
       ],
       "dataBoxes": null
@@ -175,8 +175,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "8 Sales Today - 0.49 ETH Volume",
-      "summary": "8 sales in 24h for 0.49 ETH. Highest: \"NOT DED\" at 0.134 ETH.",
+      "headline": "7 Sales Today - 0.40 ETH Volume",
+      "summary": "7 sales in 24h for 0.40 ETH. Highest: \"NOT DED\" at 0.134 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -191,25 +191,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/183.WEBP",
-          "label": "TAP me if you can - 0.090 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+          "label": "AUTONOMY.EXE - 0.070 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/476.WEBP",
+          "label": "The Bear Spot - 0.055 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "8",
+          "value": "7",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.49",
+          "value": "0.40",
           "sub": "ETH"
         },
         {
@@ -274,10 +274,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.49 ETH",
-      "raw": 0.4905,
-      "delta": -0.7877000000000001,
-      "delta_fmt": "-61.6%"
+      "value": "0.40 ETH",
+      "raw": 0.4005,
+      "delta": -0.8745999999999998,
+      "delta_fmt": "-68.6%"
     },
     {
       "label": "7d Vol",
@@ -291,10 +291,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "33.1 ETH",
-      "raw": 33.08,
-      "delta": -0.4100000000000037,
-      "delta_fmt": "-0.41 ETH"
+      "value": "33.2 ETH",
+      "raw": 33.22,
+      "delta": 0.14000000000000057,
+      "delta_fmt": "+0.14 ETH"
     },
     {
       "label": "Full Set",
@@ -319,9 +319,9 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 18h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 19h AGO",
+    "DIVE BAR: 448 MSGS IN LAST 6H",
     "CARD #483: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: ZIGMARILLION (76 MSGS) | MAYBE (60) | FRANKIEHGIH_ETH (49)",
-    "DIVE BAR: 406 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (105 MSGS) | ZIGMARILLION (88) | FRANKIEHGIH_ETH (49)"
   ]
 }
