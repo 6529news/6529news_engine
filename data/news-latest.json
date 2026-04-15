@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T00:00:29.538936+00:00",
+  "generated_at": "2026-04-15T03:33:51.516128+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Fitzcarraldo Leads with 57.6M Projected TDH",
-      "summary": "\"From Network Society with Love\" by Fitzcarraldo (57.6M projected TDH, 44 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"The Meme Market\" by 1dontknows (32.0M projected TDH, 45 voters) Next selection: Wed Apr 15 at 17:00 CET.",
+      "headline": "Fitzcarraldo Leads with 69.1M Projected TDH",
+      "summary": "\"From Network Society with Love\" by Fitzcarraldo (69.1M projected TDH, 52 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"The Meme Market\" by 1dontknows (32.1M projected TDH, 47 voters) Next selection: Wed Apr 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "Fitzcarraldo",
-          "value": "57.6M",
-          "sub": "proj. (44 votes)"
+          "value": "69.1M",
+          "sub": "proj. (52 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -39,8 +39,8 @@
         },
         {
           "label": "1dontknows",
-          "value": "32.0M",
-          "sub": "proj. (45 votes)"
+          "value": "32.1M",
+          "sub": "proj. (47 votes)"
         }
       ]
     },
@@ -103,7 +103,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: JamesAndrew (10.8M) | Abrahanny (2.8M) | RestlessMinds (2.2M) | Articulate (1.7M) | 6529Pizza (928K).",
+      "summary": "5 submissions this week. Ranking: JamesAndrew (10.8M) | Abrahanny (2.8M) | RestlessMinds (2.2M) | Articulate (1.7M) | 6529Pizza (934K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -144,8 +144,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 1.24 ETH Volume",
-      "summary": "13 sales in 24h for 1.24 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.370 ETH.",
+      "headline": "15 Sales Today - 1.39 ETH Volume",
+      "summary": "15 sales in 24h for 1.39 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.370 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -173,12 +173,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.24",
+          "value": "1.39",
           "sub": "ETH"
         },
         {
@@ -188,7 +188,53 @@
         },
         {
           "label": "Floor",
-          "value": "0.01664143999",
+          "value": "0.01663943999",
+          "sub": "ETH"
+        }
+      ]
+    },
+    {
+      "category": "PEBBLES",
+      "headline": "Pebbles: 1 Sales - 3.300 ETH",
+      "summary": "1 Pebbles sold in the last 24h for a total of 3.300 ETH. Current floor: 0.595 ETH.",
+      "source": "OpenSea",
+      "link": "https://opensea.io/collection/pebbles-by-zeblocks",
+      "image": {
+        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/9b9399978dd848a18ee82be4085eba/2f9b9399978dd848a18ee82be4085eba.png",
+        "label": "Pebbles #167 - 3.300 ETH",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/9b9399978dd848a18ee82be4085eba/2f9b9399978dd848a18ee82be4085eba.png",
+          "label": "Pebbles #167 - 3.300 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/32c41fff40c7ddb7b9f73d5578f720/b232c41fff40c7ddb7b9f73d5578f720.png",
+          "label": "Pebbles #294 - 0.306 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/68de629422ed5acda755c371beacc9/6d68de629422ed5acda755c371beacc9.png",
+          "label": "Pebbles #710 - 1.400 ETH",
+          "type": "image"
+        }
+      ],
+      "dataBoxes": [
+        {
+          "label": "Sales 24h",
+          "value": "1",
+          "sub": ""
+        },
+        {
+          "label": "Volume",
+          "value": "3.300",
+          "sub": "ETH"
+        },
+        {
+          "label": "Floor",
+          "value": "0.595",
           "sub": "ETH"
         }
       ]
@@ -197,27 +243,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.24 ETH",
-      "raw": 1.2351,
-      "delta": 0.8221,
-      "delta_fmt": "+199.1%"
+      "value": "1.39 ETH",
+      "raw": 1.3886,
+      "delta": 0.9764,
+      "delta_fmt": "+236.9%"
     },
     {
       "label": "7d Vol",
-      "value": "4.49 ETH",
-      "raw": 4.4919
+      "value": "4.50 ETH",
+      "raw": 4.4987
     },
     {
       "label": "30d Vol",
-      "value": "45.82 ETH",
-      "raw": 45.8182
+      "value": "44.66 ETH",
+      "raw": 44.6573
     },
     {
       "label": "Full Set Bid",
-      "value": "39.0 ETH",
-      "raw": 38.96,
-      "delta": 0.03999999999999915,
-      "delta_fmt": "+0.04 ETH"
+      "value": "34.2 ETH",
+      "raw": 34.22,
+      "delta": -4.740000000000002,
+      "delta_fmt": "-4.74 ETH"
     },
     {
       "label": "Full Set",
@@ -231,21 +277,24 @@
     },
     {
       "label": "Network TDH",
-      "value": "1524.6M",
-      "raw": 1524595150
+      "value": "1527.1M",
+      "raw": 1527110405,
+      "delta": 2515255,
+      "delta_fmt": "+2.5M TDH"
     },
     {
       "label": "#1 Fitzcarraldo",
-      "value": "57.6M TDH",
-      "raw": 57601091,
-      "delta": 684,
-      "delta_fmt": "+0.0M TDH"
+      "value": "69.1M TDH",
+      "raw": 69124626,
+      "delta": 11523535,
+      "delta_fmt": "+11.5M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 2h AGO",
+    "DIVE BAR: 138 MSGS IN LAST 6H",
     "CARD #482: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | AN ARTIST'S LIFE",
-    "ACTIVE TODAY: SIMO (189 MSGS) | MAYBE (137) | GRAFFITIONGRAVE (89)",
-    "DIVE BAR: 172 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SIMO (189 MSGS) | MAYBE (132) | GRAFFITIONGRAVE (84)"
   ]
 }
