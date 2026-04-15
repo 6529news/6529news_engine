@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T09:19:50.801007+00:00",
+  "generated_at": "2026-04-15T10:42:48.128057+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3ec964f0-13ab-481c-bdbd-a0e752c39221/508fb1fc-a3e6-4bde-8bb5-bbb9577341c5.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/483.PNG",
         "label": "Codex Obscura - JoelleLB",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Fitzcarraldo Leads with 70.1M Projected TDH",
-      "summary": "\"From Network Society with Love\" by Fitzcarraldo (70.1M projected TDH, 60 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (32.5M projected TDH, 48 voters) Next selection: Wed Apr 15 at 17:00 CET.",
+      "summary": "\"From Network Society with Love\" by Fitzcarraldo (70.1M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (32.5M projected TDH, 48 voters) Next selection: Wed Apr 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Fitzcarraldo",
           "value": "70.1M",
-          "sub": "proj. (60 votes)"
+          "sub": "proj. (62 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -101,6 +101,24 @@
       ]
     },
     {
+      "category": "ANNOUNCEMENT",
+      "headline": "New Announcement by GelatoGenesis",
+      "summary": "GelatoGenesis: @all As you see we now have the possibility to tag all wave joiners at once :) \n\n1. You have to be wave admin to do it.\n2. Only people joined to the wave you do it get notified ...",
+      "source": "Announcements",
+      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmXuXC4QNM9diEvBnJT3UY2o9jWTUxhYh3srRuyS2bGFJQ",
+        "label": "GelatoGenesis"
+      },
+      "dataBoxes": [
+        {
+          "label": "GelatoGenesis",
+          "value": "Lv49",
+          "sub": "1K TDH"
+        }
+      ]
+    },
+    {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "5 New Memes Submissions This Week",
       "summary": "5 submissions this week. Ranking: JamesAndrew (10.8M) | Abrahanny (2.8M) | RestlessMinds (2.2M) | Articulate (1.7M) | 6529Pizza (938K).",
@@ -144,8 +162,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 1.48 ETH Volume",
-      "summary": "16 sales in 24h for 1.48 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.370 ETH.",
+      "headline": "13 Sales Today - 1.17 ETH Volume",
+      "summary": "13 sales in 24h for 1.17 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.370 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -160,25 +178,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/323.WEBP",
-          "label": "Survive and Thrive - 0.142 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
+          "label": "NOT DED - 0.134 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
-          "label": "NOT DED - 0.134 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/246.GIF",
+          "label": "Inside the Vault - 0.100 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.48",
+          "value": "1.17",
           "sub": "ETH"
         },
         {
@@ -243,10 +261,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.48 ETH",
-      "raw": 1.4816,
-      "delta": 1.0693000000000001,
-      "delta_fmt": "+259.3%"
+      "value": "1.17 ETH",
+      "raw": 1.1696,
+      "delta": 0.5453,
+      "delta_fmt": "+87.3%"
     },
     {
       "label": "7d Vol",
@@ -260,10 +278,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "33.8 ETH",
-      "raw": 33.84,
-      "delta": -0.3299999999999983,
-      "delta_fmt": "-0.33 ETH"
+      "value": "33.7 ETH",
+      "raw": 33.72,
+      "delta": -0.12000000000000455,
+      "delta_fmt": "-0.12 ETH"
     },
     {
       "label": "Full Set",
@@ -283,16 +301,16 @@
     {
       "label": "#1 Fitzcarraldo",
       "value": "70.1M TDH",
-      "raw": 70066032,
-      "delta": 2029,
+      "raw": 70074300,
+      "delta": 8268,
       "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 8h AGO",
-    "CARD #482: 131 MINTS (EXCL. MUSEUM) | 97 HOLDERS | AN ARTIST'S LIFE",
-    "ACTIVE TODAY: SIMO (189 MSGS) | MAYBE (133) | GRAFFITIONGRAVE (81)",
-    "DIVE BAR: 73 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 9h AGO",
+    "DIVE BAR: 73 MSGS IN LAST 6H",
+    "CARD #483: 112 MINTS (EXCL. MUSEUM) | 79 HOLDERS | CODEX OBSCURA",
+    "ACTIVE TODAY: SIMO (169 MSGS) | MAYBE (133) | GRAFFITIONGRAVE (73)"
   ]
 }
