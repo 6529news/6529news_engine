@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T11:41:28.461886+00:00",
+  "generated_at": "2026-04-15T12:46:24.367675+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Fitzcarraldo Leads with 70.1M Projected TDH",
-      "summary": "\"From Network Society with Love\" by Fitzcarraldo (70.1M projected TDH, 64 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (32.5M projected TDH, 48 voters) Next selection: Wed Apr 15 at 17:00 CET.",
+      "headline": "Fitzcarraldo Leads with 68.8M Projected TDH",
+      "summary": "\"From Network Society with Love\" by Fitzcarraldo (68.8M projected TDH, 64 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (32.5M projected TDH, 48 voters) Next selection: Wed Apr 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "Fitzcarraldo",
-          "value": "70.1M",
+          "value": "68.8M",
           "sub": "proj. (64 votes)"
         },
         {
@@ -150,13 +150,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 308K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (308K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -263,13 +263,13 @@
       "label": "24h Vol",
       "value": "1.17 ETH",
       "raw": 1.1696,
-      "delta": 0.4452999999999999,
-      "delta_fmt": "+61.5%"
+      "delta": 0.46929999999999994,
+      "delta_fmt": "+67.0%"
     },
     {
       "label": "7d Vol",
-      "value": "4.66 ETH",
-      "raw": 4.6582
+      "value": "4.36 ETH",
+      "raw": 4.3582
     },
     {
       "label": "30d Vol",
@@ -278,10 +278,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "33.7 ETH",
-      "raw": 33.68,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "value": "33.6 ETH",
+      "raw": 33.58,
+      "delta": -0.10000000000000142,
+      "delta_fmt": "-0.10 ETH"
     },
     {
       "label": "Full Set",
@@ -291,9 +291,7 @@
     {
       "label": "Holders",
       "value": "10,159",
-      "raw": 10159,
-      "delta": 1,
-      "delta_fmt": "+1"
+      "raw": 10159
     },
     {
       "label": "Network TDH",
@@ -302,17 +300,17 @@
     },
     {
       "label": "#1 Fitzcarraldo",
-      "value": "70.1M TDH",
-      "raw": 70076025,
-      "delta": 1725,
-      "delta_fmt": "+0.0M TDH"
+      "value": "68.8M TDH",
+      "raw": 68811493,
+      "delta": -1264532,
+      "delta_fmt": "-1.3M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 10h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 11h AGO",
+    "DIVE BAR: 122 MSGS IN LAST 6H",
     "CARD #483: 112 MINTS (EXCL. MUSEUM) | 79 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: SIMO (165 MSGS) | MAYBE (133) | GRAFFITIONGRAVE (73)",
-    "DIVE BAR: 72 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SIMO (137 MSGS) | MAYBE (132) | GRAFFITIONGRAVE (66)"
   ]
 }
