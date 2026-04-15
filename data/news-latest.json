@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T22:41:42.224837+00:00",
+  "generated_at": "2026-04-15T23:29:31.076055+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Codex Obscura\" by JoelleLB \u2014 77.5M TDH from 108 voters. Top supporter: Thor (8.0M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Codex Obscura\" by JoelleLB \u2014 77.5M TDH from 108 voters. Top supporter: Thor (8.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -163,20 +163,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "8 Sales Today - 0.48 ETH Volume",
-      "summary": "8 sales in 24h for 0.48 ETH. Highest: \"NOT DED\" at 0.134 ETH.",
+      "headline": "12 Sales Today - 0.59 ETH Volume",
+      "summary": "12 sales in 24h for 0.59 ETH. Highest: \"NOT DED\" at 0.134 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -204,12 +204,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "8",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.48",
+          "value": "0.59",
           "sub": "ETH"
         },
         {
@@ -274,27 +274,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.48 ETH",
-      "raw": 0.4755,
-      "delta": -0.7995999999999999,
-      "delta_fmt": "-62.7%"
+      "value": "0.59 ETH",
+      "raw": 0.5905,
+      "delta": -0.6845999999999999,
+      "delta_fmt": "-53.7%"
     },
     {
       "label": "7d Vol",
-      "value": "3.91 ETH",
-      "raw": 3.9126
+      "value": "4.03 ETH",
+      "raw": 4.0276
     },
     {
       "label": "30d Vol",
-      "value": "44.96 ETH",
-      "raw": 44.9578
+      "value": "45.07 ETH",
+      "raw": 45.0728
     },
     {
       "label": "Full Set Bid",
-      "value": "33.7 ETH",
-      "raw": 33.67,
-      "delta": 0.19000000000000483,
-      "delta_fmt": "+0.19 ETH"
+      "value": "38.9 ETH",
+      "raw": 38.94,
+      "delta": 5.269999999999996,
+      "delta_fmt": "+5.27 ETH"
     },
     {
       "label": "Full Set",
@@ -319,9 +319,9 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 21h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 22h AGO",
+    "DIVE BAR: 502 MSGS IN LAST 6H",
     "CARD #483: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: MAYBE (146 MSGS) | ZIGMARILLION (72) | WALASAVAGEPHOTO (53)",
-    "DIVE BAR: 505 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (155 MSGS) | ZIGMARILLION (71) | WALASAVAGEPHOTO (58)"
   ]
 }
