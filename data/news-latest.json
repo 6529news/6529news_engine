@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T12:46:24.367675+00:00",
+  "generated_at": "2026-04-15T14:44:43.404845+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Fitzcarraldo Leads with 68.8M Projected TDH",
-      "summary": "\"From Network Society with Love\" by Fitzcarraldo (68.8M projected TDH, 64 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (32.5M projected TDH, 48 voters) Next selection: Wed Apr 15 at 17:00 CET.",
+      "summary": "\"From Network Society with Love\" by Fitzcarraldo (68.8M projected TDH, 68 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (32.5M projected TDH, 48 voters) Next selection: Wed Apr 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Fitzcarraldo",
           "value": "68.8M",
-          "sub": "proj. (64 votes)"
+          "sub": "proj. (68 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -150,20 +150,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 1.17 ETH Volume",
-      "summary": "13 sales in 24h for 1.17 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.370 ETH.",
+      "headline": "13 Sales Today - 1.14 ETH Volume",
+      "summary": "13 sales in 24h for 1.14 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.370 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -196,7 +196,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.17",
+          "value": "1.14",
           "sub": "ETH"
         },
         {
@@ -261,27 +261,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.17 ETH",
-      "raw": 1.1696,
-      "delta": 0.46929999999999994,
-      "delta_fmt": "+67.0%"
+      "value": "1.14 ETH",
+      "raw": 1.1396,
+      "delta": 0.36929999999999996,
+      "delta_fmt": "+47.9%"
     },
     {
       "label": "7d Vol",
-      "value": "4.36 ETH",
-      "raw": 4.3582
+      "value": "4.40 ETH",
+      "raw": 4.3982
     },
     {
       "label": "30d Vol",
-      "value": "44.84 ETH",
-      "raw": 44.8428
+      "value": "44.88 ETH",
+      "raw": 44.8828
     },
     {
       "label": "Full Set Bid",
-      "value": "33.6 ETH",
-      "raw": 33.58,
-      "delta": -0.10000000000000142,
-      "delta_fmt": "-0.10 ETH"
+      "value": "32.7 ETH",
+      "raw": 32.67,
+      "delta": -0.9099999999999966,
+      "delta_fmt": "-0.91 ETH"
     },
     {
       "label": "Full Set",
@@ -301,16 +301,16 @@
     {
       "label": "#1 Fitzcarraldo",
       "value": "68.8M TDH",
-      "raw": 68811493,
-      "delta": -1264532,
-      "delta_fmt": "-1.3M TDH"
+      "raw": 68813668,
+      "delta": 2175,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 11h AGO",
-    "CARD #483: 112 MINTS (EXCL. MUSEUM) | 79 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: SIMO (137 MSGS) | MAYBE (132) | GRAFFITIONGRAVE (66)",
-    "DIVE BAR: 220 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 13h AGO",
+    "DIVE BAR: 277 MSGS IN LAST 6H",
+    "CARD #483: 112 MINTS (EXCL. MUSEUM) | 81 HOLDERS | CODEX OBSCURA",
+    "ACTIVE TODAY: MAYBE (127 MSGS) | SIMO (106) | ZIGMARILLION (69)"
   ]
 }
