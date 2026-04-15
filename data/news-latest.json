@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T10:42:48.128057+00:00",
+  "generated_at": "2026-04-15T11:41:28.461886+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Fitzcarraldo Leads with 70.1M Projected TDH",
-      "summary": "\"From Network Society with Love\" by Fitzcarraldo (70.1M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (32.5M projected TDH, 48 voters) Next selection: Wed Apr 15 at 17:00 CET.",
+      "summary": "\"From Network Society with Love\" by Fitzcarraldo (70.1M projected TDH, 64 voters) | \"Credo quia absurdum\" by Guidodisalle (48.1M projected TDH, 129 voters) | \"ASCENT\" by Nrsin (32.5M projected TDH, 48 voters) Next selection: Wed Apr 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Fitzcarraldo",
           "value": "70.1M",
-          "sub": "proj. (62 votes)"
+          "sub": "proj. (64 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -150,13 +150,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
@@ -183,8 +183,8 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/246.GIF",
-          "label": "Inside the Vault - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/183.WEBP",
+          "label": "TAP me if you can - 0.090 ETH",
           "type": "image"
         }
       ],
@@ -263,8 +263,8 @@
       "label": "24h Vol",
       "value": "1.17 ETH",
       "raw": 1.1696,
-      "delta": 0.5453,
-      "delta_fmt": "+87.3%"
+      "delta": 0.4452999999999999,
+      "delta_fmt": "+61.5%"
     },
     {
       "label": "7d Vol",
@@ -279,9 +279,9 @@
     {
       "label": "Full Set Bid",
       "value": "33.7 ETH",
-      "raw": 33.72,
-      "delta": -0.12000000000000455,
-      "delta_fmt": "-0.12 ETH"
+      "raw": 33.68,
+      "delta": -0.03999999999999915,
+      "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Full Set",
@@ -290,8 +290,10 @@
     },
     {
       "label": "Holders",
-      "value": "10,158",
-      "raw": 10158
+      "value": "10,159",
+      "raw": 10159,
+      "delta": 1,
+      "delta_fmt": "+1"
     },
     {
       "label": "Network TDH",
@@ -301,16 +303,16 @@
     {
       "label": "#1 Fitzcarraldo",
       "value": "70.1M TDH",
-      "raw": 70074300,
-      "delta": 8268,
+      "raw": 70076025,
+      "delta": 1725,
       "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 9h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 1 SALES | LAST SALE 10h AGO",
+    "DIVE BAR: 73 MSGS IN LAST 6H",
     "CARD #483: 112 MINTS (EXCL. MUSEUM) | 79 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: SIMO (169 MSGS) | MAYBE (133) | GRAFFITIONGRAVE (73)",
-    "DIVE BAR: 69 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SIMO (165 MSGS) | MAYBE (133) | GRAFFITIONGRAVE (73)"
   ]
 }
