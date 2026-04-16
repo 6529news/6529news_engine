@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-04-16T14:14:23.945267+00:00",
+  "generated_at": "2026-04-16T15:58:11.355302+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Codex Obscura\" by JoelleLB \u2014 77.5M TDH from 108 voters. Top supporter: Thor (8.0M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/483.PNG",
-        "label": "Codex Obscura - JoelleLB",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING FRIDAY",
       "headline": "Minting Friday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zoku Leads with 61.4M Projected TDH",
-      "summary": "\"Seize your freedom \" by Zoku (61.4M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (48.7M projected TDH, 131 voters) | \"ASCENT\" by Nrsin (33.6M projected TDH, 50 voters) Next selection: Fri Apr 17 at 17:00 CET.",
+      "summary": "\"Seize your freedom \" by Zoku (61.4M projected TDH, 64 voters) | \"Credo quia absurdum\" by Guidodisalle (48.7M projected TDH, 131 voters) | \"ASCENT\" by Nrsin (33.6M projected TDH, 50 voters) Next selection: Fri Apr 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +30,7 @@
         {
           "label": "Zoku",
           "value": "61.4M",
-          "sub": "proj. (62 votes)"
+          "sub": "proj. (64 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -116,7 +103,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: JamesAndrew (10.6M) | sqpx (7.3M) | 6529Pizza (1.0M).",
+      "summary": "3 submissions this week. Ranking: sqpx (13.5M) | JamesAndrew (10.6M) | 6529Pizza (1.0M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -152,16 +139,21 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 0.91 ETH Volume",
-      "summary": "20 sales in 24h for 0.91 ETH. Highest: \"SeizeJPGs\" at 0.330 ETH.",
+      "headline": "21 Sales Today - 1.28 ETH Volume",
+      "summary": "21 sales in 24h for 1.28 ETH. Highest: \"all things fail\" at 0.370 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-        "label": "SeizeJPGs - 0.330 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/167.WEBP",
+        "label": "all things fail - 0.370 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/167.WEBP",
+          "label": "all things fail - 0.370 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
           "label": "SeizeJPGs - 0.330 ETH",
@@ -171,28 +163,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/213.GIF",
           "label": "BUIDL(ING) PATIENCE - 0.075 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.069 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "20",
+          "value": "21",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.91",
+          "value": "1.28",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.330",
-          "sub": "SeizeJPGs"
+          "value": "0.370",
+          "sub": "all things fail"
         },
         {
           "label": "Floor",
@@ -205,27 +192,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.91 ETH",
-      "raw": 0.905,
-      "delta": -0.23459999999999992,
-      "delta_fmt": "-20.6%"
+      "value": "1.28 ETH",
+      "raw": 1.275,
+      "delta": 0.24949999999999983,
+      "delta_fmt": "+24.3%"
     },
     {
       "label": "7d Vol",
-      "value": "4.15 ETH",
-      "raw": 4.1545
+      "value": "4.52 ETH",
+      "raw": 4.5245
     },
     {
       "label": "30d Vol",
-      "value": "44.28 ETH",
-      "raw": 44.2792
+      "value": "44.65 ETH",
+      "raw": 44.6492
     },
     {
       "label": "Full Set Bid",
-      "value": "39.0 ETH",
-      "raw": 39.05,
-      "delta": 0.02999999999999403,
-      "delta_fmt": "+0.03 ETH"
+      "value": "39.2 ETH",
+      "raw": 39.18,
+      "delta": 0.13000000000000256,
+      "delta_fmt": "+0.13 ETH"
     },
     {
       "label": "Full Set",
@@ -245,15 +232,15 @@
     {
       "label": "#1 Zoku",
       "value": "61.4M TDH",
-      "raw": 61416646,
-      "delta": 2547434,
-      "delta_fmt": "+2.5M TDH"
+      "raw": 61417686,
+      "delta": 1040,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 358 MSGS IN LAST 6H",
     "CARD #483: 133 MINTS (EXCL. MUSEUM) | 94 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: MAYBE (256 MSGS) | MINTFACE (92) | WALASAVAGEPHOTO (88)",
-    "DIVE BAR: 358 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (261 MSGS) | FRANKIEHGIH_ETH (121) | MINTFACE (92)"
   ]
 }
