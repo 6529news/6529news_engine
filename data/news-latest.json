@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T23:09:48.993838+00:00",
+  "generated_at": "2026-04-16T23:58:41.423881+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Zoku Leads with 64.7M Projected TDH",
-      "summary": "\"Seize your freedom \" by Zoku (64.7M projected TDH, 73 voters) | \"Credo quia absurdum\" by Guidodisalle (63.0M projected TDH, 134 voters) | \"ASCENT\" by Nrsin (33.8M projected TDH, 52 voters) Next selection: Fri Apr 17 at 17:00 CET.",
+      "headline": "Zoku Leads with 64.8M Projected TDH",
+      "summary": "\"Seize your freedom \" by Zoku (64.8M projected TDH, 73 voters) | \"Credo quia absurdum\" by Guidodisalle (63.0M projected TDH, 134 voters) | \"ASCENT\" by Nrsin (33.8M projected TDH, 52 voters) Next selection: Fri Apr 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "Zoku",
-          "value": "64.7M",
+          "value": "64.8M",
           "sub": "proj. (73 votes)"
         },
         {
@@ -146,8 +146,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 1.29 ETH Volume",
-      "summary": "22 sales in 24h for 1.29 ETH. Highest: \"all things fail\" at 0.370 ETH.",
+      "headline": "18 Sales Today - 1.18 ETH Volume",
+      "summary": "18 sales in 24h for 1.18 ETH. Highest: \"all things fail\" at 0.370 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -175,12 +175,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "22",
+          "value": "18",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.29",
+          "value": "1.18",
           "sub": "ETH"
         },
         {
@@ -199,10 +199,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.29 ETH",
-      "raw": 1.2916,
-      "delta": 0.7011000000000001,
-      "delta_fmt": "+118.7%"
+      "value": "1.18 ETH",
+      "raw": 1.1766,
+      "delta": 0.5861000000000001,
+      "delta_fmt": "+99.3%"
     },
     {
       "label": "7d Vol",
@@ -217,9 +217,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.0 ETH",
-      "raw": 39.02,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 38.99,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Full Set",
@@ -238,14 +238,16 @@
     },
     {
       "label": "#1 Zoku",
-      "value": "64.7M TDH",
-      "raw": 64712665
+      "value": "64.8M TDH",
+      "raw": 64823758,
+      "delta": 111093,
+      "delta_fmt": "+0.1M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 107 MSGS",
+    "DIVE BAR: 598 MSGS IN LAST 6H",
     "CARD #483: 133 MINTS (EXCL. MUSEUM) | 94 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: MAYBE (181 MSGS) | FRANKIEHGIH_ETH (109) | MINTFACE (92)",
-    "DIVE BAR: 592 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (202 MSGS) | FRANKIEHGIH_ETH (129) | PUNK6529 (128)"
   ]
 }
