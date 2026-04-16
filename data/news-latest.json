@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T21:43:08.320838+00:00",
+  "generated_at": "2026-04-16T22:25:13.583199+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Zoku Leads with 64.2M Projected TDH",
-      "summary": "\"Seize your freedom \" by Zoku (64.2M projected TDH, 72 voters) | \"Credo quia absurdum\" by Guidodisalle (63.0M projected TDH, 134 voters) | \"ASCENT\" by Nrsin (33.8M projected TDH, 52 voters) Next selection: Fri Apr 17 at 17:00 CET.",
+      "headline": "Zoku Leads with 64.7M Projected TDH",
+      "summary": "\"Seize your freedom \" by Zoku (64.7M projected TDH, 73 voters) | \"Credo quia absurdum\" by Guidodisalle (63.0M projected TDH, 134 voters) | \"ASCENT\" by Nrsin (33.8M projected TDH, 52 voters) Next selection: Fri Apr 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "Zoku",
-          "value": "64.2M",
-          "sub": "proj. (72 votes)"
+          "value": "64.7M",
+          "sub": "proj. (73 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -122,20 +122,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 308K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (308K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "6529 TALKS",
-      "headline": "punk6529 Active in maybe's dive bar",
-      "summary": "Active in maybe's dive bar.",
+      "headline": "punk6529: 45 Messages in Last 24h",
+      "summary": "45 messages in maybe's dive bar.",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -216,10 +216,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.1 ETH",
-      "raw": 39.1,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "39.0 ETH",
+      "raw": 39.04,
+      "delta": -0.060000000000002274,
+      "delta_fmt": "-0.06 ETH"
     },
     {
       "label": "Full Set",
@@ -238,16 +238,16 @@
     },
     {
       "label": "#1 Zoku",
-      "value": "64.2M TDH",
-      "raw": 64200183,
-      "delta": 5100,
-      "delta_fmt": "+0.0M TDH"
+      "value": "64.7M TDH",
+      "raw": 64712665,
+      "delta": 512482,
+      "delta_fmt": "+0.5M TDH"
     }
   ],
   "headline_extras": [
-    "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 38 MSGS",
+    "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 45 MSGS",
+    "DIVE BAR: 359 MSGS IN LAST 6H",
     "CARD #483: 133 MINTS (EXCL. MUSEUM) | 94 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: MAYBE (167 MSGS) | MINTFACE (92) | WALASAVAGEPHOTO (83)",
-    "DIVE BAR: 323 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (187 MSGS) | FRANKIEHGIH_ETH (98) | MINTFACE (92)"
   ]
 }
