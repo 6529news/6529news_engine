@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T12:09:31.301704+00:00",
+  "generated_at": "2026-04-16T14:14:23.945267+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Zoku Leads with 58.9M Projected TDH",
-      "summary": "\"Seize your freedom \" by Zoku (58.9M projected TDH, 61 voters) | \"Credo quia absurdum\" by Guidodisalle (48.7M projected TDH, 131 voters) | \"ASCENT\" by Nrsin (33.6M projected TDH, 50 voters) Next selection: Fri Apr 17 at 17:00 CET.",
+      "headline": "Zoku Leads with 61.4M Projected TDH",
+      "summary": "\"Seize your freedom \" by Zoku (61.4M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (48.7M projected TDH, 131 voters) | \"ASCENT\" by Nrsin (33.6M projected TDH, 50 voters) Next selection: Fri Apr 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Zoku",
-          "value": "58.9M",
-          "sub": "proj. (61 votes)"
+          "value": "61.4M",
+          "sub": "proj. (62 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -115,8 +115,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: JamesAndrew (10.6M) | sqpx (7.3M) | RestlessMinds (2.2M) | Articulate (1.9M) | 6529Pizza (1.0M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: JamesAndrew (10.6M) | sqpx (7.3M) | 6529Pizza (1.0M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -131,14 +131,9 @@
           "type": "video"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0aa5df2e-a14b-4e00-971b-5b8eb826e5eb/511ca0a0-e872-41de-9f03-40175a6f95a4.gif",
-          "label": "RestlessMinds (2.2M)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_68910883-2907-40c2-a832-3712637fa55e/d6187ea0-0b47-4904-acf1-fd05503e6479.jpg",
+          "label": "6529Pizza (1.0M)",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/acf028d5-b18a-4cae-abd7-5ed2ee7f6aa1.mp4",
-          "label": "Articulate (1.9M)",
-          "type": "video"
         }
       ],
       "dataBoxes": null
@@ -211,26 +206,26 @@
     {
       "label": "24h Vol",
       "value": "0.91 ETH",
-      "raw": 0.9106,
-      "delta": -0.259,
-      "delta_fmt": "-22.1%"
+      "raw": 0.905,
+      "delta": -0.23459999999999992,
+      "delta_fmt": "-20.6%"
     },
     {
       "label": "7d Vol",
-      "value": "4.21 ETH",
-      "raw": 4.2111
+      "value": "4.15 ETH",
+      "raw": 4.1545
     },
     {
       "label": "30d Vol",
-      "value": "44.24 ETH",
-      "raw": 44.2448
+      "value": "44.28 ETH",
+      "raw": 44.2792
     },
     {
       "label": "Full Set Bid",
       "value": "39.0 ETH",
-      "raw": 39.02,
-      "delta": -0.02999999999999403,
-      "delta_fmt": "-0.03 ETH"
+      "raw": 39.05,
+      "delta": 0.02999999999999403,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Full Set",
@@ -249,16 +244,16 @@
     },
     {
       "label": "#1 Zoku",
-      "value": "58.9M TDH",
-      "raw": 58869212,
-      "delta": 69000,
-      "delta_fmt": "+0.1M TDH"
+      "value": "61.4M TDH",
+      "raw": 61416646,
+      "delta": 2547434,
+      "delta_fmt": "+2.5M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
-    "CARD #483: 132 MINTS (EXCL. MUSEUM) | 93 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: MAYBE (246 MSGS) | WALASAVAGEPHOTO (100) | MINTFACE (92)",
-    "DIVE BAR: 120 MSGS IN LAST 6H"
+    "DIVE BAR: 222 MSGS IN LAST 6H",
+    "CARD #483: 133 MINTS (EXCL. MUSEUM) | 94 HOLDERS | CODEX OBSCURA",
+    "ACTIVE TODAY: MAYBE (256 MSGS) | MINTFACE (92) | WALASAVAGEPHOTO (88)"
   ]
 }
