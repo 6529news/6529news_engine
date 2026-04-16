@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T08:02:59.010120+00:00",
+  "generated_at": "2026-04-16T09:49:45.818941+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Zoku Leads with 48.3M Projected TDH",
-      "summary": "\"Seize your freedom \" by Zoku (48.3M projected TDH, 56 voters) | \"Credo quia absurdum\" by Guidodisalle (48.3M projected TDH, 130 voters) | \"ASCENT\" by Nrsin (33.5M projected TDH, 49 voters) Next selection: Fri Apr 17 at 17:00 CET.",
+      "headline": "Zoku Leads with 53.6M Projected TDH",
+      "summary": "\"Seize your freedom \" by Zoku (53.6M projected TDH, 60 voters) | \"Credo quia absurdum\" by Guidodisalle (48.7M projected TDH, 131 voters) | \"ASCENT\" by Nrsin (33.5M projected TDH, 49 voters) Next selection: Fri Apr 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "Zoku",
-          "value": "48.3M",
-          "sub": "proj. (56 votes)"
+          "value": "53.6M",
+          "sub": "proj. (60 votes)"
         },
         {
           "label": "Guidodisalle",
-          "value": "48.3M",
-          "sub": "proj. (130 votes)"
+          "value": "48.7M",
+          "sub": "proj. (131 votes)"
         },
         {
           "label": "Nrsin",
@@ -114,24 +114,6 @@
       ]
     },
     {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by GelatoGenesis",
-      "summary": "GelatoGenesis: @all As you see we now have the possibility to tag all wave joiners at once :) \n\n1. You have to be wave admin to do it.\n2. Only people joined to the wave you do it get notified ...",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmXuXC4QNM9diEvBnJT3UY2o9jWTUxhYh3srRuyS2bGFJQ",
-        "label": "GelatoGenesis"
-      },
-      "dataBoxes": [
-        {
-          "label": "GelatoGenesis",
-          "value": "Lv49",
-          "sub": "1K TDH"
-        }
-      ]
-    },
-    {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "5 New Memes Submissions This Week",
       "summary": "5 submissions this week. Ranking: JamesAndrew (10.6M) | sqpx (5.2M) | RestlessMinds (2.2M) | Articulate (1.9M) | 6529Pizza (1.0M).",
@@ -163,33 +145,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 0.65 ETH Volume",
-      "summary": "19 sales in 24h for 0.65 ETH. Highest: \"NOT DED\" at 0.134 ETH.",
+      "headline": "19 Sales Today - 0.58 ETH Volume",
+      "summary": "19 sales in 24h for 0.58 ETH. Highest: \"BUIDL(ING) PATIENCE\" at 0.075 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
-        "label": "NOT DED - 0.134 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/213.GIF",
+        "label": "BUIDL(ING) PATIENCE - 0.075 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
-          "label": "NOT DED - 0.134 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/213.GIF",
           "label": "BUIDL(ING) PATIENCE - 0.075 ETH",
@@ -198,6 +175,11 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
           "label": "AUTONOMY.EXE - 0.069 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/248.WEBP",
+          "label": "Lil BUIDLers - 0.060 ETH",
           "type": "image"
         }
       ],
@@ -209,13 +191,13 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.65",
+          "value": "0.58",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.134",
-          "sub": "NOT DED"
+          "value": "0.075",
+          "sub": "BUIDL(ING) PATIENCE"
         },
         {
           "label": "Floor",
@@ -228,27 +210,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.65 ETH",
-      "raw": 0.6546,
-      "delta": -0.7155000000000001,
-      "delta_fmt": "-52.2%"
+      "value": "0.58 ETH",
+      "raw": 0.5806,
+      "delta": -0.901,
+      "delta_fmt": "-60.8%"
     },
     {
       "label": "7d Vol",
-      "value": "3.82 ETH",
-      "raw": 3.8211
+      "value": "3.88 ETH",
+      "raw": 3.8811
     },
     {
       "label": "30d Vol",
-      "value": "43.85 ETH",
-      "raw": 43.8548
+      "value": "43.91 ETH",
+      "raw": 43.9148
     },
     {
       "label": "Full Set Bid",
-      "value": "39.2 ETH",
-      "raw": 39.15,
-      "delta": 0.11999999999999744,
-      "delta_fmt": "+0.12 ETH"
+      "value": "39.0 ETH",
+      "raw": 39.04,
+      "delta": -0.10999999999999943,
+      "delta_fmt": "-0.11 ETH"
     },
     {
       "label": "Full Set",
@@ -267,16 +249,16 @@
     },
     {
       "label": "#1 Zoku",
-      "value": "48.3M TDH",
-      "raw": 48283026,
-      "delta": 14048,
-      "delta_fmt": "+0.0M TDH"
+      "value": "53.6M TDH",
+      "raw": 53634922,
+      "delta": 5351896,
+      "delta_fmt": "+5.4M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 106 MSGS IN LAST 6H",
     "CARD #483: 132 MINTS (EXCL. MUSEUM) | 93 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: MAYBE (246 MSGS) | MINTFACE (92) | WALASAVAGEPHOTO (91)",
-    "DIVE BAR: 87 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (246 MSGS) | MINTFACE (92) | WALASAVAGEPHOTO (91)"
   ]
 }
