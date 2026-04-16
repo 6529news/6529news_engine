@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T11:03:38.820093+00:00",
+  "generated_at": "2026-04-16T12:09:31.301704+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Zoku Leads with 58.8M Projected TDH",
-      "summary": "\"Seize your freedom \" by Zoku (58.8M projected TDH, 60 voters) | \"Credo quia absurdum\" by Guidodisalle (48.7M projected TDH, 131 voters) | \"ASCENT\" by Nrsin (33.6M projected TDH, 50 voters) Next selection: Fri Apr 17 at 17:00 CET.",
+      "headline": "Zoku Leads with 58.9M Projected TDH",
+      "summary": "\"Seize your freedom \" by Zoku (58.9M projected TDH, 61 voters) | \"Credo quia absurdum\" by Guidodisalle (48.7M projected TDH, 131 voters) | \"ASCENT\" by Nrsin (33.6M projected TDH, 50 voters) Next selection: Fri Apr 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Zoku",
-          "value": "58.8M",
-          "sub": "proj. (60 votes)"
+          "value": "58.9M",
+          "sub": "proj. (61 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -145,28 +145,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 0.58 ETH Volume",
-      "summary": "19 sales in 24h for 0.58 ETH. Highest: \"BUIDL(ING) PATIENCE\" at 0.075 ETH.",
+      "headline": "20 Sales Today - 0.91 ETH Volume",
+      "summary": "20 sales in 24h for 0.91 ETH. Highest: \"SeizeJPGs\" at 0.330 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/213.GIF",
-        "label": "BUIDL(ING) PATIENCE - 0.075 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+        "label": "SeizeJPGs - 0.330 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.330 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/213.GIF",
           "label": "BUIDL(ING) PATIENCE - 0.075 ETH",
@@ -176,28 +181,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
           "label": "AUTONOMY.EXE - 0.069 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/248.WEBP",
-          "label": "Lil BUIDLers - 0.060 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.58",
+          "value": "0.91",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.075",
-          "sub": "BUIDL(ING) PATIENCE"
+          "value": "0.330",
+          "sub": "SeizeJPGs"
         },
         {
           "label": "Floor",
@@ -210,27 +210,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.58 ETH",
-      "raw": 0.5806,
-      "delta": -0.589,
-      "delta_fmt": "-50.4%"
+      "value": "0.91 ETH",
+      "raw": 0.9106,
+      "delta": -0.259,
+      "delta_fmt": "-22.1%"
     },
     {
       "label": "7d Vol",
-      "value": "3.88 ETH",
-      "raw": 3.8811
+      "value": "4.21 ETH",
+      "raw": 4.2111
     },
     {
       "label": "30d Vol",
-      "value": "43.91 ETH",
-      "raw": 43.9148
+      "value": "44.24 ETH",
+      "raw": 44.2448
     },
     {
       "label": "Full Set Bid",
-      "value": "39.1 ETH",
-      "raw": 39.05,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "39.0 ETH",
+      "raw": 39.02,
+      "delta": -0.02999999999999403,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Full Set",
@@ -240,9 +240,7 @@
     {
       "label": "Holders",
       "value": "10,157",
-      "raw": 10157,
-      "delta": -2,
-      "delta_fmt": "-2"
+      "raw": 10157
     },
     {
       "label": "Network TDH",
@@ -251,16 +249,16 @@
     },
     {
       "label": "#1 Zoku",
-      "value": "58.8M TDH",
-      "raw": 58800212,
-      "delta": 5165290,
-      "delta_fmt": "+5.2M TDH"
+      "value": "58.9M TDH",
+      "raw": 58869212,
+      "delta": 69000,
+      "delta_fmt": "+0.1M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: Announcements (Apr 09)",
+    "DIVE BAR: 119 MSGS IN LAST 6H",
     "CARD #483: 132 MINTS (EXCL. MUSEUM) | 93 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: MAYBE (246 MSGS) | WALASAVAGEPHOTO (93) | MINTFACE (92)",
-    "DIVE BAR: 117 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (246 MSGS) | WALASAVAGEPHOTO (100) | MINTFACE (92)"
   ]
 }
