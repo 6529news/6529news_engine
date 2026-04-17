@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T10:38:14.596114+00:00",
+  "generated_at": "2026-04-17T11:36:15.601006+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -122,20 +122,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "12 Sales Today - 1.61 ETH Volume",
-      "summary": "12 sales in 24h for 1.61 ETH. Highest: \"Summer Days\" at 0.520 ETH.",
+      "headline": "11 Sales Today - 1.28 ETH Volume",
+      "summary": "11 sales in 24h for 1.28 ETH. Highest: \"Summer Days\" at 0.520 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -155,20 +155,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.330 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/209.GIF",
+          "label": "Defender - 0.090 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "12",
+          "value": "11",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.61",
+          "value": "1.28",
           "sub": "ETH"
         },
         {
@@ -178,7 +178,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01654931",
+          "value": "0.01654831",
           "sub": "ETH"
         }
       ]
@@ -187,25 +187,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.61 ETH",
-      "raw": 1.61,
-      "delta": 1.0294,
-      "delta_fmt": "+177.3%"
+      "value": "1.28 ETH",
+      "raw": 1.2801,
+      "delta": 0.6995,
+      "delta_fmt": "+120.5%"
     },
     {
       "label": "7d Vol",
       "value": "5.07 ETH",
-      "raw": 5.0733
+      "raw": 5.0738
     },
     {
       "label": "30d Vol",
-      "value": "44.19 ETH",
-      "raw": 44.1933
+      "value": "44.20 ETH",
+      "raw": 44.1977
     },
     {
       "label": "Full Set Bid",
       "value": "38.9 ETH",
-      "raw": 38.92
+      "raw": 38.93,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -230,7 +232,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 107 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 116 MSGS IN LAST 6H",
     "CARD #483: 133 MINTS (EXCL. MUSEUM) | 94 HOLDERS | CODEX OBSCURA",
-    "DIVE BAR: 127 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (218 MSGS) | FRANKIEHGIH_ETH (159) | PUNK6529 (131)"
   ]
 }
