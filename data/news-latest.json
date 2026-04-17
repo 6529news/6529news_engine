@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T09:17:37.299778+00:00",
+  "generated_at": "2026-04-17T10:38:14.596114+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -122,13 +122,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -178,7 +178,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016549319999",
+          "value": "0.01654931",
           "sub": "ETH"
         }
       ]
@@ -188,26 +188,24 @@
     {
       "label": "24h Vol",
       "value": "1.61 ETH",
-      "raw": 1.6101,
-      "delta": 1.0295,
+      "raw": 1.61,
+      "delta": 1.0294,
       "delta_fmt": "+177.3%"
     },
     {
       "label": "7d Vol",
       "value": "5.07 ETH",
-      "raw": 5.0738
+      "raw": 5.0733
     },
     {
       "label": "30d Vol",
-      "value": "44.20 ETH",
-      "raw": 44.1977
+      "value": "44.19 ETH",
+      "raw": 44.1933
     },
     {
       "label": "Full Set Bid",
       "value": "38.9 ETH",
-      "raw": 38.92,
-      "delta": 0.020000000000003126,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 38.92
     },
     {
       "label": "Full Set",
@@ -227,14 +225,13 @@
     {
       "label": "#1 Zoku",
       "value": "70.9M TDH",
-      "raw": 70876164,
-      "delta": 147,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 70876164
     }
   ],
   "headline_extras": [
     "PUNK6529: 107 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 126 MSGS IN LAST 6H",
     "CARD #483: 133 MINTS (EXCL. MUSEUM) | 94 HOLDERS | CODEX OBSCURA",
-    "DIVE BAR: 127 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (218 MSGS) | FRANKIEHGIH_ETH (155) | PUNK6529 (131)"
   ]
 }
