@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T17:27:44.607719+00:00",
+  "generated_at": "2026-04-17T18:13:10.694983+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 64.2M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (64.2M projected TDH, 136 voters) | \"ASCENT\" by Nrsin (35.8M projected TDH, 53 voters) | \"MDAGA\" by Banksit (24.0M projected TDH, 34 voters) Next selection: Mon Apr 20 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (64.2M projected TDH, 137 voters) | \"ASCENT\" by Nrsin (35.8M projected TDH, 53 voters) | \"MDAGA\" by Banksit (20.0M projected TDH, 34 voters) Next selection: Mon Apr 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Guidodisalle",
           "value": "64.2M",
-          "sub": "proj. (136 votes)"
+          "sub": "proj. (137 votes)"
         },
         {
           "label": "Nrsin",
@@ -52,7 +52,7 @@
         },
         {
           "label": "Banksit",
-          "value": "24.0M",
+          "value": "20.0M",
           "sub": "proj. (34 votes)"
         }
       ]
@@ -116,7 +116,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: sqpx (13.5M).",
+      "summary": "1 submissions this week. Ranking: sqpx (13.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -125,13 +125,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -192,13 +192,13 @@
       "label": "24h Vol",
       "value": "9.33 ETH",
       "raw": 9.3283,
-      "delta": 8.0533,
-      "delta_fmt": "+631.6%"
+      "delta": 7.9793,
+      "delta_fmt": "+591.5%"
     },
     {
       "label": "7d Vol",
-      "value": "13.51 ETH",
-      "raw": 13.5148
+      "value": "13.44 ETH",
+      "raw": 13.4367
     },
     {
       "label": "30d Vol",
@@ -207,10 +207,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.7 ETH",
-      "raw": 37.75,
-      "delta": -0.6400000000000006,
-      "delta_fmt": "-0.64 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.35,
+      "delta": 0.6000000000000014,
+      "delta_fmt": "+0.60 ETH"
     },
     {
       "label": "Full Set",
@@ -230,15 +230,16 @@
     {
       "label": "#1 Guidodisalle",
       "value": "64.2M TDH",
-      "raw": 64217510,
-      "delta": 1,
+      "raw": 64237069,
+      "delta": 19559,
       "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529: 107 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "SGT PEPE SALE: 1.460 ETH",
-    "CARD #484: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "DIVE BAR: 563 MSGS IN LAST 6H"
+    "DIVE BAR: 545 MSGS IN LAST 6H",
+    "CARD #484: 121 MINTS (EXCL. MUSEUM) | 86 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
+    "ACTIVE TODAY: MAYBE (231 MSGS) | FRANKIEHGIH_ETH (190) | PUNK6529 (131)"
   ]
 }
