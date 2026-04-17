@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T23:01:43.927786+00:00",
+  "generated_at": "2026-04-17T23:56:29.438927+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -125,13 +125,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
@@ -191,26 +191,26 @@
     {
       "label": "24h Vol",
       "value": "9.31 ETH",
-      "raw": 9.3107,
-      "delta": 8.0191,
-      "delta_fmt": "+620.9%"
+      "raw": 9.3103,
+      "delta": 8.1337,
+      "delta_fmt": "+691.3%"
     },
     {
       "label": "7d Vol",
       "value": "13.44 ETH",
-      "raw": 13.4367
+      "raw": 13.4361
     },
     {
       "label": "30d Vol",
       "value": "52.72 ETH",
-      "raw": 52.7243
+      "raw": 52.7221
     },
     {
       "label": "Full Set Bid",
       "value": "38.4 ETH",
-      "raw": 38.41,
-      "delta": -0.12000000000000455,
-      "delta_fmt": "-0.12 ETH"
+      "raw": 38.43,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Full Set",
@@ -230,16 +230,14 @@
     {
       "label": "#1 Guidodisalle",
       "value": "65.7M TDH",
-      "raw": 65700502,
-      "delta": 1462301,
-      "delta_fmt": "+1.5M TDH"
+      "raw": 65700502
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
     "SGT PEPE SALE: 1.460 ETH",
+    "DIVE BAR: 224 MSGS IN LAST 6H",
     "CARD #484: 135 MINTS (EXCL. MUSEUM) | 88 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (195 MSGS) | MAYBE (184) | GPEBBLES (81)",
-    "DIVE BAR: 224 MSGS IN LAST 6H"
+    "ACTIVE TODAY: FRANKIEHGIH_ETH (168 MSGS) | MAYBE (143) | JAMESANDREW (80)"
   ]
 }
