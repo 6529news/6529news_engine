@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T15:16:08.463836+00:00",
+  "generated_at": "2026-04-17T16:29:47.597940+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,31 +16,44 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "Zoku Leads with 70.6M Projected TDH",
-      "summary": "\"Seize your freedom \" by Zoku (70.6M projected TDH, 75 voters) | \"Credo quia absurdum\" by Guidodisalle (63.6M projected TDH, 134 voters) | \"ASCENT\" by Nrsin (35.1M projected TDH, 53 voters) Next selection: Fri Apr 17 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"Seize your freedom \" by Zoku \u2014 70.6M TDH from 76 voters. Top supporter: Thor (13.3M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_90bb8b3b-8780-47d6-b7cd-714139a36946/f6118d72-e78f-43fb-8c4f-9929066177b2.png",
         "label": "Seize your freedom  - Zoku",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "Guidodisalle Leads with 64.2M Projected TDH",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (64.2M projected TDH, 135 voters) | \"ASCENT\" by Nrsin (35.8M projected TDH, 53 voters) | \"MDAGA\" by Banksit (24.0M projected TDH, 34 voters) Next selection: Mon Apr 20 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e4aa2c78-c159-4625-bc64-dfb6684c814c/f98ac686-9094-4a01-98c8-4ebf23d289bc.jpg",
+        "label": "Credo quia absurdum - Guidodisalle",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "Zoku",
-          "value": "70.6M",
-          "sub": "proj. (75 votes)"
-        },
-        {
           "label": "Guidodisalle",
-          "value": "63.6M",
-          "sub": "proj. (134 votes)"
+          "value": "64.2M",
+          "sub": "proj. (135 votes)"
         },
         {
           "label": "Nrsin",
-          "value": "35.1M",
+          "value": "35.8M",
           "sub": "proj. (53 votes)"
+        },
+        {
+          "label": "Banksit",
+          "value": "24.0M",
+          "sub": "proj. (34 votes)"
         }
       ]
     },
@@ -102,40 +115,30 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: sqpx (13.5M) | 6529Pizza (1.0M).",
+      "headline": "1 New Memes Submission This Week",
+      "summary": "1 submissions this week. Ranking: sqpx (13.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_68910883-2907-40c2-a832-3712637fa55e/d6187ea0-0b47-4904-acf1-fd05503e6479.jpg",
-        "label": "6529Pizza (1.0M)",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_68910883-2907-40c2-a832-3712637fa55e/d6187ea0-0b47-4904-acf1-fd05503e6479.jpg",
-          "label": "6529Pizza (1.0M)",
-          "type": "image"
-        }
-      ],
+      "image": null,
+      "images": [],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 308K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (308K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 9.30 ETH Volume",
-      "summary": "17 sales in 24h for 9.30 ETH. Highest: \"NakamotoFreedom\" at 6.710 ETH.",
+      "headline": "18 Sales Today - 9.32 ETH Volume",
+      "summary": "18 sales in 24h for 9.32 ETH. Highest: \"NakamotoFreedom\" at 6.710 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -163,12 +166,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "18",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "9.30",
+          "value": "9.32",
           "sub": "ETH"
         },
         {
@@ -187,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "9.30 ETH",
-      "raw": 9.3048,
-      "delta": 8.0298,
-      "delta_fmt": "+629.8%"
+      "value": "9.32 ETH",
+      "raw": 9.3198,
+      "delta": 8.0448,
+      "delta_fmt": "+631.0%"
     },
     {
       "label": "7d Vol",
-      "value": "13.42 ETH",
-      "raw": 13.4173
+      "value": "13.43 ETH",
+      "raw": 13.4323
     },
     {
       "label": "30d Vol",
-      "value": "52.63 ETH",
-      "raw": 52.6268
+      "value": "52.64 ETH",
+      "raw": 52.6418
     },
     {
       "label": "Full Set Bid",
-      "value": "38.0 ETH",
-      "raw": 38.03,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.41,
+      "delta": 0.37999999999999545,
+      "delta_fmt": "+0.38 ETH"
     },
     {
       "label": "Full Set",
@@ -225,15 +228,18 @@
       "raw": 1532135062
     },
     {
-      "label": "#1 Zoku",
-      "value": "70.6M TDH",
-      "raw": 70567741
+      "label": "#1 Guidodisalle",
+      "value": "64.2M TDH",
+      "raw": 64217509,
+      "delta": -6350232,
+      "delta_fmt": "-6.4M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529: 107 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "SGT PEPE SALE: 1.460 ETH",
-    "CARD #484: 114 MINTS (EXCL. MUSEUM) | 81 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "DIVE BAR: 369 MSGS IN LAST 6H"
+    "DIVE BAR: 392 MSGS IN LAST 6H",
+    "CARD #484: 117 MINTS (EXCL. MUSEUM) | 83 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
+    "ACTIVE TODAY: MAYBE (212 MSGS) | FRANKIEHGIH_ETH (190) | PUNK6529 (131)"
   ]
 }
