@@ -133,18 +133,6 @@
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529: 107 Messages in Last 24h",
-      "summary": "107 messages in maybe's dive bar.",
-      "source": "maybe's dive bar",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
       "headline": "18 Sales Today - 1.18 ETH Volume",
       "summary": "18 sales in 24h for 1.18 ETH. Highest: \"all things fail\" at 0.370 ETH.",
@@ -245,9 +233,8 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 107 MSGS",
-    "DIVE BAR: 598 MSGS IN LAST 6H",
+    "PUNK6529: 107 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "CARD #483: 133 MINTS (EXCL. MUSEUM) | 94 HOLDERS | CODEX OBSCURA",
-    "ACTIVE TODAY: MAYBE (202 MSGS) | FRANKIEHGIH_ETH (129) | PUNK6529 (128)"
+    "DIVE BAR: 609 MSGS IN LAST 6H"
   ]
 }
