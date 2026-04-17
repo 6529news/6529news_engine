@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T11:36:15.601006+00:00",
+  "generated_at": "2026-04-17T12:43:46.012720+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_cea44605-fb72-4de9-a2eb-c9c13102ee93/c275a125-cd05-422e-b84d-2fa6cf1904bd.gif",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/484.GIF",
         "label": "From Network Society with Love - Fitzcarraldo",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zoku Leads with 70.9M Projected TDH",
-      "summary": "\"Seize your freedom \" by Zoku (70.9M projected TDH, 74 voters) | \"Credo quia absurdum\" by Guidodisalle (64.0M projected TDH, 134 voters) | \"ASCENT\" by Nrsin (35.1M projected TDH, 53 voters) Next selection: Fri Apr 17 at 17:00 CET.",
+      "summary": "\"Seize your freedom \" by Zoku (70.9M projected TDH, 75 voters) | \"Credo quia absurdum\" by Guidodisalle (64.0M projected TDH, 134 voters) | \"ASCENT\" by Nrsin (35.1M projected TDH, 53 voters) Next selection: Fri Apr 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Zoku",
           "value": "70.9M",
-          "sub": "proj. (74 votes)"
+          "sub": "proj. (75 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -122,59 +122,59 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 308K TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (308K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 1.28 ETH Volume",
-      "summary": "11 sales in 24h for 1.28 ETH. Highest: \"Summer Days\" at 0.520 ETH.",
+      "headline": "16 Sales Today - 9.58 ETH Volume",
+      "summary": "16 sales in 24h for 9.58 ETH. Highest: \"NakamotoFreedom\" at 6.710 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/303.GIF",
-        "label": "Summer Days - 0.520 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4.WEBP",
+        "label": "NakamotoFreedom - 6.710 ETH",
         "type": "image"
       },
       "images": [
         {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4.WEBP",
+          "label": "NakamotoFreedom - 6.710 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
+          "label": "Sgt. Pepe - 1.460 ETH",
+          "type": "image"
+        },
+        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/303.GIF",
           "label": "Summer Days - 0.520 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/167.WEBP",
-          "label": "all things fail - 0.370 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/209.GIF",
-          "label": "Defender - 0.090 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.28",
+          "value": "9.58",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.520",
-          "sub": "Summer Days"
+          "value": "6.710",
+          "sub": "NakamotoFreedom"
         },
         {
           "label": "Floor",
@@ -187,27 +187,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.28 ETH",
-      "raw": 1.2801,
-      "delta": 0.6995,
-      "delta_fmt": "+120.5%"
+      "value": "9.58 ETH",
+      "raw": 9.5801,
+      "delta": 8.6695,
+      "delta_fmt": "+952.1%"
     },
     {
       "label": "7d Vol",
-      "value": "5.07 ETH",
-      "raw": 5.0738
+      "value": "13.29 ETH",
+      "raw": 13.2882
     },
     {
       "label": "30d Vol",
-      "value": "44.20 ETH",
-      "raw": 44.1977
+      "value": "52.50 ETH",
+      "raw": 52.4977
     },
     {
       "label": "Full Set Bid",
-      "value": "38.9 ETH",
-      "raw": 38.93,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "38.0 ETH",
+      "raw": 38.01,
+      "delta": -0.9200000000000017,
+      "delta_fmt": "-0.92 ETH"
     },
     {
       "label": "Full Set",
@@ -227,12 +227,16 @@
     {
       "label": "#1 Zoku",
       "value": "70.9M TDH",
-      "raw": 70876164
+      "raw": 70876929,
+      "delta": 765,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529: 107 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "CARD #483: 133 MINTS (EXCL. MUSEUM) | 94 HOLDERS | CODEX OBSCURA",
-    "DIVE BAR: 127 MSGS IN LAST 6H"
+    "SGT PEPE SALE: 1.460 ETH",
+    "DIVE BAR: 165 MSGS IN LAST 6H",
+    "CARD #484: 111 MINTS (EXCL. MUSEUM) | 78 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
+    "ACTIVE TODAY: MAYBE (217 MSGS) | FRANKIEHGIH_ETH (160) | PUNK6529 (131)"
   ]
 }
