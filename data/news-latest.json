@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T14:09:56.137648+00:00",
+  "generated_at": "2026-04-17T15:16:08.463836+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zoku Leads with 70.6M Projected TDH",
-      "summary": "\"Seize your freedom \" by Zoku (70.6M projected TDH, 75 voters) | \"Credo quia absurdum\" by Guidodisalle (64.0M projected TDH, 134 voters) | \"ASCENT\" by Nrsin (35.1M projected TDH, 53 voters) Next selection: Fri Apr 17 at 17:00 CET.",
+      "summary": "\"Seize your freedom \" by Zoku (70.6M projected TDH, 75 voters) | \"Credo quia absurdum\" by Guidodisalle (63.6M projected TDH, 134 voters) | \"ASCENT\" by Nrsin (35.1M projected TDH, 53 voters) Next selection: Fri Apr 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,7 +34,7 @@
         },
         {
           "label": "Guidodisalle",
-          "value": "64.0M",
+          "value": "63.6M",
           "sub": "proj. (134 votes)"
         },
         {
@@ -122,20 +122,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 9.55 ETH Volume",
-      "summary": "15 sales in 24h for 9.55 ETH. Highest: \"NakamotoFreedom\" at 6.710 ETH.",
+      "headline": "17 Sales Today - 9.30 ETH Volume",
+      "summary": "17 sales in 24h for 9.30 ETH. Highest: \"NakamotoFreedom\" at 6.710 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -163,12 +163,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "9.55",
+          "value": "9.30",
           "sub": "ETH"
         },
         {
@@ -187,27 +187,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "9.55 ETH",
-      "raw": 9.5471,
-      "delta": 8.642100000000001,
-      "delta_fmt": "+954.9%"
+      "value": "9.30 ETH",
+      "raw": 9.3048,
+      "delta": 8.0298,
+      "delta_fmt": "+629.8%"
     },
     {
       "label": "7d Vol",
-      "value": "13.29 ETH",
-      "raw": 13.2901
+      "value": "13.42 ETH",
+      "raw": 13.4173
     },
     {
       "label": "30d Vol",
-      "value": "52.51 ETH",
-      "raw": 52.5052
+      "value": "52.63 ETH",
+      "raw": 52.6268
     },
     {
       "label": "Full Set Bid",
-      "value": "38.1 ETH",
-      "raw": 38.06,
-      "delta": 0.05000000000000426,
-      "delta_fmt": "+0.05 ETH"
+      "value": "38.0 ETH",
+      "raw": 38.03,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Full Set",
@@ -227,15 +227,14 @@
     {
       "label": "#1 Zoku",
       "value": "70.6M TDH",
-      "raw": 70567741,
-      "delta": -309188,
-      "delta_fmt": "-0.3M TDH"
+      "raw": 70567741
     }
   ],
   "headline_extras": [
     "PUNK6529: 107 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "SGT PEPE SALE: 1.460 ETH",
-    "CARD #484: 111 MINTS (EXCL. MUSEUM) | 78 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "DIVE BAR: 361 MSGS IN LAST 6H"
+    "DIVE BAR: 354 MSGS IN LAST 6H",
+    "CARD #484: 114 MINTS (EXCL. MUSEUM) | 81 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
+    "ACTIVE TODAY: MAYBE (210 MSGS) | FRANKIEHGIH_ETH (190) | PUNK6529 (131)"
   ]
 }
