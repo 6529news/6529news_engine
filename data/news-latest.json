@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T17:22:50.622199+00:00",
+  "generated_at": "2026-04-18T18:02:24.025896+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "6529Pizza Leads with 72.7M Projected TDH",
-      "summary": "\"6529Pizza\" by 6529Pizza (72.7M projected TDH, 39 voters) | \"Credo quia absurdum\" by Guidodisalle (60.2M projected TDH, 140 voters) | \"ASCENT\" by Nrsin (36.0M projected TDH, 53 voters) Next selection: Mon Apr 20 at 17:00 CET.",
+      "headline": "6529Pizza Leads with 68.7M Projected TDH",
+      "summary": "\"6529Pizza\" by 6529Pizza (68.7M projected TDH, 39 voters) | \"Credo quia absurdum\" by Guidodisalle (60.2M projected TDH, 140 voters) | \"ASCENT\" by Nrsin (36.0M projected TDH, 53 voters) Next selection: Mon Apr 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "6529Pizza",
-          "value": "72.7M",
+          "value": "68.7M",
           "sub": "proj. (39 votes)"
         },
         {
@@ -112,13 +112,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
@@ -145,8 +145,8 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/262.WEBP",
-          "label": "Meme BUIDLoors - 0.025 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/58.WEBP",
+          "label": "Bear Survival Tactics - 0.015 ETH",
           "type": "image"
         }
       ],
@@ -194,10 +194,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH",
-      "raw": 38.32,
-      "delta": 0.14000000000000057,
-      "delta_fmt": "+0.14 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.38,
+      "delta": 0.060000000000002274,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Full Set",
@@ -216,16 +216,16 @@
     },
     {
       "label": "#1 6529Pizza",
-      "value": "72.7M TDH",
-      "raw": 72701057,
-      "delta": 1678715,
-      "delta_fmt": "+1.7M TDH"
+      "value": "68.7M TDH",
+      "raw": 68701057,
+      "delta": -4000000,
+      "delta_fmt": "-4.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
+    "DIVE BAR: 195 MSGS IN LAST 6H",
     "CARD #484: 154 MINTS (EXCL. MUSEUM) | 103 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "ACTIVE TODAY: JAMESANDREW (78 MSGS) | MAYBE (72) | FRANKIEHGIH_ETH (45)",
-    "DIVE BAR: 195 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (74 MSGS) | MAYBE (72) | FRANKIEHGIH_ETH (45)"
   ]
 }
