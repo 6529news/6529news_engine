@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T20:37:09.639330+00:00",
+  "generated_at": "2026-04-18T21:19:14.182131+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -102,23 +102,33 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: sqpx (10.7M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: sqpx (10.7M) | RegularDad (4.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": null,
-      "images": [],
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/1f68e09e-e679-4343-bed4-f2a1e8255ad6.png",
+        "label": "RegularDad (4.6M)",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/1f68e09e-e679-4343-bed4-f2a1e8255ad6.png",
+          "label": "RegularDad (4.6M)",
+          "type": "image"
+        }
+      ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -179,25 +189,25 @@
       "label": "24h Vol",
       "value": "0.37 ETH",
       "raw": 0.3666,
-      "delta": -8.9617,
+      "delta": -8.9441,
       "delta_fmt": "-96.1%"
     },
     {
       "label": "7d Vol",
       "value": "13.34 ETH",
-      "raw": 13.3423
+      "raw": 13.3426
     },
     {
       "label": "30d Vol",
       "value": "52.37 ETH",
-      "raw": 52.3658
+      "raw": 52.3667
     },
     {
       "label": "Full Set Bid",
-      "value": "38.2 ETH",
-      "raw": 38.2,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "38.0 ETH",
+      "raw": 37.99,
+      "delta": -0.21000000000000085,
+      "delta_fmt": "-0.21 ETH"
     },
     {
       "label": "Full Set",
@@ -217,15 +227,13 @@
     {
       "label": "#1 6529Pizza",
       "value": "70.3M TDH",
-      "raw": 70278204,
-      "delta": 21233,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 70278204
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
+    "DIVE BAR: 122 MSGS IN LAST 6H",
     "CARD #484: 154 MINTS (EXCL. MUSEUM) | 103 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "ACTIVE TODAY: JAMESANDREW (73 MSGS) | MAYBE (72) | FRANKIEHGIH_ETH (45)",
-    "DIVE BAR: 158 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (74 MSGS) | MAYBE (72) | FRANKIEHGIH_ETH (45)"
   ]
 }
