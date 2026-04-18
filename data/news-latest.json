@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T06:14:56.312846+00:00",
+  "generated_at": "2026-04-18T07:36:51.627371+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 65.7M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (65.7M projected TDH, 139 voters) | \"ASCENT\" by Nrsin (36.0M projected TDH, 53 voters) | \"6529Pizza\" by 6529Pizza (34.5M projected TDH, 25 voters) Next selection: Mon Apr 20 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (65.7M projected TDH, 139 voters) | \"ASCENT\" by Nrsin (36.0M projected TDH, 53 voters) | \"6529Pizza\" by 6529Pizza (34.5M projected TDH, 26 voters) Next selection: Mon Apr 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -53,7 +53,7 @@
         {
           "label": "6529Pizza",
           "value": "34.5M",
-          "sub": "proj. (25 votes)"
+          "sub": "proj. (26 votes)"
         }
       ]
     },
@@ -125,13 +125,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -192,8 +192,8 @@
       "label": "24h Vol",
       "value": "8.74 ETH",
       "raw": 8.7357,
-      "delta": 7.185499999999999,
-      "delta_fmt": "+463.5%"
+      "delta": 7.0656,
+      "delta_fmt": "+423.1%"
     },
     {
       "label": "7d Vol",
@@ -208,9 +208,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.4 ETH",
-      "raw": 38.4,
-      "delta": 0.04999999999999716,
-      "delta_fmt": "+0.05 ETH"
+      "raw": 38.41,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -230,16 +230,14 @@
     {
       "label": "#1 Guidodisalle",
       "value": "65.7M TDH",
-      "raw": 65717457,
-      "delta": 16955,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 65717457
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
     "SGT PEPE SALE: 1.460 ETH",
+    "DIVE BAR: 69 MSGS IN LAST 6H",
     "CARD #484: 142 MINTS (EXCL. MUSEUM) | 92 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (169 MSGS) | MAYBE (69) | ZOKU (60)",
-    "DIVE BAR: 69 MSGS IN LAST 6H"
+    "ACTIVE TODAY: FRANKIEHGIH_ETH (169 MSGS) | MAYBE (69) | ZOKU (60)"
   ]
 }
