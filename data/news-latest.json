@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T14:06:26.051378+00:00",
+  "generated_at": "2026-04-18T14:58:47.463626+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 65.8M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (65.8M projected TDH, 139 voters) | \"6529Pizza\" by 6529Pizza (39.9M projected TDH, 34 voters) | \"ASCENT\" by Nrsin (36.0M projected TDH, 53 voters) Next selection: Mon Apr 20 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (65.8M projected TDH, 139 voters) | \"6529Pizza\" by 6529Pizza (40.0M projected TDH, 35 voters) | \"ASCENT\" by Nrsin (36.0M projected TDH, 53 voters) Next selection: Mon Apr 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "6529Pizza",
-          "value": "39.9M",
-          "sub": "proj. (34 votes)"
+          "value": "40.0M",
+          "sub": "proj. (35 votes)"
         },
         {
           "label": "Nrsin",
@@ -125,20 +125,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "7 Sales Today - 0.32 ETH Volume",
-      "summary": "7 sales in 24h for 0.32 ETH. Highest: \"Feeling Lucky?\" at 0.100 ETH.",
+      "headline": "8 Sales Today - 0.33 ETH Volume",
+      "summary": "8 sales in 24h for 0.33 ETH. Highest: \"Feeling Lucky?\" at 0.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -166,12 +166,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "7",
+          "value": "8",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.32",
+          "value": "0.33",
           "sub": "ETH"
         },
         {
@@ -181,7 +181,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016548308",
+          "value": "0.016548303",
           "sub": "ETH"
         }
       ]
@@ -190,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.32 ETH",
-      "raw": 0.3155,
-      "delta": -9.2316,
-      "delta_fmt": "-96.7%"
+      "value": "0.33 ETH",
+      "raw": 0.3305,
+      "delta": -8.9743,
+      "delta_fmt": "-96.4%"
     },
     {
       "label": "7d Vol",
-      "value": "13.11 ETH",
-      "raw": 13.1117
+      "value": "13.13 ETH",
+      "raw": 13.1267
     },
     {
       "label": "30d Vol",
-      "value": "52.12 ETH",
-      "raw": 52.1181
+      "value": "52.13 ETH",
+      "raw": 52.1331
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH",
-      "raw": 38.28,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "38.0 ETH",
+      "raw": 38.0,
+      "delta": -0.28000000000000114,
+      "delta_fmt": "-0.28 ETH"
     },
     {
       "label": "Full Set",
@@ -235,8 +235,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
-    "CARD #484: 154 MINTS (EXCL. MUSEUM) | 99 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "ACTIVE TODAY: JAMESANDREW (59 MSGS) | MAYBE (59) | FRANKIEHGIH_ETH (45)",
-    "DIVE BAR: 97 MSGS IN LAST 6H"
+    "DIVE BAR: 166 MSGS IN LAST 6H",
+    "CARD #484: 154 MINTS (EXCL. MUSEUM) | 102 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
+    "ACTIVE TODAY: MAYBE (94 MSGS) | JAMESANDREW (74) | ZOKU (52)"
   ]
 }
