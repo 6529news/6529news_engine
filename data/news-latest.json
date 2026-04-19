@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T21:58:48.865733+00:00",
+  "generated_at": "2026-04-19T22:47:38.937430+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -134,8 +134,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "6 Sales Today - 1.85 ETH Volume",
-      "summary": "6 sales in 24h for 1.85 ETH. Highest: \"Sgt. Pepe\" at 1.499 ETH.",
+      "headline": "5 Sales Today - 1.86 ETH Volume",
+      "summary": "5 sales in 24h for 1.86 ETH. Highest: \"Sgt. Pepe\" at 1.499 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -155,20 +155,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/52.WEBP",
-          "label": "MEME FACTORY - 0.022 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/150.GIF",
+          "label": "MEME CITY - 0.043 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "6",
+          "value": "5",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.85",
+          "value": "1.86",
           "sub": "ETH"
         },
         {
@@ -187,27 +187,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.85 ETH",
-      "raw": 1.8511,
-      "delta": 1.4845,
-      "delta_fmt": "+404.9%"
+      "value": "1.86 ETH",
+      "raw": 1.8596,
+      "delta": 1.4584,
+      "delta_fmt": "+363.5%"
     },
     {
       "label": "7d Vol",
-      "value": "14.94 ETH",
-      "raw": 14.9437
+      "value": "14.99 ETH",
+      "raw": 14.9868
     },
     {
       "label": "30d Vol",
-      "value": "51.37 ETH",
-      "raw": 51.3691
+      "value": "51.41 ETH",
+      "raw": 51.4122
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH",
-      "raw": 38.33,
-      "delta": -0.010000000000005116,
-      "delta_fmt": "-0.01 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.36,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Full Set",
@@ -233,8 +233,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
     "SGT PEPE SALE: 1.499 ETH",
+    "DIVE BAR: 132 MSGS IN LAST 6H",
     "CARD #484: 154 MINTS (EXCL. MUSEUM) | 103 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "ACTIVE TODAY: ROCKETGIRL (51 MSGS) | JAMESANDREW (41) | ZOKU (30)",
-    "DIVE BAR: 135 MSGS IN LAST 6H"
+    "ACTIVE TODAY: ROCKETGIRL (51 MSGS) | JAMESANDREW (41) | ZOKU (30)"
   ]
 }
