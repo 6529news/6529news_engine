@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T20:38:00.519770+00:00",
+  "generated_at": "2026-04-19T21:20:02.398689+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -205,9 +205,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.3 ETH",
-      "raw": 38.28,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "raw": 38.34,
+      "delta": 0.060000000000002274,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Full Set",
@@ -233,8 +233,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
     "SGT PEPE SALE: 1.499 ETH",
+    "DIVE BAR: 149 MSGS IN LAST 6H",
     "CARD #484: 154 MINTS (EXCL. MUSEUM) | 103 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "ACTIVE TODAY: ROCKETGIRL (51 MSGS) | JAMESANDREW (43) | ZOKU (29)",
-    "DIVE BAR: 156 MSGS IN LAST 6H"
+    "ACTIVE TODAY: ROCKETGIRL (51 MSGS) | JAMESANDREW (41) | ZOKU (29)"
   ]
 }
