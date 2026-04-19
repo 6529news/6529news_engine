@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T14:58:25.675058+00:00",
+  "generated_at": "2026-04-19T15:48:24.419726+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -189,8 +189,8 @@
       "label": "24h Vol",
       "value": "0.56 ETH",
       "raw": 0.5632,
-      "delta": 0.23270000000000002,
-      "delta_fmt": "+70.4%"
+      "delta": 0.3477,
+      "delta_fmt": "+161.3%"
     },
     {
       "label": "7d Vol",
@@ -204,10 +204,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.1 ETH",
-      "raw": 38.12,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "38.0 ETH",
+      "raw": 38.04,
+      "delta": -0.0799999999999983,
+      "delta_fmt": "-0.08 ETH"
     },
     {
       "label": "Full Set",
@@ -227,15 +227,13 @@
     {
       "label": "#1 6529Pizza",
       "value": "83.5M TDH",
-      "raw": 83491612,
-      "delta": 500000,
-      "delta_fmt": "+0.5M TDH"
+      "raw": 83491612
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
+    "DIVE BAR: 137 MSGS IN LAST 6H",
     "CARD #484: 154 MINTS (EXCL. MUSEUM) | 103 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "ACTIVE TODAY: JAMESANDREW (44 MSGS) | MAYUDROPS (28) | MAYBE (23)",
-    "DIVE BAR: 137 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (43 MSGS) | MAYUDROPS (28) | GRAY (18)"
   ]
 }
