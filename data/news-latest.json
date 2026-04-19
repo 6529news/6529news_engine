@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T14:04:43.192517+00:00",
+  "generated_at": "2026-04-19T14:58:25.675058+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "6529Pizza Leads with 83.0M Projected TDH",
-      "summary": "\"6529Pizza\" by 6529Pizza (83.0M projected TDH, 53 voters) | \"Credo quia absurdum\" by Guidodisalle (60.2M projected TDH, 138 voters) | \"ASCENT\" by Nrsin (35.3M projected TDH, 53 voters) Next selection: Mon Apr 20 at 17:00 CET.",
+      "headline": "6529Pizza Leads with 83.5M Projected TDH",
+      "summary": "\"6529Pizza\" by 6529Pizza (83.5M projected TDH, 54 voters) | \"Credo quia absurdum\" by Guidodisalle (60.2M projected TDH, 138 voters) | \"ASCENT\" by Nrsin (35.3M projected TDH, 53 voters) Next selection: Mon Apr 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "6529Pizza",
-          "value": "83.0M",
-          "sub": "proj. (53 votes)"
+          "value": "83.5M",
+          "sub": "proj. (54 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -103,18 +103,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: sqpx (10.7M) | RegularDad (4.6M).",
+      "summary": "2 submissions this week. Ranking: sqpx (10.7M) | RegularDad (4.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/1f68e09e-e679-4343-bed4-f2a1e8255ad6.png",
-        "label": "RegularDad (4.6M)",
+        "label": "RegularDad (4.7M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/1f68e09e-e679-4343-bed4-f2a1e8255ad6.png",
-          "label": "RegularDad (4.6M)",
+          "label": "RegularDad (4.7M)",
           "type": "image"
         }
       ],
@@ -134,8 +134,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "8 Sales Today - 0.58 ETH Volume",
-      "summary": "8 sales in 24h for 0.58 ETH. Highest: \"SeizeJPGs\" at 0.280 ETH.",
+      "headline": "7 Sales Today - 0.56 ETH Volume",
+      "summary": "7 sales in 24h for 0.56 ETH. Highest: \"SeizeJPGs\" at 0.280 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -163,12 +163,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "8",
+          "value": "7",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.58",
+          "value": "0.56",
           "sub": "ETH"
         },
         {
@@ -187,10 +187,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.58 ETH",
-      "raw": 0.5782,
-      "delta": 0.26270000000000004,
-      "delta_fmt": "+83.3%"
+      "value": "0.56 ETH",
+      "raw": 0.5632,
+      "delta": 0.23270000000000002,
+      "delta_fmt": "+70.4%"
     },
     {
       "label": "7d Vol",
@@ -205,9 +205,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.1 ETH",
-      "raw": 38.11,
-      "delta": -0.14000000000000057,
-      "delta_fmt": "-0.14 ETH"
+      "raw": 38.12,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -226,16 +226,16 @@
     },
     {
       "label": "#1 6529Pizza",
-      "value": "83.0M TDH",
-      "raw": 82991612,
-      "delta": 20863,
-      "delta_fmt": "+0.0M TDH"
+      "value": "83.5M TDH",
+      "raw": 83491612,
+      "delta": 500000,
+      "delta_fmt": "+0.5M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
+    "DIVE BAR: 150 MSGS IN LAST 6H",
     "CARD #484: 154 MINTS (EXCL. MUSEUM) | 103 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "ACTIVE TODAY: MAYBE (54 MSGS) | JAMESANDREW (54) | ZOKU (29)",
-    "DIVE BAR: 150 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (44 MSGS) | MAYUDROPS (28) | MAYBE (23)"
   ]
 }
