@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T18:09:26.593374+00:00",
+  "generated_at": "2026-04-20T19:34:00.983600+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -116,7 +116,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: DirtyRobot (17.8M) | RegularDad (14.8M) | sqpx (10.7M).",
+      "summary": "3 submissions this week. Ranking: DirtyRobot (19.6M) | RegularDad (14.8M) | sqpx (10.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -148,18 +148,18 @@
     {
       "category": "SALES RECAP",
       "headline": "10 Sales Today - 0.62 ETH Volume",
-      "summary": "10 sales in 24h for 0.62 ETH. Highest: \"Sgt. Pepe\" at 1.499 ETH.",
+      "summary": "10 sales in 24h for 0.62 ETH. Highest: \"EXIT STRATEGY\" at 2.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
-        "label": "Sgt. Pepe - 1.499 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/47.GIF",
+        "label": "EXIT STRATEGY - 2.400 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
-          "label": "Sgt. Pepe - 1.499 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/47.GIF",
+          "label": "EXIT STRATEGY - 2.400 ETH",
           "type": "image"
         },
         {
@@ -186,12 +186,12 @@
         },
         {
           "label": "Top Sale",
-          "value": "1.499",
-          "sub": "Sgt. Pepe"
+          "value": "2.400",
+          "sub": "EXIT STRATEGY"
         },
         {
           "label": "Floor",
-          "value": "0.01559",
+          "value": "0.01459",
           "sub": "ETH"
         }
       ]
@@ -202,8 +202,8 @@
       "label": "24h Vol",
       "value": "0.62 ETH",
       "raw": 0.6155,
-      "delta": 0.02980000000000005,
-      "delta_fmt": "+5.1%"
+      "delta": -1.4692000000000003,
+      "delta_fmt": "-70.5%"
     },
     {
       "label": "7d Vol",
@@ -217,10 +217,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.5 ETH",
-      "raw": 38.48,
-      "delta": 0.3499999999999943,
-      "delta_fmt": "+0.35 ETH"
+      "value": "32.2 ETH",
+      "raw": 32.24,
+      "delta": -6.239999999999995,
+      "delta_fmt": "-6.24 ETH"
     },
     {
       "label": "Full Set",
@@ -245,9 +245,9 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
-    "SGT PEPE SALE: 1.499 ETH",
-    "CARD #485: 113 MINTS (EXCL. MUSEUM) | 79 HOLDERS | SEIZE YOUR FREEDOM",
-    "ACTIVE TODAY: MAYBE (91 MSGS) | ROCKETGIRL (32) | ZOKU (31)",
-    "DIVE BAR: 223 MSGS IN LAST 6H"
+    "EXIT STRATEGY SALE: 2.400 ETH",
+    "DIVE BAR: 270 MSGS IN LAST 6H",
+    "CARD #485: 115 MINTS (EXCL. MUSEUM) | 79 HOLDERS | SEIZE YOUR FREEDOM",
+    "ACTIVE TODAY: MAYBE (100 MSGS) | AEZY (35) | BLAKE69 (33)"
   ]
 }
