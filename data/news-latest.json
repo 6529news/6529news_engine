@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T06:33:55.662023+00:00",
+  "generated_at": "2026-04-20T09:01:36.810647+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "6529Pizza Leads with 81.7M Projected TDH",
-      "summary": "\"6529Pizza\" by 6529Pizza (81.7M projected TDH, 57 voters) | \"Credo quia absurdum\" by Guidodisalle (60.2M projected TDH, 138 voters) | \"ASCENT\" by Nrsin (35.3M projected TDH, 54 voters) Next selection: Mon Apr 20 at 17:00 CET.",
+      "summary": "\"6529Pizza\" by 6529Pizza (81.7M projected TDH, 57 voters) | \"Credo quia absurdum\" by Guidodisalle (60.2M projected TDH, 138 voters) | \"ASCENT\" by Nrsin (35.3M projected TDH, 55 voters) Next selection: Mon Apr 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "Nrsin",
           "value": "35.3M",
-          "sub": "proj. (54 votes)"
+          "sub": "proj. (55 votes)"
         }
       ]
     },
@@ -134,8 +134,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "4 Sales Today - 1.70 ETH Volume",
-      "summary": "4 sales in 24h for 1.70 ETH. Highest: \"Sgt. Pepe\" at 1.499 ETH.",
+      "headline": "5 Sales Today - 1.82 ETH Volume",
+      "summary": "5 sales in 24h for 1.82 ETH. Highest: \"Sgt. Pepe\" at 1.499 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -155,20 +155,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/150.GIF",
-          "label": "MEME CITY - 0.043 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/34.WEBP",
+          "label": "GM Indonesia - 0.120 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "4",
+          "value": "5",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.70",
+          "value": "1.82",
           "sub": "ETH"
         },
         {
@@ -187,27 +187,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.70 ETH",
-      "raw": 1.7046,
-      "delta": 1.0084,
-      "delta_fmt": "+144.8%"
+      "value": "1.82 ETH",
+      "raw": 1.8246,
+      "delta": 1.1884000000000001,
+      "delta_fmt": "+186.8%"
     },
     {
       "label": "7d Vol",
-      "value": "15.01 ETH",
-      "raw": 15.012
+      "value": "15.13 ETH",
+      "raw": 15.132
     },
     {
       "label": "30d Vol",
-      "value": "49.91 ETH",
-      "raw": 49.9078
+      "value": "50.03 ETH",
+      "raw": 50.0278
     },
     {
       "label": "Full Set Bid",
-      "value": "38.1 ETH",
-      "raw": 38.14,
-      "delta": -0.10000000000000142,
-      "delta_fmt": "-0.10 ETH"
+      "value": "38.3 ETH",
+      "raw": 38.29,
+      "delta": 0.14999999999999858,
+      "delta_fmt": "+0.15 ETH"
     },
     {
       "label": "Full Set",
@@ -227,16 +227,14 @@
     {
       "label": "#1 6529Pizza",
       "value": "81.7M TDH",
-      "raw": 81709705,
-      "delta": -1788968,
-      "delta_fmt": "-1.8M TDH"
+      "raw": 81709705
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
     "SGT PEPE SALE: 1.499 ETH",
+    "DIVE BAR: 137 MSGS IN LAST 6H",
     "CARD #484: 154 MINTS (EXCL. MUSEUM) | 103 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "ACTIVE TODAY: ROCKETGIRL (51 MSGS) | MAYBE (49) | BLAKE69 (26)",
-    "DIVE BAR: 104 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (68 MSGS) | ROCKETGIRL (40) | BLAKE69 (30)"
   ]
 }
