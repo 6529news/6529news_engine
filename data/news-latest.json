@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T14:12:18.942154+00:00",
+  "generated_at": "2026-04-20T15:48:34.451476+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "6529Pizza Leads with 80.5M Projected TDH",
-      "summary": "\"6529Pizza\" by 6529Pizza (80.5M projected TDH, 61 voters) | \"Credo quia absurdum\" by Guidodisalle (60.3M projected TDH, 138 voters) | \"ASCENT\" by Nrsin (35.3M projected TDH, 55 voters) Next selection: Mon Apr 20 at 17:00 CET.",
+      "summary": "\"6529Pizza\" by 6529Pizza (80.5M projected TDH, 62 voters) | \"Credo quia absurdum\" by Guidodisalle (60.3M projected TDH, 137 voters) | \"ASCENT\" by Nrsin (35.3M projected TDH, 55 voters) Next selection: Mon Apr 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "6529Pizza",
           "value": "80.5M",
-          "sub": "proj. (61 votes)"
+          "sub": "proj. (62 votes)"
         },
         {
           "label": "Guidodisalle",
           "value": "60.3M",
-          "sub": "proj. (138 votes)"
+          "sub": "proj. (137 votes)"
         },
         {
           "label": "Nrsin",
@@ -102,8 +102,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: sqpx (10.7M) | RegularDad (4.8M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: sqpx (10.7M) | RegularDad (4.8M) | DirtyRobot (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -122,20 +122,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 2.01 ETH Volume",
-      "summary": "11 sales in 24h for 2.01 ETH. Highest: \"Sgt. Pepe\" at 1.499 ETH.",
+      "headline": "12 Sales Today - 2.14 ETH Volume",
+      "summary": "12 sales in 24h for 2.14 ETH. Highest: \"Sgt. Pepe\" at 1.499 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -155,20 +155,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/34.WEBP",
-          "label": "GM Indonesia - 0.120 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/484.GIF",
+          "label": "From Network Society with Love - 0.124 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.01",
+          "value": "2.14",
           "sub": "ETH"
         },
         {
@@ -187,27 +187,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.01 ETH",
-      "raw": 2.013,
-      "delta": 1.4347999999999999,
-      "delta_fmt": "+248.1%"
+      "value": "2.14 ETH",
+      "raw": 2.137,
+      "delta": 1.5737999999999999,
+      "delta_fmt": "+279.4%"
     },
     {
       "label": "7d Vol",
-      "value": "15.16 ETH",
-      "raw": 15.1552
+      "value": "15.28 ETH",
+      "raw": 15.2792
     },
     {
       "label": "30d Vol",
-      "value": "50.24 ETH",
-      "raw": 50.2355
+      "value": "50.36 ETH",
+      "raw": 50.3595
     },
     {
       "label": "Full Set Bid",
       "value": "38.5 ETH",
-      "raw": 38.55,
-      "delta": 0.0799999999999983,
-      "delta_fmt": "+0.08 ETH"
+      "raw": 38.53,
+      "delta": -0.01999999999999602,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Full Set",
@@ -227,16 +227,16 @@
     {
       "label": "#1 6529Pizza",
       "value": "80.5M TDH",
-      "raw": 80509927,
-      "delta": -1855335,
-      "delta_fmt": "-1.9M TDH"
+      "raw": 80512180,
+      "delta": 2253,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
     "SGT PEPE SALE: 1.499 ETH",
-    "CARD #485: 105 MINTS (EXCL. MUSEUM) | 72 HOLDERS | SEIZE YOUR FREEDOM",
-    "ACTIVE TODAY: MAYBE (74 MSGS) | ROCKETGIRL (43) | ZOKU (29)",
-    "DIVE BAR: 152 MSGS IN LAST 6H"
+    "DIVE BAR: 152 MSGS IN LAST 6H",
+    "CARD #485: 108 MINTS (EXCL. MUSEUM) | 75 HOLDERS | SEIZE YOUR FREEDOM",
+    "ACTIVE TODAY: MAYBE (71 MSGS) | ROCKETGIRL (51) | ZOKU (39)"
   ]
 }
