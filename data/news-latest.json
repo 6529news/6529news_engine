@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T09:01:36.810647+00:00",
+  "generated_at": "2026-04-20T10:57:52.555373+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_90bb8b3b-8780-47d6-b7cd-714139a36946/f6118d72-e78f-43fb-8c4f-9929066177b2.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/485.PNG",
         "label": "Seize your freedom  - Zoku",
         "type": "image"
       },
@@ -122,20 +122,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "5 Sales Today - 1.82 ETH Volume",
-      "summary": "5 sales in 24h for 1.82 ETH. Highest: \"Sgt. Pepe\" at 1.499 ETH.",
+      "headline": "10 Sales Today - 1.99 ETH Volume",
+      "summary": "10 sales in 24h for 1.99 ETH. Highest: \"Sgt. Pepe\" at 1.499 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -163,12 +163,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "5",
+          "value": "10",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.82",
+          "value": "1.99",
           "sub": "ETH"
         },
         {
@@ -187,27 +187,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.82 ETH",
-      "raw": 1.8246,
-      "delta": 1.1884000000000001,
-      "delta_fmt": "+186.8%"
+      "value": "1.99 ETH",
+      "raw": 1.9874,
+      "delta": 1.4092,
+      "delta_fmt": "+243.7%"
     },
     {
       "label": "7d Vol",
-      "value": "15.13 ETH",
-      "raw": 15.132
+      "value": "15.29 ETH",
+      "raw": 15.2948
     },
     {
       "label": "30d Vol",
-      "value": "50.03 ETH",
-      "raw": 50.0278
+      "value": "50.19 ETH",
+      "raw": 50.1906
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH",
-      "raw": 38.29,
-      "delta": 0.14999999999999858,
-      "delta_fmt": "+0.15 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.37,
+      "delta": 0.0799999999999983,
+      "delta_fmt": "+0.08 ETH"
     },
     {
       "label": "Full Set",
@@ -233,8 +233,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
     "SGT PEPE SALE: 1.499 ETH",
-    "CARD #484: 154 MINTS (EXCL. MUSEUM) | 103 HOLDERS | FROM NETWORK SOCIETY WITH LOVE",
-    "ACTIVE TODAY: MAYBE (68 MSGS) | ROCKETGIRL (40) | BLAKE69 (30)",
-    "DIVE BAR: 139 MSGS IN LAST 6H"
+    "DIVE BAR: 95 MSGS IN LAST 6H",
+    "CARD #485: 105 MINTS (EXCL. MUSEUM) | 72 HOLDERS | SEIZE YOUR FREEDOM",
+    "ACTIVE TODAY: MAYBE (75 MSGS) | ROCKETGIRL (36) | BLAKE69 (28)"
   ]
 }
