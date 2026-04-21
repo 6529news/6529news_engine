@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T05:52:47.683016+00:00",
+  "generated_at": "2026-04-21T07:50:55.174873+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,25 +30,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Guidodisalle Leads with 62.5M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (62.5M projected TDH, 138 voters) | \"Feed the Machine\" by DirtyRobot (59.6M projected TDH, 26 voters) | \"ASCENT\" by Nrsin (35.3M projected TDH, 55 voters) Next selection: Wed Apr 22 at 17:00 CET.",
+      "headline": "DirtyRobot Leads with 63.6M Projected TDH",
+      "summary": "\"Feed the Machine\" by DirtyRobot (63.6M projected TDH, 26 voters) | \"Credo quia absurdum\" by Guidodisalle (62.5M projected TDH, 138 voters) | \"ASCENT\" by Nrsin (35.3M projected TDH, 55 voters) Next selection: Wed Apr 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e4aa2c78-c159-4625-bc64-dfb6684c814c/f98ac686-9094-4a01-98c8-4ebf23d289bc.jpg",
-        "label": "Credo quia absurdum - Guidodisalle",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_dab14f98-f86d-40cf-bbe0-a648f7f43474/bbafebbb-dbd4-4679-b117-d43ede2fba93.png",
+        "label": "Feed the Machine - DirtyRobot",
         "type": "image"
       },
       "dataBoxes": [
         {
+          "label": "DirtyRobot",
+          "value": "63.6M",
+          "sub": "proj. (26 votes)"
+        },
+        {
           "label": "Guidodisalle",
           "value": "62.5M",
           "sub": "proj. (138 votes)"
-        },
-        {
-          "label": "DirtyRobot",
-          "value": "59.6M",
-          "sub": "proj. (26 votes)"
         },
         {
           "label": "Nrsin",
@@ -135,20 +135,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 0.76 ETH Volume",
-      "summary": "16 sales in 24h for 0.76 ETH. Highest: \"NakamotoFreedom\" at 7.200 ETH.",
+      "headline": "16 Sales Today - 0.71 ETH Volume",
+      "summary": "16 sales in 24h for 0.71 ETH. Highest: \"NakamotoFreedom\" at 7.200 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -181,7 +181,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.76",
+          "value": "0.71",
           "sub": "ETH"
         },
         {
@@ -200,25 +200,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.76 ETH",
-      "raw": 0.7615,
-      "delta": -0.9430999999999999,
-      "delta_fmt": "-55.3%"
+      "value": "0.71 ETH",
+      "raw": 0.7105,
+      "delta": -1.1141,
+      "delta_fmt": "-61.1%"
     },
     {
       "label": "7d Vol",
-      "value": "15.45 ETH",
-      "raw": 15.4537
+      "value": "15.12 ETH",
+      "raw": 15.1182
     },
     {
       "label": "30d Vol",
-      "value": "47.99 ETH",
-      "raw": 47.9942
+      "value": "48.06 ETH",
+      "raw": 48.0632
     },
     {
       "label": "Full Set Bid",
-      "value": "38.8 ETH",
-      "raw": 38.85,
+      "value": "38.9 ETH",
+      "raw": 38.88,
       "delta": 0.030000000000001137,
       "delta_fmt": "+0.03 ETH"
     },
@@ -238,16 +238,18 @@
       "raw": 1542146455
     },
     {
-      "label": "#1 Guidodisalle",
-      "value": "62.5M TDH",
-      "raw": 62459322
+      "label": "#1 DirtyRobot",
+      "value": "63.6M TDH",
+      "raw": 63648079,
+      "delta": 1188757,
+      "delta_fmt": "+1.2M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
     "EXIT STRATEGY SALE: 2.400 ETH",
+    "DIVE BAR: 263 MSGS IN LAST 6H",
     "CARD #485: 120 MINTS (EXCL. MUSEUM) | 82 HOLDERS | SEIZE YOUR FREEDOM",
-    "ACTIVE TODAY: MAYBE (148 MSGS) | JAMESANDREW (82) | JASONOPHOTO (73)",
-    "DIVE BAR: 248 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (154 MSGS) | JAMESANDREW (82) | JASONOPHOTO (77)"
   ]
 }
