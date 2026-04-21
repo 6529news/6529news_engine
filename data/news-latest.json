@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T03:37:00.870708+00:00",
+  "generated_at": "2026-04-21T05:52:47.683016+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 62.5M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (62.5M projected TDH, 138 voters) | \"Feed the Machine\" by DirtyRobot (59.4M projected TDH, 21 voters) | \"ASCENT\" by Nrsin (35.3M projected TDH, 55 voters) Next selection: Wed Apr 22 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (62.5M projected TDH, 138 voters) | \"Feed the Machine\" by DirtyRobot (59.6M projected TDH, 26 voters) | \"ASCENT\" by Nrsin (35.3M projected TDH, 55 voters) Next selection: Wed Apr 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "DirtyRobot",
-          "value": "59.4M",
-          "sub": "proj. (21 votes)"
+          "value": "59.6M",
+          "sub": "proj. (26 votes)"
         },
         {
           "label": "Nrsin",
@@ -135,20 +135,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 0.90 ETH Volume",
-      "summary": "17 sales in 24h for 0.90 ETH. Highest: \"NakamotoFreedom\" at 7.200 ETH.",
+      "headline": "16 Sales Today - 0.76 ETH Volume",
+      "summary": "16 sales in 24h for 0.76 ETH. Highest: \"NakamotoFreedom\" at 7.200 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -176,12 +176,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.90",
+          "value": "0.76",
           "sub": "ETH"
         },
         {
@@ -200,10 +200,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.90 ETH",
-      "raw": 0.9015,
-      "delta": -0.6631,
-      "delta_fmt": "-42.4%"
+      "value": "0.76 ETH",
+      "raw": 0.7615,
+      "delta": -0.9430999999999999,
+      "delta_fmt": "-55.3%"
     },
     {
       "label": "7d Vol",
@@ -218,7 +218,7 @@
     {
       "label": "Full Set Bid",
       "value": "38.8 ETH",
-      "raw": 38.82,
+      "raw": 38.85,
       "delta": 0.030000000000001137,
       "delta_fmt": "+0.03 ETH"
     },
@@ -235,23 +235,19 @@
     {
       "label": "Network TDH",
       "value": "1542.1M",
-      "raw": 1542146455,
-      "delta": 2530436,
-      "delta_fmt": "+2.5M TDH"
+      "raw": 1542146455
     },
     {
       "label": "#1 Guidodisalle",
       "value": "62.5M TDH",
-      "raw": 62459322,
-      "delta": 421,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 62459322
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
     "EXIT STRATEGY SALE: 2.400 ETH",
-    "CARD #485: 119 MINTS (EXCL. MUSEUM) | 81 HOLDERS | SEIZE YOUR FREEDOM",
-    "ACTIVE TODAY: MAYBE (129 MSGS) | JAMESANDREW (82) | JASONOPHOTO (69)",
-    "DIVE BAR: 398 MSGS IN LAST 6H"
+    "DIVE BAR: 433 MSGS IN LAST 6H",
+    "CARD #485: 120 MINTS (EXCL. MUSEUM) | 82 HOLDERS | SEIZE YOUR FREEDOM",
+    "ACTIVE TODAY: MAYBE (148 MSGS) | JAMESANDREW (82) | JASONOPHOTO (73)"
   ]
 }
