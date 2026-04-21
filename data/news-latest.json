@@ -133,18 +133,6 @@
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529 Active in maybe's dive bar",
-      "summary": "Active in maybe's dive bar.",
-      "source": "maybe's dive bar",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
       "headline": "22 Sales Today - 1.14 ETH Volume",
       "summary": "22 sales in 24h for 1.14 ETH. Highest: \"NakamotoFreedom\" at 7.200 ETH.",
@@ -293,8 +281,8 @@
   "headline_extras": [
     "PUNK6529: 5 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.595 ETH | 2 SALES | LAST SALE 8h AGO",
-    "DIVE BAR: 408 MSGS IN LAST 6H",
     "CARD #485: 279 MINTS (EXCL. MUSEUM) | 93 HOLDERS | SEIZE YOUR FREEDOM",
-    "ACTIVE TODAY: JAMESANDREW (128 MSGS) | MAYBE (108) | GPEBBLES (87)"
+    "ACTIVE TODAY: JAMESANDREW (128 MSGS) | MAYBE (108) | GPEBBLES (87)",
+    "DIVE BAR: 410 MSGS IN LAST 6H"
   ]
 }
