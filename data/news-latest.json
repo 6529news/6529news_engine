@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T20:03:37.720233+00:00",
+  "generated_at": "2026-04-21T21:05:32.223863+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "DirtyRobot Leads with 84.1M Projected TDH",
-      "summary": "\"Feed the Machine\" by DirtyRobot (84.1M projected TDH, 48 voters) | \"Credo quia absurdum\" by Guidodisalle (62.5M projected TDH, 138 voters) | \"ASCENT\" by Nrsin (33.5M projected TDH, 58 voters) Next selection: Wed Apr 22 at 17:00 CET.",
+      "summary": "\"Feed the Machine\" by DirtyRobot (84.1M projected TDH, 49 voters) | \"Credo quia absurdum\" by Guidodisalle (62.4M projected TDH, 137 voters) | \"ASCENT\" by Nrsin (33.5M projected TDH, 58 voters) Next selection: Wed Apr 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "DirtyRobot",
           "value": "84.1M",
-          "sub": "proj. (48 votes)"
+          "sub": "proj. (49 votes)"
         },
         {
           "label": "Guidodisalle",
-          "value": "62.5M",
-          "sub": "proj. (138 votes)"
+          "value": "62.4M",
+          "sub": "proj. (137 votes)"
         },
         {
           "label": "Nrsin",
@@ -122,13 +122,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
@@ -146,8 +146,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.16 ETH Volume",
-      "summary": "23 sales in 24h for 1.16 ETH. Highest: \"NakamotoFreedom\" at 7.200 ETH.",
+      "headline": "22 Sales Today - 1.14 ETH Volume",
+      "summary": "22 sales in 24h for 1.14 ETH. Highest: \"NakamotoFreedom\" at 7.200 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -175,12 +175,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.16",
+          "value": "1.14",
           "sub": "ETH"
         },
         {
@@ -245,10 +245,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.16 ETH",
-      "raw": 1.1561,
-      "delta": 0.5405999999999999,
-      "delta_fmt": "+87.8%"
+      "value": "1.14 ETH",
+      "raw": 1.1415,
+      "delta": 0.5114,
+      "delta_fmt": "+81.2%"
     },
     {
       "label": "7d Vol",
@@ -263,9 +263,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.7 ETH",
-      "raw": 38.7,
-      "delta": 0.14000000000000057,
-      "delta_fmt": "+0.14 ETH"
+      "raw": 38.68,
+      "delta": -0.020000000000003126,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Full Set",
@@ -285,16 +285,16 @@
     {
       "label": "#1 DirtyRobot",
       "value": "84.1M TDH",
-      "raw": 84090013,
-      "delta": 60802,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 84090068,
+      "delta": 55,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529: 5 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "PEBBLES: FLOOR 0.595 ETH | 2 SALES | LAST SALE 7h AGO",
+    "PEBBLES: FLOOR 0.595 ETH | 2 SALES | LAST SALE 8h AGO",
+    "DIVE BAR: 408 MSGS IN LAST 6H",
     "CARD #485: 279 MINTS (EXCL. MUSEUM) | 93 HOLDERS | SEIZE YOUR FREEDOM",
-    "ACTIVE TODAY: JAMESANDREW (125 MSGS) | MAYBE (108) | GPEBBLES (87)",
-    "DIVE BAR: 432 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (128 MSGS) | MAYBE (108) | GPEBBLES (87)"
   ]
 }
