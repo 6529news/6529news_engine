@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T11:59:41.582419+00:00",
+  "generated_at": "2026-04-21T14:04:22.440831+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "DirtyRobot Leads with 71.7M Projected TDH",
-      "summary": "\"Feed the Machine\" by DirtyRobot (71.7M projected TDH, 32 voters) | \"Credo quia absurdum\" by Guidodisalle (62.5M projected TDH, 138 voters) | \"ASCENT\" by Nrsin (38.8M projected TDH, 56 voters) Next selection: Wed Apr 22 at 17:00 CET.",
+      "headline": "DirtyRobot Leads with 77.2M Projected TDH",
+      "summary": "\"Feed the Machine\" by DirtyRobot (77.2M projected TDH, 37 voters) | \"Credo quia absurdum\" by Guidodisalle (62.5M projected TDH, 138 voters) | \"ASCENT\" by Nrsin (38.8M projected TDH, 56 voters) Next selection: Wed Apr 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "DirtyRobot",
-          "value": "71.7M",
-          "sub": "proj. (32 votes)"
+          "value": "77.2M",
+          "sub": "proj. (37 votes)"
         },
         {
           "label": "Guidodisalle",
@@ -135,20 +135,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 0.69 ETH Volume",
-      "summary": "16 sales in 24h for 0.69 ETH. Highest: \"NakamotoFreedom\" at 7.200 ETH.",
+      "headline": "17 Sales Today - 0.63 ETH Volume",
+      "summary": "17 sales in 24h for 0.63 ETH. Highest: \"NakamotoFreedom\" at 7.200 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -176,12 +176,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.69",
+          "value": "0.63",
           "sub": "ETH"
         },
         {
@@ -198,16 +198,21 @@
     },
     {
       "category": "PEBBLES",
-      "headline": "Pebbles: 1 Sales - 0.550 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.550 ETH. Current floor: 0.5199 ETH.",
+      "headline": "Pebbles: 2 Sales - 1.070 ETH",
+      "summary": "2 Pebbles sold in the last 24h for a total of 1.070 ETH. Current floor: 0.595 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/pebbles-by-zeblocks",
       "image": {
-        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/87824ff35dcf61da5b11037aafd958/a387824ff35dcf61da5b11037aafd958.png",
-        "label": "Pebbles #639 - 0.550 ETH",
+        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/8fda43a3aa49ef0e07d1399bbbb6e9/c78fda43a3aa49ef0e07d1399bbbb6e9.png",
+        "label": "Pebbles #47 - 0.520 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/8fda43a3aa49ef0e07d1399bbbb6e9/c78fda43a3aa49ef0e07d1399bbbb6e9.png",
+          "label": "Pebbles #47 - 0.520 ETH",
+          "type": "image"
+        },
         {
           "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/87824ff35dcf61da5b11037aafd958/a387824ff35dcf61da5b11037aafd958.png",
           "label": "Pebbles #639 - 0.550 ETH",
@@ -217,27 +222,22 @@
           "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/9b9399978dd848a18ee82be4085eba/2f9b9399978dd848a18ee82be4085eba.png",
           "label": "Pebbles #167 - 3.300 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/32c41fff40c7ddb7b9f73d5578f720/b232c41fff40c7ddb7b9f73d5578f720.png",
-          "label": "Pebbles #294 - 0.306 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "1",
+          "value": "2",
           "sub": ""
         },
         {
           "label": "Volume",
-          "value": "0.550",
+          "value": "1.070",
           "sub": "ETH"
         },
         {
           "label": "Floor",
-          "value": "0.5199",
+          "value": "0.595",
           "sub": "ETH"
         }
       ]
@@ -246,27 +246,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.69 ETH",
-      "raw": 0.689,
-      "delta": -1.3239999999999998,
-      "delta_fmt": "-65.8%"
+      "value": "0.63 ETH",
+      "raw": 0.6291,
+      "delta": -1.3839,
+      "delta_fmt": "-68.7%"
     },
     {
       "label": "7d Vol",
-      "value": "15.29 ETH",
-      "raw": 15.2851
+      "value": "14.63 ETH",
+      "raw": 14.6301
     },
     {
       "label": "30d Vol",
-      "value": "48.23 ETH",
-      "raw": 48.2301
+      "value": "48.29 ETH",
+      "raw": 48.2942
     },
     {
       "label": "Full Set Bid",
-      "value": "38.1 ETH",
-      "raw": 38.07,
-      "delta": -0.8299999999999983,
-      "delta_fmt": "-0.83 ETH"
+      "value": "38.9 ETH",
+      "raw": 38.88,
+      "delta": 0.8100000000000023,
+      "delta_fmt": "+0.81 ETH"
     },
     {
       "label": "Full Set",
@@ -276,9 +276,7 @@
     {
       "label": "Holders",
       "value": "10,152",
-      "raw": 10152,
-      "delta": -5,
-      "delta_fmt": "-5"
+      "raw": 10152
     },
     {
       "label": "Network TDH",
@@ -287,18 +285,18 @@
     },
     {
       "label": "#1 DirtyRobot",
-      "value": "71.7M TDH",
-      "raw": 71742923,
-      "delta": 8118,
-      "delta_fmt": "+0.0M TDH"
+      "value": "77.2M TDH",
+      "raw": 77176056,
+      "delta": 5433133,
+      "delta_fmt": "+5.4M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 16)",
     "EXIT STRATEGY SALE: 2.400 ETH",
-    "PEBBLES: FLOOR 0.5199 ETH | 1 SALES | LAST SALE 18m AGO",
-    "CARD #485: 121 MINTS (EXCL. MUSEUM) | 83 HOLDERS | SEIZE YOUR FREEDOM",
-    "ACTIVE TODAY: MAYBE (128 MSGS) | JAMESANDREW (84) | JASONOPHOTO (77)",
-    "DIVE BAR: 137 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.595 ETH | 2 SALES | LAST SALE 1h AGO",
+    "DIVE BAR: 278 MSGS IN LAST 6H",
+    "CARD #485: 279 MINTS (EXCL. MUSEUM) | 93 HOLDERS | SEIZE YOUR FREEDOM",
+    "ACTIVE TODAY: MAYBE (128 MSGS) | JAMESANDREW (109) | JASONOPHOTO (77)"
   ]
 }
