@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T17:10:29.040975+00:00",
+  "generated_at": "2026-04-22T17:43:50.422738+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Guidodisalle Leads with 61.9M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (61.9M projected TDH, 136 voters) | \"ASCENT\" by Nrsin (38.9M projected TDH, 59 voters) | \"Just Culture\" by JamesAndrew (15.8M projected TDH, 76 voters) Next selection: Fri Apr 24 at 17:00 CET.",
+      "headline": "Guidodisalle Leads with 72.2M Projected TDH",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.2M projected TDH, 137 voters) | \"ASCENT\" by Nrsin (38.9M projected TDH, 59 voters) | \"Just Culture\" by JamesAndrew (15.8M projected TDH, 76 voters) Next selection: Fri Apr 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Guidodisalle",
-          "value": "61.9M",
-          "sub": "proj. (136 votes)"
+          "value": "72.2M",
+          "sub": "proj. (137 votes)"
         },
         {
           "label": "Nrsin",
@@ -115,20 +115,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 1.82 ETH Volume",
-      "summary": "14 sales in 24h for 1.82 ETH. Highest: \"SeizeJPGs\" at 0.500 ETH.",
+      "headline": "19 Sales Today - 3.42 ETH Volume",
+      "summary": "19 sales in 24h for 3.42 ETH. Highest: \"SeizeJPGs\" at 0.500 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -143,25 +143,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/475.WEBP",
-          "label": "Cogito, ergo sum - 0.139 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/481.WEBP",
+          "label": "The Sacrifice of the Memes - 0.410 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/476.WEBP",
-          "label": "The Bear Spot - 0.120 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/480.GIF",
+          "label": "6529 NEWS - 0.410 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "19",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.82",
+          "value": "3.42",
           "sub": "ETH"
         },
         {
@@ -171,7 +171,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01555",
+          "value": "0.015545",
           "sub": "ETH"
         }
       ]
@@ -180,27 +180,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.82 ETH",
-      "raw": 1.817,
-      "delta": 1.1379,
-      "delta_fmt": "+167.6%"
+      "value": "3.42 ETH",
+      "raw": 3.4176,
+      "delta": 2.7385,
+      "delta_fmt": "+403.3%"
     },
     {
       "label": "7d Vol",
-      "value": "16.01 ETH",
-      "raw": 16.0066
+      "value": "17.64 ETH",
+      "raw": 17.6442
     },
     {
       "label": "30d Vol",
-      "value": "47.37 ETH",
-      "raw": 47.3656
+      "value": "49.00 ETH",
+      "raw": 49.0032
     },
     {
       "label": "Full Set Bid",
       "value": "38.9 ETH",
-      "raw": 38.92,
-      "delta": 0.12000000000000455,
-      "delta_fmt": "+0.12 ETH"
+      "raw": 38.87,
+      "delta": -0.05000000000000426,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Full Set",
@@ -219,14 +219,16 @@
     },
     {
       "label": "#1 Guidodisalle",
-      "value": "61.9M TDH",
-      "raw": 61920663
+      "value": "72.2M TDH",
+      "raw": 72196210,
+      "delta": 10275547,
+      "delta_fmt": "+10.3M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529: 5 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "DIVE BAR: 192 MSGS IN LAST 6H",
-    "CARD #486: 120 MINTS (EXCL. MUSEUM) | 78 HOLDERS | 6529PIZZA",
-    "ACTIVE TODAY: MAYBE (112 MSGS) | JAMESANDREW (83) | JASONOPHOTO (72)"
+    "DIVE BAR: 304 MSGS IN LAST 6H",
+    "CARD #486: 122 MINTS (EXCL. MUSEUM) | 79 HOLDERS | 6529PIZZA",
+    "ACTIVE TODAY: MAYBE (112 MSGS) | JAMESANDREW (91) | JASONOPHOTO (72)"
   ]
 }
