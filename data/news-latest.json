@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T11:14:30.567855+00:00",
+  "generated_at": "2026-04-23T12:10:45.798969+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 72.3M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 141 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.0M projected TDH, 25 voters) Next selection: Fri Apr 24 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 142 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.0M projected TDH, 25 voters) Next selection: Fri Apr 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Guidodisalle",
           "value": "72.3M",
-          "sub": "proj. (141 votes)"
+          "sub": "proj. (142 votes)"
         },
         {
           "label": "Nrsin",
@@ -59,13 +59,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
@@ -126,8 +126,8 @@
       "label": "24h Vol",
       "value": "2.12 ETH",
       "raw": 2.119,
-      "delta": 0.12580000000000013,
-      "delta_fmt": "+6.3%"
+      "delta": 0.18790000000000018,
+      "delta_fmt": "+9.7%"
     },
     {
       "label": "7d Vol",
@@ -141,10 +141,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.0 ETH",
-      "raw": 39.0,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "38.2 ETH",
+      "raw": 38.18,
+      "delta": -0.8200000000000003,
+      "delta_fmt": "-0.82 ETH"
     },
     {
       "label": "Full Set",
@@ -164,13 +164,15 @@
     {
       "label": "#1 Guidodisalle",
       "value": "72.3M TDH",
-      "raw": 72295224
+      "raw": 72307976,
+      "delta": 12752,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #486: 171 MINTS (EXCL. MUSEUM) | 87 HOLDERS | 6529PIZZA",
-    "ACTIVE TODAY: KRISTOPHER (139 MSGS) | JAMESANDREW (99) | GPEBBLES (83)",
-    "DIVE BAR: 46 MSGS IN LAST 6H"
+    "DIVE BAR: 47 MSGS IN LAST 6H",
+    "CARD #486: 172 MINTS (EXCL. MUSEUM) | 88 HOLDERS | 6529PIZZA",
+    "ACTIVE TODAY: KRISTOPHER (139 MSGS) | JAMESANDREW (86) | GPEBBLES (83)"
   ]
 }
