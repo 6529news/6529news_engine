@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T23:07:03.166294+00:00",
+  "generated_at": "2026-04-23T00:02:22.787780+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -58,77 +58,21 @@
       ]
     },
     {
-      "category": "MUSEUM SIGNERS",
-      "headline": "Museum Vault Signers Elected \u2014 HugoFaz & maybe",
-      "summary": "HugoFaz and maybe elected as Network Museum Vault Signers. Alternates: blocknoob (7.4M) & david (6.7M).",
-      "source": "Network Museum",
-      "link": "https://6529.io/waves/a2ed7791-6402-4333-9780-d7af1fdce918",
-      "image": {
-        "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-        "label": "HugoFaz",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://dweb.link/ipfs/QmUtp9cNEPppDqQPAddtRzZ7mymf5ENMjg8ZvZeZoGXZLY",
-          "label": "HugoFaz",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/12fa1870-6850-4868-84a2-57266e9b0ee4.webp?d=1727299339629",
-          "label": "maybe",
-          "type": "image"
-        },
-        {
-          "url": "https://dweb.link/ipfs/QmUxmk3atWP7TPtgnk6NkGL8Y3BgQaU7ig5M85bfBcSH2E",
-          "label": "blocknoob",
-          "type": "image"
-        },
-        {
-          "url": "https://dweb.link/ipfs/QmX2QZURpFCCWeKdexAwXci76wdDLJnMeARK8dEKzpB7p4",
-          "label": "david",
-          "type": "image"
-        }
-      ],
-      "dataBoxes": [
-        {
-          "label": "#1 HugoFaz",
-          "value": "6.0M",
-          "sub": "Vault Signer"
-        },
-        {
-          "label": "#2 maybe",
-          "value": "2.6M",
-          "sub": "Vault Signer"
-        },
-        {
-          "label": "#3 blocknoob",
-          "value": "7.4M",
-          "sub": "Alternate"
-        },
-        {
-          "label": "#4 david",
-          "value": "6.7M",
-          "sub": "Alternate"
-        }
-      ]
-    },
-    {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 3.18 ETH Volume",
-      "summary": "20 sales in 24h for 3.18 ETH. Highest: \"SeizeJPGs\" at 0.500 ETH.",
+      "headline": "20 Sales Today - 3.13 ETH Volume",
+      "summary": "20 sales in 24h for 3.13 ETH. Highest: \"SeizeJPGs\" at 0.500 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -161,7 +105,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "3.18",
+          "value": "3.13",
           "sub": "ETH"
         },
         {
@@ -180,27 +124,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.18 ETH",
-      "raw": 3.1847,
-      "delta": 2.3577,
-      "delta_fmt": "+285.1%"
+      "value": "3.13 ETH",
+      "raw": 3.1297,
+      "delta": 2.1777,
+      "delta_fmt": "+228.8%"
     },
     {
       "label": "7d Vol",
-      "value": "17.66 ETH",
-      "raw": 17.6613
+      "value": "17.47 ETH",
+      "raw": 17.4699
     },
     {
       "label": "30d Vol",
-      "value": "49.21 ETH",
-      "raw": 49.2103
+      "value": "48.57 ETH",
+      "raw": 48.5655
     },
     {
       "label": "Full Set Bid",
-      "value": "38.8 ETH",
-      "raw": 38.8,
-      "delta": 0.20999999999999375,
-      "delta_fmt": "+0.21 ETH"
+      "value": "38.9 ETH",
+      "raw": 38.92,
+      "delta": 0.12000000000000455,
+      "delta_fmt": "+0.12 ETH"
     },
     {
       "label": "Full Set",
@@ -220,15 +164,13 @@
     {
       "label": "#1 Guidodisalle",
       "value": "72.2M TDH",
-      "raw": 72196530,
-      "delta": 50,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 72196530
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 521 MSGS IN LAST 6H",
     "CARD #486: 169 MINTS (EXCL. MUSEUM) | 83 HOLDERS | 6529PIZZA",
-    "ACTIVE TODAY: KRISTOPHER (129 MSGS) | JAMESANDREW (95) | MAYBE (87)",
-    "DIVE BAR: 540 MSGS IN LAST 6H"
+    "ACTIVE TODAY: KRISTOPHER (133 MSGS) | JAMESANDREW (97) | MAYBE (86)"
   ]
 }
