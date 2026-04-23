@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-04-23T14:12:18.163507+00:00",
+  "generated_at": "2026-04-23T16:09:20.619139+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"6529Pizza\" by 6529Pizza \u2014 80.5M TDH from 63 voters. Top supporter: Thor (15.5M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/486.JPG",
-        "label": "6529Pizza - 6529Pizza",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING FRIDAY",
       "headline": "Minting Friday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 72.3M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 142 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.0M projected TDH, 26 voters) Next selection: Fri Apr 24 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 143 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.0M projected TDH, 28 voters) Next selection: Fri Apr 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +30,7 @@
         {
           "label": "Guidodisalle",
           "value": "72.3M",
-          "sub": "proj. (142 votes)"
+          "sub": "proj. (143 votes)"
         },
         {
           "label": "Nrsin",
@@ -53,19 +40,19 @@
         {
           "label": "jiwa",
           "value": "15.0M",
-          "sub": "proj. (26 votes)"
+          "sub": "proj. (28 votes)"
         }
       ]
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -126,8 +113,8 @@
       "label": "24h Vol",
       "value": "2.27 ETH",
       "raw": 2.2655,
-      "delta": 0.39849999999999985,
-      "delta_fmt": "+21.3%"
+      "delta": 0.4484999999999999,
+      "delta_fmt": "+24.7%"
     },
     {
       "label": "7d Vol",
@@ -141,10 +128,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH",
-      "raw": 38.35,
-      "delta": 0.1700000000000017,
-      "delta_fmt": "+0.17 ETH"
+      "value": "38.5 ETH",
+      "raw": 38.45,
+      "delta": 0.10000000000000142,
+      "delta_fmt": "+0.10 ETH"
     },
     {
       "label": "Full Set",
@@ -164,13 +151,15 @@
     {
       "label": "#1 Guidodisalle",
       "value": "72.3M TDH",
-      "raw": 72307976
+      "raw": 72340561,
+      "delta": 32585,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 195 MSGS IN LAST 6H",
     "CARD #486: 176 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 6529PIZZA",
-    "ACTIVE TODAY: KRISTOPHER (142 MSGS) | JAMESANDREW (108) | GPEBBLES (83)",
-    "DIVE BAR: 168 MSGS IN LAST 6H"
+    "ACTIVE TODAY: KRISTOPHER (142 MSGS) | JAMESANDREW (117) | ZIGMARILLION (90)"
   ]
 }
