@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T21:09:36.547064+00:00",
+  "generated_at": "2026-04-23T22:02:14.689381+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 72.3M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 143 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.2M projected TDH, 34 voters) Next selection: Fri Apr 24 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 142 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.2M projected TDH, 34 voters) Next selection: Fri Apr 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Guidodisalle",
           "value": "72.3M",
-          "sub": "proj. (143 votes)"
+          "sub": "proj. (142 votes)"
         },
         {
           "label": "Nrsin",
@@ -128,10 +128,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH",
-      "raw": 38.32,
-      "delta": -0.6300000000000026,
-      "delta_fmt": "-0.63 ETH"
+      "value": "38.8 ETH",
+      "raw": 38.85,
+      "delta": 0.5300000000000011,
+      "delta_fmt": "+0.53 ETH"
     },
     {
       "label": "Full Set",
@@ -151,13 +151,15 @@
     {
       "label": "#1 Guidodisalle",
       "value": "72.3M TDH",
-      "raw": 72347551
+      "raw": 72346625,
+      "delta": -926,
+      "delta_fmt": "-0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 239 MSGS IN LAST 6H",
     "CARD #486: 176 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 6529PIZZA",
-    "ACTIVE TODAY: JAMESANDREW (79 MSGS) | ZIGMARILLION (53) | JASONOPHOTO (43)",
-    "DIVE BAR: 249 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (88 MSGS) | ZIGMARILLION (53) | JASONOPHOTO (37)"
   ]
 }
