@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T08:11:00.745145+00:00",
+  "generated_at": "2026-04-23T09:57:24.897156+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 72.3M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 141 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.0M projected TDH, 23 voters) Next selection: Fri Apr 24 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 141 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.0M projected TDH, 25 voters) Next selection: Fri Apr 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -53,26 +53,26 @@
         {
           "label": "jiwa",
           "value": "15.0M",
-          "sub": "proj. (23 votes)"
+          "sub": "proj. (25 votes)"
         }
       ]
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 2.05 ETH Volume",
-      "summary": "16 sales in 24h for 2.05 ETH. Highest: \"The Sacrifice of the Memes\" at 0.410 ETH.",
+      "headline": "15 Sales Today - 2.00 ETH Volume",
+      "summary": "15 sales in 24h for 2.00 ETH. Highest: \"The Sacrifice of the Memes\" at 0.410 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -100,12 +100,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.05",
+          "value": "2.00",
           "sub": "ETH"
         },
         {
@@ -124,27 +124,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.05 ETH",
-      "raw": 2.0541,
-      "delta": 0.016199999999999992,
-      "delta_fmt": "+0.8%"
+      "value": "2.00 ETH",
+      "raw": 1.9953,
+      "delta": 0.0020999999999999908,
+      "delta_fmt": "+0.1%"
     },
     {
       "label": "7d Vol",
-      "value": "17.12 ETH",
-      "raw": 17.1212
+      "value": "17.13 ETH",
+      "raw": 17.1313
     },
     {
       "label": "30d Vol",
-      "value": "48.62 ETH",
-      "raw": 48.6175
+      "value": "48.65 ETH",
+      "raw": 48.6461
     },
     {
       "label": "Full Set Bid",
       "value": "39.0 ETH",
-      "raw": 39.01,
-      "delta": 0.3200000000000003,
-      "delta_fmt": "+0.32 ETH"
+      "raw": 39.03,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Full Set",
@@ -164,15 +164,13 @@
     {
       "label": "#1 Guidodisalle",
       "value": "72.3M TDH",
-      "raw": 72295224,
-      "delta": 20891,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 72295224
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #486: 170 MINTS (EXCL. MUSEUM) | 86 HOLDERS | 6529PIZZA",
-    "ACTIVE TODAY: KRISTOPHER (139 MSGS) | JAMESANDREW (99) | GPEBBLES (83)",
-    "DIVE BAR: 60 MSGS IN LAST 6H"
+    "DIVE BAR: 68 MSGS IN LAST 6H",
+    "CARD #486: 171 MINTS (EXCL. MUSEUM) | 87 HOLDERS | 6529PIZZA",
+    "ACTIVE TODAY: KRISTOPHER (139 MSGS) | JAMESANDREW (99) | GPEBBLES (83)"
   ]
 }
