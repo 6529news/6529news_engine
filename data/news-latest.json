@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T19:07:58.634178+00:00",
+  "generated_at": "2026-04-23T20:18:08.932165+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 72.3M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 143 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.2M projected TDH, 32 voters) Next selection: Fri Apr 24 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 143 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.2M projected TDH, 34 voters) Next selection: Fri Apr 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,26 +40,26 @@
         {
           "label": "jiwa",
           "value": "15.2M",
-          "sub": "proj. (32 votes)"
+          "sub": "proj. (34 votes)"
         }
       ]
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
       "headline": "24 Sales Today - 0.65 ETH Volume",
-      "summary": "24 sales in 24h for 0.65 ETH. Highest: \"From Network Society with Love\" at 0.100 ETH. Sweep detected: 1 card(s) with 10+ sales in 1h.",
+      "summary": "24 sales in 24h for 0.65 ETH. Highest: \"From Network Society with Love\" at 0.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -113,8 +113,8 @@
       "label": "24h Vol",
       "value": "0.65 ETH",
       "raw": 0.6452,
-      "delta": -2.6315,
-      "delta_fmt": "-80.3%"
+      "delta": -2.5395,
+      "delta_fmt": "-79.7%"
     },
     {
       "label": "7d Vol",
@@ -128,10 +128,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.0 ETH",
-      "raw": 38.03,
-      "delta": -1.009999999999998,
-      "delta_fmt": "-1.01 ETH"
+      "value": "39.0 ETH",
+      "raw": 38.95,
+      "delta": 0.9200000000000017,
+      "delta_fmt": "+0.92 ETH"
     },
     {
       "label": "Full Set",
@@ -151,14 +151,15 @@
     {
       "label": "#1 Guidodisalle",
       "value": "72.3M TDH",
-      "raw": 72340561
+      "raw": 72347551,
+      "delta": 6990,
+      "delta_fmt": "+0.0M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "SWEEP ALERT: CARD #262 - 10 SALES IN LAST HOUR",
+    "DIVE BAR: 249 MSGS IN LAST 6H",
     "CARD #486: 176 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 6529PIZZA",
-    "ACTIVE TODAY: JAMESANDREW (83 MSGS) | ZIGMARILLION (44) | MFER_ONES (41)",
-    "DIVE BAR: 219 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (77 MSGS) | ZIGMARILLION (56) | JASONOPHOTO (40)"
   ]
 }
