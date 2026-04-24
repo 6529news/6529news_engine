@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T18:52:41.395322+00:00",
+  "generated_at": "2026-04-24T19:52:10.828600+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Nrsin Leads with 39.0M Projected TDH",
-      "summary": "\"ASCENT\" by Nrsin (39.0M projected TDH, 60 voters) | \"Believe in Summer\" by jiwa (17.1M projected TDH, 43 voters) | \"MDAGA\" by Banksit (13.6M projected TDH, 40 voters) Next selection: Mon Apr 27 at 17:00 CET.",
+      "summary": "\"ASCENT\" by Nrsin (39.0M projected TDH, 60 voters) | \"Believe in Summer\" by jiwa (17.4M projected TDH, 46 voters) | \"MDAGA\" by Banksit (13.6M projected TDH, 40 voters) Next selection: Mon Apr 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "jiwa",
-          "value": "17.1M",
-          "sub": "proj. (43 votes)"
+          "value": "17.4M",
+          "sub": "proj. (46 votes)"
         },
         {
           "label": "Banksit",
@@ -142,9 +142,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.2 ETH",
-      "raw": 38.17,
-      "delta": 0.3500000000000014,
-      "delta_fmt": "+0.35 ETH"
+      "raw": 38.23,
+      "delta": 0.05999999999999517,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Full Set",
@@ -169,8 +169,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #487: 136 MINTS (EXCL. MUSEUM) | 113 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (93 MSGS) | JASONOPHOTO (61) | ZIGMARILLION (56)",
-    "DIVE BAR: 347 MSGS IN LAST 6H"
+    "DIVE BAR: 353 MSGS IN LAST 6H",
+    "CARD #487: 150 MINTS (EXCL. MUSEUM) | 114 HOLDERS | FEED THE MACHINE",
+    "ACTIVE TODAY: JAMESANDREW (93 MSGS) | GRAY (55) | ZIGMARILLION (55)"
   ]
 }
