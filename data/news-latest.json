@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T06:08:00.909929+00:00",
+  "generated_at": "2026-04-24T08:23:20.177441+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 72.3M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 142 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.2M projected TDH, 35 voters) Next selection: Fri Apr 24 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 142 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.4M projected TDH, 37 voters) Next selection: Fri Apr 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,27 +39,27 @@
         },
         {
           "label": "jiwa",
-          "value": "15.2M",
-          "sub": "proj. (35 votes)"
+          "value": "15.4M",
+          "sub": "proj. (37 votes)"
         }
       ]
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 0.63 ETH Volume",
-      "summary": "22 sales in 24h for 0.63 ETH. Highest: \"From Network Society with Love\" at 0.100 ETH.",
+      "headline": "23 Sales Today - 0.68 ETH Volume",
+      "summary": "23 sales in 24h for 0.68 ETH. Highest: \"From Network Society with Love\" at 0.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -74,25 +74,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/182.WEBP",
-          "label": "Protocol Keeper - 0.044 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/384.GIF",
+          "label": "It Was An Inside Job - 0.050 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/400.GIF",
-          "label": "P.S. The Stamps of the Future are Dinosaurs - 0.040 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/182.WEBP",
+          "label": "Protocol Keeper - 0.044 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "22",
+          "value": "23",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.63",
+          "value": "0.68",
           "sub": "ETH"
         },
         {
@@ -111,27 +111,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.63 ETH",
-      "raw": 0.6275,
-      "delta": -1.5288,
-      "delta_fmt": "-70.9%"
+      "value": "0.68 ETH",
+      "raw": 0.6775,
+      "delta": -1.3766,
+      "delta_fmt": "-67.0%"
     },
     {
       "label": "7d Vol",
-      "value": "16.63 ETH",
-      "raw": 16.6277
+      "value": "16.47 ETH",
+      "raw": 16.4746
     },
     {
       "label": "30d Vol",
-      "value": "47.85 ETH",
-      "raw": 47.8476
+      "value": "47.90 ETH",
+      "raw": 47.8976
     },
     {
       "label": "Full Set Bid",
-      "value": "38.9 ETH",
-      "raw": 38.92,
-      "delta": 0.23000000000000398,
-      "delta_fmt": "+0.23 ETH"
+      "value": "37.8 ETH",
+      "raw": 37.84,
+      "delta": -1.0799999999999983,
+      "delta_fmt": "-1.08 ETH"
     },
     {
       "label": "Full Set",
@@ -151,15 +151,13 @@
     {
       "label": "#1 Guidodisalle",
       "value": "72.3M TDH",
-      "raw": 72346814,
-      "delta": 189,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 72346814
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 160 MSGS IN LAST 6H",
     "CARD #486: 176 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 6529PIZZA",
-    "ACTIVE TODAY: JAMESANDREW (93 MSGS) | ZIGMARILLION (54) | JASONOPHOTO (37)",
-    "DIVE BAR: 159 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (93 MSGS) | ZIGMARILLION (54) | AEZY (52)"
   ]
 }
