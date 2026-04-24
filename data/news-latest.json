@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T16:56:53.312351+00:00",
+  "generated_at": "2026-04-24T17:07:16.021515+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Nrsin Leads with 39.0M Projected TDH",
-      "summary": "\"ASCENT\" by Nrsin (39.0M projected TDH, 60 voters) | \"Believe in Summer\" by jiwa (16.1M projected TDH, 42 voters) | \"MDAGA\" by Banksit (13.6M projected TDH, 40 voters) Next selection: Mon Apr 27 at 17:00 CET.",
+      "summary": "\"ASCENT\" by Nrsin (39.0M projected TDH, 60 voters) | \"Believe in Summer\" by jiwa (17.1M projected TDH, 43 voters) | \"MDAGA\" by Banksit (13.6M projected TDH, 40 voters) Next selection: Mon Apr 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "jiwa",
-          "value": "16.1M",
-          "sub": "proj. (42 votes)"
+          "value": "17.1M",
+          "sub": "proj. (43 votes)"
         },
         {
           "label": "Banksit",
@@ -59,20 +59,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#6 blake69 \u2014 308K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (308K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 1.14 ETH Volume",
-      "summary": "21 sales in 24h for 1.14 ETH. Highest: \"The Institutions Are Coming\" at 0.298 ETH.",
+      "headline": "15 Sales Today - 1.02 ETH Volume",
+      "summary": "15 sales in 24h for 1.02 ETH. Highest: \"The Institutions Are Coming\" at 0.298 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -100,12 +100,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.14",
+          "value": "1.02",
           "sub": "ETH"
         },
         {
@@ -124,27 +124,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.14 ETH",
-      "raw": 1.1387,
-      "delta": -1.1267999999999998,
-      "delta_fmt": "-49.7%"
+      "value": "1.02 ETH",
+      "raw": 1.0242,
+      "delta": 0.34730000000000005,
+      "delta_fmt": "+51.3%"
     },
     {
       "label": "7d Vol",
       "value": "8.73 ETH",
-      "raw": 8.7335
+      "raw": 8.7347
     },
     {
       "label": "30d Vol",
-      "value": "48.63 ETH",
-      "raw": 48.6291
+      "value": "48.64 ETH",
+      "raw": 48.6358
     },
     {
       "label": "Full Set Bid",
-      "value": "38.0 ETH",
-      "raw": 37.99,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "value": "37.7 ETH",
+      "raw": 37.69,
+      "delta": -0.30000000000000426,
+      "delta_fmt": "-0.30 ETH"
     },
     {
       "label": "Full Set",
@@ -164,14 +164,12 @@
     {
       "label": "#1 Nrsin",
       "value": "39.0M TDH",
-      "raw": 38957328,
-      "delta": -33438917,
-      "delta_fmt": "-33.4M TDH"
+      "raw": 38957328
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "DIVE BAR: 273 MSGS IN LAST 6H",
+    "DIVE BAR: 269 MSGS IN LAST 6H",
     "CARD #487: 133 MINTS (EXCL. MUSEUM) | 110 HOLDERS | FEED THE MACHINE",
     "ACTIVE TODAY: JAMESANDREW (93 MSGS) | ZIGMARILLION (60) | GRAY (55)"
   ]
