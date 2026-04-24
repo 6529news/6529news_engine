@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T19:52:10.828600+00:00",
+  "generated_at": "2026-04-24T20:49:42.093539+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Nrsin Leads with 39.0M Projected TDH",
-      "summary": "\"ASCENT\" by Nrsin (39.0M projected TDH, 60 voters) | \"Believe in Summer\" by jiwa (17.4M projected TDH, 46 voters) | \"MDAGA\" by Banksit (13.6M projected TDH, 40 voters) Next selection: Mon Apr 27 at 17:00 CET.",
+      "headline": "Nrsin Leads with 39.2M Projected TDH",
+      "summary": "\"ASCENT\" by Nrsin (39.2M projected TDH, 61 voters) | \"Believe in Summer\" by jiwa (17.5M projected TDH, 48 voters) | \"MDAGA\" by Banksit (13.6M projected TDH, 40 voters) Next selection: Mon Apr 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "Nrsin",
-          "value": "39.0M",
-          "sub": "proj. (60 votes)"
+          "value": "39.2M",
+          "sub": "proj. (61 votes)"
         },
         {
           "label": "jiwa",
-          "value": "17.4M",
-          "sub": "proj. (46 votes)"
+          "value": "17.5M",
+          "sub": "proj. (48 votes)"
         },
         {
           "label": "Banksit",
@@ -59,13 +59,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -142,9 +142,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.2 ETH",
-      "raw": 38.23,
-      "delta": 0.05999999999999517,
-      "delta_fmt": "+0.06 ETH"
+      "raw": 38.25,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Full Set",
@@ -163,14 +163,16 @@
     },
     {
       "label": "#1 Nrsin",
-      "value": "39.0M TDH",
-      "raw": 38957328
+      "value": "39.2M TDH",
+      "raw": 39242932,
+      "delta": 285604,
+      "delta_fmt": "+0.3M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #487: 150 MINTS (EXCL. MUSEUM) | 114 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (93 MSGS) | GRAY (55) | ZIGMARILLION (55)",
-    "DIVE BAR: 332 MSGS IN LAST 6H"
+    "DIVE BAR: 344 MSGS IN LAST 6H",
+    "CARD #487: 151 MINTS (EXCL. MUSEUM) | 115 HOLDERS | FEED THE MACHINE",
+    "ACTIVE TODAY: JAMESANDREW (123 MSGS) | AEZY (58) | GRAY (55)"
   ]
 }
