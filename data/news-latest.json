@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T00:03:28.247968+00:00",
+  "generated_at": "2026-04-24T03:50:56.132840+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Guidodisalle Leads with 72.3M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 142 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.2M projected TDH, 34 voters) Next selection: Fri Apr 24 at 17:00 CET.",
+      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.3M projected TDH, 142 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 59 voters) | \"Believe in Summer\" by jiwa (15.2M projected TDH, 35 voters) Next selection: Fri Apr 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "jiwa",
           "value": "15.2M",
-          "sub": "proj. (34 votes)"
+          "sub": "proj. (35 votes)"
         }
       ]
     },
@@ -58,8 +58,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 0.65 ETH Volume",
-      "summary": "24 sales in 24h for 0.65 ETH. Highest: \"From Network Society with Love\" at 0.100 ETH.",
+      "headline": "22 Sales Today - 0.63 ETH Volume",
+      "summary": "22 sales in 24h for 0.63 ETH. Highest: \"From Network Society with Love\" at 0.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -87,12 +87,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "24",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.65",
+          "value": "0.63",
           "sub": "ETH"
         },
         {
@@ -111,27 +111,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.65 ETH",
-      "raw": 0.6452,
-      "delta": -2.4845,
-      "delta_fmt": "-79.4%"
+      "value": "0.63 ETH",
+      "raw": 0.6275,
+      "delta": -1.5288,
+      "delta_fmt": "-70.9%"
     },
     {
       "label": "7d Vol",
-      "value": "17.13 ETH",
-      "raw": 17.1299
+      "value": "16.63 ETH",
+      "raw": 16.6277
     },
     {
       "label": "30d Vol",
-      "value": "49.14 ETH",
-      "raw": 49.1408
+      "value": "47.85 ETH",
+      "raw": 47.8476
     },
     {
       "label": "Full Set Bid",
-      "value": "38.8 ETH",
-      "raw": 38.82,
-      "delta": 0.4200000000000017,
-      "delta_fmt": "+0.42 ETH"
+      "value": "38.7 ETH",
+      "raw": 38.69,
+      "delta": -0.13000000000000256,
+      "delta_fmt": "-0.13 ETH"
     },
     {
       "label": "Full Set",
@@ -145,8 +145,10 @@
     },
     {
       "label": "Network TDH",
-      "value": "1547.2M",
-      "raw": 1547245645
+      "value": "1549.7M",
+      "raw": 1549720570,
+      "delta": 2474925,
+      "delta_fmt": "+2.5M TDH"
     },
     {
       "label": "#1 Guidodisalle",
@@ -156,8 +158,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 225 MSGS IN LAST 6H",
     "CARD #486: 176 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 6529PIZZA",
-    "ACTIVE TODAY: JAMESANDREW (71 MSGS) | ZIGMARILLION (55) | KRISTOPHER (40)",
-    "DIVE BAR: 228 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (93 MSGS) | ZIGMARILLION (55) | INTREPID (42)"
   ]
 }
