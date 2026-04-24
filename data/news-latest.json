@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T15:46:34.842027+00:00",
+  "generated_at": "2026-04-24T16:56:53.312351+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,22 +16,30 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "Guidodisalle Leads with 72.4M Projected TDH",
-      "summary": "\"Credo quia absurdum\" by Guidodisalle (72.4M projected TDH, 145 voters) | \"ASCENT\" by Nrsin (39.0M projected TDH, 60 voters) | \"Believe in Summer\" by jiwa (15.5M projected TDH, 42 voters) Next selection: Fri Apr 24 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"Credo quia absurdum\" by Guidodisalle \u2014 72.4M TDH from 146 voters. Top supporter: Poseidon (15.4M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e4aa2c78-c159-4625-bc64-dfb6684c814c/f98ac686-9094-4a01-98c8-4ebf23d289bc.jpg",
         "label": "Credo quia absurdum - Guidodisalle",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "Nrsin Leads with 39.0M Projected TDH",
+      "summary": "\"ASCENT\" by Nrsin (39.0M projected TDH, 60 voters) | \"Believe in Summer\" by jiwa (16.1M projected TDH, 42 voters) | \"MDAGA\" by Banksit (13.6M projected TDH, 40 voters) Next selection: Mon Apr 27 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2f79c9ee-0a16-41b1-b1cd-1b38c56238ba/0be685bc-2c81-4516-93a1-eb446daf8b97.GIF",
+        "label": "ASCENT - Nrsin",
+        "type": "image"
+      },
       "dataBoxes": [
-        {
-          "label": "Guidodisalle",
-          "value": "72.4M",
-          "sub": "proj. (145 votes)"
-        },
         {
           "label": "Nrsin",
           "value": "39.0M",
@@ -39,20 +47,25 @@
         },
         {
           "label": "jiwa",
-          "value": "15.5M",
+          "value": "16.1M",
           "sub": "proj. (42 votes)"
+        },
+        {
+          "label": "Banksit",
+          "value": "13.6M",
+          "sub": "proj. (40 votes)"
         }
       ]
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 308K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (308K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -128,10 +141,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.9 ETH",
-      "raw": 37.92,
-      "delta": -2.059999999999995,
-      "delta_fmt": "-2.06 ETH"
+      "value": "38.0 ETH",
+      "raw": 37.99,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Full Set",
@@ -149,17 +162,17 @@
       "raw": 1549720570
     },
     {
-      "label": "#1 Guidodisalle",
-      "value": "72.4M TDH",
-      "raw": 72396245,
-      "delta": 49269,
-      "delta_fmt": "+0.0M TDH"
+      "label": "#1 Nrsin",
+      "value": "39.0M TDH",
+      "raw": 38957328,
+      "delta": -33438917,
+      "delta_fmt": "-33.4M TDH"
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #487: 128 MINTS (EXCL. MUSEUM) | 108 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (88 MSGS) | ZIGMARILLION (62) | GRAY (52)",
-    "DIVE BAR: 262 MSGS IN LAST 6H"
+    "DIVE BAR: 273 MSGS IN LAST 6H",
+    "CARD #487: 133 MINTS (EXCL. MUSEUM) | 110 HOLDERS | FEED THE MACHINE",
+    "ACTIVE TODAY: JAMESANDREW (93 MSGS) | ZIGMARILLION (60) | GRAY (55)"
   ]
 }
