@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T16:44:41.407296+00:00",
+  "generated_at": "2026-04-25T17:26:50.018627+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
@@ -123,8 +123,8 @@
       "label": "24h Vol",
       "value": "8.38 ETH",
       "raw": 8.379,
-      "delta": 7.2402999999999995,
-      "delta_fmt": "+635.8%"
+      "delta": 7.354799999999999,
+      "delta_fmt": "+718.1%"
     },
     {
       "label": "7d Vol",
@@ -139,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.3 ETH",
-      "raw": 41.26,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "raw": 41.25,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -166,8 +166,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 246 MSGS IN LAST 6H",
     "CARD #487: 177 MINTS (EXCL. MUSEUM) | 128 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (79 MSGS) | MAYBE (57) | ROCKETGIRL (49)",
-    "DIVE BAR: 233 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (84 MSGS) | MAYBE (57) | GRAY (47)"
   ]
 }
