@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T15:01:11.104599+00:00",
+  "generated_at": "2026-04-25T15:56:07.584511+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Strauss (4.5M) | teexels (1.6M).",
+      "summary": "2 submissions this week. Ranking: Strauss (4.6M) | teexels (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "7 Sales Today - 8.39 ETH Volume",
-      "summary": "7 sales in 24h for 8.39 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
+      "headline": "6 Sales Today - 8.38 ETH Volume",
+      "summary": "6 sales in 24h for 8.38 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "7",
+          "value": "6",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "8.39",
+          "value": "8.38",
           "sub": "ETH"
         },
         {
@@ -121,10 +121,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "8.39 ETH",
-      "raw": 8.3917,
-      "delta": 7.3057,
-      "delta_fmt": "+672.7%"
+      "value": "8.38 ETH",
+      "raw": 8.379,
+      "delta": 7.2402999999999995,
+      "delta_fmt": "+635.8%"
     },
     {
       "label": "7d Vol",
@@ -139,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.3 ETH",
-      "raw": 41.29,
-      "delta": 0.3200000000000003,
-      "delta_fmt": "+0.32 ETH"
+      "raw": 41.3,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -161,15 +161,13 @@
     {
       "label": "#1 Nrsin",
       "value": "37.0M TDH",
-      "raw": 36973092,
-      "delta": 79580,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 36973092
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 244 MSGS IN LAST 6H",
     "CARD #487: 177 MINTS (EXCL. MUSEUM) | 128 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (84 MSGS) | MAYBE (56) | ROCKETGIRL (54)",
-    "DIVE BAR: 248 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (84 MSGS) | MAYBE (55) | ROCKETGIRL (54)"
   ]
 }
