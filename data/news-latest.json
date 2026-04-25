@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T20:39:40.918260+00:00",
+  "generated_at": "2026-04-25T21:22:20.104132+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 8.66 ETH Volume",
-      "summary": "11 sales in 24h for 8.66 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
+      "headline": "10 Sales Today - 8.48 ETH Volume",
+      "summary": "10 sales in 24h for 8.48 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "10",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "8.66",
+          "value": "8.48",
           "sub": "ETH"
         },
         {
@@ -121,10 +121,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "8.66 ETH",
-      "raw": 8.6587,
-      "delta": 7.7444,
-      "delta_fmt": "+847.0%"
+      "value": "8.48 ETH",
+      "raw": 8.4797,
+      "delta": 7.386399999999999,
+      "delta_fmt": "+675.6%"
     },
     {
       "label": "7d Vol",
@@ -139,9 +139,7 @@
     {
       "label": "Full Set Bid",
       "value": "41.3 ETH",
-      "raw": 41.27,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "raw": 41.27
     },
     {
       "label": "Full Set",
@@ -166,8 +164,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 194 MSGS IN LAST 6H",
     "CARD #487: 177 MINTS (EXCL. MUSEUM) | 128 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (69 MSGS) | ZIGMARILLION (48) | GRAY (45)",
-    "DIVE BAR: 238 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (69 MSGS) | ZIGMARILLION (55) | GRAY (45)"
   ]
 }
