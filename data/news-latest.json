@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T19:12:17.444003+00:00",
+  "generated_at": "2026-04-25T19:55:56.144336+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "10 Sales Today - 8.51 ETH Volume",
-      "summary": "10 sales in 24h for 8.51 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
+      "headline": "11 Sales Today - 8.66 ETH Volume",
+      "summary": "11 sales in 24h for 8.66 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -89,20 +89,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.105 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+          "label": "< no, really [ this ] is going to be our year > - 0.150 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "10",
+          "value": "11",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "8.51",
+          "value": "8.66",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "8.51 ETH",
-      "raw": 8.5087,
-      "delta": 7.594399999999999,
-      "delta_fmt": "+830.6%"
+      "value": "8.66 ETH",
+      "raw": 8.6587,
+      "delta": 7.7444,
+      "delta_fmt": "+847.0%"
     },
     {
       "label": "7d Vol",
-      "value": "16.83 ETH",
-      "raw": 16.826
+      "value": "16.98 ETH",
+      "raw": 16.976
     },
     {
       "label": "30d Vol",
-      "value": "56.54 ETH",
-      "raw": 56.5382
+      "value": "56.69 ETH",
+      "raw": 56.6882
     },
     {
       "label": "Full Set Bid",
       "value": "41.3 ETH",
-      "raw": 41.28,
-      "delta": 0.020000000000003126,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 41.28
     },
     {
       "label": "Full Set",
@@ -166,8 +164,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 283 MSGS IN LAST 6H",
     "CARD #487: 177 MINTS (EXCL. MUSEUM) | 128 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (99 MSGS) | ZIGMARILLION (48) | GRAY (46)",
-    "DIVE BAR: 284 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (99 MSGS) | ZIGMARILLION (52) | GRAY (45)"
   ]
 }
