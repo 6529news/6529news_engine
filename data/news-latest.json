@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T21:22:20.104132+00:00",
+  "generated_at": "2026-04-25T22:01:30.507259+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "10 Sales Today - 8.48 ETH Volume",
-      "summary": "10 sales in 24h for 8.48 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
+      "headline": "11 Sales Today - 8.56 ETH Volume",
+      "summary": "11 sales in 24h for 8.56 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -84,25 +84,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/190.WEBP",
-          "label": "girlwifhat - 0.179 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+          "label": "< no, really [ this ] is going to be our year > - 0.150 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
-          "label": "< no, really [ this ] is going to be our year > - 0.150 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+          "label": "AUTONOMY.EXE - 0.105 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "10",
+          "value": "11",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "8.48",
+          "value": "8.56",
           "sub": "ETH"
         },
         {
@@ -121,25 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "8.48 ETH",
-      "raw": 8.4797,
-      "delta": 7.386399999999999,
-      "delta_fmt": "+675.6%"
+      "value": "8.56 ETH",
+      "raw": 8.5567,
+      "delta": 7.463399999999999,
+      "delta_fmt": "+682.6%"
     },
     {
       "label": "7d Vol",
-      "value": "16.98 ETH",
-      "raw": 16.976
+      "value": "17.05 ETH",
+      "raw": 17.053
     },
     {
       "label": "30d Vol",
-      "value": "56.69 ETH",
-      "raw": 56.6882
+      "value": "56.77 ETH",
+      "raw": 56.7652
     },
     {
       "label": "Full Set Bid",
-      "value": "41.3 ETH",
-      "raw": 41.27
+      "value": "41.2 ETH",
+      "raw": 41.19,
+      "delta": -0.0800000000000054,
+      "delta_fmt": "-0.08 ETH"
     },
     {
       "label": "Full Set",
@@ -164,8 +166,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 172 MSGS IN LAST 6H",
     "CARD #487: 177 MINTS (EXCL. MUSEUM) | 128 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (69 MSGS) | ZIGMARILLION (55) | GRAY (45)",
-    "DIVE BAR: 173 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (69 MSGS) | ZIGMARILLION (54) | GRAY (44)"
   ]
 }
