@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T18:05:29.285338+00:00",
+  "generated_at": "2026-04-25T19:12:17.444003+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "8 Sales Today - 8.42 ETH Volume",
-      "summary": "8 sales in 24h for 8.42 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
+      "headline": "10 Sales Today - 8.51 ETH Volume",
+      "summary": "10 sales in 24h for 8.51 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "8",
+          "value": "10",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "8.42",
+          "value": "8.51",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "8.42 ETH",
-      "raw": 8.4156,
-      "delta": 7.3915999999999995,
-      "delta_fmt": "+721.8%"
+      "value": "8.51 ETH",
+      "raw": 8.5087,
+      "delta": 7.594399999999999,
+      "delta_fmt": "+830.6%"
     },
     {
       "label": "7d Vol",
-      "value": "17.02 ETH",
-      "raw": 17.0161
+      "value": "16.83 ETH",
+      "raw": 16.826
     },
     {
       "label": "30d Vol",
-      "value": "56.45 ETH",
-      "raw": 56.4451
+      "value": "56.54 ETH",
+      "raw": 56.5382
     },
     {
       "label": "Full Set Bid",
       "value": "41.3 ETH",
-      "raw": 41.26,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 41.28,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Full Set",
@@ -166,8 +166,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 280 MSGS IN LAST 6H",
     "CARD #487: 177 MINTS (EXCL. MUSEUM) | 128 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (96 MSGS) | MAYBE (53) | GRAY (47)",
-    "DIVE BAR: 267 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (99 MSGS) | ZIGMARILLION (48) | GRAY (46)"
   ]
 }
