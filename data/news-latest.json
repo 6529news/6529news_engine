@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T11:54:50.793702+00:00",
+  "generated_at": "2026-04-25T13:04:51.019878+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Nrsin Leads with 36.9M Projected TDH",
-      "summary": "\"ASCENT\" by Nrsin (36.9M projected TDH, 61 voters) | \"Just Culture\" by JamesAndrew (23.4M projected TDH, 82 voters) | \"Believe in Summer\" by jiwa (19.2M projected TDH, 54 voters) Next selection: Mon Apr 27 at 17:00 CET.",
+      "summary": "\"ASCENT\" by Nrsin (36.9M projected TDH, 61 voters) | \"Just Culture\" by JamesAndrew (23.4M projected TDH, 83 voters) | \"Believe in Summer\" by jiwa (19.2M projected TDH, 54 voters) Next selection: Mon Apr 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +48,7 @@
         {
           "label": "JamesAndrew",
           "value": "23.4M",
-          "sub": "proj. (82 votes)"
+          "sub": "proj. (83 votes)"
         },
         {
           "label": "jiwa",
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Strauss (3.4M) | teexels (1.6M).",
+      "summary": "2 submissions this week. Ranking: Strauss (3.5M) | teexels (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -81,8 +81,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "10 Sales Today - 8.95 ETH Volume",
-      "summary": "10 sales in 24h for 8.95 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
+      "headline": "11 Sales Today - 8.99 ETH Volume",
+      "summary": "11 sales in 24h for 8.99 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "10",
+          "value": "11",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "8.95",
+          "value": "8.99",
           "sub": "ETH"
         },
         {
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "8.95 ETH",
-      "raw": 8.9484,
-      "delta": 8.394599999999999,
-      "delta_fmt": "+1515.8%"
+      "value": "8.99 ETH",
+      "raw": 8.9872,
+      "delta": 8.415099999999999,
+      "delta_fmt": "+1470.9%"
     },
     {
       "label": "7d Vol",
-      "value": "16.83 ETH",
-      "raw": 16.8325
+      "value": "16.87 ETH",
+      "raw": 16.8746
     },
     {
       "label": "30d Vol",
-      "value": "56.25 ETH",
-      "raw": 56.2464
+      "value": "56.30 ETH",
+      "raw": 56.3035
     },
     {
       "label": "Full Set Bid",
-      "value": "40.7 ETH",
-      "raw": 40.74,
-      "delta": 0.030000000000001137,
-      "delta_fmt": "+0.03 ETH"
+      "value": "40.9 ETH",
+      "raw": 40.89,
+      "delta": 0.14999999999999858,
+      "delta_fmt": "+0.15 ETH"
     },
     {
       "label": "Full Set",
@@ -179,8 +179,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #487: 174 MINTS (EXCL. MUSEUM) | 125 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (83 MSGS) | GRAY (60) | ROCKETGIRL (54)",
-    "DIVE BAR: 105 MSGS IN LAST 6H"
+    "DIVE BAR: 110 MSGS IN LAST 6H",
+    "CARD #487: 175 MINTS (EXCL. MUSEUM) | 126 HOLDERS | FEED THE MACHINE",
+    "ACTIVE TODAY: JAMESANDREW (83 MSGS) | GRAY (63) | ROCKETGIRL (54)"
   ]
 }
