@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T04:33:23.974710+00:00",
+  "generated_at": "2026-04-26T06:29:30.031251+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -123,8 +123,8 @@
       "label": "24h Vol",
       "value": "8.78 ETH",
       "raw": 8.7788,
-      "delta": 7.8182,
-      "delta_fmt": "+813.9%"
+      "delta": 7.8683000000000005,
+      "delta_fmt": "+864.2%"
     },
     {
       "label": "7d Vol",
@@ -139,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.2 ETH",
-      "raw": 41.16,
-      "delta": -0.09000000000000341,
-      "delta_fmt": "-0.09 ETH"
+      "raw": 41.19,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Full Set",
@@ -161,15 +161,13 @@
     {
       "label": "#1 Nrsin",
       "value": "37.8M TDH",
-      "raw": 37774165,
-      "delta": 801073,
-      "delta_fmt": "+0.8M TDH"
+      "raw": 37774165
     }
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 138 MSGS IN LAST 6H",
     "CARD #487: 177 MINTS (EXCL. MUSEUM) | 128 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (77 MSGS) | GRAY (41) | ZIGMARILLION (41)",
-    "DIVE BAR: 129 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (77 MSGS) | GRAY (41) | ZIGMARILLION (41)"
   ]
 }
