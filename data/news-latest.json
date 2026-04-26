@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T18:28:48.514666+00:00",
+  "generated_at": "2026-04-26T19:31:03.655125+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "jiwa Leads with 46.2M Projected TDH",
-      "summary": "\"Believe in Summer\" by jiwa (46.2M projected TDH, 63 voters) | \"ASCENT\" by Nrsin (39.1M projected TDH, 64 voters) | \"Just Culture\" by JamesAndrew (24.5M projected TDH, 83 voters) Next selection: Mon Apr 27 at 17:00 CET.",
+      "summary": "\"Believe in Summer\" by jiwa (46.2M projected TDH, 64 voters) | \"ASCENT\" by Nrsin (39.1M projected TDH, 64 voters) | \"Just Culture\" by JamesAndrew (24.5M projected TDH, 83 voters) Next selection: Mon Apr 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "jiwa",
           "value": "46.2M",
-          "sub": "proj. (63 votes)"
+          "sub": "proj. (64 votes)"
         },
         {
           "label": "Nrsin",
@@ -68,21 +68,16 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 0.93 ETH Volume",
-      "summary": "15 sales in 24h for 0.93 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
+      "headline": "14 Sales Today - 0.77 ETH Volume",
+      "summary": "14 sales in 24h for 0.77 ETH. Highest: \"How To Live\" at 0.142 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
-        "label": "< no, really [ this ] is going to be our year > - 0.150 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/302.GIF",
+        "label": "How To Live - 0.142 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
-          "label": "< no, really [ this ] is going to be our year > - 0.150 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/302.GIF",
           "label": "How To Live - 0.142 ETH",
@@ -92,23 +87,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/480.GIF",
           "label": "6529 NEWS - 0.111 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/478.WEBP",
+          "label": "Network for Good  - 0.111 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.93",
+          "value": "0.77",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.150",
-          "sub": "< no, really [ this "
+          "value": "0.142",
+          "sub": "How To Live"
         },
         {
           "label": "Floor",
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.93 ETH",
-      "raw": 0.9253,
-      "delta": -7.4902999999999995,
-      "delta_fmt": "-89.0%"
+      "value": "0.77 ETH",
+      "raw": 0.7749,
+      "delta": -7.7338,
+      "delta_fmt": "-90.9%"
     },
     {
       "label": "7d Vol",
       "value": "15.91 ETH",
-      "raw": 15.9136
+      "raw": 15.9063
     },
     {
       "label": "30d Vol",
-      "value": "56.55 ETH",
-      "raw": 56.5489
+      "value": "56.52 ETH",
+      "raw": 56.5229
     },
     {
       "label": "Full Set Bid",
-      "value": "41.1 ETH",
-      "raw": 41.13,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "value": "41.2 ETH",
+      "raw": 41.18,
+      "delta": 0.04999999999999716,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,7 +151,9 @@
     {
       "label": "#1 jiwa",
       "value": "46.2M TDH",
-      "raw": 46159199
+      "raw": 46171314,
+      "delta": 12115,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Nrsin",
@@ -171,8 +173,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 316 MSGS IN LAST 6H",
     "CARD #487: 177 MINTS (EXCL. MUSEUM) | 128 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (81 MSGS) | GRAFFITIONGRAVE (46) | MAYUDROPS (44)",
-    "DIVE BAR: 312 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (80 MSGS) | GRAFFITIONGRAVE (46) | MAYUDROPS (45)"
   ]
 }
