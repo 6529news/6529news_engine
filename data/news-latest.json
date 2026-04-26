@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T15:58:17.376753+00:00",
+  "generated_at": "2026-04-26T16:54:56.975405+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "jiwa Leads with 44.4M Projected TDH",
-      "summary": "\"Believe in Summer\" by jiwa (44.4M projected TDH, 63 voters) | \"ASCENT\" by Nrsin (39.1M projected TDH, 64 voters) | \"Just Culture\" by JamesAndrew (24.5M projected TDH, 83 voters) Next selection: Mon Apr 27 at 17:00 CET.",
+      "headline": "jiwa Leads with 46.2M Projected TDH",
+      "summary": "\"Believe in Summer\" by jiwa (46.2M projected TDH, 63 voters) | \"ASCENT\" by Nrsin (39.1M projected TDH, 64 voters) | \"Just Culture\" by JamesAndrew (24.5M projected TDH, 83 voters) Next selection: Mon Apr 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "jiwa",
-          "value": "44.4M",
+          "value": "46.2M",
           "sub": "proj. (63 votes)"
         },
         {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -129,19 +129,19 @@
     {
       "label": "7d Vol",
       "value": "17.34 ETH",
-      "raw": 17.3404
+      "raw": 17.3395
     },
     {
       "label": "30d Vol",
       "value": "56.42 ETH",
-      "raw": 56.4217
+      "raw": 56.4186
     },
     {
       "label": "Full Set Bid",
       "value": "41.1 ETH",
-      "raw": 41.11,
-      "delta": -0.17999999999999972,
-      "delta_fmt": "-0.18 ETH"
+      "raw": 41.1,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -150,10 +150,10 @@
     },
     {
       "label": "#1 jiwa",
-      "value": "44.4M TDH",
-      "raw": 44407443,
-      "delta": 5,
-      "delta_fmt": "+0.0M TDH"
+      "value": "46.2M TDH",
+      "raw": 46159199,
+      "delta": 1751756,
+      "delta_fmt": "+1.8M TDH"
     },
     {
       "label": "#1 Nrsin",
@@ -173,8 +173,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 264 MSGS IN LAST 6H",
     "CARD #487: 177 MINTS (EXCL. MUSEUM) | 128 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (97 MSGS) | MAYUDROPS (45) | GRAFFITIONGRAVE (42)",
-    "DIVE BAR: 268 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (94 MSGS) | GRAFFITIONGRAVE (46) | MAYUDROPS (45)"
   ]
 }
