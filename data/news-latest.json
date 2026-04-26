@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T09:15:00.331140+00:00",
+  "generated_at": "2026-04-26T10:09:34.462488+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Nrsin Leads with 39.1M Projected TDH",
-      "summary": "\"ASCENT\" by Nrsin (39.1M projected TDH, 63 voters) | \"Just Culture\" by JamesAndrew (28.7M projected TDH, 83 voters) | \"Believe in Summer\" by jiwa (26.7M projected TDH, 60 voters) Next selection: Mon Apr 27 at 17:00 CET.",
+      "summary": "\"ASCENT\" by Nrsin (39.1M projected TDH, 63 voters) | \"Just Culture\" by JamesAndrew (28.7M projected TDH, 83 voters) | \"Believe in Summer\" by jiwa (26.7M projected TDH, 61 voters) Next selection: Mon Apr 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "jiwa",
           "value": "26.7M",
-          "sub": "proj. (60 votes)"
+          "sub": "proj. (61 votes)"
         }
       ]
     },
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 8.78 ETH Volume",
-      "summary": "15 sales in 24h for 8.78 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
+      "headline": "14 Sales Today - 8.73 ETH Volume",
+      "summary": "14 sales in 24h for 8.73 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "8.78",
+          "value": "8.73",
           "sub": "ETH"
         },
         {
@@ -121,10 +121,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "8.78 ETH",
-      "raw": 8.7788,
-      "delta": 7.8683000000000005,
-      "delta_fmt": "+864.2%"
+      "value": "8.73 ETH",
+      "raw": 8.7309,
+      "delta": 7.7725,
+      "delta_fmt": "+811.0%"
     },
     {
       "label": "7d Vol",
@@ -139,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.2 ETH",
-      "raw": 41.19,
-      "delta": 0.03999999999999915,
-      "delta_fmt": "+0.04 ETH"
+      "raw": 41.18,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Full Set",
@@ -166,8 +166,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 88 MSGS IN LAST 6H",
     "CARD #487: 177 MINTS (EXCL. MUSEUM) | 128 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (77 MSGS) | GRAY (43) | ZIGMARILLION (42)",
-    "DIVE BAR: 100 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (77 MSGS) | ZIGMARILLION (41) | GRAY (40)"
   ]
 }
