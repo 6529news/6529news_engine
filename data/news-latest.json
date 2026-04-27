@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T19:54:42.820280+00:00",
+  "generated_at": "2026-04-27T21:02:08.061274+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Nrsin Leads with 55.7M Projected TDH",
-      "summary": "\"ASCENT\" by Nrsin (55.7M projected TDH, 69 voters) | \"Just Culture\" by JamesAndrew (31.7M projected TDH, 86 voters) | \"Pursuit of Volatility\" by Strauss (17.9M projected TDH, 50 voters) Next selection: Wed Apr 29 at 17:00 CET.",
+      "summary": "\"ASCENT\" by Nrsin (55.7M projected TDH, 69 voters) | \"Just Culture\" by JamesAndrew (33.6M projected TDH, 87 voters) | \"Pursuit of Volatility\" by Strauss (17.9M projected TDH, 50 voters) Next selection: Wed Apr 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "JamesAndrew",
-          "value": "31.7M",
-          "sub": "proj. (86 votes)"
+          "value": "33.6M",
+          "sub": "proj. (87 votes)"
         },
         {
           "label": "Strauss",
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 1.06 ETH Volume",
-      "summary": "16 sales in 24h for 1.06 ETH. Highest: \"JPEG Protectoor\" at 0.230 ETH.",
+      "headline": "15 Sales Today - 0.99 ETH Volume",
+      "summary": "15 sales in 24h for 0.99 ETH. Highest: \"JPEG Protectoor\" at 0.230 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.06",
+          "value": "0.99",
           "sub": "ETH"
         },
         {
@@ -134,10 +134,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.06 ETH",
-      "raw": 1.0641,
-      "delta": 0.2892,
-      "delta_fmt": "+37.3%"
+      "value": "0.99 ETH",
+      "raw": 0.994,
+      "delta": 0.21619999999999995,
+      "delta_fmt": "+27.8%"
     },
     {
       "label": "7d Vol",
@@ -151,8 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.2 ETH",
-      "raw": 41.21
+      "value": "40.7 ETH",
+      "raw": 40.68,
+      "delta": -0.5300000000000011,
+      "delta_fmt": "-0.53 ETH"
     },
     {
       "label": "Network TDH",
@@ -162,7 +164,9 @@
     {
       "label": "#1 Nrsin",
       "value": "55.7M TDH",
-      "raw": 55681787
+      "raw": 55682268,
+      "delta": 481,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 jiwa",
@@ -184,8 +188,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 488 MSGS IN LAST 6H",
     "CARD #488: 127 MINTS (EXCL. MUSEUM) | 90 HOLDERS | CREDO QUIA ABSURDUM",
-    "ACTIVE TODAY: MAYBE (68 MSGS) | JAMESANDREW (58) | GRAFFITIONGRAVE (54)",
-    "DIVE BAR: 476 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (66 MSGS) | JAMESANDREW (58) | GRAFFITIONGRAVE (54)"
   ]
 }
