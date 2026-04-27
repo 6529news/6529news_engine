@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T15:19:23.045283+00:00",
+  "generated_at": "2026-04-27T17:06:28.482103+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,9 +16,22 @@
       "dataBoxes": null
     },
     {
+      "category": "MINTING WEDNESDAY",
+      "headline": "Minting Wednesday",
+      "summary": " \"Believe in Summer\" by jiwa \u2014 53.7M TDH from 75 voters. Top supporter: Thor (17.7M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/waves/author_0f832fe9-87b4-11ee-9d82-029a0e4b6159/5940f45f-28bf-426a-8fab-2d012f0f688c.jpg",
+        "label": "Believe in Summer - jiwa",
+        "type": "image"
+      },
+      "dataBoxes": null
+    },
+    {
       "category": "TOP MEMES",
-      "headline": "jiwa Leads with 53.7M Projected TDH",
-      "summary": "\"Believe in Summer\" by jiwa (53.7M projected TDH, 73 voters) | \"ASCENT\" by Nrsin (50.6M projected TDH, 66 voters) | \"Just Culture\" by JamesAndrew (24.5M projected TDH, 83 voters) Next selection: Mon Apr 27 at 17:00 CET.",
+      "headline": "Nrsin Leads with 55.2M Projected TDH",
+      "summary": "\"ASCENT\" by Nrsin (55.2M projected TDH, 68 voters) | \"Just Culture\" by JamesAndrew (26.1M projected TDH, 86 voters) | \"Cycle of Creation\" by RalenArc (13.2M projected TDH, 45 voters) Next selection: Wed Apr 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -28,26 +41,26 @@
       },
       "dataBoxes": [
         {
-          "label": "jiwa",
-          "value": "53.7M",
-          "sub": "proj. (73 votes)"
-        },
-        {
           "label": "Nrsin",
-          "value": "50.6M",
-          "sub": "proj. (66 votes)"
+          "value": "55.2M",
+          "sub": "proj. (68 votes)"
         },
         {
           "label": "JamesAndrew",
-          "value": "24.5M",
-          "sub": "proj. (83 votes)"
+          "value": "26.1M",
+          "sub": "proj. (86 votes)"
+        },
+        {
+          "label": "RalenArc",
+          "value": "13.2M",
+          "sub": "proj. (45 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Strauss (11.4M) | teexels (1.6M).",
+      "summary": "2 submissions this week. Ranking: Strauss (12.8M) | teexels (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
-      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 0.68 ETH Volume",
-      "summary": "14 sales in 24h for 0.68 ETH. Highest: \"PVP\" at 0.160 ETH.",
+      "headline": "15 Sales Today - 0.73 ETH Volume",
+      "summary": "15 sales in 24h for 0.73 ETH. Highest: \"PVP\" at 0.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.68",
+          "value": "0.73",
           "sub": "ETH"
         },
         {
@@ -121,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.68 ETH",
-      "raw": 0.6782,
-      "delta": -0.2653,
-      "delta_fmt": "-28.1%"
+      "value": "0.73 ETH",
+      "raw": 0.7251,
+      "delta": -0.21860000000000002,
+      "delta_fmt": "-23.2%"
     },
     {
       "label": "7d Vol",
-      "value": "15.90 ETH",
-      "raw": 15.9011
+      "value": "15.95 ETH",
+      "raw": 15.948
     },
     {
       "label": "30d Vol",
-      "value": "56.65 ETH",
-      "raw": 56.6526
+      "value": "56.70 ETH",
+      "raw": 56.6995
     },
     {
       "label": "Full Set Bid",
       "value": "41.6 ETH",
-      "raw": 41.6,
-      "delta": 0.14999999999999858,
-      "delta_fmt": "+0.15 ETH"
+      "raw": 41.57,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -149,18 +162,18 @@
       "raw": 1557356730
     },
     {
+      "label": "#1 Nrsin",
+      "value": "55.2M TDH",
+      "raw": 55179287,
+      "delta": 4611431,
+      "delta_fmt": "+4.6M TDH"
+    },
+    {
       "label": "#1 jiwa",
       "value": "53.7M TDH",
       "raw": 53683835,
       "delta": 712953,
       "delta_fmt": "+0.7M TDH"
-    },
-    {
-      "label": "#1 Nrsin",
-      "value": "50.6M TDH",
-      "raw": 50567856,
-      "delta": 11495418,
-      "delta_fmt": "+11.5M TDH"
     },
     {
       "label": "Full Set",
@@ -175,8 +188,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #488: 118 MINTS (EXCL. MUSEUM) | 84 HOLDERS | CREDO QUIA ABSURDUM",
-    "ACTIVE TODAY: SENEMSAD (42 MSGS) | BRYNNALISE (30) | JAMESANDREW (19)",
-    "DIVE BAR: 310 MSGS IN LAST 6H"
+    "DIVE BAR: 310 MSGS IN LAST 6H",
+    "CARD #488: 123 MINTS (EXCL. MUSEUM) | 87 HOLDERS | CREDO QUIA ABSURDUM",
+    "ACTIVE TODAY: SENEMSAD (65 MSGS) | MAYUDROPS (43) | IKERTJE (39)"
   ]
 }
