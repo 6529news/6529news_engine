@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T06:38:28.711393+00:00",
+  "generated_at": "2026-04-27T09:09:25.293455+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e4aa2c78-c159-4625-bc64-dfb6684c814c/f98ac686-9094-4a01-98c8-4ebf23d289bc.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/488.JPG",
         "label": "Credo quia absurdum - Guidodisalle",
         "type": "image"
       },
@@ -128,8 +128,8 @@
     },
     {
       "label": "7d Vol",
-      "value": "15.94 ETH",
-      "raw": 15.9403
+      "value": "15.63 ETH",
+      "raw": 15.6319
     },
     {
       "label": "30d Vol",
@@ -139,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.3 ETH",
-      "raw": 41.3,
-      "delta": 0.21999999999999886,
-      "delta_fmt": "+0.22 ETH"
+      "raw": 41.28,
+      "delta": -0.01999999999999602,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 jiwa",
       "value": "51.8M TDH",
-      "raw": 51842869,
-      "delta": 308083,
-      "delta_fmt": "+0.3M TDH"
+      "raw": 51842869
     },
     {
       "label": "#1 Nrsin",
@@ -175,8 +173,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #487: 177 MINTS (EXCL. MUSEUM) | 128 HOLDERS | FEED THE MACHINE",
-    "ACTIVE TODAY: JAMESANDREW (53 MSGS) | GRAFFITIONGRAVE (49) | MAYUDROPS (37)",
-    "DIVE BAR: 53 MSGS IN LAST 6H"
+    "DIVE BAR: 56 MSGS IN LAST 6H",
+    "CARD #488: 115 MINTS (EXCL. MUSEUM) | 81 HOLDERS | CREDO QUIA ABSURDUM",
+    "ACTIVE TODAY: JAMESANDREW (53 MSGS) | GRAFFITIONGRAVE (49) | SENEMSAD (33)"
   ]
 }
