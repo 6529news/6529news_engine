@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T11:18:09.432060+00:00",
+  "generated_at": "2026-04-27T13:03:39.140999+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "jiwa Leads with 53.0M Projected TDH",
-      "summary": "\"Believe in Summer\" by jiwa (53.0M projected TDH, 71 voters) | \"ASCENT\" by Nrsin (50.6M projected TDH, 65 voters) | \"Just Culture\" by JamesAndrew (24.5M projected TDH, 83 voters) Next selection: Mon Apr 27 at 17:00 CET.",
+      "summary": "\"Believe in Summer\" by jiwa (53.0M projected TDH, 71 voters) | \"ASCENT\" by Nrsin (50.6M projected TDH, 66 voters) | \"Just Culture\" by JamesAndrew (24.5M projected TDH, 83 voters) Next selection: Mon Apr 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "Nrsin",
           "value": "50.6M",
-          "sub": "proj. (65 votes)"
+          "sub": "proj. (66 votes)"
         },
         {
           "label": "JamesAndrew",
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (308K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 0.88 ETH Volume",
-      "summary": "21 sales in 24h for 0.88 ETH. Highest: \"How To Live\" at 0.142 ETH.",
+      "headline": "17 Sales Today - 0.77 ETH Volume",
+      "summary": "17 sales in 24h for 0.77 ETH. Highest: \"How To Live\" at 0.142 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.88",
+          "value": "0.77",
           "sub": "ETH"
         },
         {
@@ -121,15 +121,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.88 ETH",
-      "raw": 0.8829,
-      "delta": -7.848,
-      "delta_fmt": "-89.9%"
+      "value": "0.77 ETH",
+      "raw": 0.7698,
+      "delta": -0.027200000000000002,
+      "delta_fmt": "-3.4%"
     },
     {
       "label": "7d Vol",
-      "value": "15.87 ETH",
-      "raw": 15.8651
+      "value": "15.74 ETH",
+      "raw": 15.7411
     },
     {
       "label": "30d Vol",
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.2 ETH",
-      "raw": 41.23,
-      "delta": -0.05000000000000426,
-      "delta_fmt": "-0.05 ETH"
+      "value": "41.4 ETH",
+      "raw": 41.45,
+      "delta": 0.22000000000000597,
+      "delta_fmt": "+0.22 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 jiwa",
       "value": "53.0M TDH",
-      "raw": 52970882,
-      "delta": 1128013,
-      "delta_fmt": "+1.1M TDH"
+      "raw": 52970882
     },
     {
       "label": "#1 Nrsin",
@@ -175,8 +173,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 80 MSGS IN LAST 6H",
     "CARD #488: 115 MINTS (EXCL. MUSEUM) | 81 HOLDERS | CREDO QUIA ABSURDUM",
-    "ACTIVE TODAY: JAMESANDREW (53 MSGS) | GRAFFITIONGRAVE (48) | SENEMSAD (42)",
-    "DIVE BAR: 79 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (55 MSGS) | GRAFFITIONGRAVE (47) | SENEMSAD (42)"
   ]
 }
