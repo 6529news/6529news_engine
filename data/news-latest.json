@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-04-28T11:17:39.676537+00:00",
+  "generated_at": "2026-04-28T15:39:11.194007+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Credo quia absurdum\" by Guidodisalle \u2014 72.4M TDH from 146 voters. Top supporter: Poseidon (15.4M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/488.JPG",
-        "label": "Credo quia absurdum - Guidodisalle",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING WEDNESDAY",
       "headline": "Minting Wednesday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Nrsin Leads with 62.2M Projected TDH",
-      "summary": "\"ASCENT\" by Nrsin (62.2M projected TDH, 70 voters) | \"Just Culture\" by JamesAndrew (36.8M projected TDH, 87 voters) | \"Pursuit of Volatility\" by Strauss (27.9M projected TDH, 57 voters) Next selection: Wed Apr 29 at 17:00 CET.",
+      "summary": "\"ASCENT\" by Nrsin (62.2M projected TDH, 70 voters) | \"Just Culture\" by JamesAndrew (44.7M projected TDH, 90 voters) | \"Pursuit of Volatility\" by Strauss (35.3M projected TDH, 61 voters) Next selection: Wed Apr 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,13 +34,13 @@
         },
         {
           "label": "JamesAndrew",
-          "value": "36.8M",
-          "sub": "proj. (87 votes)"
+          "value": "44.7M",
+          "sub": "proj. (90 votes)"
         },
         {
           "label": "Strauss",
-          "value": "27.9M",
-          "sub": "proj. (57 votes)"
+          "value": "35.3M",
+          "sub": "proj. (61 votes)"
         }
       ]
     },
@@ -69,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#6 blake69 \u2014 315K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (315K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "4 Sales Today - 0.66 ETH Volume",
-      "summary": "4 sales in 24h for 0.66 ETH. Highest: \"JPEG Protectoor\" at 0.230 ETH.",
+      "headline": "9 Sales Today - 0.80 ETH Volume",
+      "summary": "9 sales in 24h for 0.80 ETH. Highest: \"JPEG Protectoor\" at 0.230 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,25 +84,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/417.GIF",
-          "label": "PVP - 0.160 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/35.WEBP",
+          "label": "Meet Summer Glasses - 0.120 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/455.WEBP",
-          "label": "GM IS NOT A CRIME - 0.047 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/272.GIF",
+          "label": "Survival of the Fittest - 0.069 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "4",
+          "value": "9",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.66",
+          "value": "0.80",
           "sub": "ETH"
         },
         {
@@ -134,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.66 ETH",
-      "raw": 0.6569,
-      "delta": -0.22599999999999998,
-      "delta_fmt": "-25.6%"
+      "value": "0.80 ETH",
+      "raw": 0.8039,
+      "delta": 0.12569999999999992,
+      "delta_fmt": "+18.5%"
     },
     {
       "label": "7d Vol",
-      "value": "15.83 ETH",
-      "raw": 15.833
+      "value": "16.04 ETH",
+      "raw": 16.0358
     },
     {
       "label": "30d Vol",
-      "value": "57.02 ETH",
-      "raw": 57.0245
+      "value": "57.38 ETH",
+      "raw": 57.3784
     },
     {
       "label": "Full Set Bid",
-      "value": "40.8 ETH",
-      "raw": 40.84,
-      "delta": 0.6500000000000057,
-      "delta_fmt": "+0.65 ETH"
+      "value": "40.3 ETH",
+      "raw": 40.29,
+      "delta": -0.5500000000000043,
+      "delta_fmt": "-0.55 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,7 +151,9 @@
     {
       "label": "#1 Nrsin",
       "value": "62.2M TDH",
-      "raw": 62240897
+      "raw": 62247564,
+      "delta": 6667,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 jiwa",
@@ -186,8 +175,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #488: 131 MINTS (EXCL. MUSEUM) | 94 HOLDERS | CREDO QUIA ABSURDUM",
-    "ACTIVE TODAY: MAYBE (108 MSGS) | GRAFFITIONGRAVE (78) | JAMESANDREW (71)",
-    "DIVE BAR: 221 MSGS IN LAST 6H"
+    "DIVE BAR: 226 MSGS IN LAST 6H",
+    "CARD #488: 141 MINTS (EXCL. MUSEUM) | 100 HOLDERS | CREDO QUIA ABSURDUM",
+    "ACTIVE TODAY: MAYBE (118 MSGS) | GRAFFITIONGRAVE (113) | JAMESANDREW (91)"
   ]
 }
