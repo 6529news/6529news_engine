@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T20:40:59.508250+00:00",
+  "generated_at": "2026-04-28T21:43:45.016309+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.3 ETH",
-      "raw": 40.32,
-      "delta": -0.0899999999999963,
-      "delta_fmt": "-0.09 ETH"
+      "value": "40.4 ETH",
+      "raw": 40.42,
+      "delta": 0.10000000000000142,
+      "delta_fmt": "+0.10 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,8 +173,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 202 MSGS IN LAST 6H",
     "CARD #488: 141 MINTS (EXCL. MUSEUM) | 100 HOLDERS | CREDO QUIA ABSURDUM",
-    "ACTIVE TODAY: MAYBE (79 MSGS) | GRAFFITIONGRAVE (68) | INTREPID (57)",
-    "DIVE BAR: 207 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (71 MSGS) | GRAFFITIONGRAVE (68) | INTREPID (58)"
   ]
 }
