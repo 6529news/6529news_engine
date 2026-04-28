@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T22:40:33.937507+00:00",
+  "generated_at": "2026-04-28T23:38:42.238084+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING WEDNESDAY",
-      "headline": "Minting Wednesday",
-      "summary": " \"Believe in Summer\" by jiwa \u2014 53.7M TDH from 75 voters. Top supporter: Thor (17.7M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Believe in Summer\" by jiwa \u2014 53.7M TDH from 75 voters. Top supporter: Thor (17.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "30 Sales Today - 1.21 ETH Volume",
-      "summary": "30 sales in 24h for 1.21 ETH. Highest: \"Multipass\" at 0.135 ETH.",
+      "headline": "22 Sales Today - 1.06 ETH Volume",
+      "summary": "22 sales in 24h for 1.06 ETH. Highest: \"Multipass\" at 0.135 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "30",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.21",
+          "value": "1.06",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.21 ETH",
-      "raw": 1.2077,
-      "delta": 0.2137,
-      "delta_fmt": "+21.5%"
+      "value": "1.06 ETH",
+      "raw": 1.0631,
+      "delta": 0.06909999999999994,
+      "delta_fmt": "+7.0%"
     },
     {
       "label": "7d Vol",
-      "value": "16.45 ETH",
-      "raw": 16.4496
+      "value": "16.31 ETH",
+      "raw": 16.305
     },
     {
       "label": "30d Vol",
-      "value": "58.23 ETH",
-      "raw": 58.2322
+      "value": "58.09 ETH",
+      "raw": 58.0876
     },
     {
       "label": "Full Set Bid",
-      "value": "40.3 ETH",
-      "raw": 40.32,
-      "delta": -0.10000000000000142,
-      "delta_fmt": "-0.10 ETH"
+      "value": "40.4 ETH",
+      "raw": 40.4,
+      "delta": 0.0799999999999983,
+      "delta_fmt": "+0.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 Nrsin",
       "value": "62.5M TDH",
-      "raw": 62548966,
-      "delta": 311538,
-      "delta_fmt": "+0.3M TDH"
+      "raw": 62548966
     },
     {
       "label": "#1 jiwa",
@@ -175,8 +173,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 225 MSGS IN LAST 6H",
     "CARD #488: 141 MINTS (EXCL. MUSEUM) | 100 HOLDERS | CREDO QUIA ABSURDUM",
-    "ACTIVE TODAY: GRAFFITIONGRAVE (68 MSGS) | INTREPID (67) | AEZY (44)",
-    "DIVE BAR: 226 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GRAFFITIONGRAVE (68 MSGS) | INTREPID (67) | MAYBE (44)"
   ]
 }
