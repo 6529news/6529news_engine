@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T04:52:16.430593+00:00",
+  "generated_at": "2026-04-29T07:24:10.271295+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/waves/author_0f832fe9-87b4-11ee-9d82-029a0e4b6159/5940f45f-28bf-426a-8fab-2d012f0f688c.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/489.GIF",
         "label": "Believe in Summer - jiwa",
         "type": "image"
       },
@@ -128,8 +128,8 @@
     },
     {
       "label": "7d Vol",
-      "value": "15.13 ETH",
-      "raw": 15.126
+      "value": "14.97 ETH",
+      "raw": 14.965
     },
     {
       "label": "30d Vol",
@@ -139,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.3 ETH",
-      "raw": 41.27,
-      "delta": 0.5,
-      "delta_fmt": "+0.50 ETH"
+      "raw": 41.25,
+      "delta": -0.020000000000003126,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,8 +173,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #488: 141 MINTS (EXCL. MUSEUM) | 100 HOLDERS | CREDO QUIA ABSURDUM",
-    "ACTIVE TODAY: GRAFFITIONGRAVE (67 MSGS) | MAYBE (45) | INTREPID (42)",
-    "DIVE BAR: 97 MSGS IN LAST 6H"
+    "DIVE BAR: 94 MSGS IN LAST 6H",
+    "CARD #489: 111 MINTS (EXCL. MUSEUM) | 78 HOLDERS | BELIEVE IN SUMMER",
+    "ACTIVE TODAY: GRAFFITIONGRAVE (63 MSGS) | INTREPID (44) | MAYBE (43)"
   ]
 }
