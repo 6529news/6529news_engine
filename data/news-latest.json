@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T23:38:42.238084+00:00",
+  "generated_at": "2026-04-29T01:24:30.771541+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Nrsin Leads with 62.5M Projected TDH",
-      "summary": "\"ASCENT\" by Nrsin (62.5M projected TDH, 71 voters) | \"Just Culture\" by JamesAndrew (45.4M projected TDH, 90 voters) | \"Pursuit of Volatility\" by Strauss (35.9M projected TDH, 62 voters) Next selection: Wed Apr 29 at 17:00 CET.",
+      "summary": "\"ASCENT\" by Nrsin (62.5M projected TDH, 71 voters) | \"Just Culture\" by JamesAndrew (45.4M projected TDH, 90 voters) | \"Pursuit of Volatility\" by Strauss (35.9M projected TDH, 63 voters) Next selection: Wed Apr 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "Strauss",
           "value": "35.9M",
-          "sub": "proj. (62 votes)"
+          "sub": "proj. (63 votes)"
         }
       ]
     },
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -123,8 +123,8 @@
       "label": "24h Vol",
       "value": "1.06 ETH",
       "raw": 1.0631,
-      "delta": 0.06909999999999994,
-      "delta_fmt": "+7.0%"
+      "delta": 0.1360999999999999,
+      "delta_fmt": "+14.7%"
     },
     {
       "label": "7d Vol",
@@ -138,15 +138,17 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.4 ETH",
-      "raw": 40.4,
-      "delta": 0.0799999999999983,
-      "delta_fmt": "+0.08 ETH"
+      "value": "40.8 ETH",
+      "raw": 40.77,
+      "delta": 0.37000000000000455,
+      "delta_fmt": "+0.37 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1559.8M",
-      "raw": 1559842365
+      "value": "1562.2M",
+      "raw": 1562202159,
+      "delta": 2359794,
+      "delta_fmt": "+2.4M TDH"
     },
     {
       "label": "#1 Nrsin",
@@ -173,8 +175,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 152 MSGS IN LAST 6H",
     "CARD #488: 141 MINTS (EXCL. MUSEUM) | 100 HOLDERS | CREDO QUIA ABSURDUM",
-    "ACTIVE TODAY: GRAFFITIONGRAVE (68 MSGS) | INTREPID (67) | MAYBE (44)",
-    "DIVE BAR: 151 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GRAFFITIONGRAVE (68 MSGS) | INTREPID (65) | AEZY (44)"
   ]
 }
