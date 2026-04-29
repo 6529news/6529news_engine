@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T01:24:30.771541+00:00",
+  "generated_at": "2026-04-29T04:52:16.430593+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Nrsin Leads with 62.5M Projected TDH",
-      "summary": "\"ASCENT\" by Nrsin (62.5M projected TDH, 71 voters) | \"Just Culture\" by JamesAndrew (45.4M projected TDH, 90 voters) | \"Pursuit of Volatility\" by Strauss (35.9M projected TDH, 63 voters) Next selection: Wed Apr 29 at 17:00 CET.",
+      "summary": "\"ASCENT\" by Nrsin (62.5M projected TDH, 71 voters) | \"Just Culture\" by JamesAndrew (45.4M projected TDH, 91 voters) | \"Pursuit of Volatility\" by Strauss (35.9M projected TDH, 64 voters) Next selection: Wed Apr 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,19 +35,19 @@
         {
           "label": "JamesAndrew",
           "value": "45.4M",
-          "sub": "proj. (90 votes)"
+          "sub": "proj. (91 votes)"
         },
         {
           "label": "Strauss",
           "value": "35.9M",
-          "sub": "proj. (63 votes)"
+          "sub": "proj. (64 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: teexels (1.6M) | EstebanAmaro (776K).",
+      "summary": "2 submissions this week. Ranking: teexels (1.6M) | EstebanAmaro (781K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
@@ -123,32 +123,30 @@
       "label": "24h Vol",
       "value": "1.06 ETH",
       "raw": 1.0631,
-      "delta": 0.1360999999999999,
-      "delta_fmt": "+14.7%"
+      "delta": 0.17299999999999993,
+      "delta_fmt": "+19.4%"
     },
     {
       "label": "7d Vol",
-      "value": "16.31 ETH",
-      "raw": 16.305
+      "value": "15.13 ETH",
+      "raw": 15.126
     },
     {
       "label": "30d Vol",
-      "value": "58.09 ETH",
-      "raw": 58.0876
+      "value": "57.35 ETH",
+      "raw": 57.354
     },
     {
       "label": "Full Set Bid",
-      "value": "40.8 ETH",
-      "raw": 40.77,
-      "delta": 0.37000000000000455,
-      "delta_fmt": "+0.37 ETH"
+      "value": "41.3 ETH",
+      "raw": 41.27,
+      "delta": 0.5,
+      "delta_fmt": "+0.50 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1562.2M",
-      "raw": 1562202159,
-      "delta": 2359794,
-      "delta_fmt": "+2.4M TDH"
+      "raw": 1562202159
     },
     {
       "label": "#1 Nrsin",
@@ -175,8 +173,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 91 MSGS IN LAST 6H",
     "CARD #488: 141 MINTS (EXCL. MUSEUM) | 100 HOLDERS | CREDO QUIA ABSURDUM",
-    "ACTIVE TODAY: GRAFFITIONGRAVE (68 MSGS) | INTREPID (65) | AEZY (44)",
-    "DIVE BAR: 107 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GRAFFITIONGRAVE (67 MSGS) | MAYBE (45) | INTREPID (42)"
   ]
 }
