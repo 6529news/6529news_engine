@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T07:24:10.271295+00:00",
+  "generated_at": "2026-04-29T09:33:22.840462+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 1.06 ETH Volume",
-      "summary": "22 sales in 24h for 1.06 ETH. Highest: \"Multipass\" at 0.135 ETH.",
+      "headline": "34 Sales Today - 1.48 ETH Volume",
+      "summary": "34 sales in 24h for 1.48 ETH. Highest: \"Multipass\" at 0.135 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -89,20 +89,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/109.WEBP",
-          "label": "Meme Kong - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/151.WEBP",
+          "label": "BOOM - 0.100 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "22",
+          "value": "34",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.06",
+          "value": "1.48",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.06 ETH",
-      "raw": 1.0631,
-      "delta": 0.17299999999999993,
-      "delta_fmt": "+19.4%"
+      "value": "1.48 ETH",
+      "raw": 1.4752,
+      "delta": 0.5851000000000001,
+      "delta_fmt": "+65.7%"
     },
     {
       "label": "7d Vol",
-      "value": "14.97 ETH",
-      "raw": 14.965
+      "value": "15.38 ETH",
+      "raw": 15.3771
     },
     {
       "label": "30d Vol",
-      "value": "57.35 ETH",
-      "raw": 57.354
+      "value": "57.77 ETH",
+      "raw": 57.7661
     },
     {
       "label": "Full Set Bid",
-      "value": "41.3 ETH",
-      "raw": 41.25,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "value": "40.9 ETH",
+      "raw": 40.85,
+      "delta": -0.3999999999999986,
+      "delta_fmt": "-0.40 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,8 +173,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 82 MSGS IN LAST 6H",
     "CARD #489: 111 MINTS (EXCL. MUSEUM) | 78 HOLDERS | BELIEVE IN SUMMER",
-    "ACTIVE TODAY: GRAFFITIONGRAVE (63 MSGS) | INTREPID (44) | MAYBE (43)",
-    "DIVE BAR: 82 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GRAFFITIONGRAVE (46 MSGS) | MAYBE (42) | INTREPID (40)"
   ]
 }
