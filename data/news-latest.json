@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T09:33:22.840462+00:00",
+  "generated_at": "2026-04-29T11:19:59.766264+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Nrsin Leads with 62.5M Projected TDH",
-      "summary": "\"ASCENT\" by Nrsin (62.5M projected TDH, 71 voters) | \"Just Culture\" by JamesAndrew (45.4M projected TDH, 91 voters) | \"Pursuit of Volatility\" by Strauss (35.9M projected TDH, 64 voters) Next selection: Wed Apr 29 at 17:00 CET.",
+      "summary": "\"ASCENT\" by Nrsin (62.5M projected TDH, 71 voters) | \"Just Culture\" by JamesAndrew (45.4M projected TDH, 91 voters) | \"Pursuit of Volatility\" by Strauss (35.9M projected TDH, 65 voters) Next selection: Wed Apr 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "Strauss",
           "value": "35.9M",
-          "sub": "proj. (64 votes)"
+          "sub": "proj. (65 votes)"
         }
       ]
     },
@@ -56,36 +56,36 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "34 Sales Today - 1.48 ETH Volume",
-      "summary": "34 sales in 24h for 1.48 ETH. Highest: \"Multipass\" at 0.135 ETH.",
+      "headline": "36 Sales Today - 1.51 ETH Volume",
+      "summary": "36 sales in 24h for 1.51 ETH. Highest: \"Keyless Oblivion\" at 0.440 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/266.GIF",
-        "label": "Multipass - 0.135 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/332.GIF",
+        "label": "Keyless Oblivion - 0.440 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/266.GIF",
-          "label": "Multipass - 0.135 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/332.GIF",
+          "label": "Keyless Oblivion - 0.440 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/35.WEBP",
-          "label": "Meet Summer Glasses - 0.120 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/266.GIF",
+          "label": "Multipass - 0.135 ETH",
           "type": "image"
         },
         {
@@ -97,18 +97,18 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "34",
+          "value": "36",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.48",
+          "value": "1.51",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.135",
-          "sub": "Multipass"
+          "value": "0.440",
+          "sub": "Keyless Oblivion"
         },
         {
           "label": "Floor",
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.48 ETH",
-      "raw": 1.4752,
-      "delta": 0.5851000000000001,
-      "delta_fmt": "+65.7%"
+      "value": "1.51 ETH",
+      "raw": 1.5146,
+      "delta": 0.8576999999999999,
+      "delta_fmt": "+130.6%"
     },
     {
       "label": "7d Vol",
-      "value": "15.38 ETH",
-      "raw": 15.3771
+      "value": "15.42 ETH",
+      "raw": 15.4165
     },
     {
       "label": "30d Vol",
-      "value": "57.77 ETH",
-      "raw": 57.7661
+      "value": "57.81 ETH",
+      "raw": 57.8055
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.85,
-      "delta": -0.3999999999999986,
-      "delta_fmt": "-0.40 ETH"
+      "value": "41.1 ETH",
+      "raw": 41.14,
+      "delta": 0.28999999999999915,
+      "delta_fmt": "+0.29 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,8 +173,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 85 MSGS IN LAST 6H",
     "CARD #489: 111 MINTS (EXCL. MUSEUM) | 78 HOLDERS | BELIEVE IN SUMMER",
-    "ACTIVE TODAY: GRAFFITIONGRAVE (46 MSGS) | MAYBE (42) | INTREPID (40)",
-    "DIVE BAR: 85 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GRAFFITIONGRAVE (45 MSGS) | MAYBE (42) | AEZY (35)"
   ]
 }
