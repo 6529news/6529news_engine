@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T15:22:40.695879+00:00",
+  "generated_at": "2026-04-30T16:57:18.993782+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -65,7 +65,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: orkhan (817K) | EstebanAmaro (786K).",
+      "summary": "2 submissions this week. Ranking: orkhan (817K) | EstebanAmaro (800K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -74,20 +74,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 1.32 ETH Volume",
-      "summary": "19 sales in 24h for 1.32 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
+      "headline": "16 Sales Today - 1.28 ETH Volume",
+      "summary": "16 sales in 24h for 1.28 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -115,12 +115,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.32",
+          "value": "1.28",
           "sub": "ETH"
         },
         {
@@ -130,7 +130,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01526",
+          "value": "0.01521",
           "sub": "ETH"
         }
       ]
@@ -139,27 +139,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.32 ETH",
-      "raw": 1.3242,
-      "delta": -0.12440000000000007,
-      "delta_fmt": "-8.6%"
+      "value": "1.28 ETH",
+      "raw": 1.2838,
+      "delta": -0.22039999999999993,
+      "delta_fmt": "-14.7%"
     },
     {
       "label": "7d Vol",
-      "value": "14.65 ETH",
-      "raw": 14.6484
+      "value": "14.66 ETH",
+      "raw": 14.6636
     },
     {
       "label": "30d Vol",
-      "value": "58.56 ETH",
-      "raw": 58.5638
+      "value": "58.58 ETH",
+      "raw": 58.579
     },
     {
       "label": "Full Set Bid",
       "value": "42.2 ETH",
-      "raw": 42.24,
-      "delta": 0.13000000000000256,
-      "delta_fmt": "+0.13 ETH"
+      "raw": 42.23,
+      "delta": -0.010000000000005116,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -169,9 +169,9 @@
     {
       "label": "#1 JamesAndrew",
       "value": "50.4M TDH",
-      "raw": 50436347,
-      "delta": 150988,
-      "delta_fmt": "+0.2M TDH"
+      "raw": 50436781,
+      "delta": 434,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Nrsin",
@@ -200,8 +200,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 552 MSGS IN LAST 6H",
     "CARD #489: 159 MINTS (EXCL. MUSEUM) | 112 HOLDERS | BELIEVE IN SUMMER",
-    "ACTIVE TODAY: JAMESANDREW (139 MSGS) | GRAFFITIONGRAVE (90) | AEZY (78)",
-    "DIVE BAR: 547 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (145 MSGS) | GRAFFITIONGRAVE (105) | MAYBE (96)"
   ]
 }
