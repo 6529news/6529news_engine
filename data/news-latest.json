@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T23:37:27.205256+00:00",
+  "generated_at": "2026-04-30T01:22:58.091658+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "JamesAndrew Leads with 43.2M Projected TDH",
-      "summary": "\"Just Culture\" by JamesAndrew (43.2M projected TDH, 93 voters) | \"Pursuit of Volatility\" by Strauss (38.7M projected TDH, 73 voters) | \"The Meme Market\" by 1dontknows (23.4M projected TDH, 60 voters) Next selection: Fri May 01 at 17:00 CET.",
+      "headline": "JamesAndrew Leads with 51.3M Projected TDH",
+      "summary": "\"Just Culture\" by JamesAndrew (51.3M projected TDH, 95 voters) | \"Pursuit of Volatility\" by Strauss (39.1M projected TDH, 74 voters) | \"The Meme Market\" by 1dontknows (23.3M projected TDH, 59 voters) Next selection: Fri May 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,18 +42,18 @@
       "dataBoxes": [
         {
           "label": "JamesAndrew",
-          "value": "43.2M",
-          "sub": "proj. (93 votes)"
+          "value": "51.3M",
+          "sub": "proj. (95 votes)"
         },
         {
           "label": "Strauss",
-          "value": "38.7M",
-          "sub": "proj. (73 votes)"
+          "value": "39.1M",
+          "sub": "proj. (74 votes)"
         },
         {
           "label": "1dontknows",
-          "value": "23.4M",
-          "sub": "proj. (60 votes)"
+          "value": "23.3M",
+          "sub": "proj. (59 votes)"
         }
       ]
     },
@@ -141,30 +141,34 @@
     },
     {
       "label": "7d Vol",
-      "value": "13.98 ETH",
-      "raw": 13.9799
+      "value": "13.90 ETH",
+      "raw": 13.8993
     },
     {
       "label": "30d Vol",
-      "value": "58.28 ETH",
-      "raw": 58.2836
+      "value": "57.43 ETH",
+      "raw": 57.4298
     },
     {
       "label": "Full Set Bid",
       "value": "42.1 ETH",
-      "raw": 42.08,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 42.13,
+      "delta": 0.05000000000000426,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1562.2M",
-      "raw": 1562202159
+      "value": "1564.8M",
+      "raw": 1564756252,
+      "delta": 2554093,
+      "delta_fmt": "+2.6M TDH"
     },
     {
       "label": "#1 JamesAndrew",
-      "value": "43.2M TDH",
-      "raw": 43165148
+      "value": "51.3M TDH",
+      "raw": 51340899,
+      "delta": 8175751,
+      "delta_fmt": "+8.2M TDH"
     },
     {
       "label": "#1 Nrsin",
@@ -193,8 +197,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 327 MSGS IN LAST 6H",
     "CARD #489: 134 MINTS (EXCL. MUSEUM) | 97 HOLDERS | BELIEVE IN SUMMER",
-    "ACTIVE TODAY: AEZY (71 MSGS) | JASONOPHOTO (69) | JAMESANDREW (61)",
-    "DIVE BAR: 394 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (82 MSGS) | JASONOPHOTO (73) | AEZY (71)"
   ]
 }
