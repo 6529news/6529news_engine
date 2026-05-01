@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T14:08:17.609499+00:00",
+  "generated_at": "2026-05-01T15:16:03.509980+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "JamesAndrew Leads with 50.5M Projected TDH",
-      "summary": "\"Just Culture\" by JamesAndrew (50.5M projected TDH, 101 voters) | \"Pursuit of Volatility\" by Strauss (39.0M projected TDH, 79 voters) | \"The Meme Market\" by 1dontknows (23.4M projected TDH, 62 voters) Next selection: Fri May 01 at 17:00 CET.",
+      "summary": "\"Just Culture\" by JamesAndrew (50.5M projected TDH, 102 voters) | \"Pursuit of Volatility\" by Strauss (39.0M projected TDH, 79 voters) | \"The Meme Market\" by 1dontknows (23.4M projected TDH, 62 voters) Next selection: Fri May 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "JamesAndrew",
           "value": "50.5M",
-          "sub": "proj. (101 votes)"
+          "sub": "proj. (102 votes)"
         },
         {
           "label": "Strauss",
@@ -41,24 +41,6 @@
           "label": "1dontknows",
           "value": "23.4M",
           "sub": "proj. (62 votes)"
-        }
-      ]
-    },
-    {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by GelatoGenesis",
-      "summary": "GelatoGenesis: Seems that the new \"Profile Waves Feed\" has caused some confusion so let me clear things up.\n\nP.S.: Following only applies to desktop and is not released to mobile users yet.\n\nO...",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmXuXC4QNM9diEvBnJT3UY2o9jWTUxhYh3srRuyS2bGFJQ",
-        "label": "GelatoGenesis"
-      },
-      "dataBoxes": [
-        {
-          "label": "GelatoGenesis",
-          "value": "Lv49",
-          "sub": "1K TDH"
         }
       ]
     },
@@ -74,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 1.67 ETH Volume",
-      "summary": "21 sales in 24h for 1.67 ETH. Highest: \"SeizeJPGs\" at 0.320 ETH.",
+      "headline": "14 Sales Today - 0.95 ETH Volume",
+      "summary": "14 sales in 24h for 0.95 ETH. Highest: \"SeizeJPGs\" at 0.320 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,20 +89,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.110 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
+          "label": "Meme Enjoyoor - 0.080 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.67",
+          "value": "0.95",
           "sub": "ETH"
         },
         {
@@ -139,10 +121,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.67 ETH",
-      "raw": 1.6671,
-      "delta": 0.7732,
-      "delta_fmt": "+86.5%"
+      "value": "0.95 ETH",
+      "raw": 0.9489,
+      "delta": -0.3753000000000001,
+      "delta_fmt": "-28.3%"
     },
     {
       "label": "7d Vol",
@@ -157,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.9 ETH",
-      "raw": 42.95,
-      "delta": 0.010000000000005116,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 42.86,
+      "delta": -0.09000000000000341,
+      "delta_fmt": "-0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -169,9 +151,9 @@
     {
       "label": "#1 JamesAndrew",
       "value": "50.5M TDH",
-      "raw": 50488229,
-      "delta": -3174,
-      "delta_fmt": "-0.0M TDH"
+      "raw": 50488368,
+      "delta": 139,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Nrsin",
@@ -200,8 +182,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #490: 104 MINTS (EXCL. MUSEUM) | 73 HOLDERS | ASCENT",
-    "ACTIVE TODAY: MAYBE (129 MSGS) | JAMESANDREW (116) | AEZY (99)",
-    "DIVE BAR: 169 MSGS IN LAST 6H"
+    "DIVE BAR: 172 MSGS IN LAST 6H",
+    "CARD #490: 107 MINTS (EXCL. MUSEUM) | 76 HOLDERS | ASCENT",
+    "ACTIVE TODAY: MAYBE (140 MSGS) | JAMESANDREW (107) | AEZY (99)"
   ]
 }
