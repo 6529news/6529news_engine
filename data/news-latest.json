@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T00:05:50.579218+00:00",
+  "generated_at": "2026-05-01T04:17:55.711528+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "JamesAndrew Leads with 50.4M Projected TDH",
-      "summary": "\"Just Culture\" by JamesAndrew (50.4M projected TDH, 100 voters) | \"Pursuit of Volatility\" by Strauss (38.9M projected TDH, 77 voters) | \"The Meme Market\" by 1dontknows (23.4M projected TDH, 60 voters) Next selection: Fri May 01 at 17:00 CET.",
+      "headline": "JamesAndrew Leads with 50.5M Projected TDH",
+      "summary": "\"Just Culture\" by JamesAndrew (50.5M projected TDH, 100 voters) | \"Pursuit of Volatility\" by Strauss (38.9M projected TDH, 77 voters) | \"The Meme Market\" by 1dontknows (23.4M projected TDH, 61 voters) Next selection: Fri May 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "JamesAndrew",
-          "value": "50.4M",
+          "value": "50.5M",
           "sub": "proj. (100 votes)"
         },
         {
@@ -40,7 +40,7 @@
         {
           "label": "1dontknows",
           "value": "23.4M",
-          "sub": "proj. (60 votes)"
+          "sub": "proj. (61 votes)"
         }
       ]
     },
@@ -74,20 +74,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 4K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K) | Bicasso (4K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (4K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 1.94 ETH Volume",
-      "summary": "20 sales in 24h for 1.94 ETH. Highest: \"SeizeJPGs\" at 0.320 ETH.",
+      "headline": "17 Sales Today - 1.74 ETH Volume",
+      "summary": "17 sales in 24h for 1.74 ETH. Highest: \"SeizeJPGs\" at 0.320 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -108,19 +108,19 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
-          "label": "< no, really [ this ] is going to be our year > - 0.150 ETH",
+          "label": "< no, really [ this ] is going to be our year > - 0.145 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "20",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.94",
+          "value": "1.74",
           "sub": "ETH"
         },
         {
@@ -139,10 +139,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.94 ETH",
-      "raw": 1.9371,
-      "delta": 1.0075,
-      "delta_fmt": "+108.4%"
+      "value": "1.74 ETH",
+      "raw": 1.7353,
+      "delta": 0.6039000000000001,
+      "delta_fmt": "+53.4%"
     },
     {
       "label": "7d Vol",
@@ -156,22 +156,24 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.3 ETH",
-      "raw": 42.29,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "value": "42.9 ETH",
+      "raw": 42.9,
+      "delta": 0.6099999999999994,
+      "delta_fmt": "+0.61 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1564.8M",
-      "raw": 1564756252
+      "value": "1567.3M",
+      "raw": 1567322946,
+      "delta": 2566694,
+      "delta_fmt": "+2.6M TDH"
     },
     {
       "label": "#1 JamesAndrew",
-      "value": "50.4M TDH",
-      "raw": 50438059,
-      "delta": 200,
-      "delta_fmt": "+0.0M TDH"
+      "value": "50.5M TDH",
+      "raw": 50491164,
+      "delta": 53105,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 Nrsin",
@@ -200,8 +202,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "DIVE BAR: 147 MSGS IN LAST 6H",
     "CARD #489: 159 MINTS (EXCL. MUSEUM) | 112 HOLDERS | BELIEVE IN SUMMER",
-    "ACTIVE TODAY: JAMESANDREW (178 MSGS) | GRAFFITIONGRAVE (116) | MAYBE (108)",
-    "DIVE BAR: 270 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (149 MSGS) | MAYBE (116) | AEZY (87)"
   ]
 }
