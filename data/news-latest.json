@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T07:12:43.160142+00:00",
+  "generated_at": "2026-05-01T09:12:30.121907+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2f79c9ee-0a16-41b1-b1cd-1b38c56238ba/0be685bc-2c81-4516-93a1-eb446daf8b97.GIF",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/490.GIF",
         "label": "ASCENT - Nrsin",
         "type": "image"
       },
@@ -74,20 +74,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 2K TDH",
+      "headline": "#8 Bicasso \u2014 -1950 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (2K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (-1950)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 1.63 ETH Volume",
-      "summary": "20 sales in 24h for 1.63 ETH. Highest: \"SeizeJPGs\" at 0.320 ETH.",
+      "headline": "21 Sales Today - 1.67 ETH Volume",
+      "summary": "21 sales in 24h for 1.67 ETH. Highest: \"SeizeJPGs\" at 0.320 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -115,12 +115,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "20",
+          "value": "21",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.63",
+          "value": "1.67",
           "sub": "ETH"
         },
         {
@@ -139,27 +139,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.63 ETH",
-      "raw": 1.6302,
-      "delta": 0.5871000000000002,
-      "delta_fmt": "+56.3%"
+      "value": "1.67 ETH",
+      "raw": 1.6671,
+      "delta": 0.7120000000000001,
+      "delta_fmt": "+74.5%"
     },
     {
       "label": "7d Vol",
-      "value": "15.27 ETH",
-      "raw": 15.2679
+      "value": "15.30 ETH",
+      "raw": 15.3048
     },
     {
       "label": "30d Vol",
-      "value": "58.26 ETH",
-      "raw": 58.2636
+      "value": "58.30 ETH",
+      "raw": 58.3005
     },
     {
       "label": "Full Set Bid",
-      "value": "42.9 ETH",
-      "raw": 42.88,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "value": "42.8 ETH",
+      "raw": 42.84,
+      "delta": -0.03999999999999915,
+      "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -169,8 +169,8 @@
     {
       "label": "#1 JamesAndrew",
       "value": "50.5M TDH",
-      "raw": 50491317,
-      "delta": 153,
+      "raw": 50491587,
+      "delta": 270,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -200,8 +200,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #489: 159 MINTS (EXCL. MUSEUM) | 112 HOLDERS | BELIEVE IN SUMMER",
-    "ACTIVE TODAY: JAMESANDREW (149 MSGS) | MAYBE (128) | AEZY (100)",
-    "DIVE BAR: 166 MSGS IN LAST 6H"
+    "DIVE BAR: 169 MSGS IN LAST 6H",
+    "CARD #490: 104 MINTS (EXCL. MUSEUM) | 72 HOLDERS | ASCENT",
+    "ACTIVE TODAY: JAMESANDREW (149 MSGS) | MAYBE (128) | AEZY (100)"
   ]
 }
