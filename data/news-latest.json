@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T15:16:03.509980+00:00",
+  "generated_at": "2026-05-01T16:32:02.390865+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,38 +16,51 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "JamesAndrew Leads with 50.5M Projected TDH",
-      "summary": "\"Just Culture\" by JamesAndrew (50.5M projected TDH, 102 voters) | \"Pursuit of Volatility\" by Strauss (39.0M projected TDH, 79 voters) | \"The Meme Market\" by 1dontknows (23.4M projected TDH, 62 voters) Next selection: Fri May 01 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"Just Culture\" by JamesAndrew \u2014 50.5M TDH from 103 voters. Top supporter: gpebbles (12.8M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_8a6a77f5-cb65-4c27-9501-cb9cb2b2401a/2b3d53bb-0b63-4380-9071-647f13ec0c48.mov",
         "label": "Just Culture - JamesAndrew",
         "type": "video"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "Strauss Leads with 39.9M Projected TDH",
+      "summary": "\"Pursuit of Volatility\" by Strauss (39.9M projected TDH, 79 voters) | \"EMERGENT\" by AEZY (26.4M projected TDH, 41 voters) | \"The Meme Market\" by 1dontknows (23.5M projected TDH, 62 voters) Next selection: Mon May 04 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_1c914f7f-fae0-4314-8792-84fe956acea0/0450d053-06e1-4a69-9fe8-ca99554942c6.gif",
+        "label": "Pursuit of Volatility - Strauss",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "JamesAndrew",
-          "value": "50.5M",
-          "sub": "proj. (102 votes)"
-        },
-        {
           "label": "Strauss",
-          "value": "39.0M",
+          "value": "39.9M",
           "sub": "proj. (79 votes)"
         },
         {
+          "label": "AEZY",
+          "value": "26.4M",
+          "sub": "proj. (41 votes)"
+        },
+        {
           "label": "1dontknows",
-          "value": "23.4M",
+          "value": "23.5M",
           "sub": "proj. (62 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: orkhan (1.3M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: MintFace (5.8M) | orkhan (2.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (315K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 0.95 ETH Volume",
-      "summary": "14 sales in 24h for 0.95 ETH. Highest: \"SeizeJPGs\" at 0.320 ETH.",
+      "headline": "14 Sales Today - 0.97 ETH Volume",
+      "summary": "14 sales in 24h for 0.97 ETH. Highest: \"SeizeJPGs\" at 0.320 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,7 +115,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.95",
+          "value": "0.97",
           "sub": "ETH"
         },
         {
@@ -121,32 +134,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.95 ETH",
-      "raw": 0.9489,
-      "delta": -0.3753000000000001,
-      "delta_fmt": "-28.3%"
+      "value": "0.97 ETH",
+      "raw": 0.9712,
+      "delta": -0.3126000000000001,
+      "delta_fmt": "-24.3%"
     },
     {
       "label": "7d Vol",
-      "value": "14.57 ETH",
-      "raw": 14.5733
+      "value": "14.61 ETH",
+      "raw": 14.6108
     },
     {
       "label": "30d Vol",
-      "value": "58.30 ETH",
-      "raw": 58.3005
+      "value": "58.34 ETH",
+      "raw": 58.338
     },
     {
       "label": "Full Set Bid",
-      "value": "42.9 ETH",
-      "raw": 42.86,
-      "delta": -0.09000000000000341,
-      "delta_fmt": "-0.09 ETH"
+      "value": "43.0 ETH",
+      "raw": 42.96,
+      "delta": 0.10000000000000142,
+      "delta_fmt": "+0.10 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1567.3M",
       "raw": 1567322946
+    },
+    {
+      "label": "#1 Strauss",
+      "value": "39.9M TDH",
+      "raw": 39868943,
+      "delta": -13814892,
+      "delta_fmt": "-13.8M TDH"
     },
     {
       "label": "#1 JamesAndrew",
@@ -182,8 +202,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
-    "CARD #490: 107 MINTS (EXCL. MUSEUM) | 76 HOLDERS | ASCENT",
-    "ACTIVE TODAY: MAYBE (140 MSGS) | JAMESANDREW (107) | AEZY (99)",
-    "DIVE BAR: 172 MSGS IN LAST 6H"
+    "DIVE BAR: 254 MSGS IN LAST 6H",
+    "CARD #490: 114 MINTS (EXCL. MUSEUM) | 80 HOLDERS | ASCENT",
+    "ACTIVE TODAY: MAYBE (145 MSGS) | AEZY (102) | JAMESANDREW (94)"
   ]
 }
