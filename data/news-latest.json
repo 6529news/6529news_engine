@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T13:48:50.582197+00:00",
+  "generated_at": "2026-05-02T14:47:19.558661+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -182,8 +182,8 @@
       "label": "24h Vol",
       "value": "1.09 ETH",
       "raw": 1.0851,
-      "delta": -0.5820000000000001,
-      "delta_fmt": "-34.9%"
+      "delta": 0.1362,
+      "delta_fmt": "+14.4%"
     },
     {
       "label": "7d Vol",
@@ -197,10 +197,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.9 ETH",
-      "raw": 42.86,
-      "delta": 0.490000000000002,
-      "delta_fmt": "+0.49 ETH"
+      "value": "42.8 ETH",
+      "raw": 42.79,
+      "delta": -0.07000000000000028,
+      "delta_fmt": "-0.07 ETH"
     },
     {
       "label": "Network TDH",
@@ -246,9 +246,9 @@
   ],
   "headline_extras": [
     "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 12h AGO",
-    "CARD #490: 121 MINTS (EXCL. MUSEUM) | 86 HOLDERS | ASCENT",
-    "ACTIVE TODAY: GPEBBLES (285 MSGS) | MAYBE (199) | SHERIE_MARGARET (197)",
-    "DIVE BAR: 175 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 13h AGO",
+    "DIVE BAR: 308 MSGS IN LAST 6H",
+    "CARD #490: 146 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ASCENT",
+    "ACTIVE TODAY: GPEBBLES (364 MSGS) | SHERIE_MARGARET (184) | MAYBE (169)"
   ]
 }
