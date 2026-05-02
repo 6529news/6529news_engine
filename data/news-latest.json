@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T15:45:53.418533+00:00",
+  "generated_at": "2026-05-02T16:32:30.798342+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Strauss Leads with 54.6M Projected TDH",
-      "summary": "\"Pursuit of Volatility\" by Strauss (54.6M projected TDH, 88 voters) | \"EMERGENT\" by AEZY (37.4M projected TDH, 48 voters) | \"Network State of Mind\" by Zigmarillion (29.9M projected TDH, 57 voters) Next selection: Mon May 04 at 17:00 CET.",
+      "summary": "\"Pursuit of Volatility\" by Strauss (54.6M projected TDH, 88 voters) | \"EMERGENT\" by AEZY (37.4M projected TDH, 48 voters) | \"Network State of Mind\" by Zigmarillion (29.9M projected TDH, 59 voters) Next selection: Mon May 04 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "Zigmarillion",
           "value": "29.9M",
-          "sub": "proj. (57 votes)"
+          "sub": "proj. (59 votes)"
         }
       ]
     },
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.33 ETH Volume",
-      "summary": "23 sales in 24h for 1.33 ETH. Highest: \"Crypto Liberation\" at 0.110 ETH.",
+      "headline": "11 Sales Today - 0.67 ETH Volume",
+      "summary": "11 sales in 24h for 0.67 ETH. Highest: \"Crypto Liberation\" at 0.110 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "11",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.33",
+          "value": "0.67",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0154",
+          "value": "0.015399999",
           "sub": "ETH"
         }
       ]
@@ -167,27 +167,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.33 ETH",
-      "raw": 1.3301,
-      "delta": 0.3812000000000001,
-      "delta_fmt": "+40.2%"
+      "value": "0.67 ETH",
+      "raw": 0.6693,
+      "delta": -0.30189999999999995,
+      "delta_fmt": "-31.1%"
     },
     {
       "label": "7d Vol",
-      "value": "7.49 ETH",
-      "raw": 7.4878
+      "value": "7.52 ETH",
+      "raw": 7.5188
     },
     {
       "label": "30d Vol",
-      "value": "58.72 ETH",
-      "raw": 58.7182
+      "value": "58.75 ETH",
+      "raw": 58.7492
     },
     {
       "label": "Full Set Bid",
       "value": "42.7 ETH",
-      "raw": 42.68,
-      "delta": -0.10999999999999943,
-      "delta_fmt": "-0.11 ETH"
+      "raw": 42.69,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -197,8 +197,8 @@
     {
       "label": "#1 Strauss",
       "value": "54.6M TDH",
-      "raw": 54609118,
-      "delta": 272,
+      "raw": 54627955,
+      "delta": 18837,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -235,9 +235,9 @@
   ],
   "headline_extras": [
     "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 14h AGO",
+    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 15h AGO",
+    "DIVE BAR: 453 MSGS IN LAST 6H",
     "CARD #490: 146 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ASCENT",
-    "ACTIVE TODAY: GPEBBLES (328 MSGS) | SHERIE_MARGARET (183) | MAYBE (163)",
-    "DIVE BAR: 431 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GPEBBLES (311 MSGS) | SHERIE_MARGARET (187) | MAYBE (161)"
   ]
 }
