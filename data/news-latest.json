@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T10:28:25.114616+00:00",
+  "generated_at": "2026-05-02T11:25:12.250983+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 320K TDH",
-      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (320K) | Gsen (149K) | Bicasso (2K)",
+      "headline": "#7 Gsen \u2014 149K TDH",
+      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (320K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
@@ -198,7 +198,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.4 ETH",
-      "raw": 42.38
+      "raw": 42.37,
+      "delta": -0.010000000000005116,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -208,9 +210,9 @@
     {
       "label": "#1 Strauss",
       "value": "54.6M TDH",
-      "raw": 54608711,
-      "delta": 2000461,
-      "delta_fmt": "+2.0M TDH"
+      "raw": 54608846,
+      "delta": 135,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 JamesAndrew",
@@ -246,9 +248,9 @@
   ],
   "headline_extras": [
     "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 9h AGO",
+    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 10h AGO",
+    "DIVE BAR: 115 MSGS IN LAST 6H",
     "CARD #490: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | ASCENT",
-    "ACTIVE TODAY: GPEBBLES (285 MSGS) | MAYBE (199) | SHERIE_MARGARET (192)",
-    "DIVE BAR: 115 MSGS IN LAST 6H"
+    "ACTIVE TODAY: GPEBBLES (285 MSGS) | MAYBE (199) | SHERIE_MARGARET (188)"
   ]
 }
