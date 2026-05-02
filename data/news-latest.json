@@ -80,6 +80,18 @@
       }
     },
     {
+      "category": "6529 TALKS",
+      "headline": "punk6529 Active in maybe's dive bar",
+      "summary": "Active in maybe's dive bar.",
+      "source": "maybe's dive bar",
+      "link": "https://6529.io/punk6529",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
+        "label": "punk6529"
+      },
+      "dataBoxes": null
+    },
+    {
       "category": "SALES RECAP",
       "headline": "17 Sales Today - 0.94 ETH Volume",
       "summary": "17 sales in 24h for 0.94 ETH. Highest: \"Crypto Liberation\" at 0.110 ETH.",
@@ -247,10 +259,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (Apr 21)",
+    "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 8h AGO",
-    "DIVE BAR: 106 MSGS IN LAST 6H",
     "CARD #490: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | ASCENT",
-    "ACTIVE TODAY: GPEBBLES (285 MSGS) | MAYBE (199) | SHERIE_MARGARET (196)"
+    "ACTIVE TODAY: GPEBBLES (285 MSGS) | MAYBE (199) | SHERIE_MARGARET (196)",
+    "DIVE BAR: 106 MSGS IN LAST 6H"
   ]
 }
