@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T23:43:36.217576+00:00",
+  "generated_at": "2026-05-03T01:21:54.577018+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,18 +47,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: 6529er (17.3M) | orkhan (2.8M) | Sert (2.5M) | MintFace (796K).",
+      "summary": "4 submissions this week. Ranking: 6529er (28.4M) | orkhan (2.8M) | Sert (2.5M) | MintFace (796K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f82d54d-87b4-11ee-9d82-029a0e4b6159/30fc94f8-96a7-4a88-be49-2443eb117dbe/Keys-and-Gates.jpg",
-        "label": "6529er (17.3M)",
+        "label": "6529er (28.4M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f82d54d-87b4-11ee-9d82-029a0e4b6159/30fc94f8-96a7-4a88-be49-2443eb117dbe/Keys-and-Gates.jpg",
-          "label": "6529er (17.3M)",
+          "label": "6529er (28.4M)",
           "type": "image"
         }
       ],
@@ -66,28 +66,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 322K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (322K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 0.82 ETH Volume",
-      "summary": "14 sales in 24h for 0.82 ETH. Highest: \"A Memelionaire\u2019s Adventure\" at 0.100 ETH.",
+      "headline": "15 Sales Today - 0.94 ETH Volume",
+      "summary": "15 sales in 24h for 0.94 ETH. Highest: \"T.A.P. Village\" at 0.122 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/260.WEBP",
-        "label": "A Memelionaire\u2019s Adventure - 0.100 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/297.GIF",
+        "label": "T.A.P. Village - 0.122 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/297.GIF",
+          "label": "T.A.P. Village - 0.122 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/260.WEBP",
           "label": "A Memelionaire\u2019s Adventure - 0.100 ETH",
@@ -97,78 +102,27 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/285.WEBP",
           "label": "Here Lies - 0.077 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/444.WEBP",
-          "label": "May Be Nothing... - 0.070 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.82",
+          "value": "0.94",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.100",
-          "sub": "A Memelionaire\u2019s Adv"
+          "value": "0.122",
+          "sub": "T.A.P. Village"
         },
         {
           "label": "Floor",
           "value": "0.015399999",
-          "sub": "ETH"
-        }
-      ]
-    },
-    {
-      "category": "PEBBLES",
-      "headline": "Pebbles: 1 Sales - 3.000 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 3.000 ETH. Current floor: 0.56999999 ETH.",
-      "source": "OpenSea",
-      "link": "https://opensea.io/collection/pebbles-by-zeblocks",
-      "image": {
-        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/c95c43df48c26a68d70c102edaed9c/3dc95c43df48c26a68d70c102edaed9c.png",
-        "label": "Pebbles #485 - 3.000 ETH",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/c95c43df48c26a68d70c102edaed9c/3dc95c43df48c26a68d70c102edaed9c.png",
-          "label": "Pebbles #485 - 3.000 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/8fda43a3aa49ef0e07d1399bbbb6e9/c78fda43a3aa49ef0e07d1399bbbb6e9.png",
-          "label": "Pebbles #47 - 0.520 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/87824ff35dcf61da5b11037aafd958/a387824ff35dcf61da5b11037aafd958.png",
-          "label": "Pebbles #639 - 0.550 ETH",
-          "type": "image"
-        }
-      ],
-      "dataBoxes": [
-        {
-          "label": "Sales 24h",
-          "value": "1",
-          "sub": ""
-        },
-        {
-          "label": "Volume",
-          "value": "3.000",
-          "sub": "ETH"
-        },
-        {
-          "label": "Floor",
-          "value": "0.56999999",
           "sub": "ETH"
         }
       ]
@@ -177,35 +131,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.82 ETH",
-      "raw": 0.8218,
-      "delta": 0.034399999999999986,
-      "delta_fmt": "+4.4%"
+      "value": "0.94 ETH",
+      "raw": 0.9438,
+      "delta": 0.15639999999999998,
+      "delta_fmt": "+19.9%"
     },
     {
       "label": "7d Vol",
-      "value": "7.36 ETH",
-      "raw": 7.362
+      "value": "7.44 ETH",
+      "raw": 7.4419
     },
     {
       "label": "30d Vol",
-      "value": "59.09 ETH",
-      "raw": 59.0925
+      "value": "58.64 ETH",
+      "raw": 58.6437
     },
     {
       "label": "Full Set Bid",
-      "value": "43.1 ETH",
-      "raw": 43.06
+      "value": "43.0 ETH",
+      "raw": 42.96,
+      "delta": -0.10000000000000142,
+      "delta_fmt": "-0.10 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1569.4M",
-      "raw": 1569443780
+      "value": "1571.6M",
+      "raw": 1571557262,
+      "delta": 2113482,
+      "delta_fmt": "+2.1M TDH"
     },
     {
       "label": "#1 Strauss",
       "value": "56.9M TDH",
-      "raw": 56883408
+      "raw": 56882620,
+      "delta": -788,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 JamesAndrew",
@@ -241,9 +201,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 17 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 22h AGO",
+    "DIVE BAR: 293 MSGS IN LAST 6H",
     "CARD #490: 146 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ASCENT",
-    "ACTIVE TODAY: GPEBBLES (188 MSGS) | JAMESANDREW (161) | MAYBE (105)",
-    "DIVE BAR: 336 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (147 MSGS) | GPEBBLES (115) | SHERIE_MARGARET (74)"
   ]
 }
