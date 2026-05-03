@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T04:58:42.187767+00:00",
+  "generated_at": "2026-05-03T07:22:08.348901+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Strauss Leads with 56.9M Projected TDH",
-      "summary": "\"Pursuit of Volatility\" by Strauss (56.9M projected TDH, 90 voters) | \"EMERGENT\" by AEZY (41.7M projected TDH, 51 voters) | \"Keys and Gates\" by 6529er (37.1M projected TDH, 49 voters) Next selection: Mon May 04 at 17:00 CET.",
+      "summary": "\"Pursuit of Volatility\" by Strauss (56.9M projected TDH, 90 voters) | \"EMERGENT\" by AEZY (41.7M projected TDH, 51 voters) | \"Keys and Gates\" by 6529er (38.1M projected TDH, 54 voters) Next selection: Mon May 04 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,8 +39,8 @@
         },
         {
           "label": "6529er",
-          "value": "37.1M",
-          "sub": "proj. (49 votes)"
+          "value": "38.1M",
+          "sub": "proj. (54 votes)"
         }
       ]
     },
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#8 Bicasso \u2014 -1950 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (-1950)",
         "type": "image"
       }
     },
@@ -123,8 +123,8 @@
       "label": "24h Vol",
       "value": "1.06 ETH",
       "raw": 1.0598,
-      "delta": 0.1564000000000001,
-      "delta_fmt": "+17.3%"
+      "delta": 0.0878000000000001,
+      "delta_fmt": "+9.0%"
     },
     {
       "label": "7d Vol",
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.8 ETH",
-      "raw": 42.85,
-      "delta": -0.10999999999999943,
-      "delta_fmt": "-0.11 ETH"
+      "value": "43.0 ETH",
+      "raw": 42.96,
+      "delta": 0.10999999999999943,
+      "delta_fmt": "+0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 Strauss",
       "value": "56.9M TDH",
-      "raw": 56887620,
-      "delta": 5000,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 56887620
     },
     {
       "label": "#1 JamesAndrew",
@@ -189,8 +187,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 17 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 32 MSGS IN LAST 6H",
     "CARD #490: 146 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ASCENT",
-    "ACTIVE TODAY: JAMESANDREW (131 MSGS) | GPEBBLES (94) | SHERIE_MARGARET (74)",
-    "DIVE BAR: 33 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (131 MSGS) | GPEBBLES (94) | SHERIE_MARGARET (63)"
   ]
 }
