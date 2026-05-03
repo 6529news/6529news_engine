@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T11:11:58.113951+00:00",
+  "generated_at": "2026-05-03T11:58:26.801630+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Strauss Leads with 51.4M Projected TDH",
-      "summary": "\"Pursuit of Volatility\" by Strauss (51.4M projected TDH, 90 voters) | \"Keys and Gates\" by 6529er (43.6M projected TDH, 61 voters) | \"EMERGENT\" by AEZY (42.7M projected TDH, 55 voters) Next selection: Mon May 04 at 17:00 CET.",
+      "summary": "\"Pursuit of Volatility\" by Strauss (51.4M projected TDH, 90 voters) | \"Keys and Gates\" by 6529er (44.0M projected TDH, 62 voters) | \"EMERGENT\" by AEZY (42.7M projected TDH, 58 voters) Next selection: Mon May 04 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,13 +34,13 @@
         },
         {
           "label": "6529er",
-          "value": "43.6M",
-          "sub": "proj. (61 votes)"
+          "value": "44.0M",
+          "sub": "proj. (62 votes)"
         },
         {
           "label": "AEZY",
           "value": "42.7M",
-          "sub": "proj. (55 votes)"
+          "sub": "proj. (58 votes)"
         }
       ]
     },
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 -1950 TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (-1950)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 1.03 ETH Volume",
-      "summary": "19 sales in 24h for 1.03 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
+      "headline": "20 Sales Today - 1.10 ETH Volume",
+      "summary": "20 sales in 24h for 1.10 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.03",
+          "value": "1.10",
           "sub": "ETH"
         },
         {
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.03 ETH",
-      "raw": 1.0323,
-      "delta": 0.09719999999999995,
-      "delta_fmt": "+10.4%"
+      "value": "1.10 ETH",
+      "raw": 1.1022,
+      "delta": 0.16710000000000003,
+      "delta_fmt": "+17.9%"
     },
     {
       "label": "7d Vol",
-      "value": "7.75 ETH",
-      "raw": 7.7539
+      "value": "7.88 ETH",
+      "raw": 7.8839
     },
     {
       "label": "30d Vol",
-      "value": "58.96 ETH",
-      "raw": 58.9558
+      "value": "59.09 ETH",
+      "raw": 59.0858
     },
     {
       "label": "Full Set Bid",
-      "value": "43.0 ETH",
-      "raw": 42.98,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "value": "42.9 ETH",
+      "raw": 42.95,
+      "delta": -0.02999999999999403,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 Strauss",
       "value": "51.4M TDH",
-      "raw": 51449131,
-      "delta": -5436103,
-      "delta_fmt": "-5.4M TDH"
+      "raw": 51449131
     },
     {
       "label": "#1 JamesAndrew",
@@ -199,8 +197,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 16 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 73 MSGS IN LAST 6H",
     "CARD #490: 146 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ASCENT",
-    "ACTIVE TODAY: JAMESANDREW (131 MSGS) | GPEBBLES (94) | SHERIE_MARGARET (64)",
-    "DIVE BAR: 69 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (133 MSGS) | GPEBBLES (94) | SHERIE_MARGARET (64)"
   ]
 }
