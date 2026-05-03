@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T22:00:41.940308+00:00",
+  "generated_at": "2026-05-03T23:03:18.641197+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING MONDAY",
-      "headline": "Minting Monday",
-      "summary": " \"Just Culture\" by JamesAndrew \u2014 50.5M TDH from 103 voters. Top supporter: gpebbles (12.8M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Just Culture\" by JamesAndrew \u2014 50.5M TDH from 103 voters. Top supporter: gpebbles (12.8M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -154,9 +154,7 @@
     {
       "label": "Full Set Bid",
       "value": "43.7 ETH",
-      "raw": 43.72,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 43.72
     },
     {
       "label": "Network TDH",
@@ -202,8 +200,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 02)",
+    "DIVE BAR: 485 MSGS IN LAST 6H",
     "CARD #490: 146 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ASCENT",
-    "ACTIVE TODAY: MAYBE (129 MSGS) | JAMESANDREW (99) | AEZY (58)",
-    "DIVE BAR: 459 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (156 MSGS) | JAMESANDREW (95) | ZIGMARILLION (67)"
   ]
 }
