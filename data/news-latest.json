@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T20:25:32.879291+00:00",
+  "generated_at": "2026-05-03T21:10:04.422647+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Strauss Leads with 57.7M Projected TDH",
-      "summary": "\"Pursuit of Volatility\" by Strauss (57.7M projected TDH, 94 voters) | \"Keys and Gates\" by 6529er (53.7M projected TDH, 78 voters) | \"EMERGENT\" by AEZY (37.4M projected TDH, 59 voters) Next selection: Mon May 04 at 17:00 CET.",
+      "headline": "Strauss Leads with 61.4M Projected TDH",
+      "summary": "\"Pursuit of Volatility\" by Strauss (61.4M projected TDH, 94 voters) | \"Keys and Gates\" by 6529er (54.2M projected TDH, 80 voters) | \"EMERGENT\" by AEZY (37.4M projected TDH, 59 voters) Next selection: Mon May 04 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "Strauss",
-          "value": "57.7M",
+          "value": "61.4M",
           "sub": "proj. (94 votes)"
         },
         {
           "label": "6529er",
-          "value": "53.7M",
-          "sub": "proj. (78 votes)"
+          "value": "54.2M",
+          "sub": "proj. (80 votes)"
         },
         {
           "label": "AEZY",
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 -1950 TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (-1950)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 1.11 ETH Volume",
-      "summary": "22 sales in 24h for 1.11 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
+      "headline": "20 Sales Today - 1.00 ETH Volume",
+      "summary": "20 sales in 24h for 1.00 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "22",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.11",
+          "value": "1.00",
           "sub": "ETH"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015399999",
+          "value": "0.0154",
           "sub": "ETH"
         }
       ]
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.11 ETH",
-      "raw": 1.1093,
-      "delta": 0.3948999999999999,
-      "delta_fmt": "+55.3%"
+      "value": "1.00 ETH",
+      "raw": 1.0043,
+      "delta": 0.28989999999999994,
+      "delta_fmt": "+40.6%"
     },
     {
       "label": "7d Vol",
-      "value": "7.66 ETH",
-      "raw": 7.6561
+      "value": "7.67 ETH",
+      "raw": 7.6715
     },
     {
       "label": "30d Vol",
-      "value": "59.47 ETH",
-      "raw": 59.4709
+      "value": "59.49 ETH",
+      "raw": 59.4863
     },
     {
       "label": "Full Set Bid",
       "value": "43.7 ETH",
-      "raw": 43.73,
-      "delta": -0.010000000000005116,
-      "delta_fmt": "-0.01 ETH"
+      "raw": 43.74,
+      "delta": 0.010000000000005116,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -160,8 +160,10 @@
     },
     {
       "label": "#1 Strauss",
-      "value": "57.7M TDH",
-      "raw": 57744370
+      "value": "61.4M TDH",
+      "raw": 61421128,
+      "delta": 3676758,
+      "delta_fmt": "+3.7M TDH"
     },
     {
       "label": "#1 JamesAndrew",
@@ -197,8 +199,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 02)",
+    "DIVE BAR: 315 MSGS IN LAST 6H",
     "CARD #490: 146 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ASCENT",
-    "ACTIVE TODAY: JAMESANDREW (129 MSGS) | MAYBE (115) | AEZY (69)",
-    "DIVE BAR: 317 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (129 MSGS) | MAYBE (115) | AEZY (69)"
   ]
 }
