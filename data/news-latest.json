@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T15:21:32.852275+00:00",
+  "generated_at": "2026-05-04T17:11:08.259954+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,38 +16,51 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "Strauss Leads with 61.2M Projected TDH",
-      "summary": "\"Pursuit of Volatility\" by Strauss (61.2M projected TDH, 96 voters) | \"Keys and Gates\" by 6529er (56.9M projected TDH, 92 voters) | \"EMERGENT\" by AEZY (37.5M projected TDH, 61 voters) Next selection: Mon May 04 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING WEDNESDAY",
+      "headline": "Minting Wednesday",
+      "summary": " \"Pursuit of Volatility\" by Strauss \u2014 61.2M TDH from 96 voters. Top supporter: Giopetto (7.0M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_1c914f7f-fae0-4314-8792-84fe956acea0/0450d053-06e1-4a69-9fe8-ca99554942c6.gif",
         "label": "Pursuit of Volatility - Strauss",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "6529er Leads with 62.7M Projected TDH",
+      "summary": "\"Keys and Gates\" by 6529er (62.7M projected TDH, 93 voters) | \"EMERGENT\" by AEZY (43.2M projected TDH, 61 voters) | \"Network State of Mind\" by Zigmarillion (30.3M projected TDH, 68 voters) Next selection: Wed May 06 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f82d54d-87b4-11ee-9d82-029a0e4b6159/30fc94f8-96a7-4a88-be49-2443eb117dbe/Keys-and-Gates.jpg",
+        "label": "Keys and Gates - 6529er",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "Strauss",
-          "value": "61.2M",
-          "sub": "proj. (96 votes)"
-        },
-        {
           "label": "6529er",
-          "value": "56.9M",
-          "sub": "proj. (92 votes)"
+          "value": "62.7M",
+          "sub": "proj. (93 votes)"
         },
         {
           "label": "AEZY",
-          "value": "37.5M",
+          "value": "43.2M",
           "sub": "proj. (61 votes)"
+        },
+        {
+          "label": "Zigmarillion",
+          "value": "30.3M",
+          "sub": "proj. (68 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: orkhan (2.8M) | Sert (2.5M) | grubnot (1.4M) | CasaNUA (1.3M).",
+      "headline": "5 New Memes Submissions This Week",
+      "summary": "5 submissions this week. Ranking: orkhan (2.8M) | Sert (2.6M) | grubnot (1.4M) | CasaNUA (1.3M) | MintFace (806K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -71,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 -1950 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (-1950)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.07 ETH Volume",
-      "summary": "23 sales in 24h for 1.07 ETH. Highest: \"Powered by Time\" at 0.100 ETH.",
+      "headline": "24 Sales Today - 1.17 ETH Volume",
+      "summary": "24 sales in 24h for 1.17 ETH. Highest: \"Powered by Time\" at 0.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.07",
+          "value": "1.17",
           "sub": "ETH"
         },
         {
@@ -136,32 +149,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.07 ETH",
-      "raw": 1.0695,
-      "delta": 0.030299999999999994,
-      "delta_fmt": "+2.9%"
+      "value": "1.17 ETH",
+      "raw": 1.1695,
+      "delta": 0.14019999999999988,
+      "delta_fmt": "+13.6%"
     },
     {
       "label": "7d Vol",
-      "value": "7.72 ETH",
-      "raw": 7.7186
+      "value": "7.82 ETH",
+      "raw": 7.8186
     },
     {
       "label": "30d Vol",
-      "value": "59.36 ETH",
-      "raw": 59.3621
+      "value": "59.46 ETH",
+      "raw": 59.4621
     },
     {
       "label": "Full Set Bid",
-      "value": "35.9 ETH",
-      "raw": 35.92,
-      "delta": -7.710000000000001,
-      "delta_fmt": "-7.71 ETH"
+      "value": "43.5 ETH",
+      "raw": 43.54,
+      "delta": 7.619999999999997,
+      "delta_fmt": "+7.62 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1574.1M",
       "raw": 1574057830
+    },
+    {
+      "label": "#1 6529er",
+      "value": "62.7M TDH",
+      "raw": 62679684,
+      "delta": 8995849,
+      "delta_fmt": "+9.0M TDH"
     },
     {
       "label": "#1 Strauss",
@@ -204,8 +224,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 02)",
-    "CARD #491: 113 MINTS (EXCL. MUSEUM) | 81 HOLDERS | JUST CULTURE",
-    "ACTIVE TODAY: JAMESANDREW (94 MSGS) | MAYBE (94) | WALASAVAGEPHOTO (88)",
-    "DIVE BAR: 195 MSGS IN LAST 6H"
+    "DIVE BAR: 231 MSGS IN LAST 6H",
+    "CARD #491: 119 MINTS (EXCL. MUSEUM) | 83 HOLDERS | JUST CULTURE",
+    "ACTIVE TODAY: WALASAVAGEPHOTO (86 MSGS) | ZIGMARILLION (76) | JAMESANDREW (74)"
   ]
 }
