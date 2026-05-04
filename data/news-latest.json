@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T22:39:44.890289+00:00",
+  "generated_at": "2026-05-04T23:36:32.483140+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Just Culture\" by JamesAndrew \u2014 50.5M TDH from 103 voters. Top supporter: gpebbles (12.8M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Just Culture\" by JamesAndrew \u2014 50.5M TDH from 103 voters. Top supporter: gpebbles (12.8M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "6529er Leads with 80.3M Projected TDH",
-      "summary": "\"Keys and Gates\" by 6529er (80.3M projected TDH, 96 voters) | \"EMERGENT\" by AEZY (39.2M projected TDH, 63 voters) | \"Network State of Mind\" by Zigmarillion (30.4M projected TDH, 69 voters) Next selection: Wed May 06 at 17:00 CET.",
+      "headline": "6529er Leads with 80.7M Projected TDH",
+      "summary": "\"Keys and Gates\" by 6529er (80.7M projected TDH, 99 voters) | \"EMERGENT\" by AEZY (39.2M projected TDH, 63 voters) | \"Network State of Mind\" by Zigmarillion (30.4M projected TDH, 69 voters) Next selection: Wed May 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "6529er",
-          "value": "80.3M",
-          "sub": "proj. (96 votes)"
+          "value": "80.7M",
+          "sub": "proj. (99 votes)"
         },
         {
           "label": "AEZY",
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01635998",
+          "value": "0.01630999",
           "sub": "ETH"
         }
       ]
@@ -151,8 +151,8 @@
       "label": "24h Vol",
       "value": "1.74 ETH",
       "raw": 1.7367,
-      "delta": 0.7323999999999999,
-      "delta_fmt": "+72.9%"
+      "delta": 0.9542999999999999,
+      "delta_fmt": "+122.0%"
     },
     {
       "label": "7d Vol",
@@ -167,9 +167,9 @@
     {
       "label": "Full Set Bid",
       "value": "43.8 ETH",
-      "raw": 43.81,
-      "delta": 7.039999999999999,
-      "delta_fmt": "+7.04 ETH"
+      "raw": 43.83,
+      "delta": 0.01999999999999602,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -178,8 +178,10 @@
     },
     {
       "label": "#1 6529er",
-      "value": "80.3M TDH",
-      "raw": 80260918
+      "value": "80.7M TDH",
+      "raw": 80675629,
+      "delta": 414711,
+      "delta_fmt": "+0.4M TDH"
     },
     {
       "label": "#1 Strauss",
@@ -222,7 +224,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 108 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 458 MSGS IN LAST 6H",
     "CARD #491: 125 MINTS (EXCL. MUSEUM) | 90 HOLDERS | JUST CULTURE",
-    "DIVE BAR: 485 MSGS IN LAST 6H"
+    "ACTIVE TODAY: PUNK6529 (131 MSGS) | JAMESANDREW (86) | WALASAVAGEPHOTO (68)"
   ]
 }
