@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T18:56:03.319633+00:00",
+  "generated_at": "2026-05-04T20:16:24.559998+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "6529er Leads with 79.5M Projected TDH",
-      "summary": "\"Keys and Gates\" by 6529er (79.5M projected TDH, 95 voters) | \"EMERGENT\" by AEZY (43.2M projected TDH, 61 voters) | \"Network State of Mind\" by Zigmarillion (30.3M projected TDH, 68 voters) Next selection: Wed May 06 at 17:00 CET.",
+      "headline": "6529er Leads with 80.1M Projected TDH",
+      "summary": "\"Keys and Gates\" by 6529er (80.1M projected TDH, 95 voters) | \"EMERGENT\" by AEZY (39.0M projected TDH, 61 voters) | \"Network State of Mind\" by Zigmarillion (30.4M projected TDH, 69 voters) Next selection: Wed May 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,42 +42,42 @@
       "dataBoxes": [
         {
           "label": "6529er",
-          "value": "79.5M",
+          "value": "80.1M",
           "sub": "proj. (95 votes)"
         },
         {
           "label": "AEZY",
-          "value": "43.2M",
+          "value": "39.0M",
           "sub": "proj. (61 votes)"
         },
         {
           "label": "Zigmarillion",
-          "value": "30.3M",
-          "sub": "proj. (68 votes)"
+          "value": "30.4M",
+          "sub": "proj. (69 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: orkhan (2.8M) | Sert (2.6M) | grubnot (1.7M) | CasaNUA (1.3M) | MintFace (806K).",
+      "summary": "5 submissions this week. Ranking: CasaNUA (5.5M) | orkhan (2.8M) | Sert (2.6M) | grubnot (1.7M) | MintFace (806K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_6e9211c7-8365-43f8-8a48-6becfa42b017/f6cb90e2-f1f4-4ef0-942d-32faa785d086/I-seize-mymemes.jpg",
-        "label": "grubnot (1.7M)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/186e691f-09f8-4a05-806f-891a1aa29185/6529-Memes-at-the-Boys-Club-Hugo-Faz-and-Pate-4K.mp4",
+        "label": "CasaNUA (5.5M)",
+        "type": "video"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/186e691f-09f8-4a05-806f-891a1aa29185/6529-Memes-at-the-Boys-Club-Hugo-Faz-and-Pate-4K.mp4",
+          "label": "CasaNUA (5.5M)",
+          "type": "video"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_6e9211c7-8365-43f8-8a48-6becfa42b017/f6cb90e2-f1f4-4ef0-942d-32faa785d086/I-seize-mymemes.jpg",
           "label": "grubnot (1.7M)",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/186e691f-09f8-4a05-806f-891a1aa29185/6529-Memes-at-the-Boys-Club-Hugo-Faz-and-Pate-4K.mp4",
-          "label": "CasaNUA (1.3M)",
-          "type": "video"
         }
       ],
       "dataBoxes": null
@@ -96,8 +96,8 @@
     },
     {
       "category": "6529 TALKS",
-      "headline": "punk6529: 50 Messages in Last 24h",
-      "summary": "50 messages in maybe's dive bar.",
+      "headline": "punk6529: 106 Messages in Last 24h",
+      "summary": "106 messages in maybe's dive bar.",
       "source": "maybe's dive bar",
       "link": "https://6529.io/punk6529",
       "image": {
@@ -152,7 +152,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01653998",
+          "value": "0.01646998",
           "sub": "ETH"
         }
       ]
@@ -163,8 +163,8 @@
       "label": "24h Vol",
       "value": "1.15 ETH",
       "raw": 1.1475,
-      "delta": 0.11819999999999986,
-      "delta_fmt": "+11.5%"
+      "delta": 0.03820000000000001,
+      "delta_fmt": "+3.4%"
     },
     {
       "label": "7d Vol",
@@ -179,7 +179,9 @@
     {
       "label": "Full Set Bid",
       "value": "43.6 ETH",
-      "raw": 43.62
+      "raw": 43.58,
+      "delta": -0.03999999999999915,
+      "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -188,10 +190,10 @@
     },
     {
       "label": "#1 6529er",
-      "value": "79.5M TDH",
-      "raw": 79497222,
-      "delta": 9824492,
-      "delta_fmt": "+9.8M TDH"
+      "value": "80.1M TDH",
+      "raw": 80063392,
+      "delta": 566170,
+      "delta_fmt": "+0.6M TDH"
     },
     {
       "label": "#1 Strauss",
@@ -233,9 +235,9 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 50 MSGS",
-    "CARD #491: 120 MINTS (EXCL. MUSEUM) | 86 HOLDERS | JUST CULTURE",
-    "ACTIVE TODAY: JAMESANDREW (88 MSGS) | WALASAVAGEPHOTO (86) | ZIGMARILLION (72)",
-    "DIVE BAR: 325 MSGS IN LAST 6H"
+    "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 106 MSGS",
+    "DIVE BAR: 421 MSGS IN LAST 6H",
+    "CARD #491: 123 MINTS (EXCL. MUSEUM) | 88 HOLDERS | JUST CULTURE",
+    "ACTIVE TODAY: PUNK6529 (128 MSGS) | MAYBE (94) | JAMESANDREW (88)"
   ]
 }
