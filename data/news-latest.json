@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T20:16:24.559998+00:00",
+  "generated_at": "2026-05-04T21:37:27.343026+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "6529er Leads with 80.1M Projected TDH",
-      "summary": "\"Keys and Gates\" by 6529er (80.1M projected TDH, 95 voters) | \"EMERGENT\" by AEZY (39.0M projected TDH, 61 voters) | \"Network State of Mind\" by Zigmarillion (30.4M projected TDH, 69 voters) Next selection: Wed May 06 at 17:00 CET.",
+      "headline": "6529er Leads with 80.3M Projected TDH",
+      "summary": "\"Keys and Gates\" by 6529er (80.3M projected TDH, 96 voters) | \"EMERGENT\" by AEZY (39.2M projected TDH, 62 voters) | \"Network State of Mind\" by Zigmarillion (30.4M projected TDH, 69 voters) Next selection: Wed May 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "6529er",
-          "value": "80.1M",
-          "sub": "proj. (95 votes)"
+          "value": "80.3M",
+          "sub": "proj. (96 votes)"
         },
         {
           "label": "AEZY",
-          "value": "39.0M",
-          "sub": "proj. (61 votes)"
+          "value": "39.2M",
+          "sub": "proj. (62 votes)"
         },
         {
           "label": "Zigmarillion",
@@ -84,75 +84,63 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 -1950 TDH",
+      "headline": "#6 blake69 \u2014 322K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (-1950)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (322K)",
         "type": "image"
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529: 108 Messages in Last 24h",
-      "summary": "108 messages in maybe's dive bar.",
-      "source": "maybe's dive bar",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 1.15 ETH Volume",
-      "summary": "24 sales in 24h for 1.15 ETH. Highest: \"Powered by Time\" at 0.100 ETH.",
+      "headline": "28 Sales Today - 1.69 ETH Volume",
+      "summary": "28 sales in 24h for 1.69 ETH. Highest: \"Meme BUIDLoors\" at 0.270 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/339.GIF",
-        "label": "Powered by Time - 0.100 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/262.WEBP",
+        "label": "Meme BUIDLoors - 0.270 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/262.WEBP",
+          "label": "Meme BUIDLoors - 0.270 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/339.GIF",
           "label": "Powered by Time - 0.100 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.088 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/250.WEBP",
-          "label": "it's my keys, it's my coins - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
+          "label": "Meme Enjoyoor - 0.099 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "24",
+          "value": "28",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.15",
+          "value": "1.69",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.100",
-          "sub": "Powered by Time"
+          "value": "0.270",
+          "sub": "Meme BUIDLoors"
         },
         {
           "label": "Floor",
-          "value": "0.01646998",
+          "value": "0.01640999",
           "sub": "ETH"
         }
       ]
@@ -161,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.15 ETH",
-      "raw": 1.1475,
-      "delta": 0.03820000000000001,
-      "delta_fmt": "+3.4%"
+      "value": "1.69 ETH",
+      "raw": 1.6881,
+      "delta": 0.6838,
+      "delta_fmt": "+68.1%"
     },
     {
       "label": "7d Vol",
-      "value": "7.88 ETH",
-      "raw": 7.8766
+      "value": "8.43 ETH",
+      "raw": 8.4327
     },
     {
       "label": "30d Vol",
-      "value": "59.52 ETH",
-      "raw": 59.5201
+      "value": "60.08 ETH",
+      "raw": 60.0761
     },
     {
       "label": "Full Set Bid",
-      "value": "43.6 ETH",
-      "raw": 43.58,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "value": "36.8 ETH",
+      "raw": 36.77,
+      "delta": -6.809999999999995,
+      "delta_fmt": "-6.81 ETH"
     },
     {
       "label": "Network TDH",
@@ -190,10 +178,10 @@
     },
     {
       "label": "#1 6529er",
-      "value": "80.1M TDH",
-      "raw": 80063392,
-      "delta": 566170,
-      "delta_fmt": "+0.6M TDH"
+      "value": "80.3M TDH",
+      "raw": 80260918,
+      "delta": 197526,
+      "delta_fmt": "+0.2M TDH"
     },
     {
       "label": "#1 Strauss",
@@ -235,8 +223,9 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 108 MSGS",
-    "CARD #491: 123 MINTS (EXCL. MUSEUM) | 88 HOLDERS | JUST CULTURE",
-    "DIVE BAR: 485 MSGS IN LAST 6H"
+    "PUNK6529: 108 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 504 MSGS IN LAST 6H",
+    "CARD #491: 124 MINTS (EXCL. MUSEUM) | 89 HOLDERS | JUST CULTURE",
+    "ACTIVE TODAY: PUNK6529 (131 MSGS) | MAYBE (99) | ZIGMARILLION (97)"
   ]
 }
