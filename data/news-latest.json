@@ -95,6 +95,18 @@
       }
     },
     {
+      "category": "6529 TALKS",
+      "headline": "punk6529: 50 Messages in Last 24h",
+      "summary": "50 messages in maybe's dive bar.",
+      "source": "maybe's dive bar",
+      "link": "https://6529.io/punk6529",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
+        "label": "punk6529"
+      },
+      "dataBoxes": null
+    },
+    {
       "category": "SALES RECAP",
       "headline": "24 Sales Today - 1.15 ETH Volume",
       "summary": "24 sales in 24h for 1.15 ETH. Highest: \"Powered by Time\" at 0.100 ETH.",
@@ -221,9 +233,9 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (May 02)",
-    "DIVE BAR: 248 MSGS IN LAST 6H",
+    "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 50 MSGS",
     "CARD #491: 120 MINTS (EXCL. MUSEUM) | 86 HOLDERS | JUST CULTURE",
-    "ACTIVE TODAY: JAMESANDREW (88 MSGS) | WALASAVAGEPHOTO (86) | ZIGMARILLION (72)"
+    "ACTIVE TODAY: JAMESANDREW (88 MSGS) | WALASAVAGEPHOTO (86) | ZIGMARILLION (72)",
+    "DIVE BAR: 325 MSGS IN LAST 6H"
   ]
 }
