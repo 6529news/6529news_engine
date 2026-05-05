@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T22:38:25.964483+00:00",
+  "generated_at": "2026-05-05T23:33:08.888813+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING WEDNESDAY",
-      "headline": "Minting Wednesday",
-      "summary": " \"Pursuit of Volatility\" by Strauss \u2014 61.2M TDH from 96 voters. Top supporter: Giopetto (7.0M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Pursuit of Volatility\" by Strauss \u2014 61.2M TDH from 96 voters. Top supporter: Giopetto (7.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "18 Sales Today - 3.34 ETH Volume",
-      "summary": "18 sales in 24h for 3.34 ETH. Highest: \"Sgt. Pepe\" at 1.430 ETH.",
+      "headline": "17 Sales Today - 3.32 ETH Volume",
+      "summary": "17 sales in 24h for 3.32 ETH. Highest: \"Sgt. Pepe\" at 1.430 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "18",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.34",
+          "value": "3.32",
           "sub": "ETH"
         },
         {
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.34 ETH",
-      "raw": 3.3384,
-      "delta": 1.6017000000000001,
-      "delta_fmt": "+92.2%"
+      "value": "3.32 ETH",
+      "raw": 3.3198,
+      "delta": 1.5831,
+      "delta_fmt": "+91.2%"
     },
     {
       "label": "7d Vol",
-      "value": "10.74 ETH",
-      "raw": 10.7379
+      "value": "10.79 ETH",
+      "raw": 10.7879
     },
     {
       "label": "30d Vol",
-      "value": "62.57 ETH",
-      "raw": 62.5705
+      "value": "62.62 ETH",
+      "raw": 62.6205
     },
     {
       "label": "Full Set Bid",
-      "value": "42.9 ETH",
-      "raw": 42.9,
-      "delta": -0.4100000000000037,
-      "delta_fmt": "-0.41 ETH"
+      "value": "43.0 ETH",
+      "raw": 43.04,
+      "delta": 0.14000000000000057,
+      "delta_fmt": "+0.14 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,9 +166,7 @@
     {
       "label": "#1 6529er",
       "value": "127.7M TDH",
-      "raw": 127690714,
-      "delta": 756,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 127690714
     },
     {
       "label": "#1 Strauss",
@@ -212,8 +210,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
     "SGT PEPE SALE: 1.430 ETH",
+    "DIVE BAR: 252 MSGS IN LAST 6H",
     "CARD #491: 154 MINTS (EXCL. MUSEUM) | 101 HOLDERS | JUST CULTURE",
-    "ACTIVE TODAY: JAMESANDREW (92 MSGS) | JASONOPHOTO (86) | ONLYMEMES (85)",
-    "DIVE BAR: 253 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (101 MSGS) | JASONOPHOTO (86) | ONLYMEMES (81)"
   ]
 }
