@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T10:59:57.532322+00:00",
+  "generated_at": "2026-05-05T12:09:46.061725+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "6529er Leads with 109.4M Projected TDH",
-      "summary": "\"Keys and Gates\" by 6529er (109.4M projected TDH, 109 voters) | \"EMERGENT\" by AEZY (39.3M projected TDH, 64 voters) | \"Network State of Mind\" by Zigmarillion (30.2M projected TDH, 70 voters) Next selection: Wed May 06 at 17:00 CET.",
+      "summary": "\"Keys and Gates\" by 6529er (109.4M projected TDH, 110 voters) | \"EMERGENT\" by AEZY (39.3M projected TDH, 64 voters) | \"Network State of Mind\" by Zigmarillion (30.2M projected TDH, 70 voters) Next selection: Wed May 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "6529er",
           "value": "109.4M",
-          "sub": "proj. (109 votes)"
+          "sub": "proj. (110 votes)"
         },
         {
           "label": "AEZY",
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (2K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 1.24 ETH Volume",
-      "summary": "19 sales in 24h for 1.24 ETH. Highest: \"Meme BUIDLoors\" at 0.270 ETH.",
+      "headline": "19 Sales Today - 1.28 ETH Volume",
+      "summary": "19 sales in 24h for 1.28 ETH. Highest: \"Meme BUIDLoors\" at 0.270 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,7 +130,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.24",
+          "value": "1.28",
           "sub": "ETH"
         },
         {
@@ -149,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.24 ETH",
-      "raw": 1.2369,
-      "delta": 0.13760000000000017,
-      "delta_fmt": "+12.5%"
+      "value": "1.28 ETH",
+      "raw": 1.2763,
+      "delta": 0.17700000000000005,
+      "delta_fmt": "+16.1%"
     },
     {
       "label": "7d Vol",
-      "value": "8.68 ETH",
-      "raw": 8.6803
+      "value": "8.40 ETH",
+      "raw": 8.3963
     },
     {
       "label": "30d Vol",
-      "value": "59.45 ETH",
-      "raw": 59.4498
+      "value": "59.52 ETH",
+      "raw": 59.5197
     },
     {
       "label": "Full Set Bid",
       "value": "43.9 ETH",
-      "raw": 43.9,
-      "delta": 17.61,
-      "delta_fmt": "+17.61 ETH"
+      "raw": 43.89,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,9 +179,9 @@
     {
       "label": "#1 6529er",
       "value": "109.4M TDH",
-      "raw": 109353014,
-      "delta": 5968588,
-      "delta_fmt": "+6.0M TDH"
+      "raw": 109358532,
+      "delta": 5518,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Strauss",
@@ -224,7 +224,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 108 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 100 MSGS IN LAST 6H",
     "CARD #491: 134 MINTS (EXCL. MUSEUM) | 98 HOLDERS | JUST CULTURE",
-    "DIVE BAR: 71 MSGS IN LAST 6H"
+    "ACTIVE TODAY: PUNK6529 (131 MSGS) | JAMESANDREW (107) | ONLYMEMES (88)"
   ]
 }
