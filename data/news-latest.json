@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T19:19:19.054234+00:00",
+  "generated_at": "2026-05-05T20:39:51.273121+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "6529er Leads with 115.0M Projected TDH",
-      "summary": "\"Keys and Gates\" by 6529er (115.0M projected TDH, 120 voters) | \"EMERGENT\" by AEZY (45.0M projected TDH, 67 voters) | \"Network State of Mind\" by Zigmarillion (34.8M projected TDH, 73 voters) Next selection: Wed May 06 at 17:00 CET.",
+      "headline": "6529er Leads with 127.7M Projected TDH",
+      "summary": "\"Keys and Gates\" by 6529er (127.7M projected TDH, 121 voters) | \"EMERGENT\" by AEZY (45.0M projected TDH, 67 voters) | \"Network State of Mind\" by Zigmarillion (34.8M projected TDH, 73 voters) Next selection: Wed May 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "6529er",
-          "value": "115.0M",
-          "sub": "proj. (120 votes)"
+          "value": "127.7M",
+          "sub": "proj. (121 votes)"
         },
         {
           "label": "AEZY",
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 322K TDH",
-      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (2K)",
+      "headline": "#8 Bicasso \u2014 0 TDH",
+      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (322K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 3.53 ETH Volume",
-      "summary": "22 sales in 24h for 3.53 ETH. Highest: \"Sgt. Pepe\" at 1.430 ETH.",
+      "headline": "24 Sales Today - 3.92 ETH Volume",
+      "summary": "24 sales in 24h for 3.92 ETH. Highest: \"Sgt. Pepe\" at 1.430 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -104,20 +104,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/262.WEBP",
-          "label": "Meme BUIDLoors - 0.270 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.365 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "22",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.53",
+          "value": "3.92",
           "sub": "ETH"
         },
         {
@@ -136,27 +136,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.53 ETH",
-      "raw": 3.5292,
-      "delta": 2.3817,
-      "delta_fmt": "+207.6%"
+      "value": "3.92 ETH",
+      "raw": 3.9235,
+      "delta": 2.7760000000000002,
+      "delta_fmt": "+241.9%"
     },
     {
       "label": "7d Vol",
-      "value": "10.34 ETH",
-      "raw": 10.3428
+      "value": "10.74 ETH",
+      "raw": 10.7354
     },
     {
       "label": "30d Vol",
-      "value": "62.18 ETH",
-      "raw": 62.1754
+      "value": "62.56 ETH",
+      "raw": 62.5556
     },
     {
       "label": "Full Set Bid",
       "value": "43.4 ETH",
-      "raw": 43.38,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "raw": 43.38
     },
     {
       "label": "Network TDH",
@@ -165,10 +163,10 @@
     },
     {
       "label": "#1 6529er",
-      "value": "115.0M TDH",
-      "raw": 114992988,
-      "delta": 513898,
-      "delta_fmt": "+0.5M TDH"
+      "value": "127.7M TDH",
+      "raw": 127689958,
+      "delta": 12696970,
+      "delta_fmt": "+12.7M TDH"
     },
     {
       "label": "#1 Strauss",
@@ -210,9 +208,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529: 2 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
     "SGT PEPE SALE: 1.430 ETH",
+    "DIVE BAR: 392 MSGS IN LAST 6H",
     "CARD #491: 154 MINTS (EXCL. MUSEUM) | 101 HOLDERS | JUST CULTURE",
-    "DIVE BAR: 431 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (95 MSGS) | JASONOPHOTO (90) | ONLYMEMES (85)"
   ]
 }
