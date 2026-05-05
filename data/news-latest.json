@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T23:36:32.483140+00:00",
+  "generated_at": "2026-05-05T01:19:28.112013+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "6529er Leads with 80.7M Projected TDH",
-      "summary": "\"Keys and Gates\" by 6529er (80.7M projected TDH, 99 voters) | \"EMERGENT\" by AEZY (39.2M projected TDH, 63 voters) | \"Network State of Mind\" by Zigmarillion (30.4M projected TDH, 69 voters) Next selection: Wed May 06 at 17:00 CET.",
+      "headline": "6529er Leads with 92.9M Projected TDH",
+      "summary": "\"Keys and Gates\" by 6529er (92.9M projected TDH, 101 voters) | \"EMERGENT\" by AEZY (39.3M projected TDH, 63 voters) | \"Network State of Mind\" by Zigmarillion (30.2M projected TDH, 70 voters) Next selection: Wed May 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,25 +42,25 @@
       "dataBoxes": [
         {
           "label": "6529er",
-          "value": "80.7M",
-          "sub": "proj. (99 votes)"
+          "value": "92.9M",
+          "sub": "proj. (101 votes)"
         },
         {
           "label": "AEZY",
-          "value": "39.2M",
+          "value": "39.3M",
           "sub": "proj. (63 votes)"
         },
         {
           "label": "Zigmarillion",
-          "value": "30.4M",
-          "sub": "proj. (69 votes)"
+          "value": "30.2M",
+          "sub": "proj. (70 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: CasaNUA (5.5M) | orkhan (2.8M) | Sert (2.6M) | grubnot (1.7M) | MintFace (806K).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: CasaNUA (5.5M) | Sert (2.6M) | grubnot (1.7M) | MintFace (806K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01630999",
+          "value": "0.01621998",
           "sub": "ETH"
         }
       ]
@@ -161,27 +161,27 @@
     },
     {
       "label": "30d Vol",
-      "value": "60.12 ETH",
-      "raw": 60.1247
+      "value": "59.25 ETH",
+      "raw": 59.2508
     },
     {
       "label": "Full Set Bid",
       "value": "43.8 ETH",
-      "raw": 43.83,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 43.83
     },
     {
       "label": "Network TDH",
-      "value": "1574.1M",
-      "raw": 1574057830
+      "value": "1576.4M",
+      "raw": 1576428256,
+      "delta": 2370426,
+      "delta_fmt": "+2.4M TDH"
     },
     {
       "label": "#1 6529er",
-      "value": "80.7M TDH",
-      "raw": 80675629,
-      "delta": 414711,
-      "delta_fmt": "+0.4M TDH"
+      "value": "92.9M TDH",
+      "raw": 92901227,
+      "delta": 12225598,
+      "delta_fmt": "+12.2M TDH"
     },
     {
       "label": "#1 Strauss",
@@ -224,7 +224,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 108 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "CARD #491: 125 MINTS (EXCL. MUSEUM) | 90 HOLDERS | JUST CULTURE",
-    "DIVE BAR: 460 MSGS IN LAST 6H"
+    "DIVE BAR: 454 MSGS IN LAST 6H",
+    "CARD #491: 126 MINTS (EXCL. MUSEUM) | 91 HOLDERS | JUST CULTURE",
+    "ACTIVE TODAY: PUNK6529 (131 MSGS) | JAMESANDREW (77) | ZIGMARILLION (59)"
   ]
 }
