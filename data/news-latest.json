@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T18:01:25.376815+00:00",
+  "generated_at": "2026-05-06T20:01:19.630414+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "AEZY Leads with 49.3M Projected TDH",
-      "summary": "\"EMERGENT\" by AEZY (49.3M projected TDH, 71 voters) | \"Network State of Mind\" by Zigmarillion (36.2M projected TDH, 77 voters) | \"Permissionless Crossing\" by kristopher (18.6M projected TDH, 78 voters) Next selection: Fri May 08 at 17:00 CET.",
+      "headline": "AEZY Leads with 52.1M Projected TDH",
+      "summary": "\"EMERGENT\" by AEZY (52.1M projected TDH, 75 voters) | \"Network State of Mind\" by Zigmarillion (37.7M projected TDH, 81 voters) | \"Permissionless Crossing\" by kristopher (30.7M projected TDH, 79 voters) Next selection: Fri May 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,70 +42,70 @@
       "dataBoxes": [
         {
           "label": "AEZY",
-          "value": "49.3M",
-          "sub": "proj. (71 votes)"
+          "value": "52.1M",
+          "sub": "proj. (75 votes)"
         },
         {
           "label": "Zigmarillion",
-          "value": "36.2M",
-          "sub": "proj. (77 votes)"
+          "value": "37.7M",
+          "sub": "proj. (81 votes)"
         },
         {
           "label": "kristopher",
-          "value": "18.6M",
-          "sub": "proj. (78 votes)"
+          "value": "30.7M",
+          "sub": "proj. (79 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Sert (2.6M) | grubnot (1.9M) | CasaNUA (1.3M) | MintFace (807K).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: grubnot (2.6M) | Sert (2.6M) | MintFace (807K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_6e9211c7-8365-43f8-8a48-6becfa42b017/f6cb90e2-f1f4-4ef0-942d-32faa785d086/I-seize-mymemes.jpg",
-        "label": "grubnot (1.9M)",
+        "label": "grubnot (2.6M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_6e9211c7-8365-43f8-8a48-6becfa42b017/f6cb90e2-f1f4-4ef0-942d-32faa785d086/I-seize-mymemes.jpg",
-          "label": "grubnot (1.9M)",
+          "label": "grubnot (2.6M)",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/186e691f-09f8-4a05-806f-891a1aa29185/6529-Memes-at-the-Boys-Club-Hugo-Faz-and-Pate-4K.mp4",
-          "label": "CasaNUA (1.3M)",
-          "type": "video"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "7 Sales Today - 0.71 ETH Volume",
-      "summary": "7 sales in 24h for 0.71 ETH. Highest: \"SeizeJPGs\" at 0.365 ETH.",
+      "headline": "12 Sales Today - 2.49 ETH Volume",
+      "summary": "12 sales in 24h for 2.49 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.599 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-        "label": "SeizeJPGs - 0.365 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+        "label": "The Tree of Knowledge of Good and Evil - 0.599 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+          "label": "The Tree of Knowledge of Good and Evil - 0.599 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
           "label": "SeizeJPGs - 0.365 ETH",
@@ -115,28 +115,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/231.GIF",
           "label": "Crypto Liberation - 0.100 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/311.GIF",
-          "label": "MOONSHOT - 0.080 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "7",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.71",
+          "value": "2.49",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.365",
-          "sub": "SeizeJPGs"
+          "value": "0.599",
+          "sub": "The Tree of Knowledg"
         },
         {
           "label": "Floor",
@@ -149,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.71 ETH",
-      "raw": 0.7118,
-      "delta": -2.7077,
-      "delta_fmt": "-79.2%"
+      "value": "2.49 ETH",
+      "raw": 2.4887,
+      "delta": -1.4348,
+      "delta_fmt": "-36.6%"
     },
     {
       "label": "7d Vol",
-      "value": "10.20 ETH",
-      "raw": 10.1999
+      "value": "11.95 ETH",
+      "raw": 11.9518
     },
     {
       "label": "30d Vol",
-      "value": "47.70 ETH",
-      "raw": 47.6951
+      "value": "49.58 ETH",
+      "raw": 49.5817
     },
     {
       "label": "Full Set Bid",
-      "value": "40.0 ETH",
-      "raw": 40.0,
-      "delta": 0.04999999999999716,
-      "delta_fmt": "+0.05 ETH"
+      "value": "42.8 ETH",
+      "raw": 42.76,
+      "delta": 2.759999999999998,
+      "delta_fmt": "+2.76 ETH"
     },
     {
       "label": "Network TDH",
@@ -178,8 +173,10 @@
     },
     {
       "label": "#1 AEZY",
-      "value": "49.3M TDH",
-      "raw": 49256416
+      "value": "52.1M TDH",
+      "raw": 52116468,
+      "delta": 2860052,
+      "delta_fmt": "+2.9M TDH"
     },
     {
       "label": "#1 6529er",
@@ -229,8 +226,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
-    "CARD #492: 136 MINTS (EXCL. MUSEUM) | 92 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: JAMESANDREW (139 MSGS) | JASONOPHOTO (83) | ZIGMARILLION (81)",
-    "DIVE BAR: 350 MSGS IN LAST 6H"
+    "DIVE BAR: 343 MSGS IN LAST 6H",
+    "CARD #492: 144 MINTS (EXCL. MUSEUM) | 95 HOLDERS | PURSUIT OF VOLATILITY",
+    "ACTIVE TODAY: JAMESANDREW (141 MSGS) | SHERIE_MARGARET (74) | ZIGMARILLION (67)"
   ]
 }
