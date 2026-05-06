@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T22:13:39.052613+00:00",
+  "generated_at": "2026-05-06T23:09:00.454851+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Pursuit of Volatility\" by Strauss \u2014 61.2M TDH from 96 voters. Top supporter: Giopetto (7.0M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Pursuit of Volatility\" by Strauss \u2014 61.2M TDH from 96 voters. Top supporter: Giopetto (7.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "AEZY Leads with 52.4M Projected TDH",
-      "summary": "\"EMERGENT\" by AEZY (52.4M projected TDH, 76 voters) | \"Network State of Mind\" by Zigmarillion (37.8M projected TDH, 82 voters) | \"Permissionless Crossing\" by kristopher (30.7M projected TDH, 79 voters) Next selection: Fri May 08 at 17:00 CET.",
+      "summary": "\"EMERGENT\" by AEZY (52.4M projected TDH, 77 voters) | \"Network State of Mind\" by Zigmarillion (37.8M projected TDH, 83 voters) | \"Permissionless Crossing\" by kristopher (30.7M projected TDH, 79 voters) Next selection: Fri May 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,12 +43,12 @@
         {
           "label": "AEZY",
           "value": "52.4M",
-          "sub": "proj. (76 votes)"
+          "sub": "proj. (77 votes)"
         },
         {
           "label": "Zigmarillion",
           "value": "37.8M",
-          "sub": "proj. (82 votes)"
+          "sub": "proj. (83 votes)"
         },
         {
           "label": "kristopher",
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: grubnot (2.6M) | Sert (2.6M) | MintFace (807K).",
+      "summary": "3 submissions this week. Ranking: grubnot (2.6M) | Sert (2.5M) | MintFace (807K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -146,8 +146,8 @@
       "label": "24h Vol",
       "value": "2.69 ETH",
       "raw": 2.6935,
-      "delta": -0.6449000000000003,
-      "delta_fmt": "-19.3%"
+      "delta": -0.6263000000000001,
+      "delta_fmt": "-18.9%"
     },
     {
       "label": "7d Vol",
@@ -161,10 +161,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "43.0 ETH",
-      "raw": 43.01,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "value": "43.5 ETH",
+      "raw": 43.46,
+      "delta": 0.45000000000000284,
+      "delta_fmt": "+0.45 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,9 @@
     {
       "label": "#1 AEZY",
       "value": "52.4M TDH",
-      "raw": 52381758,
-      "delta": 265290,
-      "delta_fmt": "+0.3M TDH"
+      "raw": 52383836,
+      "delta": 2078,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 6529er",
@@ -226,8 +226,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
-    "CARD #492: 145 MINTS (EXCL. MUSEUM) | 96 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: JAMESANDREW (187 MSGS) | WALASAVAGEPHOTO (123) | ZIGMARILLION (90)",
-    "DIVE BAR: 616 MSGS IN LAST 6H"
+    "DIVE BAR: 609 MSGS IN LAST 6H",
+    "CARD #492: 146 MINTS (EXCL. MUSEUM) | 97 HOLDERS | PURSUIT OF VOLATILITY",
+    "ACTIVE TODAY: JAMESANDREW (192 MSGS) | WALASAVAGEPHOTO (123) | ZIGMARILLION (97)"
   ]
 }
