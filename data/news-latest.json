@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T23:33:08.888813+00:00",
+  "generated_at": "2026-05-06T01:17:29.876721+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "6529er Leads with 127.7M Projected TDH",
-      "summary": "\"Keys and Gates\" by 6529er (127.7M projected TDH, 123 voters) | \"EMERGENT\" by AEZY (45.0M projected TDH, 67 voters) | \"Network State of Mind\" by Zigmarillion (34.8M projected TDH, 73 voters) Next selection: Wed May 06 at 17:00 CET.",
+      "headline": "6529er Leads with 128.8M Projected TDH",
+      "summary": "\"Keys and Gates\" by 6529er (128.8M projected TDH, 123 voters) | \"EMERGENT\" by AEZY (45.0M projected TDH, 67 voters) | \"Network State of Mind\" by Zigmarillion (34.8M projected TDH, 73 voters) Next selection: Wed May 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "6529er",
-          "value": "127.7M",
+          "value": "128.8M",
           "sub": "proj. (123 votes)"
         },
         {
@@ -71,13 +71,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -148,25 +148,29 @@
     },
     {
       "label": "30d Vol",
-      "value": "62.62 ETH",
-      "raw": 62.6205
+      "value": "47.49 ETH",
+      "raw": 47.4882
     },
     {
       "label": "Full Set Bid",
-      "value": "43.0 ETH",
-      "raw": 43.04,
-      "delta": 0.14000000000000057,
-      "delta_fmt": "+0.14 ETH"
+      "value": "43.2 ETH",
+      "raw": 43.25,
+      "delta": 0.21000000000000085,
+      "delta_fmt": "+0.21 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1576.4M",
-      "raw": 1576428256
+      "value": "1579.0M",
+      "raw": 1578996111,
+      "delta": 2567855,
+      "delta_fmt": "+2.6M TDH"
     },
     {
       "label": "#1 6529er",
-      "value": "127.7M TDH",
-      "raw": 127690714
+      "value": "128.8M TDH",
+      "raw": 128782174,
+      "delta": 1091460,
+      "delta_fmt": "+1.1M TDH"
     },
     {
       "label": "#1 Strauss",
@@ -210,8 +214,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
     "SGT PEPE SALE: 1.430 ETH",
+    "DIVE BAR: 187 MSGS IN LAST 6H",
     "CARD #491: 154 MINTS (EXCL. MUSEUM) | 101 HOLDERS | JUST CULTURE",
-    "ACTIVE TODAY: JAMESANDREW (101 MSGS) | JASONOPHOTO (86) | ONLYMEMES (81)",
-    "DIVE BAR: 177 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (114 MSGS) | JASONOPHOTO (86) | ONLYMEMES (65)"
   ]
 }
