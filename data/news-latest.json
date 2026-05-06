@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T21:20:57.902659+00:00",
+  "generated_at": "2026-05-06T22:13:39.052613+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "AEZY Leads with 52.1M Projected TDH",
-      "summary": "\"EMERGENT\" by AEZY (52.1M projected TDH, 75 voters) | \"Network State of Mind\" by Zigmarillion (37.7M projected TDH, 82 voters) | \"Permissionless Crossing\" by kristopher (30.7M projected TDH, 79 voters) Next selection: Fri May 08 at 17:00 CET.",
+      "headline": "AEZY Leads with 52.4M Projected TDH",
+      "summary": "\"EMERGENT\" by AEZY (52.4M projected TDH, 76 voters) | \"Network State of Mind\" by Zigmarillion (37.8M projected TDH, 82 voters) | \"Permissionless Crossing\" by kristopher (30.7M projected TDH, 79 voters) Next selection: Fri May 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,12 +42,12 @@
       "dataBoxes": [
         {
           "label": "AEZY",
-          "value": "52.1M",
-          "sub": "proj. (75 votes)"
+          "value": "52.4M",
+          "sub": "proj. (76 votes)"
         },
         {
           "label": "Zigmarillion",
-          "value": "37.7M",
+          "value": "37.8M",
           "sub": "proj. (82 votes)"
         },
         {
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
@@ -162,9 +162,9 @@
     {
       "label": "Full Set Bid",
       "value": "43.0 ETH",
-      "raw": 42.99,
-      "delta": 0.23000000000000398,
-      "delta_fmt": "+0.23 ETH"
+      "raw": 43.01,
+      "delta": 0.01999999999999602,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,8 +173,10 @@
     },
     {
       "label": "#1 AEZY",
-      "value": "52.1M TDH",
-      "raw": 52116468
+      "value": "52.4M TDH",
+      "raw": 52381758,
+      "delta": 265290,
+      "delta_fmt": "+0.3M TDH"
     },
     {
       "label": "#1 6529er",
@@ -224,8 +226,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
+    "DIVE BAR: 626 MSGS IN LAST 6H",
     "CARD #492: 145 MINTS (EXCL. MUSEUM) | 96 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: JAMESANDREW (176 MSGS) | WALASAVAGEPHOTO (115) | ZIGMARILLION (78)",
-    "DIVE BAR: 625 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (187 MSGS) | WALASAVAGEPHOTO (123) | ZIGMARILLION (90)"
   ]
 }
