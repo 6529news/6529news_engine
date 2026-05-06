@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T12:06:28.563290+00:00",
+  "generated_at": "2026-05-06T14:46:54.273562+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_1c914f7f-fae0-4314-8792-84fe956acea0/0450d053-06e1-4a69-9fe8-ca99554942c6.gif",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/492.GIF",
         "label": "Pursuit of Volatility - Strauss",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "6529er Leads with 132.5M Projected TDH",
-      "summary": "\"Keys and Gates\" by 6529er (132.5M projected TDH, 127 voters) | \"EMERGENT\" by AEZY (45.0M projected TDH, 67 voters) | \"Network State of Mind\" by Zigmarillion (34.8M projected TDH, 74 voters) Next selection: Wed May 06 at 17:00 CET.",
+      "summary": "\"Keys and Gates\" by 6529er (132.5M projected TDH, 131 voters) | \"EMERGENT\" by AEZY (45.0M projected TDH, 67 voters) | \"Network State of Mind\" by Zigmarillion (34.8M projected TDH, 74 voters) Next selection: Wed May 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "6529er",
           "value": "132.5M",
-          "sub": "proj. (127 votes)"
+          "sub": "proj. (131 votes)"
         },
         {
           "label": "AEZY",
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 322K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (322K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 3.12 ETH Volume",
-      "summary": "14 sales in 24h for 3.12 ETH. Highest: \"Sgt. Pepe\" at 1.430 ETH.",
+      "headline": "15 Sales Today - 3.16 ETH Volume",
+      "summary": "15 sales in 24h for 3.16 ETH. Highest: \"Sgt. Pepe\" at 1.430 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.12",
+          "value": "3.16",
           "sub": "ETH"
         },
         {
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.12 ETH",
-      "raw": 3.1209,
-      "delta": 1.8445999999999998,
-      "delta_fmt": "+144.5%"
+      "value": "3.16 ETH",
+      "raw": 3.1578,
+      "delta": 1.8103,
+      "delta_fmt": "+134.3%"
     },
     {
       "label": "7d Vol",
-      "value": "10.41 ETH",
-      "raw": 10.4064
+      "value": "10.20 ETH",
+      "raw": 10.1999
     },
     {
       "label": "30d Vol",
-      "value": "47.56 ETH",
-      "raw": 47.5582
+      "value": "47.70 ETH",
+      "raw": 47.6951
     },
     {
       "label": "Full Set Bid",
       "value": "43.3 ETH",
-      "raw": 43.33,
-      "delta": 0.04999999999999716,
-      "delta_fmt": "+0.05 ETH"
+      "raw": 43.31,
+      "delta": -0.01999999999999602,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,8 +166,8 @@
     {
       "label": "#1 6529er",
       "value": "132.5M TDH",
-      "raw": 132535140,
-      "delta": 1064,
+      "raw": 132542922,
+      "delta": 7782,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -212,8 +212,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
     "SGT PEPE SALE: 1.430 ETH",
-    "CARD #491: 154 MINTS (EXCL. MUSEUM) | 101 HOLDERS | JUST CULTURE",
-    "ACTIVE TODAY: JASONOPHOTO (138 MSGS) | JAMESANDREW (116) | WALASAVAGEPHOTO (73)",
-    "DIVE BAR: 409 MSGS IN LAST 6H"
+    "DIVE BAR: 409 MSGS IN LAST 6H",
+    "CARD #492: 115 MINTS (EXCL. MUSEUM) | 83 HOLDERS | PURSUIT OF VOLATILITY",
+    "ACTIVE TODAY: JAMESANDREW (137 MSGS) | JASONOPHOTO (108) | ZIGMARILLION (75)"
   ]
 }
