@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T18:24:53.339692+00:00",
+  "generated_at": "2026-05-07T19:59:35.143805+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "AEZY Leads with 53.8M Projected TDH",
-      "summary": "\"EMERGENT\" by AEZY (53.8M projected TDH, 84 voters) | \"Network State of Mind\" by Zigmarillion (37.9M projected TDH, 84 voters) | \"Permissionless Crossing\" by kristopher (32.7M projected TDH, 84 voters) Next selection: Fri May 08 at 17:00 CET.",
+      "summary": "\"EMERGENT\" by AEZY (53.8M projected TDH, 84 voters) | \"Network State of Mind\" by Zigmarillion (38.3M projected TDH, 84 voters) | \"Permissionless Crossing\" by kristopher (32.7M projected TDH, 84 voters) Next selection: Fri May 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,7 +34,7 @@
         },
         {
           "label": "Zigmarillion",
-          "value": "37.9M",
+          "value": "38.3M",
           "sub": "proj. (84 votes)"
         },
         {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Sherie_Margaret (13.1M) | Sert (2.5M) | TheMeans (834K).",
+      "summary": "3 submissions this week. Ranking: Sherie_Margaret (13.2M) | Sert (2.5M) | TheMeans (834K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -71,15 +71,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 3.23 ETH Volume",
-      "summary": "11 sales in 24h for 3.23 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.600 ETH.",
+      "headline": "6 Sales Today - 1.57 ETH Volume",
+      "summary": "6 sales in 24h for 1.57 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.600 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "6",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.23",
+          "value": "1.57",
           "sub": "ETH"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01615999",
+          "value": "0.016544444",
           "sub": "ETH"
         }
       ]
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.23 ETH",
-      "raw": 3.2326,
-      "delta": 2.5208000000000004,
-      "delta_fmt": "+354.1%"
+      "value": "1.57 ETH",
+      "raw": 1.574,
+      "delta": -0.9147000000000001,
+      "delta_fmt": "-36.8%"
     },
     {
       "label": "7d Vol",
-      "value": "11.42 ETH",
-      "raw": 11.4216
+      "value": "11.70 ETH",
+      "raw": 11.6996
     },
     {
       "label": "30d Vol",
-      "value": "50.14 ETH",
-      "raw": 50.1355
+      "value": "50.41 ETH",
+      "raw": 50.4134
     },
     {
       "label": "Full Set Bid",
       "value": "43.3 ETH",
-      "raw": 43.26,
-      "delta": -0.010000000000005116,
-      "delta_fmt": "-0.01 ETH"
+      "raw": 43.31,
+      "delta": 0.05000000000000426,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,9 @@
     {
       "label": "#1 AEZY",
       "value": "53.8M TDH",
-      "raw": 53773393,
-      "delta": 28,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 53843771,
+      "delta": 70378,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 6529er",
@@ -213,8 +213,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
-    "CARD #492: 152 MINTS (EXCL. MUSEUM) | 102 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: SHERIE_MARGARET (139 MSGS) | JAMESANDREW (126) | ZIGMARILLION (99)",
-    "DIVE BAR: 514 MSGS IN LAST 6H"
+    "DIVE BAR: 483 MSGS IN LAST 6H",
+    "CARD #492: 152 MINTS (EXCL. MUSEUM) | 103 HOLDERS | PURSUIT OF VOLATILITY",
+    "ACTIVE TODAY: JAMESANDREW (126 MSGS) | SHERIE_MARGARET (124) | ZIGMARILLION (111)"
   ]
 }
