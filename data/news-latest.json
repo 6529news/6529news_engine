@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T00:05:46.619384+00:00",
+  "generated_at": "2026-05-07T04:05:43.239306+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "AEZY Leads with 52.4M Projected TDH",
-      "summary": "\"EMERGENT\" by AEZY (52.4M projected TDH, 77 voters) | \"Network State of Mind\" by Zigmarillion (37.8M projected TDH, 83 voters) | \"Permissionless Crossing\" by kristopher (30.7M projected TDH, 79 voters) Next selection: Fri May 08 at 17:00 CET.",
+      "headline": "AEZY Leads with 54.6M Projected TDH",
+      "summary": "\"EMERGENT\" by AEZY (54.6M projected TDH, 80 voters) | \"Network State of Mind\" by Zigmarillion (37.8M projected TDH, 83 voters) | \"Permissionless Crossing\" by kristopher (30.8M projected TDH, 80 voters) Next selection: Fri May 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "AEZY",
-          "value": "52.4M",
-          "sub": "proj. (77 votes)"
+          "value": "54.6M",
+          "sub": "proj. (80 votes)"
         },
         {
           "label": "Zigmarillion",
@@ -52,8 +52,8 @@
         },
         {
           "label": "kristopher",
-          "value": "30.7M",
-          "sub": "proj. (79 votes)"
+          "value": "30.8M",
+          "sub": "proj. (80 votes)"
         }
       ]
     },
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -145,36 +145,40 @@
     {
       "label": "24h Vol",
       "value": "2.69 ETH",
-      "raw": 2.6931,
-      "delta": -0.6267,
+      "raw": 2.6935,
+      "delta": -0.6263000000000001,
       "delta_fmt": "-18.9%"
     },
     {
       "label": "7d Vol",
-      "value": "12.55 ETH",
-      "raw": 12.5499
+      "value": "12.14 ETH",
+      "raw": 12.136
     },
     {
       "label": "30d Vol",
-      "value": "50.17 ETH",
-      "raw": 50.174
+      "value": "49.35 ETH",
+      "raw": 49.3455
     },
     {
       "label": "Full Set Bid",
-      "value": "43.5 ETH",
-      "raw": 43.45,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "43.1 ETH",
+      "raw": 43.11,
+      "delta": -0.3400000000000034,
+      "delta_fmt": "-0.34 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1579.0M",
-      "raw": 1578996111
+      "value": "1581.5M",
+      "raw": 1581542390,
+      "delta": 2546279,
+      "delta_fmt": "+2.5M TDH"
     },
     {
       "label": "#1 AEZY",
-      "value": "52.4M TDH",
-      "raw": 52383836
+      "value": "54.6M TDH",
+      "raw": 54623159,
+      "delta": 2239323,
+      "delta_fmt": "+2.2M TDH"
     },
     {
       "label": "#1 6529er",
@@ -224,8 +228,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
-    "CARD #492: 146 MINTS (EXCL. MUSEUM) | 97 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: JAMESANDREW (185 MSGS) | WALASAVAGEPHOTO (123) | ZIGMARILLION (99)",
-    "DIVE BAR: 102 MSGS IN LAST 6H"
+    "DIVE BAR: 101 MSGS IN LAST 6H",
+    "CARD #492: 150 MINTS (EXCL. MUSEUM) | 100 HOLDERS | PURSUIT OF VOLATILITY",
+    "ACTIVE TODAY: JAMESANDREW (127 MSGS) | ZIGMARILLION (100) | SHERIE_MARGARET (91)"
   ]
 }
