@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T21:11:39.664564+00:00",
+  "generated_at": "2026-05-07T22:16:45.784540+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "AEZY Leads with 53.8M Projected TDH",
-      "summary": "\"EMERGENT\" by AEZY (53.8M projected TDH, 84 voters) | \"Network State of Mind\" by Zigmarillion (38.7M projected TDH, 85 voters) | \"Permissionless Crossing\" by kristopher (34.0M projected TDH, 85 voters) Next selection: Fri May 08 at 17:00 CET.",
+      "summary": "\"EMERGENT\" by AEZY (53.8M projected TDH, 84 voters) | \"Network State of Mind\" by Zigmarillion (38.7M projected TDH, 85 voters) | \"Permissionless Crossing\" by kristopher (34.7M projected TDH, 86 voters) Next selection: Fri May 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,8 +39,8 @@
         },
         {
           "label": "kristopher",
-          "value": "34.0M",
-          "sub": "proj. (85 votes)"
+          "value": "34.7M",
+          "sub": "proj. (86 votes)"
         }
       ]
     },
@@ -66,33 +66,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "6 Sales Today - 1.57 ETH Volume",
-      "summary": "6 sales in 24h for 1.57 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.600 ETH.",
+      "headline": "5 Sales Today - 0.97 ETH Volume",
+      "summary": "5 sales in 24h for 0.97 ETH. Highest: \"Radio 6529\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-        "label": "The Tree of Knowledge of Good and Evil - 0.600 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/292.WEBP",
+        "label": "Radio 6529 - 0.400 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.600 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/292.WEBP",
           "label": "Radio 6529 - 0.400 ETH",
@@ -102,23 +97,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
           "label": "NOT DED - 0.280 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/219.WEBP",
+          "label": "Space War Inscription - 0.184 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "6",
+          "value": "5",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.57",
+          "value": "0.97",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.600",
-          "sub": "The Tree of Knowledg"
+          "value": "0.400",
+          "sub": "Radio 6529"
         },
         {
           "label": "Floor",
@@ -131,10 +131,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.57 ETH",
-      "raw": 1.574,
-      "delta": -1.1194999999999997,
-      "delta_fmt": "-41.6%"
+      "value": "0.97 ETH",
+      "raw": 0.974,
+      "delta": -1.7194999999999998,
+      "delta_fmt": "-63.8%"
     },
     {
       "label": "7d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "43.3 ETH",
-      "raw": 43.33,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "value": "43.4 ETH",
+      "raw": 43.4,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Network TDH",
@@ -211,8 +211,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
+    "DIVE BAR: 493 MSGS IN LAST 6H",
     "CARD #492: 152 MINTS (EXCL. MUSEUM) | 103 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: SHERIE_MARGARET (136 MSGS) | ZIGMARILLION (104) | JAMESANDREW (99)",
-    "DIVE BAR: 534 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SHERIE_MARGARET (136 MSGS) | SENEMSAD (93) | ZIGMARILLION (92)"
   ]
 }
