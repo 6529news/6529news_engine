@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T04:05:43.239306+00:00",
+  "generated_at": "2026-05-07T07:18:06.195028+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -59,8 +59,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: grubnot (2.6M) | Sert (2.5M) | MintFace (807K).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: Sherie_Margaret (6.1M) | grubnot (2.6M) | Sert (2.5M) | MintFace (807K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 322K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (322K)",
         "type": "image"
       }
     },
@@ -161,24 +161,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "43.1 ETH",
-      "raw": 43.11,
-      "delta": -0.3400000000000034,
-      "delta_fmt": "-0.34 ETH"
+      "value": "43.5 ETH",
+      "raw": 43.51,
+      "delta": 0.3999999999999986,
+      "delta_fmt": "+0.40 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1581.5M",
-      "raw": 1581542390,
-      "delta": 2546279,
-      "delta_fmt": "+2.5M TDH"
+      "raw": 1581542390
     },
     {
       "label": "#1 AEZY",
       "value": "54.6M TDH",
-      "raw": 54623159,
-      "delta": 2239323,
-      "delta_fmt": "+2.2M TDH"
+      "raw": 54624694,
+      "delta": 1535,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 6529er",
@@ -228,8 +226,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
+    "DIVE BAR: 135 MSGS IN LAST 6H",
     "CARD #492: 150 MINTS (EXCL. MUSEUM) | 100 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: JAMESANDREW (127 MSGS) | ZIGMARILLION (100) | SHERIE_MARGARET (91)",
-    "DIVE BAR: 130 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (127 MSGS) | ZIGMARILLION (108) | SHERIE_MARGARET (91)"
   ]
 }
