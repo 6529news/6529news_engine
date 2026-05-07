@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T16:50:33.463255+00:00",
+  "generated_at": "2026-05-07T18:24:53.339692+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "AEZY Leads with 53.8M Projected TDH",
-      "summary": "\"EMERGENT\" by AEZY (53.8M projected TDH, 84 voters) | \"Network State of Mind\" by Zigmarillion (37.9M projected TDH, 84 voters) | \"Permissionless Crossing\" by kristopher (30.3M projected TDH, 82 voters) Next selection: Fri May 08 at 17:00 CET.",
+      "summary": "\"EMERGENT\" by AEZY (53.8M projected TDH, 84 voters) | \"Network State of Mind\" by Zigmarillion (37.9M projected TDH, 84 voters) | \"Permissionless Crossing\" by kristopher (32.7M projected TDH, 84 voters) Next selection: Fri May 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,8 +39,8 @@
         },
         {
           "label": "kristopher",
-          "value": "30.3M",
-          "sub": "proj. (82 votes)"
+          "value": "32.7M",
+          "sub": "proj. (84 votes)"
         }
       ]
     },
@@ -78,8 +78,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 3.00 ETH Volume",
-      "summary": "11 sales in 24h for 3.00 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.600 ETH.",
+      "headline": "11 Sales Today - 3.23 ETH Volume",
+      "summary": "11 sales in 24h for 3.23 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.600 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -99,8 +99,8 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.095 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
+          "label": "NOT DED - 0.280 ETH",
           "type": "image"
         }
       ],
@@ -112,7 +112,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "3.00",
+          "value": "3.23",
           "sub": "ETH"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01623999",
+          "value": "0.01615999",
           "sub": "ETH"
         }
       ]
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.00 ETH",
-      "raw": 2.9966,
-      "delta": 2.2847999999999997,
-      "delta_fmt": "+321.0%"
+      "value": "3.23 ETH",
+      "raw": 3.2326,
+      "delta": 2.5208000000000004,
+      "delta_fmt": "+354.1%"
     },
     {
       "label": "7d Vol",
-      "value": "11.91 ETH",
-      "raw": 11.9126
+      "value": "11.42 ETH",
+      "raw": 11.4216
     },
     {
       "label": "30d Vol",
-      "value": "49.86 ETH",
-      "raw": 49.8555
+      "value": "50.14 ETH",
+      "raw": 50.1355
     },
     {
       "label": "Full Set Bid",
       "value": "43.3 ETH",
-      "raw": 43.27,
-      "delta": -0.28999999999999915,
-      "delta_fmt": "-0.29 ETH"
+      "raw": 43.26,
+      "delta": -0.010000000000005116,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,9 @@
     {
       "label": "#1 AEZY",
       "value": "53.8M TDH",
-      "raw": 53773365,
-      "delta": -967885,
-      "delta_fmt": "-1.0M TDH"
+      "raw": 53773393,
+      "delta": 28,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 6529er",
@@ -213,8 +213,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
+    "DIVE BAR: 541 MSGS IN LAST 6H",
     "CARD #492: 152 MINTS (EXCL. MUSEUM) | 102 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: JAMESANDREW (135 MSGS) | SHERIE_MARGARET (134) | ZIGMARILLION (107)",
-    "DIVE BAR: 485 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SHERIE_MARGARET (139 MSGS) | JAMESANDREW (126) | ZIGMARILLION (99)"
   ]
 }
