@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T23:09:00.454851+00:00",
+  "generated_at": "2026-05-07T00:05:46.619384+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
@@ -145,26 +145,26 @@
     {
       "label": "24h Vol",
       "value": "2.69 ETH",
-      "raw": 2.6935,
-      "delta": -0.6263000000000001,
+      "raw": 2.6931,
+      "delta": -0.6267,
       "delta_fmt": "-18.9%"
     },
     {
       "label": "7d Vol",
       "value": "12.55 ETH",
-      "raw": 12.5518
+      "raw": 12.5499
     },
     {
       "label": "30d Vol",
-      "value": "50.18 ETH",
-      "raw": 50.1817
+      "value": "50.17 ETH",
+      "raw": 50.174
     },
     {
       "label": "Full Set Bid",
       "value": "43.5 ETH",
-      "raw": 43.46,
-      "delta": 0.45000000000000284,
-      "delta_fmt": "+0.45 ETH"
+      "raw": 43.45,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 AEZY",
       "value": "52.4M TDH",
-      "raw": 52383836,
-      "delta": 2078,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 52383836
     },
     {
       "label": "#1 6529er",
@@ -226,8 +224,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
+    "DIVE BAR: 589 MSGS IN LAST 6H",
     "CARD #492: 146 MINTS (EXCL. MUSEUM) | 97 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: JAMESANDREW (192 MSGS) | WALASAVAGEPHOTO (123) | ZIGMARILLION (97)",
-    "DIVE BAR: 590 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (185 MSGS) | WALASAVAGEPHOTO (123) | ZIGMARILLION (99)"
   ]
 }
