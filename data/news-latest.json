@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T12:53:11.974018+00:00",
+  "generated_at": "2026-05-08T14:51:54.711322+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -78,21 +78,16 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 1.70 ETH Volume",
-      "summary": "16 sales in 24h for 1.70 ETH. Highest: \"Radio 6529\" at 0.400 ETH.",
+      "headline": "15 Sales Today - 1.29 ETH Volume",
+      "summary": "15 sales in 24h for 1.29 ETH. Highest: \"NOT DED\" at 0.280 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/292.WEBP",
-        "label": "Radio 6529 - 0.400 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
+        "label": "NOT DED - 0.280 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/292.WEBP",
-          "label": "Radio 6529 - 0.400 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
           "label": "NOT DED - 0.280 ETH",
@@ -102,23 +97,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
           "label": "SeizeJPGs - 0.231 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/219.WEBP",
+          "label": "Space War Inscription - 0.184 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.70",
+          "value": "1.29",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.400",
-          "sub": "Radio 6529"
+          "value": "0.280",
+          "sub": "NOT DED"
         },
         {
           "label": "Floor",
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.70 ETH",
-      "raw": 1.7021,
-      "delta": -0.9214,
-      "delta_fmt": "-35.1%"
+      "value": "1.29 ETH",
+      "raw": 1.2871,
+      "delta": -1.2945,
+      "delta_fmt": "-50.1%"
     },
     {
       "label": "7d Vol",
-      "value": "11.25 ETH",
-      "raw": 11.2482
+      "value": "11.33 ETH",
+      "raw": 11.3282
     },
     {
       "label": "30d Vol",
-      "value": "50.09 ETH",
-      "raw": 50.0868
+      "value": "50.17 ETH",
+      "raw": 50.1668
     },
     {
       "label": "Full Set Bid",
-      "value": "42.8 ETH",
-      "raw": 42.81,
-      "delta": -0.22999999999999687,
-      "delta_fmt": "-0.23 ETH"
+      "value": "43.1 ETH",
+      "raw": 43.09,
+      "delta": 0.28000000000000114,
+      "delta_fmt": "+0.28 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 AEZY",
       "value": "57.4M TDH",
-      "raw": 57404678,
-      "delta": 1483,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 57404678
     },
     {
       "label": "#1 6529er",
@@ -213,8 +211,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
-    "CARD #493: 138 MINTS (EXCL. MUSEUM) | 105 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: SENEMSAD (143 MSGS) | JAMESANDREW (112) | MAYBE (111)",
-    "DIVE BAR: 503 MSGS IN LAST 6H"
+    "DIVE BAR: 485 MSGS IN LAST 6H",
+    "CARD #493: 146 MINTS (EXCL. MUSEUM) | 113 HOLDERS | KEYS AND GATES",
+    "ACTIVE TODAY: MAYBE (124 MSGS) | SENEMSAD (123) | SHERIE_MARGARET (101)"
   ]
 }
