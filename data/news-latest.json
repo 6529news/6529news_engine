@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T11:15:30.522624+00:00",
+  "generated_at": "2026-05-08T12:53:11.974018+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f82d54d-87b4-11ee-9d82-029a0e4b6159/30fc94f8-96a7-4a88-be49-2443eb117dbe/Keys-and-Gates.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/493.JPG",
         "label": "Keys and Gates - 6529er",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "AEZY Leads with 57.4M Projected TDH",
-      "summary": "\"EMERGENT\" by AEZY (57.4M projected TDH, 87 voters) | \"Permissionless Crossing\" by kristopher (41.4M projected TDH, 91 voters) | \"Network State of Mind\" by Zigmarillion (39.9M projected TDH, 86 voters) Next selection: Fri May 08 at 17:00 CET.",
+      "summary": "\"EMERGENT\" by AEZY (57.4M projected TDH, 87 voters) | \"Permissionless Crossing\" by kristopher (41.4M projected TDH, 92 voters) | \"Network State of Mind\" by Zigmarillion (39.9M projected TDH, 86 voters) Next selection: Fri May 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "kristopher",
           "value": "41.4M",
-          "sub": "proj. (91 votes)"
+          "sub": "proj. (92 votes)"
         },
         {
           "label": "Zigmarillion",
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -138,8 +138,8 @@
     },
     {
       "label": "7d Vol",
-      "value": "12.27 ETH",
-      "raw": 12.265
+      "value": "11.25 ETH",
+      "raw": 11.2482
     },
     {
       "label": "30d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "43.0 ETH",
-      "raw": 43.04,
-      "delta": 13.25,
-      "delta_fmt": "+13.25 ETH"
+      "value": "42.8 ETH",
+      "raw": 42.81,
+      "delta": -0.22999999999999687,
+      "delta_fmt": "-0.23 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,7 +161,9 @@
     {
       "label": "#1 AEZY",
       "value": "57.4M TDH",
-      "raw": 57403195
+      "raw": 57404678,
+      "delta": 1483,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 6529er",
@@ -211,8 +213,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
-    "CARD #492: 152 MINTS (EXCL. MUSEUM) | 103 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: SENEMSAD (141 MSGS) | SHERIE_MARGARET (110) | JAMESANDREW (104)",
-    "DIVE BAR: 495 MSGS IN LAST 6H"
+    "DIVE BAR: 473 MSGS IN LAST 6H",
+    "CARD #493: 138 MINTS (EXCL. MUSEUM) | 105 HOLDERS | KEYS AND GATES",
+    "ACTIVE TODAY: SENEMSAD (143 MSGS) | JAMESANDREW (112) | MAYBE (111)"
   ]
 }
