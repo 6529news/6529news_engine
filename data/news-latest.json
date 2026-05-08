@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T23:27:18.493392+00:00",
+  "generated_at": "2026-05-08T01:18:38.755742+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "AEZY Leads with 53.8M Projected TDH",
-      "summary": "\"EMERGENT\" by AEZY (53.8M projected TDH, 84 voters) | \"Network State of Mind\" by Zigmarillion (38.7M projected TDH, 85 voters) | \"Permissionless Crossing\" by kristopher (34.7M projected TDH, 86 voters) Next selection: Fri May 08 at 17:00 CET.",
+      "headline": "AEZY Leads with 53.9M Projected TDH",
+      "summary": "\"EMERGENT\" by AEZY (53.9M projected TDH, 84 voters) | \"Network State of Mind\" by Zigmarillion (38.7M projected TDH, 85 voters) | \"Permissionless Crossing\" by kristopher (34.7M projected TDH, 86 voters) Next selection: Fri May 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "AEZY",
-          "value": "53.8M",
+          "value": "53.9M",
           "sub": "proj. (84 votes)"
         },
         {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Sherie_Margaret (13.2M) | Sert (2.5M) | TheMeans (834K).",
+      "summary": "3 submissions this week. Ranking: Sherie_Margaret (13.8M) | Sert (2.5M) | TheMeans (834K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -133,25 +133,25 @@
       "label": "24h Vol",
       "value": "1.45 ETH",
       "raw": 1.4493,
-      "delta": -1.2441999999999998,
+      "delta": -1.2437999999999998,
       "delta_fmt": "-46.2%"
     },
     {
       "label": "7d Vol",
-      "value": "12.17 ETH",
-      "raw": 12.1749
+      "value": "12.10 ETH",
+      "raw": 12.1014
     },
     {
       "label": "30d Vol",
-      "value": "50.89 ETH",
-      "raw": 50.8887
+      "value": "49.83 ETH",
+      "raw": 49.8339
     },
     {
       "label": "Full Set Bid",
-      "value": "43.2 ETH",
-      "raw": 43.21,
-      "delta": -0.18999999999999773,
-      "delta_fmt": "-0.19 ETH"
+      "value": "40.5 ETH",
+      "raw": 40.45,
+      "delta": -2.759999999999998,
+      "delta_fmt": "-2.76 ETH"
     },
     {
       "label": "Network TDH",
@@ -160,8 +160,10 @@
     },
     {
       "label": "#1 AEZY",
-      "value": "53.8M TDH",
-      "raw": 53843771
+      "value": "53.9M TDH",
+      "raw": 53897166,
+      "delta": 53395,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 6529er",
@@ -211,8 +213,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
+    "DIVE BAR: 295 MSGS IN LAST 6H",
     "CARD #492: 152 MINTS (EXCL. MUSEUM) | 103 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: SHERIE_MARGARET (118 MSGS) | SENEMSAD (94) | ZIGMARILLION (90)",
-    "DIVE BAR: 401 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SHERIE_MARGARET (117 MSGS) | SENEMSAD (94) | ZIGMARILLION (88)"
   ]
 }
