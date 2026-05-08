@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T17:26:44.331577+00:00",
+  "generated_at": "2026-05-08T17:44:52.376241+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 149K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (149K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -146,8 +146,8 @@
       "label": "24h Vol",
       "value": "2.34 ETH",
       "raw": 2.3391,
-      "delta": -0.6574999999999998,
-      "delta_fmt": "-21.9%"
+      "delta": -0.8935,
+      "delta_fmt": "-27.6%"
     },
     {
       "label": "7d Vol",
@@ -161,10 +161,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "43.2 ETH",
-      "raw": 43.17,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "value": "42.9 ETH",
+      "raw": 42.87,
+      "delta": -0.30000000000000426,
+      "delta_fmt": "-0.30 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 kristopher",
       "value": "48.8M TDH",
-      "raw": 48823191,
-      "delta": 79878,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 48823191
     },
     {
       "label": "#1 AEZY",
@@ -231,8 +229,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
-    "DIVE BAR: 431 MSGS IN LAST 6H",
-    "CARD #493: 211 MINTS (EXCL. MUSEUM) | 166 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: MAYBE (117 MSGS) | SENEMSAD (104) | SHERIE_MARGARET (89)"
+    "DIVE BAR: 368 MSGS IN LAST 6H",
+    "CARD #493: 218 MINTS (EXCL. MUSEUM) | 167 HOLDERS | KEYS AND GATES",
+    "ACTIVE TODAY: MAYBE (115 MSGS) | SENEMSAD (94) | SHERIE_MARGARET (89)"
   ]
 }
