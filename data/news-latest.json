@@ -95,6 +95,18 @@
       }
     },
     {
+      "category": "6529 TALKS",
+      "headline": "punk6529 Active in maybe's dive bar",
+      "summary": "Active in maybe's dive bar.",
+      "source": "maybe's dive bar",
+      "link": "https://6529.io/punk6529",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
+        "label": "punk6529"
+      },
+      "dataBoxes": null
+    },
+    {
       "category": "SALES RECAP",
       "headline": "38 Sales Today - 3.46 ETH Volume",
       "summary": "38 sales in 24h for 3.46 ETH. Highest: \"NOT DED\" at 0.350 ETH. Sweep detected: 1 card(s) with 10+ sales in 1h.",
@@ -240,10 +252,10 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
+    "PUNK6529: 4 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "SWEEP ALERT: CARD #493 - 13 SALES IN LAST HOUR",
-    "DIVE BAR: 589 MSGS IN LAST 6H",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 205 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: SHERIE_MARGARET (141 MSGS) | MAYBE (132) | SENEMSAD (118)"
+    "ACTIVE TODAY: SHERIE_MARGARET (141 MSGS) | MAYBE (132) | SENEMSAD (118)",
+    "DIVE BAR: 590 MSGS IN LAST 6H"
   ]
 }
