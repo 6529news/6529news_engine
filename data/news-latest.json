@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T18:58:46.524068+00:00",
+  "generated_at": "2026-05-08T20:11:38.641195+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "kristopher Leads with 47.9M Projected TDH",
-      "summary": "\"Permissionless Crossing\" by kristopher (47.9M projected TDH, 94 voters) | \"WAGMI Ululation\" by Sherie_Margaret (43.6M projected TDH, 48 voters) | \"Network State of Mind\" by Zigmarillion (43.4M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
+      "summary": "\"Permissionless Crossing\" by kristopher (47.9M projected TDH, 94 voters) | \"WAGMI Ululation\" by Sherie_Margaret (43.7M projected TDH, 50 voters) | \"Network State of Mind\" by Zigmarillion (43.4M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "Sherie_Margaret",
-          "value": "43.6M",
-          "sub": "proj. (48 votes)"
+          "value": "43.7M",
+          "sub": "proj. (50 votes)"
         },
         {
           "label": "Zigmarillion",
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 2.36 ETH Volume",
-      "summary": "21 sales in 24h for 2.36 ETH. Highest: \"NOT DED\" at 0.350 ETH.",
+      "headline": "28 Sales Today - 2.51 ETH Volume",
+      "summary": "28 sales in 24h for 2.51 ETH. Highest: \"NOT DED\" at 0.350 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "28",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.36",
+          "value": "2.51",
           "sub": "ETH"
         },
         {
@@ -135,7 +135,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0167",
+          "value": "0.0169",
           "sub": "ETH"
         }
       ]
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.36 ETH",
-      "raw": 2.3591,
-      "delta": -0.8734999999999999,
-      "delta_fmt": "-27.0%"
+      "value": "2.51 ETH",
+      "raw": 2.5131,
+      "delta": 0.9391,
+      "delta_fmt": "+59.7%"
     },
     {
       "label": "7d Vol",
-      "value": "12.81 ETH",
-      "raw": 12.8093
+      "value": "12.96 ETH",
+      "raw": 12.9633
     },
     {
       "label": "30d Vol",
-      "value": "51.72 ETH",
-      "raw": 51.7178
+      "value": "51.87 ETH",
+      "raw": 51.8717
     },
     {
       "label": "Full Set Bid",
-      "value": "43.2 ETH",
-      "raw": 43.17,
-      "delta": 0.30000000000000426,
-      "delta_fmt": "+0.30 ETH"
+      "value": "43.3 ETH",
+      "raw": 43.25,
+      "delta": 0.0799999999999983,
+      "delta_fmt": "+0.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 kristopher",
       "value": "47.9M TDH",
-      "raw": 47850101,
-      "delta": -973090,
-      "delta_fmt": "-1.0M TDH"
+      "raw": 47850101
     },
     {
       "label": "#1 AEZY",
@@ -231,8 +229,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
-    "CARD #493: 221 MINTS (EXCL. MUSEUM) | 169 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: SHERIE_MARGARET (124 MSGS) | MAYBE (124) | SENEMSAD (121)",
-    "DIVE BAR: 555 MSGS IN LAST 6H"
+    "DIVE BAR: 533 MSGS IN LAST 6H",
+    "CARD #493: 248 MINTS (EXCL. MUSEUM) | 189 HOLDERS | KEYS AND GATES",
+    "ACTIVE TODAY: SHERIE_MARGARET (130 MSGS) | MAYBE (124) | SENEMSAD (122)"
   ]
 }
