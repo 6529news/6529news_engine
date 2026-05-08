@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T08:08:23.770035+00:00",
+  "generated_at": "2026-05-08T09:53:22.571991+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 322K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (322K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0165",
+          "value": "0.016544444",
           "sub": "ETH"
         }
       ]
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "43.1 ETH",
-      "raw": 43.11,
-      "delta": 1.0600000000000023,
-      "delta_fmt": "+1.06 ETH"
+      "value": "29.8 ETH",
+      "raw": 29.79,
+      "delta": -13.32,
+      "delta_fmt": "-13.32 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,9 @@
     {
       "label": "#1 AEZY",
       "value": "57.4M TDH",
-      "raw": 57402762,
-      "delta": -35159,
-      "delta_fmt": "-0.0M TDH"
+      "raw": 57403195,
+      "delta": 433,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 6529er",
@@ -213,8 +213,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
+    "DIVE BAR: 230 MSGS IN LAST 6H",
     "CARD #492: 152 MINTS (EXCL. MUSEUM) | 103 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: SHERIE_MARGARET (114 MSGS) | SENEMSAD (110) | JAMESANDREW (83)",
-    "DIVE BAR: 229 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SENEMSAD (132 MSGS) | SHERIE_MARGARET (107) | JAMESANDREW (83)"
   ]
 }
