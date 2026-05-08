@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T16:13:41.219891+00:00",
+  "generated_at": "2026-05-08T17:26:44.331577+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "kristopher Leads with 48.7M Projected TDH",
-      "summary": "\"Permissionless Crossing\" by kristopher (48.7M projected TDH, 92 voters) | \"Network State of Mind\" by Zigmarillion (41.8M projected TDH, 88 voters) | \"The Meme Market\" by 1dontknows (18.0M projected TDH, 66 voters) Next selection: Mon May 11 at 17:00 CET.",
+      "headline": "kristopher Leads with 48.8M Projected TDH",
+      "summary": "\"Permissionless Crossing\" by kristopher (48.8M projected TDH, 94 voters) | \"Network State of Mind\" by Zigmarillion (42.1M projected TDH, 88 voters) | \"WAGMI Ululation\" by Sherie_Margaret (27.0M projected TDH, 42 voters) Next selection: Mon May 11 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,25 +42,25 @@
       "dataBoxes": [
         {
           "label": "kristopher",
-          "value": "48.7M",
-          "sub": "proj. (92 votes)"
+          "value": "48.8M",
+          "sub": "proj. (94 votes)"
         },
         {
           "label": "Zigmarillion",
-          "value": "41.8M",
+          "value": "42.1M",
           "sub": "proj. (88 votes)"
         },
         {
-          "label": "1dontknows",
-          "value": "18.0M",
-          "sub": "proj. (66 votes)"
+          "label": "Sherie_Margaret",
+          "value": "27.0M",
+          "sub": "proj. (42 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Sherie_Margaret (14.2M) | Sert (2.5M) | TheMeans (834K).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: Sert (2.5M) | TheMeans (834K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -79,31 +79,31 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 1.27 ETH Volume",
-      "summary": "14 sales in 24h for 1.27 ETH. Highest: \"NOT DED\" at 0.280 ETH.",
+      "headline": "17 Sales Today - 2.34 ETH Volume",
+      "summary": "17 sales in 24h for 2.34 ETH. Highest: \"NOT DED\" at 0.350 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
-        "label": "NOT DED - 0.280 ETH",
+        "label": "NOT DED - 0.350 ETH",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
-          "label": "NOT DED - 0.280 ETH",
+          "label": "NOT DED - 0.350 ETH",
           "type": "image"
         },
         {
@@ -120,17 +120,17 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.27",
+          "value": "2.34",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.280",
+          "value": "0.350",
           "sub": "NOT DED"
         },
         {
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.27 ETH",
-      "raw": 1.2721,
-      "delta": -1.7245,
-      "delta_fmt": "-57.5%"
+      "value": "2.34 ETH",
+      "raw": 2.3391,
+      "delta": -0.6574999999999998,
+      "delta_fmt": "-21.9%"
     },
     {
       "label": "7d Vol",
-      "value": "11.33 ETH",
-      "raw": 11.3282
+      "value": "12.68 ETH",
+      "raw": 12.6752
     },
     {
       "label": "30d Vol",
-      "value": "50.17 ETH",
-      "raw": 50.1668
+      "value": "51.51 ETH",
+      "raw": 51.5138
     },
     {
       "label": "Full Set Bid",
       "value": "43.2 ETH",
-      "raw": 43.19,
-      "delta": 0.09999999999999432,
-      "delta_fmt": "+0.10 ETH"
+      "raw": 43.17,
+      "delta": -0.01999999999999602,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,10 +173,10 @@
     },
     {
       "label": "#1 kristopher",
-      "value": "48.7M TDH",
-      "raw": 48743313,
-      "delta": -4940522,
-      "delta_fmt": "-4.9M TDH"
+      "value": "48.8M TDH",
+      "raw": 48823191,
+      "delta": 79878,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 AEZY",
@@ -231,8 +231,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
-    "CARD #493: 193 MINTS (EXCL. MUSEUM) | 156 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: SENEMSAD (128 MSGS) | MAYBE (113) | SHERIE_MARGARET (96)",
-    "DIVE BAR: 476 MSGS IN LAST 6H"
+    "DIVE BAR: 431 MSGS IN LAST 6H",
+    "CARD #493: 211 MINTS (EXCL. MUSEUM) | 166 HOLDERS | KEYS AND GATES",
+    "ACTIVE TODAY: MAYBE (117 MSGS) | SENEMSAD (104) | SHERIE_MARGARET (89)"
   ]
 }
