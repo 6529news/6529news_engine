@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T22:30:33.662656+00:00",
+  "generated_at": "2026-05-08T23:31:45.192152+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Keys and Gates\" by 6529er \u2014 132.5M TDH from 132 voters. Top supporter: Poseidon (12.7M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Keys and Gates\" by 6529er \u2014 132.5M TDH from 132 voters. Top supporter: Poseidon (12.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -84,14 +84,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 5K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (5K)",
+        "type": "video"
       }
     },
     {
@@ -108,8 +108,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "35 Sales Today - 3.31 ETH Volume",
-      "summary": "35 sales in 24h for 3.31 ETH. Highest: \"NOT DED\" at 0.350 ETH.",
+      "headline": "37 Sales Today - 3.29 ETH Volume",
+      "summary": "37 sales in 24h for 3.29 ETH. Highest: \"NOT DED\" at 0.350 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -124,25 +124,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.231 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/430.WEBP",
+          "label": "Flipped - 0.150 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/430.WEBP",
-          "label": "Flipped - 0.150 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/429.WEBP",
+          "label": "DERIVATIVE! - 0.139 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "35",
+          "value": "37",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.31",
+          "value": "3.29",
           "sub": "ETH"
         },
         {
@@ -161,27 +161,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.31 ETH",
-      "raw": 3.3075,
-      "delta": 2.3335,
-      "delta_fmt": "+239.6%"
+      "value": "3.29 ETH",
+      "raw": 3.2895,
+      "delta": 1.8401999999999998,
+      "delta_fmt": "+127.0%"
     },
     {
       "label": "7d Vol",
-      "value": "14.00 ETH",
-      "raw": 14.002
+      "value": "14.21 ETH",
+      "raw": 14.215
     },
     {
       "label": "30d Vol",
-      "value": "52.91 ETH",
-      "raw": 52.9104
+      "value": "53.12 ETH",
+      "raw": 53.1234
     },
     {
       "label": "Full Set Bid",
       "value": "43.0 ETH",
-      "raw": 43.01,
-      "delta": -0.45000000000000284,
-      "delta_fmt": "-0.45 ETH"
+      "raw": 42.97,
+      "delta": -0.03999999999999915,
+      "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -191,9 +191,9 @@
     {
       "label": "#1 kristopher",
       "value": "48.7M TDH",
-      "raw": 48650655,
-      "delta": 800554,
-      "delta_fmt": "+0.8M TDH"
+      "raw": 48650530,
+      "delta": -125,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 Sherie_Margaret",
@@ -254,9 +254,9 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529: 8 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "PUNK6529: 11 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 840 MSGS IN LAST 6H",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 205 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: SHERIE_MARGARET (155 MSGS) | MAYBE (144) | SENEMSAD (118)",
-    "DIVE BAR: 806 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (163 MSGS) | SHERIE_MARGARET (163) | SENEMSAD (117)"
   ]
 }
