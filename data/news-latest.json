@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T09:53:22.571991+00:00",
+  "generated_at": "2026-05-08T11:15:30.522624+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
-      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K)",
+      "headline": "#8 Bicasso \u2014 0 TDH",
+      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 1.63 ETH Volume",
-      "summary": "14 sales in 24h for 1.63 ETH. Highest: \"Radio 6529\" at 0.400 ETH.",
+      "headline": "16 Sales Today - 1.70 ETH Volume",
+      "summary": "16 sales in 24h for 1.70 ETH. Highest: \"Radio 6529\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.63",
+          "value": "1.70",
           "sub": "ETH"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016544444",
+          "value": "0.0167",
           "sub": "ETH"
         }
       ]
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.63 ETH",
-      "raw": 1.6256,
-      "delta": -1.0678999999999998,
-      "delta_fmt": "-39.6%"
+      "value": "1.70 ETH",
+      "raw": 1.7021,
+      "delta": -0.9214,
+      "delta_fmt": "-35.1%"
     },
     {
       "label": "7d Vol",
-      "value": "12.19 ETH",
-      "raw": 12.1885
+      "value": "12.27 ETH",
+      "raw": 12.265
     },
     {
       "label": "30d Vol",
-      "value": "50.01 ETH",
-      "raw": 50.0102
+      "value": "50.09 ETH",
+      "raw": 50.0868
     },
     {
       "label": "Full Set Bid",
-      "value": "29.8 ETH",
-      "raw": 29.79,
-      "delta": -13.32,
-      "delta_fmt": "-13.32 ETH"
+      "value": "43.0 ETH",
+      "raw": 43.04,
+      "delta": 13.25,
+      "delta_fmt": "+13.25 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 AEZY",
       "value": "57.4M TDH",
-      "raw": 57403195,
-      "delta": 433,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 57403195
     },
     {
       "label": "#1 6529er",
@@ -213,8 +211,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 04)",
+    "DIVE BAR: 344 MSGS IN LAST 6H",
     "CARD #492: 152 MINTS (EXCL. MUSEUM) | 103 HOLDERS | PURSUIT OF VOLATILITY",
-    "ACTIVE TODAY: SENEMSAD (132 MSGS) | SHERIE_MARGARET (107) | JAMESANDREW (83)",
-    "DIVE BAR: 314 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SENEMSAD (141 MSGS) | SHERIE_MARGARET (110) | JAMESANDREW (104)"
   ]
 }
