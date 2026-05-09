@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T10:05:08.863649+00:00",
+  "generated_at": "2026-05-09T11:12:13.621281+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "kristopher Leads with 49.4M Projected TDH",
-      "summary": "\"Permissionless Crossing\" by kristopher (49.4M projected TDH, 96 voters) | \"WAGMI Ululation\" by Sherie_Margaret (48.9M projected TDH, 59 voters) | \"Network State of Mind\" by Zigmarillion (43.4M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
+      "headline": "kristopher Leads with 55.3M Projected TDH",
+      "summary": "\"Permissionless Crossing\" by kristopher (55.3M projected TDH, 96 voters) | \"WAGMI Ululation\" by Sherie_Margaret (48.9M projected TDH, 59 voters) | \"Network State of Mind\" by Zigmarillion (43.4M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "kristopher",
-          "value": "49.4M",
+          "value": "55.3M",
           "sub": "proj. (96 votes)"
         },
         {
@@ -59,19 +59,19 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Zar (6.1M) | Sert (2.5M) | senemsad (1.8M) | TheMeans (834K).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: Zar (6.1M) | senemsad (2.0M) | TheMeans (834K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7f9896b7-ff52-4eec-bb5e-12a5e5bd3370/2219dcde-1349-4f53-87e5-6247f7bd996a/final.jpg",
-        "label": "senemsad (1.8M)",
+        "label": "senemsad (2.0M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7f9896b7-ff52-4eec-bb5e-12a5e5bd3370/2219dcde-1349-4f53-87e5-6247f7bd996a/final.jpg",
-          "label": "senemsad (1.8M)",
+          "label": "senemsad (2.0M)",
           "type": "image"
         },
         {
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "41 Sales Today - 3.60 ETH Volume",
-      "summary": "41 sales in 24h for 3.60 ETH. Highest: \"NOT DED\" at 0.350 ETH.",
+      "headline": "42 Sales Today - 3.68 ETH Volume",
+      "summary": "42 sales in 24h for 3.68 ETH. Highest: \"NOT DED\" at 0.350 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "41",
+          "value": "42",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.60",
+          "value": "3.68",
           "sub": "ETH"
         },
         {
@@ -149,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.60 ETH",
-      "raw": 3.602,
-      "delta": 1.9764,
-      "delta_fmt": "+121.6%"
+      "value": "3.68 ETH",
+      "raw": 3.676,
+      "delta": 1.9739000000000002,
+      "delta_fmt": "+116.0%"
     },
     {
       "label": "7d Vol",
-      "value": "14.56 ETH",
-      "raw": 14.5567
+      "value": "14.63 ETH",
+      "raw": 14.6307
     },
     {
       "label": "30d Vol",
-      "value": "53.01 ETH",
-      "raw": 53.0123
+      "value": "53.09 ETH",
+      "raw": 53.0863
     },
     {
       "label": "Full Set Bid",
       "value": "42.7 ETH",
-      "raw": 42.65,
-      "delta": -0.1700000000000017,
-      "delta_fmt": "-0.17 ETH"
+      "raw": 42.69,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -178,8 +178,10 @@
     },
     {
       "label": "#1 kristopher",
-      "value": "49.4M TDH",
-      "raw": 49390159
+      "value": "55.3M TDH",
+      "raw": 55338159,
+      "delta": 5948000,
+      "delta_fmt": "+5.9M TDH"
     },
     {
       "label": "#1 Sherie_Margaret",
@@ -241,8 +243,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 11 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 141 MSGS IN LAST 6H",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 207 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: MAYBE (173 MSGS) | SHERIE_MARGARET (165) | ZIGMARILLION (123)",
-    "DIVE BAR: 131 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (168 MSGS) | SHERIE_MARGARET (157) | ZIGMARILLION (108)"
   ]
 }
