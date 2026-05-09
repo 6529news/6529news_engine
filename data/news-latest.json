@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T23:31:45.192152+00:00",
+  "generated_at": "2026-05-09T01:24:00.103024+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "kristopher Leads with 48.7M Projected TDH",
-      "summary": "\"Permissionless Crossing\" by kristopher (48.7M projected TDH, 95 voters) | \"WAGMI Ululation\" by Sherie_Margaret (48.6M projected TDH, 53 voters) | \"Network State of Mind\" by Zigmarillion (43.4M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
+      "headline": "kristopher Leads with 49.3M Projected TDH",
+      "summary": "\"Permissionless Crossing\" by kristopher (49.3M projected TDH, 95 voters) | \"WAGMI Ululation\" by Sherie_Margaret (48.7M projected TDH, 54 voters) | \"Network State of Mind\" by Zigmarillion (43.4M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "kristopher",
-          "value": "48.7M",
+          "value": "49.3M",
           "sub": "proj. (95 votes)"
         },
         {
           "label": "Sherie_Margaret",
-          "value": "48.6M",
-          "sub": "proj. (53 votes)"
+          "value": "48.7M",
+          "sub": "proj. (54 votes)"
         },
         {
           "label": "Zigmarillion",
@@ -84,32 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 5K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (5K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
+        "type": "image"
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529 Active in maybe's dive bar",
-      "summary": "Active in maybe's dive bar.",
-      "source": "maybe's dive bar",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
-      "headline": "37 Sales Today - 3.29 ETH Volume",
-      "summary": "37 sales in 24h for 3.29 ETH. Highest: \"NOT DED\" at 0.350 ETH.",
+      "headline": "38 Sales Today - 3.36 ETH Volume",
+      "summary": "38 sales in 24h for 3.36 ETH. Highest: \"NOT DED\" at 0.350 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -137,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "37",
+          "value": "38",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.29",
+          "value": "3.36",
           "sub": "ETH"
         },
         {
@@ -161,39 +149,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.29 ETH",
-      "raw": 3.2895,
-      "delta": 1.8401999999999998,
-      "delta_fmt": "+127.0%"
+      "value": "3.36 ETH",
+      "raw": 3.3595,
+      "delta": 1.9102000000000001,
+      "delta_fmt": "+131.8%"
     },
     {
       "label": "7d Vol",
-      "value": "14.21 ETH",
-      "raw": 14.215
+      "value": "14.24 ETH",
+      "raw": 14.239
     },
     {
       "label": "30d Vol",
-      "value": "53.12 ETH",
-      "raw": 53.1234
+      "value": "52.52 ETH",
+      "raw": 52.517
     },
     {
       "label": "Full Set Bid",
-      "value": "43.0 ETH",
-      "raw": 42.97,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "value": "42.7 ETH",
+      "raw": 42.7,
+      "delta": -0.269999999999996,
+      "delta_fmt": "-0.27 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1581.5M",
-      "raw": 1581542390
+      "value": "1586.4M",
+      "raw": 1586367432,
+      "delta": 4825042,
+      "delta_fmt": "+4.8M TDH"
     },
     {
       "label": "#1 kristopher",
-      "value": "48.7M TDH",
-      "raw": 48650530,
-      "delta": -125,
-      "delta_fmt": "-0.0M TDH"
+      "value": "49.3M TDH",
+      "raw": 49269546,
+      "delta": 619016,
+      "delta_fmt": "+0.6M TDH"
     },
     {
       "label": "#1 Sherie_Margaret",
@@ -255,8 +245,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 11 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
-    "CARD #493: 295 MINTS (EXCL. MUSEUM) | 205 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: MAYBE (163 MSGS) | SHERIE_MARGARET (163) | SENEMSAD (117)",
-    "DIVE BAR: 821 MSGS IN LAST 6H"
+    "DIVE BAR: 655 MSGS IN LAST 6H",
+    "CARD #493: 295 MINTS (EXCL. MUSEUM) | 207 HOLDERS | KEYS AND GATES",
+    "ACTIVE TODAY: MAYBE (163 MSGS) | SHERIE_MARGARET (163) | ZIGMARILLION (129)"
   ]
 }
