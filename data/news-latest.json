@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T21:04:05.192011+00:00",
+  "generated_at": "2026-05-09T22:02:22.719969+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -138,8 +138,8 @@
       "label": "24h Vol",
       "value": "2.52 ETH",
       "raw": 2.5245,
-      "delta": -0.9322999999999997,
-      "delta_fmt": "-27.0%"
+      "delta": -0.7829999999999999,
+      "delta_fmt": "-23.7%"
     },
     {
       "label": "7d Vol",
@@ -154,9 +154,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.5 ETH",
-      "raw": 42.5,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "raw": 42.55,
+      "delta": 0.04999999999999716,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,7 +166,9 @@
     {
       "label": "#1 Sherie_Margaret",
       "value": "57.2M TDH",
-      "raw": 57188954
+      "raw": 57189132,
+      "delta": 178,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 kristopher",
@@ -226,8 +228,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 12 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 727 MSGS IN LAST 6H",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 208 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: JAMESANDREW (138 MSGS) | ZIGMARILLION (134) | SHERIE_MARGARET (130)",
-    "DIVE BAR: 727 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (138 MSGS) | ZIGMARILLION (124) | SHERIE_MARGARET (118)"
   ]
 }
