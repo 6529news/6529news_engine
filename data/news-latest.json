@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T23:05:38.969503+00:00",
+  "generated_at": "2026-05-10T00:05:16.781661+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Sherie_Margaret Leads with 57.2M Projected TDH",
-      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (57.2M projected TDH, 65 voters) | \"Permissionless Crossing\" by kristopher (55.8M projected TDH, 99 voters) | \"Network State of Mind\" by Zigmarillion (43.3M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
+      "headline": "Sherie_Margaret Leads with 62.3M Projected TDH",
+      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (62.3M projected TDH, 68 voters) | \"Permissionless Crossing\" by kristopher (56.9M projected TDH, 99 voters) | \"Network State of Mind\" by Zigmarillion (43.3M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,12 +29,12 @@
       "dataBoxes": [
         {
           "label": "Sherie_Margaret",
-          "value": "57.2M",
-          "sub": "proj. (65 votes)"
+          "value": "62.3M",
+          "sub": "proj. (68 votes)"
         },
         {
           "label": "kristopher",
-          "value": "55.8M",
+          "value": "56.9M",
           "sub": "proj. (99 votes)"
         },
         {
@@ -155,20 +155,20 @@
     },
     {
       "label": "7d Vol",
-      "value": "15.63 ETH",
-      "raw": 15.6269
+      "value": "15.34 ETH",
+      "raw": 15.3429
     },
     {
       "label": "30d Vol",
-      "value": "54.68 ETH",
-      "raw": 54.6808
+      "value": "54.28 ETH",
+      "raw": 54.2789
     },
     {
       "label": "Full Set Bid",
       "value": "42.5 ETH",
-      "raw": 42.46,
-      "delta": -0.0899999999999963,
-      "delta_fmt": "-0.09 ETH"
+      "raw": 42.52,
+      "delta": 0.060000000000002274,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Network TDH",
@@ -177,8 +177,10 @@
     },
     {
       "label": "#1 Sherie_Margaret",
-      "value": "57.2M TDH",
-      "raw": 57189132
+      "value": "62.3M TDH",
+      "raw": 62257273,
+      "delta": 5068141,
+      "delta_fmt": "+5.1M TDH"
     },
     {
       "label": "#1 kristopher",
@@ -238,8 +240,8 @@
   ],
   "headline_extras": [
     "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 12 MSGS",
+    "DIVE BAR: 689 MSGS IN LAST 6H",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 208 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: JAMESANDREW (136 MSGS) | ZIGMARILLION (130) | SHERIE_MARGARET (105)",
-    "DIVE BAR: 763 MSGS IN LAST 6H"
+    "ACTIVE TODAY: JAMESANDREW (159 MSGS) | ZIGMARILLION (133) | SHERIE_MARGARET (105)"
   ]
 }
