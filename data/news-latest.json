@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T04:15:15.395584+00:00",
+  "generated_at": "2026-05-10T06:47:28.022401+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Zar (7.1M) | senemsad (3.6M) | TheMeans (834K).",
+      "summary": "3 submissions this week. Ranking: Zar (7.6M) | senemsad (3.6M) | TheMeans (834K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 5K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (5K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "54 Sales Today - 2.27 ETH Volume",
-      "summary": "54 sales in 24h for 2.27 ETH. Highest: \"A Meditation on GM\" at 0.160 ETH.",
+      "headline": "49 Sales Today - 2.17 ETH Volume",
+      "summary": "49 sales in 24h for 2.17 ETH. Highest: \"A Meditation on GM\" at 0.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "54",
+          "value": "49",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.27",
+          "value": "2.17",
           "sub": "ETH"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01697",
+          "value": "0.01693441",
           "sub": "ETH"
         }
       ]
@@ -136,41 +136,35 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.27 ETH",
-      "raw": 2.2661,
-      "delta": -1.1472000000000002,
-      "delta_fmt": "-33.6%"
+      "value": "2.17 ETH",
+      "raw": 2.1735,
+      "delta": -1.3897,
+      "delta_fmt": "-39.0%"
     },
     {
       "label": "7d Vol",
-      "value": "15.60 ETH",
-      "raw": 15.6041
+      "value": "15.51 ETH",
+      "raw": 15.5127
     },
     {
       "label": "30d Vol",
-      "value": "54.54 ETH",
-      "raw": 54.5401
+      "value": "54.67 ETH",
+      "raw": 54.6686
     },
     {
       "label": "Full Set Bid",
       "value": "42.6 ETH",
-      "raw": 42.57,
-      "delta": 0.04999999999999716,
-      "delta_fmt": "+0.05 ETH"
+      "raw": 42.57
     },
     {
       "label": "Network TDH",
       "value": "1588.7M",
-      "raw": 1588705075,
-      "delta": 2337643,
-      "delta_fmt": "+2.3M TDH"
+      "raw": 1588705075
     },
     {
       "label": "#1 Sherie_Margaret",
       "value": "62.4M TDH",
-      "raw": 62375922,
-      "delta": 118649,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 62375922
     },
     {
       "label": "#1 kristopher",
@@ -230,8 +224,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 12 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 244 MSGS IN LAST 6H",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 208 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: WALASAVAGEPHOTO (144 MSGS) | ZIGMARILLION (130) | JAMESANDREW (125)",
-    "DIVE BAR: 386 MSGS IN LAST 6H"
+    "ACTIVE TODAY: WALASAVAGEPHOTO (144 MSGS) | ZIGMARILLION (130) | JAMESANDREW (125)"
   ]
 }
