@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T10:15:12.444288+00:00",
+  "generated_at": "2026-05-10T11:15:16.091534+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Sherie_Margaret Leads with 65.4M Projected TDH",
-      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (65.4M projected TDH, 71 voters) | \"Permissionless Crossing\" by kristopher (63.1M projected TDH, 100 voters) | \"Network State of Mind\" by Zigmarillion (43.3M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
+      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (65.4M projected TDH, 71 voters) | \"Permissionless Crossing\" by kristopher (63.1M projected TDH, 101 voters) | \"Network State of Mind\" by Zigmarillion (43.3M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "kristopher",
           "value": "63.1M",
-          "sub": "proj. (100 votes)"
+          "sub": "proj. (101 votes)"
         },
         {
           "label": "Zigmarillion",
@@ -71,13 +71,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 322K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (322K)",
         "type": "image"
       }
     },
@@ -138,8 +138,8 @@
       "label": "24h Vol",
       "value": "2.00 ETH",
       "raw": 2.001,
-      "delta": -1.601,
-      "delta_fmt": "-44.4%"
+      "delta": -1.6750000000000003,
+      "delta_fmt": "-45.6%"
     },
     {
       "label": "7d Vol",
@@ -154,9 +154,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.5 ETH",
-      "raw": 42.51,
-      "delta": -0.07000000000000028,
-      "delta_fmt": "-0.07 ETH"
+      "raw": 42.53,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -226,8 +226,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 14 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 187 MSGS IN LAST 6H",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 208 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: WALASAVAGEPHOTO (144 MSGS) | ZIGMARILLION (131) | JAMESANDREW (125)",
-    "DIVE BAR: 194 MSGS IN LAST 6H"
+    "ACTIVE TODAY: WALASAVAGEPHOTO (139 MSGS) | ZIGMARILLION (129) | JAMESANDREW (113)"
   ]
 }
