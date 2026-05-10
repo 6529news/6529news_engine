@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T22:05:46.901031+00:00",
+  "generated_at": "2026-05-10T23:09:42.711298+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING MONDAY",
-      "headline": "Minting Monday",
-      "summary": " \"EMERGENT\" by AEZY \u2014 57.4M TDH from 87 voters. Top supporter: gpebbles (12.7M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"EMERGENT\" by AEZY \u2014 57.4M TDH from 87 voters. Top supporter: gpebbles (12.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Sherie_Margaret Leads with 66.6M Projected TDH",
-      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (66.6M projected TDH, 73 voters) | \"Permissionless Crossing\" by kristopher (66.4M projected TDH, 105 voters) | \"Network State of Mind\" by Zigmarillion (43.3M projected TDH, 92 voters) Next selection: Mon May 11 at 17:00 CET.",
+      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (66.6M projected TDH, 73 voters) | \"Permissionless Crossing\" by kristopher (66.5M projected TDH, 105 voters) | \"Network State of Mind\" by Zigmarillion (43.3M projected TDH, 92 voters) Next selection: Mon May 11 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,7 +34,7 @@
         },
         {
           "label": "kristopher",
-          "value": "66.4M",
+          "value": "66.5M",
           "sub": "proj. (105 votes)"
         },
         {
@@ -71,13 +71,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -138,8 +138,8 @@
       "label": "24h Vol",
       "value": "3.54 ETH",
       "raw": 3.5375,
-      "delta": 1.013,
-      "delta_fmt": "+40.1%"
+      "delta": 1.3737,
+      "delta_fmt": "+63.5%"
     },
     {
       "label": "7d Vol",
@@ -154,9 +154,9 @@
     {
       "label": "Full Set Bid",
       "value": "43.1 ETH",
-      "raw": 43.07,
-      "delta": 1.3599999999999994,
-      "delta_fmt": "+1.36 ETH"
+      "raw": 43.09,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -227,8 +227,8 @@
   "headline_extras": [
     "PUNK6529: 15 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "EXIT STRATEGY SALE: 2.600 ETH",
+    "DIVE BAR: 345 MSGS IN LAST 6H",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 208 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: WALASAVAGEPHOTO (137 MSGS) | MAYBE (127) | JAMESANDREW (86)",
-    "DIVE BAR: 351 MSGS IN LAST 6H"
+    "ACTIVE TODAY: WALASAVAGEPHOTO (130 MSGS) | MAYBE (111) | JAMESANDREW (86)"
   ]
 }
