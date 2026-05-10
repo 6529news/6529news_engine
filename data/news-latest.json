@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T11:15:16.091534+00:00",
+  "generated_at": "2026-05-10T12:06:49.134691+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -71,13 +71,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 322K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (322K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -138,8 +138,8 @@
       "label": "24h Vol",
       "value": "2.00 ETH",
       "raw": 2.001,
-      "delta": -1.6750000000000003,
-      "delta_fmt": "-45.6%"
+      "delta": -1.6584000000000003,
+      "delta_fmt": "-45.3%"
     },
     {
       "label": "7d Vol",
@@ -153,10 +153,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.5 ETH",
-      "raw": 42.53,
-      "delta": 0.020000000000003126,
-      "delta_fmt": "+0.02 ETH"
+      "value": "42.6 ETH",
+      "raw": 42.62,
+      "delta": 0.0899999999999963,
+      "delta_fmt": "+0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -226,8 +226,8 @@
   ],
   "headline_extras": [
     "PUNK6529: 14 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 179 MSGS IN LAST 6H",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 208 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: WALASAVAGEPHOTO (139 MSGS) | ZIGMARILLION (129) | JAMESANDREW (113)",
-    "DIVE BAR: 188 MSGS IN LAST 6H"
+    "ACTIVE TODAY: WALASAVAGEPHOTO (142 MSGS) | ZIGMARILLION (129) | JAMESANDREW (113)"
   ]
 }
