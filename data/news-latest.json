@@ -82,18 +82,6 @@
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529 Active in maybe's dive bar",
-      "summary": "Active in maybe's dive bar.",
-      "source": "maybe's dive bar",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
       "headline": "43 Sales Today - 2.16 ETH Volume",
       "summary": "43 sales in 24h for 2.16 ETH. Highest: \"A Meditation on GM\" at 0.160 ETH.",
@@ -239,9 +227,9 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 ACTIVE NOW IN MAYBE'S DIVE BAR WITH 12 MSGS",
-    "DIVE BAR: 689 MSGS IN LAST 6H",
+    "PUNK6529: 12 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 208 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: JAMESANDREW (159 MSGS) | ZIGMARILLION (133) | SHERIE_MARGARET (105)"
+    "ACTIVE TODAY: JAMESANDREW (159 MSGS) | ZIGMARILLION (133) | SHERIE_MARGARET (105)",
+    "DIVE BAR: 510 MSGS IN LAST 6H"
   ]
 }
