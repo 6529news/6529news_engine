@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T06:47:28.022401+00:00",
+  "generated_at": "2026-05-10T08:53:35.251501+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Sherie_Margaret Leads with 62.4M Projected TDH",
-      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (62.4M projected TDH, 69 voters) | \"Permissionless Crossing\" by kristopher (57.0M projected TDH, 100 voters) | \"Network State of Mind\" by Zigmarillion (43.3M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
+      "headline": "Sherie_Margaret Leads with 65.4M Projected TDH",
+      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (65.4M projected TDH, 71 voters) | \"Permissionless Crossing\" by kristopher (56.7M projected TDH, 100 voters) | \"Network State of Mind\" by Zigmarillion (43.3M projected TDH, 90 voters) Next selection: Mon May 11 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,12 +29,12 @@
       "dataBoxes": [
         {
           "label": "Sherie_Margaret",
-          "value": "62.4M",
-          "sub": "proj. (69 votes)"
+          "value": "65.4M",
+          "sub": "proj. (71 votes)"
         },
         {
           "label": "kristopher",
-          "value": "57.0M",
+          "value": "56.7M",
           "sub": "proj. (100 votes)"
         },
         {
@@ -71,15 +71,27 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#7 Gsen \u2014 149K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (149K)",
         "type": "image"
       }
+    },
+    {
+      "category": "6529 TALKS",
+      "headline": "punk6529 Active in maybe's dive bar",
+      "summary": "Active in maybe's dive bar.",
+      "source": "maybe's dive bar",
+      "link": "https://6529.io/punk6529",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
+        "label": "punk6529"
+      },
+      "dataBoxes": null
     },
     {
       "category": "SALES RECAP",
@@ -127,7 +139,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01693441",
+          "value": "0.01685428",
           "sub": "ETH"
         }
       ]
@@ -138,8 +150,8 @@
       "label": "24h Vol",
       "value": "2.17 ETH",
       "raw": 2.1735,
-      "delta": -1.3897,
-      "delta_fmt": "-39.0%"
+      "delta": -1.4549999999999996,
+      "delta_fmt": "-40.1%"
     },
     {
       "label": "7d Vol",
@@ -154,7 +166,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.6 ETH",
-      "raw": 42.57
+      "raw": 42.58,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,8 +177,10 @@
     },
     {
       "label": "#1 Sherie_Margaret",
-      "value": "62.4M TDH",
-      "raw": 62375922
+      "value": "65.4M TDH",
+      "raw": 65377942,
+      "delta": 3002020,
+      "delta_fmt": "+3.0M TDH"
     },
     {
       "label": "#1 kristopher",
@@ -223,9 +239,9 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529: 12 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "PUNK6529: 14 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "DIVE BAR: 169 MSGS IN LAST 6H",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 208 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: WALASAVAGEPHOTO (144 MSGS) | ZIGMARILLION (130) | JAMESANDREW (125)",
-    "DIVE BAR: 245 MSGS IN LAST 6H"
+    "ACTIVE TODAY: WALASAVAGEPHOTO (144 MSGS) | ZIGMARILLION (129) | JAMESANDREW (125)"
   ]
 }
