@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T15:54:24.756465+00:00",
+  "generated_at": "2026-05-10T16:56:27.500039+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -71,71 +71,59 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 5K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (5K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
+        "type": "image"
       }
     },
     {
-      "category": "6529 TALKS",
-      "headline": "punk6529 Active in maybe's dive bar",
-      "summary": "Active in maybe's dive bar.",
-      "source": "maybe's dive bar",
-      "link": "https://6529.io/punk6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
-      },
-      "dataBoxes": null
-    },
-    {
       "category": "SALES RECAP",
-      "headline": "29 Sales Today - 1.24 ETH Volume",
-      "summary": "29 sales in 24h for 1.24 ETH. Highest: \"A Meditation on GM\" at 0.160 ETH.",
+      "headline": "31 Sales Today - 4.07 ETH Volume",
+      "summary": "31 sales in 24h for 4.07 ETH. Highest: \"EXIT STRATEGY\" at 2.600 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/10.WEBP",
-        "label": "A Meditation on GM - 0.160 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/47.GIF",
+        "label": "EXIT STRATEGY - 2.600 ETH",
         "type": "image"
       },
       "images": [
         {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/47.GIF",
+          "label": "EXIT STRATEGY - 2.600 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/428.GIF",
+          "label": "Addicted to Memes - 0.165 ETH",
+          "type": "image"
+        },
+        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/10.WEBP",
           "label": "A Meditation on GM - 0.160 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/186.WEBP",
-          "label": "Freedom To Undress - 0.143 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/168.WEBP",
-          "label": "By Any Memes Necessary - 0.139 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "29",
+          "value": "31",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.24",
+          "value": "4.07",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.160",
-          "sub": "A Meditation on GM"
+          "value": "2.600",
+          "sub": "EXIT STRATEGY"
         },
         {
           "label": "Floor",
@@ -148,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.24 ETH",
-      "raw": 1.2377,
-      "delta": -3.1259999999999994,
-      "delta_fmt": "-71.6%"
+      "value": "4.07 ETH",
+      "raw": 4.0655,
+      "delta": 1.0364,
+      "delta_fmt": "+34.2%"
     },
     {
       "label": "7d Vol",
-      "value": "15.25 ETH",
-      "raw": 15.2453
+      "value": "18.09 ETH",
+      "raw": 18.0855
     },
     {
       "label": "30d Vol",
-      "value": "54.71 ETH",
-      "raw": 54.7063
+      "value": "57.55 ETH",
+      "raw": 57.5465
     },
     {
       "label": "Full Set Bid",
-      "value": "42.5 ETH",
-      "raw": 42.47,
-      "delta": -0.10000000000000142,
-      "delta_fmt": "-0.10 ETH"
+      "value": "41.7 ETH",
+      "raw": 41.68,
+      "delta": -0.7899999999999991,
+      "delta_fmt": "-0.79 ETH"
     },
     {
       "label": "Network TDH",
@@ -178,9 +166,7 @@
     {
       "label": "#1 Sherie_Margaret",
       "value": "66.6M TDH",
-      "raw": 66579167,
-      "delta": 1201225,
-      "delta_fmt": "+1.2M TDH"
+      "raw": 66579167
     },
     {
       "label": "#1 kristopher",
@@ -240,8 +226,9 @@
   ],
   "headline_extras": [
     "PUNK6529: 19 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
+    "EXIT STRATEGY SALE: 2.600 ETH",
+    "DIVE BAR: 366 MSGS IN LAST 6H",
     "CARD #493: 295 MINTS (EXCL. MUSEUM) | 208 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: WALASAVAGEPHOTO (177 MSGS) | JAMESANDREW (132) | ZIGMARILLION (125)",
-    "DIVE BAR: 369 MSGS IN LAST 6H"
+    "ACTIVE TODAY: WALASAVAGEPHOTO (167 MSGS) | JAMESANDREW (127) | ZIGMARILLION (113)"
   ]
 }
