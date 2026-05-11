@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T22:07:49.253215+00:00",
+  "generated_at": "2026-05-11T23:11:46.180434+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"EMERGENT\" by AEZY \u2014 57.4M TDH from 87 voters. Top supporter: gpebbles (12.7M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"EMERGENT\" by AEZY \u2014 57.4M TDH from 87 voters. Top supporter: gpebbles (12.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -102,14 +102,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 322K TDH",
+      "headline": "#8 Bicasso \u2014 5K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (322K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (5K)",
+        "type": "video"
       }
     },
     {
@@ -230,10 +230,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.4 ETH",
-      "raw": 42.36,
-      "delta": 0.030000000000001137,
-      "delta_fmt": "+0.03 ETH"
+      "value": "42.0 ETH",
+      "raw": 42.03,
+      "delta": -0.3299999999999983,
+      "delta_fmt": "-0.33 ETH"
     },
     {
       "label": "Network TDH",
@@ -243,9 +243,7 @@
     {
       "label": "#1 Sherie_Margaret",
       "value": "68.1M TDH",
-      "raw": 68114712,
-      "delta": 13767,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 68114712
     },
     {
       "label": "#1 kristopher",
@@ -309,9 +307,9 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.800 ETH",
     "SGT PEPE SALE: 1.370 ETH",
-    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 7h AGO",
+    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 8h AGO",
+    "DIVE BAR: 195 MSGS IN LAST 6H",
     "CARD #494: 133 MINTS (EXCL. MUSEUM) | 88 HOLDERS | EMERGENT",
-    "ACTIVE TODAY: SHERIE_MARGARET (64 MSGS) | KRISTOPHER (51) | AEZY (50)",
-    "DIVE BAR: 206 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SHERIE_MARGARET (64 MSGS) | AEZY (50) | KRISTOPHER (50)"
   ]
 }
