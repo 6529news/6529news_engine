@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T08:06:19.479724+00:00",
+  "generated_at": "2026-05-11T11:36:19.316016+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3fe1377b-57ca-4f92-bf04-316c9c17a1a1/ddb31975-d3be-4bfb-8698-3a9fcee2c9fc.JPG",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/494.JPG",
         "label": "EMERGENT - AEZY",
         "type": "image"
       },
@@ -83,8 +83,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 3.28 ETH Volume",
-      "summary": "16 sales in 24h for 3.28 ETH. Highest: \"EXIT STRATEGY\" at 2.600 ETH.",
+      "headline": "18 Sales Today - 3.55 ETH Volume",
+      "summary": "18 sales in 24h for 3.55 ETH. Highest: \"EXIT STRATEGY\" at 2.600 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -99,25 +99,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/428.GIF",
-          "label": "Addicted to Memes - 0.165 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+          "label": "< no, really [ this ] is going to be our year > - 0.189 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/476.WEBP",
-          "label": "The Bear Spot - 0.075 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/428.GIF",
+          "label": "Addicted to Memes - 0.165 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "18",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.28",
+          "value": "3.55",
           "sub": "ETH"
         },
         {
@@ -136,25 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.28 ETH",
-      "raw": 3.2827,
-      "delta": 1.1092,
-      "delta_fmt": "+51.0%"
+      "value": "3.55 ETH",
+      "raw": 3.5539,
+      "delta": 1.5529000000000002,
+      "delta_fmt": "+77.6%"
     },
     {
       "label": "7d Vol",
-      "value": "17.70 ETH",
-      "raw": 17.6961
+      "value": "17.98 ETH",
+      "raw": 17.9841
     },
     {
       "label": "30d Vol",
-      "value": "57.49 ETH",
-      "raw": 57.4906
+      "value": "57.78 ETH",
+      "raw": 57.7786
     },
     {
       "label": "Full Set Bid",
-      "value": "43.3 ETH",
-      "raw": 43.3
+      "value": "43.2 ETH",
+      "raw": 43.21,
+      "delta": -0.0899999999999963,
+      "delta_fmt": "-0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +166,9 @@
     {
       "label": "#1 kristopher",
       "value": "70.2M TDH",
-      "raw": 70164837,
-      "delta": 196119,
-      "delta_fmt": "+0.2M TDH"
+      "raw": 70164818,
+      "delta": -19,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 Sherie_Margaret",
@@ -229,8 +231,8 @@
   "headline_extras": [
     "PUNK6529: 6 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "EXIT STRATEGY SALE: 2.600 ETH",
-    "CARD #493: 295 MINTS (EXCL. MUSEUM) | 208 HOLDERS | KEYS AND GATES",
-    "ACTIVE TODAY: MAYBE (92 MSGS) | SHERIE_MARGARET (79) | WALASAVAGEPHOTO (63)",
-    "DIVE BAR: 122 MSGS IN LAST 6H"
+    "DIVE BAR: 123 MSGS IN LAST 6H",
+    "CARD #494: 112 MINTS (EXCL. MUSEUM) | 80 HOLDERS | EMERGENT",
+    "ACTIVE TODAY: MAYBE (92 MSGS) | SHERIE_MARGARET (82) | WALASAVAGEPHOTO (63)"
   ]
 }
