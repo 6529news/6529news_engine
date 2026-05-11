@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T16:47:58.896687+00:00",
+  "generated_at": "2026-05-11T18:00:32.716206+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Sherie_Margaret Leads with 66.4M Projected TDH",
-      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (66.4M projected TDH, 76 voters) | \"Network State of Mind\" by Zigmarillion (41.8M projected TDH, 89 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (14.2M projected TDH, 46 voters) Next selection: Wed May 13 at 17:00 CET.",
+      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (66.4M projected TDH, 76 voters) | \"Network State of Mind\" by Zigmarillion (41.9M projected TDH, 90 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (14.2M projected TDH, 46 voters) Next selection: Wed May 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "Zigmarillion",
-          "value": "41.8M",
-          "sub": "proj. (89 votes)"
+          "value": "41.9M",
+          "sub": "proj. (90 votes)"
         },
         {
           "label": "SonOfLasG",
@@ -114,8 +114,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "18 Sales Today - 3.71 ETH Volume",
-      "summary": "18 sales in 24h for 3.71 ETH. Highest: \"EXIT STRATEGY\" at 2.800 ETH.",
+      "headline": "19 Sales Today - 3.77 ETH Volume",
+      "summary": "19 sales in 24h for 3.77 ETH. Highest: \"EXIT STRATEGY\" at 2.800 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -143,12 +143,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "18",
+          "value": "19",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.71",
+          "value": "3.77",
           "sub": "ETH"
         },
         {
@@ -213,27 +213,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.71 ETH",
-      "raw": 3.7127,
-      "delta": -0.3528000000000002,
-      "delta_fmt": "-8.7%"
+      "value": "3.77 ETH",
+      "raw": 3.7677,
+      "delta": -0.22779999999999978,
+      "delta_fmt": "-5.7%"
     },
     {
       "label": "7d Vol",
-      "value": "20.57 ETH",
-      "raw": 20.5708
+      "value": "20.63 ETH",
+      "raw": 20.6258
     },
     {
       "label": "30d Vol",
-      "value": "60.80 ETH",
-      "raw": 60.7986
+      "value": "60.85 ETH",
+      "raw": 60.8536
     },
     {
       "label": "Full Set Bid",
-      "value": "42.0 ETH",
-      "raw": 42.05,
-      "delta": -1.1600000000000037,
-      "delta_fmt": "-1.16 ETH"
+      "value": "42.1 ETH",
+      "raw": 42.14,
+      "delta": 0.09000000000000341,
+      "delta_fmt": "+0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -243,9 +243,7 @@
     {
       "label": "#1 Sherie_Margaret",
       "value": "66.4M TDH",
-      "raw": 66444085,
-      "delta": -176524,
-      "delta_fmt": "-0.2M TDH"
+      "raw": 66444085
     },
     {
       "label": "#1 kristopher",
@@ -308,9 +306,9 @@
   "headline_extras": [
     "PUNK6529: 1 MSGS IN THE LAST 24H IN MAYBE'S DIVE BAR",
     "EXIT STRATEGY SALE: 2.800 ETH",
-    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 2h AGO",
-    "DIVE BAR: 367 MSGS IN LAST 6H",
-    "CARD #494: 117 MINTS (EXCL. MUSEUM) | 83 HOLDERS | EMERGENT",
-    "ACTIVE TODAY: MAYBE (102 MSGS) | SHERIE_MARGARET (88) | ZIGMARILLION (49)"
+    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 3h AGO",
+    "DIVE BAR: 360 MSGS IN LAST 6H",
+    "CARD #494: 120 MINTS (EXCL. MUSEUM) | 84 HOLDERS | EMERGENT",
+    "ACTIVE TODAY: SHERIE_MARGARET (81 MSGS) | MAYBE (67) | ZIGMARILLION (44)"
   ]
 }
