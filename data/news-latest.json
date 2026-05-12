@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T11:34:54.007035+00:00",
+  "generated_at": "2026-05-12T13:26:51.372503+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Sherie_Margaret Leads with 67.8M Projected TDH",
-      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (67.8M projected TDH, 79 voters) | \"Network State of Mind\" by Zigmarillion (41.9M projected TDH, 94 voters) | \"The Meme Market\" by 1dontknows (29.0M projected TDH, 67 voters) Next selection: Wed May 13 at 17:00 CET.",
+      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (67.8M projected TDH, 79 voters) | \"Network State of Mind\" by Zigmarillion (42.7M projected TDH, 94 voters) | \"The Meme Market\" by 1dontknows (29.0M projected TDH, 67 voters) Next selection: Wed May 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,7 +47,7 @@
         },
         {
           "label": "Zigmarillion",
-          "value": "41.9M",
+          "value": "42.7M",
           "sub": "proj. (94 votes)"
         },
         {
@@ -78,24 +78,24 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Zar (8.5M) | blocknoob (4.2M) | senemsad (3.9M) | TheMeans (844K).",
+      "summary": "4 submissions this week. Ranking: Zar (8.5M) | senemsad (4.6M) | blocknoob (4.2M) | TheMeans (844K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
-        "label": "blocknoob (4.2M)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7f9896b7-ff52-4eec-bb5e-12a5e5bd3370/2219dcde-1349-4f53-87e5-6247f7bd996a/final.jpg",
+        "label": "senemsad (4.6M)",
+        "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7f9896b7-ff52-4eec-bb5e-12a5e5bd3370/2219dcde-1349-4f53-87e5-6247f7bd996a/final.jpg",
+          "label": "senemsad (4.6M)",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
           "label": "blocknoob (4.2M)",
           "type": "video"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7f9896b7-ff52-4eec-bb5e-12a5e5bd3370/2219dcde-1349-4f53-87e5-6247f7bd996a/final.jpg",
-          "label": "senemsad (3.9M)",
-          "type": "image"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e6a7a768-81cc-4f29-b065-66a9d4fcbcb8/091d4849-bd1b-45c7-919f-50d33729df83/memeMeans.PNG",
@@ -119,8 +119,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 6.24 ETH Volume",
-      "summary": "23 sales in 24h for 6.24 ETH. Highest: \"EXIT STRATEGY\" at 2.800 ETH.",
+      "headline": "21 Sales Today - 6.08 ETH Volume",
+      "summary": "21 sales in 24h for 6.08 ETH. Highest: \"EXIT STRATEGY\" at 2.800 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -148,12 +148,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "21",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "6.24",
+          "value": "6.08",
           "sub": "ETH"
         },
         {
@@ -218,15 +218,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "6.24 ETH",
-      "raw": 6.2413,
-      "delta": 2.6874,
-      "delta_fmt": "+75.6%"
+      "value": "6.08 ETH",
+      "raw": 6.0813,
+      "delta": 2.5273999999999996,
+      "delta_fmt": "+71.1%"
     },
     {
       "label": "7d Vol",
-      "value": "22.92 ETH",
-      "raw": 22.9186
+      "value": "20.37 ETH",
+      "raw": 20.3726
     },
     {
       "label": "30d Vol",
@@ -236,9 +236,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.9 ETH",
-      "raw": 41.93,
-      "delta": 0.21000000000000085,
-      "delta_fmt": "+0.21 ETH"
+      "raw": 41.94,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -248,7 +248,9 @@
     {
       "label": "#1 Sherie_Margaret",
       "value": "67.8M TDH",
-      "raw": 67822461
+      "raw": 67822638,
+      "delta": 177,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 kristopher",
@@ -312,9 +314,9 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.800 ETH",
     "SGT PEPE SALE: 1.370 ETH",
-    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 20h AGO",
-    "CARD #494: 138 MINTS (EXCL. MUSEUM) | 92 HOLDERS | EMERGENT",
-    "ACTIVE TODAY: AEZY (61 MSGS) | SHERIE_MARGARET (60) | SENEMSAD (54)",
-    "DIVE BAR: 182 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 22h AGO",
+    "DIVE BAR: 178 MSGS IN LAST 6H",
+    "CARD #494: 139 MINTS (EXCL. MUSEUM) | 92 HOLDERS | EMERGENT",
+    "ACTIVE TODAY: AEZY (64 MSGS) | SENEMSAD (55) | SHERIE_MARGARET (52)"
   ]
 }
