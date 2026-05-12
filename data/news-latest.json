@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-05-12T13:26:51.372503+00:00",
+  "generated_at": "2026-05-12T16:05:10.173449+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"EMERGENT\" by AEZY \u2014 57.4M TDH from 87 voters. Top supporter: gpebbles (12.7M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/494.JPG",
-        "label": "EMERGENT - AEZY",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING WEDNESDAY",
       "headline": "Minting Wednesday",
@@ -30,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Sherie_Margaret Leads with 67.8M Projected TDH",
-      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (67.8M projected TDH, 79 voters) | \"Network State of Mind\" by Zigmarillion (42.7M projected TDH, 94 voters) | \"The Meme Market\" by 1dontknows (29.0M projected TDH, 67 voters) Next selection: Wed May 13 at 17:00 CET.",
+      "headline": "Sherie_Margaret Leads with 68.1M Projected TDH",
+      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (68.1M projected TDH, 79 voters) | \"Network State of Mind\" by Zigmarillion (43.7M projected TDH, 95 voters) | \"The Meme Market\" by 1dontknows (29.0M projected TDH, 67 voters) Next selection: Wed May 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "Sherie_Margaret",
-          "value": "67.8M",
+          "value": "68.1M",
           "sub": "proj. (79 votes)"
         },
         {
           "label": "Zigmarillion",
-          "value": "42.7M",
-          "sub": "proj. (94 votes)"
+          "value": "43.7M",
+          "sub": "proj. (95 votes)"
         },
         {
           "label": "1dontknows",
@@ -58,27 +45,9 @@
       ]
     },
     {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by GelatoGenesis",
-      "summary": "GelatoGenesis: \u26a0\ufe0f The following is important mainly to the people who have written applications against api.6529.io or plan to do so.\n\n\n**All waves and drops related GET API's now have a v2 ve...",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmXuXC4QNM9diEvBnJT3UY2o9jWTUxhYh3srRuyS2bGFJQ",
-        "label": "GelatoGenesis"
-      },
-      "dataBoxes": [
-        {
-          "label": "GelatoGenesis",
-          "value": "Lv51",
-          "sub": "1K TDH"
-        }
-      ]
-    },
-    {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Zar (8.5M) | senemsad (4.6M) | blocknoob (4.2M) | TheMeans (844K).",
+      "summary": "4 submissions this week. Ranking: Zar (8.5M) | senemsad (4.6M) | blocknoob (4.4M) | TheMeans (844K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -94,7 +63,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
-          "label": "blocknoob (4.2M)",
+          "label": "blocknoob (4.4M)",
           "type": "video"
         },
         {
@@ -119,19 +88,19 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 6.08 ETH Volume",
-      "summary": "21 sales in 24h for 6.08 ETH. Highest: \"EXIT STRATEGY\" at 2.800 ETH.",
+      "headline": "23 Sales Today - 9.59 ETH Volume",
+      "summary": "23 sales in 24h for 9.59 ETH. Highest: \"NakamotoFreedom\" at 6.260 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/47.GIF",
-        "label": "EXIT STRATEGY - 2.800 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4.WEBP",
+        "label": "NakamotoFreedom - 6.260 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/47.GIF",
-          "label": "EXIT STRATEGY - 2.800 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4.WEBP",
+          "label": "NakamotoFreedom - 6.260 ETH",
           "type": "image"
         },
         {
@@ -148,68 +117,22 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "23",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "6.08",
+          "value": "9.59",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "2.800",
-          "sub": "EXIT STRATEGY"
+          "value": "6.260",
+          "sub": "NakamotoFreedom"
         },
         {
           "label": "Floor",
           "value": "0.01697",
-          "sub": "ETH"
-        }
-      ]
-    },
-    {
-      "category": "PEBBLES",
-      "headline": "Pebbles: 1 Sales - 0.332 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.332 ETH. Current floor: 0.56999999 ETH.",
-      "source": "OpenSea",
-      "link": "https://opensea.io/collection/pebbles-by-zeblocks",
-      "image": {
-        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/84918b52ef3512c6b776d741d1c75d/6a84918b52ef3512c6b776d741d1c75d.png",
-        "label": "Pebbles #782 - 0.332 ETH",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/84918b52ef3512c6b776d741d1c75d/6a84918b52ef3512c6b776d741d1c75d.png",
-          "label": "Pebbles #782 - 0.332 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/c95c43df48c26a68d70c102edaed9c/3dc95c43df48c26a68d70c102edaed9c.png",
-          "label": "Pebbles #485 - 3.000 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/8fda43a3aa49ef0e07d1399bbbb6e9/c78fda43a3aa49ef0e07d1399bbbb6e9.png",
-          "label": "Pebbles #47 - 0.520 ETH",
-          "type": "image"
-        }
-      ],
-      "dataBoxes": [
-        {
-          "label": "Sales 24h",
-          "value": "1",
-          "sub": ""
-        },
-        {
-          "label": "Volume",
-          "value": "0.332",
-          "sub": "ETH"
-        },
-        {
-          "label": "Floor",
-          "value": "0.56999999",
           "sub": "ETH"
         }
       ]
@@ -218,27 +141,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "6.08 ETH",
-      "raw": 6.0813,
-      "delta": 2.5273999999999996,
-      "delta_fmt": "+71.1%"
+      "value": "9.59 ETH",
+      "raw": 9.5858,
+      "delta": 5.873100000000001,
+      "delta_fmt": "+158.2%"
     },
     {
       "label": "7d Vol",
-      "value": "20.37 ETH",
-      "raw": 20.3726
+      "value": "26.74 ETH",
+      "raw": 26.7371
     },
     {
       "label": "30d Vol",
-      "value": "63.77 ETH",
-      "raw": 63.7699
+      "value": "70.13 ETH",
+      "raw": 70.1344
     },
     {
       "label": "Full Set Bid",
-      "value": "41.9 ETH",
-      "raw": 41.94,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "42.1 ETH",
+      "raw": 42.06,
+      "delta": 0.12000000000000455,
+      "delta_fmt": "+0.12 ETH"
     },
     {
       "label": "Network TDH",
@@ -247,10 +170,10 @@
     },
     {
       "label": "#1 Sherie_Margaret",
-      "value": "67.8M TDH",
-      "raw": 67822638,
-      "delta": 177,
-      "delta_fmt": "+0.0M TDH"
+      "value": "68.1M TDH",
+      "raw": 68112385,
+      "delta": 289747,
+      "delta_fmt": "+0.3M TDH"
     },
     {
       "label": "#1 kristopher",
@@ -312,11 +235,9 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "EXIT STRATEGY SALE: 2.800 ETH",
     "SGT PEPE SALE: 1.370 ETH",
-    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 22h AGO",
-    "CARD #494: 139 MINTS (EXCL. MUSEUM) | 92 HOLDERS | EMERGENT",
-    "ACTIVE TODAY: AEZY (64 MSGS) | SENEMSAD (55) | SHERIE_MARGARET (52)",
-    "DIVE BAR: 288 MSGS IN LAST 6H"
+    "DIVE BAR: 289 MSGS IN LAST 6H",
+    "CARD #494: 141 MINTS (EXCL. MUSEUM) | 94 HOLDERS | EMERGENT",
+    "ACTIVE TODAY: SENEMSAD (76 MSGS) | AEZY (56) | SHERIE_MARGARET (36)"
   ]
 }
