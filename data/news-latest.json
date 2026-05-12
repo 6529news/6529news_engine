@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T21:42:41.366291+00:00",
+  "generated_at": "2026-05-12T22:47:29.611383+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Sherie_Margaret Leads with 68.1M Projected TDH",
-      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (68.1M projected TDH, 80 voters) | \"Network State of Mind\" by Zigmarillion (43.7M projected TDH, 96 voters) | \"The Meme Market\" by 1dontknows (29.0M projected TDH, 68 voters) Next selection: Wed May 13 at 17:00 CET.",
+      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (68.1M projected TDH, 80 voters) | \"Network State of Mind\" by Zigmarillion (43.3M projected TDH, 96 voters) | \"The Meme Market\" by 1dontknows (29.0M projected TDH, 68 voters) Next selection: Wed May 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,7 +34,7 @@
         },
         {
           "label": "Zigmarillion",
-          "value": "43.7M",
+          "value": "43.3M",
           "sub": "proj. (96 votes)"
         },
         {
@@ -46,8 +46,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Zar (8.5M) | blocknoob (7.0M) | senemsad (4.6M) | TheMeans (844K).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: Zar (8.5M) | blocknoob (7.0M) | senemsad (4.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -64,11 +64,6 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7f9896b7-ff52-4eec-bb5e-12a5e5bd3370/2219dcde-1349-4f53-87e5-6247f7bd996a/final.jpg",
           "label": "senemsad (4.6M)",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e6a7a768-81cc-4f29-b065-66a9d4fcbcb8/091d4849-bd1b-45c7-919f-50d33729df83/memeMeans.PNG",
-          "label": "TheMeans (844K)",
           "type": "image"
         }
       ],
@@ -88,8 +83,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 8.13 ETH Volume",
-      "summary": "13 sales in 24h for 8.13 ETH. Highest: \"NakamotoFreedom\" at 6.260 ETH.",
+      "headline": "14 Sales Today - 6.94 ETH Volume",
+      "summary": "14 sales in 24h for 6.94 ETH. Highest: \"NakamotoFreedom\" at 6.260 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -104,8 +99,8 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
-          "label": "Sgt. Pepe - 1.370 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+          "label": "Pepe X - 0.160 ETH",
           "type": "image"
         },
         {
@@ -117,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "8.13",
+          "value": "6.94",
           "sub": "ETH"
         },
         {
@@ -141,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "8.13 ETH",
-      "raw": 8.1331,
-      "delta": 1.969500000000001,
-      "delta_fmt": "+32.0%"
+      "value": "6.94 ETH",
+      "raw": 6.9413,
+      "delta": 0.7777000000000003,
+      "delta_fmt": "+12.6%"
     },
     {
       "label": "7d Vol",
-      "value": "26.30 ETH",
-      "raw": 26.2972
+      "value": "26.48 ETH",
+      "raw": 26.4753
     },
     {
       "label": "30d Vol",
-      "value": "70.20 ETH",
-      "raw": 70.1994
+      "value": "70.38 ETH",
+      "raw": 70.3775
     },
     {
       "label": "Full Set Bid",
-      "value": "37.4 ETH",
-      "raw": 37.43,
-      "delta": -4.619999999999997,
-      "delta_fmt": "-4.62 ETH"
+      "value": "37.2 ETH",
+      "raw": 37.24,
+      "delta": -0.18999999999999773,
+      "delta_fmt": "-0.19 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,9 +166,7 @@
     {
       "label": "#1 Sherie_Margaret",
       "value": "68.1M TDH",
-      "raw": 68118033,
-      "delta": 5643,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 68118033
     },
     {
       "label": "#1 kristopher",
@@ -235,9 +228,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "SGT PEPE SALE: 1.370 ETH",
+    "DIVE BAR: 352 MSGS IN LAST 6H",
     "CARD #494: 141 MINTS (EXCL. MUSEUM) | 94 HOLDERS | EMERGENT",
-    "ACTIVE TODAY: SENEMSAD (80 MSGS) | MAYBE (61) | AEZY (59)",
-    "DIVE BAR: 367 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SENEMSAD (80 MSGS) | AEZY (59) | MAYBE (57)"
   ]
 }
