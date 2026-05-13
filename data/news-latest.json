@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T23:59:13.540255+00:00",
+  "generated_at": "2026-05-13T04:07:47.670168+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Sherie_Margaret Leads with 68.1M Projected TDH",
-      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (68.1M projected TDH, 80 voters) | \"Network State of Mind\" by Zigmarillion (43.3M projected TDH, 96 voters) | \"The Meme Market\" by 1dontknows (29.0M projected TDH, 68 voters) Next selection: Wed May 13 at 17:00 CET.",
+      "headline": "Sherie_Margaret Leads with 68.2M Projected TDH",
+      "summary": "\"WAGMI Ululation\" by Sherie_Margaret (68.2M projected TDH, 83 voters) | \"Network State of Mind\" by Zigmarillion (43.3M projected TDH, 96 voters) | \"The Meme Market\" by 1dontknows (29.0M projected TDH, 68 voters) Next selection: Wed May 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "Sherie_Margaret",
-          "value": "68.1M",
-          "sub": "proj. (80 votes)"
+          "value": "68.2M",
+          "sub": "proj. (83 votes)"
         },
         {
           "label": "Zigmarillion",
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 6.94 ETH Volume",
-      "summary": "14 sales in 24h for 6.94 ETH. Highest: \"NakamotoFreedom\" at 6.260 ETH.",
+      "headline": "13 Sales Today - 6.89 ETH Volume",
+      "summary": "13 sales in 24h for 6.89 ETH. Highest: \"NakamotoFreedom\" at 6.260 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "6.94",
+          "value": "6.89",
           "sub": "ETH"
         },
         {
@@ -136,37 +136,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "6.94 ETH",
-      "raw": 6.9413,
-      "delta": 0.7777000000000003,
-      "delta_fmt": "+12.6%"
+      "value": "6.89 ETH",
+      "raw": 6.8863,
+      "delta": 0.6657000000000002,
+      "delta_fmt": "+10.7%"
     },
     {
       "label": "7d Vol",
-      "value": "26.48 ETH",
-      "raw": 26.4753
+      "value": "26.50 ETH",
+      "raw": 26.4953
     },
     {
       "label": "30d Vol",
-      "value": "70.38 ETH",
-      "raw": 70.3775
+      "value": "69.98 ETH",
+      "raw": 69.9845
     },
     {
       "label": "Full Set Bid",
-      "value": "37.3 ETH",
-      "raw": 37.3,
-      "delta": 0.05999999999999517,
-      "delta_fmt": "+0.06 ETH"
+      "value": "42.2 ETH",
+      "raw": 42.2,
+      "delta": 4.900000000000006,
+      "delta_fmt": "+4.90 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1593.8M",
-      "raw": 1593796046
+      "value": "1596.3M",
+      "raw": 1596348927,
+      "delta": 2552881,
+      "delta_fmt": "+2.6M TDH"
     },
     {
       "label": "#1 Sherie_Margaret",
-      "value": "68.1M TDH",
-      "raw": 68118033
+      "value": "68.2M TDH",
+      "raw": 68213592,
+      "delta": 95559,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 kristopher",
@@ -228,8 +232,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 261 MSGS IN LAST 6H",
     "CARD #494: 141 MINTS (EXCL. MUSEUM) | 94 HOLDERS | EMERGENT",
-    "ACTIVE TODAY: SENEMSAD (80 MSGS) | AEZY (59) | MAYBE (56)",
-    "DIVE BAR: 197 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SENEMSAD (80 MSGS) | JASONOPHOTO (64) | AEZY (58)"
   ]
 }
