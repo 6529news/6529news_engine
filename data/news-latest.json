@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T08:18:07.292313+00:00",
+  "generated_at": "2026-05-14T10:42:42.533200+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "CasaNUA Leads with 63.1M Projected TDH",
-      "summary": "\"6529 Memes at the Boys' Club\" by CasaNUA (63.1M projected TDH, 62 voters) | \"Network State of Mind\" by Zigmarillion (44.9M projected TDH, 99 voters) | \"The Meme Market\" by 1dontknows (29.1M projected TDH, 69 voters) Next selection: Fri May 15 at 17:00 CET.",
+      "headline": "CasaNUA Leads with 63.2M Projected TDH",
+      "summary": "\"6529 Memes at the Boys' Club\" by CasaNUA (63.2M projected TDH, 64 voters) | \"Network State of Mind\" by Zigmarillion (45.1M projected TDH, 99 voters) | \"The Meme Market\" by 1dontknows (29.1M projected TDH, 69 voters) Next selection: Fri May 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,12 +42,12 @@
       "dataBoxes": [
         {
           "label": "CasaNUA",
-          "value": "63.1M",
-          "sub": "proj. (62 votes)"
+          "value": "63.2M",
+          "sub": "proj. (64 votes)"
         },
         {
           "label": "Zigmarillion",
-          "value": "44.9M",
+          "value": "45.1M",
           "sub": "proj. (99 votes)"
         },
         {
@@ -60,18 +60,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: blocknoob (9.6M) | senemsad (4.8M).",
+      "summary": "2 submissions this week. Ranking: blocknoob (9.9M) | senemsad (4.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
-        "label": "blocknoob (9.6M)",
+        "label": "blocknoob (9.9M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
-          "label": "blocknoob (9.6M)",
+          "label": "blocknoob (9.9M)",
           "type": "video"
         },
         {
@@ -84,41 +84,41 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 5K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (5K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 1.12 ETH Volume",
-      "summary": "22 sales in 24h for 1.12 ETH. Highest: \"Survive and Thrive\" at 0.200 ETH.",
+      "headline": "22 Sales Today - 1.04 ETH Volume",
+      "summary": "22 sales in 24h for 1.04 ETH. Highest: \"AUTONOMY.EXE\" at 0.175 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/323.WEBP",
-        "label": "Survive and Thrive - 0.200 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+        "label": "AUTONOMY.EXE - 0.175 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/323.WEBP",
-          "label": "Survive and Thrive - 0.200 ETH",
-          "type": "image"
-        },
-        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.160 ETH",
+          "label": "AUTONOMY.EXE - 0.175 ETH",
           "type": "image"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
           "label": "< no, really [ this ] is going to be our year > - 0.150 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/485.WEBP",
+          "label": "Seize your Freedom - 0.069 ETH",
           "type": "image"
         }
       ],
@@ -130,17 +130,17 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.12",
+          "value": "1.04",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.200",
-          "sub": "Survive and Thrive"
+          "value": "0.175",
+          "sub": "AUTONOMY.EXE"
         },
         {
           "label": "Floor",
-          "value": "0.01697",
+          "value": "0.01697788",
           "sub": "ETH"
         }
       ]
@@ -195,27 +195,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.12 ETH",
-      "raw": 1.1152,
-      "delta": -5.5913,
-      "delta_fmt": "-83.4%"
+      "value": "1.04 ETH",
+      "raw": 1.0378,
+      "delta": -5.8420000000000005,
+      "delta_fmt": "-84.9%"
     },
     {
       "label": "7d Vol",
-      "value": "24.92 ETH",
-      "raw": 24.9171
+      "value": "25.12 ETH",
+      "raw": 25.1232
     },
     {
       "label": "30d Vol",
-      "value": "69.86 ETH",
-      "raw": 69.8646
+      "value": "70.07 ETH",
+      "raw": 70.0707
     },
     {
       "label": "Full Set Bid",
-      "value": "42.5 ETH",
-      "raw": 42.45,
-      "delta": -0.02999999999999403,
-      "delta_fmt": "-0.03 ETH"
+      "value": "37.8 ETH",
+      "raw": 37.84,
+      "delta": -4.609999999999999,
+      "delta_fmt": "-4.61 ETH"
     },
     {
       "label": "Network TDH",
@@ -224,8 +224,10 @@
     },
     {
       "label": "#1 CasaNUA",
-      "value": "63.1M TDH",
-      "raw": 63135758
+      "value": "63.2M TDH",
+      "raw": 63211904,
+      "delta": 76146,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 Sherie_Margaret",
@@ -294,9 +296,9 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 19h AGO",
+    "PEBBLES: FLOOR 0.56999999 ETH | 1 SALES | LAST SALE 22h AGO",
+    "DIVE BAR: 118 MSGS IN LAST 6H",
     "CARD #495: 145 MINTS (EXCL. MUSEUM) | 98 HOLDERS | PERMISSIONLESS CROSSING",
-    "ACTIVE TODAY: SHERIE_MARGARET (93 MSGS) | SENEMSAD (84) | ZIGMARILLION (80)",
-    "DIVE BAR: 115 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SHERIE_MARGARET (91 MSGS) | SENEMSAD (85) | ZIGMARILLION (77)"
   ]
 }
