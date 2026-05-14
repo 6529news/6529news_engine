@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T22:11:30.667995+00:00",
+  "generated_at": "2026-05-14T23:12:28.773826+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING FRIDAY",
-      "headline": "Minting Friday",
-      "summary": " \"WAGMI Ululation\" by Sherie_Margaret \u2014 68.2M TDH from 85 voters. Top supporter: gpebbles (14.1M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"WAGMI Ululation\" by Sherie_Margaret \u2014 68.2M TDH from 85 voters. Top supporter: gpebbles (14.1M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -71,13 +71,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#6 blake69 \u2014 322K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (322K)",
         "type": "image"
       }
     },
@@ -138,8 +138,8 @@
       "label": "24h Vol",
       "value": "1.24 ETH",
       "raw": 1.2395,
-      "delta": 0.6551,
-      "delta_fmt": "+112.1%"
+      "delta": 0.4525,
+      "delta_fmt": "+57.5%"
     },
     {
       "label": "7d Vol",
@@ -154,9 +154,7 @@
     {
       "label": "Full Set Bid",
       "value": "42.2 ETH",
-      "raw": 42.16,
-      "delta": -0.2600000000000051,
-      "delta_fmt": "-0.26 ETH"
+      "raw": 42.16
     },
     {
       "label": "Network TDH",
@@ -235,8 +233,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 305 MSGS IN LAST 6H",
     "CARD #495: 148 MINTS (EXCL. MUSEUM) | 101 HOLDERS | PERMISSIONLESS CROSSING",
-    "ACTIVE TODAY: SHERIE_MARGARET (86 MSGS) | GRAFFITIONGRAVE (73) | JASONOPHOTO (68)",
-    "DIVE BAR: 327 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SHERIE_MARGARET (86 MSGS) | GRAFFITIONGRAVE (73) | JASONOPHOTO (68)"
   ]
 }
