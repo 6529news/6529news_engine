@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T20:46:19.916820+00:00",
+  "generated_at": "2026-05-14T22:11:30.667995+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "CasaNUA Leads with 63.4M Projected TDH",
-      "summary": "\"6529 Memes at the Boys' Club\" by CasaNUA (63.4M projected TDH, 68 voters) | \"Network State of Mind\" by Zigmarillion (45.1M projected TDH, 99 voters) | \"The Meme Market\" by 1dontknows (29.0M projected TDH, 68 voters) Next selection: Fri May 15 at 17:00 CET.",
+      "summary": "\"6529 Memes at the Boys' Club\" by CasaNUA (63.4M projected TDH, 68 voters) | \"Network State of Mind\" by Zigmarillion (45.2M projected TDH, 100 voters) | \"The Meme Market\" by 1dontknows (29.0M projected TDH, 68 voters) Next selection: Fri May 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "Zigmarillion",
-          "value": "45.1M",
-          "sub": "proj. (99 votes)"
+          "value": "45.2M",
+          "sub": "proj. (100 votes)"
         },
         {
           "label": "1dontknows",
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 1.10 ETH Volume",
-      "summary": "20 sales in 24h for 1.10 ETH. Highest: \"AUTONOMY.EXE\" at 0.175 ETH.",
+      "headline": "28 Sales Today - 1.24 ETH Volume",
+      "summary": "28 sales in 24h for 1.24 ETH. Highest: \"AUTONOMY.EXE\" at 0.175 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -104,20 +104,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/485.WEBP",
-          "label": "Seize your Freedom - 0.069 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/151.WEBP",
+          "label": "BOOM - 0.071 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "20",
+          "value": "28",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.10",
+          "value": "1.24",
           "sub": "ETH"
         },
         {
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.10 ETH",
-      "raw": 1.0951,
-      "delta": 0.5106999999999999,
-      "delta_fmt": "+87.4%"
+      "value": "1.24 ETH",
+      "raw": 1.2395,
+      "delta": 0.6551,
+      "delta_fmt": "+112.1%"
     },
     {
       "label": "7d Vol",
-      "value": "23.83 ETH",
-      "raw": 23.8339
+      "value": "24.24 ETH",
+      "raw": 24.2435
     },
     {
       "label": "30d Vol",
-      "value": "70.23 ETH",
-      "raw": 70.2307
+      "value": "70.64 ETH",
+      "raw": 70.6403
     },
     {
       "label": "Full Set Bid",
-      "value": "42.4 ETH",
-      "raw": 42.42,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "value": "42.2 ETH",
+      "raw": 42.16,
+      "delta": -0.2600000000000051,
+      "delta_fmt": "-0.26 ETH"
     },
     {
       "label": "Network TDH",
@@ -235,8 +235,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 347 MSGS IN LAST 6H",
     "CARD #495: 148 MINTS (EXCL. MUSEUM) | 101 HOLDERS | PERMISSIONLESS CROSSING",
-    "ACTIVE TODAY: SHERIE_MARGARET (86 MSGS) | GRAFFITIONGRAVE (73) | JASONOPHOTO (59)",
-    "DIVE BAR: 350 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SHERIE_MARGARET (86 MSGS) | GRAFFITIONGRAVE (73) | JASONOPHOTO (68)"
   ]
 }
