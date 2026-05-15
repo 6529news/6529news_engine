@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T10:06:35.857600+00:00",
+  "generated_at": "2026-05-15T12:12:19.836307+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c8e0026e-b087-4350-86fb-24ea71d17d4f/fef0038e-d6ac-4f0a-bc1a-19e67d9a84cb/Wagmi-3.gif",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/496.GIF",
         "label": "WAGMI Ululation - Sherie_Margaret",
         "type": "image"
       },
@@ -71,31 +71,31 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 0.76 ETH Volume",
-      "summary": "15 sales in 24h for 0.76 ETH. Highest: \"AUTONOMY.EXE\" at 0.175 ETH.",
+      "headline": "14 Sales Today - 0.59 ETH Volume",
+      "summary": "14 sales in 24h for 0.59 ETH. Highest: \"AUTONOMY.EXE\" at 0.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-        "label": "AUTONOMY.EXE - 0.175 ETH",
+        "label": "AUTONOMY.EXE - 0.160 ETH",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.175 ETH",
+          "label": "AUTONOMY.EXE - 0.160 ETH",
           "type": "image"
         },
         {
@@ -112,17 +112,17 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.76",
+          "value": "0.59",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.175",
+          "value": "0.160",
           "sub": "AUTONOMY.EXE"
         },
         {
@@ -136,10 +136,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.76 ETH",
-      "raw": 0.7635,
-      "delta": -0.2743000000000001,
-      "delta_fmt": "-26.4%"
+      "value": "0.59 ETH",
+      "raw": 0.5885,
+      "delta": -0.4095,
+      "delta_fmt": "-41.0%"
     },
     {
       "label": "7d Vol",
@@ -154,9 +154,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.4 ETH",
-      "raw": 42.41,
-      "delta": 0.22999999999999687,
-      "delta_fmt": "+0.23 ETH"
+      "raw": 42.44,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,7 +166,9 @@
     {
       "label": "#1 CasaNUA",
       "value": "64.4M TDH",
-      "raw": 64367026
+      "raw": 64401106,
+      "delta": 34080,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Sherie_Margaret",
@@ -235,8 +237,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #495: 148 MINTS (EXCL. MUSEUM) | 103 HOLDERS | PERMISSIONLESS CROSSING",
-    "ACTIVE TODAY: SHERIE_MARGARET (94 MSGS) | JASONOPHOTO (78) | GRAFFITIONGRAVE (71)",
-    "DIVE BAR: 132 MSGS IN LAST 6H"
+    "DIVE BAR: 116 MSGS IN LAST 6H",
+    "CARD #496: 116 MINTS (EXCL. MUSEUM) | 83 HOLDERS | WAGMI ULULATION",
+    "ACTIVE TODAY: JASONOPHOTO (78 MSGS) | SHERIE_MARGARET (71) | GRAFFITIONGRAVE (71)"
   ]
 }
