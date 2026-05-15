@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T17:48:47.044036+00:00",
+  "generated_at": "2026-05-15T18:07:05.698646+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zigmarillion Leads with 45.6M Projected TDH",
-      "summary": "\"Network State of Mind\" by Zigmarillion (45.6M projected TDH, 101 voters) | \"The Meme Market\" by 1dontknows (41.3M projected TDH, 70 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (23.2M projected TDH, 53 voters) Next selection: Mon May 18 at 17:00 CET.",
+      "summary": "\"Network State of Mind\" by Zigmarillion (45.6M projected TDH, 102 voters) | \"The Meme Market\" by 1dontknows (41.3M projected TDH, 70 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (23.2M projected TDH, 53 voters) Next selection: Mon May 18 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Zigmarillion",
           "value": "45.6M",
-          "sub": "proj. (101 votes)"
+          "sub": "proj. (102 votes)"
         },
         {
           "label": "1dontknows",
@@ -84,13 +84,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 322K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (322K)",
         "type": "image"
       }
     },
@@ -166,10 +166,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "36.9 ETH",
-      "raw": 36.85,
-      "delta": -5.68,
-      "delta_fmt": "-5.68 ETH"
+      "value": "37.8 ETH",
+      "raw": 37.83,
+      "delta": 0.9799999999999969,
+      "delta_fmt": "+0.98 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,8 +179,8 @@
     {
       "label": "#1 Zigmarillion",
       "value": "45.6M TDH",
-      "raw": 45599387,
-      "delta": 49176,
+      "raw": 45605916,
+      "delta": 6529,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -257,8 +257,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "DIVE BAR: 336 MSGS IN LAST 6H",
+    "DIVE BAR: 381 MSGS IN LAST 6H",
     "CARD #496: 124 MINTS (EXCL. MUSEUM) | 88 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: SHERIE_MARGARET (85 MSGS) | JASONOPHOTO (54) | JENNADIXON (49)"
+    "ACTIVE TODAY: SHERIE_MARGARET (100 MSGS) | JASONOPHOTO (63) | JENNADIXON (49)"
   ]
 }
