@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T06:34:32.431888+00:00",
+  "generated_at": "2026-05-16T08:27:58.818226+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zigmarillion Leads with 46.4M Projected TDH",
-      "summary": "\"Network State of Mind\" by Zigmarillion (46.4M projected TDH, 104 voters) | \"The Meme Market\" by 1dontknows (42.3M projected TDH, 71 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (30.7M projected TDH, 56 voters) Next selection: Mon May 18 at 17:00 CET.",
+      "summary": "\"Network State of Mind\" by Zigmarillion (46.4M projected TDH, 104 voters) | \"The Meme Market\" by 1dontknows (42.3M projected TDH, 71 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (30.7M projected TDH, 57 voters) Next selection: Mon May 18 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -53,7 +53,7 @@
         {
           "label": "SonOfLasG",
           "value": "30.7M",
-          "sub": "proj. (56 votes)"
+          "sub": "proj. (57 votes)"
         }
       ]
     },
@@ -101,8 +101,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 1.19 ETH Volume",
-      "summary": "13 sales in 24h for 1.19 ETH. Highest: \"NOT DED\" at 0.320 ETH.",
+      "headline": "16 Sales Today - 1.27 ETH Volume",
+      "summary": "16 sales in 24h for 1.27 ETH. Highest: \"NOT DED\" at 0.320 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.19",
+          "value": "1.27",
           "sub": "ETH"
         },
         {
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.19 ETH",
-      "raw": 1.1871,
-      "delta": 0.3924000000000001,
-      "delta_fmt": "+49.4%"
+      "value": "1.27 ETH",
+      "raw": 1.2711,
+      "delta": 0.47639999999999993,
+      "delta_fmt": "+59.9%"
     },
     {
       "label": "7d Vol",
-      "value": "21.66 ETH",
-      "raw": 21.6638
+      "value": "21.75 ETH",
+      "raw": 21.7478
     },
     {
       "label": "30d Vol",
-      "value": "70.22 ETH",
-      "raw": 70.2222
+      "value": "70.31 ETH",
+      "raw": 70.3062
     },
     {
       "label": "Full Set Bid",
-      "value": "40.5 ETH",
-      "raw": 40.52,
-      "delta": 0.1600000000000037,
-      "delta_fmt": "+0.16 ETH"
+      "value": "42.2 ETH",
+      "raw": 42.18,
+      "delta": 1.6599999999999966,
+      "delta_fmt": "+1.66 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,7 +184,9 @@
     {
       "label": "#1 Zigmarillion",
       "value": "46.4M TDH",
-      "raw": 46356945
+      "raw": 46357272,
+      "delta": 327,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -260,8 +262,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #496: 140 MINTS (EXCL. MUSEUM) | 92 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: SHERIE_MARGARET (97 MSGS) | MAYBE (93) | SARIRAA (57)",
-    "DIVE BAR: 146 MSGS IN LAST 6H"
+    "DIVE BAR: 84 MSGS IN LAST 6H",
+    "CARD #496: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | WAGMI ULULATION",
+    "ACTIVE TODAY: MAYBE (93 MSGS) | SHERIE_MARGARET (84) | SARIRAA (57)"
   ]
 }
