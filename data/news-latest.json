@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T15:06:53.983724+00:00",
+  "generated_at": "2026-05-16T16:09:16.851544+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 322K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (322K)",
         "type": "image"
       }
     },
@@ -143,8 +143,8 @@
       "label": "24h Vol",
       "value": "1.51 ETH",
       "raw": 1.5055,
-      "delta": 0.5863,
-      "delta_fmt": "+63.8%"
+      "delta": 0.46630000000000016,
+      "delta_fmt": "+44.9%"
     },
     {
       "label": "7d Vol",
@@ -158,10 +158,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.8 ETH",
-      "raw": 41.83,
-      "delta": 0.0799999999999983,
-      "delta_fmt": "+0.08 ETH"
+      "value": "42.2 ETH",
+      "raw": 42.23,
+      "delta": 0.3999999999999986,
+      "delta_fmt": "+0.40 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,7 +171,9 @@
     {
       "label": "#1 Zigmarillion",
       "value": "46.4M TDH",
-      "raw": 46362510
+      "raw": 46359892,
+      "delta": -2618,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -247,8 +249,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 163 MSGS IN LAST 6H",
     "CARD #496: 148 MINTS (EXCL. MUSEUM) | 100 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: MAYBE (81 MSGS) | SHERIE_MARGARET (62) | SARIRAA (58)",
-    "DIVE BAR: 159 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (84 MSGS) | SARIRAA (58) | SHERIE_MARGARET (55)"
   ]
 }
