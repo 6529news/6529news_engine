@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T17:15:10.976253+00:00",
+  "generated_at": "2026-05-16T18:09:10.962793+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 322K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (322K)",
         "type": "image"
       }
     },
@@ -148,8 +148,8 @@
     },
     {
       "label": "7d Vol",
-      "value": "21.74 ETH",
-      "raw": 21.7352
+      "value": "20.84 ETH",
+      "raw": 20.8364
     },
     {
       "label": "30d Vol",
@@ -158,10 +158,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.4 ETH",
-      "raw": 42.43,
-      "delta": 0.20000000000000284,
-      "delta_fmt": "+0.20 ETH"
+      "value": "42.5 ETH",
+      "raw": 42.47,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,7 +171,9 @@
     {
       "label": "#1 Zigmarillion",
       "value": "46.4M TDH",
-      "raw": 46359892
+      "raw": 46359928,
+      "delta": 36,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -247,8 +249,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 216 MSGS IN LAST 6H",
     "CARD #496: 148 MINTS (EXCL. MUSEUM) | 100 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: MAYBE (84 MSGS) | SARIRAA (58) | SHERIE_MARGARET (51)",
-    "DIVE BAR: 216 MSGS IN LAST 6H"
+    "ACTIVE TODAY: MAYBE (69 MSGS) | SARIRAA (58) | FRANKIEHGIH_ETH (41)"
   ]
 }
