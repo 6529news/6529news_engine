@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T04:02:42.516992+00:00",
+  "generated_at": "2026-05-16T06:34:32.431888+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zigmarillion Leads with 46.4M Projected TDH",
-      "summary": "\"Network State of Mind\" by Zigmarillion (46.4M projected TDH, 104 voters) | \"The Meme Market\" by 1dontknows (41.4M projected TDH, 71 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (30.7M projected TDH, 56 voters) Next selection: Mon May 18 at 17:00 CET.",
+      "summary": "\"Network State of Mind\" by Zigmarillion (46.4M projected TDH, 104 voters) | \"The Meme Market\" by 1dontknows (42.3M projected TDH, 71 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (30.7M projected TDH, 56 voters) Next selection: Mon May 18 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,7 +47,7 @@
         },
         {
           "label": "1dontknows",
-          "value": "41.4M",
+          "value": "42.3M",
           "sub": "proj. (71 votes)"
         },
         {
@@ -59,8 +59,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: blocknoob (11.6M) | JennaDixon (4.0M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: blocknoob (11.6M) | JennaDixon (4.0M) | EdBalloon (1.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -78,34 +78,44 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_928ee309-cd3a-4d4d-95cb-adfeaa338444/2bc0bf08-ba05-4cea-8706-66cb6e0b3f7c/Freedom-To-Ascend-6529.mp4",
           "label": "JennaDixon (4.0M)",
           "type": "video"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_40a68e09-5fb2-41dc-8ee6-e85629b3c3a6/487fd233-550f-43b3-a3fb-4ac77758807f/Comp-1.mp4",
+          "label": "EdBalloon (1.5M)",
+          "type": "video"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "10 Sales Today - 0.58 ETH Volume",
-      "summary": "10 sales in 24h for 0.58 ETH. Highest: \"UncleSeize\" at 0.120 ETH.",
+      "headline": "13 Sales Today - 1.19 ETH Volume",
+      "summary": "13 sales in 24h for 1.19 ETH. Highest: \"NOT DED\" at 0.320 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-        "label": "UncleSeize - 0.120 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
+        "label": "NOT DED - 0.320 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
+          "label": "NOT DED - 0.320 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
           "label": "UncleSeize - 0.120 ETH",
@@ -115,28 +125,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/313.GIF",
           "label": "The Only Constant Is Change - 0.100 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/480.GIF",
-          "label": "6529 NEWS - 0.070 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "10",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.58",
+          "value": "1.19",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.120",
-          "sub": "UncleSeize"
+          "value": "0.320",
+          "sub": "NOT DED"
         },
         {
           "label": "Floor",
@@ -149,41 +154,37 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.58 ETH",
-      "raw": 0.5772,
-      "delta": -0.21749999999999992,
-      "delta_fmt": "-27.4%"
+      "value": "1.19 ETH",
+      "raw": 1.1871,
+      "delta": 0.3924000000000001,
+      "delta_fmt": "+49.4%"
     },
     {
       "label": "7d Vol",
-      "value": "21.45 ETH",
-      "raw": 21.4511
+      "value": "21.66 ETH",
+      "raw": 21.6638
     },
     {
       "label": "30d Vol",
-      "value": "69.61 ETH",
-      "raw": 69.6123
+      "value": "70.22 ETH",
+      "raw": 70.2222
     },
     {
       "label": "Full Set Bid",
-      "value": "40.4 ETH",
-      "raw": 40.36,
-      "delta": -0.259999999999998,
-      "delta_fmt": "-0.26 ETH"
+      "value": "40.5 ETH",
+      "raw": 40.52,
+      "delta": 0.1600000000000037,
+      "delta_fmt": "+0.16 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1604.0M",
-      "raw": 1604042743,
-      "delta": 2617295,
-      "delta_fmt": "+2.6M TDH"
+      "raw": 1604042743
     },
     {
       "label": "#1 Zigmarillion",
       "value": "46.4M TDH",
-      "raw": 46356945,
-      "delta": 250000,
-      "delta_fmt": "+0.2M TDH"
+      "raw": 46356945
     },
     {
       "label": "#1 CasaNUA",
@@ -259,8 +260,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 172 MSGS IN LAST 6H",
     "CARD #496: 140 MINTS (EXCL. MUSEUM) | 92 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: SHERIE_MARGARET (98 MSGS) | MAYBE (93) | SARIRAA (57)",
-    "DIVE BAR: 265 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SHERIE_MARGARET (97 MSGS) | MAYBE (93) | SARIRAA (57)"
   ]
 }
