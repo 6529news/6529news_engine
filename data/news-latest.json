@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T08:27:58.818226+00:00",
+  "generated_at": "2026-05-16T09:59:29.267224+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#8 Bicasso \u2014 5K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (322K) | Gsen (149K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (5K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 1.27 ETH Volume",
-      "summary": "16 sales in 24h for 1.27 ETH. Highest: \"NOT DED\" at 0.320 ETH.",
+      "headline": "20 Sales Today - 1.49 ETH Volume",
+      "summary": "20 sales in 24h for 1.49 ETH. Highest: \"NOT DED\" at 0.320 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -122,20 +122,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/313.GIF",
-          "label": "The Only Constant Is Change - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/197.GIF",
+          "label": "End the Struggle - 0.100 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.27",
+          "value": "1.49",
           "sub": "ETH"
         },
         {
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.27 ETH",
-      "raw": 1.2711,
-      "delta": 0.47639999999999993,
-      "delta_fmt": "+59.9%"
+      "value": "1.49 ETH",
+      "raw": 1.4917,
+      "delta": 0.7282000000000001,
+      "delta_fmt": "+95.4%"
     },
     {
       "label": "7d Vol",
-      "value": "21.75 ETH",
-      "raw": 21.7478
+      "value": "21.98 ETH",
+      "raw": 21.9765
     },
     {
       "label": "30d Vol",
-      "value": "70.31 ETH",
-      "raw": 70.3062
+      "value": "70.55 ETH",
+      "raw": 70.5541
     },
     {
       "label": "Full Set Bid",
-      "value": "42.2 ETH",
-      "raw": 42.18,
-      "delta": 1.6599999999999966,
-      "delta_fmt": "+1.66 ETH"
+      "value": "42.3 ETH",
+      "raw": 42.28,
+      "delta": 0.10000000000000142,
+      "delta_fmt": "+0.10 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,9 +184,7 @@
     {
       "label": "#1 Zigmarillion",
       "value": "46.4M TDH",
-      "raw": 46357272,
-      "delta": 327,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 46357272
     },
     {
       "label": "#1 CasaNUA",
@@ -262,8 +260,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #496: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: MAYBE (93 MSGS) | SHERIE_MARGARET (84) | SARIRAA (57)",
-    "DIVE BAR: 82 MSGS IN LAST 6H"
+    "DIVE BAR: 84 MSGS IN LAST 6H",
+    "CARD #496: 142 MINTS (EXCL. MUSEUM) | 94 HOLDERS | WAGMI ULULATION",
+    "ACTIVE TODAY: MAYBE (93 MSGS) | SHERIE_MARGARET (82) | SARIRAA (58)"
   ]
 }
