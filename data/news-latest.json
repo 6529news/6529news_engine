@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T11:59:35.257838+00:00",
+  "generated_at": "2026-05-17T13:52:13.612053+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zigmarillion Leads with 47.4M Projected TDH",
-      "summary": "\"Network State of Mind\" by Zigmarillion (47.4M projected TDH, 104 voters) | \"The Meme Market\" by 1dontknows (42.4M projected TDH, 74 voters) | \"The Antifragile Bazaar\" by Zar (36.0M projected TDH, 41 voters) Next selection: Mon May 18 at 17:00 CET.",
+      "summary": "\"Network State of Mind\" by Zigmarillion (47.4M projected TDH, 105 voters) | \"The Meme Market\" by 1dontknows (42.4M projected TDH, 74 voters) | \"The Antifragile Bazaar\" by Zar (36.0M projected TDH, 41 voters) Next selection: Mon May 18 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Zigmarillion",
           "value": "47.4M",
-          "sub": "proj. (104 votes)"
+          "sub": "proj. (105 votes)"
         },
         {
           "label": "1dontknows",
@@ -47,18 +47,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: blocknoob (11.3M) | JennaDixon (4.0M) | elnaz555 (2.0M) | EdBalloon (1.5M).",
+      "summary": "4 submissions this week. Ranking: blocknoob (17.6M) | JennaDixon (4.0M) | elnaz555 (2.0M) | EdBalloon (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
-        "label": "blocknoob (11.3M)",
+        "label": "blocknoob (17.6M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
-          "label": "blocknoob (11.3M)",
+          "label": "blocknoob (17.6M)",
           "type": "video"
         },
         {
@@ -76,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (60K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "30 Sales Today - 2.14 ETH Volume",
-      "summary": "30 sales in 24h for 2.14 ETH. Highest: \"The Institutions Are Coming\" at 0.350 ETH.",
+      "headline": "30 Sales Today - 2.06 ETH Volume",
+      "summary": "30 sales in 24h for 2.06 ETH. Highest: \"The Institutions Are Coming\" at 0.350 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -122,7 +122,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "2.14",
+          "value": "2.06",
           "sub": "ETH"
         },
         {
@@ -141,27 +141,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.14 ETH",
-      "raw": 2.1355,
-      "delta": 0.5183,
-      "delta_fmt": "+32.0%"
+      "value": "2.06 ETH",
+      "raw": 2.0565,
+      "delta": 0.6091000000000002,
+      "delta_fmt": "+42.1%"
     },
     {
       "label": "7d Vol",
-      "value": "22.09 ETH",
-      "raw": 22.0853
+      "value": "19.28 ETH",
+      "raw": 19.2842
     },
     {
       "label": "30d Vol",
-      "value": "63.48 ETH",
-      "raw": 63.4771
+      "value": "63.54 ETH",
+      "raw": 63.5371
     },
     {
       "label": "Full Set Bid",
-      "value": "40.8 ETH",
-      "raw": 40.75,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "41.0 ETH",
+      "raw": 40.98,
+      "delta": 0.22999999999999687,
+      "delta_fmt": "+0.23 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,8 +171,8 @@
     {
       "label": "#1 Zigmarillion",
       "value": "47.4M TDH",
-      "raw": 47373338,
-      "delta": 178,
+      "raw": 47374886,
+      "delta": 1548,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -249,8 +249,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 176 MSGS IN LAST 6H",
     "CARD #496: 148 MINTS (EXCL. MUSEUM) | 100 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (112 MSGS) | WALASAVAGEPHOTO (67) | JAMESANDREW (61)",
-    "DIVE BAR: 170 MSGS IN LAST 6H"
+    "ACTIVE TODAY: FRANKIEHGIH_ETH (118 MSGS) | WALASAVAGEPHOTO (67) | JAMESANDREW (58)"
   ]
 }
