@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T16:00:34.507097+00:00",
+  "generated_at": "2026-05-17T17:14:10.283871+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,30 +17,30 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Zigmarillion Leads with 47.4M Projected TDH",
-      "summary": "\"Network State of Mind\" by Zigmarillion (47.4M projected TDH, 105 voters) | \"The Meme Market\" by 1dontknows (43.4M projected TDH, 74 voters) | \"The Antifragile Bazaar\" by Zar (36.3M projected TDH, 44 voters) Next selection: Mon May 18 at 17:00 CET.",
+      "headline": "1dontknows Leads with 48.9M Projected TDH",
+      "summary": "\"The Meme Market\" by 1dontknows (48.9M projected TDH, 74 voters) | \"Network State of Mind\" by Zigmarillion (47.4M projected TDH, 105 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (31.8M projected TDH, 58 voters) Next selection: Mon May 18 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/caf624ab-6ac7-4cf6-837c-55215aea0ed7.gif",
-        "label": "Network State of Mind - Zigmarillion",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a39cb446-686a-4a3e-83b7-62ee1310e210/4825912a-057e-4a56-9690-aafcb660f83c.jpg",
+        "label": "The Meme Market - 1dontknows",
         "type": "image"
       },
       "dataBoxes": [
+        {
+          "label": "1dontknows",
+          "value": "48.9M",
+          "sub": "proj. (74 votes)"
+        },
         {
           "label": "Zigmarillion",
           "value": "47.4M",
           "sub": "proj. (105 votes)"
         },
         {
-          "label": "1dontknows",
-          "value": "43.4M",
-          "sub": "proj. (74 votes)"
-        },
-        {
-          "label": "Zar",
-          "value": "36.3M",
-          "sub": "proj. (44 votes)"
+          "label": "SonOfLasG",
+          "value": "31.8M",
+          "sub": "proj. (58 votes)"
         }
       ]
     },
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (60K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -104,13 +104,13 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/490.GIF",
-          "label": "ASCENT - 0.169 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/427.WEBP",
+          "label": "Intersubjective Infection - 0.160 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/427.WEBP",
-          "label": "Intersubjective Infection - 0.160 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/113.WEBP",
+          "label": "Time to BUIDL - 0.130 ETH",
           "type": "image"
         }
       ],
@@ -143,8 +143,8 @@
       "label": "24h Vol",
       "value": "1.94 ETH",
       "raw": 1.9365,
-      "delta": 0.43100000000000005,
-      "delta_fmt": "+28.6%"
+      "delta": 0.2885000000000002,
+      "delta_fmt": "+17.5%"
     },
     {
       "label": "7d Vol",
@@ -158,15 +158,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.0 ETH",
-      "raw": 41.04,
-      "delta": 0.14000000000000057,
-      "delta_fmt": "+0.14 ETH"
+      "value": "41.3 ETH",
+      "raw": 41.31,
+      "delta": 0.2700000000000031,
+      "delta_fmt": "+0.27 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1606.3M",
       "raw": 1606323882
+    },
+    {
+      "label": "#1 1dontknows",
+      "value": "48.9M TDH",
+      "raw": 48865747,
+      "delta": -4818088,
+      "delta_fmt": "-4.8M TDH"
     },
     {
       "label": "#1 Zigmarillion",
@@ -247,8 +254,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 45 MSGS IN LAST 6H",
     "CARD #496: 148 MINTS (EXCL. MUSEUM) | 100 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (118 MSGS) | WALASAVAGEPHOTO (67) | ASHTONTEKNO (48)",
-    "DIVE BAR: 58 MSGS IN LAST 6H"
+    "ACTIVE TODAY: FRANKIEHGIH_ETH (118 MSGS) | WALASAVAGEPHOTO (67) | ASHTONTEKNO (48)"
   ]
 }
