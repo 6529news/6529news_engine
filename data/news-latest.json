@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T10:50:26.572013+00:00",
+  "generated_at": "2026-05-17T11:59:35.257838+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zigmarillion Leads with 47.4M Projected TDH",
-      "summary": "\"Network State of Mind\" by Zigmarillion (47.4M projected TDH, 103 voters) | \"The Meme Market\" by 1dontknows (42.4M projected TDH, 73 voters) | \"The Antifragile Bazaar\" by Zar (36.0M projected TDH, 41 voters) Next selection: Mon May 18 at 17:00 CET.",
+      "summary": "\"Network State of Mind\" by Zigmarillion (47.4M projected TDH, 104 voters) | \"The Meme Market\" by 1dontknows (42.4M projected TDH, 74 voters) | \"The Antifragile Bazaar\" by Zar (36.0M projected TDH, 41 voters) Next selection: Mon May 18 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "Zigmarillion",
           "value": "47.4M",
-          "sub": "proj. (103 votes)"
+          "sub": "proj. (104 votes)"
         },
         {
           "label": "1dontknows",
           "value": "42.4M",
-          "sub": "proj. (73 votes)"
+          "sub": "proj. (74 votes)"
         },
         {
           "label": "Zar",
@@ -76,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (60K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "33 Sales Today - 2.10 ETH Volume",
-      "summary": "33 sales in 24h for 2.10 ETH. Highest: \"The Institutions Are Coming\" at 0.350 ETH.",
+      "headline": "30 Sales Today - 2.14 ETH Volume",
+      "summary": "30 sales in 24h for 2.14 ETH. Highest: \"The Institutions Are Coming\" at 0.350 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,12 +117,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "33",
+          "value": "30",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.10",
+          "value": "2.14",
           "sub": "ETH"
         },
         {
@@ -141,27 +141,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.10 ETH",
-      "raw": 2.1016,
-      "delta": 0.48439999999999994,
-      "delta_fmt": "+30.0%"
+      "value": "2.14 ETH",
+      "raw": 2.1355,
+      "delta": 0.5183,
+      "delta_fmt": "+32.0%"
     },
     {
       "label": "7d Vol",
-      "value": "21.93 ETH",
-      "raw": 21.9253
+      "value": "22.09 ETH",
+      "raw": 22.0853
     },
     {
       "label": "30d Vol",
-      "value": "63.32 ETH",
-      "raw": 63.3171
+      "value": "63.48 ETH",
+      "raw": 63.4771
     },
     {
       "label": "Full Set Bid",
       "value": "40.8 ETH",
-      "raw": 40.76,
-      "delta": -0.05000000000000426,
-      "delta_fmt": "-0.05 ETH"
+      "raw": 40.75,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,7 +171,9 @@
     {
       "label": "#1 Zigmarillion",
       "value": "47.4M TDH",
-      "raw": 47373160
+      "raw": 47373338,
+      "delta": 178,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -247,8 +249,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 168 MSGS IN LAST 6H",
     "CARD #496: 148 MINTS (EXCL. MUSEUM) | 100 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (110 MSGS) | WALASAVAGEPHOTO (67) | JAMESANDREW (61)",
-    "DIVE BAR: 168 MSGS IN LAST 6H"
+    "ACTIVE TODAY: FRANKIEHGIH_ETH (112 MSGS) | WALASAVAGEPHOTO (67) | JAMESANDREW (61)"
   ]
 }
