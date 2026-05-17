@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T14:56:14.027749+00:00",
+  "generated_at": "2026-05-17T16:00:34.507097+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zigmarillion Leads with 47.4M Projected TDH",
-      "summary": "\"Network State of Mind\" by Zigmarillion (47.4M projected TDH, 105 voters) | \"The Meme Market\" by 1dontknows (42.4M projected TDH, 74 voters) | \"The Antifragile Bazaar\" by Zar (36.3M projected TDH, 44 voters) Next selection: Mon May 18 at 17:00 CET.",
+      "summary": "\"Network State of Mind\" by Zigmarillion (47.4M projected TDH, 105 voters) | \"The Meme Market\" by 1dontknows (43.4M projected TDH, 74 voters) | \"The Antifragile Bazaar\" by Zar (36.3M projected TDH, 44 voters) Next selection: Mon May 18 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,7 +34,7 @@
         },
         {
           "label": "1dontknows",
-          "value": "42.4M",
+          "value": "43.4M",
           "sub": "proj. (74 votes)"
         },
         {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (60K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -158,10 +158,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.9,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "value": "41.0 ETH",
+      "raw": 41.04,
+      "delta": 0.14000000000000057,
+      "delta_fmt": "+0.14 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,9 +171,7 @@
     {
       "label": "#1 Zigmarillion",
       "value": "47.4M TDH",
-      "raw": 47378454,
-      "delta": 3568,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 47378454
     },
     {
       "label": "#1 CasaNUA",
@@ -249,8 +247,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 67 MSGS IN LAST 6H",
     "CARD #496: 148 MINTS (EXCL. MUSEUM) | 100 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (118 MSGS) | WALASAVAGEPHOTO (67) | ASHTONTEKNO (48)",
-    "DIVE BAR: 69 MSGS IN LAST 6H"
+    "ACTIVE TODAY: FRANKIEHGIH_ETH (118 MSGS) | WALASAVAGEPHOTO (67) | ASHTONTEKNO (48)"
   ]
 }
