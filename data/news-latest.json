@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T20:31:42.321233+00:00",
+  "generated_at": "2026-05-17T21:39:07.003780+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,33 +76,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (60K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "29 Sales Today - 1.77 ETH Volume",
-      "summary": "29 sales in 24h for 1.77 ETH. Highest: \"The Institutions Are Coming\" at 0.350 ETH.",
+      "headline": "22 Sales Today - 1.17 ETH Volume",
+      "summary": "22 sales in 24h for 1.17 ETH. Highest: \"Intersubjective Infection\" at 0.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
-        "label": "The Institutions Are Coming - 0.350 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/427.WEBP",
+        "label": "Intersubjective Infection - 0.160 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
-          "label": "The Institutions Are Coming - 0.350 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/427.WEBP",
           "label": "Intersubjective Infection - 0.160 ETH",
@@ -112,23 +107,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/113.WEBP",
           "label": "Time to BUIDL - 0.130 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/372.WEBP",
+          "label": "VIVA SATOSHI - 0.100 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "29",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.77",
+          "value": "1.17",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.350",
-          "sub": "The Institutions Are"
+          "value": "0.160",
+          "sub": "Intersubjective Infe"
         },
         {
           "label": "Floor",
@@ -141,25 +141,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.77 ETH",
-      "raw": 1.7654,
-      "delta": -0.17520000000000002,
-      "delta_fmt": "-9.0%"
+      "value": "1.17 ETH",
+      "raw": 1.1719,
+      "delta": -1.181,
+      "delta_fmt": "-50.2%"
     },
     {
       "label": "7d Vol",
-      "value": "19.13 ETH",
-      "raw": 19.1294
+      "value": "19.18 ETH",
+      "raw": 19.1754
     },
     {
       "label": "30d Vol",
-      "value": "63.68 ETH",
-      "raw": 63.6801
+      "value": "63.73 ETH",
+      "raw": 63.7261
     },
     {
       "label": "Full Set Bid",
-      "value": "40.4 ETH",
-      "raw": 40.43
+      "value": "40.0 ETH",
+      "raw": 40.03,
+      "delta": -0.3999999999999986,
+      "delta_fmt": "-0.40 ETH"
     },
     {
       "label": "Network TDH",
@@ -169,9 +171,7 @@
     {
       "label": "#1 1dontknows",
       "value": "50.5M TDH",
-      "raw": 50497601,
-      "delta": 1625807,
-      "delta_fmt": "+1.6M TDH"
+      "raw": 50497601
     },
     {
       "label": "#1 Zigmarillion",
@@ -252,8 +252,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
     "CARD #496: 148 MINTS (EXCL. MUSEUM) | 100 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (118 MSGS) | WALASAVAGEPHOTO (67) | ASHTONTEKNO (48)",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "ACTIVE TODAY: FRANKIEHGIH_ETH (118 MSGS) | WALASAVAGEPHOTO (67) | ASHTONTEKNO (48)"
   ]
 }
