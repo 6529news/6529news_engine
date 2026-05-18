@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T18:05:48.120660+00:00",
+  "generated_at": "2026-05-18T19:11:45.318575+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Zar Leads with 48.8M Projected TDH",
-      "summary": "\"The Antifragile Bazaar\" by Zar (48.8M projected TDH, 48 voters) | \"Network State of Mind\" by Zigmarillion (48.6M projected TDH, 109 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (31.6M projected TDH, 60 voters) Next selection: Wed May 20 at 17:00 CET.",
+      "headline": "Zar Leads with 52.4M Projected TDH",
+      "summary": "\"The Antifragile Bazaar\" by Zar (52.4M projected TDH, 49 voters) | \"Network State of Mind\" by Zigmarillion (48.6M projected TDH, 109 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (31.6M projected TDH, 61 voters) Next selection: Wed May 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Zar",
-          "value": "48.8M",
-          "sub": "proj. (48 votes)"
+          "value": "52.4M",
+          "sub": "proj. (49 votes)"
         },
         {
           "label": "Zigmarillion",
@@ -53,25 +53,25 @@
         {
           "label": "SonOfLasG",
           "value": "31.6M",
-          "sub": "proj. (60 votes)"
+          "sub": "proj. (61 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: blocknoob (17.7M) | JennaDixon (4.3M) | elnaz555 (2.0M) | EdBalloon (1.7M).",
+      "summary": "4 submissions this week. Ranking: blocknoob (17.9M) | JennaDixon (4.3M) | elnaz555 (2.0M) | EdBalloon (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
-        "label": "blocknoob (17.7M)",
+        "label": "blocknoob (17.9M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
-          "label": "blocknoob (17.7M)",
+          "label": "blocknoob (17.9M)",
           "type": "video"
         },
         {
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#13 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (61K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 1.56 ETH Volume",
-      "summary": "21 sales in 24h for 1.56 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.157 ETH.",
+      "headline": "22 Sales Today - 1.57 ETH Volume",
+      "summary": "22 sales in 24h for 1.57 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.157 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.56",
+          "value": "1.57",
           "sub": "ETH"
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01697788",
+          "value": "0.01697788888",
           "sub": "ETH"
         }
       ]
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.56 ETH",
-      "raw": 1.5628,
-      "delta": -0.2047000000000001,
-      "delta_fmt": "-11.6%"
+      "value": "1.57 ETH",
+      "raw": 1.5668,
+      "delta": -0.13559999999999994,
+      "delta_fmt": "-8.0%"
     },
     {
       "label": "7d Vol",
-      "value": "17.16 ETH",
-      "raw": 17.1592
+      "value": "14.39 ETH",
+      "raw": 14.3936
     },
     {
       "label": "30d Vol",
-      "value": "64.76 ETH",
-      "raw": 64.7637
+      "value": "64.83 ETH",
+      "raw": 64.8306
     },
     {
       "label": "Full Set Bid",
-      "value": "43.4 ETH",
-      "raw": 43.42,
-      "delta": 0.010000000000005116,
-      "delta_fmt": "+0.01 ETH"
+      "value": "43.1 ETH",
+      "raw": 43.12,
+      "delta": -0.30000000000000426,
+      "delta_fmt": "-0.30 ETH"
     },
     {
       "label": "Network TDH",
@@ -183,10 +183,10 @@
     },
     {
       "label": "#1 Zar",
-      "value": "48.8M TDH",
-      "raw": 48829520,
-      "delta": -4854315,
-      "delta_fmt": "-4.9M TDH"
+      "value": "52.4M TDH",
+      "raw": 52443825,
+      "delta": 3614305,
+      "delta_fmt": "+3.6M TDH"
     },
     {
       "label": "#1 Zigmarillion",
@@ -276,7 +276,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #497: 121 MINTS (EXCL. MUSEUM) | 94 HOLDERS | 6529 MEMES AT THE BOYS' CLUB",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #497: 121 MINTS (EXCL. MUSEUM) | 94 HOLDERS | 6529 MEMES AT THE BOYS' CLUB"
   ]
 }
