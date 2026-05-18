@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T14:19:20.163997+00:00",
+  "generated_at": "2026-05-18T17:16:45.990248+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,30 +16,43 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "1dontknows Leads with 53.3M Projected TDH",
-      "summary": "\"The Meme Market\" by 1dontknows (53.3M projected TDH, 80 voters) | \"Network State of Mind\" by Zigmarillion (48.3M projected TDH, 108 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (31.8M projected TDH, 60 voters) Next selection: Mon May 18 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING WEDNESDAY",
+      "headline": "Minting Wednesday",
+      "summary": " \"The Meme Market\" by 1dontknows \u2014 53.3M TDH from 80 voters. Top supporter: Thor (17.6M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a39cb446-686a-4a3e-83b7-62ee1310e210/4825912a-057e-4a56-9690-aafcb660f83c.jpg",
         "label": "The Meme Market - 1dontknows",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "Zigmarillion Leads with 48.6M Projected TDH",
+      "summary": "\"Network State of Mind\" by Zigmarillion (48.6M projected TDH, 109 voters) | \"The Antifragile Bazaar\" by Zar (48.4M projected TDH, 47 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (32.0M projected TDH, 60 voters) Next selection: Wed May 20 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/caf624ab-6ac7-4cf6-837c-55215aea0ed7.gif",
+        "label": "Network State of Mind - Zigmarillion",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "1dontknows",
-          "value": "53.3M",
-          "sub": "proj. (80 votes)"
+          "label": "Zigmarillion",
+          "value": "48.6M",
+          "sub": "proj. (109 votes)"
         },
         {
-          "label": "Zigmarillion",
-          "value": "48.3M",
-          "sub": "proj. (108 votes)"
+          "label": "Zar",
+          "value": "48.4M",
+          "sub": "proj. (47 votes)"
         },
         {
           "label": "SonOfLasG",
-          "value": "31.8M",
+          "value": "32.0M",
           "sub": "proj. (60 votes)"
         }
       ]
@@ -47,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: blocknoob (17.7M) | JennaDixon (4.2M) | elnaz555 (2.0M) | EdBalloon (1.7M).",
+      "summary": "4 submissions this week. Ranking: blocknoob (17.7M) | JennaDixon (4.3M) | elnaz555 (2.0M) | EdBalloon (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -63,7 +76,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_928ee309-cd3a-4d4d-95cb-adfeaa338444/2bc0bf08-ba05-4cea-8706-66cb6e0b3f7c/Freedom-To-Ascend-6529.mp4",
-          "label": "JennaDixon (4.2M)",
+          "label": "JennaDixon (4.3M)",
           "type": "video"
         },
         {
@@ -76,31 +89,31 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 5K TDH",
-      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (60K) | Bicasso (5K)",
+      "headline": "#9 Bicasso \u2014 0 TDH",
+      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (61K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (5K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 1.05 ETH Volume",
-      "summary": "15 sales in 24h for 1.05 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.130 ETH.",
+      "headline": "19 Sales Today - 1.45 ETH Volume",
+      "summary": "19 sales in 24h for 1.45 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.157 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
-        "label": "< no, really [ this ] is going to be our year > - 0.130 ETH",
+        "label": "< no, really [ this ] is going to be our year > - 0.157 ETH",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
-          "label": "< no, really [ this ] is going to be our year > - 0.130 ETH",
+          "label": "< no, really [ this ] is going to be our year > - 0.157 ETH",
           "type": "image"
         },
         {
@@ -117,17 +130,17 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "19",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.05",
+          "value": "1.45",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.130",
+          "value": "0.157",
           "sub": "< no, really [ this "
         },
         {
@@ -141,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.05 ETH",
-      "raw": 1.0489,
-      "delta": -1.0076000000000003,
-      "delta_fmt": "-49.0%"
+      "value": "1.45 ETH",
+      "raw": 1.4528,
+      "delta": -0.4837,
+      "delta_fmt": "-25.0%"
     },
     {
       "label": "7d Vol",
-      "value": "16.65 ETH",
-      "raw": 16.6453
+      "value": "17.05 ETH",
+      "raw": 17.0492
     },
     {
       "label": "30d Vol",
-      "value": "64.25 ETH",
-      "raw": 64.2498
+      "value": "64.65 ETH",
+      "raw": 64.6537
     },
     {
       "label": "Full Set Bid",
-      "value": "38.1 ETH",
-      "raw": 38.12,
-      "delta": 2.3599999999999994,
-      "delta_fmt": "+2.36 ETH"
+      "value": "43.4 ETH",
+      "raw": 43.41,
+      "delta": 5.289999999999999,
+      "delta_fmt": "+5.29 ETH"
     },
     {
       "label": "Network TDH",
@@ -169,16 +182,18 @@
       "raw": 1608902594
     },
     {
+      "label": "#1 Zigmarillion",
+      "value": "48.6M TDH",
+      "raw": 48603192,
+      "delta": 1224738,
+      "delta_fmt": "+1.2M TDH"
+    },
+    {
       "label": "#1 1dontknows",
       "value": "53.3M TDH",
       "raw": 53285490,
       "delta": 2631,
       "delta_fmt": "+0.0M TDH"
-    },
-    {
-      "label": "#1 Zigmarillion",
-      "value": "47.4M TDH",
-      "raw": 47378454
     },
     {
       "label": "#1 CasaNUA",
@@ -254,7 +269,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #497: 109 MINTS (EXCL. MUSEUM) | 80 HOLDERS | 6529 MEMES AT THE BOYS' CLUB",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #497: 119 MINTS (EXCL. MUSEUM) | 89 HOLDERS | 6529 MEMES AT THE BOYS' CLUB"
   ]
 }
