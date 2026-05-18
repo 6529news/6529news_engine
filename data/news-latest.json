@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T22:02:26.321322+00:00",
+  "generated_at": "2026-05-18T23:18:47.175443+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"6529 Memes at the Boys' Club\" by CasaNUA \u2014 64.4M TDH from 70 voters. Top supporter: gpebbles (14.3M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"6529 Memes at the Boys' Club\" by CasaNUA \u2014 64.4M TDH from 70 voters. Top supporter: gpebbles (14.3M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -59,8 +59,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: blocknoob (20.9M) | JennaDixon (4.3M) | EdBalloon (2.7M) | elnaz555 (2.3M).",
+      "headline": "5 New Memes Submissions This Week",
+      "summary": "5 submissions this week. Ranking: blocknoob (20.9M) | JennaDixon (4.3M) | EdBalloon (2.7M) | RegularDad (2.7M) | elnaz555 (2.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -156,8 +156,8 @@
       "label": "24h Vol",
       "value": "1.80 ETH",
       "raw": 1.8008,
-      "delta": 0.6289,
-      "delta_fmt": "+53.7%"
+      "delta": 0.7778,
+      "delta_fmt": "+76.0%"
     },
     {
       "label": "7d Vol",
@@ -171,10 +171,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "43.3 ETH",
-      "raw": 43.31,
-      "delta": 0.060000000000002274,
-      "delta_fmt": "+0.06 ETH"
+      "value": "43.4 ETH",
+      "raw": 43.38,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Network TDH",
@@ -274,7 +274,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #497: 126 MINTS (EXCL. MUSEUM) | 95 HOLDERS | 6529 MEMES AT THE BOYS' CLUB",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #497: 136 MINTS (EXCL. MUSEUM) | 95 HOLDERS | 6529 MEMES AT THE BOYS' CLUB"
   ]
 }
