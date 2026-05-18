@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T01:50:33.400776+00:00",
+  "generated_at": "2026-05-18T06:14:11.249989+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 60K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (60K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
+        "label": "blake69 (60K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 1.20 ETH Volume",
-      "summary": "24 sales in 24h for 1.20 ETH. Highest: \"Intersubjective Infection\" at 0.160 ETH.",
+      "headline": "24 Sales Today - 1.38 ETH Volume",
+      "summary": "24 sales in 24h for 1.38 ETH. Highest: \"Intersubjective Infection\" at 0.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -104,13 +104,13 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/372.WEBP",
-          "label": "VIVA SATOSHI - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/444.WEBP",
+          "label": "May Be Nothing... - 0.100 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/458.GIF",
-          "label": "Bat Soup gives me Wings... - 0.080 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/372.WEBP",
+          "label": "VIVA SATOSHI - 0.100 ETH",
           "type": "image"
         }
       ],
@@ -122,7 +122,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.20",
+          "value": "1.38",
           "sub": "ETH"
         },
         {
@@ -141,34 +141,32 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.20 ETH",
-      "raw": 1.198,
-      "delta": -1.3034,
-      "delta_fmt": "-52.1%"
+      "value": "1.38 ETH",
+      "raw": 1.3757,
+      "delta": -0.6336999999999999,
+      "delta_fmt": "-31.5%"
     },
     {
       "label": "7d Vol",
-      "value": "19.24 ETH",
-      "raw": 19.2435
+      "value": "19.64 ETH",
+      "raw": 19.639
     },
     {
       "label": "30d Vol",
-      "value": "63.48 ETH",
-      "raw": 63.4849
+      "value": "63.88 ETH",
+      "raw": 63.8805
     },
     {
       "label": "Full Set Bid",
-      "value": "40.0 ETH",
-      "raw": 40.02,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "value": "39.1 ETH",
+      "raw": 39.13,
+      "delta": -0.8900000000000006,
+      "delta_fmt": "-0.89 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1608.9M",
-      "raw": 1608902594,
-      "delta": 2578712,
-      "delta_fmt": "+2.6M TDH"
+      "raw": 1608902594
     },
     {
       "label": "#1 1dontknows",
@@ -254,8 +252,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
     "CARD #496: 148 MINTS (EXCL. MUSEUM) | 100 HOLDERS | WAGMI ULULATION",
-    "ACTIVE TODAY: FRANKIEHGIH_ETH (112 MSGS) | WALASAVAGEPHOTO (67) | ASHTONTEKNO (48)",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "ACTIVE TODAY: SENEMSAD (24 MSGS) | MAYUDROPS (23) | SHERIE_MARGARET (11)"
   ]
 }
