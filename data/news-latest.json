@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T20:46:10.239926+00:00",
+  "generated_at": "2026-05-18T22:02:26.321322+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: blocknoob (20.9M) | JennaDixon (4.3M) | EdBalloon (2.7M) | elnaz555 (2.0M).",
+      "summary": "4 submissions this week. Ranking: blocknoob (20.9M) | JennaDixon (4.3M) | EdBalloon (2.7M) | elnaz555 (2.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (61K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -155,26 +155,26 @@
     {
       "label": "24h Vol",
       "value": "1.80 ETH",
-      "raw": 1.7968,
-      "delta": 0.03139999999999987,
-      "delta_fmt": "+1.8%"
+      "raw": 1.8008,
+      "delta": 0.6289,
+      "delta_fmt": "+53.7%"
     },
     {
       "label": "7d Vol",
-      "value": "14.62 ETH",
-      "raw": 14.6236
+      "value": "14.67 ETH",
+      "raw": 14.6736
     },
     {
       "label": "30d Vol",
-      "value": "65.06 ETH",
-      "raw": 65.0606
+      "value": "65.11 ETH",
+      "raw": 65.1106
     },
     {
       "label": "Full Set Bid",
       "value": "43.3 ETH",
-      "raw": 43.25,
-      "delta": 0.13000000000000256,
-      "delta_fmt": "+0.13 ETH"
+      "raw": 43.31,
+      "delta": 0.060000000000002274,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,9 +184,7 @@
     {
       "label": "#1 Zar",
       "value": "49.7M TDH",
-      "raw": 49743825,
-      "delta": -2700000,
-      "delta_fmt": "-2.7M TDH"
+      "raw": 49743825
     },
     {
       "label": "#1 Zigmarillion",
@@ -276,7 +274,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #497: 125 MINTS (EXCL. MUSEUM) | 94 HOLDERS | 6529 MEMES AT THE BOYS' CLUB",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #497: 126 MINTS (EXCL. MUSEUM) | 95 HOLDERS | 6529 MEMES AT THE BOYS' CLUB"
   ]
 }
