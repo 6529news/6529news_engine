@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T08:48:36.644670+00:00",
+  "generated_at": "2026-05-19T12:10:53.587867+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Zar Leads with 49.8M Projected TDH",
-      "summary": "\"The Antifragile Bazaar\" by Zar (49.8M projected TDH, 51 voters) | \"Network State of Mind\" by Zigmarillion (48.6M projected TDH, 109 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (36.6M projected TDH, 61 voters) Next selection: Wed May 20 at 17:00 CET.",
+      "headline": "Zar Leads with 52.8M Projected TDH",
+      "summary": "\"The Antifragile Bazaar\" by Zar (52.8M projected TDH, 52 voters) | \"Network State of Mind\" by Zigmarillion (49.4M projected TDH, 110 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (36.6M projected TDH, 61 voters) Next selection: Wed May 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "Zar",
-          "value": "49.8M",
-          "sub": "proj. (51 votes)"
+          "value": "52.8M",
+          "sub": "proj. (52 votes)"
         },
         {
           "label": "Zigmarillion",
-          "value": "48.6M",
-          "sub": "proj. (109 votes)"
+          "value": "49.4M",
+          "sub": "proj. (110 votes)"
         },
         {
           "label": "SonOfLasG",
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
-      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (61K) | Bicasso (5K)",
+      "headline": "#9 Bicasso \u2014 0 TDH",
+      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 2.67 ETH Volume",
-      "summary": "15 sales in 24h for 2.67 ETH. Highest: \"Sgt. Pepe\" at 1.400 ETH.",
+      "headline": "15 Sales Today - 2.49 ETH Volume",
+      "summary": "15 sales in 24h for 2.49 ETH. Highest: \"Sgt. Pepe\" at 1.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -135,7 +135,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "2.67",
+          "value": "2.49",
           "sub": "ETH"
         },
         {
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.67 ETH",
-      "raw": 2.6719,
-      "delta": 1.323,
-      "delta_fmt": "+98.1%"
+      "value": "2.49 ETH",
+      "raw": 2.4905,
+      "delta": 1.1416,
+      "delta_fmt": "+84.6%"
     },
     {
       "label": "7d Vol",
-      "value": "15.94 ETH",
-      "raw": 15.9399
+      "value": "15.97 ETH",
+      "raw": 15.9695
     },
     {
       "label": "30d Vol",
-      "value": "64.87 ETH",
-      "raw": 64.866
+      "value": "64.90 ETH",
+      "raw": 64.8956
     },
     {
       "label": "Full Set Bid",
-      "value": "41.6 ETH",
-      "raw": 41.58,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "value": "41.5 ETH",
+      "raw": 41.49,
+      "delta": -0.0899999999999963,
+      "delta_fmt": "-0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -183,10 +183,10 @@
     },
     {
       "label": "#1 Zar",
-      "value": "49.8M TDH",
-      "raw": 49783170,
-      "delta": 27356,
-      "delta_fmt": "+0.0M TDH"
+      "value": "52.8M TDH",
+      "raw": 52847160,
+      "delta": 3063990,
+      "delta_fmt": "+3.1M TDH"
     },
     {
       "label": "#1 Zigmarillion",
@@ -277,7 +277,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.400 ETH",
-    "CARD #497: 139 MINTS (EXCL. MUSEUM) | 98 HOLDERS | 6529 MEMES AT THE BOYS' CLUB",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #497: 139 MINTS (EXCL. MUSEUM) | 98 HOLDERS | 6529 MEMES AT THE BOYS' CLUB"
   ]
 }
