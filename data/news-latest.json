@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T05:43:55.701836+00:00",
+  "generated_at": "2026-05-19T08:48:36.644670+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zar Leads with 49.8M Projected TDH",
-      "summary": "\"The Antifragile Bazaar\" by Zar (49.8M projected TDH, 50 voters) | \"Network State of Mind\" by Zigmarillion (48.6M projected TDH, 109 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (36.6M projected TDH, 61 voters) Next selection: Wed May 20 at 17:00 CET.",
+      "summary": "\"The Antifragile Bazaar\" by Zar (49.8M projected TDH, 51 voters) | \"Network State of Mind\" by Zigmarillion (48.6M projected TDH, 109 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (36.6M projected TDH, 61 voters) Next selection: Wed May 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Zar",
           "value": "49.8M",
-          "sub": "proj. (50 votes)"
+          "sub": "proj. (51 votes)"
         },
         {
           "label": "Zigmarillion",
@@ -59,21 +59,16 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: blocknoob (21.6M) | JennaDixon (4.5M) | EdBalloon (2.7M) | RegularDad (2.7M) | elnaz555 (2.4M).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: JennaDixon (4.5M) | EdBalloon (2.7M) | RegularDad (2.7M) | elnaz555 (2.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
-        "label": "blocknoob (21.6M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_928ee309-cd3a-4d4d-95cb-adfeaa338444/2bc0bf08-ba05-4cea-8706-66cb6e0b3f7c/Freedom-To-Ascend-6529.mp4",
+        "label": "JennaDixon (4.5M)",
         "type": "video"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
-          "label": "blocknoob (21.6M)",
-          "type": "video"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_928ee309-cd3a-4d4d-95cb-adfeaa338444/2bc0bf08-ba05-4cea-8706-66cb6e0b3f7c/Freedom-To-Ascend-6529.mp4",
           "label": "JennaDixon (4.5M)",
@@ -83,26 +78,31 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_40a68e09-5fb2-41dc-8ee6-e85629b3c3a6/487fd233-550f-43b3-a3fb-4ac77758807f/Comp-1.mp4",
           "label": "EdBalloon (2.7M)",
           "type": "video"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/7e886845-9e16-42fb-8abe-8b27096e1509/Subscribe-and-Chill-v4.png",
+          "label": "RegularDad (2.7M)",
+          "type": "image"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (61K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 2.63 ETH Volume",
-      "summary": "16 sales in 24h for 2.63 ETH. Highest: \"Sgt. Pepe\" at 1.400 ETH.",
+      "headline": "15 Sales Today - 2.67 ETH Volume",
+      "summary": "15 sales in 24h for 2.67 ETH. Highest: \"Sgt. Pepe\" at 1.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.63",
+          "value": "2.67",
           "sub": "ETH"
         },
         {
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.63 ETH",
-      "raw": 2.6302,
-      "delta": 1.2545,
-      "delta_fmt": "+91.2%"
+      "value": "2.67 ETH",
+      "raw": 2.6719,
+      "delta": 1.323,
+      "delta_fmt": "+98.1%"
     },
     {
       "label": "7d Vol",
-      "value": "16.00 ETH",
-      "raw": 15.9986
+      "value": "15.94 ETH",
+      "raw": 15.9399
     },
     {
       "label": "30d Vol",
-      "value": "64.67 ETH",
-      "raw": 64.666
+      "value": "64.87 ETH",
+      "raw": 64.866
     },
     {
       "label": "Full Set Bid",
       "value": "41.6 ETH",
-      "raw": 41.56,
-      "delta": -0.6699999999999946,
-      "delta_fmt": "-0.67 ETH"
+      "raw": 41.58,
+      "delta": 0.01999999999999602,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,8 +184,8 @@
     {
       "label": "#1 Zar",
       "value": "49.8M TDH",
-      "raw": 49755814,
-      "delta": 410,
+      "raw": 49783170,
+      "delta": 27356,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -277,7 +277,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.400 ETH",
-    "CARD #497: 139 MINTS (EXCL. MUSEUM) | 98 HOLDERS | 6529 MEMES AT THE BOYS' CLUB",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #497: 139 MINTS (EXCL. MUSEUM) | 98 HOLDERS | 6529 MEMES AT THE BOYS' CLUB"
   ]
 }
