@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T08:25:12.814182+00:00",
+  "generated_at": "2026-05-20T11:27:10.675687+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -41,6 +41,24 @@
           "label": "PePeSB",
           "value": "37.6M",
           "sub": "proj. (52 votes)"
+        }
+      ]
+    },
+    {
+      "category": "ANNOUNCEMENT",
+      "headline": "New Announcement by GelatoGenesis",
+      "summary": "GelatoGenesis: We just released slow mode in wave chats. You can configure it in your own wave too if you want (right pane, above the groups).\n\nThis applies only to Chat (not to submissions) a...",
+      "source": "Announcements",
+      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmXuXC4QNM9diEvBnJT3UY2o9jWTUxhYh3srRuyS2bGFJQ",
+        "label": "GelatoGenesis"
+      },
+      "dataBoxes": [
+        {
+          "label": "GelatoGenesis",
+          "value": "Lv51",
+          "sub": "1K TDH"
         }
       ]
     },
@@ -88,8 +106,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 1.30 ETH Volume",
-      "summary": "22 sales in 24h for 1.30 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.352 ETH.",
+      "headline": "22 Sales Today - 1.32 ETH Volume",
+      "summary": "22 sales in 24h for 1.32 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.352 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -122,7 +140,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.30",
+          "value": "1.32",
           "sub": "ETH"
         },
         {
@@ -141,27 +159,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.30 ETH",
-      "raw": 1.2998,
-      "delta": -1.3720999999999999,
-      "delta_fmt": "-51.4%"
+      "value": "1.32 ETH",
+      "raw": 1.3193,
+      "delta": -1.1712,
+      "delta_fmt": "-47.0%"
     },
     {
       "label": "7d Vol",
-      "value": "10.33 ETH",
-      "raw": 10.3288
+      "value": "10.38 ETH",
+      "raw": 10.3779
     },
     {
       "label": "30d Vol",
-      "value": "65.30 ETH",
-      "raw": 65.3044
+      "value": "65.35 ETH",
+      "raw": 65.3535
     },
     {
       "label": "Full Set Bid",
-      "value": "41.1 ETH",
-      "raw": 41.13,
-      "delta": 0.3100000000000023,
-      "delta_fmt": "+0.31 ETH"
+      "value": "40.9 ETH",
+      "raw": 40.88,
+      "delta": -0.25,
+      "delta_fmt": "-0.25 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,8 +189,8 @@
     {
       "label": "#1 Zigmarillion",
       "value": "65.2M TDH",
-      "raw": 65235910,
-      "delta": 1504,
+      "raw": 65235967,
+      "delta": 57,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -263,7 +281,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #497: 144 MINTS (EXCL. MUSEUM) | 104 HOLDERS | 6529 MEMES AT THE BOYS' CLUB",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #497: 144 MINTS (EXCL. MUSEUM) | 104 HOLDERS | 6529 MEMES AT THE BOYS' CLUB"
   ]
 }
