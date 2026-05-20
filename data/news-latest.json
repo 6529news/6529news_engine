@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T11:27:10.675687+00:00",
+  "generated_at": "2026-05-20T14:05:36.948271+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a39cb446-686a-4a3e-83b7-62ee1310e210/4825912a-057e-4a56-9690-aafcb660f83c.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/498.JPG",
         "label": "The Meme Market - 1dontknows",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zigmarillion Leads with 65.2M Projected TDH",
-      "summary": "\"Network State of Mind\" by Zigmarillion (65.2M projected TDH, 111 voters) | \"The Antifragile Bazaar\" by Zar (53.5M projected TDH, 55 voters) | \"Too Numb to Fear\" by PePeSB (37.6M projected TDH, 52 voters) Next selection: Wed May 20 at 17:00 CET.",
+      "summary": "\"Network State of Mind\" by Zigmarillion (65.2M projected TDH, 112 voters) | \"The Antifragile Bazaar\" by Zar (52.8M projected TDH, 55 voters) | \"Too Numb to Fear\" by PePeSB (37.6M projected TDH, 52 voters) Next selection: Wed May 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,11 +30,11 @@
         {
           "label": "Zigmarillion",
           "value": "65.2M",
-          "sub": "proj. (111 votes)"
+          "sub": "proj. (112 votes)"
         },
         {
           "label": "Zar",
-          "value": "53.5M",
+          "value": "52.8M",
           "sub": "proj. (55 votes)"
         },
         {
@@ -65,7 +65,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: JennaDixon (5.6M) | elnaz555 (3.1M) | RegularDad (2.7M) | EdBalloon (2.6M).",
+      "summary": "4 submissions this week. Ranking: JennaDixon (5.6M) | EdBalloon (3.8M) | elnaz555 (3.6M) | RegularDad (2.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -80,34 +80,34 @@
           "type": "video"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ed553111-a07e-45aa-bee2-17151a01f7cf/4d30f626-0a48-4db6-8284-7d24ebc8b665/magnific-video-upscale-2990333466-1.mp4",
-          "label": "elnaz555 (3.1M)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_40a68e09-5fb2-41dc-8ee6-e85629b3c3a6/487fd233-550f-43b3-a3fb-4ac77758807f/Comp-1.mp4",
+          "label": "EdBalloon (3.8M)",
           "type": "video"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/7e886845-9e16-42fb-8abe-8b27096e1509/Subscribe-and-Chill-v4.png",
-          "label": "RegularDad (2.7M)",
-          "type": "image"
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ed553111-a07e-45aa-bee2-17151a01f7cf/4d30f626-0a48-4db6-8284-7d24ebc8b665/magnific-video-upscale-2990333466-1.mp4",
+          "label": "elnaz555 (3.6M)",
+          "type": "video"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 62K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
+        "label": "blake69 (62K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 1.32 ETH Volume",
-      "summary": "22 sales in 24h for 1.32 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.352 ETH.",
+      "headline": "24 Sales Today - 1.47 ETH Volume",
+      "summary": "24 sales in 24h for 1.47 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.352 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -135,12 +135,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "22",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.32",
+          "value": "1.47",
           "sub": "ETH"
         },
         {
@@ -159,27 +159,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.32 ETH",
-      "raw": 1.3193,
-      "delta": -1.1712,
-      "delta_fmt": "-47.0%"
+      "value": "1.47 ETH",
+      "raw": 1.4693,
+      "delta": -0.9741999999999997,
+      "delta_fmt": "-39.9%"
     },
     {
       "label": "7d Vol",
-      "value": "10.38 ETH",
-      "raw": 10.3779
+      "value": "10.46 ETH",
+      "raw": 10.465
     },
     {
       "label": "30d Vol",
-      "value": "65.35 ETH",
-      "raw": 65.3535
+      "value": "65.50 ETH",
+      "raw": 65.5035
     },
     {
       "label": "Full Set Bid",
       "value": "40.9 ETH",
-      "raw": 40.88,
-      "delta": -0.25,
-      "delta_fmt": "-0.25 ETH"
+      "raw": 40.93,
+      "delta": 0.04999999999999716,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -189,8 +189,8 @@
     {
       "label": "#1 Zigmarillion",
       "value": "65.2M TDH",
-      "raw": 65235967,
-      "delta": 57,
+      "raw": 65235968,
+      "delta": 1,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -281,7 +281,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #497: 144 MINTS (EXCL. MUSEUM) | 104 HOLDERS | 6529 MEMES AT THE BOYS' CLUB",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #498: 111 MINTS (EXCL. MUSEUM) | 77 HOLDERS | THE MEME MARKET"
   ]
 }
