@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T17:29:14.240424+00:00",
+  "generated_at": "2026-05-20T18:25:18.045541+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zar Leads with 50.2M Projected TDH",
-      "summary": "\"The Antifragile Bazaar\" by Zar (50.2M projected TDH, 58 voters) | \"Too Numb to Fear\" by PePeSB (39.6M projected TDH, 53 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (37.9M projected TDH, 62 voters) Next selection: Fri May 22 at 17:00 CET.",
+      "summary": "\"The Antifragile Bazaar\" by Zar (50.2M projected TDH, 58 voters) | \"Too Numb to Fear\" by PePeSB (39.7M projected TDH, 54 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (37.9M projected TDH, 62 voters) Next selection: Fri May 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "PePeSB",
-          "value": "39.6M",
-          "sub": "proj. (53 votes)"
+          "value": "39.7M",
+          "sub": "proj. (54 votes)"
         },
         {
           "label": "SonOfLasG",
@@ -112,7 +112,7 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
@@ -179,8 +179,8 @@
     },
     {
       "label": "7d Vol",
-      "value": "10.54 ETH",
-      "raw": 10.545
+      "value": "10.16 ETH",
+      "raw": 10.1643
     },
     {
       "label": "30d Vol",
@@ -189,10 +189,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.5 ETH",
-      "raw": 40.5,
-      "delta": -0.4299999999999997,
-      "delta_fmt": "-0.43 ETH"
+      "value": "39.3 ETH",
+      "raw": 39.29,
+      "delta": -1.2100000000000009,
+      "delta_fmt": "-1.21 ETH"
     },
     {
       "label": "Network TDH",
@@ -202,9 +202,7 @@
     {
       "label": "#1 Zar",
       "value": "50.2M TDH",
-      "raw": 50159729,
-      "delta": -2687431,
-      "delta_fmt": "-2.7M TDH"
+      "raw": 50159729
     },
     {
       "label": "#1 Zigmarillion",
@@ -295,6 +293,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #498: 118 MINTS (EXCL. MUSEUM) | 83 HOLDERS | THE MEME MARKET"
+    "CARD #498: 120 MINTS (EXCL. MUSEUM) | 83 HOLDERS | THE MEME MARKET"
   ]
 }
