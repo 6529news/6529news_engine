@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T00:17:42.847129+00:00",
+  "generated_at": "2026-05-20T04:45:43.663636+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zigmarillion Leads with 65.2M Projected TDH",
-      "summary": "\"Network State of Mind\" by Zigmarillion (65.2M projected TDH, 111 voters) | \"The Antifragile Bazaar\" by Zar (53.5M projected TDH, 54 voters) | \"Too Numb to Fear\" by PePeSB (37.5M projected TDH, 52 voters) Next selection: Wed May 20 at 17:00 CET.",
+      "summary": "\"Network State of Mind\" by Zigmarillion (65.2M projected TDH, 111 voters) | \"The Antifragile Bazaar\" by Zar (53.5M projected TDH, 54 voters) | \"Too Numb to Fear\" by PePeSB (37.6M projected TDH, 52 voters) Next selection: Wed May 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,7 +39,7 @@
         },
         {
           "label": "PePeSB",
-          "value": "37.5M",
+          "value": "37.6M",
           "sub": "proj. (52 votes)"
         }
       ]
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: JennaDixon (5.6M) | RegularDad (2.7M) | EdBalloon (2.6M) | elnaz555 (2.5M).",
+      "summary": "4 submissions this week. Ranking: JennaDixon (5.6M) | elnaz555 (3.1M) | RegularDad (2.7M) | EdBalloon (2.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -62,50 +62,50 @@
           "type": "video"
         },
         {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ed553111-a07e-45aa-bee2-17151a01f7cf/4d30f626-0a48-4db6-8284-7d24ebc8b665/magnific-video-upscale-2990333466-1.mp4",
+          "label": "elnaz555 (3.1M)",
+          "type": "video"
+        },
+        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/7e886845-9e16-42fb-8abe-8b27096e1509/Subscribe-and-Chill-v4.png",
           "label": "RegularDad (2.7M)",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_40a68e09-5fb2-41dc-8ee6-e85629b3c3a6/487fd233-550f-43b3-a3fb-4ac77758807f/Comp-1.mp4",
-          "label": "EdBalloon (2.6M)",
-          "type": "video"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (5K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 2.71 ETH Volume",
-      "summary": "23 sales in 24h for 2.71 ETH. Highest: \"Sgt. Pepe\" at 1.400 ETH.",
+      "headline": "23 Sales Today - 1.44 ETH Volume",
+      "summary": "23 sales in 24h for 1.44 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.352 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
-        "label": "Sgt. Pepe - 1.400 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+        "label": "The Tree of Knowledge of Good and Evil - 0.352 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
-          "label": "Sgt. Pepe - 1.400 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+          "label": "The Tree of Knowledge of Good and Evil - 0.352 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.352 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+          "label": "< no, really [ this ] is going to be our year > - 0.130 ETH",
           "type": "image"
         },
         {
@@ -122,13 +122,13 @@
         },
         {
           "label": "Volume 24h",
-          "value": "2.71",
+          "value": "1.44",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "1.400",
-          "sub": "Sgt. Pepe"
+          "value": "0.352",
+          "sub": "The Tree of Knowledg"
         },
         {
           "label": "Floor",
@@ -141,41 +141,37 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.71 ETH",
-      "raw": 2.7066,
-      "delta": 0.9057999999999999,
-      "delta_fmt": "+50.3%"
+      "value": "1.44 ETH",
+      "raw": 1.4366,
+      "delta": -1.1935999999999998,
+      "delta_fmt": "-45.4%"
     },
     {
       "label": "7d Vol",
-      "value": "10.48 ETH",
-      "raw": 10.4789
+      "value": "10.59 ETH",
+      "raw": 10.5889
     },
     {
       "label": "30d Vol",
-      "value": "66.01 ETH",
-      "raw": 66.0127
+      "value": "65.24 ETH",
+      "raw": 65.2412
     },
     {
       "label": "Full Set Bid",
-      "value": "42.4 ETH",
-      "raw": 42.4,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "value": "40.8 ETH",
+      "raw": 40.82,
+      "delta": -1.5799999999999983,
+      "delta_fmt": "-1.58 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1613.9M",
-      "raw": 1613910474,
-      "delta": 2461234,
-      "delta_fmt": "+2.5M TDH"
+      "raw": 1613910474
     },
     {
       "label": "#1 Zigmarillion",
       "value": "65.2M TDH",
-      "raw": 65234406,
-      "delta": -619,
-      "delta_fmt": "-0.0M TDH"
+      "raw": 65234406
     },
     {
       "label": "#1 Zar",
@@ -265,8 +261,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "SGT PEPE SALE: 1.400 ETH",
-    "CARD #497: 144 MINTS (EXCL. MUSEUM) | 104 HOLDERS | 6529 MEMES AT THE BOYS' CLUB",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #497: 144 MINTS (EXCL. MUSEUM) | 104 HOLDERS | 6529 MEMES AT THE BOYS' CLUB"
   ]
 }
