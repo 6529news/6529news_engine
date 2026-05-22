@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T12:18:08.608701+00:00",
+  "generated_at": "2026-05-22T15:31:28.844509+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/caf624ab-6ac7-4cf6-837c-55215aea0ed7.gif",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/499.GIF",
         "label": "Network State of Mind - Zigmarillion",
         "type": "image"
       },
@@ -64,8 +64,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: EdBalloon (14.5M) | elnaz555 (6.6M) | RegularDad (2.8M) | Kanetix (1.0M).",
+      "headline": "5 New Memes Submissions This Week",
+      "summary": "5 submissions this week. Ranking: EdBalloon (14.5M) | elnaz555 (6.6M) | RegularDad (2.8M) | Kanetix (1.0M) | teexels (963K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -94,20 +94,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "120 Sales Today - 3.55 ETH Volume",
-      "summary": "120 sales in 24h for 3.55 ETH. Highest: \"GM Everyone\" at 0.080 ETH.",
+      "headline": "131 Sales Today - 3.53 ETH Volume",
+      "summary": "131 sales in 24h for 3.53 ETH. Highest: \"GM Everyone\" at 0.080 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -135,12 +135,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "120",
+          "value": "131",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.55",
+          "value": "3.53",
           "sub": "ETH"
         },
         {
@@ -150,7 +150,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01694",
+          "value": "0.016929999999",
           "sub": "ETH"
         }
       ]
@@ -159,27 +159,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.55 ETH",
-      "raw": 3.5451,
-      "delta": 2.2166,
-      "delta_fmt": "+166.8%"
+      "value": "3.53 ETH",
+      "raw": 3.5263,
+      "delta": 2.0778,
+      "delta_fmt": "+143.4%"
     },
     {
       "label": "7d Vol",
-      "value": "13.34 ETH",
-      "raw": 13.3359
+      "value": "13.73 ETH",
+      "raw": 13.7289
     },
     {
       "label": "30d Vol",
-      "value": "66.28 ETH",
-      "raw": 66.2837
+      "value": "66.69 ETH",
+      "raw": 66.6866
     },
     {
       "label": "Full Set Bid",
-      "value": "36.0 ETH",
-      "raw": 35.98,
-      "delta": -0.25,
-      "delta_fmt": "-0.25 ETH"
+      "value": "40.9 ETH",
+      "raw": 40.91,
+      "delta": 4.93,
+      "delta_fmt": "+4.93 ETH"
     },
     {
       "label": "Network TDH",
@@ -189,9 +189,7 @@
     {
       "label": "#1 Zar",
       "value": "50.8M TDH",
-      "raw": 50771264,
-      "delta": 583027,
-      "delta_fmt": "+0.6M TDH"
+      "raw": 50771264
     },
     {
       "label": "#1 Zigmarillion",
@@ -281,7 +279,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #498: 164 MINTS (EXCL. MUSEUM) | 97 HOLDERS | THE MEME MARKET",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #499: 111 MINTS (EXCL. MUSEUM) | 80 HOLDERS | NETWORK STATE OF MIND"
   ]
 }
