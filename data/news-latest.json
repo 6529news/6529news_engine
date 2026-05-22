@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T09:49:30.594154+00:00",
+  "generated_at": "2026-05-22T12:18:08.608701+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Zar Leads with 50.2M Projected TDH",
-      "summary": "\"The Antifragile Bazaar\" by Zar (50.2M projected TDH, 60 voters) | \"Too Numb to Fear\" by PePeSB (41.9M projected TDH, 66 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.6M projected TDH, 65 voters) Next selection: Fri May 22 at 17:00 CET.",
+      "headline": "Zar Leads with 50.8M Projected TDH",
+      "summary": "\"The Antifragile Bazaar\" by Zar (50.8M projected TDH, 62 voters) | \"Too Numb to Fear\" by PePeSB (41.9M projected TDH, 66 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.6M projected TDH, 65 voters) Next selection: Fri May 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "Zar",
-          "value": "50.2M",
-          "sub": "proj. (60 votes)"
+          "value": "50.8M",
+          "sub": "proj. (62 votes)"
         },
         {
           "label": "PePeSB",
@@ -94,63 +94,63 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "101 Sales Today - 2.99 ETH Volume",
-      "summary": "101 sales in 24h for 2.99 ETH. Highest: \"Citizen 6529\" at 0.050 ETH.",
+      "headline": "120 Sales Today - 3.55 ETH Volume",
+      "summary": "120 sales in 24h for 3.55 ETH. Highest: \"GM Everyone\" at 0.080 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/471.GIF",
-        "label": "Citizen 6529 - 0.050 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/87.GIF",
+        "label": "GM Everyone - 0.080 ETH",
         "type": "image"
       },
       "images": [
         {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/87.GIF",
+          "label": "GM Everyone - 0.080 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/25.WEBP",
+          "label": "Authentic Summer - 0.057 ETH",
+          "type": "image"
+        },
+        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/471.GIF",
           "label": "Citizen 6529 - 0.050 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/67.WEBP",
-          "label": "Come and Take It! - 0.045 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/360.GIF",
-          "label": "CAPITULATE - 0.037 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "101",
+          "value": "120",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.99",
+          "value": "3.55",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.050",
-          "sub": "Citizen 6529"
+          "value": "0.080",
+          "sub": "GM Everyone"
         },
         {
           "label": "Floor",
-          "value": "0.016939999999",
+          "value": "0.01694",
           "sub": "ETH"
         }
       ]
@@ -159,27 +159,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.99 ETH",
-      "raw": 2.9868,
-      "delta": 1.6596000000000002,
-      "delta_fmt": "+125.0%"
+      "value": "3.55 ETH",
+      "raw": 3.5451,
+      "delta": 2.2166,
+      "delta_fmt": "+166.8%"
     },
     {
       "label": "7d Vol",
-      "value": "13.24 ETH",
-      "raw": 13.2385
+      "value": "13.34 ETH",
+      "raw": 13.3359
     },
     {
       "label": "30d Vol",
-      "value": "65.72 ETH",
-      "raw": 65.719
+      "value": "66.28 ETH",
+      "raw": 66.2837
     },
     {
       "label": "Full Set Bid",
-      "value": "36.2 ETH",
-      "raw": 36.23,
-      "delta": 0.3499999999999943,
-      "delta_fmt": "+0.35 ETH"
+      "value": "36.0 ETH",
+      "raw": 35.98,
+      "delta": -0.25,
+      "delta_fmt": "-0.25 ETH"
     },
     {
       "label": "Network TDH",
@@ -188,10 +188,10 @@
     },
     {
       "label": "#1 Zar",
-      "value": "50.2M TDH",
-      "raw": 50188237,
-      "delta": 4153,
-      "delta_fmt": "+0.0M TDH"
+      "value": "50.8M TDH",
+      "raw": 50771264,
+      "delta": 583027,
+      "delta_fmt": "+0.6M TDH"
     },
     {
       "label": "#1 Zigmarillion",
@@ -281,7 +281,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #498: 164 MINTS (EXCL. MUSEUM) | 97 HOLDERS | THE MEME MARKET",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #498: 164 MINTS (EXCL. MUSEUM) | 97 HOLDERS | THE MEME MARKET"
   ]
 }
