@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T23:43:22.771141+00:00",
+  "generated_at": "2026-05-22T01:49:21.092941+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Zar Leads with 50.2M Projected TDH",
-      "summary": "\"The Antifragile Bazaar\" by Zar (50.2M projected TDH, 60 voters) | \"Too Numb to Fear\" by PePeSB (41.9M projected TDH, 66 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.6M projected TDH, 65 voters) Next selection: Fri May 22 at 17:00 CET.",
+      "summary": "\"The Antifragile Bazaar\" by Zar (50.2M projected TDH, 59 voters) | \"Too Numb to Fear\" by PePeSB (41.9M projected TDH, 66 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.6M projected TDH, 65 voters) Next selection: Fri May 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Zar",
           "value": "50.2M",
-          "sub": "proj. (60 votes)"
+          "sub": "proj. (59 votes)"
         },
         {
           "label": "PePeSB",
@@ -65,18 +65,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: EdBalloon (14.4M) | elnaz555 (6.6M) | RegularDad (2.8M) | Kanetix (1.0M).",
+      "summary": "4 submissions this week. Ranking: EdBalloon (14.5M) | elnaz555 (6.6M) | RegularDad (2.8M) | Kanetix (1.0M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_40a68e09-5fb2-41dc-8ee6-e85629b3c3a6/487fd233-550f-43b3-a3fb-4ac77758807f/Comp-1.mp4",
-        "label": "EdBalloon (14.4M)",
+        "label": "EdBalloon (14.5M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_40a68e09-5fb2-41dc-8ee6-e85629b3c3a6/487fd233-550f-43b3-a3fb-4ac77758807f/Comp-1.mp4",
-          "label": "EdBalloon (14.4M)",
+          "label": "EdBalloon (14.5M)",
           "type": "video"
         },
         {
@@ -94,20 +94,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "89 Sales Today - 3.46 ETH Volume",
-      "summary": "89 sales in 24h for 3.46 ETH. Highest: \"Don't Trust, Check.\" at 0.170 ETH.",
+      "headline": "87 Sales Today - 3.40 ETH Volume",
+      "summary": "87 sales in 24h for 3.40 ETH. Highest: \"Don't Trust, Check.\" at 0.170 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -135,12 +135,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "89",
+          "value": "87",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.46",
+          "value": "3.40",
           "sub": "ETH"
         },
         {
@@ -159,37 +159,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.46 ETH",
-      "raw": 3.464,
-      "delta": 2.9727,
-      "delta_fmt": "+605.1%"
+      "value": "3.40 ETH",
+      "raw": 3.4,
+      "delta": 2.9087,
+      "delta_fmt": "+592.0%"
     },
     {
       "label": "7d Vol",
-      "value": "12.50 ETH",
-      "raw": 12.5042
+      "value": "12.49 ETH",
+      "raw": 12.4853
     },
     {
       "label": "30d Vol",
-      "value": "68.22 ETH",
-      "raw": 68.2205
+      "value": "64.97 ETH",
+      "raw": 64.9658
     },
     {
       "label": "Full Set Bid",
-      "value": "40.4 ETH",
-      "raw": 40.39,
-      "delta": -0.490000000000002,
-      "delta_fmt": "-0.49 ETH"
+      "value": "39.1 ETH",
+      "raw": 39.13,
+      "delta": -1.259999999999998,
+      "delta_fmt": "-1.26 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1616.5M",
-      "raw": 1616527357
+      "value": "1618.5M",
+      "raw": 1618497377,
+      "delta": 1970020,
+      "delta_fmt": "+2.0M TDH"
     },
     {
       "label": "#1 Zar",
       "value": "50.2M TDH",
-      "raw": 50183031
+      "raw": 50182964,
+      "delta": -67,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 Zigmarillion",
@@ -279,7 +283,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #498: 164 MINTS (EXCL. MUSEUM) | 97 HOLDERS | THE MEME MARKET",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #498: 164 MINTS (EXCL. MUSEUM) | 97 HOLDERS | THE MEME MARKET"
   ]
 }
