@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T15:31:28.844509+00:00",
+  "generated_at": "2026-05-22T17:28:11.026234+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,31 +16,44 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "Zar Leads with 50.8M Projected TDH",
-      "summary": "\"The Antifragile Bazaar\" by Zar (50.8M projected TDH, 62 voters) | \"Too Numb to Fear\" by PePeSB (41.9M projected TDH, 66 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.6M projected TDH, 65 voters) Next selection: Fri May 22 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"The Antifragile Bazaar\" by Zar \u2014 50.8M TDH from 63 voters. Top supporter: gpebbles (12.7M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2acfa61f-13bf-46a0-a7d9-1bb1d7bb6d03/195d4702-ecfd-471e-8ff6-d6b3a5781512/20260503-203101.jpg",
         "label": "The Antifragile Bazaar - Zar",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "PePeSB Leads with 42.5M Projected TDH",
+      "summary": "\"Too Numb to Fear\" by PePeSB (42.5M projected TDH, 69 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.6M projected TDH, 65 voters) | \"Let This Meme IN\" by blocknoob (16.1M projected TDH, 60 voters) Next selection: Mon May 25 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_777898fe-0f06-4117-b31b-80b43a91691e/58df50bd-5cfc-487d-8504-d54273a4d186.GIF",
+        "label": "Too Numb to Fear - PePeSB",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "Zar",
-          "value": "50.8M",
-          "sub": "proj. (62 votes)"
-        },
-        {
           "label": "PePeSB",
-          "value": "41.9M",
-          "sub": "proj. (66 votes)"
+          "value": "42.5M",
+          "sub": "proj. (69 votes)"
         },
         {
           "label": "SonOfLasG",
           "value": "38.6M",
           "sub": "proj. (65 votes)"
+        },
+        {
+          "label": "blocknoob",
+          "value": "16.1M",
+          "sub": "proj. (60 votes)"
         }
       ]
     },
@@ -64,29 +77,29 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: EdBalloon (14.5M) | elnaz555 (6.6M) | RegularDad (2.8M) | Kanetix (1.0M) | teexels (963K).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: RegularDad (15.8M) | elnaz555 (6.7M) | teexels (3.9M) | Kanetix (1.0M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_40a68e09-5fb2-41dc-8ee6-e85629b3c3a6/487fd233-550f-43b3-a3fb-4ac77758807f/Comp-1.mp4",
-        "label": "EdBalloon (14.5M)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/ef7dd834-199c-4e30-bdf4-ff6dab181d60/Untitled-May-20-2026-at-11-25-46.jpeg",
+        "label": "RegularDad (15.8M)",
+        "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_40a68e09-5fb2-41dc-8ee6-e85629b3c3a6/487fd233-550f-43b3-a3fb-4ac77758807f/Comp-1.mp4",
-          "label": "EdBalloon (14.5M)",
-          "type": "video"
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/ef7dd834-199c-4e30-bdf4-ff6dab181d60/Untitled-May-20-2026-at-11-25-46.jpeg",
+          "label": "RegularDad (15.8M)",
+          "type": "image"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ed553111-a07e-45aa-bee2-17151a01f7cf/4d30f626-0a48-4db6-8284-7d24ebc8b665/magnific-video-upscale-2990333466-1.mp4",
-          "label": "elnaz555 (6.6M)",
+          "label": "elnaz555 (6.7M)",
           "type": "video"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/ef7dd834-199c-4e30-bdf4-ff6dab181d60/Untitled-May-20-2026-at-11-25-46.jpeg",
-          "label": "RegularDad (2.8M)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c2c97db4-232f-462d-8a60-f80de366d211/fcf5c6f7-b5fc-4ecc-a821-1bc90cb42a00/6529-part2.png",
+          "label": "Kanetix (1.0M)",
           "type": "image"
         }
       ],
@@ -106,8 +119,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "131 Sales Today - 3.53 ETH Volume",
-      "summary": "131 sales in 24h for 3.53 ETH. Highest: \"GM Everyone\" at 0.080 ETH.",
+      "headline": "130 Sales Today - 3.50 ETH Volume",
+      "summary": "130 sales in 24h for 3.50 ETH. Highest: \"GM Everyone\" at 0.080 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -135,12 +148,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "131",
+          "value": "130",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.53",
+          "value": "3.50",
           "sub": "ETH"
         },
         {
@@ -159,10 +172,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.53 ETH",
-      "raw": 3.5263,
-      "delta": 2.0778,
-      "delta_fmt": "+143.4%"
+      "value": "3.50 ETH",
+      "raw": 3.5041,
+      "delta": 1.8456000000000001,
+      "delta_fmt": "+111.3%"
     },
     {
       "label": "7d Vol",
@@ -177,14 +190,21 @@
     {
       "label": "Full Set Bid",
       "value": "40.9 ETH",
-      "raw": 40.91,
-      "delta": 4.93,
-      "delta_fmt": "+4.93 ETH"
+      "raw": 40.92,
+      "delta": 0.010000000000005116,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1618.5M",
       "raw": 1618497377
+    },
+    {
+      "label": "#1 PePeSB",
+      "value": "42.5M TDH",
+      "raw": 42494765,
+      "delta": -11189070,
+      "delta_fmt": "-11.2M TDH"
     },
     {
       "label": "#1 Zar",
@@ -279,7 +299,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #499: 111 MINTS (EXCL. MUSEUM) | 80 HOLDERS | NETWORK STATE OF MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #499: 112 MINTS (EXCL. MUSEUM) | 80 HOLDERS | NETWORK STATE OF MIND"
   ]
 }
