@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T19:14:06.427716+00:00",
+  "generated_at": "2026-05-22T20:49:30.787895+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -58,24 +58,6 @@
       ]
     },
     {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by GelatoGenesis",
-      "summary": "GelatoGenesis: Today way released a feature which bunch of people have been asking for a long time.\n\nYou can now create waves where voting credit is TDH gained from concrete card or set of car...",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmXuXC4QNM9diEvBnJT3UY2o9jWTUxhYh3srRuyS2bGFJQ",
-        "label": "GelatoGenesis"
-      },
-      "dataBoxes": [
-        {
-          "label": "GelatoGenesis",
-          "value": "Lv51",
-          "sub": "1K TDH"
-        }
-      ]
-    },
-    {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
       "summary": "4 submissions this week. Ranking: RegularDad (15.8M) | elnaz555 (6.7M) | teexels (3.9M) | Kanetix (1.0M).",
@@ -107,28 +89,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "127 Sales Today - 3.40 ETH Volume",
-      "summary": "127 sales in 24h for 3.40 ETH. Highest: \"GM Everyone\" at 0.080 ETH.",
+      "headline": "127 Sales Today - 3.64 ETH Volume",
+      "summary": "127 sales in 24h for 3.64 ETH. Highest: \"DALL-E's Revenge\" at 0.600 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/87.GIF",
-        "label": "GM Everyone - 0.080 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/6.WEBP",
+        "label": "DALL-E's Revenge - 0.600 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/6.WEBP",
+          "label": "DALL-E's Revenge - 0.600 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/87.GIF",
           "label": "GM Everyone - 0.080 ETH",
@@ -137,11 +124,6 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/25.WEBP",
           "label": "Authentic Summer - 0.057 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/471.GIF",
-          "label": "Citizen 6529 - 0.050 ETH",
           "type": "image"
         }
       ],
@@ -153,17 +135,17 @@
         },
         {
           "label": "Volume 24h",
-          "value": "3.40",
+          "value": "3.64",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.080",
-          "sub": "GM Everyone"
+          "value": "0.600",
+          "sub": "DALL-E's Revenge"
         },
         {
           "label": "Floor",
-          "value": "0.016929999999",
+          "value": "0.016919999999",
           "sub": "ETH"
         }
       ]
@@ -172,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.40 ETH",
-      "raw": 3.396,
-      "delta": 1.6072,
-      "delta_fmt": "+89.8%"
+      "value": "3.64 ETH",
+      "raw": 3.638,
+      "delta": 1.4192,
+      "delta_fmt": "+64.0%"
     },
     {
       "label": "7d Vol",
-      "value": "13.73 ETH",
-      "raw": 13.7289
+      "value": "14.40 ETH",
+      "raw": 14.401
     },
     {
       "label": "30d Vol",
-      "value": "66.69 ETH",
-      "raw": 66.6866
+      "value": "67.36 ETH",
+      "raw": 67.3586
     },
     {
       "label": "Full Set Bid",
-      "value": "41.0 ETH",
-      "raw": 40.99,
-      "delta": 0.03999999999999915,
-      "delta_fmt": "+0.04 ETH"
+      "value": "40.8 ETH",
+      "raw": 40.84,
+      "delta": -0.14999999999999858,
+      "delta_fmt": "-0.15 ETH"
     },
     {
       "label": "Network TDH",
@@ -202,8 +184,8 @@
     {
       "label": "#1 PePeSB",
       "value": "42.5M TDH",
-      "raw": 42508236,
-      "delta": 13471,
+      "raw": 42508436,
+      "delta": 200,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -299,7 +281,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #499: 115 MINTS (EXCL. MUSEUM) | 81 HOLDERS | NETWORK STATE OF MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #499: 116 MINTS (EXCL. MUSEUM) | 82 HOLDERS | NETWORK STATE OF MIND"
   ]
 }
