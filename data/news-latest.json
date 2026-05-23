@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T10:54:37.342290+00:00",
+  "generated_at": "2026-05-23T11:59:29.558373+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "PePeSB Leads with 44.7M Projected TDH",
-      "summary": "\"Too Numb to Fear\" by PePeSB (44.7M projected TDH, 72 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.6M projected TDH, 65 voters) | \"Let This Meme IN\" by blocknoob (16.1M projected TDH, 61 voters) Next selection: Mon May 25 at 17:00 CET.",
+      "summary": "\"Too Numb to Fear\" by PePeSB (44.7M projected TDH, 73 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.6M projected TDH, 65 voters) | \"Let This Meme IN\" by blocknoob (16.1M projected TDH, 61 voters) Next selection: Mon May 25 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "PePeSB",
           "value": "44.7M",
-          "sub": "proj. (72 votes)"
+          "sub": "proj. (73 votes)"
         },
         {
           "label": "SonOfLasG",
@@ -96,8 +96,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "35 Sales Today - 1.66 ETH Volume",
-      "summary": "35 sales in 24h for 1.66 ETH. Highest: \"DALL-E's Revenge\" at 0.600 ETH.",
+      "headline": "30 Sales Today - 1.55 ETH Volume",
+      "summary": "30 sales in 24h for 1.55 ETH. Highest: \"DALL-E's Revenge\" at 0.600 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "35",
+          "value": "30",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.66",
+          "value": "1.55",
           "sub": "ETH"
         },
         {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016944999999",
+          "value": "0.016944499999",
           "sub": "ETH"
         }
       ]
@@ -149,10 +149,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.66 ETH",
-      "raw": 1.6638,
-      "delta": -1.3230000000000002,
-      "delta_fmt": "-44.3%"
+      "value": "1.55 ETH",
+      "raw": 1.5473,
+      "delta": -1.9978000000000002,
+      "delta_fmt": "-56.4%"
     },
     {
       "label": "7d Vol",
@@ -166,10 +166,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "35.9 ETH",
-      "raw": 35.86,
-      "delta": -6.07,
-      "delta_fmt": "-6.07 ETH"
+      "value": "41.9 ETH",
+      "raw": 41.89,
+      "delta": 6.030000000000001,
+      "delta_fmt": "+6.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,9 +179,9 @@
     {
       "label": "#1 PePeSB",
       "value": "44.7M TDH",
-      "raw": 44670590,
-      "delta": 4062,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 44720590,
+      "delta": 50000,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 Zar",
@@ -276,7 +276,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #499: 118 MINTS (EXCL. MUSEUM) | 83 HOLDERS | NETWORK STATE OF MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #499: 119 MINTS (EXCL. MUSEUM) | 83 HOLDERS | NETWORK STATE OF MIND"
   ]
 }
