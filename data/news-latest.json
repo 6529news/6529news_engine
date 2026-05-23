@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T20:52:02.079393+00:00",
+  "generated_at": "2026-05-23T21:54:43.241800+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "PePeSB Leads with 45.1M Projected TDH",
-      "summary": "\"Too Numb to Fear\" by PePeSB (45.1M projected TDH, 75 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.7M projected TDH, 66 voters) | \"Let This Meme IN\" by blocknoob (33.4M projected TDH, 62 voters) Next selection: Mon May 25 at 17:00 CET.",
+      "summary": "\"Too Numb to Fear\" by PePeSB (45.1M projected TDH, 76 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.7M projected TDH, 66 voters) | \"Let This Meme IN\" by blocknoob (33.4M projected TDH, 62 voters) Next selection: Mon May 25 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "PePeSB",
           "value": "45.1M",
-          "sub": "proj. (75 votes)"
+          "sub": "proj. (76 votes)"
         },
         {
           "label": "SonOfLasG",
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 1.86 ETH Volume",
-      "summary": "15 sales in 24h for 1.86 ETH. Highest: \"Sgt. Pepe\" at 1.010 ETH.",
+      "headline": "17 Sales Today - 1.92 ETH Volume",
+      "summary": "17 sales in 24h for 1.92 ETH. Highest: \"Sgt. Pepe\" at 1.010 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.86",
+          "value": "1.92",
           "sub": "ETH"
         },
         {
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.86 ETH",
-      "raw": 1.8575,
-      "delta": -1.7805,
-      "delta_fmt": "-48.9%"
+      "value": "1.92 ETH",
+      "raw": 1.9156,
+      "delta": -1.6159,
+      "delta_fmt": "-45.8%"
     },
     {
       "label": "7d Vol",
-      "value": "12.11 ETH",
-      "raw": 12.1105
+      "value": "12.17 ETH",
+      "raw": 12.1686
     },
     {
       "label": "30d Vol",
-      "value": "66.99 ETH",
-      "raw": 66.9943
+      "value": "67.05 ETH",
+      "raw": 67.0524
     },
     {
       "label": "Full Set Bid",
       "value": "41.7 ETH",
-      "raw": 41.73,
-      "delta": -0.37000000000000455,
-      "delta_fmt": "-0.37 ETH"
+      "raw": 41.71,
+      "delta": -0.01999999999999602,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,7 +161,9 @@
     {
       "label": "#1 PePeSB",
       "value": "45.1M TDH",
-      "raw": 45129157
+      "raw": 45129200,
+      "delta": 43,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Zar",
@@ -257,7 +259,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.010 ETH",
-    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 94 HOLDERS | NETWORK STATE OF MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 94 HOLDERS | NETWORK STATE OF MIND"
   ]
 }
