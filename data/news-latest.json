@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T21:54:43.241800+00:00",
+  "generated_at": "2026-05-23T22:53:14.601193+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -133,8 +133,8 @@
       "label": "24h Vol",
       "value": "1.92 ETH",
       "raw": 1.9156,
-      "delta": -1.6159,
-      "delta_fmt": "-45.8%"
+      "delta": -0.5207000000000002,
+      "delta_fmt": "-21.4%"
     },
     {
       "label": "7d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.7 ETH",
-      "raw": 41.71,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "value": "41.8 ETH",
+      "raw": 41.84,
+      "delta": 0.13000000000000256,
+      "delta_fmt": "+0.13 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 PePeSB",
       "value": "45.1M TDH",
-      "raw": 45129200,
-      "delta": 43,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 45129200
     },
     {
       "label": "#1 Zar",
@@ -259,7 +257,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.010 ETH",
-    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 94 HOLDERS | NETWORK STATE OF MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 94 HOLDERS | NETWORK STATE OF MIND"
   ]
 }
