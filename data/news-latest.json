@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T20:05:11.011904+00:00",
+  "generated_at": "2026-05-24T21:10:59.114582+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "PePeSB Leads with 46.9M Projected TDH",
-      "summary": "\"Too Numb to Fear\" by PePeSB (46.9M projected TDH, 78 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.8M projected TDH, 67 voters) | \"Let This Meme IN\" by blocknoob (34.4M projected TDH, 65 voters) Next selection: Mon May 25 at 17:00 CET.",
+      "summary": "\"Too Numb to Fear\" by PePeSB (46.9M projected TDH, 79 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.8M projected TDH, 67 voters) | \"Let This Meme IN\" by blocknoob (34.4M projected TDH, 65 voters) Next selection: Mon May 25 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "PePeSB",
           "value": "46.9M",
-          "sub": "proj. (78 votes)"
+          "sub": "proj. (79 votes)"
         },
         {
           "label": "SonOfLasG",
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 62K TDH",
+      "headline": "#13 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
-        "label": "blake69 (62K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 9.18 ETH Volume",
-      "summary": "19 sales in 24h for 9.18 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
+      "headline": "18 Sales Today - 9.16 ETH Volume",
+      "summary": "18 sales in 24h for 9.16 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "18",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "9.18",
+          "value": "9.16",
           "sub": "ETH"
         },
         {
@@ -131,10 +131,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "9.18 ETH",
-      "raw": 9.1847,
-      "delta": 6.7155,
-      "delta_fmt": "+272.0%"
+      "value": "9.16 ETH",
+      "raw": 9.1558,
+      "delta": 7.298299999999999,
+      "delta_fmt": "+392.9%"
     },
     {
       "label": "7d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.6 ETH",
-      "raw": 42.55,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "value": "42.5 ETH",
+      "raw": 42.54,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,7 +161,9 @@
     {
       "label": "#1 PePeSB",
       "value": "46.9M TDH",
-      "raw": 46878229
+      "raw": 46913737,
+      "delta": 35508,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Zar",
@@ -256,7 +258,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 95 HOLDERS | NETWORK STATE OF MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 95 HOLDERS | NETWORK STATE OF MIND"
   ]
 }
