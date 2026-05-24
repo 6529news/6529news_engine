@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T10:56:51.399680+00:00",
+  "generated_at": "2026-05-24T12:02:13.653898+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "PePeSB Leads with 45.2M Projected TDH",
-      "summary": "\"Too Numb to Fear\" by PePeSB (45.2M projected TDH, 76 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.7M projected TDH, 67 voters) | \"Let This Meme IN\" by blocknoob (33.4M projected TDH, 64 voters) Next selection: Mon May 25 at 17:00 CET.",
+      "summary": "\"Too Numb to Fear\" by PePeSB (45.2M projected TDH, 76 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.7M projected TDH, 67 voters) | \"Let This Meme IN\" by blocknoob (33.4M projected TDH, 65 voters) Next selection: Mon May 25 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "blocknoob",
           "value": "33.4M",
-          "sub": "proj. (64 votes)"
+          "sub": "proj. (65 votes)"
         }
       ]
     },
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -133,8 +133,8 @@
       "label": "24h Vol",
       "value": "10.20 ETH",
       "raw": 10.198,
-      "delta": 8.5342,
-      "delta_fmt": "+512.9%"
+      "delta": 8.6507,
+      "delta_fmt": "+559.1%"
     },
     {
       "label": "7d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.8 ETH",
-      "raw": 41.79,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "42.2 ETH",
+      "raw": 42.25,
+      "delta": 0.46000000000000085,
+      "delta_fmt": "+0.46 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 PePeSB",
       "value": "45.2M TDH",
-      "raw": 45180628,
-      "delta": 51,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 45180628
     },
     {
       "label": "#1 Zar",
@@ -259,7 +257,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.010 ETH",
-    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 94 HOLDERS | NETWORK STATE OF MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 95 HOLDERS | NETWORK STATE OF MIND"
   ]
 }
