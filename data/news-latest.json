@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T09:29:24.914942+00:00",
+  "generated_at": "2026-05-24T10:56:51.399680+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -133,8 +133,8 @@
       "label": "24h Vol",
       "value": "10.20 ETH",
       "raw": 10.198,
-      "delta": 8.0736,
-      "delta_fmt": "+380.0%"
+      "delta": 8.5342,
+      "delta_fmt": "+512.9%"
     },
     {
       "label": "7d Vol",
@@ -149,7 +149,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.8 ETH",
-      "raw": 41.78
+      "raw": 41.79,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -159,7 +161,9 @@
     {
       "label": "#1 PePeSB",
       "value": "45.2M TDH",
-      "raw": 45180577
+      "raw": 45180628,
+      "delta": 51,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Zar",
@@ -255,7 +259,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.010 ETH",
-    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 94 HOLDERS | NETWORK STATE OF MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 94 HOLDERS | NETWORK STATE OF MIND"
   ]
 }
