@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T12:02:13.653898+00:00",
+  "generated_at": "2026-05-24T13:59:41.622675+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "PePeSB Leads with 45.2M Projected TDH",
-      "summary": "\"Too Numb to Fear\" by PePeSB (45.2M projected TDH, 76 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.7M projected TDH, 67 voters) | \"Let This Meme IN\" by blocknoob (33.4M projected TDH, 65 voters) Next selection: Mon May 25 at 17:00 CET.",
+      "headline": "PePeSB Leads with 46.9M Projected TDH",
+      "summary": "\"Too Numb to Fear\" by PePeSB (46.9M projected TDH, 77 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.7M projected TDH, 67 voters) | \"Let This Meme IN\" by blocknoob (34.4M projected TDH, 65 voters) Next selection: Mon May 25 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "PePeSB",
-          "value": "45.2M",
-          "sub": "proj. (76 votes)"
+          "value": "46.9M",
+          "sub": "proj. (77 votes)"
         },
         {
           "label": "SonOfLasG",
@@ -39,7 +39,7 @@
         },
         {
           "label": "blocknoob",
-          "value": "33.4M",
+          "value": "34.4M",
           "sub": "proj. (65 votes)"
         }
       ]
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01694",
+          "value": "0.016945",
           "sub": "ETH"
         }
       ]
@@ -133,13 +133,13 @@
       "label": "24h Vol",
       "value": "10.20 ETH",
       "raw": 10.198,
-      "delta": 8.6507,
-      "delta_fmt": "+559.1%"
+      "delta": 9.0412,
+      "delta_fmt": "+781.6%"
     },
     {
       "label": "7d Vol",
-      "value": "20.12 ETH",
-      "raw": 20.1183
+      "value": "19.94 ETH",
+      "raw": 19.9383
     },
     {
       "label": "30d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.2 ETH",
-      "raw": 42.25,
-      "delta": 0.46000000000000085,
-      "delta_fmt": "+0.46 ETH"
+      "value": "42.3 ETH",
+      "raw": 42.27,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -160,8 +160,10 @@
     },
     {
       "label": "#1 PePeSB",
-      "value": "45.2M TDH",
-      "raw": 45180628
+      "value": "46.9M TDH",
+      "raw": 46877762,
+      "delta": 1697134,
+      "delta_fmt": "+1.7M TDH"
     },
     {
       "label": "#1 Zar",
@@ -257,7 +259,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.010 ETH",
-    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 95 HOLDERS | NETWORK STATE OF MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 95 HOLDERS | NETWORK STATE OF MIND"
   ]
 }
