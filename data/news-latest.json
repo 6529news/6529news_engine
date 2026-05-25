@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T19:53:08.293669+00:00",
+  "generated_at": "2026-05-25T20:33:18.869301+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "SonOfLasG Leads with 40.6M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (40.6M projected TDH, 67 voters) | \"Let This Meme IN\" by blocknoob (39.0M projected TDH, 68 voters) | \"Freedom To Ascend\" by JennaDixon (29.4M projected TDH, 73 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (40.6M projected TDH, 67 voters) | \"Let This Meme IN\" by blocknoob (40.1M projected TDH, 68 voters) | \"Freedom To Ascend\" by JennaDixon (29.4M projected TDH, 74 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,13 +47,13 @@
         },
         {
           "label": "blocknoob",
-          "value": "39.0M",
+          "value": "40.1M",
           "sub": "proj. (68 votes)"
         },
         {
           "label": "JennaDixon",
           "value": "29.4M",
-          "sub": "proj. (73 votes)"
+          "sub": "proj. (74 votes)"
         }
       ]
     },
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#6 blake69 \u2014 62K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
+        "label": "blake69 (62K)",
         "type": "image"
       }
     },
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016934",
+          "value": "0.0169389",
           "sub": "ETH"
         }
       ]
@@ -152,7 +152,9 @@
     {
       "label": "Full Set Bid",
       "value": "43.2 ETH",
-      "raw": 43.18
+      "raw": 43.19,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -271,7 +273,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #500: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
