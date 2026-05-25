@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T15:06:00.039290+00:00",
+  "generated_at": "2026-05-25T16:07:52.184206+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,22 +16,30 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "PePeSB Leads with 46.9M Projected TDH",
-      "summary": "\"Too Numb to Fear\" by PePeSB (46.9M projected TDH, 80 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (38.8M projected TDH, 67 voters) | \"Let This Meme IN\" by blocknoob (34.5M projected TDH, 66 voters) Next selection: Mon May 25 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING WEDNESDAY",
+      "headline": "Minting Wednesday",
+      "summary": " \"Too Numb to Fear\" by PePeSB \u2014 46.9M TDH from 80 voters. Top supporter: Thor (12.3M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_777898fe-0f06-4117-b31b-80b43a91691e/58df50bd-5cfc-487d-8504-d54273a4d186.GIF",
         "label": "Too Numb to Fear - PePeSB",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "SonOfLasG Leads with 38.8M Projected TDH",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (38.8M projected TDH, 67 voters) | \"Let This Meme IN\" by blocknoob (34.5M projected TDH, 66 voters) | \"Freedom To Ascend\" by JennaDixon (29.3M projected TDH, 72 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8331d1-87b4-11ee-9d82-029a0e4b6159/968c5b42-d6fe-409b-b013-e0f116e12d2d.png",
+        "label": "A Testament to the Hardest Truth - SonOfLasG",
+        "type": "image"
+      },
       "dataBoxes": [
-        {
-          "label": "PePeSB",
-          "value": "46.9M",
-          "sub": "proj. (80 votes)"
-        },
         {
           "label": "SonOfLasG",
           "value": "38.8M",
@@ -41,6 +49,11 @@
           "label": "blocknoob",
           "value": "34.5M",
           "sub": "proj. (66 votes)"
+        },
+        {
+          "label": "JennaDixon",
+          "value": "29.3M",
+          "sub": "proj. (72 votes)"
         }
       ]
     },
@@ -66,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -133,8 +146,8 @@
       "label": "24h Vol",
       "value": "1.18 ETH",
       "raw": 1.1819,
-      "delta": -9.0352,
-      "delta_fmt": "-88.4%"
+      "delta": -9.1503,
+      "delta_fmt": "-88.6%"
     },
     {
       "label": "7d Vol",
@@ -149,14 +162,19 @@
     {
       "label": "Full Set Bid",
       "value": "43.3 ETH",
-      "raw": 43.31,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 43.31
     },
     {
       "label": "Network TDH",
       "value": "1626.0M",
       "raw": 1625955194
+    },
+    {
+      "label": "#1 SonOfLasG",
+      "value": "38.8M TDH",
+      "raw": 38817306,
+      "delta": -14866529,
+      "delta_fmt": "-14.9M TDH"
     },
     {
       "label": "#1 PePeSB",
@@ -258,7 +276,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #500: 110 MINTS (EXCL. MUSEUM) | 80 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 111 MINTS (EXCL. MUSEUM) | 81 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
