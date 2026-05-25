@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T20:33:18.869301+00:00",
+  "generated_at": "2026-05-25T21:10:05.462250+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "SonOfLasG Leads with 40.6M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (40.6M projected TDH, 67 voters) | \"Let This Meme IN\" by blocknoob (40.1M projected TDH, 68 voters) | \"Freedom To Ascend\" by JennaDixon (29.4M projected TDH, 74 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "headline": "SonOfLasG Leads with 41.6M Projected TDH",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (41.6M projected TDH, 68 voters) | \"Let This Meme IN\" by blocknoob (41.6M projected TDH, 69 voters) | \"Freedom To Ascend\" by JennaDixon (29.4M projected TDH, 74 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "SonOfLasG",
-          "value": "40.6M",
-          "sub": "proj. (67 votes)"
+          "value": "41.6M",
+          "sub": "proj. (68 votes)"
         },
         {
           "label": "blocknoob",
-          "value": "40.1M",
-          "sub": "proj. (68 votes)"
+          "value": "41.6M",
+          "sub": "proj. (69 votes)"
         },
         {
           "label": "JennaDixon",
@@ -81,16 +81,21 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 1.03 ETH Volume",
-      "summary": "16 sales in 24h for 1.03 ETH. Highest: \"6529Seizing\" at 0.140 ETH.",
+      "headline": "17 Sales Today - 1.18 ETH Volume",
+      "summary": "17 sales in 24h for 1.18 ETH. Highest: \"AUTONOMY.EXE\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-        "label": "6529Seizing - 0.140 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+        "label": "AUTONOMY.EXE - 0.150 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+          "label": "AUTONOMY.EXE - 0.150 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
           "label": "6529Seizing - 0.140 ETH",
@@ -100,32 +105,27 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
           "label": "< no, really [ this ] is going to be our year > - 0.115 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/330.GIF",
-          "label": "The Bear Necessities - 0.075 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.03",
+          "value": "1.18",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.140",
-          "sub": "6529Seizing"
+          "value": "0.150",
+          "sub": "AUTONOMY.EXE"
         },
         {
           "label": "Floor",
-          "value": "0.0169389",
+          "value": "0.016934",
           "sub": "ETH"
         }
       ]
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.03 ETH",
-      "raw": 1.0319,
-      "delta": -8.1528,
-      "delta_fmt": "-88.8%"
+      "value": "1.18 ETH",
+      "raw": 1.1819,
+      "delta": -7.9738999999999995,
+      "delta_fmt": "-87.1%"
     },
     {
       "label": "7d Vol",
-      "value": "19.43 ETH",
-      "raw": 19.4344
+      "value": "19.58 ETH",
+      "raw": 19.5844
     },
     {
       "label": "30d Vol",
-      "value": "67.35 ETH",
-      "raw": 67.352
+      "value": "67.50 ETH",
+      "raw": 67.502
     },
     {
       "label": "Full Set Bid",
       "value": "43.2 ETH",
-      "raw": 43.19,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 43.24,
+      "delta": 0.05000000000000426,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,8 +163,10 @@
     },
     {
       "label": "#1 SonOfLasG",
-      "value": "40.6M TDH",
-      "raw": 40566226
+      "value": "41.6M TDH",
+      "raw": 41566226,
+      "delta": 1000000,
+      "delta_fmt": "+1.0M TDH"
     },
     {
       "label": "#1 blocknoob",
@@ -273,7 +275,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #500: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
