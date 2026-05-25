@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T12:44:47.473848+00:00",
+  "generated_at": "2026-05-25T13:50:58.281599+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -66,28 +66,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 1.20 ETH Volume",
-      "summary": "21 sales in 24h for 1.20 ETH. Highest: \"UncleSeize\" at 0.130 ETH.",
+      "headline": "23 Sales Today - 1.36 ETH Volume",
+      "summary": "23 sales in 24h for 1.36 ETH. Highest: \"6529Seizing\" at 0.140 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-        "label": "UncleSeize - 0.130 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
+        "label": "6529Seizing - 0.140 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
+          "label": "6529Seizing - 0.140 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
           "label": "UncleSeize - 0.130 ETH",
@@ -97,28 +102,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
           "label": "< no, really [ this ] is going to be our year > - 0.115 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/330.GIF",
-          "label": "The Bear Necessities - 0.075 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "23",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.20",
+          "value": "1.36",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.130",
-          "sub": "UncleSeize"
+          "value": "0.140",
+          "sub": "6529Seizing"
         },
         {
           "label": "Floor",
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.20 ETH",
-      "raw": 1.2019,
-      "delta": -8.9961,
-      "delta_fmt": "-88.2%"
+      "value": "1.36 ETH",
+      "raw": 1.3559,
+      "delta": -8.8421,
+      "delta_fmt": "-86.7%"
     },
     {
       "label": "7d Vol",
-      "value": "19.58 ETH",
-      "raw": 19.5774
+      "value": "19.73 ETH",
+      "raw": 19.7314
     },
     {
       "label": "30d Vol",
-      "value": "67.15 ETH",
-      "raw": 67.148
+      "value": "67.30 ETH",
+      "raw": 67.302
     },
     {
       "label": "Full Set Bid",
-      "value": "43.4 ETH",
-      "raw": 43.42,
-      "delta": 0.8100000000000023,
-      "delta_fmt": "+0.81 ETH"
+      "value": "43.3 ETH",
+      "raw": 43.33,
+      "delta": -0.09000000000000341,
+      "delta_fmt": "-0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 PePeSB",
       "value": "46.9M TDH",
-      "raw": 46895776,
-      "delta": 1222,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 46895776
     },
     {
       "label": "#1 Zar",
@@ -258,7 +256,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #500: 109 MINTS (EXCL. MUSEUM) | 77 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 109 MINTS (EXCL. MUSEUM) | 79 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
