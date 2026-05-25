@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T21:41:15.701160+00:00",
+  "generated_at": "2026-05-25T22:10:28.706769+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "SonOfLasG Leads with 45.7M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (45.7M projected TDH, 68 voters) | \"Let This Meme IN\" by blocknoob (41.6M projected TDH, 69 voters) | \"Freedom To Ascend\" by JennaDixon (29.4M projected TDH, 75 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (45.7M projected TDH, 68 voters) | \"Let This Meme IN\" by blocknoob (41.6M projected TDH, 69 voters) | \"The Daily Meme\" by Michael_Buda (38.2M projected TDH, 45 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -51,9 +51,9 @@
           "sub": "proj. (69 votes)"
         },
         {
-          "label": "JennaDixon",
-          "value": "29.4M",
-          "sub": "proj. (75 votes)"
+          "label": "Michael_Buda",
+          "value": "38.2M",
+          "sub": "proj. (45 votes)"
         }
       ]
     },
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 62K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
-        "label": "blake69 (62K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 1.18 ETH Volume",
-      "summary": "17 sales in 24h for 1.18 ETH. Highest: \"AUTONOMY.EXE\" at 0.150 ETH.",
+      "headline": "16 Sales Today - 1.14 ETH Volume",
+      "summary": "16 sales in 24h for 1.14 ETH. Highest: \"AUTONOMY.EXE\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.18",
+          "value": "1.14",
           "sub": "ETH"
         },
         {
@@ -134,10 +134,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.18 ETH",
-      "raw": 1.1819,
-      "delta": -7.955900000000001,
-      "delta_fmt": "-87.1%"
+      "value": "1.14 ETH",
+      "raw": 1.1418,
+      "delta": -7.996,
+      "delta_fmt": "-87.5%"
     },
     {
       "label": "7d Vol",
@@ -152,9 +152,9 @@
     {
       "label": "Full Set Bid",
       "value": "43.2 ETH",
-      "raw": 43.21,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "raw": 43.24,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +164,7 @@
     {
       "label": "#1 SonOfLasG",
       "value": "45.7M TDH",
-      "raw": 45654523,
-      "delta": 4088297,
-      "delta_fmt": "+4.1M TDH"
+      "raw": 45654523
     },
     {
       "label": "#1 blocknoob",
@@ -275,7 +273,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #500: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
