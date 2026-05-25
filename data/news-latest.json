@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T21:10:05.462250+00:00",
+  "generated_at": "2026-05-25T21:41:15.701160+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "SonOfLasG Leads with 41.6M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (41.6M projected TDH, 68 voters) | \"Let This Meme IN\" by blocknoob (41.6M projected TDH, 69 voters) | \"Freedom To Ascend\" by JennaDixon (29.4M projected TDH, 74 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "headline": "SonOfLasG Leads with 45.7M Projected TDH",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (45.7M projected TDH, 68 voters) | \"Let This Meme IN\" by blocknoob (41.6M projected TDH, 69 voters) | \"Freedom To Ascend\" by JennaDixon (29.4M projected TDH, 75 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "SonOfLasG",
-          "value": "41.6M",
+          "value": "45.7M",
           "sub": "proj. (68 votes)"
         },
         {
@@ -53,14 +53,14 @@
         {
           "label": "JennaDixon",
           "value": "29.4M",
-          "sub": "proj. (74 votes)"
+          "sub": "proj. (75 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: teexels (5.0M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: teexels (5.0M) | MoonZoey (4.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -136,7 +136,7 @@
       "label": "24h Vol",
       "value": "1.18 ETH",
       "raw": 1.1819,
-      "delta": -7.9738999999999995,
+      "delta": -7.955900000000001,
       "delta_fmt": "-87.1%"
     },
     {
@@ -152,9 +152,9 @@
     {
       "label": "Full Set Bid",
       "value": "43.2 ETH",
-      "raw": 43.24,
-      "delta": 0.05000000000000426,
-      "delta_fmt": "+0.05 ETH"
+      "raw": 43.21,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,10 +163,10 @@
     },
     {
       "label": "#1 SonOfLasG",
-      "value": "41.6M TDH",
-      "raw": 41566226,
-      "delta": 1000000,
-      "delta_fmt": "+1.0M TDH"
+      "value": "45.7M TDH",
+      "raw": 45654523,
+      "delta": 4088297,
+      "delta_fmt": "+4.1M TDH"
     },
     {
       "label": "#1 blocknoob",
@@ -275,7 +275,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #500: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
