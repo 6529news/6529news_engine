@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T23:15:07.570003+00:00",
+  "generated_at": "2026-05-25T00:15:48.944589+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -149,19 +149,23 @@
     {
       "label": "Full Set Bid",
       "value": "42.6 ETH",
-      "raw": 42.63,
-      "delta": 0.09000000000000341,
-      "delta_fmt": "+0.09 ETH"
+      "raw": 42.62,
+      "delta": -0.010000000000005116,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1623.3M",
-      "raw": 1623342693
+      "value": "1626.0M",
+      "raw": 1625955194,
+      "delta": 2612501,
+      "delta_fmt": "+2.6M TDH"
     },
     {
       "label": "#1 PePeSB",
       "value": "46.9M TDH",
-      "raw": 46913737
+      "raw": 46885091,
+      "delta": -28646,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 Zar",
@@ -256,7 +260,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 95 HOLDERS | NETWORK STATE OF MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 95 HOLDERS | NETWORK STATE OF MIND"
   ]
 }
