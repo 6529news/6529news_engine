@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T05:04:33.623793+00:00",
+  "generated_at": "2026-05-25T12:44:47.473848+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2acfa61f-13bf-46a0-a7d9-1bb1d7bb6d03/195d4702-ecfd-471e-8ff6-d6b3a5781512/20260503-203101.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/500.JPG",
         "label": "The Antifragile Bazaar - Zar",
         "type": "image"
       },
@@ -66,63 +66,63 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 9.16 ETH Volume",
-      "summary": "17 sales in 24h for 9.16 ETH. Highest: \"NakamotoFreedom\" at 7.990 ETH.",
+      "headline": "21 Sales Today - 1.20 ETH Volume",
+      "summary": "21 sales in 24h for 1.20 ETH. Highest: \"UncleSeize\" at 0.130 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4.WEBP",
-        "label": "NakamotoFreedom - 7.990 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+        "label": "UncleSeize - 0.130 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/4.WEBP",
-          "label": "NakamotoFreedom - 7.990 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.520 ETH",
-          "type": "image"
-        },
-        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
           "label": "UncleSeize - 0.130 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+          "label": "< no, really [ this ] is going to be our year > - 0.115 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/330.GIF",
+          "label": "The Bear Necessities - 0.075 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "21",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "9.16",
+          "value": "1.20",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "7.990",
-          "sub": "NakamotoFreedom"
+          "value": "0.130",
+          "sub": "UncleSeize"
         },
         {
           "label": "Floor",
-          "value": "0.016945",
+          "value": "0.016934",
           "sub": "ETH"
         }
       ]
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "9.16 ETH",
-      "raw": 9.1558,
-      "delta": 7.509499999999999,
-      "delta_fmt": "+456.1%"
+      "value": "1.20 ETH",
+      "raw": 1.2019,
+      "delta": -8.9961,
+      "delta_fmt": "-88.2%"
     },
     {
       "label": "7d Vol",
-      "value": "19.73 ETH",
-      "raw": 19.7327
+      "value": "19.58 ETH",
+      "raw": 19.5774
     },
     {
       "label": "30d Vol",
-      "value": "66.42 ETH",
-      "raw": 66.4202
+      "value": "67.15 ETH",
+      "raw": 67.148
     },
     {
       "label": "Full Set Bid",
-      "value": "42.6 ETH",
-      "raw": 42.61,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "43.4 ETH",
+      "raw": 43.42,
+      "delta": 0.8100000000000023,
+      "delta_fmt": "+0.81 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,8 +161,8 @@
     {
       "label": "#1 PePeSB",
       "value": "46.9M TDH",
-      "raw": 46894554,
-      "delta": 9463,
+      "raw": 46895776,
+      "delta": 1222,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -258,7 +258,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #499: 145 MINTS (EXCL. MUSEUM) | 95 HOLDERS | NETWORK STATE OF MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 109 MINTS (EXCL. MUSEUM) | 77 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
