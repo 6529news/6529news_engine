@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T09:48:14.250977+00:00",
+  "generated_at": "2026-05-26T13:32:01.619573+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "SonOfLasG Leads with 48.2M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (48.2M projected TDH, 71 voters) | \"Let This Meme IN\" by blocknoob (47.2M projected TDH, 72 voters) | \"The Daily Meme\" by Michael_Buda (40.0M projected TDH, 47 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (48.2M projected TDH, 71 voters) | \"Let This Meme IN\" by blocknoob (47.5M projected TDH, 72 voters) | \"The Daily Meme\" by Michael_Buda (40.1M projected TDH, 48 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,13 +47,13 @@
         },
         {
           "label": "blocknoob",
-          "value": "47.2M",
+          "value": "47.5M",
           "sub": "proj. (72 votes)"
         },
         {
           "label": "Michael_Buda",
-          "value": "40.0M",
-          "sub": "proj. (47 votes)"
+          "value": "40.1M",
+          "sub": "proj. (48 votes)"
         }
       ]
     },
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#13 aoifeodwyer \u2014 0 TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
-        "label": "aoifeodwyer (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 4.51 ETH Volume",
-      "summary": "19 sales in 24h for 4.51 ETH. Highest: \"Sgt. Pepe\" at 1.040 ETH.",
+      "headline": "13 Sales Today - 4.44 ETH Volume",
+      "summary": "13 sales in 24h for 4.44 ETH. Highest: \"Sgt. Pepe\" at 1.040 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,20 +102,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.150 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
+          "label": "NOT DED - 0.250 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "4.51",
+          "value": "4.44",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016928",
+          "value": "0.0169279",
           "sub": "ETH"
         }
       ]
@@ -180,27 +180,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "4.51 ETH",
-      "raw": 4.5099,
-      "delta": 3.308,
-      "delta_fmt": "+275.2%"
+      "value": "4.44 ETH",
+      "raw": 4.4415,
+      "delta": 3.0855999999999995,
+      "delta_fmt": "+227.6%"
     },
     {
       "label": "7d Vol",
-      "value": "21.64 ETH",
-      "raw": 21.6429
+      "value": "21.62 ETH",
+      "raw": 21.6184
     },
     {
       "label": "30d Vol",
-      "value": "70.54 ETH",
-      "raw": 70.5351
+      "value": "71.14 ETH",
+      "raw": 71.1396
     },
     {
       "label": "Full Set Bid",
-      "value": "41.4 ETH",
-      "raw": 41.38,
-      "delta": -1.8499999999999943,
-      "delta_fmt": "-1.85 ETH"
+      "value": "41.1 ETH",
+      "raw": 41.12,
+      "delta": -0.2600000000000051,
+      "delta_fmt": "-0.26 ETH"
     },
     {
       "label": "Network TDH",
@@ -210,9 +210,7 @@
     {
       "label": "#1 SonOfLasG",
       "value": "48.2M TDH",
-      "raw": 48185300,
-      "delta": 69,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 48185300
     },
     {
       "label": "#1 blocknoob",
@@ -324,8 +322,8 @@
     "SGT PEPE SALE: 1.040 ETH",
     "SGT PEPE SALE: 1.030 ETH",
     "SGT PEPE SALE: 1.020 ETH",
-    "PEBBLES: FLOOR 0.569899 ETH | 1 SALES | LAST SALE 11m AGO",
-    "CARD #500: 136 MINTS (EXCL. MUSEUM) | 90 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.569899 ETH | 1 SALES | LAST SALE 3h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 139 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
