@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T00:09:05.612009+00:00",
+  "generated_at": "2026-05-26T01:16:04.426999+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "SonOfLasG Leads with 45.7M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (45.7M projected TDH, 69 voters) | \"Let This Meme IN\" by blocknoob (45.1M projected TDH, 69 voters) | \"The Daily Meme\" by Michael_Buda (39.0M projected TDH, 45 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (45.7M projected TDH, 69 voters) | \"Let This Meme IN\" by blocknoob (45.0M projected TDH, 69 voters) | \"The Daily Meme\" by Michael_Buda (39.1M projected TDH, 45 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,12 +47,12 @@
         },
         {
           "label": "blocknoob",
-          "value": "45.1M",
+          "value": "45.0M",
           "sub": "proj. (69 votes)"
         },
         {
           "label": "Michael_Buda",
-          "value": "39.0M",
+          "value": "39.1M",
           "sub": "proj. (45 votes)"
         }
       ]
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 62K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
-        "label": "blake69 (62K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -135,38 +135,38 @@
     {
       "label": "24h Vol",
       "value": "3.21 ETH",
-      "raw": 3.2118,
-      "delta": -5.926,
+      "raw": 3.2103,
+      "delta": -5.9275,
       "delta_fmt": "-64.9%"
     },
     {
       "label": "7d Vol",
-      "value": "21.65 ETH",
-      "raw": 21.6544
+      "value": "21.64 ETH",
+      "raw": 21.6438
     },
     {
       "label": "30d Vol",
-      "value": "69.57 ETH",
-      "raw": 69.572
+      "value": "69.54 ETH",
+      "raw": 69.5378
     },
     {
       "label": "Full Set Bid",
-      "value": "43.3 ETH",
-      "raw": 43.27,
-      "delta": 0.04000000000000625,
-      "delta_fmt": "+0.04 ETH"
+      "value": "43.4 ETH",
+      "raw": 43.37,
+      "delta": 0.09999999999999432,
+      "delta_fmt": "+0.10 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1626.0M",
-      "raw": 1625955194
+      "value": "1628.2M",
+      "raw": 1628216988,
+      "delta": 2261794,
+      "delta_fmt": "+2.3M TDH"
     },
     {
       "label": "#1 SonOfLasG",
       "value": "45.7M TDH",
-      "raw": 45656231,
-      "delta": 1708,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 45656231
     },
     {
       "label": "#1 blocknoob",
@@ -277,7 +277,6 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.040 ETH",
     "SGT PEPE SALE: 1.030 ETH",
-    "CARD #500: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE ANTIFRAGILE BAZAAR",
     "DIVE BAR: 0 MSGS IN LAST 6H"
   ]
 }
