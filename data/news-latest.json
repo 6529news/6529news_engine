@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-05-26T14:42:34.806912+00:00",
+  "generated_at": "2026-05-26T16:06:47.523074+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"The Antifragile Bazaar\" by Zar \u2014 50.8M TDH from 63 voters. Top supporter: gpebbles (12.7M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/500.JPG",
-        "label": "The Antifragile Bazaar - Zar",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING WEDNESDAY",
       "headline": "Minting Wednesday",
@@ -30,30 +17,30 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "SonOfLasG Leads with 48.2M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (48.2M projected TDH, 71 voters) | \"Let This Meme IN\" by blocknoob (47.5M projected TDH, 72 voters) | \"The Daily Meme\" by Michael_Buda (40.1M projected TDH, 48 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "headline": "blocknoob Leads with 53.0M Projected TDH",
+      "summary": "\"Let This Meme IN\" by blocknoob (53.0M projected TDH, 72 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (48.2M projected TDH, 71 voters) | \"The Daily Meme\" by Michael_Buda (40.1M projected TDH, 49 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8331d1-87b4-11ee-9d82-029a0e4b6159/968c5b42-d6fe-409b-b013-e0f116e12d2d.png",
-        "label": "A Testament to the Hardest Truth - SonOfLasG",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
+        "label": "Let This Meme IN - blocknoob",
+        "type": "video"
       },
       "dataBoxes": [
+        {
+          "label": "blocknoob",
+          "value": "53.0M",
+          "sub": "proj. (72 votes)"
+        },
         {
           "label": "SonOfLasG",
           "value": "48.2M",
           "sub": "proj. (71 votes)"
         },
         {
-          "label": "blocknoob",
-          "value": "47.5M",
-          "sub": "proj. (72 votes)"
-        },
-        {
           "label": "Michael_Buda",
           "value": "40.1M",
-          "sub": "proj. (48 votes)"
+          "sub": "proj. (49 votes)"
         }
       ]
     },
@@ -69,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 6K TDH",
+      "headline": "#6 blake69 \u2014 62K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
+        "label": "blake69 (62K)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "18 Sales Today - 5.30 ETH Volume",
-      "summary": "18 sales in 24h for 5.30 ETH. Highest: \"Sgt. Pepe\" at 1.040 ETH.",
+      "headline": "19 Sales Today - 5.38 ETH Volume",
+      "summary": "19 sales in 24h for 5.38 ETH. Highest: \"Sgt. Pepe\" at 1.040 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "18",
+          "value": "19",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "5.30",
+          "value": "5.38",
           "sub": "ETH"
         },
         {
@@ -180,27 +167,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "5.30 ETH",
-      "raw": 5.2981,
-      "delta": 4.1162,
-      "delta_fmt": "+348.3%"
+      "value": "5.38 ETH",
+      "raw": 5.3781,
+      "delta": 4.1962,
+      "delta_fmt": "+355.0%"
     },
     {
       "label": "7d Vol",
-      "value": "22.46 ETH",
-      "raw": 22.4618
+      "value": "22.54 ETH",
+      "raw": 22.5418
     },
     {
       "label": "30d Vol",
-      "value": "71.95 ETH",
-      "raw": 71.9451
+      "value": "72.03 ETH",
+      "raw": 72.0251
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.88,
-      "delta": -0.23999999999999488,
-      "delta_fmt": "-0.24 ETH"
+      "value": "40.8 ETH",
+      "raw": 40.8,
+      "delta": -0.0800000000000054,
+      "delta_fmt": "-0.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -208,16 +195,16 @@
       "raw": 1628216988
     },
     {
+      "label": "#1 blocknoob",
+      "value": "53.0M TDH",
+      "raw": 52993009,
+      "delta": 14047880,
+      "delta_fmt": "+14.0M TDH"
+    },
+    {
       "label": "#1 SonOfLasG",
       "value": "48.2M TDH",
       "raw": 48185300
-    },
-    {
-      "label": "#1 blocknoob",
-      "value": "38.9M TDH",
-      "raw": 38945129,
-      "delta": 250,
-      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 PePeSB",
@@ -322,8 +309,8 @@
     "SGT PEPE SALE: 1.040 ETH",
     "SGT PEPE SALE: 1.030 ETH",
     "SGT PEPE SALE: 1.020 ETH",
-    "PEBBLES: FLOOR 0.569899 ETH | 1 SALES | LAST SALE 5h AGO",
-    "CARD #500: 151 MINTS (EXCL. MUSEUM) | 97 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.569899 ETH | 1 SALES | LAST SALE 6h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 151 MINTS (EXCL. MUSEUM) | 97 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
