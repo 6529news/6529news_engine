@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T23:39:27.596604+00:00",
+  "generated_at": "2026-05-26T00:09:05.612009+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "SonOfLasG Leads with 45.7M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (45.7M projected TDH, 68 voters) | \"Let This Meme IN\" by blocknoob (45.1M projected TDH, 69 voters) | \"The Daily Meme\" by Michael_Buda (38.4M projected TDH, 45 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (45.7M projected TDH, 69 voters) | \"Let This Meme IN\" by blocknoob (45.1M projected TDH, 69 voters) | \"The Daily Meme\" by Michael_Buda (39.0M projected TDH, 45 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "SonOfLasG",
           "value": "45.7M",
-          "sub": "proj. (68 votes)"
+          "sub": "proj. (69 votes)"
         },
         {
           "label": "blocknoob",
@@ -52,7 +52,7 @@
         },
         {
           "label": "Michael_Buda",
-          "value": "38.4M",
+          "value": "39.0M",
           "sub": "proj. (45 votes)"
         }
       ]
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 62K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
+        "label": "blake69 (62K)",
         "type": "image"
       }
     },
@@ -151,10 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "43.2 ETH",
-      "raw": 43.23,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "43.3 ETH",
+      "raw": 43.27,
+      "delta": 0.04000000000000625,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,7 +164,9 @@
     {
       "label": "#1 SonOfLasG",
       "value": "45.7M TDH",
-      "raw": 45654523
+      "raw": 45656231,
+      "delta": 1708,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 blocknoob",
@@ -275,7 +277,7 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.040 ETH",
     "SGT PEPE SALE: 1.030 ETH",
-    "CARD #500: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
