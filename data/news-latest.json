@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T18:19:03.544673+00:00",
+  "generated_at": "2026-05-26T19:18:26.066356+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 5.43 ETH Volume",
-      "summary": "20 sales in 24h for 5.43 ETH. Highest: \"Sgt. Pepe\" at 1.040 ETH.",
+      "headline": "22 Sales Today - 5.55 ETH Volume",
+      "summary": "22 sales in 24h for 5.55 ETH. Highest: \"Sgt. Pepe\" at 1.040 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "20",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "5.43",
+          "value": "5.55",
           "sub": "ETH"
         },
         {
@@ -167,27 +167,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "5.43 ETH",
-      "raw": 5.4301,
-      "delta": 4.1982,
-      "delta_fmt": "+340.8%"
+      "value": "5.55 ETH",
+      "raw": 5.5501,
+      "delta": 4.318199999999999,
+      "delta_fmt": "+350.5%"
     },
     {
       "label": "7d Vol",
-      "value": "22.16 ETH",
-      "raw": 22.1578
+      "value": "22.28 ETH",
+      "raw": 22.2778
     },
     {
       "label": "30d Vol",
-      "value": "72.13 ETH",
-      "raw": 72.1271
+      "value": "72.25 ETH",
+      "raw": 72.2471
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.86,
-      "delta": -0.14999999999999858,
-      "delta_fmt": "-0.15 ETH"
+      "value": "41.0 ETH",
+      "raw": 41.02,
+      "delta": 0.1600000000000037,
+      "delta_fmt": "+0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -197,9 +197,7 @@
     {
       "label": "#1 blocknoob",
       "value": "53.1M TDH",
-      "raw": 53083922,
-      "delta": 624,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 53083922
     },
     {
       "label": "#1 SonOfLasG",
@@ -309,8 +307,8 @@
     "SGT PEPE SALE: 1.040 ETH",
     "SGT PEPE SALE: 1.030 ETH",
     "SGT PEPE SALE: 1.020 ETH",
-    "PEBBLES: FLOOR 0.569899 ETH | 1 SALES | LAST SALE 8h AGO",
-    "CARD #500: 151 MINTS (EXCL. MUSEUM) | 97 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.569899 ETH | 1 SALES | LAST SALE 9h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 151 MINTS (EXCL. MUSEUM) | 97 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
