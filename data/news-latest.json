@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T07:08:43.690787+00:00",
+  "generated_at": "2026-05-27T08:30:32.931325+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "blocknoob Leads with 51.9M Projected TDH",
-      "summary": "\"Let This Meme IN\" by blocknoob (51.9M projected TDH, 75 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.3M projected TDH, 71 voters) | \"The Daily Meme\" by Michael_Buda (43.2M projected TDH, 53 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "summary": "\"Let This Meme IN\" by blocknoob (51.9M projected TDH, 75 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.3M projected TDH, 71 voters) | \"The Daily Meme\" by Michael_Buda (43.2M projected TDH, 54 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "Michael_Buda",
           "value": "43.2M",
-          "sub": "proj. (53 votes)"
+          "sub": "proj. (54 votes)"
         }
       ]
     },
@@ -61,15 +61,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 4.66 ETH Volume",
-      "summary": "21 sales in 24h for 4.66 ETH. Highest: \"Sgt. Pepe\" at 1.270 ETH.",
+      "headline": "20 Sales Today - 4.60 ETH Volume",
+      "summary": "20 sales in 24h for 4.60 ETH. Highest: \"Sgt. Pepe\" at 1.270 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "4.66",
+          "value": "4.60",
           "sub": "ETH"
         },
         {
@@ -167,10 +167,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "4.66 ETH",
-      "raw": 4.6557,
-      "delta": 1.3558000000000003,
-      "delta_fmt": "+41.1%"
+      "value": "4.60 ETH",
+      "raw": 4.5957,
+      "delta": 1.2357999999999998,
+      "delta_fmt": "+36.8%"
     },
     {
       "label": "7d Vol",
@@ -184,10 +184,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.92,
-      "delta": -0.22999999999999687,
-      "delta_fmt": "-0.23 ETH"
+      "value": "41.0 ETH",
+      "raw": 40.95,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -197,9 +197,7 @@
     {
       "label": "#1 blocknoob",
       "value": "51.9M TDH",
-      "raw": 51898587,
-      "delta": 68,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 51898587
     },
     {
       "label": "#1 SonOfLasG",
@@ -308,8 +306,8 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.270 ETH",
     "SGT PEPE SALE: 1.020 ETH",
-    "PEBBLES: FLOOR 0.569899 ETH | 1 SALES | LAST SALE 21h AGO",
-    "CARD #500: 151 MINTS (EXCL. MUSEUM) | 98 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.569899 ETH | 1 SALES | LAST SALE 22h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 151 MINTS (EXCL. MUSEUM) | 98 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
