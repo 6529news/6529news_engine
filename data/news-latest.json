@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T15:16:58.348373+00:00",
+  "generated_at": "2026-05-27T16:43:31.896619+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,31 +16,44 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "blocknoob Leads with 51.9M Projected TDH",
-      "summary": "\"Let This Meme IN\" by blocknoob (51.9M projected TDH, 76 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.3M projected TDH, 71 voters) | \"The Daily Meme\" by Michael_Buda (43.2M projected TDH, 55 voters) Next selection: Wed May 27 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING FRIDAY",
+      "headline": "Minting Friday",
+      "summary": " \"Let This Meme IN\" by blocknoob \u2014 51.9M TDH from 76 voters. Top supporter: Ruskin (21.6M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
         "label": "Let This Meme IN - blocknoob",
         "type": "video"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "SonOfLasG Leads with 45.2M Projected TDH",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (45.2M projected TDH, 71 voters) | \"The Daily Meme\" by Michael_Buda (43.5M projected TDH, 58 voters) | \"Freedom To Ascend\" by JennaDixon (32.0M projected TDH, 86 voters) Next selection: Fri May 29 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8331d1-87b4-11ee-9d82-029a0e4b6159/968c5b42-d6fe-409b-b013-e0f116e12d2d.png",
+        "label": "A Testament to the Hardest Truth - SonOfLasG",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "blocknoob",
-          "value": "51.9M",
-          "sub": "proj. (76 votes)"
-        },
-        {
           "label": "SonOfLasG",
-          "value": "45.3M",
+          "value": "45.2M",
           "sub": "proj. (71 votes)"
         },
         {
           "label": "Michael_Buda",
-          "value": "43.2M",
-          "sub": "proj. (55 votes)"
+          "value": "43.5M",
+          "sub": "proj. (58 votes)"
+        },
+        {
+          "label": "JennaDixon",
+          "value": "32.0M",
+          "sub": "proj. (86 votes)"
         }
       ]
     },
@@ -56,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "18 Sales Today - 2.20 ETH Volume",
-      "summary": "18 sales in 24h for 2.20 ETH. Highest: \"Sgt. Pepe\" at 1.270 ETH.",
+      "headline": "20 Sales Today - 2.30 ETH Volume",
+      "summary": "20 sales in 24h for 2.30 ETH. Highest: \"Sgt. Pepe\" at 1.270 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "18",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.20",
+          "value": "2.30",
           "sub": "ETH"
         },
         {
@@ -112,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016916999945",
+          "value": "0.016916999903",
           "sub": "ETH"
         }
       ]
@@ -121,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.20 ETH",
-      "raw": 2.2032,
-      "delta": -3.0949,
-      "delta_fmt": "-58.4%"
+      "value": "2.30 ETH",
+      "raw": 2.3032,
+      "delta": -3.0749,
+      "delta_fmt": "-57.2%"
     },
     {
       "label": "7d Vol",
-      "value": "23.79 ETH",
-      "raw": 23.7867
+      "value": "23.89 ETH",
+      "raw": 23.8867
     },
     {
       "label": "30d Vol",
-      "value": "73.30 ETH",
-      "raw": 73.3013
+      "value": "73.40 ETH",
+      "raw": 73.4013
     },
     {
       "label": "Full Set Bid",
-      "value": "40.8 ETH",
-      "raw": 40.81,
-      "delta": -0.21000000000000085,
-      "delta_fmt": "-0.21 ETH"
+      "value": "40.7 ETH",
+      "raw": 40.71,
+      "delta": -0.10000000000000142,
+      "delta_fmt": "-0.10 ETH"
     },
     {
       "label": "Network TDH",
@@ -149,14 +162,16 @@
       "raw": 1630764696
     },
     {
+      "label": "#1 SonOfLasG",
+      "value": "45.2M TDH",
+      "raw": 45234295,
+      "delta": -2951005,
+      "delta_fmt": "-3.0M TDH"
+    },
+    {
       "label": "#1 blocknoob",
       "value": "51.9M TDH",
       "raw": 51899237
-    },
-    {
-      "label": "#1 SonOfLasG",
-      "value": "48.2M TDH",
-      "raw": 48185300
     },
     {
       "label": "#1 PePeSB",
@@ -259,7 +274,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.270 ETH",
-    "CARD #501: 109 MINTS (EXCL. MUSEUM) | 76 HOLDERS | TOO NUMB TO FEAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #501: 110 MINTS (EXCL. MUSEUM) | 76 HOLDERS | TOO NUMB TO FEAR"
   ]
 }
