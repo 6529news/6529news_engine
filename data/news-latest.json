@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T20:31:30.973867+00:00",
+  "generated_at": "2026-05-27T21:22:09.111365+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#9 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 2.33 ETH Volume",
-      "summary": "20 sales in 24h for 2.33 ETH. Highest: \"Sgt. Pepe\" at 1.270 ETH.",
+      "headline": "22 Sales Today - 2.40 ETH Volume",
+      "summary": "22 sales in 24h for 2.40 ETH. Highest: \"Sgt. Pepe\" at 1.270 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "20",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.33",
+          "value": "2.40",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016916999945",
+          "value": "0.016922299993",
           "sub": "ETH"
         }
       ]
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.33 ETH",
-      "raw": 2.3312,
-      "delta": -3.0689,
-      "delta_fmt": "-56.8%"
+      "value": "2.40 ETH",
+      "raw": 2.4047,
+      "delta": -2.9954,
+      "delta_fmt": "-55.5%"
     },
     {
       "label": "7d Vol",
-      "value": "24.14 ETH",
-      "raw": 24.1367
+      "value": "24.22 ETH",
+      "raw": 24.224
     },
     {
       "label": "30d Vol",
-      "value": "73.65 ETH",
-      "raw": 73.6513
+      "value": "73.76 ETH",
+      "raw": 73.7636
     },
     {
       "label": "Full Set Bid",
-      "value": "41.9 ETH",
-      "raw": 41.9,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "value": "41.7 ETH",
+      "raw": 41.75,
+      "delta": -0.14999999999999858,
+      "delta_fmt": "-0.15 ETH"
     },
     {
       "label": "Network TDH",
@@ -272,7 +272,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.270 ETH",
-    "CARD #501: 115 MINTS (EXCL. MUSEUM) | 79 HOLDERS | TOO NUMB TO FEAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #501: 118 MINTS (EXCL. MUSEUM) | 81 HOLDERS | TOO NUMB TO FEAR"
   ]
 }
