@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T16:43:31.896619+00:00",
+  "generated_at": "2026-05-27T17:15:47.899522+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016916999903",
+          "value": "0.016916999895",
           "sub": "ETH"
         }
       ]
@@ -136,8 +136,8 @@
       "label": "24h Vol",
       "value": "2.30 ETH",
       "raw": 2.3032,
-      "delta": -3.0749,
-      "delta_fmt": "-57.2%"
+      "delta": -3.0249,
+      "delta_fmt": "-56.8%"
     },
     {
       "label": "7d Vol",
@@ -151,10 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.7 ETH",
-      "raw": 40.71,
-      "delta": -0.10000000000000142,
-      "delta_fmt": "-0.10 ETH"
+      "value": "40.8 ETH",
+      "raw": 40.82,
+      "delta": 0.10999999999999943,
+      "delta_fmt": "+0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +164,7 @@
     {
       "label": "#1 SonOfLasG",
       "value": "45.2M TDH",
-      "raw": 45234295,
-      "delta": -2951005,
-      "delta_fmt": "-3.0M TDH"
+      "raw": 45234295
     },
     {
       "label": "#1 blocknoob",
@@ -275,6 +273,6 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.270 ETH",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #501: 110 MINTS (EXCL. MUSEUM) | 76 HOLDERS | TOO NUMB TO FEAR"
+    "CARD #501: 111 MINTS (EXCL. MUSEUM) | 77 HOLDERS | TOO NUMB TO FEAR"
   ]
 }
