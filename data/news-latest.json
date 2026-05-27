@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T01:20:15.788749+00:00",
+  "generated_at": "2026-05-27T02:22:54.170545+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "blocknoob Leads with 51.9M Projected TDH",
-      "summary": "\"Let This Meme IN\" by blocknoob (51.9M projected TDH, 74 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.3M projected TDH, 71 voters) | \"The Daily Meme\" by Michael_Buda (43.1M projected TDH, 52 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "summary": "\"Let This Meme IN\" by blocknoob (51.9M projected TDH, 74 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.3M projected TDH, 71 voters) | \"The Daily Meme\" by Michael_Buda (43.2M projected TDH, 52 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,7 +39,7 @@
         },
         {
           "label": "Michael_Buda",
-          "value": "43.1M",
+          "value": "43.2M",
           "sub": "proj. (52 votes)"
         }
       ]
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 62K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
-        "label": "blake69 (62K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -169,8 +169,8 @@
       "label": "24h Vol",
       "value": "4.85 ETH",
       "raw": 4.8538,
-      "delta": 1.6434999999999995,
-      "delta_fmt": "+51.2%"
+      "delta": 1.7019999999999995,
+      "delta_fmt": "+54.0%"
     },
     {
       "label": "7d Vol",
@@ -185,9 +185,7 @@
     {
       "label": "Full Set Bid",
       "value": "41.0 ETH",
-      "raw": 41.04,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 41.04
     },
     {
       "label": "Network TDH",
@@ -306,8 +304,8 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.270 ETH",
     "SGT PEPE SALE: 1.020 ETH",
-    "PEBBLES: FLOOR 0.569899 ETH | 1 SALES | LAST SALE 15h AGO",
-    "CARD #500: 151 MINTS (EXCL. MUSEUM) | 98 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.569899 ETH | 1 SALES | LAST SALE 16h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 151 MINTS (EXCL. MUSEUM) | 98 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
