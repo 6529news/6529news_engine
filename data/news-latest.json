@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T10:08:49.439606+00:00",
+  "generated_at": "2026-05-27T11:26:56.727517+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "blocknoob Leads with 51.9M Projected TDH",
-      "summary": "\"Let This Meme IN\" by blocknoob (51.9M projected TDH, 75 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.3M projected TDH, 71 voters) | \"The Daily Meme\" by Michael_Buda (43.2M projected TDH, 54 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "summary": "\"Let This Meme IN\" by blocknoob (51.9M projected TDH, 76 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.3M projected TDH, 71 voters) | \"The Daily Meme\" by Michael_Buda (43.2M projected TDH, 54 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "blocknoob",
           "value": "51.9M",
-          "sub": "proj. (75 votes)"
+          "sub": "proj. (76 votes)"
         },
         {
           "label": "SonOfLasG",
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
@@ -112,53 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016916999996",
-          "sub": "ETH"
-        }
-      ]
-    },
-    {
-      "category": "PEBBLES",
-      "headline": "Pebbles: 1 Sales - 0.880 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.880 ETH. Current floor: 0.569899 ETH.",
-      "source": "OpenSea",
-      "link": "https://opensea.io/collection/pebbles-by-zeblocks",
-      "image": {
-        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/b53e4f96a02c621d4d5462dc412339/0eb53e4f96a02c621d4d5462dc412339.png",
-        "label": "Pebbles #35 - 0.880 ETH",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/b53e4f96a02c621d4d5462dc412339/0eb53e4f96a02c621d4d5462dc412339.png",
-          "label": "Pebbles #35 - 0.880 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/34bdbe9836b7d3473e4b2cdaf655ad/c034bdbe9836b7d3473e4b2cdaf655ad.png",
-          "label": "Pebbles #925 - 0.880 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/84918b52ef3512c6b776d741d1c75d/6a84918b52ef3512c6b776d741d1c75d.png",
-          "label": "Pebbles #782 - 0.332 ETH",
-          "type": "image"
-        }
-      ],
-      "dataBoxes": [
-        {
-          "label": "Sales 24h",
-          "value": "1",
-          "sub": ""
-        },
-        {
-          "label": "Volume",
-          "value": "0.880",
-          "sub": "ETH"
-        },
-        {
-          "label": "Floor",
-          "value": "0.569899",
+          "value": "0.016916999964",
           "sub": "ETH"
         }
       ]
@@ -185,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.0 ETH",
-      "raw": 40.98,
-      "delta": 0.02999999999999403,
-      "delta_fmt": "+0.03 ETH"
+      "raw": 40.96,
+      "delta": -0.01999999999999602,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -197,7 +151,9 @@
     {
       "label": "#1 blocknoob",
       "value": "51.9M TDH",
-      "raw": 51898587
+      "raw": 51899234,
+      "delta": 647,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 SonOfLasG",
@@ -305,8 +261,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.270 ETH",
-    "PEBBLES: FLOOR 0.569899 ETH | 1 SALES | LAST SALE 1d AGO",
-    "CARD #500: 151 MINTS (EXCL. MUSEUM) | 98 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #500: 151 MINTS (EXCL. MUSEUM) | 98 HOLDERS | THE ANTIFRAGILE BAZAAR"
   ]
 }
