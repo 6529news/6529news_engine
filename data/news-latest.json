@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T11:26:56.727517+00:00",
+  "generated_at": "2026-05-27T12:37:29.569444+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_777898fe-0f06-4117-b31b-80b43a91691e/58df50bd-5cfc-487d-8504-d54273a4d186.GIF",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/501.GIF",
         "label": "Too Numb to Fear - PePeSB",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "blocknoob Leads with 51.9M Projected TDH",
-      "summary": "\"Let This Meme IN\" by blocknoob (51.9M projected TDH, 76 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.3M projected TDH, 71 voters) | \"The Daily Meme\" by Michael_Buda (43.2M projected TDH, 54 voters) Next selection: Wed May 27 at 17:00 CET.",
+      "summary": "\"Let This Meme IN\" by blocknoob (51.9M projected TDH, 76 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.3M projected TDH, 71 voters) | \"The Daily Meme\" by Michael_Buda (43.2M projected TDH, 55 voters) Next selection: Wed May 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "Michael_Buda",
           "value": "43.2M",
-          "sub": "proj. (54 votes)"
+          "sub": "proj. (55 votes)"
         }
       ]
     },
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 3.25 ETH Volume",
-      "summary": "19 sales in 24h for 3.25 ETH. Highest: \"Sgt. Pepe\" at 1.270 ETH.",
+      "headline": "21 Sales Today - 3.14 ETH Volume",
+      "summary": "21 sales in 24h for 3.14 ETH. Highest: \"Sgt. Pepe\" at 1.270 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "21",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.25",
+          "value": "3.14",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016916999964",
+          "value": "0.01691699994",
           "sub": "ETH"
         }
       ]
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.25 ETH",
-      "raw": 3.2493,
-      "delta": -1.2606000000000002,
-      "delta_fmt": "-28.0%"
+      "value": "3.14 ETH",
+      "raw": 3.1432,
+      "delta": -1.2982999999999993,
+      "delta_fmt": "-29.2%"
     },
     {
       "label": "7d Vol",
-      "value": "23.42 ETH",
-      "raw": 23.4228
+      "value": "23.49 ETH",
+      "raw": 23.4867
     },
     {
       "label": "30d Vol",
-      "value": "72.86 ETH",
-      "raw": 72.8574
+      "value": "73.00 ETH",
+      "raw": 73.0013
     },
     {
       "label": "Full Set Bid",
       "value": "41.0 ETH",
-      "raw": 40.96,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 41.02,
+      "delta": 0.060000000000002274,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,8 +151,8 @@
     {
       "label": "#1 blocknoob",
       "value": "51.9M TDH",
-      "raw": 51899234,
-      "delta": 647,
+      "raw": 51899237,
+      "delta": 3,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -261,7 +261,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.270 ETH",
-    "CARD #500: 151 MINTS (EXCL. MUSEUM) | 98 HOLDERS | THE ANTIFRAGILE BAZAAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #501: 20 MINTS (EXCL. MUSEUM) | 1 HOLDERS | TOO NUMB TO FEAR"
   ]
 }
