@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T19:43:26.204074+00:00",
+  "generated_at": "2026-05-27T20:31:30.973867+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#13 aoifeodwyer \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
-        "label": "aoifeodwyer (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016916999961",
+          "value": "0.016916999945",
           "sub": "ETH"
         }
       ]
@@ -136,8 +136,8 @@
       "label": "24h Vol",
       "value": "2.33 ETH",
       "raw": 2.3312,
-      "delta": -3.2188999999999997,
-      "delta_fmt": "-58.0%"
+      "delta": -3.0689,
+      "delta_fmt": "-56.8%"
     },
     {
       "label": "7d Vol",
@@ -152,9 +152,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.9 ETH",
-      "raw": 41.94,
-      "delta": 0.11999999999999744,
-      "delta_fmt": "+0.12 ETH"
+      "raw": 41.9,
+      "delta": -0.03999999999999915,
+      "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -272,7 +272,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.270 ETH",
-    "CARD #501: 115 MINTS (EXCL. MUSEUM) | 79 HOLDERS | TOO NUMB TO FEAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #501: 115 MINTS (EXCL. MUSEUM) | 79 HOLDERS | TOO NUMB TO FEAR"
   ]
 }
