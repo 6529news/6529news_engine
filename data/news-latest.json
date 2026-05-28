@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T15:27:24.251000+00:00",
+  "generated_at": "2026-05-28T16:51:41.456919+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Michael_Buda Leads with 48.8M Projected TDH",
-      "summary": "\"The Daily Meme\" by Michael_Buda (48.8M projected TDH, 67 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.7M projected TDH, 73 voters) | \"Freedom To Ascend\" by JennaDixon (34.2M projected TDH, 89 voters) Next selection: Fri May 29 at 17:00 CET.",
+      "summary": "\"The Daily Meme\" by Michael_Buda (48.8M projected TDH, 69 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.7M projected TDH, 73 voters) | \"Freedom To Ascend\" by JennaDixon (34.2M projected TDH, 89 voters) Next selection: Fri May 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Michael_Buda",
           "value": "48.8M",
-          "sub": "proj. (67 votes)"
+          "sub": "proj. (69 votes)"
         },
         {
           "label": "SonOfLasG",
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016911999999",
+          "value": "0.016911999995",
           "sub": "ETH"
         }
       ]
@@ -123,8 +123,8 @@
       "label": "24h Vol",
       "value": "0.96 ETH",
       "raw": 0.9564,
-      "delta": -1.2468,
-      "delta_fmt": "-56.6%"
+      "delta": -1.3468,
+      "delta_fmt": "-58.5%"
     },
     {
       "label": "7d Vol",
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.7 ETH",
-      "raw": 40.66,
-      "delta": -0.18000000000000682,
-      "delta_fmt": "-0.18 ETH"
+      "value": "39.4 ETH",
+      "raw": 39.44,
+      "delta": -1.2199999999999989,
+      "delta_fmt": "-1.22 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,7 +151,9 @@
     {
       "label": "#1 Michael_Buda",
       "value": "48.8M TDH",
-      "raw": 48767503
+      "raw": 48785211,
+      "delta": 17708,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 SonOfLasG",
@@ -263,7 +265,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #501: 138 MINTS (EXCL. MUSEUM) | 92 HOLDERS | TOO NUMB TO FEAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #501: 138 MINTS (EXCL. MUSEUM) | 92 HOLDERS | TOO NUMB TO FEAR"
   ]
 }
