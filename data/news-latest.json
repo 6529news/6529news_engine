@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T05:44:53.005443+00:00",
+  "generated_at": "2026-05-28T07:05:29.209030+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Michael_Buda Leads with 47.1M Projected TDH",
-      "summary": "\"The Daily Meme\" by Michael_Buda (47.1M projected TDH, 64 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (46.3M projected TDH, 73 voters) | \"Freedom To Ascend\" by JennaDixon (34.2M projected TDH, 89 voters) Next selection: Fri May 29 at 17:00 CET.",
+      "summary": "\"The Daily Meme\" by Michael_Buda (47.1M projected TDH, 65 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (46.3M projected TDH, 73 voters) | \"Freedom To Ascend\" by JennaDixon (34.2M projected TDH, 89 voters) Next selection: Fri May 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Michael_Buda",
           "value": "47.1M",
-          "sub": "proj. (64 votes)"
+          "sub": "proj. (65 votes)"
         },
         {
           "label": "SonOfLasG",
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016916699999",
+          "value": "0.016911999999",
           "sub": "ETH"
         }
       ]
@@ -136,13 +136,13 @@
       "label": "24h Vol",
       "value": "1.01 ETH",
       "raw": 1.0069,
-      "delta": -3.8468999999999998,
-      "delta_fmt": "-79.3%"
+      "delta": -3.6488000000000005,
+      "delta_fmt": "-78.4%"
     },
     {
       "label": "7d Vol",
-      "value": "24.27 ETH",
-      "raw": 24.2721
+      "value": "23.09 ETH",
+      "raw": 23.0877
     },
     {
       "label": "30d Vol",
@@ -151,10 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.7 ETH",
-      "raw": 41.72,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "value": "40.7 ETH",
+      "raw": 40.73,
+      "delta": -0.990000000000002,
+      "delta_fmt": "-0.99 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,8 +164,8 @@
     {
       "label": "#1 Michael_Buda",
       "value": "47.1M TDH",
-      "raw": 47132902,
-      "delta": 10321,
+      "raw": 47133105,
+      "delta": 203,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -278,7 +278,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #501: 121 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TOO NUMB TO FEAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #501: 121 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TOO NUMB TO FEAR"
   ]
 }
