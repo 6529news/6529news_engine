@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T04:12:58.391258+00:00",
+  "generated_at": "2026-05-28T05:44:53.005443+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Michael_Buda Leads with 47.1M Projected TDH",
-      "summary": "\"The Daily Meme\" by Michael_Buda (47.1M projected TDH, 63 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (46.3M projected TDH, 72 voters) | \"Freedom To Ascend\" by JennaDixon (34.1M projected TDH, 88 voters) Next selection: Fri May 29 at 17:00 CET.",
+      "summary": "\"The Daily Meme\" by Michael_Buda (47.1M projected TDH, 64 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (46.3M projected TDH, 73 voters) | \"Freedom To Ascend\" by JennaDixon (34.2M projected TDH, 89 voters) Next selection: Fri May 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,17 +43,17 @@
         {
           "label": "Michael_Buda",
           "value": "47.1M",
-          "sub": "proj. (63 votes)"
+          "sub": "proj. (64 votes)"
         },
         {
           "label": "SonOfLasG",
           "value": "46.3M",
-          "sub": "proj. (72 votes)"
+          "sub": "proj. (73 votes)"
         },
         {
           "label": "JennaDixon",
-          "value": "34.1M",
-          "sub": "proj. (88 votes)"
+          "value": "34.2M",
+          "sub": "proj. (89 votes)"
         }
       ]
     },
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 0.96 ETH Volume",
-      "summary": "19 sales in 24h for 0.96 ETH. Highest: \"Codex Obscura\" at 0.080 ETH.",
+      "headline": "20 Sales Today - 1.01 ETH Volume",
+      "summary": "20 sales in 24h for 1.01 ETH. Highest: \"Codex Obscura\" at 0.080 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.96",
+          "value": "1.01",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016916999999",
+          "value": "0.016916699999",
           "sub": "ETH"
         }
       ]
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.96 ETH",
-      "raw": 0.9569,
-      "delta": -3.8968999999999996,
-      "delta_fmt": "-80.3%"
+      "value": "1.01 ETH",
+      "raw": 1.0069,
+      "delta": -3.8468999999999998,
+      "delta_fmt": "-79.3%"
     },
     {
       "label": "7d Vol",
-      "value": "24.22 ETH",
-      "raw": 24.2221
+      "value": "24.27 ETH",
+      "raw": 24.2721
     },
     {
       "label": "30d Vol",
-      "value": "72.76 ETH",
-      "raw": 72.7627
+      "value": "72.81 ETH",
+      "raw": 72.8127
     },
     {
       "label": "Full Set Bid",
       "value": "41.7 ETH",
-      "raw": 41.74,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "raw": 41.72,
+      "delta": -0.020000000000003126,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,7 +164,9 @@
     {
       "label": "#1 Michael_Buda",
       "value": "47.1M TDH",
-      "raw": 47122581
+      "raw": 47132902,
+      "delta": 10321,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 SonOfLasG",
@@ -276,7 +278,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #501: 121 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TOO NUMB TO FEAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #501: 121 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TOO NUMB TO FEAR"
   ]
 }
