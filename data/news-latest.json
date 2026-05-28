@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:09:37.624830+00:00",
+  "generated_at": "2026-05-28T11:27:05.573227+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Michael_Buda Leads with 47.1M Projected TDH",
-      "summary": "\"The Daily Meme\" by Michael_Buda (47.1M projected TDH, 66 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (46.3M projected TDH, 73 voters) | \"Freedom To Ascend\" by JennaDixon (34.2M projected TDH, 89 voters) Next selection: Fri May 29 at 17:00 CET.",
+      "headline": "Michael_Buda Leads with 47.8M Projected TDH",
+      "summary": "\"The Daily Meme\" by Michael_Buda (47.8M projected TDH, 66 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (46.3M projected TDH, 73 voters) | \"Freedom To Ascend\" by JennaDixon (34.2M projected TDH, 89 voters) Next selection: Fri May 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "Michael_Buda",
-          "value": "47.1M",
+          "value": "47.8M",
           "sub": "proj. (66 votes)"
         },
         {
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#13 aoifeodwyer \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
-        "label": "aoifeodwyer (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 1.24 ETH Volume",
-      "summary": "22 sales in 24h for 1.24 ETH. Highest: \"Pepe X\" at 0.134 ETH.",
+      "headline": "22 Sales Today - 1.36 ETH Volume",
+      "summary": "22 sales in 24h for 1.36 ETH. Highest: \"Pepe X\" at 0.134 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -115,7 +115,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.24",
+          "value": "1.36",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016911999939",
+          "value": "0.016911999907",
           "sub": "ETH"
         }
       ]
@@ -134,25 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.24 ETH",
-      "raw": 1.2409,
-      "delta": -2.0084,
-      "delta_fmt": "-61.8%"
+      "value": "1.36 ETH",
+      "raw": 1.3603,
+      "delta": -1.8889999999999998,
+      "delta_fmt": "-58.1%"
     },
     {
       "label": "7d Vol",
-      "value": "23.32 ETH",
-      "raw": 23.3217
+      "value": "23.45 ETH",
+      "raw": 23.4547
     },
     {
       "label": "30d Vol",
-      "value": "73.05 ETH",
-      "raw": 73.0467
+      "value": "73.18 ETH",
+      "raw": 73.1797
     },
     {
       "label": "Full Set Bid",
       "value": "40.7 ETH",
-      "raw": 40.68
+      "raw": 40.72,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,10 +163,10 @@
     },
     {
       "label": "#1 Michael_Buda",
-      "value": "47.1M TDH",
-      "raw": 47134681,
-      "delta": 1576,
-      "delta_fmt": "+0.0M TDH"
+      "value": "47.8M TDH",
+      "raw": 47781052,
+      "delta": 646371,
+      "delta_fmt": "+0.6M TDH"
     },
     {
       "label": "#1 SonOfLasG",
@@ -276,7 +278,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #501: 121 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TOO NUMB TO FEAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #501: 121 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TOO NUMB TO FEAR"
   ]
 }
