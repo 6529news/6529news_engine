@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T12:44:12.315330+00:00",
+  "generated_at": "2026-05-28T14:07:01.771287+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Michael_Buda Leads with 47.8M Projected TDH",
-      "summary": "\"The Daily Meme\" by Michael_Buda (47.8M projected TDH, 66 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.7M projected TDH, 73 voters) | \"Freedom To Ascend\" by JennaDixon (34.2M projected TDH, 89 voters) Next selection: Fri May 29 at 17:00 CET.",
+      "headline": "Michael_Buda Leads with 48.8M Projected TDH",
+      "summary": "\"The Daily Meme\" by Michael_Buda (48.8M projected TDH, 67 voters) | \"A Testament to the Hardest Truth\" by SonOfLasG (45.7M projected TDH, 73 voters) | \"Freedom To Ascend\" by JennaDixon (34.2M projected TDH, 89 voters) Next selection: Fri May 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Michael_Buda",
-          "value": "47.8M",
-          "sub": "proj. (66 votes)"
+          "value": "48.8M",
+          "sub": "proj. (67 votes)"
         },
         {
           "label": "SonOfLasG",
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: 0xCuttlefish (9.1M) | teexels (5.0M) | MoonZoey (4.6M).",
+      "summary": "3 submissions this week. Ranking: 0xCuttlefish (9.1M) | MoonZoey (5.2M) | teexels (5.0M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 1.36 ETH Volume",
-      "summary": "22 sales in 24h for 1.36 ETH. Highest: \"Pepe X\" at 0.134 ETH.",
+      "headline": "16 Sales Today - 1.06 ETH Volume",
+      "summary": "16 sales in 24h for 1.06 ETH. Highest: \"Pepe X\" at 0.134 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,20 +102,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/483.WEBP",
-          "label": "Codex Obscura - 0.080 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/368.GIF",
+          "label": "Freedom to Roam - 0.070 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "22",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.36",
+          "value": "1.06",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016911999875",
+          "value": "0.016911999843",
           "sub": "ETH"
         }
       ]
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.36 ETH",
-      "raw": 1.3603,
-      "delta": -1.7829000000000002,
-      "delta_fmt": "-56.7%"
+      "value": "1.06 ETH",
+      "raw": 1.0564,
+      "delta": -1.8918,
+      "delta_fmt": "-64.2%"
     },
     {
       "label": "7d Vol",
-      "value": "23.45 ETH",
-      "raw": 23.4547
+      "value": "23.37 ETH",
+      "raw": 23.3725
     },
     {
       "label": "30d Vol",
-      "value": "73.18 ETH",
-      "raw": 73.1797
+      "value": "73.32 ETH",
+      "raw": 73.3197
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.86,
-      "delta": 0.14000000000000057,
-      "delta_fmt": "+0.14 ETH"
+      "value": "40.8 ETH",
+      "raw": 40.84,
+      "delta": -0.01999999999999602,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,10 +163,10 @@
     },
     {
       "label": "#1 Michael_Buda",
-      "value": "47.8M TDH",
-      "raw": 47781155,
-      "delta": 103,
-      "delta_fmt": "+0.0M TDH"
+      "value": "48.8M TDH",
+      "raw": 48767503,
+      "delta": 986348,
+      "delta_fmt": "+1.0M TDH"
     },
     {
       "label": "#1 SonOfLasG",
@@ -278,7 +278,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #501: 121 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TOO NUMB TO FEAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #501: 138 MINTS (EXCL. MUSEUM) | 92 HOLDERS | TOO NUMB TO FEAR"
   ]
 }
