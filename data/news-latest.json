@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T07:02:38.285088+00:00",
+  "generated_at": "2026-05-29T08:31:44.923921+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,9 +9,9 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2b92399c-790c-4be9-90f8-efdd565d98fe/a66db279-7dcd-4890-9235-a79a516de934/LetThisMemeIn-4k.mp4",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/502.PNG",
         "label": "Let This Meme IN - blocknoob",
-        "type": "video"
+        "type": "image"
       },
       "dataBoxes": null
     },
@@ -46,8 +46,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: 0xCuttlefish (9.2M) | MoonZoey (5.2M) | teexels (5.0M) | Josei (2.3M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: 0xCuttlefish (9.2M) | MoonZoey (5.2M) | Josei (2.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,63 +56,63 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#13 aoifeodwyer \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
-        "label": "aoifeodwyer (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 0.77 ETH Volume",
-      "summary": "11 sales in 24h for 0.77 ETH. Highest: \"Pepe X\" at 0.134 ETH.",
+      "headline": "9 Sales Today - 0.54 ETH Volume",
+      "summary": "9 sales in 24h for 0.54 ETH. Highest: \"Pepe X\" at 0.133 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
-        "label": "Pepe X - 0.134 ETH",
+        "label": "Pepe X - 0.133 ETH",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
-          "label": "Pepe X - 0.134 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/425.GIF",
-          "label": "Seize What Is Yours - 0.100 ETH",
+          "label": "Pepe X - 0.133 ETH",
           "type": "image"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/368.GIF",
           "label": "Freedom to Roam - 0.070 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/218.WEBP",
+          "label": "Venus\u2019s Love for Transactions - 0.070 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "9",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.77",
+          "value": "0.54",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.134",
+          "value": "0.133",
           "sub": "Pepe X"
         },
         {
           "label": "Floor",
-          "value": "0.016899999999",
+          "value": "0.016894999976",
           "sub": "ETH"
         }
       ]
@@ -121,15 +121,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.77 ETH",
-      "raw": 0.7726,
-      "delta": -0.23429999999999995,
-      "delta_fmt": "-23.3%"
+      "value": "0.54 ETH",
+      "raw": 0.5386,
+      "delta": -0.7022999999999999,
+      "delta_fmt": "-56.6%"
     },
     {
       "label": "7d Vol",
-      "value": "21.99 ETH",
-      "raw": 21.9872
+      "value": "21.75 ETH",
+      "raw": 21.7505
     },
     {
       "label": "30d Vol",
@@ -139,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.6 ETH",
-      "raw": 40.59,
-      "delta": -0.1599999999999966,
-      "delta_fmt": "-0.16 ETH"
+      "raw": 40.61,
+      "delta": 0.01999999999999602,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,8 +151,8 @@
     {
       "label": "#1 Michael_Buda",
       "value": "52.8M TDH",
-      "raw": 52787989,
-      "delta": 117,
+      "raw": 52788387,
+      "delta": 398,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -265,7 +265,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #501: 138 MINTS (EXCL. MUSEUM) | 96 HOLDERS | TOO NUMB TO FEAR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 105 MINTS (EXCL. MUSEUM) | 72 HOLDERS | LET THIS MEME IN"
   ]
 }
