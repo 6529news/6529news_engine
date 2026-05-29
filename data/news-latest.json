@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T13:48:45.589607+00:00",
+  "generated_at": "2026-05-29T15:09:44.496222+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,63 +56,63 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "9 Sales Today - 0.32 ETH Volume",
-      "summary": "9 sales in 24h for 0.32 ETH. Highest: \"still standing\" at 0.065 ETH.",
+      "headline": "12 Sales Today - 0.54 ETH Volume",
+      "summary": "12 sales in 24h for 0.54 ETH. Highest: \"Meme Enjoyoor\" at 0.130 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/463.GIF",
-        "label": "still standing - 0.065 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
+        "label": "Meme Enjoyoor - 0.130 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
+          "label": "Meme Enjoyoor - 0.130 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/463.GIF",
           "label": "still standing - 0.065 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/458.GIF",
-          "label": "Bat Soup gives me Wings... - 0.060 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/473.WEBP",
-          "label": "The Network - 0.045 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/359.WEBP",
+          "label": "DON\u2019T TREAD ON MEMES - 0.060 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "9",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.32",
+          "value": "0.54",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.065",
-          "sub": "still standing"
+          "value": "0.130",
+          "sub": "Meme Enjoyoor"
         },
         {
           "label": "Floor",
-          "value": "0.016894999992",
+          "value": "0.016894998964",
           "sub": "ETH"
         }
       ]
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.32 ETH",
-      "raw": 0.317,
-      "delta": -0.7394000000000001,
-      "delta_fmt": "-70.0%"
+      "value": "0.54 ETH",
+      "raw": 0.5433,
+      "delta": -0.4131,
+      "delta_fmt": "-43.2%"
     },
     {
       "label": "7d Vol",
-      "value": "21.62 ETH",
-      "raw": 21.622
+      "value": "21.85 ETH",
+      "raw": 21.8483
     },
     {
       "label": "30d Vol",
-      "value": "73.00 ETH",
-      "raw": 73.004
+      "value": "73.23 ETH",
+      "raw": 73.2303
     },
     {
       "label": "Full Set Bid",
-      "value": "40.2 ETH",
-      "raw": 40.18,
-      "delta": -0.04999999999999716,
-      "delta_fmt": "-0.05 ETH"
+      "value": "41.9 ETH",
+      "raw": 41.89,
+      "delta": 1.7100000000000009,
+      "delta_fmt": "+1.71 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 Michael_Buda",
       "value": "52.8M TDH",
-      "raw": 52808254,
-      "delta": 13863,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 52808254
     },
     {
       "label": "#1 SonOfLasG",
@@ -265,7 +263,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #502: 105 MINTS (EXCL. MUSEUM) | 72 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 107 MINTS (EXCL. MUSEUM) | 74 HOLDERS | LET THIS MEME IN"
   ]
 }
