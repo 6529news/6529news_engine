@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T00:09:30.847249+00:00",
+  "generated_at": "2026-05-30T01:15:09.469987+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "SonOfLasG Leads with 45.9M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (45.9M projected TDH, 74 voters) | \"Freedom To Ascend\" by JennaDixon (34.6M projected TDH, 92 voters) | \"I Still Do\" by 100series (28.7M projected TDH, 43 voters) Next selection: Mon Jun 01 at 17:00 CET.",
+      "headline": "SonOfLasG Leads with 48.9M Projected TDH",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (48.9M projected TDH, 74 voters) | \"Freedom To Ascend\" by JennaDixon (34.6M projected TDH, 92 voters) | \"I Still Do\" by 100series (31.3M projected TDH, 43 voters) Next selection: Mon Jun 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "SonOfLasG",
-          "value": "45.9M",
+          "value": "48.9M",
           "sub": "proj. (74 votes)"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
           "label": "100series",
-          "value": "28.7M",
+          "value": "31.3M",
           "sub": "proj. (43 votes)"
         }
       ]
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: 0xCuttlefish (16.2M) | Josei (4.0M).",
+      "summary": "2 submissions this week. Ranking: 0xCuttlefish (16.2M) | Josei (4.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016884999921",
+          "value": "0.016884999999",
           "sub": "ETH"
         }
       ]
@@ -141,32 +141,30 @@
     },
     {
       "label": "7d Vol",
-      "value": "21.34 ETH",
-      "raw": 21.3375
+      "value": "21.32 ETH",
+      "raw": 21.3175
     },
     {
       "label": "30d Vol",
-      "value": "73.68 ETH",
-      "raw": 73.6829
+      "value": "71.76 ETH",
+      "raw": 71.7627
     },
     {
       "label": "Full Set Bid",
       "value": "41.7 ETH",
-      "raw": 41.7,
-      "delta": -0.02999999999999403,
-      "delta_fmt": "-0.03 ETH"
+      "raw": 41.7
     },
     {
       "label": "Network TDH",
       "value": "1638.6M",
-      "raw": 1638552236,
-      "delta": 2615737,
-      "delta_fmt": "+2.6M TDH"
+      "raw": 1638552236
     },
     {
       "label": "#1 SonOfLasG",
-      "value": "45.9M TDH",
-      "raw": 45924734
+      "value": "48.9M TDH",
+      "raw": 48924839,
+      "delta": 3000105,
+      "delta_fmt": "+3.0M TDH"
     },
     {
       "label": "#1 Michael_Buda",
@@ -278,7 +276,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #502: 137 MINTS (EXCL. MUSEUM) | 89 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 139 MINTS (EXCL. MUSEUM) | 91 HOLDERS | LET THIS MEME IN"
   ]
 }
