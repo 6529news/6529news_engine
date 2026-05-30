@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T23:35:50.552991+00:00",
+  "generated_at": "2026-05-30T00:09:30.847249+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016884999934",
+          "value": "0.016884999921",
           "sub": "ETH"
         }
       ]
@@ -152,21 +152,21 @@
     {
       "label": "Full Set Bid",
       "value": "41.7 ETH",
-      "raw": 41.73,
-      "delta": 0.04999999999999716,
-      "delta_fmt": "+0.05 ETH"
+      "raw": 41.7,
+      "delta": -0.02999999999999403,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1635.9M",
-      "raw": 1635936499
+      "value": "1638.6M",
+      "raw": 1638552236,
+      "delta": 2615737,
+      "delta_fmt": "+2.6M TDH"
     },
     {
       "label": "#1 SonOfLasG",
       "value": "45.9M TDH",
-      "raw": 45924734,
-      "delta": 143028,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 45924734
     },
     {
       "label": "#1 Michael_Buda",
@@ -278,7 +278,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #502: 137 MINTS (EXCL. MUSEUM) | 89 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 137 MINTS (EXCL. MUSEUM) | 89 HOLDERS | LET THIS MEME IN"
   ]
 }
