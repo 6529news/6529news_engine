@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T03:24:40.823221+00:00",
+  "generated_at": "2026-05-30T04:48:03.507704+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: 0xCuttlefish (16.2M) | Josei (4.1M).",
+      "summary": "2 submissions this week. Ranking: 0xCuttlefish (16.2M) | Josei (5.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 1.13 ETH Volume",
-      "summary": "21 sales in 24h for 1.13 ETH. Highest: \"Meme Enjoyoor\" at 0.130 ETH.",
+      "headline": "22 Sales Today - 1.10 ETH Volume",
+      "summary": "22 sales in 24h for 1.10 ETH. Highest: \"Meme Enjoyoor\" at 0.130 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,20 +102,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/451.WEBP",
-          "label": "Memento Survive - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/437.GIF",
+          "label": "Da Omnes Flores - 0.080 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.13",
+          "value": "1.10",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016889999999",
+          "value": "0.01688499999",
           "sub": "ETH"
         }
       ]
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.13 ETH",
-      "raw": 1.1283,
-      "delta": 0.3057000000000001,
-      "delta_fmt": "+37.2%"
+      "value": "1.10 ETH",
+      "raw": 1.0976,
+      "delta": 0.32489999999999986,
+      "delta_fmt": "+42.0%"
     },
     {
       "label": "7d Vol",
-      "value": "21.72 ETH",
-      "raw": 21.7155
+      "value": "21.68 ETH",
+      "raw": 21.6848
     },
     {
       "label": "30d Vol",
-      "value": "72.16 ETH",
-      "raw": 72.1607
+      "value": "72.13 ETH",
+      "raw": 72.13
     },
     {
       "label": "Full Set Bid",
-      "value": "41.7 ETH",
-      "raw": 41.67,
-      "delta": 0.13000000000000256,
-      "delta_fmt": "+0.13 ETH"
+      "value": "41.5 ETH",
+      "raw": 41.48,
+      "delta": -0.19000000000000483,
+      "delta_fmt": "-0.19 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +164,7 @@
     {
       "label": "#1 SonOfLasG",
       "value": "48.9M TDH",
-      "raw": 48925008,
-      "delta": 169,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 48925008
     },
     {
       "label": "#1 Michael_Buda",
@@ -278,7 +276,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #502: 139 MINTS (EXCL. MUSEUM) | 91 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 139 MINTS (EXCL. MUSEUM) | 91 HOLDERS | LET THIS MEME IN"
   ]
 }
