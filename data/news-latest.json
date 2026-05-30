@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T17:09:47.748612+00:00",
+  "generated_at": "2026-05-30T17:37:32.754606+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "SonOfLasG Leads with 49.1M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (49.1M projected TDH, 77 voters) | \"Freedom To Ascend\" by JennaDixon (34.9M projected TDH, 96 voters) | \"I Still Do\" by 100series (33.5M projected TDH, 45 voters) Next selection: Mon Jun 01 at 17:00 CET.",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (49.1M projected TDH, 77 voters) | \"Freedom To Ascend\" by JennaDixon (34.9M projected TDH, 96 voters) | \"I Still Do\" by 100series (33.5M projected TDH, 46 voters) Next selection: Mon Jun 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "100series",
           "value": "33.5M",
-          "sub": "proj. (45 votes)"
+          "sub": "proj. (46 votes)"
         }
       ]
     },
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#13 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016877999994",
+          "value": "0.016877999995",
           "sub": "ETH"
         }
       ]
@@ -139,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.5 ETH",
-      "raw": 41.45,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 41.52,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Network TDH",
@@ -263,7 +263,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN"
   ]
 }
