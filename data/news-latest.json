@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T22:49:06.082810+00:00",
+  "generated_at": "2026-05-31T23:26:02.400815+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING MONDAY",
-      "headline": "Minting Monday",
-      "summary": " \"The Daily Meme\" by Michael_Buda \u2014 52.8M TDH from 78 voters. Top supporter: Thor (15.7M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"The Daily Meme\" by Michael_Buda \u2014 52.8M TDH from 78 voters. Top supporter: Thor (15.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: 0xCuttlefish (17.0M) | Josei (7.2M).",
+      "summary": "2 submissions this week. Ranking: 0xCuttlefish (17.1M) | Josei (7.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016866999978",
+          "value": "0.016866999992",
           "sub": "ETH"
         }
       ]
@@ -120,7 +120,7 @@
     {
       "category": "PEBBLES",
       "headline": "Pebbles: 1 Sales - 0.330 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.330 ETH. Current floor: 0.4989 ETH.",
+      "summary": "1 Pebbles sold in the last 24h for a total of 0.330 ETH. Current floor: 0.499 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/pebbles-by-zeblocks",
       "image": {
@@ -158,7 +158,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.4989",
+          "value": "0.499",
           "sub": "ETH"
         }
       ]
@@ -169,8 +169,8 @@
       "label": "24h Vol",
       "value": "6.10 ETH",
       "raw": 6.0953,
-      "delta": 4.9099,
-      "delta_fmt": "+414.2%"
+      "delta": 4.9359,
+      "delta_fmt": "+425.7%"
     },
     {
       "label": "7d Vol",
@@ -184,10 +184,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.4 ETH",
-      "raw": 40.45,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "value": "40.5 ETH",
+      "raw": 40.5,
+      "delta": 0.04999999999999716,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -316,7 +316,7 @@
     "SGT PEPE SALE: 0.500 ETH",
     "SGT PEPE SALE: 0.325 ETH",
     "SGT PEPE SALE: 0.311 ETH",
-    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 22h AGO",
+    "PEBBLES: FLOOR 0.499 ETH | 1 SALES | LAST SALE 23h AGO",
     "DIVE BAR: 0 MSGS IN LAST 6H"
   ]
 }
