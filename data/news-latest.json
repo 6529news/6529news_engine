@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T11:09:48.630760+00:00",
+  "generated_at": "2026-05-31T11:49:14.511269+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "45 Sales Today - 5.43 ETH Volume",
-      "summary": "45 sales in 24h for 5.43 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
+      "headline": "46 Sales Today - 5.51 ETH Volume",
+      "summary": "46 sales in 24h for 5.51 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "45",
+          "value": "46",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "5.43",
+          "value": "5.51",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01686699992",
+          "value": "0.016866999902",
           "sub": "ETH"
         }
       ]
@@ -120,7 +120,7 @@
     {
       "category": "PEBBLES",
       "headline": "Pebbles: 1 Sales - 0.330 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.330 ETH. Current floor: 0.49899 ETH.",
+      "summary": "1 Pebbles sold in the last 24h for a total of 0.330 ETH. Current floor: 0.4989 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/pebbles-by-zeblocks",
       "image": {
@@ -158,7 +158,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.49899",
+          "value": "0.4989",
           "sub": "ETH"
         }
       ]
@@ -167,27 +167,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "5.43 ETH",
-      "raw": 5.4302,
-      "delta": 4.320600000000001,
-      "delta_fmt": "+389.4%"
+      "value": "5.51 ETH",
+      "raw": 5.5092,
+      "delta": 4.3995999999999995,
+      "delta_fmt": "+396.5%"
     },
     {
       "label": "7d Vol",
-      "value": "16.82 ETH",
-      "raw": 16.818
+      "value": "16.90 ETH",
+      "raw": 16.897
     },
     {
       "label": "30d Vol",
-      "value": "76.21 ETH",
-      "raw": 76.2098
+      "value": "76.29 ETH",
+      "raw": 76.2888
     },
     {
       "label": "Full Set Bid",
       "value": "40.8 ETH",
-      "raw": 40.76,
-      "delta": -0.05000000000000426,
-      "delta_fmt": "-0.05 ETH"
+      "raw": 40.76
     },
     {
       "label": "Network TDH",
@@ -315,8 +313,8 @@
     "SGT PEPE SALE: 0.500 ETH",
     "SGT PEPE SALE: 0.325 ETH",
     "SGT PEPE SALE: 0.311 ETH",
-    "PEBBLES: FLOOR 0.49899 ETH | 1 SALES | LAST SALE 10h AGO",
-    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 11h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN"
   ]
 }
