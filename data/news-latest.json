@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T20:48:43.991067+00:00",
+  "generated_at": "2026-05-31T21:23:45.826031+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 62K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
+        "label": "blake69 (62K)",
         "type": "image"
       }
     },
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016866999981",
+          "value": "0.016866999992",
           "sub": "ETH"
         }
       ]
@@ -169,8 +169,8 @@
       "label": "24h Vol",
       "value": "6.03 ETH",
       "raw": 6.0283,
-      "delta": 4.8929,
-      "delta_fmt": "+430.9%"
+      "delta": 4.8429,
+      "delta_fmt": "+408.5%"
     },
     {
       "label": "7d Vol",
@@ -185,9 +185,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.4 ETH",
-      "raw": 40.35,
-      "delta": -0.04999999999999716,
-      "delta_fmt": "-0.05 ETH"
+      "raw": 40.4,
+      "delta": 0.04999999999999716,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -197,9 +197,7 @@
     {
       "label": "#1 SonOfLasG",
       "value": "52.7M TDH",
-      "raw": 52670999,
-      "delta": 2954400,
-      "delta_fmt": "+3.0M TDH"
+      "raw": 52670999
     },
     {
       "label": "#1 Michael_Buda",
@@ -318,7 +316,7 @@
     "SGT PEPE SALE: 0.500 ETH",
     "SGT PEPE SALE: 0.325 ETH",
     "SGT PEPE SALE: 0.311 ETH",
-    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 20h AGO",
+    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 21h AGO",
     "DIVE BAR: 0 MSGS IN LAST 6H"
   ]
 }
