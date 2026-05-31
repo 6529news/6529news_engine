@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T22:24:06.838039+00:00",
+  "generated_at": "2026-05-31T22:49:06.082810+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "40 Sales Today - 6.03 ETH Volume",
-      "summary": "40 sales in 24h for 6.03 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
+      "headline": "41 Sales Today - 6.10 ETH Volume",
+      "summary": "41 sales in 24h for 6.10 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "40",
+          "value": "41",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "6.03",
+          "value": "6.10",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016866999985",
+          "value": "0.016866999978",
           "sub": "ETH"
         }
       ]
@@ -167,27 +167,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "6.03 ETH",
-      "raw": 6.0283,
-      "delta": 4.8429,
-      "delta_fmt": "+408.5%"
+      "value": "6.10 ETH",
+      "raw": 6.0953,
+      "delta": 4.9099,
+      "delta_fmt": "+414.2%"
     },
     {
       "label": "7d Vol",
-      "value": "17.76 ETH",
-      "raw": 17.7632
+      "value": "17.83 ETH",
+      "raw": 17.8302
     },
     {
       "label": "30d Vol",
-      "value": "77.57 ETH",
-      "raw": 77.569
+      "value": "77.64 ETH",
+      "raw": 77.636
     },
     {
       "label": "Full Set Bid",
-      "value": "40.5 ETH",
-      "raw": 40.49,
-      "delta": 0.10000000000000142,
-      "delta_fmt": "+0.10 ETH"
+      "value": "40.4 ETH",
+      "raw": 40.45,
+      "delta": -0.03999999999999915,
+      "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Network TDH",
