@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T08:20:50.460430+00:00",
+  "generated_at": "2026-05-31T09:31:40.866049+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016866999984",
+          "value": "0.016866999959",
           "sub": "ETH"
         }
       ]
@@ -184,10 +184,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.7 ETH",
-      "raw": 40.71,
-      "delta": -0.1700000000000017,
-      "delta_fmt": "-0.17 ETH"
+      "value": "40.9 ETH",
+      "raw": 40.87,
+      "delta": 0.1599999999999966,
+      "delta_fmt": "+0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -197,7 +197,9 @@
     {
       "label": "#1 SonOfLasG",
       "value": "49.1M TDH",
-      "raw": 49103006
+      "raw": 49104743,
+      "delta": 1737,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Michael_Buda",
@@ -315,8 +317,8 @@
     "SGT PEPE SALE: 0.500 ETH",
     "SGT PEPE SALE: 0.325 ETH",
     "SGT PEPE SALE: 0.311 ETH",
-    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 8h AGO",
-    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 9h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN"
   ]
 }
