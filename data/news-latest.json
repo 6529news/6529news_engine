@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T23:26:02.400815+00:00",
+  "generated_at": "2026-05-31T23:51:52.878957+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -61,15 +61,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "41 Sales Today - 6.10 ETH Volume",
-      "summary": "41 sales in 24h for 6.10 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
+      "headline": "41 Sales Today - 6.09 ETH Volume",
+      "summary": "41 sales in 24h for 6.09 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,7 +102,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "6.10",
+          "value": "6.09",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016866999992",
+          "value": "0.016866999984",
           "sub": "ETH"
         }
       ]
@@ -167,27 +167,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "6.10 ETH",
-      "raw": 6.0953,
-      "delta": 4.9359,
-      "delta_fmt": "+425.7%"
+      "value": "6.09 ETH",
+      "raw": 6.0938,
+      "delta": 4.9344,
+      "delta_fmt": "+425.6%"
     },
     {
       "label": "7d Vol",
       "value": "17.83 ETH",
-      "raw": 17.8302
+      "raw": 17.8258
     },
     {
       "label": "30d Vol",
-      "value": "77.64 ETH",
-      "raw": 77.636
+      "value": "77.62 ETH",
+      "raw": 77.617
     },
     {
       "label": "Full Set Bid",
       "value": "40.5 ETH",
-      "raw": 40.5,
-      "delta": 0.04999999999999716,
-      "delta_fmt": "+0.05 ETH"
+      "raw": 40.54,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
