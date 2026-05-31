@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T10:27:20.259468+00:00",
+  "generated_at": "2026-05-31T11:09:48.630760+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "43 Sales Today - 5.27 ETH Volume",
-      "summary": "43 sales in 24h for 5.27 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
+      "headline": "45 Sales Today - 5.43 ETH Volume",
+      "summary": "45 sales in 24h for 5.43 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "43",
+          "value": "45",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "5.27",
+          "value": "5.43",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016866999936",
+          "value": "0.01686699992",
           "sub": "ETH"
         }
       ]
@@ -120,7 +120,7 @@
     {
       "category": "PEBBLES",
       "headline": "Pebbles: 1 Sales - 0.330 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.330 ETH. Current floor: 0.4989 ETH.",
+      "summary": "1 Pebbles sold in the last 24h for a total of 0.330 ETH. Current floor: 0.49899 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/pebbles-by-zeblocks",
       "image": {
@@ -158,7 +158,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.4989",
+          "value": "0.49899",
           "sub": "ETH"
         }
       ]
@@ -167,27 +167,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "5.27 ETH",
-      "raw": 5.2701,
-      "delta": 4.160500000000001,
-      "delta_fmt": "+375.0%"
+      "value": "5.43 ETH",
+      "raw": 5.4302,
+      "delta": 4.320600000000001,
+      "delta_fmt": "+389.4%"
     },
     {
       "label": "7d Vol",
-      "value": "16.66 ETH",
-      "raw": 16.6579
+      "value": "16.82 ETH",
+      "raw": 16.818
     },
     {
       "label": "30d Vol",
-      "value": "76.05 ETH",
-      "raw": 76.0497
+      "value": "76.21 ETH",
+      "raw": 76.2098
     },
     {
       "label": "Full Set Bid",
       "value": "40.8 ETH",
-      "raw": 40.81,
-      "delta": -0.05999999999999517,
-      "delta_fmt": "-0.06 ETH"
+      "raw": 40.76,
+      "delta": -0.05000000000000426,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -315,8 +315,8 @@
     "SGT PEPE SALE: 0.500 ETH",
     "SGT PEPE SALE: 0.325 ETH",
     "SGT PEPE SALE: 0.311 ETH",
-    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 10h AGO",
-    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.49899 ETH | 1 SALES | LAST SALE 10h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN"
   ]
 }
