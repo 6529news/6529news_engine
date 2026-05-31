@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T18:41:17.104078+00:00",
+  "generated_at": "2026-05-31T19:11:39.948740+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#13 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016866999944",
+          "value": "0.016866999932",
           "sub": "ETH"
         }
       ]
@@ -185,9 +185,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.4 ETH",
-      "raw": 40.44,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 40.39,
+      "delta": -0.04999999999999716,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -197,7 +197,9 @@
     {
       "label": "#1 SonOfLasG",
       "value": "49.7M TDH",
-      "raw": 49714405
+      "raw": 49716599,
+      "delta": 2194,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Michael_Buda",
@@ -316,7 +318,7 @@
     "SGT PEPE SALE: 0.500 ETH",
     "SGT PEPE SALE: 0.325 ETH",
     "SGT PEPE SALE: 0.311 ETH",
-    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 18h AGO",
+    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 19h AGO",
     "DIVE BAR: 0 MSGS IN LAST 6H"
   ]
 }
