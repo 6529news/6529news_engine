@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T17:40:51.009521+00:00",
+  "generated_at": "2026-05-31T18:09:17.703637+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "SonOfLasG Leads with 49.2M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (49.2M projected TDH, 78 voters) | \"Freedom To Ascend\" by JennaDixon (41.4M projected TDH, 99 voters) | \"I Still Do\" by 100series (35.5M projected TDH, 51 voters) Next selection: Mon Jun 01 at 17:00 CET.",
+      "headline": "SonOfLasG Leads with 49.7M Projected TDH",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (49.7M projected TDH, 79 voters) | \"Freedom To Ascend\" by JennaDixon (41.4M projected TDH, 99 voters) | \"I Still Do\" by 100series (35.5M projected TDH, 51 voters) Next selection: Mon Jun 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "SonOfLasG",
-          "value": "49.2M",
-          "sub": "proj. (78 votes)"
+          "value": "49.7M",
+          "sub": "proj. (79 votes)"
         },
         {
           "label": "JennaDixon",
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "40 Sales Today - 6.02 ETH Volume",
-      "summary": "40 sales in 24h for 6.02 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
+      "headline": "41 Sales Today - 6.08 ETH Volume",
+      "summary": "41 sales in 24h for 6.08 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "40",
+          "value": "41",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "6.02",
+          "value": "6.08",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016866999968",
+          "value": "0.01686699996",
           "sub": "ETH"
         }
       ]
@@ -167,27 +167,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "6.02 ETH",
-      "raw": 6.0232,
-      "delta": 4.6833,
-      "delta_fmt": "+349.5%"
+      "value": "6.08 ETH",
+      "raw": 6.0783,
+      "delta": 4.7383999999999995,
+      "delta_fmt": "+353.6%"
     },
     {
       "label": "7d Vol",
-      "value": "17.84 ETH",
-      "raw": 17.8362
+      "value": "17.76 ETH",
+      "raw": 17.7632
     },
     {
       "label": "30d Vol",
-      "value": "77.40 ETH",
-      "raw": 77.4019
+      "value": "77.57 ETH",
+      "raw": 77.569
     },
     {
       "label": "Full Set Bid",
-      "value": "40.6 ETH",
-      "raw": 40.59,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "value": "40.5 ETH",
+      "raw": 40.46,
+      "delta": -0.13000000000000256,
+      "delta_fmt": "-0.13 ETH"
     },
     {
       "label": "Network TDH",
@@ -196,8 +196,10 @@
     },
     {
       "label": "#1 SonOfLasG",
-      "value": "49.2M TDH",
-      "raw": 49180903
+      "value": "49.7M TDH",
+      "raw": 49714405,
+      "delta": 533502,
+      "delta_fmt": "+0.5M TDH"
     },
     {
       "label": "#1 Michael_Buda",
