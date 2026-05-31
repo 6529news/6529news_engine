@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T14:37:34.337594+00:00",
+  "generated_at": "2026-05-31T15:11:31.085674+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 6K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "46 Sales Today - 5.97 ETH Volume",
-      "summary": "46 sales in 24h for 5.97 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
+      "headline": "36 Sales Today - 5.67 ETH Volume",
+      "summary": "36 sales in 24h for 5.67 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "46",
+          "value": "36",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "5.97",
+          "value": "5.67",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016866999983",
+          "value": "0.016866999992",
           "sub": "ETH"
         }
       ]
@@ -167,10 +167,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "5.97 ETH",
-      "raw": 5.9692,
-      "delta": 4.672,
-      "delta_fmt": "+360.2%"
+      "value": "5.67 ETH",
+      "raw": 5.6701,
+      "delta": 4.270099999999999,
+      "delta_fmt": "+305.0%"
     },
     {
       "label": "7d Vol",
@@ -185,9 +185,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.7 ETH",
-      "raw": 40.75,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 40.72,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -316,7 +316,7 @@
     "SGT PEPE SALE: 0.500 ETH",
     "SGT PEPE SALE: 0.325 ETH",
     "SGT PEPE SALE: 0.311 ETH",
-    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 14h AGO",
+    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 15h AGO",
     "DIVE BAR: 0 MSGS IN LAST 6H"
   ]
 }
