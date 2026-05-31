@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T12:33:44.292053+00:00",
+  "generated_at": "2026-05-31T13:11:40.176628+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "SonOfLasG Leads with 49.1M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (49.1M projected TDH, 77 voters) | \"I Still Do\" by 100series (35.1M projected TDH, 49 voters) | \"Freedom To Ascend\" by JennaDixon (35.0M projected TDH, 97 voters) Next selection: Mon Jun 01 at 17:00 CET.",
+      "headline": "SonOfLasG Leads with 49.2M Projected TDH",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (49.2M projected TDH, 78 voters) | \"I Still Do\" by 100series (35.2M projected TDH, 50 voters) | \"Freedom To Ascend\" by JennaDixon (35.0M projected TDH, 97 voters) Next selection: Mon Jun 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "SonOfLasG",
-          "value": "49.1M",
-          "sub": "proj. (77 votes)"
+          "value": "49.2M",
+          "sub": "proj. (78 votes)"
         },
         {
           "label": "100series",
-          "value": "35.1M",
-          "sub": "proj. (49 votes)"
+          "value": "35.2M",
+          "sub": "proj. (50 votes)"
         },
         {
           "label": "JennaDixon",
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: 0xCuttlefish (17.0M) | Josei (7.1M).",
+      "summary": "2 submissions this week. Ranking: 0xCuttlefish (17.0M) | Josei (7.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "46 Sales Today - 5.51 ETH Volume",
-      "summary": "46 sales in 24h for 5.51 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
+      "headline": "47 Sales Today - 5.60 ETH Volume",
+      "summary": "47 sales in 24h for 5.60 ETH. Highest: \"Sgt. Pepe\" at 0.880 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "46",
+          "value": "47",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "5.51",
+          "value": "5.60",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016866999885",
+          "value": "0.01686699987",
           "sub": "ETH"
         }
       ]
@@ -167,27 +167,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "5.51 ETH",
-      "raw": 5.5092,
-      "delta": 4.3995999999999995,
-      "delta_fmt": "+396.5%"
+      "value": "5.60 ETH",
+      "raw": 5.5992,
+      "delta": 4.489599999999999,
+      "delta_fmt": "+404.6%"
     },
     {
       "label": "7d Vol",
-      "value": "16.90 ETH",
-      "raw": 16.897
+      "value": "16.81 ETH",
+      "raw": 16.8131
     },
     {
       "label": "30d Vol",
-      "value": "76.29 ETH",
-      "raw": 76.2888
+      "value": "76.38 ETH",
+      "raw": 76.3788
     },
     {
       "label": "Full Set Bid",
       "value": "40.8 ETH",
-      "raw": 40.83,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "raw": 40.79,
+      "delta": -0.03999999999999915,
+      "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -196,8 +196,10 @@
     },
     {
       "label": "#1 SonOfLasG",
-      "value": "49.1M TDH",
-      "raw": 49104743
+      "value": "49.2M TDH",
+      "raw": 49180903,
+      "delta": 76160,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 Michael_Buda",
@@ -315,8 +317,8 @@
     "SGT PEPE SALE: 0.500 ETH",
     "SGT PEPE SALE: 0.325 ETH",
     "SGT PEPE SALE: 0.311 ETH",
-    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 12h AGO",
-    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.4989 ETH | 1 SALES | LAST SALE 13h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN"
   ]
 }
