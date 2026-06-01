@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T06:55:05.534906+00:00",
+  "generated_at": "2026-06-01T08:53:46.165480+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "SonOfLasG Leads with 52.7M Projected TDH",
-      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (52.7M projected TDH, 79 voters) | \"Freedom To Ascend\" by JennaDixon (41.4M projected TDH, 99 voters) | \"Conviction Cosplayer \" by EdBalloon (17.7M projected TDH, 39 voters) Next selection: Mon Jun 01 at 17:00 CET.",
+      "summary": "\"A Testament to the Hardest Truth\" by SonOfLasG (52.7M projected TDH, 79 voters) | \"Freedom To Ascend\" by JennaDixon (41.8M projected TDH, 99 voters) | \"Conviction Cosplayer \" by EdBalloon (17.8M projected TDH, 40 voters) Next selection: Mon Jun 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,20 +34,20 @@
         },
         {
           "label": "JennaDixon",
-          "value": "41.4M",
+          "value": "41.8M",
           "sub": "proj. (99 votes)"
         },
         {
           "label": "EdBalloon",
-          "value": "17.7M",
-          "sub": "proj. (39 votes)"
+          "value": "17.8M",
+          "sub": "proj. (40 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: 0xCuttlefish (17.1M) | Josei (7.2M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: 0xCuttlefish (17.2M) | Josei (7.2M) | 100series (3.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "39 Sales Today - 2.57 ETH Volume",
-      "summary": "39 sales in 24h for 2.57 ETH. Highest: \"Sgt. Pepe\" at 0.620 ETH.",
+      "headline": "29 Sales Today - 2.18 ETH Volume",
+      "summary": "29 sales in 24h for 2.18 ETH. Highest: \"Sgt. Pepe\" at 0.620 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "39",
+          "value": "29",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.57",
+          "value": "2.18",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016866999999",
+          "value": "0.016866999993",
           "sub": "ETH"
         }
       ]
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.57 ETH",
-      "raw": 2.5653,
-      "delta": -2.2129,
-      "delta_fmt": "-46.3%"
+      "value": "2.18 ETH",
+      "raw": 2.1845,
+      "delta": -3.0856000000000003,
+      "delta_fmt": "-58.5%"
     },
     {
       "label": "7d Vol",
-      "value": "18.26 ETH",
-      "raw": 18.2572
+      "value": "17.64 ETH",
+      "raw": 17.6406
     },
     {
       "label": "30d Vol",
-      "value": "77.30 ETH",
-      "raw": 77.3012
+      "value": "77.41 ETH",
+      "raw": 77.4124
     },
     {
       "label": "Full Set Bid",
-      "value": "40.5 ETH",
-      "raw": 40.47,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "value": "40.4 ETH",
+      "raw": 40.44,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 SonOfLasG",
       "value": "52.7M TDH",
-      "raw": 52680247,
-      "delta": 8269,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 52680247
     },
     {
       "label": "#1 Michael_Buda",
@@ -266,7 +264,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.620 ETH",
-    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN"
   ]
 }
