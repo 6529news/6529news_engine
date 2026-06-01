@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T05:00:34.197450+00:00",
+  "generated_at": "2026-06-01T06:55:05.534906+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
@@ -123,8 +123,8 @@
       "label": "24h Vol",
       "value": "2.57 ETH",
       "raw": 2.5653,
-      "delta": -2.2438999999999996,
-      "delta_fmt": "-46.7%"
+      "delta": -2.2129,
+      "delta_fmt": "-46.3%"
     },
     {
       "label": "7d Vol",
@@ -139,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.5 ETH",
-      "raw": 40.51,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 40.47,
+      "delta": -0.03999999999999915,
+      "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,8 +151,8 @@
     {
       "label": "#1 SonOfLasG",
       "value": "52.7M TDH",
-      "raw": 52671978,
-      "delta": 204,
+      "raw": 52680247,
+      "delta": 8269,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -266,7 +266,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.620 ETH",
-    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN"
   ]
 }
