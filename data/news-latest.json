@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T20:41:16.502540+00:00",
+  "generated_at": "2026-06-01T21:52:36.558400+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "JennaDixon Leads with 43.3M Projected TDH",
-      "summary": "\"Freedom To Ascend\" by JennaDixon (43.3M projected TDH, 101 voters) | \"I Still Do\" by 100series (33.0M projected TDH, 15 voters) | \"1939\" by 0xCuttlefish (27.6M projected TDH, 29 voters) Next selection: Wed Jun 03 at 17:00 CET.",
+      "headline": "JennaDixon Leads with 58.9M Projected TDH",
+      "summary": "\"Freedom To Ascend\" by JennaDixon (58.9M projected TDH, 102 voters) | \"I Still Do\" by 100series (33.0M projected TDH, 15 voters) | \"1939\" by 0xCuttlefish (27.6M projected TDH, 29 voters) Next selection: Wed Jun 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "JennaDixon",
-          "value": "43.3M",
-          "sub": "proj. (101 votes)"
+          "value": "58.9M",
+          "sub": "proj. (102 votes)"
         },
         {
           "label": "100series",
@@ -69,28 +69,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 6K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "77 Sales Today - 2.00 ETH Volume",
-      "summary": "77 sales in 24h for 2.00 ETH. Highest: \"GM Everyone\" at 0.069 ETH.",
+      "headline": "82 Sales Today - 2.17 ETH Volume",
+      "summary": "82 sales in 24h for 2.17 ETH. Highest: \"Meme Police\" at 0.126 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/87.GIF",
-        "label": "GM Everyone - 0.069 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/411.WEBP",
+        "label": "Meme Police - 0.126 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/411.WEBP",
+          "label": "Meme Police - 0.126 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/87.GIF",
           "label": "GM Everyone - 0.069 ETH",
@@ -100,32 +105,27 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/407.WEBP",
           "label": "NOCAPCYCLEOFRIZZISTENCE - 0.050 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/10.WEBP",
-          "label": "A Meditation on GM - 0.047 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "77",
+          "value": "82",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.00",
+          "value": "2.17",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.069",
-          "sub": "GM Everyone"
+          "value": "0.126",
+          "sub": "Meme Police"
         },
         {
           "label": "Floor",
-          "value": "0.016554999995",
+          "value": "0.016509999984",
           "sub": "ETH"
         }
       ]
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.00 ETH",
-      "raw": 2.0024,
-      "delta": -4.0259,
-      "delta_fmt": "-66.8%"
+      "value": "2.17 ETH",
+      "raw": 2.1698,
+      "delta": -3.8585,
+      "delta_fmt": "-64.0%"
     },
     {
       "label": "7d Vol",
-      "value": "16.55 ETH",
-      "raw": 16.5538
+      "value": "16.72 ETH",
+      "raw": 16.7212
     },
     {
       "label": "30d Vol",
-      "value": "78.75 ETH",
-      "raw": 78.7496
+      "value": "78.92 ETH",
+      "raw": 78.9171
     },
     {
       "label": "Full Set Bid",
-      "value": "38.1 ETH",
-      "raw": 38.15,
-      "delta": -0.23000000000000398,
-      "delta_fmt": "-0.23 ETH"
+      "value": "40.4 ETH",
+      "raw": 40.36,
+      "delta": 2.210000000000001,
+      "delta_fmt": "+2.21 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,10 +163,10 @@
     },
     {
       "label": "#1 JennaDixon",
-      "value": "43.3M TDH",
-      "raw": 43274160,
-      "delta": 4528,
-      "delta_fmt": "+0.0M TDH"
+      "value": "58.9M TDH",
+      "raw": 58947920,
+      "delta": 15673760,
+      "delta_fmt": "+15.7M TDH"
     },
     {
       "label": "#1 SonOfLasG",
@@ -285,7 +285,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #503: 120 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE DAILY MEME",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #503: 120 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE DAILY MEME"
   ]
 }
