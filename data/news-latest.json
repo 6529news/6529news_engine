@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T00:56:59.025052+00:00",
+  "generated_at": "2026-06-01T01:55:06.205969+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016872299998",
+          "value": "0.016866999984",
           "sub": "ETH"
         }
       ]
@@ -122,33 +122,31 @@
     {
       "label": "24h Vol",
       "value": "2.20 ETH",
-      "raw": 2.1986,
-      "delta": -2.7879000000000005,
+      "raw": 2.1982,
+      "delta": -2.7883000000000004,
       "delta_fmt": "-55.9%"
     },
     {
       "label": "7d Vol",
       "value": "17.77 ETH",
-      "raw": 17.773
+      "raw": 17.7702
     },
     {
       "label": "30d Vol",
-      "value": "76.83 ETH",
-      "raw": 76.8264
+      "value": "76.81 ETH",
+      "raw": 76.8142
     },
     {
       "label": "Full Set Bid",
-      "value": "40.5 ETH",
-      "raw": 40.48,
-      "delta": -0.060000000000002274,
-      "delta_fmt": "-0.06 ETH"
+      "value": "40.4 ETH",
+      "raw": 40.41,
+      "delta": -0.07000000000000028,
+      "delta_fmt": "-0.07 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1643.7M",
-      "raw": 1643710401,
-      "delta": 2533252,
-      "delta_fmt": "+2.5M TDH"
+      "raw": 1643710401
     },
     {
       "label": "#1 SonOfLasG",
@@ -266,7 +264,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.620 ETH",
-    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #502: 152 MINTS (EXCL. MUSEUM) | 98 HOLDERS | LET THIS MEME IN"
   ]
 }
