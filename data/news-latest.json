@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T15:06:05.540726+00:00",
+  "generated_at": "2026-06-02T16:51:36.376078+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "JennaDixon Leads with 59.0M Projected TDH",
-      "summary": "\"Freedom To Ascend\" by JennaDixon (59.0M projected TDH, 107 voters) | \"I Still Do\" by 100series (33.0M projected TDH, 18 voters) | \"1939\" by 0xCuttlefish (27.7M projected TDH, 32 voters) Next selection: Wed Jun 03 at 17:00 CET.",
+      "summary": "\"Freedom To Ascend\" by JennaDixon (59.0M projected TDH, 107 voters) | \"I Still Do\" by 100series (33.2M projected TDH, 19 voters) | \"1939\" by 0xCuttlefish (27.7M projected TDH, 32 voters) Next selection: Wed Jun 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "100series",
-          "value": "33.0M",
-          "sub": "proj. (18 votes)"
+          "value": "33.2M",
+          "sub": "proj. (19 votes)"
         },
         {
           "label": "0xCuttlefish",
@@ -74,13 +74,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -141,8 +141,8 @@
       "label": "24h Vol",
       "value": "2.12 ETH",
       "raw": 2.1167,
-      "delta": 0.8293999999999997,
-      "delta_fmt": "+64.4%"
+      "delta": 1.1643999999999997,
+      "delta_fmt": "+122.3%"
     },
     {
       "label": "7d Vol",
@@ -157,9 +157,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.2 ETH",
-      "raw": 39.17,
-      "delta": -0.10000000000000142,
-      "delta_fmt": "-0.10 ETH"
+      "raw": 39.16,
+      "delta": -0.010000000000005116,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -169,8 +169,8 @@
     {
       "label": "#1 JennaDixon",
       "value": "59.0M TDH",
-      "raw": 59001032,
-      "delta": 3210,
+      "raw": 59001068,
+      "delta": 36,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -290,7 +290,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #503: 140 MINTS (EXCL. MUSEUM) | 95 HOLDERS | THE DAILY MEME",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #503: 140 MINTS (EXCL. MUSEUM) | 95 HOLDERS | THE DAILY MEME"
   ]
 }
