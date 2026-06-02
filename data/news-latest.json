@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T05:38:12.159469+00:00",
+  "generated_at": "2026-06-02T07:13:07.035242+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "JennaDixon Leads with 58.9M Projected TDH",
-      "summary": "\"Freedom To Ascend\" by JennaDixon (58.9M projected TDH, 103 voters) | \"I Still Do\" by 100series (33.0M projected TDH, 15 voters) | \"1939\" by 0xCuttlefish (27.6M projected TDH, 29 voters) Next selection: Wed Jun 03 at 17:00 CET.",
+      "headline": "JennaDixon Leads with 59.0M Projected TDH",
+      "summary": "\"Freedom To Ascend\" by JennaDixon (59.0M projected TDH, 103 voters) | \"I Still Do\" by 100series (33.0M projected TDH, 15 voters) | \"1939\" by 0xCuttlefish (27.6M projected TDH, 29 voters) Next selection: Wed Jun 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "JennaDixon",
-          "value": "58.9M",
+          "value": "59.0M",
           "sub": "proj. (103 votes)"
         },
         {
@@ -63,8 +63,18 @@
       "summary": "1 submissions this week. Ranking: Josei (14.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": null,
-      "images": [],
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3007fc2f-7de8-409c-91f7-5e4307c6c7ff/9ba81d2a-af16-47f2-9b68-44167c008eb6/IMG-2580.png",
+        "label": "Josei (14.3M)",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3007fc2f-7de8-409c-91f7-5e4307c6c7ff/9ba81d2a-af16-47f2-9b68-44167c008eb6/IMG-2580.png",
+          "label": "Josei (14.3M)",
+          "type": "image"
+        }
+      ],
       "dataBoxes": null
     },
     {
@@ -81,8 +91,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "87 Sales Today - 2.10 ETH Volume",
-      "summary": "87 sales in 24h for 2.10 ETH. Highest: \"Meme Police\" at 0.126 ETH.",
+      "headline": "90 Sales Today - 2.20 ETH Volume",
+      "summary": "90 sales in 24h for 2.20 ETH. Highest: \"Meme Police\" at 0.126 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "87",
+          "value": "90",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.10",
+          "value": "2.20",
           "sub": "ETH"
         },
         {
@@ -125,7 +135,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016369999994",
+          "value": "0.016319999998",
           "sub": "ETH"
         }
       ]
@@ -134,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.10 ETH",
-      "raw": 2.1048,
-      "delta": -0.46050000000000013,
-      "delta_fmt": "-18.0%"
+      "value": "2.20 ETH",
+      "raw": 2.1985,
+      "delta": -0.3668,
+      "delta_fmt": "-14.3%"
     },
     {
       "label": "7d Vol",
-      "value": "17.01 ETH",
-      "raw": 17.0121
+      "value": "15.72 ETH",
+      "raw": 15.7238
     },
     {
       "label": "30d Vol",
-      "value": "78.50 ETH",
-      "raw": 78.5017
+      "value": "78.63 ETH",
+      "raw": 78.6334
     },
     {
       "label": "Full Set Bid",
-      "value": "34.3 ETH",
-      "raw": 34.26,
-      "delta": 0.259999999999998,
-      "delta_fmt": "+0.26 ETH"
+      "value": "34.2 ETH",
+      "raw": 34.16,
+      "delta": -0.10000000000000142,
+      "delta_fmt": "-0.10 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,9 +173,9 @@
     },
     {
       "label": "#1 JennaDixon",
-      "value": "58.9M TDH",
-      "raw": 58948381,
-      "delta": 439,
+      "value": "59.0M TDH",
+      "raw": 58994843,
+      "delta": 46462,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -285,7 +295,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #503: 122 MINTS (EXCL. MUSEUM) | 87 HOLDERS | THE DAILY MEME",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #503: 122 MINTS (EXCL. MUSEUM) | 87 HOLDERS | THE DAILY MEME"
   ]
 }
