@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T11:40:55.635401+00:00",
+  "generated_at": "2026-06-03T13:12:03.546043+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,8 +68,23 @@
       "summary": "2 submissions this week. Ranking: Josei (16.8M) | Hoizon (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": null,
-      "images": [],
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3007fc2f-7de8-409c-91f7-5e4307c6c7ff/9ba81d2a-af16-47f2-9b68-44167c008eb6/IMG-2580.png",
+        "label": "Josei (16.8M)",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3007fc2f-7de8-409c-91f7-5e4307c6c7ff/9ba81d2a-af16-47f2-9b68-44167c008eb6/IMG-2580.png",
+          "label": "Josei (16.8M)",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_43ff56b8-7e3f-41a5-b763-a6dff15a061b/9335f336-90ed-405b-90c3-2ca743202036/Untitled-Artwork-157-2.gif",
+          "label": "Hoizon (2.1M)",
+          "type": "image"
+        }
+      ],
       "dataBoxes": null
     },
     {
@@ -86,8 +101,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "32 Sales Today - 1.57 ETH Volume",
-      "summary": "32 sales in 24h for 1.57 ETH. Highest: \"Sgt. Pepe\" at 0.800 ETH.",
+      "headline": "33 Sales Today - 1.64 ETH Volume",
+      "summary": "33 sales in 24h for 1.64 ETH. Highest: \"Sgt. Pepe\" at 0.800 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,20 +122,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/45.WEBP",
-          "label": "Beyond the Horizon - 0.060 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/477.GIF",
+          "label": "\u200bMEMERY CARD GAME - ALL SEASONS - 0.067 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "32",
+          "value": "33",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.57",
+          "value": "1.64",
           "sub": "ETH"
         },
         {
@@ -130,7 +145,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016509",
+          "value": "0.016489",
           "sub": "ETH"
         }
       ]
@@ -139,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.57 ETH",
-      "raw": 1.5746,
-      "delta": -0.4469000000000001,
-      "delta_fmt": "-22.1%"
+      "value": "1.64 ETH",
+      "raw": 1.6416,
+      "delta": -0.3799000000000001,
+      "delta_fmt": "-18.8%"
     },
     {
       "label": "7d Vol",
-      "value": "14.07 ETH",
-      "raw": 14.0653
+      "value": "13.59 ETH",
+      "raw": 13.5884
     },
     {
       "label": "30d Vol",
-      "value": "78.42 ETH",
-      "raw": 78.4224
+      "value": "78.49 ETH",
+      "raw": 78.4894
     },
     {
       "label": "Full Set Bid",
-      "value": "39.6 ETH",
-      "raw": 39.64,
-      "delta": 0.0799999999999983,
-      "delta_fmt": "+0.08 ETH"
+      "value": "40.0 ETH",
+      "raw": 40.0,
+      "delta": 0.35999999999999943,
+      "delta_fmt": "+0.36 ETH"
     },
     {
       "label": "Network TDH",
@@ -289,7 +304,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.800 ETH",
-    "CARD #503: 140 MINTS (EXCL. MUSEUM) | 95 HOLDERS | THE DAILY MEME",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #503: 140 MINTS (EXCL. MUSEUM) | 95 HOLDERS | THE DAILY MEME"
   ]
 }
