@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T01:36:28.884741+00:00",
+  "generated_at": "2026-06-03T02:41:44.110228+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "JennaDixon Leads with 66.9M Projected TDH",
-      "summary": "\"Freedom To Ascend\" by JennaDixon (66.9M projected TDH, 111 voters) | \"I Still Do\" by 100series (35.8M projected TDH, 22 voters) | \"1939\" by 0xCuttlefish (30.8M projected TDH, 37 voters) Next selection: Wed Jun 03 at 17:00 CET.",
+      "summary": "\"Freedom To Ascend\" by JennaDixon (66.9M projected TDH, 111 voters) | \"I Still Do\" by 100series (35.9M projected TDH, 23 voters) | \"1939\" by 0xCuttlefish (30.8M projected TDH, 37 voters) Next selection: Wed Jun 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "100series",
-          "value": "35.8M",
-          "sub": "proj. (22 votes)"
+          "value": "35.9M",
+          "sub": "proj. (23 votes)"
         },
         {
           "label": "0xCuttlefish",
@@ -68,20 +68,35 @@
       "summary": "2 submissions this week. Ranking: Josei (16.8M) | Hoizon (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": null,
-      "images": [],
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3007fc2f-7de8-409c-91f7-5e4307c6c7ff/9ba81d2a-af16-47f2-9b68-44167c008eb6/IMG-2580.png",
+        "label": "Josei (16.8M)",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3007fc2f-7de8-409c-91f7-5e4307c6c7ff/9ba81d2a-af16-47f2-9b68-44167c008eb6/IMG-2580.png",
+          "label": "Josei (16.8M)",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_43ff56b8-7e3f-41a5-b763-a6dff15a061b/9335f336-90ed-405b-90c3-2ca743202036/Untitled-Artwork-157-2.gif",
+          "label": "Hoizon (2.1M)",
+          "type": "image"
+        }
+      ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 6K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
+        "type": "image"
       }
     },
     {
@@ -157,9 +172,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.8 ETH",
-      "raw": 39.82,
-      "delta": 0.4299999999999997,
-      "delta_fmt": "+0.43 ETH"
+      "raw": 39.81,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -169,9 +184,7 @@
     {
       "label": "#1 JennaDixon",
       "value": "66.9M TDH",
-      "raw": 66934683,
-      "delta": 1579074,
-      "delta_fmt": "+1.6M TDH"
+      "raw": 66934683
     },
     {
       "label": "#1 SonOfLasG",
@@ -290,7 +303,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #503: 140 MINTS (EXCL. MUSEUM) | 95 HOLDERS | THE DAILY MEME",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #503: 140 MINTS (EXCL. MUSEUM) | 95 HOLDERS | THE DAILY MEME"
   ]
 }
