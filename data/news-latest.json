@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T16:36:02.974236+00:00",
+  "generated_at": "2026-06-03T17:50:47.588582+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,25 +30,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "100series Leads with 37.0M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (37.0M projected TDH, 29 voters) | \"1939\" by 0xCuttlefish (31.3M projected TDH, 37 voters) | \"Conviction Cosplayer \" by EdBalloon (24.1M projected TDH, 45 voters) Next selection: Fri Jun 05 at 17:00 CET.",
+      "headline": "0xCuttlefish Leads with 37.8M Projected TDH",
+      "summary": "\"1939\" by 0xCuttlefish (37.8M projected TDH, 39 voters) | \"I Still Do\" by 100series (37.2M projected TDH, 32 voters) | \"Conviction Cosplayer \" by EdBalloon (24.1M projected TDH, 45 voters) Next selection: Fri Jun 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5edef420-5bdf-4fbd-b2b1-872b2eda9414/8a2a3d72-03d6-4c42-b428-110be8b9a90c/I-Still-Do.png",
-        "label": "I Still Do - 100series",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/9ae95aa7-4ee5-4b83-bdde-6113a3533f3f/1939-Launch.gif",
+        "label": "1939 - 0xCuttlefish",
         "type": "image"
       },
       "dataBoxes": [
         {
-          "label": "100series",
-          "value": "37.0M",
-          "sub": "proj. (29 votes)"
+          "label": "0xCuttlefish",
+          "value": "37.8M",
+          "sub": "proj. (39 votes)"
         },
         {
-          "label": "0xCuttlefish",
-          "value": "31.3M",
-          "sub": "proj. (37 votes)"
+          "label": "100series",
+          "value": "37.2M",
+          "sub": "proj. (32 votes)"
         },
         {
           "label": "EdBalloon",
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Josei (17.5M) | Hoizon (2.1M).",
+      "summary": "2 submissions this week. Ranking: Josei (20.6M) | Hoizon (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (62K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -136,8 +136,8 @@
       "label": "24h Vol",
       "value": "1.67 ETH",
       "raw": 1.6685,
-      "delta": -0.4481999999999997,
-      "delta_fmt": "-21.2%"
+      "delta": 0.7190000000000001,
+      "delta_fmt": "+75.7%"
     },
     {
       "label": "7d Vol",
@@ -151,15 +151,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "36.9 ETH",
-      "raw": 36.86,
-      "delta": -0.6000000000000014,
-      "delta_fmt": "-0.60 ETH"
+      "value": "39.0 ETH",
+      "raw": 39.02,
+      "delta": 2.1600000000000037,
+      "delta_fmt": "+2.16 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1648.9M",
       "raw": 1648898928
+    },
+    {
+      "label": "#1 0xCuttlefish",
+      "value": "37.8M TDH",
+      "raw": 37846971,
+      "delta": -15836864,
+      "delta_fmt": "-15.8M TDH"
     },
     {
       "label": "#1 100series",
@@ -293,7 +300,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.800 ETH",
-    "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #504: 113 MINTS (EXCL. MUSEUM) | 78 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH"
+    "DIVE BAR: 0 MSGS IN LAST 6H"
   ]
 }
