@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T18:30:53.936782+00:00",
+  "generated_at": "2026-06-04T19:31:22.738248+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -60,31 +60,26 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
           "label": "MemeFoundry (2.5M)",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_43ff56b8-7e3f-41a5-b763-a6dff15a061b/9335f336-90ed-405b-90c3-2ca743202036/Untitled-Artwork-157-2.gif",
-          "label": "Hoizon (2.1M)",
-          "type": "image"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 69K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
-        "label": "blake69 (69K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 1.25 ETH Volume",
-      "summary": "26 sales in 24h for 1.25 ETH. Highest: \"Don't Trust, Check.\" at 0.160 ETH.",
+      "headline": "26 Sales Today - 1.23 ETH Volume",
+      "summary": "26 sales in 24h for 1.23 ETH. Highest: \"Don't Trust, Check.\" at 0.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -104,8 +99,8 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/370.WEBP",
-          "label": "Decentralized Decision Network - 0.076 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/383.GIF",
+          "label": "SORRY-NO-JPEGS - 0.069 ETH",
           "type": "image"
         }
       ],
@@ -117,7 +112,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.25",
+          "value": "1.23",
           "sub": "ETH"
         },
         {
@@ -127,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015469",
+          "value": "0.015479",
           "sub": "ETH"
         }
       ]
@@ -136,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.25 ETH",
-      "raw": 1.2543,
-      "delta": -0.4155,
-      "delta_fmt": "-24.9%"
+      "value": "1.23 ETH",
+      "raw": 1.2283,
+      "delta": -0.5162,
+      "delta_fmt": "-29.6%"
     },
     {
       "label": "7d Vol",
-      "value": "13.94 ETH",
-      "raw": 13.9433
+      "value": "13.79 ETH",
+      "raw": 13.7928
     },
     {
       "label": "30d Vol",
-      "value": "76.55 ETH",
-      "raw": 76.546
+      "value": "76.60 ETH",
+      "raw": 76.596
     },
     {
       "label": "Full Set Bid",
       "value": "39.2 ETH",
-      "raw": 39.24,
-      "delta": 0.10999999999999943,
-      "delta_fmt": "+0.11 ETH"
+      "raw": 39.22,
+      "delta": -0.020000000000003126,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -302,7 +297,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #504: 137 MINTS (EXCL. MUSEUM) | 91 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #504: 137 MINTS (EXCL. MUSEUM) | 93 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH"
   ]
 }
