@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T15:24:24.255359+00:00",
+  "generated_at": "2026-06-04T16:32:13.847703+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Josei Leads with 44.8M Projected TDH",
-      "summary": "\"Chill n\u2019 Free\" by Josei (44.8M projected TDH, 41 voters) | \"I Still Do\" by 100series (39.3M projected TDH, 41 voters) | \"1939\" by 0xCuttlefish (32.8M projected TDH, 44 voters) Next selection: Fri Jun 05 at 17:00 CET.",
+      "headline": "Josei Leads with 57.6M Projected TDH",
+      "summary": "\"Chill n\u2019 Free\" by Josei (57.6M projected TDH, 45 voters) | \"I Still Do\" by 100series (39.3M projected TDH, 41 voters) | \"1939\" by 0xCuttlefish (32.8M projected TDH, 44 voters) Next selection: Fri Jun 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "Josei",
-          "value": "44.8M",
-          "sub": "proj. (41 votes)"
+          "value": "57.6M",
+          "sub": "proj. (45 votes)"
         },
         {
           "label": "100series",
@@ -65,18 +65,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: MemeFoundry (8.1M) | Hoizon (2.1M).",
+      "summary": "2 submissions this week. Ranking: MemeFoundry (2.5M) | Hoizon (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
-        "label": "MemeFoundry (8.1M)",
+        "label": "MemeFoundry (2.5M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
-          "label": "MemeFoundry (8.1M)",
+          "label": "MemeFoundry (2.5M)",
           "type": "image"
         }
       ],
@@ -84,13 +84,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 69K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
+        "label": "blake69 (69K)",
         "type": "image"
       }
     },
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0155",
+          "value": "0.015488",
           "sub": "ETH"
         }
       ]
@@ -151,8 +151,8 @@
       "label": "24h Vol",
       "value": "1.25 ETH",
       "raw": 1.2543,
-      "delta": -0.31820000000000004,
-      "delta_fmt": "-20.2%"
+      "delta": -0.4142000000000001,
+      "delta_fmt": "-24.8%"
     },
     {
       "label": "7d Vol",
@@ -167,9 +167,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.8 ETH",
-      "raw": 38.77,
-      "delta": 4.840000000000003,
-      "delta_fmt": "+4.84 ETH"
+      "raw": 38.84,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Network TDH",
@@ -178,10 +178,10 @@
     },
     {
       "label": "#1 Josei",
-      "value": "44.8M TDH",
-      "raw": 44750814,
-      "delta": 3038,
-      "delta_fmt": "+0.0M TDH"
+      "value": "57.6M TDH",
+      "raw": 57616821,
+      "delta": 12866007,
+      "delta_fmt": "+12.9M TDH"
     },
     {
       "label": "#1 100series",
@@ -317,7 +317,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #504: 137 MINTS (EXCL. MUSEUM) | 91 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #504: 137 MINTS (EXCL. MUSEUM) | 91 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH"
   ]
 }
