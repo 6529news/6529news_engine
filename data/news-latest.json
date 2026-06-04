@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T00:07:07.294040+00:00",
+  "generated_at": "2026-06-04T01:31:38.492731+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "0xCuttlefish Leads with 37.9M Projected TDH",
-      "summary": "\"1939\" by 0xCuttlefish (37.9M projected TDH, 41 voters) | \"I Still Do\" by 100series (37.3M projected TDH, 36 voters) | \"Chill n\u2019 Free\" by Josei (30.1M projected TDH, 34 voters) Next selection: Fri Jun 05 at 17:00 CET.",
+      "summary": "\"1939\" by 0xCuttlefish (37.9M projected TDH, 41 voters) | \"I Still Do\" by 100series (37.3M projected TDH, 36 voters) | \"Chill n\u2019 Free\" by Josei (30.1M projected TDH, 35 voters) Next selection: Fri Jun 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -53,7 +53,7 @@
         {
           "label": "Josei",
           "value": "30.1M",
-          "sub": "proj. (34 votes)"
+          "sub": "proj. (35 votes)"
         }
       ]
     },
@@ -97,20 +97,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#13 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 1.66 ETH Volume",
-      "summary": "25 sales in 24h for 1.66 ETH. Highest: \"Sgt. Pepe\" at 0.800 ETH.",
+      "headline": "22 Sales Today - 1.73 ETH Volume",
+      "summary": "22 sales in 24h for 1.73 ETH. Highest: \"Sgt. Pepe\" at 0.800 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -138,12 +138,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.66",
+          "value": "1.73",
           "sub": "ETH"
         },
         {
@@ -153,7 +153,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016489",
+          "value": "0.016499",
           "sub": "ETH"
         }
       ]
@@ -162,37 +162,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.66 ETH",
-      "raw": 1.6603,
-      "delta": 0.8327000000000001,
-      "delta_fmt": "+100.6%"
+      "value": "1.73 ETH",
+      "raw": 1.7308,
+      "delta": 1.1193,
+      "delta_fmt": "+183.0%"
     },
     {
       "label": "7d Vol",
-      "value": "13.48 ETH",
-      "raw": 13.4751
+      "value": "13.69 ETH",
+      "raw": 13.6918
     },
     {
       "label": "30d Vol",
-      "value": "78.78 ETH",
-      "raw": 78.7755
+      "value": "75.72 ETH",
+      "raw": 75.7224
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH",
-      "raw": 38.69,
-      "delta": -0.45000000000000284,
-      "delta_fmt": "-0.45 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.42,
+      "delta": -0.269999999999996,
+      "delta_fmt": "-0.27 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1648.9M",
-      "raw": 1648898928
+      "value": "1651.4M",
+      "raw": 1651414782,
+      "delta": 2515854,
+      "delta_fmt": "+2.5M TDH"
     },
     {
       "label": "#1 0xCuttlefish",
       "value": "37.9M TDH",
-      "raw": 37861912
+      "raw": 37861781,
+      "delta": -131,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 100series",
@@ -326,7 +330,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.800 ETH",
-    "CARD #504: 120 MINTS (EXCL. MUSEUM) | 83 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #504: 120 MINTS (EXCL. MUSEUM) | 83 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH"
   ]
 }
