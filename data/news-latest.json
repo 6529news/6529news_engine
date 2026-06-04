@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T17:40:40.144677+00:00",
+  "generated_at": "2026-06-04T18:30:53.936782+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -45,24 +45,6 @@
       ]
     },
     {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by GelatoGenesis",
-      "summary": "GelatoGenesis: Links have been disabled in #[The Memes - Main Stage] chat for over a week now. It has gotten some positive feedback and some negative. Some people have asked multiple times for...",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmXuXC4QNM9diEvBnJT3UY2o9jWTUxhYh3srRuyS2bGFJQ",
-        "label": "GelatoGenesis"
-      },
-      "dataBoxes": [
-        {
-          "label": "GelatoGenesis",
-          "value": "Lv51",
-          "sub": "1K TDH"
-        }
-      ]
-    },
-    {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
       "summary": "2 submissions this week. Ranking: MemeFoundry (2.5M) | Hoizon (2.1M).",
@@ -78,19 +60,24 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
           "label": "MemeFoundry (2.5M)",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_43ff56b8-7e3f-41a5-b763-a6dff15a061b/9335f336-90ed-405b-90c3-2ca743202036/Untitled-Artwork-157-2.gif",
+          "label": "Hoizon (2.1M)",
+          "type": "image"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#6 blake69 \u2014 69K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
+        "label": "blake69 (69K)",
         "type": "image"
       }
     },
@@ -140,7 +127,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01548",
+          "value": "0.015469",
           "sub": "ETH"
         }
       ]
@@ -151,8 +138,8 @@
       "label": "24h Vol",
       "value": "1.25 ETH",
       "raw": 1.2543,
-      "delta": -0.4142000000000001,
-      "delta_fmt": "-24.8%"
+      "delta": -0.4155,
+      "delta_fmt": "-24.9%"
     },
     {
       "label": "7d Vol",
@@ -166,10 +153,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.1 ETH",
-      "raw": 39.13,
-      "delta": 0.28999999999999915,
-      "delta_fmt": "+0.29 ETH"
+      "value": "39.2 ETH",
+      "raw": 39.24,
+      "delta": 0.10999999999999943,
+      "delta_fmt": "+0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,9 +166,7 @@
     {
       "label": "#1 Josei",
       "value": "57.6M TDH",
-      "raw": 57635583,
-      "delta": 18762,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 57635583
     },
     {
       "label": "#1 100series",
@@ -317,7 +302,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #504: 137 MINTS (EXCL. MUSEUM) | 91 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #504: 137 MINTS (EXCL. MUSEUM) | 91 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH"
   ]
 }
