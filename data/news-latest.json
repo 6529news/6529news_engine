@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T23:21:00.118478+00:00",
+  "generated_at": "2026-06-04T00:07:07.294040+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "0xCuttlefish Leads with 37.9M Projected TDH",
-      "summary": "\"1939\" by 0xCuttlefish (37.9M projected TDH, 41 voters) | \"I Still Do\" by 100series (37.3M projected TDH, 36 voters) | \"Chill n\u2019 Free\" by Josei (24.4M projected TDH, 33 voters) Next selection: Fri Jun 05 at 17:00 CET.",
+      "summary": "\"1939\" by 0xCuttlefish (37.9M projected TDH, 41 voters) | \"I Still Do\" by 100series (37.3M projected TDH, 36 voters) | \"Chill n\u2019 Free\" by Josei (30.1M projected TDH, 34 voters) Next selection: Fri Jun 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -52,8 +52,8 @@
         },
         {
           "label": "Josei",
-          "value": "24.4M",
-          "sub": "proj. (33 votes)"
+          "value": "30.1M",
+          "sub": "proj. (34 votes)"
         }
       ]
     },
@@ -97,20 +97,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 69K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
-        "label": "blake69 (69K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 1.61 ETH Volume",
-      "summary": "24 sales in 24h for 1.61 ETH. Highest: \"Sgt. Pepe\" at 0.800 ETH.",
+      "headline": "25 Sales Today - 1.66 ETH Volume",
+      "summary": "25 sales in 24h for 1.66 ETH. Highest: \"Sgt. Pepe\" at 0.800 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -138,12 +138,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "24",
+          "value": "25",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.61",
+          "value": "1.66",
           "sub": "ETH"
         },
         {
@@ -153,7 +153,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016499",
+          "value": "0.016489",
           "sub": "ETH"
         }
       ]
@@ -162,27 +162,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.61 ETH",
-      "raw": 1.6053,
-      "delta": 0.8732,
-      "delta_fmt": "+119.3%"
+      "value": "1.66 ETH",
+      "raw": 1.6603,
+      "delta": 0.8327000000000001,
+      "delta_fmt": "+100.6%"
     },
     {
       "label": "7d Vol",
-      "value": "13.42 ETH",
-      "raw": 13.4201
+      "value": "13.48 ETH",
+      "raw": 13.4751
     },
     {
       "label": "30d Vol",
-      "value": "78.72 ETH",
-      "raw": 78.7205
+      "value": "78.78 ETH",
+      "raw": 78.7755
     },
     {
       "label": "Full Set Bid",
-      "value": "39.1 ETH",
-      "raw": 39.14,
-      "delta": 0.10000000000000142,
-      "delta_fmt": "+0.10 ETH"
+      "value": "38.7 ETH",
+      "raw": 38.69,
+      "delta": -0.45000000000000284,
+      "delta_fmt": "-0.45 ETH"
     },
     {
       "label": "Network TDH",
@@ -326,7 +326,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.800 ETH",
-    "CARD #504: 120 MINTS (EXCL. MUSEUM) | 83 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #504: 120 MINTS (EXCL. MUSEUM) | 83 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH"
   ]
 }
