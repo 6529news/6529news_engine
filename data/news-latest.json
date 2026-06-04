@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T16:32:13.847703+00:00",
+  "generated_at": "2026-06-04T17:40:40.144677+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Josei Leads with 57.6M Projected TDH",
-      "summary": "\"Chill n\u2019 Free\" by Josei (57.6M projected TDH, 45 voters) | \"I Still Do\" by 100series (39.3M projected TDH, 41 voters) | \"1939\" by 0xCuttlefish (32.8M projected TDH, 44 voters) Next selection: Fri Jun 05 at 17:00 CET.",
+      "summary": "\"Chill n\u2019 Free\" by Josei (57.6M projected TDH, 46 voters) | \"I Still Do\" by 100series (39.3M projected TDH, 41 voters) | \"1939\" by 0xCuttlefish (32.8M projected TDH, 44 voters) Next selection: Fri Jun 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Josei",
           "value": "57.6M",
-          "sub": "proj. (45 votes)"
+          "sub": "proj. (46 votes)"
         },
         {
           "label": "100series",
@@ -84,13 +84,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 69K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
-        "label": "blake69 (69K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015488",
+          "value": "0.01548",
           "sub": "ETH"
         }
       ]
@@ -166,10 +166,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.8 ETH",
-      "raw": 38.84,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "value": "39.1 ETH",
+      "raw": 39.13,
+      "delta": 0.28999999999999915,
+      "delta_fmt": "+0.29 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,9 +179,9 @@
     {
       "label": "#1 Josei",
       "value": "57.6M TDH",
-      "raw": 57616821,
-      "delta": 12866007,
-      "delta_fmt": "+12.9M TDH"
+      "raw": 57635583,
+      "delta": 18762,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 100series",
@@ -317,7 +317,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #504: 137 MINTS (EXCL. MUSEUM) | 91 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #504: 137 MINTS (EXCL. MUSEUM) | 91 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH"
   ]
 }
