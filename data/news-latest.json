@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T15:43:58.922554+00:00",
+  "generated_at": "2026-06-05T16:38:48.639905+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,54 +16,67 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "Josei Leads with 58.3M Projected TDH",
-      "summary": "\"Chill n\u2019 Free\" by Josei (58.3M projected TDH, 55 voters) | \"I Still Do\" by 100series (39.8M projected TDH, 46 voters) | \"1939\" by 0xCuttlefish (32.9M projected TDH, 46 voters) Next selection: Fri Jun 05 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"Chill n\u2019 Free\" by Josei \u2014 58.3M TDH from 56 voters. Top supporter: gpebbles (18.7M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3007fc2f-7de8-409c-91f7-5e4307c6c7ff/9ba81d2a-af16-47f2-9b68-44167c008eb6/IMG-2580.png",
         "label": "Chill n\u2019 Free - Josei",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "100series Leads with 40.3M Projected TDH",
+      "summary": "\"I Still Do\" by 100series (40.3M projected TDH, 46 voters) | \"1939\" by 0xCuttlefish (32.9M projected TDH, 46 voters) | \"The Collective Synapse\" by elnaz555 (25.5M projected TDH, 62 voters) Next selection: Mon Jun 08 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5edef420-5bdf-4fbd-b2b1-872b2eda9414/8a2a3d72-03d6-4c42-b428-110be8b9a90c/I-Still-Do.png",
+        "label": "I Still Do - 100series",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "Josei",
-          "value": "58.3M",
-          "sub": "proj. (55 votes)"
-        },
-        {
           "label": "100series",
-          "value": "39.8M",
+          "value": "40.3M",
           "sub": "proj. (46 votes)"
         },
         {
           "label": "0xCuttlefish",
           "value": "32.9M",
           "sub": "proj. (46 votes)"
+        },
+        {
+          "label": "elnaz555",
+          "value": "25.5M",
+          "sub": "proj. (62 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Hoizon (2.9M) | MemeFoundry (2.7M) | GarryB1rd (2.0M).",
+      "summary": "3 submissions this week. Ranking: MemeFoundry (7.2M) | Hoizon (4.1M) | GarryB1rd (3.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
-        "label": "MemeFoundry (2.7M)",
+        "label": "MemeFoundry (7.2M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
-          "label": "MemeFoundry (2.7M)",
+          "label": "MemeFoundry (7.2M)",
           "type": "image"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
-          "label": "GarryB1rd (2.0M)",
+          "label": "GarryB1rd (3.2M)",
           "type": "image"
         }
       ],
@@ -71,28 +84,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#13 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
       "headline": "61 Sales Today - 3.27 ETH Volume",
-      "summary": "61 sales in 24h for 3.27 ETH. Highest: \"the digital possibility of scarcity in the mind of a semi-fungible frog\" at 0.069 ETH.",
+      "summary": "61 sales in 24h for 3.27 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/200.GIF",
-        "label": "the digital possibility of scarcity in the mind of a semi-fungible frog - 0.069 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/237.WEBP",
+        "label": "I CAN HAS ETHEREUM? - 0.300 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/237.WEBP",
+          "label": "I CAN HAS ETHEREUM? - 0.300 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/200.GIF",
           "label": "the digital possibility of scarcity in the mind of a semi-fungible frog - 0.069 ETH",
@@ -101,11 +119,6 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/410.WEBP",
           "label": "Freedom to Retract - 0.065 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/406.GIF",
-          "label": "MEMENIMAL - 0.065 ETH",
           "type": "image"
         }
       ],
@@ -122,12 +135,12 @@
         },
         {
           "label": "Top Sale",
-          "value": "0.069",
-          "sub": "the digital possibil"
+          "value": "0.300",
+          "sub": "I CAN HAS ETHEREUM?"
         },
         {
           "label": "Floor",
-          "value": "0.015359",
+          "value": "0.01536899999999",
           "sub": "ETH"
         }
       ]
@@ -153,10 +166,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.2 ETH",
-      "raw": 39.21,
-      "delta": -0.3500000000000014,
-      "delta_fmt": "-0.35 ETH"
+      "value": "34.4 ETH",
+      "raw": 34.4,
+      "delta": -4.810000000000002,
+      "delta_fmt": "-4.81 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,16 +177,18 @@
       "raw": 1654016524
     },
     {
+      "label": "#1 100series",
+      "value": "40.3M TDH",
+      "raw": 40254905,
+      "delta": 995274,
+      "delta_fmt": "+1.0M TDH"
+    },
+    {
       "label": "#1 Josei",
       "value": "58.3M TDH",
       "raw": 58347054,
       "delta": -270195,
       "delta_fmt": "-0.3M TDH"
-    },
-    {
-      "label": "#1 100series",
-      "value": "39.3M TDH",
-      "raw": 39259631
     },
     {
       "label": "#1 0xCuttlefish",
@@ -304,6 +319,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 114 MINTS (EXCL. MUSEUM) | 78 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
