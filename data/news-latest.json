@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T22:28:39.461982+00:00",
+  "generated_at": "2026-06-05T22:54:32.893791+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -75,11 +75,6 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_43ff56b8-7e3f-41a5-b763-a6dff15a061b/9335f336-90ed-405b-90c3-2ca743202036/Untitled-Artwork-157-2.gif",
-          "label": "Hoizon (4.1M)",
-          "type": "image"
-        },
-        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
           "label": "GarryB1rd (3.2M)",
           "type": "image"
@@ -89,13 +84,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -145,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01535",
+          "value": "0.015359",
           "sub": "ETH"
         }
       ]
@@ -156,8 +151,8 @@
       "label": "24h Vol",
       "value": "3.68 ETH",
       "raw": 3.678,
-      "delta": 2.2214,
-      "delta_fmt": "+152.5%"
+      "delta": 2.2763999999999998,
+      "delta_fmt": "+162.4%"
     },
     {
       "label": "7d Vol",
@@ -172,9 +167,7 @@
     {
       "label": "Full Set Bid",
       "value": "40.1 ETH",
-      "raw": 40.11,
-      "delta": 0.10999999999999943,
-      "delta_fmt": "+0.11 ETH"
+      "raw": 40.11
     },
     {
       "label": "Network TDH",
@@ -322,7 +315,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 120 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 120 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
