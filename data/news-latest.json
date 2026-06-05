@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T16:56:58.273029+00:00",
+  "generated_at": "2026-06-05T17:26:58.317877+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -84,13 +84,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -167,9 +167,9 @@
     {
       "label": "Full Set Bid",
       "value": "34.3 ETH",
-      "raw": 34.28,
-      "delta": -0.11999999999999744,
-      "delta_fmt": "-0.12 ETH"
+      "raw": 34.27,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -317,7 +317,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 116 MINTS (EXCL. MUSEUM) | 80 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 116 MINTS (EXCL. MUSEUM) | 80 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
