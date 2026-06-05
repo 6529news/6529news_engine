@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T20:24:42.272766+00:00",
+  "generated_at": "2026-06-05T21:04:21.506561+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "100series Leads with 40.3M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (40.3M projected TDH, 47 voters) | \"1939\" by 0xCuttlefish (26.7M projected TDH, 48 voters) | \"The Collective Synapse\" by elnaz555 (25.5M projected TDH, 63 voters) Next selection: Mon Jun 08 at 17:00 CET.",
+      "summary": "\"I Still Do\" by 100series (40.3M projected TDH, 47 voters) | \"1939\" by 0xCuttlefish (29.1M projected TDH, 48 voters) | \"The Collective Synapse\" by elnaz555 (25.5M projected TDH, 63 voters) Next selection: Mon Jun 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,7 +47,7 @@
         },
         {
           "label": "0xCuttlefish",
-          "value": "26.7M",
+          "value": "29.1M",
           "sub": "proj. (48 votes)"
         },
         {
@@ -89,7 +89,7 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01535",
+          "value": "0.015349",
           "sub": "ETH"
         }
       ]
@@ -151,8 +151,8 @@
       "label": "24h Vol",
       "value": "3.94 ETH",
       "raw": 3.9384,
-      "delta": 2.7094,
-      "delta_fmt": "+220.5%"
+      "delta": 2.6473000000000004,
+      "delta_fmt": "+205.0%"
     },
     {
       "label": "7d Vol",
@@ -315,7 +315,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 120 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 120 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
