@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T03:47:08.574948+00:00",
+  "generated_at": "2026-06-05T05:35:32.160903+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 0.84 ETH Volume",
-      "summary": "14 sales in 24h for 0.84 ETH. Highest: \"Don't Trust, Check.\" at 0.160 ETH.",
+      "headline": "25 Sales Today - 1.78 ETH Volume",
+      "summary": "25 sales in 24h for 1.78 ETH. Highest: \"Don't Trust, Check.\" at 0.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -94,25 +94,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.130 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/35.WEBP",
+          "label": "Meet Summer Glasses - 0.130 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
-          "label": "< no, really [ this ] is going to be our year > - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
+          "label": "6529Seizing - 0.130 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "25",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.84",
+          "value": "1.78",
           "sub": "ETH"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015489",
+          "value": "0.01547",
           "sub": "ETH"
         }
       ]
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.84 ETH",
-      "raw": 0.8423,
-      "delta": -1.1485999999999998,
-      "delta_fmt": "-57.7%"
+      "value": "1.78 ETH",
+      "raw": 1.7754,
+      "delta": 0.5295000000000001,
+      "delta_fmt": "+42.5%"
     },
     {
       "label": "7d Vol",
-      "value": "14.05 ETH",
-      "raw": 14.0541
+      "value": "14.99 ETH",
+      "raw": 14.9872
     },
     {
       "label": "30d Vol",
-      "value": "74.16 ETH",
-      "raw": 74.1639
+      "value": "75.10 ETH",
+      "raw": 75.097
     },
     {
       "label": "Full Set Bid",
-      "value": "39.2 ETH",
-      "raw": 39.16,
-      "delta": -0.060000000000002274,
-      "delta_fmt": "-0.06 ETH"
+      "value": "38.9 ETH",
+      "raw": 38.91,
+      "delta": -0.25,
+      "delta_fmt": "-0.25 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,8 +161,8 @@
     {
       "label": "#1 Josei",
       "value": "58.7M TDH",
-      "raw": 58703860,
-      "delta": 5281,
+      "raw": 58703876,
+      "delta": 16,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -299,7 +299,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #504: 137 MINTS (EXCL. MUSEUM) | 93 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #504: 137 MINTS (EXCL. MUSEUM) | 93 HOLDERS | A TESTAMENT TO THE HARDEST TRUTH"
   ]
 }
