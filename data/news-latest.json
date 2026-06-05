@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T12:26:15.764795+00:00",
+  "generated_at": "2026-06-05T13:34:25.890439+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Josei Leads with 58.6M Projected TDH",
-      "summary": "\"Chill n\u2019 Free\" by Josei (58.6M projected TDH, 51 voters) | \"I Still Do\" by 100series (39.8M projected TDH, 46 voters) | \"1939\" by 0xCuttlefish (32.9M projected TDH, 46 voters) Next selection: Fri Jun 05 at 17:00 CET.",
+      "summary": "\"Chill n\u2019 Free\" by Josei (58.6M projected TDH, 52 voters) | \"I Still Do\" by 100series (39.8M projected TDH, 46 voters) | \"1939\" by 0xCuttlefish (32.9M projected TDH, 46 voters) Next selection: Fri Jun 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Josei",
           "value": "58.6M",
-          "sub": "proj. (51 votes)"
+          "sub": "proj. (52 votes)"
         },
         {
           "label": "100series",
@@ -83,8 +83,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "61 Sales Today - 3.26 ETH Volume",
-      "summary": "61 sales in 24h for 3.26 ETH. Highest: \"the digital possibility of scarcity in the mind of a semi-fungible frog\" at 0.069 ETH.",
+      "headline": "61 Sales Today - 3.27 ETH Volume",
+      "summary": "61 sales in 24h for 3.27 ETH. Highest: \"the digital possibility of scarcity in the mind of a semi-fungible frog\" at 0.069 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,7 +117,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "3.26",
+          "value": "3.27",
           "sub": "ETH"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015377",
+          "value": "0.015368",
           "sub": "ETH"
         }
       ]
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.26 ETH",
-      "raw": 3.2642,
-      "delta": 1.8878000000000001,
-      "delta_fmt": "+137.2%"
+      "value": "3.27 ETH",
+      "raw": 3.2689,
+      "delta": 1.9185999999999999,
+      "delta_fmt": "+142.1%"
     },
     {
       "label": "7d Vol",
-      "value": "16.51 ETH",
-      "raw": 16.5128
+      "value": "16.54 ETH",
+      "raw": 16.5369
     },
     {
       "label": "30d Vol",
-      "value": "76.92 ETH",
-      "raw": 76.9222
+      "value": "77.03 ETH",
+      "raw": 77.0345
     },
     {
       "label": "Full Set Bid",
       "value": "39.5 ETH",
-      "raw": 39.53,
-      "delta": 0.020000000000003126,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 39.48,
+      "delta": -0.05000000000000426,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,7 +166,9 @@
     {
       "label": "#1 Josei",
       "value": "58.6M TDH",
-      "raw": 58615819
+      "raw": 58616573,
+      "delta": 754,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 100series",
@@ -302,7 +304,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 108 MINTS (EXCL. MUSEUM) | 74 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 108 MINTS (EXCL. MUSEUM) | 74 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
