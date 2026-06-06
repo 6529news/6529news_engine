@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T23:25:33.823725+00:00",
+  "generated_at": "2026-06-06T23:51:21.167103+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 6K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.30 ETH Volume",
-      "summary": "23 sales in 24h for 1.30 ETH. Highest: \"Pepe X\" at 0.120 ETH.",
+      "headline": "24 Sales Today - 1.40 ETH Volume",
+      "summary": "24 sales in 24h for 1.40 ETH. Highest: \"Pepe X\" at 0.120 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -104,25 +104,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/221.WEBP",
-          "label": "Rugs & Rockets - 0.090 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/421.GIF",
+          "label": "inception - 0.100 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/312.WEBP",
-          "label": "Memehaus - 0.080 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/221.WEBP",
+          "label": "Rugs & Rockets - 0.090 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.30",
+          "value": "1.40",
           "sub": "ETH"
         },
         {
@@ -132,7 +132,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015299",
+          "value": "0.015311",
           "sub": "ETH"
         }
       ]
@@ -141,25 +141,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.30 ETH",
-      "raw": 1.2991,
-      "delta": -2.3789,
-      "delta_fmt": "-64.7%"
+      "value": "1.40 ETH",
+      "raw": 1.3991,
+      "delta": -2.2789,
+      "delta_fmt": "-62.0%"
     },
     {
       "label": "7d Vol",
-      "value": "17.14 ETH",
-      "raw": 17.1415
+      "value": "17.24 ETH",
+      "raw": 17.2415
     },
     {
       "label": "30d Vol",
-      "value": "77.69 ETH",
-      "raw": 77.6917
+      "value": "77.79 ETH",
+      "raw": 77.7917
     },
     {
       "label": "Full Set Bid",
       "value": "40.1 ETH",
-      "raw": 40.11
+      "raw": 40.12,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -309,7 +311,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
