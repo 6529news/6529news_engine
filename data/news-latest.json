@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T21:50:51.640144+00:00",
+  "generated_at": "2026-06-06T22:26:00.601352+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -46,16 +46,21 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Hoizon (5.6M) | GarryB1rd (3.2M) | MemeFoundry (2.7M).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: Giopetto (7.5M) | Hoizon (5.6M) | GarryB1rd (3.2M) | MemeFoundry (2.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
-        "label": "GarryB1rd (3.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
+        "label": "Giopetto (7.5M)",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
+          "label": "Giopetto (7.5M)",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
           "label": "GarryB1rd (3.2M)",
@@ -71,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#13 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
@@ -127,7 +132,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015299",
+          "value": "0.01529",
           "sub": "ETH"
         }
       ]
@@ -138,7 +143,7 @@
       "label": "24h Vol",
       "value": "1.30 ETH",
       "raw": 1.2991,
-      "delta": -2.3791,
+      "delta": -2.3789,
       "delta_fmt": "-64.7%"
     },
     {
@@ -153,10 +158,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "35.1 ETH",
-      "raw": 35.14,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.11,
+      "delta": 4.969999999999999,
+      "delta_fmt": "+4.97 ETH"
     },
     {
       "label": "Network TDH",
@@ -306,7 +311,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
