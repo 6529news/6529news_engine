@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T17:10:00.222723+00:00",
+  "generated_at": "2026-06-06T17:40:34.045229+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "0xCuttlefish Leads with 49.1M Projected TDH",
-      "summary": "\"1939\" by 0xCuttlefish (49.1M projected TDH, 49 voters) | \"I Still Do\" by 100series (46.5M projected TDH, 50 voters) | \"The Collective Synapse\" by elnaz555 (31.5M projected TDH, 68 voters) Next selection: Mon Jun 08 at 17:00 CET.",
+      "summary": "\"1939\" by 0xCuttlefish (49.1M projected TDH, 49 voters) | \"I Still Do\" by 100series (46.0M projected TDH, 49 voters) | \"The Collective Synapse\" by elnaz555 (31.5M projected TDH, 68 voters) Next selection: Mon Jun 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "100series",
-          "value": "46.5M",
-          "sub": "proj. (50 votes)"
+          "value": "46.0M",
+          "sub": "proj. (49 votes)"
         },
         {
           "label": "elnaz555",
@@ -127,7 +127,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015298",
+          "value": "0.015297",
           "sub": "ETH"
         }
       ]
@@ -153,10 +153,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.9 ETH",
-      "raw": 37.86,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "value": "37.8 ETH",
+      "raw": 37.84,
+      "delta": -0.01999999999999602,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -306,7 +306,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
