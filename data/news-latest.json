@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T12:45:09.884046+00:00",
+  "generated_at": "2026-06-06T13:18:09.660143+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,16 +30,21 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "100series Leads with 46.4M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (46.4M projected TDH, 50 voters) | \"The Collective Synapse\" by elnaz555 (31.5M projected TDH, 68 voters) | \"1939\" by 0xCuttlefish (30.3M projected TDH, 49 voters) Next selection: Mon Jun 08 at 17:00 CET.",
+      "headline": "0xCuttlefish Leads with 49.1M Projected TDH",
+      "summary": "\"1939\" by 0xCuttlefish (49.1M projected TDH, 49 voters) | \"I Still Do\" by 100series (46.4M projected TDH, 50 voters) | \"The Collective Synapse\" by elnaz555 (31.5M projected TDH, 68 voters) Next selection: Mon Jun 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5edef420-5bdf-4fbd-b2b1-872b2eda9414/8a2a3d72-03d6-4c42-b428-110be8b9a90c/I-Still-Do.png",
-        "label": "I Still Do - 100series",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/9ae95aa7-4ee5-4b83-bdde-6113a3533f3f/1939-Launch.gif",
+        "label": "1939 - 0xCuttlefish",
         "type": "image"
       },
       "dataBoxes": [
+        {
+          "label": "0xCuttlefish",
+          "value": "49.1M",
+          "sub": "proj. (49 votes)"
+        },
         {
           "label": "100series",
           "value": "46.4M",
@@ -49,11 +54,6 @@
           "label": "elnaz555",
           "value": "31.5M",
           "sub": "proj. (68 votes)"
-        },
-        {
-          "label": "0xCuttlefish",
-          "value": "30.3M",
-          "sub": "proj. (49 votes)"
         }
       ]
     },
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#6 blake69 \u2014 69K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
+        "label": "blake69 (69K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "31 Sales Today - 1.65 ETH Volume",
-      "summary": "31 sales in 24h for 1.65 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
+      "headline": "32 Sales Today - 1.76 ETH Volume",
+      "summary": "32 sales in 24h for 1.76 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -113,7 +113,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
-          "label": "Pepe X - 0.100 ETH",
+          "label": "Pepe X - 0.110 ETH",
           "type": "image"
         },
         {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "31",
+          "value": "32",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.65",
+          "value": "1.76",
           "sub": "ETH"
         },
         {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015329",
+          "value": "0.01533",
           "sub": "ETH"
         }
       ]
@@ -149,32 +149,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.65 ETH",
-      "raw": 1.6487,
-      "delta": -1.6155000000000002,
-      "delta_fmt": "-49.5%"
+      "value": "1.76 ETH",
+      "raw": 1.7587,
+      "delta": -1.5102,
+      "delta_fmt": "-46.2%"
     },
     {
       "label": "7d Vol",
-      "value": "16.85 ETH",
-      "raw": 16.8457
+      "value": "16.96 ETH",
+      "raw": 16.9557
     },
     {
       "label": "30d Vol",
-      "value": "77.23 ETH",
-      "raw": 77.2339
+      "value": "77.34 ETH",
+      "raw": 77.3439
     },
     {
       "label": "Full Set Bid",
       "value": "39.7 ETH",
-      "raw": 39.72,
-      "delta": 0.21000000000000085,
-      "delta_fmt": "+0.21 ETH"
+      "raw": 39.75,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1656.2M",
       "raw": 1656195083
+    },
+    {
+      "label": "#1 0xCuttlefish",
+      "value": "49.1M TDH",
+      "raw": 49137408,
+      "delta": 11275627,
+      "delta_fmt": "+11.3M TDH"
     },
     {
       "label": "#1 100series",
@@ -189,11 +196,6 @@
       "raw": 58347054,
       "delta": -270195,
       "delta_fmt": "-0.3M TDH"
-    },
-    {
-      "label": "#1 0xCuttlefish",
-      "value": "37.9M TDH",
-      "raw": 37861781
     },
     {
       "label": "#1 JennaDixon",
@@ -319,7 +321,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 127 MINTS (EXCL. MUSEUM) | 88 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 127 MINTS (EXCL. MUSEUM) | 88 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
