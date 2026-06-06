@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T07:23:45.180013+00:00",
+  "generated_at": "2026-06-06T08:19:49.290732+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "100series Leads with 40.9M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (40.9M projected TDH, 49 voters) | \"The Collective Synapse\" by elnaz555 (31.4M projected TDH, 64 voters) | \"1939\" by 0xCuttlefish (30.3M projected TDH, 48 voters) Next selection: Mon Jun 08 at 17:00 CET.",
+      "summary": "\"I Still Do\" by 100series (40.9M projected TDH, 49 voters) | \"The Collective Synapse\" by elnaz555 (31.4M projected TDH, 65 voters) | \"1939\" by 0xCuttlefish (30.3M projected TDH, 48 voters) Next selection: Mon Jun 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +48,7 @@
         {
           "label": "elnaz555",
           "value": "31.4M",
-          "sub": "proj. (64 votes)"
+          "sub": "proj. (65 votes)"
         },
         {
           "label": "0xCuttlefish",
@@ -84,14 +84,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 69K TDH",
+      "headline": "#9 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/d32759cd-5d85-4440-b2c3-5e23d5fd6425/IMG-9263.jpeg",
-        "label": "blake69 (69K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015339",
+          "value": "0.0153599",
           "sub": "ETH"
         }
       ]
@@ -167,9 +167,7 @@
     {
       "label": "Full Set Bid",
       "value": "33.8 ETH",
-      "raw": 33.83,
-      "delta": -0.05000000000000426,
-      "delta_fmt": "-0.05 ETH"
+      "raw": 33.83
     },
     {
       "label": "Network TDH",
@@ -179,9 +177,7 @@
     {
       "label": "#1 100series",
       "value": "40.9M TDH",
-      "raw": 40925456,
-      "delta": 100,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 40925456
     },
     {
       "label": "#1 Josei",
@@ -319,7 +315,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 124 MINTS (EXCL. MUSEUM) | 88 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 124 MINTS (EXCL. MUSEUM) | 88 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
