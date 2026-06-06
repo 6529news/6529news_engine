@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T10:57:56.111310+00:00",
+  "generated_at": "2026-06-06T11:36:28.900700+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "100series Leads with 46.3M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (46.3M projected TDH, 50 voters) | \"The Collective Synapse\" by elnaz555 (31.5M projected TDH, 68 voters) | \"1939\" by 0xCuttlefish (30.3M projected TDH, 48 voters) Next selection: Mon Jun 08 at 17:00 CET.",
+      "summary": "\"I Still Do\" by 100series (46.3M projected TDH, 50 voters) | \"The Collective Synapse\" by elnaz555 (31.5M projected TDH, 68 voters) | \"1939\" by 0xCuttlefish (30.3M projected TDH, 49 voters) Next selection: Mon Jun 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -53,14 +53,14 @@
         {
           "label": "0xCuttlefish",
           "value": "30.3M",
-          "sub": "proj. (48 votes)"
+          "sub": "proj. (49 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: MemeFoundry (7.2M) | Hoizon (5.2M) | GarryB1rd (3.2M).",
+      "summary": "3 submissions this week. Ranking: MemeFoundry (7.2M) | Hoizon (5.3M) | GarryB1rd (3.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "38 Sales Today - 1.70 ETH Volume",
-      "summary": "38 sales in 24h for 1.70 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
+      "headline": "31 Sales Today - 1.65 ETH Volume",
+      "summary": "31 sales in 24h for 1.65 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,25 +112,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/231.GIF",
-          "label": "Crypto Liberation - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+          "label": "Pepe X - 0.100 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/217.GIF",
-          "label": "Can't Stop, Won't Stop - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/231.GIF",
+          "label": "Crypto Liberation - 0.100 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "38",
+          "value": "31",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.70",
+          "value": "1.65",
           "sub": "ETH"
         },
         {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015338",
+          "value": "0.015337",
           "sub": "ETH"
         }
       ]
@@ -149,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.70 ETH",
-      "raw": 1.7043,
-      "delta": -1.6909,
-      "delta_fmt": "-49.8%"
+      "value": "1.65 ETH",
+      "raw": 1.6487,
+      "delta": -1.7465,
+      "delta_fmt": "-51.4%"
     },
     {
       "label": "7d Vol",
-      "value": "17.34 ETH",
-      "raw": 17.3448
+      "value": "17.44 ETH",
+      "raw": 17.4448
     },
     {
       "label": "30d Vol",
-      "value": "77.13 ETH",
-      "raw": 77.1339
+      "value": "77.23 ETH",
+      "raw": 77.2339
     },
     {
       "label": "Full Set Bid",
-      "value": "34.6 ETH",
-      "raw": 34.61,
-      "delta": 0.7299999999999969,
-      "delta_fmt": "+0.73 ETH"
+      "value": "37.9 ETH",
+      "raw": 37.86,
+      "delta": 3.25,
+      "delta_fmt": "+3.25 ETH"
     },
     {
       "label": "Network TDH",
@@ -317,7 +317,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 127 MINTS (EXCL. MUSEUM) | 88 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 127 MINTS (EXCL. MUSEUM) | 88 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
