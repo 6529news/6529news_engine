@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T08:19:49.290732+00:00",
+  "generated_at": "2026-06-06T09:18:46.407225+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "100series Leads with 40.9M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (40.9M projected TDH, 49 voters) | \"The Collective Synapse\" by elnaz555 (31.4M projected TDH, 65 voters) | \"1939\" by 0xCuttlefish (30.3M projected TDH, 48 voters) Next selection: Mon Jun 08 at 17:00 CET.",
+      "summary": "\"I Still Do\" by 100series (40.9M projected TDH, 49 voters) | \"The Collective Synapse\" by elnaz555 (31.5M projected TDH, 68 voters) | \"1939\" by 0xCuttlefish (30.3M projected TDH, 48 voters) Next selection: Mon Jun 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "elnaz555",
-          "value": "31.4M",
-          "sub": "proj. (65 votes)"
+          "value": "31.5M",
+          "sub": "proj. (68 votes)"
         },
         {
           "label": "0xCuttlefish",
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 6K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "38 Sales Today - 1.70 ETH Volume",
-      "summary": "38 sales in 24h for 1.70 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
+      "headline": "37 Sales Today - 1.63 ETH Volume",
+      "summary": "37 sales in 24h for 1.63 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "38",
+          "value": "37",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.70",
+          "value": "1.63",
           "sub": "ETH"
         },
         {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0153599",
+          "value": "0.015349",
           "sub": "ETH"
         }
       ]
@@ -149,10 +149,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.70 ETH",
-      "raw": 1.7034,
-      "delta": -1.6007999999999998,
-      "delta_fmt": "-48.4%"
+      "value": "1.63 ETH",
+      "raw": 1.6343,
+      "delta": -1.6698999999999997,
+      "delta_fmt": "-50.5%"
     },
     {
       "label": "7d Vol",
@@ -167,7 +167,9 @@
     {
       "label": "Full Set Bid",
       "value": "33.8 ETH",
-      "raw": 33.83
+      "raw": 33.85,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -315,7 +317,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 124 MINTS (EXCL. MUSEUM) | 88 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 125 MINTS (EXCL. MUSEUM) | 88 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
