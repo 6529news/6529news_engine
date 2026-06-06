@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T23:56:55.533927+00:00",
+  "generated_at": "2026-06-06T01:12:35.909657+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "66 Sales Today - 3.68 ETH Volume",
-      "summary": "66 sales in 24h for 3.68 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
+      "headline": "70 Sales Today - 3.82 ETH Volume",
+      "summary": "70 sales in 24h for 3.82 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "66",
+          "value": "70",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.68",
+          "value": "3.82",
           "sub": "ETH"
         },
         {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0153599",
+          "value": "0.015349",
           "sub": "ETH"
         }
       ]
@@ -149,37 +149,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.68 ETH",
-      "raw": 3.678,
-      "delta": 2.2763999999999998,
-      "delta_fmt": "+162.4%"
+      "value": "3.82 ETH",
+      "raw": 3.8203,
+      "delta": 2.5984,
+      "delta_fmt": "+212.7%"
     },
     {
       "label": "7d Vol",
-      "value": "17.00 ETH",
-      "raw": 17.0018
+      "value": "16.75 ETH",
+      "raw": 16.7458
     },
     {
       "label": "30d Vol",
-      "value": "77.84 ETH",
-      "raw": 77.8419
+      "value": "76.53 ETH",
+      "raw": 76.5349
     },
     {
       "label": "Full Set Bid",
-      "value": "34.1 ETH",
-      "raw": 34.09,
-      "delta": -6.029999999999994,
-      "delta_fmt": "-6.03 ETH"
+      "value": "34.0 ETH",
+      "raw": 34.04,
+      "delta": -0.05000000000000426,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1654.0M",
-      "raw": 1654016524
+      "value": "1656.2M",
+      "raw": 1656195083,
+      "delta": 2178559,
+      "delta_fmt": "+2.2M TDH"
     },
     {
       "label": "#1 100series",
       "value": "40.4M TDH",
-      "raw": 40410788
+      "raw": 40410610,
+      "delta": -178,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 Josei",
@@ -317,7 +321,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 120 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 120 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
