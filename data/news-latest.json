@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T23:51:21.167103+00:00",
+  "generated_at": "2026-06-07T00:56:36.737751+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "0xCuttlefish Leads with 51.2M Projected TDH",
-      "summary": "\"1939\" by 0xCuttlefish (51.2M projected TDH, 54 voters) | \"I Still Do\" by 100series (46.0M projected TDH, 50 voters) | \"The Collective Synapse\" by elnaz555 (31.7M projected TDH, 68 voters) Next selection: Mon Jun 08 at 17:00 CET.",
+      "headline": "0xCuttlefish Leads with 51.3M Projected TDH",
+      "summary": "\"1939\" by 0xCuttlefish (51.3M projected TDH, 54 voters) | \"I Still Do\" by 100series (46.0M projected TDH, 50 voters) | \"The Collective Synapse\" by elnaz555 (31.7M projected TDH, 68 voters) Next selection: Mon Jun 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "0xCuttlefish",
-          "value": "51.2M",
+          "value": "51.3M",
           "sub": "proj. (54 votes)"
         },
         {
@@ -76,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#9 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 1.40 ETH Volume",
-      "summary": "24 sales in 24h for 1.40 ETH. Highest: \"Pepe X\" at 0.120 ETH.",
+      "headline": "20 Sales Today - 1.26 ETH Volume",
+      "summary": "20 sales in 24h for 1.26 ETH. Highest: \"Pepe X\" at 0.120 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,12 +117,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "24",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.40",
+          "value": "1.26",
           "sub": "ETH"
         },
         {
@@ -141,37 +141,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.40 ETH",
-      "raw": 1.3991,
-      "delta": -2.2789,
-      "delta_fmt": "-62.0%"
+      "value": "1.26 ETH",
+      "raw": 1.2569,
+      "delta": -2.5634,
+      "delta_fmt": "-67.1%"
     },
     {
       "label": "7d Vol",
-      "value": "17.24 ETH",
-      "raw": 17.2415
+      "value": "13.23 ETH",
+      "raw": 13.2256
     },
     {
       "label": "30d Vol",
-      "value": "77.79 ETH",
-      "raw": 77.7917
+      "value": "74.36 ETH",
+      "raw": 74.3589
     },
     {
       "label": "Full Set Bid",
-      "value": "40.1 ETH",
-      "raw": 40.12,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "38.2 ETH",
+      "raw": 38.2,
+      "delta": -1.9199999999999946,
+      "delta_fmt": "-1.92 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1656.2M",
-      "raw": 1656195083
+      "value": "1658.8M",
+      "raw": 1658796810,
+      "delta": 2601727,
+      "delta_fmt": "+2.6M TDH"
     },
     {
       "label": "#1 0xCuttlefish",
-      "value": "51.2M TDH",
-      "raw": 51200705
+      "value": "51.3M TDH",
+      "raw": 51290322,
+      "delta": 89617,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 100series",
@@ -311,7 +315,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
