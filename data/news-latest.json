@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T00:56:36.737751+00:00",
+  "generated_at": "2026-06-07T01:51:46.664720+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,28 +47,28 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Giopetto (14.5M) | Hoizon (5.6M) | GarryB1rd (3.2M) | MemeFoundry (2.7M).",
+      "summary": "4 submissions this week. Ranking: Giopetto (14.6M) | Hoizon (5.6M) | MemeFoundry (2.7M) | GarryB1rd (2.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
-        "label": "Giopetto (14.5M)",
+        "label": "Giopetto (14.6M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
-          "label": "Giopetto (14.5M)",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
-          "label": "GarryB1rd (3.2M)",
+          "label": "Giopetto (14.6M)",
           "type": "image"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
           "label": "MemeFoundry (2.7M)",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
+          "label": "GarryB1rd (2.6M)",
           "type": "image"
         }
       ],
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#9 Bicasso \u2014 0 TDH",
+      "headline": "#13 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
@@ -142,40 +142,36 @@
     {
       "label": "24h Vol",
       "value": "1.26 ETH",
-      "raw": 1.2569,
-      "delta": -2.5634,
+      "raw": 1.2568,
+      "delta": -2.5635000000000003,
       "delta_fmt": "-67.1%"
     },
     {
       "label": "7d Vol",
-      "value": "13.23 ETH",
-      "raw": 13.2256
+      "value": "13.22 ETH",
+      "raw": 13.2244
     },
     {
       "label": "30d Vol",
-      "value": "74.36 ETH",
-      "raw": 74.3589
+      "value": "74.35 ETH",
+      "raw": 74.3522
     },
     {
       "label": "Full Set Bid",
       "value": "38.2 ETH",
-      "raw": 38.2,
-      "delta": -1.9199999999999946,
-      "delta_fmt": "-1.92 ETH"
+      "raw": 38.22,
+      "delta": 0.01999999999999602,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1658.8M",
-      "raw": 1658796810,
-      "delta": 2601727,
-      "delta_fmt": "+2.6M TDH"
+      "raw": 1658796810
     },
     {
       "label": "#1 0xCuttlefish",
       "value": "51.3M TDH",
-      "raw": 51290322,
-      "delta": 89617,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 51290322
     },
     {
       "label": "#1 100series",
@@ -315,7 +311,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
