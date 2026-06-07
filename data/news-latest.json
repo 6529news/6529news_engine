@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T22:08:43.551754+00:00",
+  "generated_at": "2026-06-07T22:38:45.665398+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -46,8 +46,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: Giopetto (22.3M) | Hoizon (3.6M) | GarryB1rd (2.6M) | apocalypse (1.4M) | MemeFoundry (248K).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: Giopetto (22.3M) | Hoizon (3.6M) | GarryB1rd (2.6M) | apocalypse (1.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -158,8 +158,8 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.2 ETH",
-      "raw": 40.24,
+      "value": "40.3 ETH",
+      "raw": 40.27,
       "delta": 0.030000000000001137,
       "delta_fmt": "+0.03 ETH"
     },
@@ -171,9 +171,7 @@
     {
       "label": "#1 0xCuttlefish",
       "value": "53.9M TDH",
-      "raw": 53887616,
-      "delta": 866996,
-      "delta_fmt": "+0.9M TDH"
+      "raw": 53887616
     },
     {
       "label": "#1 100series",
@@ -313,7 +311,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
