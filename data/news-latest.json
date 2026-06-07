@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T19:15:16.497472+00:00",
+  "generated_at": "2026-06-07T19:50:40.244733+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#12 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
@@ -159,9 +159,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.3 ETH",
-      "raw": 40.27,
-      "delta": 0.9000000000000057,
-      "delta_fmt": "+0.90 ETH"
+      "raw": 40.26,
+      "delta": -0.010000000000005116,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,9 +171,7 @@
     {
       "label": "#1 0xCuttlefish",
       "value": "53.0M TDH",
-      "raw": 53020620,
-      "delta": 105,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 53020620
     },
     {
       "label": "#1 100series",
@@ -313,7 +311,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
