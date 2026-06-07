@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T10:19:23.892385+00:00",
+  "generated_at": "2026-06-07T11:14:09.090817+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -22,8 +22,8 @@
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/9ae95aa7-4ee5-4b83-bdde-6113a3533f3f/1939-Launch.gif",
-        "label": "1939 - 0xCuttlefish",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5edef420-5bdf-4fbd-b2b1-872b2eda9414/8a2a3d72-03d6-4c42-b428-110be8b9a90c/I-Still-Do.png",
+        "label": "I Still Do - 100series",
         "type": "image"
       },
       "dataBoxes": [
@@ -62,22 +62,22 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
-          "label": "GarryB1rd (2.6M)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_43ff56b8-7e3f-41a5-b763-a6dff15a061b/9335f336-90ed-405b-90c3-2ca743202036/Untitled-Artwork-157-2.gif",
+          "label": "Hoizon (3.6M)",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2462ef1c-96c2-4218-9196-6500011d0ba9/57c2cadd-e26b-4752-ba90-2e02a91b46a0/SYSTEM-FAILURE.mp4",
-          "label": "apocalypse (1.4M)",
-          "type": "video"
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
+          "label": "GarryB1rd (2.6M)",
+          "type": "image"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#13 aoifeodwyer \u2014 0 TDH",
-      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
+      "headline": "#12 aoifeodwyer \u2014 0 TDH",
+      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
@@ -88,8 +88,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 1.62 ETH Volume",
-      "summary": "14 sales in 24h for 1.62 ETH. Highest: \"WE THE CYPHERPUNKS\" at 0.620 ETH.",
+      "headline": "14 Sales Today - 1.61 ETH Volume",
+      "summary": "14 sales in 24h for 1.61 ETH. Highest: \"WE THE CYPHERPUNKS\" at 0.620 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -122,7 +122,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.62",
+          "value": "1.61",
           "sub": "ETH"
         },
         {
@@ -141,27 +141,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.62 ETH",
-      "raw": 1.6188,
-      "delta": -0.08549999999999991,
-      "delta_fmt": "-5.0%"
+      "value": "1.61 ETH",
+      "raw": 1.6088,
+      "delta": -0.09549999999999992,
+      "delta_fmt": "-5.6%"
     },
     {
       "label": "7d Vol",
-      "value": "13.45 ETH",
-      "raw": 13.4544
+      "value": "13.54 ETH",
+      "raw": 13.5444
     },
     {
       "label": "30d Vol",
-      "value": "75.31 ETH",
-      "raw": 75.3132
+      "value": "75.40 ETH",
+      "raw": 75.4032
     },
     {
       "label": "Full Set Bid",
       "value": "40.0 ETH",
-      "raw": 39.95,
-      "delta": -0.09999999999999432,
-      "delta_fmt": "-0.10 ETH"
+      "raw": 39.97,
+      "delta": 0.01999999999999602,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,9 +171,7 @@
     {
       "label": "#1 0xCuttlefish",
       "value": "52.5M TDH",
-      "raw": 52454024,
-      "delta": 1971,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 52454024
     },
     {
       "label": "#1 100series",
@@ -313,7 +311,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
