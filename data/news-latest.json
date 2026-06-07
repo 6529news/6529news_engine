@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T06:32:00.603124+00:00",
+  "generated_at": "2026-06-07T08:02:09.235066+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "0xCuttlefish Leads with 51.3M Projected TDH",
-      "summary": "\"1939\" by 0xCuttlefish (51.3M projected TDH, 54 voters) | \"I Still Do\" by 100series (46.0M projected TDH, 50 voters) | \"The Collective Synapse\" by elnaz555 (32.5M projected TDH, 69 voters) Next selection: Mon Jun 08 at 17:00 CET.",
+      "summary": "\"1939\" by 0xCuttlefish (51.3M projected TDH, 54 voters) | \"I Still Do\" by 100series (46.0M projected TDH, 51 voters) | \"The Collective Synapse\" by elnaz555 (32.5M projected TDH, 69 voters) Next selection: Mon Jun 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "100series",
           "value": "46.0M",
-          "sub": "proj. (50 votes)"
+          "sub": "proj. (51 votes)"
         },
         {
           "label": "elnaz555",
@@ -47,28 +47,28 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Giopetto (14.6M) | Hoizon (5.6M) | MemeFoundry (2.7M) | GarryB1rd (2.6M).",
+      "summary": "4 submissions this week. Ranking: Giopetto (19.0M) | Hoizon (3.6M) | GarryB1rd (2.6M) | MemeFoundry (248K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
-        "label": "Giopetto (14.6M)",
+        "label": "Giopetto (19.0M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
-          "label": "Giopetto (14.6M)",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
-          "label": "MemeFoundry (2.7M)",
+          "label": "Giopetto (19.0M)",
           "type": "image"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
           "label": "GarryB1rd (2.6M)",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
+          "label": "MemeFoundry (248K)",
           "type": "image"
         }
       ],
@@ -76,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | blake69 (69K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 1.57 ETH Volume",
-      "summary": "13 sales in 24h for 1.57 ETH. Highest: \"WE THE CYPHERPUNKS\" at 0.620 ETH.",
+      "headline": "12 Sales Today - 1.49 ETH Volume",
+      "summary": "12 sales in 24h for 1.49 ETH. Highest: \"WE THE CYPHERPUNKS\" at 0.620 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,12 +117,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.57",
+          "value": "1.49",
           "sub": "ETH"
         },
         {
@@ -141,27 +141,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.57 ETH",
-      "raw": 1.5678,
-      "delta": -0.015599999999999836,
-      "delta_fmt": "-1.0%"
+      "value": "1.49 ETH",
+      "raw": 1.4947,
+      "delta": -0.2087000000000001,
+      "delta_fmt": "-12.3%"
     },
     {
       "label": "7d Vol",
-      "value": "13.94 ETH",
-      "raw": 13.9444
+      "value": "13.26 ETH",
+      "raw": 13.2603
     },
     {
       "label": "30d Vol",
-      "value": "75.07 ETH",
-      "raw": 75.0722
+      "value": "75.12 ETH",
+      "raw": 75.1191
     },
     {
       "label": "Full Set Bid",
-      "value": "39.1 ETH",
-      "raw": 39.13,
-      "delta": -0.9099999999999966,
-      "delta_fmt": "-0.91 ETH"
+      "value": "40.0 ETH",
+      "raw": 40.02,
+      "delta": 0.8900000000000006,
+      "delta_fmt": "+0.89 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,7 +171,9 @@
     {
       "label": "#1 0xCuttlefish",
       "value": "51.3M TDH",
-      "raw": 51290322
+      "raw": 51290392,
+      "delta": 70,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 100series",
@@ -311,7 +313,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
