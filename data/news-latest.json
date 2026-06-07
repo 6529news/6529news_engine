@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T23:09:19.297416+00:00",
+  "generated_at": "2026-06-07T23:37:57.035764+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -22,8 +22,8 @@
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/9ae95aa7-4ee5-4b83-bdde-6113a3533f3f/1939-Launch.gif",
-        "label": "1939 - 0xCuttlefish",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5edef420-5bdf-4fbd-b2b1-872b2eda9414/8a2a3d72-03d6-4c42-b428-110be8b9a90c/I-Still-Do.png",
+        "label": "I Still Do - 100series",
         "type": "image"
       },
       "dataBoxes": [
@@ -62,27 +62,27 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
-          "label": "GarryB1rd (2.6M)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_43ff56b8-7e3f-41a5-b763-a6dff15a061b/9335f336-90ed-405b-90c3-2ca743202036/Untitled-Artwork-157-2.gif",
+          "label": "Hoizon (3.6M)",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2462ef1c-96c2-4218-9196-6500011d0ba9/57c2cadd-e26b-4752-ba90-2e02a91b46a0/SYSTEM-FAILURE.mp4",
-          "label": "apocalypse (1.4M)",
-          "type": "video"
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
+          "label": "GarryB1rd (2.6M)",
+          "type": "image"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -132,7 +132,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0153",
+          "value": "0.015312",
           "sub": "ETH"
         }
       ]
@@ -159,9 +159,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.2 ETH",
-      "raw": 40.21,
-      "delta": -0.060000000000002274,
-      "delta_fmt": "-0.06 ETH"
+      "raw": 40.22,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -311,7 +311,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
