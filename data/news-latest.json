@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T02:24:39.327565+00:00",
+  "generated_at": "2026-06-08T03:47:30.207966+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Giopetto (22.3M) | Hoizon (3.6M) | GarryB1rd (2.6M) | apocalypse (1.4M).",
+      "summary": "4 submissions this week. Ranking: Giopetto (22.3M) | Hoizon (3.6M) | GarryB1rd (2.6M) | apocalypse (1.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -68,7 +68,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2462ef1c-96c2-4218-9196-6500011d0ba9/57c2cadd-e26b-4752-ba90-2e02a91b46a0/SYSTEM-FAILURE.mp4",
-          "label": "apocalypse (1.4M)",
+          "label": "apocalypse (1.5M)",
           "type": "video"
         }
       ],
@@ -76,33 +76,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
       "headline": "23 Sales Today - 1.70 ETH Volume",
-      "summary": "23 sales in 24h for 1.70 ETH. Highest: \"WE THE CYPHERPUNKS\" at 0.620 ETH.",
+      "summary": "23 sales in 24h for 1.70 ETH. Highest: \"AUTONOMY.EXE\" at 0.130 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/253.GIF",
-        "label": "WE THE CYPHERPUNKS - 0.620 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+        "label": "AUTONOMY.EXE - 0.130 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/253.GIF",
-          "label": "WE THE CYPHERPUNKS - 0.620 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
           "label": "AUTONOMY.EXE - 0.130 ETH",
@@ -111,6 +106,11 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/322.WEBP",
           "label": "Digital Realm - 0.100 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/505.GIF",
+          "label": "Freedom To Ascend - 0.099 ETH",
           "type": "image"
         }
       ],
@@ -127,8 +127,8 @@
         },
         {
           "label": "Top Sale",
-          "value": "0.620",
-          "sub": "WE THE CYPHERPUNKS"
+          "value": "0.130",
+          "sub": "AUTONOMY.EXE"
         },
         {
           "label": "Floor",
@@ -159,9 +159,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.3 ETH",
-      "raw": 39.33,
-      "delta": -0.010000000000005116,
-      "delta_fmt": "-0.01 ETH"
+      "raw": 39.34,
+      "delta": 0.010000000000005116,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,7 +171,9 @@
     {
       "label": "#1 0xCuttlefish",
       "value": "53.9M TDH",
-      "raw": 53893687
+      "raw": 53893910,
+      "delta": 223,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 100series",
@@ -311,7 +313,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
