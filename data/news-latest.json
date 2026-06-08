@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T17:15:59.040961+00:00",
+  "generated_at": "2026-06-08T18:01:07.477336+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "100series Leads with 46.4M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (46.4M projected TDH, 54 voters) | \"The Collective Synapse\" by elnaz555 (33.9M projected TDH, 72 voters) | \"Conviction Cosplayer \" by EdBalloon (24.5M projected TDH, 48 voters) Next selection: Wed Jun 10 at 17:00 CET.",
+      "summary": "\"I Still Do\" by 100series (46.4M projected TDH, 54 voters) | \"The Collective Synapse\" by elnaz555 (33.9M projected TDH, 72 voters) | \"HAPPY BIRTHDAY\" by Giopetto (31.3M projected TDH, 24 voters) Next selection: Wed Jun 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -51,29 +51,24 @@
           "sub": "proj. (72 votes)"
         },
         {
-          "label": "EdBalloon",
-          "value": "24.5M",
-          "sub": "proj. (48 votes)"
+          "label": "Giopetto",
+          "value": "31.3M",
+          "sub": "proj. (24 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Giopetto (23.8M) | GarryB1rd (2.6M) | apocalypse (1.5M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: GarryB1rd (2.6M) | apocalypse (1.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
-        "label": "Giopetto (23.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
+        "label": "GarryB1rd (2.6M)",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
-          "label": "Giopetto (23.8M)",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
           "label": "GarryB1rd (2.6M)",
@@ -89,13 +84,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -171,10 +166,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.1 ETH",
-      "raw": 40.14,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "38.2 ETH",
+      "raw": 38.24,
+      "delta": -1.8999999999999986,
+      "delta_fmt": "-1.90 ETH"
     },
     {
       "label": "Network TDH",
@@ -324,7 +319,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 118 MINTS (EXCL. MUSEUM) | 83 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 121 MINTS (EXCL. MUSEUM) | 84 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
