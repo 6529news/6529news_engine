@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T22:17:08.668500+00:00",
+  "generated_at": "2026-06-08T23:00:35.126008+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Chill n\u2019 Free\" by Josei \u2014 58.3M TDH from 56 voters. Top supporter: gpebbles (18.7M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Chill n\u2019 Free\" by Josei \u2014 58.3M TDH from 56 voters. Top supporter: gpebbles (18.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "100series Leads with 48.4M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (48.4M projected TDH, 55 voters) | \"The Collective Synapse\" by elnaz555 (33.9M projected TDH, 72 voters) | \"HAPPY BIRTHDAY\" by Giopetto (31.7M projected TDH, 26 voters) Next selection: Wed Jun 10 at 17:00 CET.",
+      "headline": "100series Leads with 48.5M Projected TDH",
+      "summary": "\"I Still Do\" by 100series (48.5M projected TDH, 56 voters) | \"The Collective Synapse\" by elnaz555 (33.9M projected TDH, 72 voters) | \"HAPPY BIRTHDAY\" by Giopetto (31.7M projected TDH, 27 voters) Next selection: Wed Jun 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "100series",
-          "value": "48.4M",
-          "sub": "proj. (55 votes)"
+          "value": "48.5M",
+          "sub": "proj. (56 votes)"
         },
         {
           "label": "elnaz555",
@@ -53,7 +53,7 @@
         {
           "label": "Giopetto",
           "value": "31.7M",
-          "sub": "proj. (26 votes)"
+          "sub": "proj. (27 votes)"
         }
       ]
     },
@@ -94,15 +94,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 2.06 ETH Volume",
-      "summary": "25 sales in 24h for 2.06 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "30 Sales Today - 2.36 ETH Volume",
+      "summary": "30 sales in 24h for 2.36 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "30",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.06",
+          "value": "2.36",
           "sub": "ETH"
         },
         {
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.06 ETH",
-      "raw": 2.058,
-      "delta": 0.5167999999999999,
-      "delta_fmt": "+33.5%"
+      "value": "2.36 ETH",
+      "raw": 2.3552,
+      "delta": 0.7686999999999999,
+      "delta_fmt": "+48.5%"
     },
     {
       "label": "7d Vol",
-      "value": "12.56 ETH",
-      "raw": 12.5565
+      "value": "12.85 ETH",
+      "raw": 12.8537
     },
     {
       "label": "30d Vol",
-      "value": "75.62 ETH",
-      "raw": 75.617
+      "value": "75.91 ETH",
+      "raw": 75.9143
     },
     {
       "label": "Full Set Bid",
       "value": "38.2 ETH",
-      "raw": 38.23,
-      "delta": 0.03999999999999915,
-      "delta_fmt": "+0.04 ETH"
+      "raw": 38.17,
+      "delta": -0.05999999999999517,
+      "delta_fmt": "-0.06 ETH"
     },
     {
       "label": "Network TDH",
@@ -183,8 +183,10 @@
     },
     {
       "label": "#1 100series",
-      "value": "48.4M TDH",
-      "raw": 48404475
+      "value": "48.5M TDH",
+      "raw": 48454475,
+      "delta": 50000,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 0xCuttlefish",
@@ -324,7 +326,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 125 MINTS (EXCL. MUSEUM) | 88 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 126 MINTS (EXCL. MUSEUM) | 89 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
