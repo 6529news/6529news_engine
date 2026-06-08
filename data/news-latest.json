@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T18:01:07.477336+00:00",
+  "generated_at": "2026-06-08T19:05:09.219532+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -59,16 +59,21 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: GarryB1rd (2.6M) | apocalypse (1.5M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: MemeFoundry (8.5M) | GarryB1rd (2.6M) | apocalypse (1.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
-        "label": "GarryB1rd (2.6M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
+        "label": "MemeFoundry (8.5M)",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
+          "label": "MemeFoundry (8.5M)",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
           "label": "GarryB1rd (2.6M)",
@@ -84,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 1.94 ETH Volume",
-      "summary": "25 sales in 24h for 1.94 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "27 Sales Today - 2.08 ETH Volume",
+      "summary": "27 sales in 24h for 2.08 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "27",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.94",
+          "value": "2.08",
           "sub": "ETH"
         },
         {
@@ -149,27 +154,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.94 ETH",
-      "raw": 1.9368,
-      "delta": 0.30310000000000015,
-      "delta_fmt": "+18.6%"
+      "value": "2.08 ETH",
+      "raw": 2.0837,
+      "delta": 0.6652999999999998,
+      "delta_fmt": "+46.9%"
     },
     {
       "label": "7d Vol",
-      "value": "12.47 ETH",
-      "raw": 12.4732
+      "value": "12.27 ETH",
+      "raw": 12.2714
     },
     {
       "label": "30d Vol",
-      "value": "75.19 ETH",
-      "raw": 75.185
+      "value": "75.33 ETH",
+      "raw": 75.3319
     },
     {
       "label": "Full Set Bid",
       "value": "38.2 ETH",
-      "raw": 38.24,
-      "delta": -1.8999999999999986,
-      "delta_fmt": "-1.90 ETH"
+      "raw": 38.24
     },
     {
       "label": "Network TDH",
@@ -319,7 +322,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 121 MINTS (EXCL. MUSEUM) | 84 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 123 MINTS (EXCL. MUSEUM) | 86 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
