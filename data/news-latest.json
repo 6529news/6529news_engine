@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T14:09:36.625829+00:00",
+  "generated_at": "2026-06-08T15:26:41.939754+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "0xCuttlefish Leads with 54.2M Projected TDH",
-      "summary": "\"1939\" by 0xCuttlefish (54.2M projected TDH, 59 voters) | \"I Still Do\" by 100series (46.0M projected TDH, 53 voters) | \"The Collective Synapse\" by elnaz555 (32.8M projected TDH, 70 voters) Next selection: Mon Jun 08 at 17:00 CET.",
+      "summary": "\"1939\" by 0xCuttlefish (54.2M projected TDH, 61 voters) | \"I Still Do\" by 100series (46.0M projected TDH, 54 voters) | \"The Collective Synapse\" by elnaz555 (32.8M projected TDH, 70 voters) Next selection: Mon Jun 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "0xCuttlefish",
           "value": "54.2M",
-          "sub": "proj. (59 votes)"
+          "sub": "proj. (61 votes)"
         },
         {
           "label": "100series",
           "value": "46.0M",
-          "sub": "proj. (53 votes)"
+          "sub": "proj. (54 votes)"
         },
         {
           "label": "elnaz555",
@@ -46,8 +46,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Giopetto (22.5M) | Hoizon (3.6M) | GarryB1rd (2.6M) | apocalypse (1.5M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: Giopetto (22.5M) | GarryB1rd (2.6M) | apocalypse (1.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -158,10 +158,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.3 ETH",
-      "raw": 40.27,
-      "delta": 1.8300000000000054,
-      "delta_fmt": "+1.83 ETH"
+      "value": "40.2 ETH",
+      "raw": 40.23,
+      "delta": -0.04000000000000625,
+      "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,8 +171,8 @@
     {
       "label": "#1 0xCuttlefish",
       "value": "54.2M TDH",
-      "raw": 54198307,
-      "delta": 1589,
+      "raw": 54200056,
+      "delta": 1749,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -313,7 +313,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 113 MINTS (EXCL. MUSEUM) | 79 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 114 MINTS (EXCL. MUSEUM) | 80 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
