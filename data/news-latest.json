@@ -1,141 +1,42 @@
 {
-  "generated_at": "2026-06-08T19:56:58.945578+00:00",
+  "generated_at": "2026-06-08T21:10:37.102491+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
       "category": "MINTING TODAY",
       "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Chill n\u2019 Free\" by Josei \u2014 58.3M TDH from 56 voters. Top supporter: gpebbles (18.7M TDH).",
+      "summary": "A new Meme Card is being minted today!",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/506.PNG",
-        "label": "Chill n\u2019 Free - Josei",
-        "type": "image"
-      },
+      "image": null,
       "dataBoxes": null
     },
     {
       "category": "MINTING WEDNESDAY",
       "headline": "Minting Wednesday",
-      "summary": " \"1939\" by 0xCuttlefish \u2014 54.2M TDH from 61 voters. Top supporter: gpebbles (19.5M TDH).",
+      "summary": "Next card to be minted.",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/9ae95aa7-4ee5-4b83-bdde-6113a3533f3f/1939-Launch.gif",
-        "label": "1939 - 0xCuttlefish",
-        "type": "image"
-      },
+      "image": null,
       "dataBoxes": null
-    },
-    {
-      "category": "TOP MEMES",
-      "headline": "100series Leads with 46.4M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (46.4M projected TDH, 54 voters) | \"The Collective Synapse\" by elnaz555 (33.9M projected TDH, 72 voters) | \"HAPPY BIRTHDAY\" by Giopetto (31.3M projected TDH, 25 voters) Next selection: Wed Jun 10 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5edef420-5bdf-4fbd-b2b1-872b2eda9414/8a2a3d72-03d6-4c42-b428-110be8b9a90c/I-Still-Do.png",
-        "label": "I Still Do - 100series",
-        "type": "image"
-      },
-      "dataBoxes": [
-        {
-          "label": "100series",
-          "value": "46.4M",
-          "sub": "proj. (54 votes)"
-        },
-        {
-          "label": "elnaz555",
-          "value": "33.9M",
-          "sub": "proj. (72 votes)"
-        },
-        {
-          "label": "Giopetto",
-          "value": "31.3M",
-          "sub": "proj. (25 votes)"
-        }
-      ]
-    },
-    {
-      "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: MemeFoundry (8.5M) | GarryB1rd (2.6M) | apocalypse (1.5M).",
-      "source": "Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
-        "label": "MemeFoundry (8.5M)",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
-          "label": "MemeFoundry (8.5M)",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
-          "label": "GarryB1rd (2.6M)",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2462ef1c-96c2-4218-9196-6500011d0ba9/57c2cadd-e26b-4752-ba90-2e02a91b46a0/SYSTEM-FAILURE.mp4",
-          "label": "apocalypse (1.5M)",
-          "type": "video"
-        }
-      ],
-      "dataBoxes": null
-    },
-    {
-      "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
-      "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
-      "source": "SuperRare x 6529",
-      "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
-        "type": "image"
-      }
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 2.12 ETH Volume",
-      "summary": "28 sales in 24h for 2.12 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "26 Sales Today - 2.05 ETH Volume",
+      "summary": "26 sales in 24h for 2.05 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-        "label": "SeizeJPGs - 0.206 ETH",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.206 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/439.WEBP",
-          "label": "What's Ded May Never Die - 0.121 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-          "label": "UncleSeize - 0.120 ETH",
-          "type": "image"
-        }
-      ],
+      "image": null,
+      "images": [],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "28",
+          "value": "26",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.12",
+          "value": "2.05",
           "sub": "ETH"
         },
         {
@@ -154,20 +55,20 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.12 ETH",
-      "raw": 2.1197,
-      "delta": 0.7012999999999998,
-      "delta_fmt": "+49.4%"
+      "value": "2.05 ETH",
+      "raw": 2.0472,
+      "delta": 0.5680000000000001,
+      "delta_fmt": "+38.4%"
     },
     {
       "label": "7d Vol",
-      "value": "12.31 ETH",
-      "raw": 12.3074
+      "value": "12.40 ETH",
+      "raw": 12.4004
     },
     {
       "label": "30d Vol",
-      "value": "75.37 ETH",
-      "raw": 75.3679
+      "value": "75.46 ETH",
+      "raw": 75.4609
     },
     {
       "label": "Full Set Bid",
@@ -323,8 +224,7 @@
     }
   ],
   "headline_extras": [
-    "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 123 MINTS (EXCL. MUSEUM) | 86 HOLDERS | CHILL N\u2019 FREE",
+    "PUNK6529 LAST SEEN: (data unavailable)",
     "DIVE BAR: 0 MSGS IN LAST 6H"
   ]
 }
