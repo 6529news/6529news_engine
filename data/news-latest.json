@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T23:37:57.035764+00:00",
+  "generated_at": "2026-06-08T00:09:21.058727+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -22,8 +22,8 @@
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5edef420-5bdf-4fbd-b2b1-872b2eda9414/8a2a3d72-03d6-4c42-b428-110be8b9a90c/I-Still-Do.png",
-        "label": "I Still Do - 100series",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/9ae95aa7-4ee5-4b83-bdde-6113a3533f3f/1939-Launch.gif",
+        "label": "1939 - 0xCuttlefish",
         "type": "image"
       },
       "dataBoxes": [
@@ -62,27 +62,27 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_43ff56b8-7e3f-41a5-b763-a6dff15a061b/9335f336-90ed-405b-90c3-2ca743202036/Untitled-Artwork-157-2.gif",
-          "label": "Hoizon (3.6M)",
-          "type": "image"
-        },
-        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
           "label": "GarryB1rd (2.6M)",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2462ef1c-96c2-4218-9196-6500011d0ba9/57c2cadd-e26b-4752-ba90-2e02a91b46a0/SYSTEM-FAILURE.mp4",
+          "label": "apocalypse (1.4M)",
+          "type": "video"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -132,7 +132,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015312",
+          "value": "0.0153",
           "sub": "ETH"
         }
       ]
@@ -143,25 +143,25 @@
       "label": "24h Vol",
       "value": "1.59 ETH",
       "raw": 1.5865,
-      "delta": 0.2874000000000001,
-      "delta_fmt": "+22.1%"
+      "delta": 0.1874,
+      "delta_fmt": "+13.4%"
     },
     {
       "label": "7d Vol",
-      "value": "12.73 ETH",
-      "raw": 12.7327
+      "value": "12.25 ETH",
+      "raw": 12.2456
     },
     {
       "label": "30d Vol",
-      "value": "75.94 ETH",
-      "raw": 75.9387
+      "value": "73.56 ETH",
+      "raw": 73.559
     },
     {
       "label": "Full Set Bid",
-      "value": "40.2 ETH",
-      "raw": 40.22,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "39.4 ETH",
+      "raw": 39.35,
+      "delta": -0.8699999999999974,
+      "delta_fmt": "-0.87 ETH"
     },
     {
       "label": "Network TDH",
@@ -311,7 +311,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
