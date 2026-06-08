@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T01:26:15.499645+00:00",
+  "generated_at": "2026-06-08T02:24:39.327565+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -159,23 +159,19 @@
     {
       "label": "Full Set Bid",
       "value": "39.3 ETH",
-      "raw": 39.34,
-      "delta": -0.00999999999999801,
+      "raw": 39.33,
+      "delta": -0.010000000000005116,
       "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1661.4M",
-      "raw": 1661398825,
-      "delta": 2602015,
-      "delta_fmt": "+2.6M TDH"
+      "raw": 1661398825
     },
     {
       "label": "#1 0xCuttlefish",
       "value": "53.9M TDH",
-      "raw": 53893687,
-      "delta": 6071,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 53893687
     },
     {
       "label": "#1 100series",
@@ -315,7 +311,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #505: 141 MINTS (EXCL. MUSEUM) | 93 HOLDERS | FREEDOM TO ASCEND"
   ]
 }
