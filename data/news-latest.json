@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T10:47:40.319994+00:00",
+  "generated_at": "2026-06-09T12:02:39.459364+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -101,8 +101,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "42 Sales Today - 2.91 ETH Volume",
-      "summary": "42 sales in 24h for 2.91 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "43 Sales Today - 3.12 ETH Volume",
+      "summary": "43 sales in 24h for 3.12 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "42",
+          "value": "43",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.91",
+          "value": "3.12",
           "sub": "ETH"
         },
         {
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.91 ETH",
-      "raw": 2.9119,
-      "delta": 2.1964,
-      "delta_fmt": "+307.0%"
+      "value": "3.12 ETH",
+      "raw": 3.1179,
+      "delta": 2.3324000000000003,
+      "delta_fmt": "+296.9%"
     },
     {
       "label": "7d Vol",
-      "value": "13.08 ETH",
-      "raw": 13.0848
+      "value": "13.29 ETH",
+      "raw": 13.2908
     },
     {
       "label": "30d Vol",
-      "value": "73.11 ETH",
-      "raw": 73.1134
+      "value": "73.32 ETH",
+      "raw": 73.3194
     },
     {
       "label": "Full Set Bid",
       "value": "39.4 ETH",
-      "raw": 39.43,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 39.41,
+      "delta": -0.020000000000003126,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -324,7 +324,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 129 MINTS (EXCL. MUSEUM) | 91 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 129 MINTS (EXCL. MUSEUM) | 91 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
