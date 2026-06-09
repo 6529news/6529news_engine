@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T21:10:42.472908+00:00",
+  "generated_at": "2026-06-09T21:53:38.207859+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -64,21 +64,16 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: MemeFoundry (4.8M) | GarryB1rd (2.6M) | apocalypse (1.5M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: GarryB1rd (2.6M) | apocalypse (1.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
-        "label": "MemeFoundry (4.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
+        "label": "GarryB1rd (2.6M)",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
-          "label": "MemeFoundry (4.8M)",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
           "label": "GarryB1rd (2.6M)",
@@ -106,8 +101,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "32 Sales Today - 1.81 ETH Volume",
-      "summary": "32 sales in 24h for 1.81 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "33 Sales Today - 1.85 ETH Volume",
+      "summary": "33 sales in 24h for 1.85 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -122,25 +117,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
-          "label": "rekt6529 - 0.139 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/32.WEBP",
+          "label": "You Can't Touch This - 0.111 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/32.WEBP",
-          "label": "You Can't Touch This - 0.111 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/475.WEBP",
+          "label": "Cogito, ergo sum - 0.079 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "32",
+          "value": "33",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.81",
+          "value": "1.85",
           "sub": "ETH"
         },
         {
@@ -159,27 +154,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.81 ETH",
-      "raw": 1.8119,
-      "delta": -0.23530000000000006,
-      "delta_fmt": "-11.5%"
+      "value": "1.85 ETH",
+      "raw": 1.8549,
+      "delta": -0.34840000000000004,
+      "delta_fmt": "-15.8%"
     },
     {
       "label": "7d Vol",
-      "value": "13.56 ETH",
-      "raw": 13.5594
+      "value": "13.60 ETH",
+      "raw": 13.6024
     },
     {
       "label": "30d Vol",
-      "value": "73.86 ETH",
-      "raw": 73.8554
+      "value": "73.90 ETH",
+      "raw": 73.8984
     },
     {
       "label": "Full Set Bid",
       "value": "39.7 ETH",
-      "raw": 39.66,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 39.66
     },
     {
       "label": "Network TDH",
@@ -189,9 +182,7 @@
     {
       "label": "#1 100series",
       "value": "68.8M TDH",
-      "raw": 68762444,
-      "delta": 2994,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 68762444
     },
     {
       "label": "#1 0xCuttlefish",
@@ -331,7 +322,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 96 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 96 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
