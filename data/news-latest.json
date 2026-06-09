@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T15:34:02.694080+00:00",
+  "generated_at": "2026-06-09T16:37:03.722474+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -65,18 +65,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Giopetto (27.3M) | MemeFoundry (4.8M) | GarryB1rd (2.6M) | apocalypse (1.5M).",
+      "summary": "4 submissions this week. Ranking: Giopetto (28.1M) | MemeFoundry (4.8M) | GarryB1rd (2.6M) | apocalypse (1.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
-        "label": "Giopetto (27.3M)",
+        "label": "Giopetto (28.1M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
-          "label": "Giopetto (27.3M)",
+          "label": "Giopetto (28.1M)",
           "type": "image"
         },
         {
@@ -94,20 +94,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "32 Sales Today - 1.86 ETH Volume",
-      "summary": "32 sales in 24h for 1.86 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "32 Sales Today - 1.85 ETH Volume",
+      "summary": "32 sales in 24h for 1.85 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.86",
+          "value": "1.85",
           "sub": "ETH"
         },
         {
@@ -159,25 +159,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.86 ETH",
-      "raw": 1.8555,
-      "delta": 0.03069999999999995,
-      "delta_fmt": "+1.7%"
+      "value": "1.85 ETH",
+      "raw": 1.8539,
+      "delta": 0.029100000000000126,
+      "delta_fmt": "+1.6%"
     },
     {
       "label": "7d Vol",
-      "value": "13.28 ETH",
-      "raw": 13.2768
+      "value": "13.27 ETH",
+      "raw": 13.2656
     },
     {
       "label": "30d Vol",
-      "value": "73.45 ETH",
-      "raw": 73.4513
+      "value": "73.39 ETH",
+      "raw": 73.3894
     },
     {
       "label": "Full Set Bid",
-      "value": "39.5 ETH",
-      "raw": 39.45
+      "value": "39.6 ETH",
+      "raw": 39.58,
+      "delta": 0.12999999999999545,
+      "delta_fmt": "+0.13 ETH"
     },
     {
       "label": "Network TDH",
@@ -187,7 +189,9 @@
     {
       "label": "#1 100series",
       "value": "66.3M TDH",
-      "raw": 66302449
+      "raw": 66302680,
+      "delta": 231,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 0xCuttlefish",
@@ -327,7 +331,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
