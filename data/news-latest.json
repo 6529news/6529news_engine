@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T08:15:21.319244+00:00",
+  "generated_at": "2026-06-09T09:33:00.264007+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "100series Leads with 48.9M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (48.9M projected TDH, 56 voters) | \"The Collective Synapse\" by elnaz555 (33.9M projected TDH, 72 voters) | \"HAPPY BIRTHDAY\" by Giopetto (31.8M projected TDH, 28 voters) Next selection: Wed Jun 10 at 17:00 CET.",
+      "summary": "\"I Still Do\" by 100series (48.9M projected TDH, 56 voters) | \"The Collective Synapse\" by elnaz555 (33.9M projected TDH, 72 voters) | \"HAPPY BIRTHDAY\" by Giopetto (31.8M projected TDH, 29 voters) Next selection: Wed Jun 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -53,7 +53,7 @@
         {
           "label": "Giopetto",
           "value": "31.8M",
-          "sub": "proj. (28 votes)"
+          "sub": "proj. (29 votes)"
         }
       ]
     },
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "37 Sales Today - 2.80 ETH Volume",
-      "summary": "37 sales in 24h for 2.80 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "36 Sales Today - 2.73 ETH Volume",
+      "summary": "36 sales in 24h for 2.73 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "37",
+          "value": "36",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.80",
+          "value": "2.73",
           "sub": "ETH"
         },
         {
@@ -154,10 +154,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.80 ETH",
-      "raw": 2.7959,
-      "delta": 1.9904000000000002,
-      "delta_fmt": "+247.1%"
+      "value": "2.73 ETH",
+      "raw": 2.7259,
+      "delta": 1.9204000000000003,
+      "delta_fmt": "+238.4%"
     },
     {
       "label": "7d Vol",
@@ -171,10 +171,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.5 ETH",
-      "raw": 39.53,
-      "delta": -0.6299999999999955,
-      "delta_fmt": "-0.63 ETH"
+      "value": "39.4 ETH",
+      "raw": 39.42,
+      "delta": -0.10999999999999943,
+      "delta_fmt": "-0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -324,7 +324,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 129 MINTS (EXCL. MUSEUM) | 91 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 129 MINTS (EXCL. MUSEUM) | 91 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
