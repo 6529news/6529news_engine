@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-06-09T14:22:29.949145+00:00",
+  "generated_at": "2026-06-09T15:34:02.694080+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Chill n\u2019 Free\" by Josei \u2014 58.3M TDH from 56 voters. Top supporter: gpebbles (18.7M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/506.PNG",
-        "label": "Chill n\u2019 Free - Josei",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING WEDNESDAY",
       "headline": "Minting Wednesday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "100series Leads with 66.3M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (66.3M projected TDH, 57 voters) | \"The Collective Synapse\" by elnaz555 (33.9M projected TDH, 73 voters) | \"HAPPY BIRTHDAY\" by Giopetto (31.8M projected TDH, 32 voters) Next selection: Wed Jun 10 at 17:00 CET.",
+      "summary": "\"I Still Do\" by 100series (66.3M projected TDH, 57 voters) | \"The Collective Synapse\" by elnaz555 (42.2M projected TDH, 74 voters) | \"Conviction Cosplayer \" by EdBalloon (29.6M projected TDH, 49 voters) Next selection: Wed Jun 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,13 +34,13 @@
         },
         {
           "label": "elnaz555",
-          "value": "33.9M",
-          "sub": "proj. (73 votes)"
+          "value": "42.2M",
+          "sub": "proj. (74 votes)"
         },
         {
-          "label": "Giopetto",
-          "value": "31.8M",
-          "sub": "proj. (32 votes)"
+          "label": "EdBalloon",
+          "value": "29.6M",
+          "sub": "proj. (49 votes)"
         }
       ]
     },
@@ -77,50 +64,50 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: MemeFoundry (8.5M) | GarryB1rd (2.6M) | apocalypse (1.5M).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: Giopetto (27.3M) | MemeFoundry (4.8M) | GarryB1rd (2.6M) | apocalypse (1.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
-        "label": "MemeFoundry (8.5M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
+        "label": "Giopetto (27.3M)",
         "type": "image"
       },
       "images": [
         {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7fbb2a72-dc41-429d-9169-477e0b8b8814/3b00fae8-ab69-4bd1-a80e-4b999317963e/4th-ann.png",
+          "label": "Giopetto (27.3M)",
+          "type": "image"
+        },
+        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_18f428aa-44bf-4087-9f74-bbea5e54c984/8a0bdb41-a148-4fb5-8903-e35d81d7997a/weth-d.jpeg",
-          "label": "MemeFoundry (8.5M)",
+          "label": "MemeFoundry (4.8M)",
           "type": "image"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/e0417823-298f-4954-b2d5-79c71d9d16a5/S-C.jpg",
           "label": "GarryB1rd (2.6M)",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2462ef1c-96c2-4218-9196-6500011d0ba9/57c2cadd-e26b-4752-ba90-2e02a91b46a0/SYSTEM-FAILURE.mp4",
-          "label": "apocalypse (1.5M)",
-          "type": "video"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "31 Sales Today - 1.78 ETH Volume",
-      "summary": "31 sales in 24h for 1.78 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "32 Sales Today - 1.86 ETH Volume",
+      "summary": "32 sales in 24h for 1.86 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -148,12 +135,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "31",
+          "value": "32",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.78",
+          "value": "1.86",
           "sub": "ETH"
         },
         {
@@ -172,27 +159,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.78 ETH",
-      "raw": 1.7839,
-      "delta": -0.040899999999999936,
-      "delta_fmt": "-2.2%"
+      "value": "1.86 ETH",
+      "raw": 1.8555,
+      "delta": 0.03069999999999995,
+      "delta_fmt": "+1.7%"
     },
     {
       "label": "7d Vol",
-      "value": "13.20 ETH",
-      "raw": 13.1956
+      "value": "13.28 ETH",
+      "raw": 13.2768
     },
     {
       "label": "30d Vol",
-      "value": "73.32 ETH",
-      "raw": 73.3194
+      "value": "73.45 ETH",
+      "raw": 73.4513
     },
     {
       "label": "Full Set Bid",
-      "value": "39.4 ETH",
-      "raw": 39.45,
-      "delta": 0.030000000000001137,
-      "delta_fmt": "+0.03 ETH"
+      "value": "39.5 ETH",
+      "raw": 39.45
     },
     {
       "label": "Network TDH",
@@ -202,9 +187,7 @@
     {
       "label": "#1 100series",
       "value": "66.3M TDH",
-      "raw": 66302449,
-      "delta": 17405959,
-      "delta_fmt": "+17.4M TDH"
+      "raw": 66302449
     },
     {
       "label": "#1 0xCuttlefish",
