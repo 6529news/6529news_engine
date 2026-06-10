@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T11:02:57.782865+00:00",
+  "generated_at": "2026-06-10T12:24:23.581473+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -89,31 +89,31 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#12 aoifeodwyer \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
-        "label": "aoifeodwyer (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.45 ETH Volume",
-      "summary": "23 sales in 24h for 1.45 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "25 Sales Today - 1.58 ETH Volume",
+      "summary": "25 sales in 24h for 1.58 ETH. Highest: \"SeizeJPGs\" at 0.204 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-        "label": "SeizeJPGs - 0.206 ETH",
+        "label": "SeizeJPGs - 0.204 ETH",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.206 ETH",
+          "label": "SeizeJPGs - 0.204 ETH",
           "type": "image"
         },
         {
@@ -122,25 +122,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
-          "label": "Pepe X - 0.119 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+          "label": "< no, really [ this ] is going to be our year > - 0.145 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "25",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.45",
+          "value": "1.58",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.206",
+          "value": "0.204",
           "sub": "SeizeJPGs"
         },
         {
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.45 ETH",
-      "raw": 1.4468,
-      "delta": -1.4651,
-      "delta_fmt": "-50.3%"
+      "value": "1.58 ETH",
+      "raw": 1.5789,
+      "delta": -1.5390000000000001,
+      "delta_fmt": "-49.4%"
     },
     {
       "label": "7d Vol",
-      "value": "12.89 ETH",
-      "raw": 12.8901
+      "value": "13.11 ETH",
+      "raw": 13.1061
     },
     {
       "label": "30d Vol",
-      "value": "68.26 ETH",
-      "raw": 68.2577
+      "value": "68.60 ETH",
+      "raw": 68.5958
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.88,
-      "delta": -0.10999999999999943,
-      "delta_fmt": "-0.11 ETH"
+      "value": "40.8 ETH",
+      "raw": 40.79,
+      "delta": -0.09000000000000341,
+      "delta_fmt": "-0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,9 +184,7 @@
     {
       "label": "#1 100series",
       "value": "68.8M TDH",
-      "raw": 68816260,
-      "delta": 18636,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 68816260
     },
     {
       "label": "#1 0xCuttlefish",
@@ -326,7 +324,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #507: 114 MINTS (EXCL. MUSEUM) | 80 HOLDERS | 1939",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #507: 114 MINTS (EXCL. MUSEUM) | 80 HOLDERS | 1939"
   ]
 }
