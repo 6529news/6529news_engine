@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T17:37:25.272549+00:00",
+  "generated_at": "2026-06-10T18:37:17.737163+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "elnaz555 Leads with 56.8M Projected TDH",
-      "summary": "\"The Collective Synapse\" by elnaz555 (56.8M projected TDH, 76 voters) | \"Sir, A Needle\" by Hoizon (31.5M projected TDH, 37 voters) | \"Conviction Cosplayer \" by EdBalloon (29.7M projected TDH, 52 voters) Next selection: Fri Jun 12 at 17:00 CET.",
+      "summary": "\"The Collective Synapse\" by elnaz555 (56.8M projected TDH, 76 voters) | \"Sir, A Needle\" by Hoizon (31.6M projected TDH, 37 voters) | \"Conviction Cosplayer \" by EdBalloon (29.7M projected TDH, 52 voters) Next selection: Fri Jun 12 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,7 +47,7 @@
         },
         {
           "label": "Hoizon",
-          "value": "31.5M",
+          "value": "31.6M",
           "sub": "proj. (37 votes)"
         },
         {
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "30 Sales Today - 2.11 ETH Volume",
-      "summary": "30 sales in 24h for 2.11 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.400 ETH.",
+      "headline": "29 Sales Today - 2.09 ETH Volume",
+      "summary": "29 sales in 24h for 2.09 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "30",
+          "value": "29",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.11",
+          "value": "2.09",
           "sub": "ETH"
         },
         {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0153",
+          "value": "0.01526",
           "sub": "ETH"
         }
       ]
@@ -149,15 +149,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.11 ETH",
-      "raw": 2.1053,
-      "delta": 0.1594000000000002,
-      "delta_fmt": "+8.2%"
+      "value": "2.09 ETH",
+      "raw": 2.0873,
+      "delta": 0.2529999999999999,
+      "delta_fmt": "+13.8%"
     },
     {
       "label": "7d Vol",
-      "value": "13.92 ETH",
-      "raw": 13.9237
+      "value": "13.76 ETH",
+      "raw": 13.7597
     },
     {
       "label": "30d Vol",
@@ -167,9 +167,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.7 ETH",
-      "raw": 40.7,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 40.72,
+      "delta": 0.01999999999999602,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,9 +179,9 @@
     {
       "label": "#1 elnaz555",
       "value": "56.8M TDH",
-      "raw": 56811404,
-      "delta": 696733,
-      "delta_fmt": "+0.7M TDH"
+      "raw": 56812147,
+      "delta": 743,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 100series",
@@ -328,7 +328,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #507: 137 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 1939",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #507: 137 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 1939"
   ]
 }
