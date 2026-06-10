@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T22:25:10.767805+00:00",
+  "generated_at": "2026-06-10T23:04:04.136659+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"1939\" by 0xCuttlefish \u2014 54.2M TDH from 61 voters. Top supporter: gpebbles (19.5M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"1939\" by 0xCuttlefish \u2014 54.2M TDH from 61 voters. Top supporter: gpebbles (19.5M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -166,10 +166,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.6 ETH",
-      "raw": 40.61,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "value": "40.7 ETH",
+      "raw": 40.67,
+      "delta": 0.060000000000002274,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,8 +179,8 @@
     {
       "label": "#1 elnaz555",
       "value": "59.6M TDH",
-      "raw": 59576788,
-      "delta": 13858,
+      "raw": 59578136,
+      "delta": 1348,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -328,7 +328,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #507: 138 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 1939",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #507: 138 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 1939"
   ]
 }
