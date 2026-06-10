@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T00:56:55.708073+00:00",
+  "generated_at": "2026-06-10T01:49:44.855045+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -172,23 +172,19 @@
     {
       "label": "Full Set Bid",
       "value": "39.7 ETH",
-      "raw": 39.7,
-      "delta": 0.04000000000000625,
-      "delta_fmt": "+0.04 ETH"
+      "raw": 39.71,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1666.5M",
-      "raw": 1666492005,
-      "delta": 2608204,
-      "delta_fmt": "+2.6M TDH"
+      "raw": 1666492005
     },
     {
       "label": "#1 100series",
       "value": "68.8M TDH",
-      "raw": 68769690,
-      "delta": -73,
-      "delta_fmt": "-0.0M TDH"
+      "raw": 68769690
     },
     {
       "label": "#1 0xCuttlefish",
@@ -328,7 +324,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 96 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 97 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
