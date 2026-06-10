@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T01:49:44.855045+00:00",
+  "generated_at": "2026-06-10T03:12:18.488610+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 1.11 ETH Volume",
-      "summary": "20 sales in 24h for 1.11 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "25 Sales Today - 1.32 ETH Volume",
+      "summary": "25 sales in 24h for 1.32 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,25 +117,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/280.GIF",
-          "label": "We Are Early - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/458.GIF",
+          "label": "Bat Soup gives me Wings... - 0.077 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/188.WEBP",
-          "label": "Miroir - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/280.GIF",
+          "label": "We Are Early - 0.070 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "20",
+          "value": "25",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.11",
+          "value": "1.32",
           "sub": "ETH"
         },
         {
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.11 ETH",
-      "raw": 1.1073,
-      "delta": -1.6233,
-      "delta_fmt": "-59.4%"
+      "value": "1.32 ETH",
+      "raw": 1.3165,
+      "delta": -1.4141,
+      "delta_fmt": "-51.8%"
     },
     {
       "label": "7d Vol",
-      "value": "12.56 ETH",
-      "raw": 12.5578
+      "value": "12.77 ETH",
+      "raw": 12.767
     },
     {
       "label": "30d Vol",
-      "value": "67.67 ETH",
-      "raw": 67.6669
+      "value": "67.88 ETH",
+      "raw": 67.8762
     },
     {
       "label": "Full Set Bid",
-      "value": "39.7 ETH",
-      "raw": 39.71,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "40.3 ETH",
+      "raw": 40.27,
+      "delta": 0.5600000000000023,
+      "delta_fmt": "+0.56 ETH"
     },
     {
       "label": "Network TDH",
@@ -324,7 +324,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 97 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 99 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
