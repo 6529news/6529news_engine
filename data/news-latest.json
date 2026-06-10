@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T23:04:04.136659+00:00",
+  "generated_at": "2026-06-10T23:48:29.971648+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#12 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 2.52 ETH Volume",
-      "summary": "25 sales in 24h for 2.52 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.400 ETH.",
+      "headline": "24 Sales Today - 2.49 ETH Volume",
+      "summary": "24 sales in 24h for 2.49 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.52",
+          "value": "2.49",
           "sub": "ETH"
         },
         {
@@ -149,10 +149,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.52 ETH",
-      "raw": 2.5245,
-      "delta": 0.9318000000000002,
-      "delta_fmt": "+58.5%"
+      "value": "2.49 ETH",
+      "raw": 2.4885,
+      "delta": 1.1772000000000002,
+      "delta_fmt": "+89.8%"
     },
     {
       "label": "7d Vol",
@@ -167,9 +167,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.7 ETH",
-      "raw": 40.67,
-      "delta": 0.060000000000002274,
-      "delta_fmt": "+0.06 ETH"
+      "raw": 40.68,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,8 +179,8 @@
     {
       "label": "#1 elnaz555",
       "value": "59.6M TDH",
-      "raw": 59578136,
-      "delta": 1348,
+      "raw": 59588136,
+      "delta": 10000,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -328,7 +328,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #507: 138 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 1939",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #507: 139 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 1939"
   ]
 }
