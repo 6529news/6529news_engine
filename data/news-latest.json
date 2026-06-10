@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T08:09:18.763655+00:00",
+  "generated_at": "2026-06-10T09:31:38.132243+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
@@ -156,8 +156,8 @@
       "label": "24h Vol",
       "value": "1.45 ETH",
       "raw": 1.4497,
-      "delta": -1.3462,
-      "delta_fmt": "-48.1%"
+      "delta": -1.2762000000000002,
+      "delta_fmt": "-46.8%"
     },
     {
       "label": "7d Vol",
@@ -171,9 +171,9 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.9,
-      "delta": 0.0899999999999963,
+      "value": "41.0 ETH",
+      "raw": 40.99,
+      "delta": 0.09000000000000341,
       "delta_fmt": "+0.09 ETH"
     },
     {
@@ -184,9 +184,7 @@
     {
       "label": "#1 100series",
       "value": "68.8M TDH",
-      "raw": 68797624,
-      "delta": 1271,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 68797624
     },
     {
       "label": "#1 0xCuttlefish",
@@ -326,7 +324,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 100 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 100 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
