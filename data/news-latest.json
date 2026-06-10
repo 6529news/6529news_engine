@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T09:31:38.132243+00:00",
+  "generated_at": "2026-06-10T11:02:57.782865+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/9ae95aa7-4ee5-4b83-bdde-6113a3533f3f/1939-Launch.gif",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/507.GIF",
         "label": "1939 - 0xCuttlefish",
         "type": "image"
       },
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#12 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 1.45 ETH Volume",
-      "summary": "26 sales in 24h for 1.45 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "23 Sales Today - 1.45 ETH Volume",
+      "summary": "23 sales in 24h for 1.45 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -122,15 +122,15 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/458.GIF",
-          "label": "Bat Soup gives me Wings... - 0.077 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+          "label": "Pepe X - 0.119 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "26",
+          "value": "23",
           "sub": ""
         },
         {
@@ -155,26 +155,26 @@
     {
       "label": "24h Vol",
       "value": "1.45 ETH",
-      "raw": 1.4497,
-      "delta": -1.2762000000000002,
-      "delta_fmt": "-46.8%"
+      "raw": 1.4468,
+      "delta": -1.4651,
+      "delta_fmt": "-50.3%"
     },
     {
       "label": "7d Vol",
-      "value": "12.71 ETH",
-      "raw": 12.707
+      "value": "12.89 ETH",
+      "raw": 12.8901
     },
     {
       "label": "30d Vol",
-      "value": "68.07 ETH",
-      "raw": 68.0746
+      "value": "68.26 ETH",
+      "raw": 68.2577
     },
     {
       "label": "Full Set Bid",
-      "value": "41.0 ETH",
-      "raw": 40.99,
-      "delta": 0.09000000000000341,
-      "delta_fmt": "+0.09 ETH"
+      "value": "40.9 ETH",
+      "raw": 40.88,
+      "delta": -0.10999999999999943,
+      "delta_fmt": "-0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,7 +184,9 @@
     {
       "label": "#1 100series",
       "value": "68.8M TDH",
-      "raw": 68797624
+      "raw": 68816260,
+      "delta": 18636,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 0xCuttlefish",
@@ -324,7 +326,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 100 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #507: 114 MINTS (EXCL. MUSEUM) | 80 HOLDERS | 1939"
   ]
 }
