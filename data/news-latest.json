@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T03:12:18.488610+00:00",
+  "generated_at": "2026-06-10T04:49:22.494976+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "100series Leads with 68.8M Projected TDH",
-      "summary": "\"I Still Do\" by 100series (68.8M projected TDH, 59 voters) | \"The Collective Synapse\" by elnaz555 (46.9M projected TDH, 75 voters) | \"Conviction Cosplayer \" by EdBalloon (29.6M projected TDH, 49 voters) Next selection: Wed Jun 10 at 17:00 CET.",
+      "summary": "\"I Still Do\" by 100series (68.8M projected TDH, 59 voters) | \"The Collective Synapse\" by elnaz555 (46.9M projected TDH, 75 voters) | \"Conviction Cosplayer \" by EdBalloon (29.6M projected TDH, 50 voters) Next selection: Wed Jun 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "EdBalloon",
           "value": "29.6M",
-          "sub": "proj. (49 votes)"
+          "sub": "proj. (50 votes)"
         }
       ]
     },
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 1.32 ETH Volume",
-      "summary": "25 sales in 24h for 1.32 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
+      "headline": "26 Sales Today - 1.34 ETH Volume",
+      "summary": "26 sales in 24h for 1.34 ETH. Highest: \"SeizeJPGs\" at 0.206 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "26",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.32",
+          "value": "1.34",
           "sub": "ETH"
         },
         {
@@ -154,27 +154,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.32 ETH",
-      "raw": 1.3165,
-      "delta": -1.4141,
-      "delta_fmt": "-51.8%"
+      "value": "1.34 ETH",
+      "raw": 1.335,
+      "delta": -1.3956,
+      "delta_fmt": "-51.1%"
     },
     {
       "label": "7d Vol",
-      "value": "12.77 ETH",
-      "raw": 12.767
+      "value": "12.79 ETH",
+      "raw": 12.7855
     },
     {
       "label": "30d Vol",
-      "value": "67.88 ETH",
-      "raw": 67.8762
+      "value": "67.89 ETH",
+      "raw": 67.8946
     },
     {
       "label": "Full Set Bid",
       "value": "40.3 ETH",
-      "raw": 40.27,
-      "delta": 0.5600000000000023,
-      "delta_fmt": "+0.56 ETH"
+      "raw": 40.27
     },
     {
       "label": "Network TDH",
@@ -324,7 +322,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 99 HOLDERS | CHILL N\u2019 FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #506: 134 MINTS (EXCL. MUSEUM) | 99 HOLDERS | CHILL N\u2019 FREE"
   ]
 }
