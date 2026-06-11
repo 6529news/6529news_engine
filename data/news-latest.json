@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T19:38:28.561656+00:00",
+  "generated_at": "2026-06-11T20:34:04.699969+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: apocalypse (3.6M) | fatesensation (1.8M) | underscore (1.6M).",
+      "summary": "3 submissions this week. Ranking: apocalypse (3.6M) | fatesensation (1.9M) | underscore (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#12 aoifeodwyer \u2014 0 TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
-        "label": "aoifeodwyer (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 1.24 ETH Volume",
-      "summary": "14 sales in 24h for 1.24 ETH. Highest: \"AUTONOMY.EXE\" at 0.249 ETH.",
+      "headline": "16 Sales Today - 1.33 ETH Volume",
+      "summary": "16 sales in 24h for 1.33 ETH. Highest: \"AUTONOMY.EXE\" at 0.249 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.24",
+          "value": "1.33",
           "sub": "ETH"
         },
         {
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.24 ETH",
-      "raw": 1.2425,
-      "delta": -0.8448,
-      "delta_fmt": "-40.5%"
+      "value": "1.33 ETH",
+      "raw": 1.3273,
+      "delta": -0.72,
+      "delta_fmt": "-35.2%"
     },
     {
       "label": "7d Vol",
-      "value": "13.60 ETH",
-      "raw": 13.6006
+      "value": "13.69 ETH",
+      "raw": 13.6854
     },
     {
       "label": "30d Vol",
-      "value": "63.71 ETH",
-      "raw": 63.7147
+      "value": "63.80 ETH",
+      "raw": 63.7995
     },
     {
       "label": "Full Set Bid",
-      "value": "40.6 ETH",
-      "raw": 40.56,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "40.7 ETH",
+      "raw": 40.73,
+      "delta": 0.1699999999999946,
+      "delta_fmt": "+0.17 ETH"
     },
     {
       "label": "Network TDH",
@@ -308,7 +308,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #507: 149 MINTS (EXCL. MUSEUM) | 96 HOLDERS | 1939",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #507: 149 MINTS (EXCL. MUSEUM) | 96 HOLDERS | 1939"
   ]
 }
