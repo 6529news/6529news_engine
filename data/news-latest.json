@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T23:48:29.971648+00:00",
+  "generated_at": "2026-06-11T00:56:09.189391+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "elnaz555 Leads with 59.6M Projected TDH",
-      "summary": "\"The Collective Synapse\" by elnaz555 (59.6M projected TDH, 78 voters) | \"Sir, A Needle\" by Hoizon (32.1M projected TDH, 40 voters) | \"Conviction Cosplayer \" by EdBalloon (29.8M projected TDH, 52 voters) Next selection: Fri Jun 12 at 17:00 CET.",
+      "summary": "\"The Collective Synapse\" by elnaz555 (59.6M projected TDH, 79 voters) | \"Sir, A Needle\" by Hoizon (32.1M projected TDH, 41 voters) | \"Conviction Cosplayer \" by EdBalloon (29.8M projected TDH, 52 voters) Next selection: Fri Jun 12 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,12 +43,12 @@
         {
           "label": "elnaz555",
           "value": "59.6M",
-          "sub": "proj. (78 votes)"
+          "sub": "proj. (79 votes)"
         },
         {
           "label": "Hoizon",
           "value": "32.1M",
-          "sub": "proj. (40 votes)"
+          "sub": "proj. (41 votes)"
         },
         {
           "label": "EdBalloon",
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01526",
+          "value": "0.0153",
           "sub": "ETH"
         }
       ]
@@ -151,36 +151,38 @@
       "label": "24h Vol",
       "value": "2.49 ETH",
       "raw": 2.4885,
-      "delta": 1.1772000000000002,
-      "delta_fmt": "+89.8%"
+      "delta": 1.3812000000000002,
+      "delta_fmt": "+124.7%"
     },
     {
       "label": "7d Vol",
-      "value": "14.50 ETH",
-      "raw": 14.5017
+      "value": "13.89 ETH",
+      "raw": 13.8874
     },
     {
       "label": "30d Vol",
-      "value": "70.16 ETH",
-      "raw": 70.1554
+      "value": "63.21 ETH",
+      "raw": 63.2142
     },
     {
       "label": "Full Set Bid",
-      "value": "40.7 ETH",
-      "raw": 40.68,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "40.6 ETH",
+      "raw": 40.64,
+      "delta": -0.03999999999999915,
+      "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1666.5M",
-      "raw": 1666492005
+      "value": "1669.1M",
+      "raw": 1669116036,
+      "delta": 2624031,
+      "delta_fmt": "+2.6M TDH"
     },
     {
       "label": "#1 elnaz555",
       "value": "59.6M TDH",
-      "raw": 59588136,
-      "delta": 10000,
+      "raw": 59597915,
+      "delta": 9779,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -328,7 +330,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #507: 139 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 1939",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #507: 139 MINTS (EXCL. MUSEUM) | 92 HOLDERS | 1939"
   ]
 }
