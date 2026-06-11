@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T08:22:24.975353+00:00",
+  "generated_at": "2026-06-11T09:54:47.660011+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -59,8 +59,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: apocalypse (3.6M) | GarryB1rd (2.6M) | fatesensation (1.8M).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: apocalypse (3.6M) | GarryB1rd (2.6M) | fatesensation (1.8M) | underscore (1.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -167,9 +167,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.6 ETH",
-      "raw": 40.61,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "raw": 40.6,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,9 +179,7 @@
     {
       "label": "#1 elnaz555",
       "value": "59.6M TDH",
-      "raw": 59601642,
-      "delta": 3727,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 59601642
     },
     {
       "label": "#1 100series",
@@ -328,7 +326,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #507: 140 MINTS (EXCL. MUSEUM) | 93 HOLDERS | 1939",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #507: 140 MINTS (EXCL. MUSEUM) | 93 HOLDERS | 1939"
   ]
 }
