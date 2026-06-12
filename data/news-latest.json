@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T17:57:03.622562+00:00",
+  "generated_at": "2026-06-12T18:51:19.454900+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "EdBalloon Leads with 44.5M Projected TDH",
-      "summary": "\"Conviction Cosplayer \" by EdBalloon (44.5M projected TDH, 54 voters) | \"Sir, A Needle\" by Hoizon (43.3M projected TDH, 56 voters) | \"When The World is Destroyed\" by HIPOCREATE (18.4M projected TDH, 47 voters) Next selection: Mon Jun 15 at 17:00 CET.",
+      "summary": "\"Conviction Cosplayer \" by EdBalloon (44.5M projected TDH, 55 voters) | \"Sir, A Needle\" by Hoizon (43.3M projected TDH, 58 voters) | \"When The World is Destroyed\" by HIPOCREATE (18.4M projected TDH, 47 voters) Next selection: Mon Jun 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,12 +43,12 @@
         {
           "label": "EdBalloon",
           "value": "44.5M",
-          "sub": "proj. (54 votes)"
+          "sub": "proj. (55 votes)"
         },
         {
           "label": "Hoizon",
           "value": "43.3M",
-          "sub": "proj. (56 votes)"
+          "sub": "proj. (58 votes)"
         },
         {
           "label": "HIPOCREATE",
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 2.93 ETH Volume",
-      "summary": "25 sales in 24h for 2.93 ETH. Highest: \"Sgt. Pepe\" at 0.917 ETH.",
+      "headline": "26 Sales Today - 2.95 ETH Volume",
+      "summary": "26 sales in 24h for 2.95 ETH. Highest: \"Sgt. Pepe\" at 0.917 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "26",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.93",
+          "value": "2.95",
           "sub": "ETH"
         },
         {
@@ -135,7 +135,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015312",
+          "value": "0.0153",
           "sub": "ETH"
         }
       ]
@@ -144,25 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.93 ETH",
-      "raw": 2.9326,
-      "delta": 1.9511999999999998,
-      "delta_fmt": "+198.8%"
+      "value": "2.95 ETH",
+      "raw": 2.955,
+      "delta": 1.9736,
+      "delta_fmt": "+201.1%"
     },
     {
       "label": "7d Vol",
-      "value": "12.74 ETH",
-      "raw": 12.7441
+      "value": "12.62 ETH",
+      "raw": 12.6172
     },
     {
       "label": "30d Vol",
-      "value": "65.60 ETH",
-      "raw": 65.6
+      "value": "65.62 ETH",
+      "raw": 65.6224
     },
     {
       "label": "Full Set Bid",
       "value": "42.0 ETH",
-      "raw": 42.04
+      "raw": 41.95,
+      "delta": -0.0899999999999963,
+      "delta_fmt": "-0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -172,7 +174,9 @@
     {
       "label": "#1 EdBalloon",
       "value": "44.5M TDH",
-      "raw": 44487710
+      "raw": 44488015,
+      "delta": 305,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 elnaz555",
@@ -327,7 +331,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.917 ETH",
-    "CARD #508: 119 MINTS (EXCL. MUSEUM) | 84 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 85 HOLDERS | I STILL DO"
   ]
 }
