@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T15:52:55.458715+00:00",
+  "generated_at": "2026-06-12T17:03:23.750426+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,38 +16,51 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "elnaz555 Leads with 77.6M Projected TDH",
-      "summary": "\"The Collective Synapse\" by elnaz555 (77.6M projected TDH, 84 voters) | \"Conviction Cosplayer \" by EdBalloon (40.2M projected TDH, 54 voters) | \"Sir, A Needle\" by Hoizon (34.5M projected TDH, 54 voters) Next selection: Fri Jun 12 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"The Collective Synapse\" by elnaz555 \u2014 77.6M TDH from 84 voters. Top supporter: Poseidon (15.9M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ed553111-a07e-45aa-bee2-17151a01f7cf/4d30f626-0a48-4db6-8284-7d24ebc8b665/magnific-video-upscale-2990333466-1.mp4",
         "label": "The Collective Synapse - elnaz555",
         "type": "video"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "EdBalloon Leads with 44.5M Projected TDH",
+      "summary": "\"Conviction Cosplayer \" by EdBalloon (44.5M projected TDH, 54 voters) | \"Sir, A Needle\" by Hoizon (43.3M projected TDH, 56 voters) | \"When The World is Destroyed\" by HIPOCREATE (18.4M projected TDH, 47 voters) Next selection: Mon Jun 15 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_40a68e09-5fb2-41dc-8ee6-e85629b3c3a6/487fd233-550f-43b3-a3fb-4ac77758807f/Comp-1.mp4",
+        "label": "Conviction Cosplayer  - EdBalloon",
+        "type": "video"
+      },
       "dataBoxes": [
         {
-          "label": "elnaz555",
-          "value": "77.6M",
-          "sub": "proj. (84 votes)"
-        },
-        {
           "label": "EdBalloon",
-          "value": "40.2M",
+          "value": "44.5M",
           "sub": "proj. (54 votes)"
         },
         {
           "label": "Hoizon",
-          "value": "34.5M",
-          "sub": "proj. (54 votes)"
+          "value": "43.3M",
+          "sub": "proj. (56 votes)"
+        },
+        {
+          "label": "HIPOCREATE",
+          "value": "18.4M",
+          "sub": "proj. (47 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: apocalypse (3.5M) | fatesensation (1.9M) | underscore (1.7M).",
+      "summary": "3 submissions this week. Ranking: apocalypse (3.5M) | fatesensation (2.3M) | underscore (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -66,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 2.08 ETH Volume",
-      "summary": "19 sales in 24h for 2.08 ETH. Highest: \"Sgt. Pepe\" at 0.917 ETH.",
+      "headline": "24 Sales Today - 2.90 ETH Volume",
+      "summary": "24 sales in 24h for 2.90 ETH. Highest: \"Sgt. Pepe\" at 0.917 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -94,25 +107,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.171 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/253.GIF",
+          "label": "WE THE CYPHERPUNKS - 0.400 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
-          "label": "rekt6529 - 0.139 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.180 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.08",
+          "value": "2.90",
           "sub": "ETH"
         },
         {
@@ -131,32 +144,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.08 ETH",
-      "raw": 2.0826,
-      "delta": 1.1003999999999998,
-      "delta_fmt": "+112.0%"
+      "value": "2.90 ETH",
+      "raw": 2.9046,
+      "delta": 1.9223999999999999,
+      "delta_fmt": "+195.7%"
     },
     {
       "label": "7d Vol",
-      "value": "11.89 ETH",
-      "raw": 11.8941
+      "value": "12.72 ETH",
+      "raw": 12.7161
     },
     {
       "label": "30d Vol",
-      "value": "64.75 ETH",
-      "raw": 64.75
+      "value": "65.57 ETH",
+      "raw": 65.572
     },
     {
       "label": "Full Set Bid",
-      "value": "42.1 ETH",
-      "raw": 42.13,
-      "delta": 0.0800000000000054,
-      "delta_fmt": "+0.08 ETH"
+      "value": "42.0 ETH",
+      "raw": 42.04,
+      "delta": -0.09000000000000341,
+      "delta_fmt": "-0.09 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1671.7M",
       "raw": 1671727972
+    },
+    {
+      "label": "#1 EdBalloon",
+      "value": "44.5M TDH",
+      "raw": 44487710,
+      "delta": -9196125,
+      "delta_fmt": "-9.2M TDH"
     },
     {
       "label": "#1 elnaz555",
@@ -311,7 +331,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.917 ETH",
-    "CARD #508: 115 MINTS (EXCL. MUSEUM) | 81 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 119 MINTS (EXCL. MUSEUM) | 84 HOLDERS | I STILL DO"
   ]
 }
