@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T18:51:19.454900+00:00",
+  "generated_at": "2026-06-12T19:41:39.046222+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "EdBalloon Leads with 44.5M Projected TDH",
-      "summary": "\"Conviction Cosplayer \" by EdBalloon (44.5M projected TDH, 55 voters) | \"Sir, A Needle\" by Hoizon (43.3M projected TDH, 58 voters) | \"When The World is Destroyed\" by HIPOCREATE (18.4M projected TDH, 47 voters) Next selection: Mon Jun 15 at 17:00 CET.",
+      "summary": "\"Conviction Cosplayer \" by EdBalloon (44.5M projected TDH, 55 voters) | \"Sir, A Needle\" by Hoizon (43.3M projected TDH, 59 voters) | \"When The World is Destroyed\" by HIPOCREATE (18.4M projected TDH, 47 voters) Next selection: Mon Jun 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +48,7 @@
         {
           "label": "Hoizon",
           "value": "43.3M",
-          "sub": "proj. (58 votes)"
+          "sub": "proj. (59 votes)"
         },
         {
           "label": "HIPOCREATE",
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 2.95 ETH Volume",
-      "summary": "26 sales in 24h for 2.95 ETH. Highest: \"Sgt. Pepe\" at 0.917 ETH.",
+      "headline": "18 Sales Today - 2.61 ETH Volume",
+      "summary": "18 sales in 24h for 2.61 ETH. Highest: \"Sgt. Pepe\" at 0.917 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "26",
+          "value": "18",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.95",
+          "value": "2.61",
           "sub": "ETH"
         },
         {
@@ -144,10 +144,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.95 ETH",
-      "raw": 2.955,
-      "delta": 1.9736,
-      "delta_fmt": "+201.1%"
+      "value": "2.61 ETH",
+      "raw": 2.6099,
+      "delta": 1.3674000000000002,
+      "delta_fmt": "+110.1%"
     },
     {
       "label": "7d Vol",
@@ -161,10 +161,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.0 ETH",
-      "raw": 41.95,
-      "delta": -0.0899999999999963,
-      "delta_fmt": "-0.09 ETH"
+      "value": "42.1 ETH",
+      "raw": 42.07,
+      "delta": 0.11999999999999744,
+      "delta_fmt": "+0.12 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 EdBalloon",
       "value": "44.5M TDH",
-      "raw": 44488015,
-      "delta": 305,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 44488015
     },
     {
       "label": "#1 elnaz555",
@@ -331,7 +329,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.917 ETH",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 85 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 85 HOLDERS | I STILL DO"
   ]
 }
