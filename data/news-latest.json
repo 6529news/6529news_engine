@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T20:30:25.723403+00:00",
+  "generated_at": "2026-06-12T21:18:44.291903+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,25 +30,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "EdBalloon Leads with 47.2M Projected TDH",
-      "summary": "\"Conviction Cosplayer \" by EdBalloon (47.2M projected TDH, 57 voters) | \"Sir, A Needle\" by Hoizon (44.3M projected TDH, 60 voters) | \"When The World is Destroyed\" by HIPOCREATE (18.4M projected TDH, 48 voters) Next selection: Mon Jun 15 at 17:00 CET.",
+      "headline": "Hoizon Leads with 47.4M Projected TDH",
+      "summary": "\"Sir, A Needle\" by Hoizon (47.4M projected TDH, 62 voters) | \"Conviction Cosplayer \" by EdBalloon (47.2M projected TDH, 57 voters) | \"When The World is Destroyed\" by HIPOCREATE (18.4M projected TDH, 48 voters) Next selection: Mon Jun 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_40a68e09-5fb2-41dc-8ee6-e85629b3c3a6/487fd233-550f-43b3-a3fb-4ac77758807f/Comp-1.mp4",
-        "label": "Conviction Cosplayer  - EdBalloon",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_43ff56b8-7e3f-41a5-b763-a6dff15a061b/9335f336-90ed-405b-90c3-2ca743202036/Untitled-Artwork-157-2.gif",
+        "label": "Sir, A Needle - Hoizon",
+        "type": "image"
       },
       "dataBoxes": [
+        {
+          "label": "Hoizon",
+          "value": "47.4M",
+          "sub": "proj. (62 votes)"
+        },
         {
           "label": "EdBalloon",
           "value": "47.2M",
           "sub": "proj. (57 votes)"
-        },
-        {
-          "label": "Hoizon",
-          "value": "44.3M",
-          "sub": "proj. (60 votes)"
         },
         {
           "label": "HIPOCREATE",
@@ -59,33 +59,23 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Jedi69 (6.0M) | apocalypse (3.5M) | fatesensation (2.3M) | underscore (1.7M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: Jedi69 (6.0M) | fatesensation (2.3M) | underscore (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2462ef1c-96c2-4218-9196-6500011d0ba9/57c2cadd-e26b-4752-ba90-2e02a91b46a0/SYSTEM-FAILURE.mp4",
-        "label": "apocalypse (3.5M)",
-        "type": "video"
-      },
-      "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2462ef1c-96c2-4218-9196-6500011d0ba9/57c2cadd-e26b-4752-ba90-2e02a91b46a0/SYSTEM-FAILURE.mp4",
-          "label": "apocalypse (3.5M)",
-          "type": "video"
-        }
-      ],
+      "image": null,
+      "images": [],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
@@ -135,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0153",
+          "value": "0.015312",
           "sub": "ETH"
         }
       ]
@@ -146,7 +136,7 @@
       "label": "24h Vol",
       "value": "2.69 ETH",
       "raw": 2.6899,
-      "delta": 1.3626000000000003,
+      "delta": 1.3628000000000002,
       "delta_fmt": "+102.7%"
     },
     {
@@ -162,14 +152,21 @@
     {
       "label": "Full Set Bid",
       "value": "42.0 ETH",
-      "raw": 41.96,
-      "delta": -0.10999999999999943,
-      "delta_fmt": "-0.11 ETH"
+      "raw": 42.02,
+      "delta": 0.060000000000002274,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1671.7M",
       "raw": 1671727972
+    },
+    {
+      "label": "#1 Hoizon",
+      "value": "47.4M TDH",
+      "raw": 47406657,
+      "delta": -6277178,
+      "delta_fmt": "-6.3M TDH"
     },
     {
       "label": "#1 EdBalloon",
@@ -331,7 +328,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.917 ETH",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 87 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO"
   ]
 }
