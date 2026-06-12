@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T01:55:17.846932+00:00",
+  "generated_at": "2026-06-12T03:13:46.693667+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -66,28 +66,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 0.59 ETH Volume",
-      "summary": "13 sales in 24h for 0.59 ETH. Highest: \"FREEDOM TO BURN\" at 0.070 ETH.",
+      "headline": "17 Sales Today - 0.81 ETH Volume",
+      "summary": "17 sales in 24h for 0.81 ETH. Highest: \"rekt6529\" at 0.139 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/181.WEBP",
-        "label": "FREEDOM TO BURN - 0.070 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
+        "label": "rekt6529 - 0.139 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
+          "label": "rekt6529 - 0.139 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/181.WEBP",
           "label": "FREEDOM TO BURN - 0.070 ETH",
@@ -97,28 +102,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/221.WEBP",
           "label": "Rugs & Rockets - 0.070 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/149.WEBP",
-          "label": "FAFO With Digital Rights - 0.060 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.59",
+          "value": "0.81",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.070",
-          "sub": "FREEDOM TO BURN"
+          "value": "0.139",
+          "sub": "rekt6529"
         },
         {
           "label": "Floor",
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.59 ETH",
-      "raw": 0.5853,
-      "delta": -1.9032,
-      "delta_fmt": "-76.5%"
+      "value": "0.81 ETH",
+      "raw": 0.8073,
+      "delta": -1.4535,
+      "delta_fmt": "-64.3%"
     },
     {
       "label": "7d Vol",
-      "value": "13.69 ETH",
-      "raw": 13.6854
+      "value": "12.97 ETH",
+      "raw": 12.9743
     },
     {
       "label": "30d Vol",
-      "value": "63.80 ETH",
-      "raw": 63.7995
+      "value": "63.23 ETH",
+      "raw": 63.2345
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.89,
-      "delta": 0.020000000000003126,
-      "delta_fmt": "+0.02 ETH"
+      "value": "41.8 ETH",
+      "raw": 41.83,
+      "delta": 0.9399999999999977,
+      "delta_fmt": "+0.94 ETH"
     },
     {
       "label": "Network TDH",
@@ -308,7 +308,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #507: 149 MINTS (EXCL. MUSEUM) | 96 HOLDERS | 1939",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #507: 149 MINTS (EXCL. MUSEUM) | 96 HOLDERS | 1939"
   ]
 }
