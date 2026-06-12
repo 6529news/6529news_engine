@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T21:18:44.291903+00:00",
+  "generated_at": "2026-06-12T22:03:24.582331+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Hoizon Leads with 47.4M Projected TDH",
-      "summary": "\"Sir, A Needle\" by Hoizon (47.4M projected TDH, 62 voters) | \"Conviction Cosplayer \" by EdBalloon (47.2M projected TDH, 57 voters) | \"When The World is Destroyed\" by HIPOCREATE (18.4M projected TDH, 48 voters) Next selection: Mon Jun 15 at 17:00 CET.",
+      "summary": "\"Sir, A Needle\" by Hoizon (47.4M projected TDH, 62 voters) | \"Conviction Cosplayer \" by EdBalloon (47.2M projected TDH, 57 voters) | \"Cerebrum\" by QuantumSpirit (20.2M projected TDH, 48 voters) Next selection: Mon Jun 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -51,8 +51,8 @@
           "sub": "proj. (57 votes)"
         },
         {
-          "label": "HIPOCREATE",
-          "value": "18.4M",
+          "label": "QuantumSpirit",
+          "value": "20.2M",
           "sub": "proj. (48 votes)"
         }
       ]
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015312",
+          "value": "0.0153",
           "sub": "ETH"
         }
       ]
@@ -136,8 +136,8 @@
       "label": "24h Vol",
       "value": "2.69 ETH",
       "raw": 2.6899,
-      "delta": 1.3628000000000002,
-      "delta_fmt": "+102.7%"
+      "delta": 2.1046,
+      "delta_fmt": "+359.6%"
     },
     {
       "label": "7d Vol",
@@ -151,9 +151,9 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.0 ETH",
-      "raw": 42.02,
-      "delta": 0.060000000000002274,
+      "value": "42.1 ETH",
+      "raw": 42.08,
+      "delta": 0.05999999999999517,
       "delta_fmt": "+0.06 ETH"
     },
     {
@@ -164,9 +164,7 @@
     {
       "label": "#1 Hoizon",
       "value": "47.4M TDH",
-      "raw": 47406657,
-      "delta": -6277178,
-      "delta_fmt": "-6.3M TDH"
+      "raw": 47406657
     },
     {
       "label": "#1 EdBalloon",
@@ -328,7 +326,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.917 ETH",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO"
   ]
 }
