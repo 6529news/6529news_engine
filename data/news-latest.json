@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T17:10:08.674382+00:00",
+  "generated_at": "2026-06-12T17:57:03.622562+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -135,7 +135,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0153",
+          "value": "0.015312",
           "sub": "ETH"
         }
       ]
@@ -146,8 +146,8 @@
       "label": "24h Vol",
       "value": "2.93 ETH",
       "raw": 2.9326,
-      "delta": 1.9504,
-      "delta_fmt": "+198.6%"
+      "delta": 1.9511999999999998,
+      "delta_fmt": "+198.8%"
     },
     {
       "label": "7d Vol",
@@ -327,7 +327,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.917 ETH",
-    "CARD #508: 119 MINTS (EXCL. MUSEUM) | 84 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 119 MINTS (EXCL. MUSEUM) | 84 HOLDERS | I STILL DO"
   ]
 }
