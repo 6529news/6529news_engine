@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T22:47:01.123295+00:00",
+  "generated_at": "2026-06-12T23:34:02.234685+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"I Still Do\" by 100series \u2014 68.8M TDH from 60 voters. Top supporter: Ruskin (22.1M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"I Still Do\" by 100series \u2014 68.8M TDH from 60 voters. Top supporter: Ruskin (22.1M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,25 +30,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Hoizon Leads with 47.4M Projected TDH",
-      "summary": "\"Sir, A Needle\" by Hoizon (47.4M projected TDH, 62 voters) | \"Conviction Cosplayer \" by EdBalloon (47.2M projected TDH, 57 voters) | \"Cerebrum\" by QuantumSpirit (18.9M projected TDH, 48 voters) Next selection: Mon Jun 15 at 17:00 CET.",
+      "headline": "EdBalloon Leads with 48.1M Projected TDH",
+      "summary": "\"Conviction Cosplayer \" by EdBalloon (48.1M projected TDH, 57 voters) | \"Sir, A Needle\" by Hoizon (47.4M projected TDH, 62 voters) | \"Cerebrum\" by QuantumSpirit (18.9M projected TDH, 48 voters) Next selection: Mon Jun 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_43ff56b8-7e3f-41a5-b763-a6dff15a061b/9335f336-90ed-405b-90c3-2ca743202036/Untitled-Artwork-157-2.gif",
-        "label": "Sir, A Needle - Hoizon",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_40a68e09-5fb2-41dc-8ee6-e85629b3c3a6/487fd233-550f-43b3-a3fb-4ac77758807f/Comp-1.mp4",
+        "label": "Conviction Cosplayer  - EdBalloon",
+        "type": "video"
       },
       "dataBoxes": [
+        {
+          "label": "EdBalloon",
+          "value": "48.1M",
+          "sub": "proj. (57 votes)"
+        },
         {
           "label": "Hoizon",
           "value": "47.4M",
           "sub": "proj. (62 votes)"
-        },
-        {
-          "label": "EdBalloon",
-          "value": "47.2M",
-          "sub": "proj. (57 votes)"
         },
         {
           "label": "QuantumSpirit",
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Jedi69 (6.0M) | fatesensation (2.3M) | underscore (1.7M).",
+      "summary": "3 submissions this week. Ranking: Jedi69 (6.1M) | fatesensation (2.3M) | underscore (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -152,7 +152,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.1 ETH",
-      "raw": 42.08
+      "raw": 42.07,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -160,16 +162,16 @@
       "raw": 1671727972
     },
     {
+      "label": "#1 EdBalloon",
+      "value": "48.1M TDH",
+      "raw": 48129761,
+      "delta": 900000,
+      "delta_fmt": "+0.9M TDH"
+    },
+    {
       "label": "#1 Hoizon",
       "value": "47.4M TDH",
       "raw": 47406657
-    },
-    {
-      "label": "#1 EdBalloon",
-      "value": "47.2M TDH",
-      "raw": 47229761,
-      "delta": 2741746,
-      "delta_fmt": "+2.7M TDH"
     },
     {
       "label": "#1 elnaz555",
@@ -324,7 +326,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.917 ETH",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO"
   ]
 }
