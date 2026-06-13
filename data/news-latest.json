@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T23:34:02.234685+00:00",
+  "generated_at": "2026-06-13T00:11:52.492716+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -152,21 +152,21 @@
     {
       "label": "Full Set Bid",
       "value": "42.1 ETH",
-      "raw": 42.07,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "raw": 42.08,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1671.7M",
-      "raw": 1671727972
+      "value": "1673.5M",
+      "raw": 1673468310,
+      "delta": 1740338,
+      "delta_fmt": "+1.7M TDH"
     },
     {
       "label": "#1 EdBalloon",
       "value": "48.1M TDH",
-      "raw": 48129761,
-      "delta": 900000,
-      "delta_fmt": "+0.9M TDH"
+      "raw": 48129761
     },
     {
       "label": "#1 Hoizon",
@@ -326,7 +326,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.917 ETH",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO",
     "DIVE BAR: 0 MSGS IN LAST 6H"
   ]
 }
