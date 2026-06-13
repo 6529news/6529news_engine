@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-06-13T14:29:39.246527+00:00",
+  "generated_at": "2026-06-13T15:13:26.022244+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"I Still Do\" by 100series \u2014 68.8M TDH from 60 voters. Top supporter: Ruskin (22.1M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/508.PNG",
-        "label": "I Still Do - 100series",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING MONDAY",
       "headline": "Minting Monday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "EdBalloon Leads with 51.2M Projected TDH",
-      "summary": "\"Conviction Cosplayer \" by EdBalloon (51.2M projected TDH, 60 voters) | \"Sir, A Needle\" by Hoizon (47.4M projected TDH, 63 voters) | \"Cerebrum\" by QuantumSpirit (18.9M projected TDH, 49 voters) Next selection: Mon Jun 15 at 17:00 CET.",
+      "summary": "\"Conviction Cosplayer \" by EdBalloon (51.2M projected TDH, 60 voters) | \"Sir, A Needle\" by Hoizon (47.4M projected TDH, 64 voters) | \"Cerebrum\" by QuantumSpirit (18.9M projected TDH, 49 voters) Next selection: Mon Jun 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +35,7 @@
         {
           "label": "Hoizon",
           "value": "47.4M",
-          "sub": "proj. (63 votes)"
+          "sub": "proj. (64 votes)"
         },
         {
           "label": "QuantumSpirit",
@@ -69,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -151,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.1 ETH",
-      "raw": 42.07,
-      "delta": -0.13000000000000256,
-      "delta_fmt": "-0.13 ETH"
+      "value": "42.0 ETH",
+      "raw": 41.96,
+      "delta": -0.10999999999999943,
+      "delta_fmt": "-0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +151,7 @@
     {
       "label": "#1 EdBalloon",
       "value": "51.2M TDH",
-      "raw": 51207335,
-      "delta": 67216,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 51207335
     },
     {
       "label": "#1 Hoizon",
@@ -326,7 +311,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.010 ETH",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO"
   ]
 }
