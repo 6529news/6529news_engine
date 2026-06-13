@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T13:36:28.442137+00:00",
+  "generated_at": "2026-06-13T14:29:39.246527+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "EdBalloon Leads with 51.1M Projected TDH",
-      "summary": "\"Conviction Cosplayer \" by EdBalloon (51.1M projected TDH, 59 voters) | \"Sir, A Needle\" by Hoizon (47.4M projected TDH, 63 voters) | \"Cerebrum\" by QuantumSpirit (18.9M projected TDH, 49 voters) Next selection: Mon Jun 15 at 17:00 CET.",
+      "headline": "EdBalloon Leads with 51.2M Projected TDH",
+      "summary": "\"Conviction Cosplayer \" by EdBalloon (51.2M projected TDH, 60 voters) | \"Sir, A Needle\" by Hoizon (47.4M projected TDH, 63 voters) | \"Cerebrum\" by QuantumSpirit (18.9M projected TDH, 49 voters) Next selection: Mon Jun 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "EdBalloon",
-          "value": "51.1M",
-          "sub": "proj. (59 votes)"
+          "value": "51.2M",
+          "sub": "proj. (60 votes)"
         },
         {
           "label": "Hoizon",
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "34 Sales Today - 5.03 ETH Volume",
-      "summary": "34 sales in 24h for 5.03 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
+      "headline": "31 Sales Today - 4.70 ETH Volume",
+      "summary": "31 sales in 24h for 4.70 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "34",
+          "value": "31",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "5.03",
+          "value": "4.70",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.015312",
+          "value": "0.0153",
           "sub": "ETH"
         }
       ]
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "5.03 ETH",
-      "raw": 5.0253,
-      "delta": 2.9427,
-      "delta_fmt": "+141.3%"
+      "value": "4.70 ETH",
+      "raw": 4.7028,
+      "delta": 2.6202,
+      "delta_fmt": "+125.8%"
     },
     {
       "label": "7d Vol",
-      "value": "15.72 ETH",
-      "raw": 15.7236
+      "value": "15.41 ETH",
+      "raw": 15.4065
     },
     {
       "label": "30d Vol",
-      "value": "68.62 ETH",
-      "raw": 68.6194
+      "value": "68.33 ETH",
+      "raw": 68.3288
     },
     {
       "label": "Full Set Bid",
-      "value": "42.2 ETH",
-      "raw": 42.2,
-      "delta": 0.030000000000001137,
-      "delta_fmt": "+0.03 ETH"
+      "value": "42.1 ETH",
+      "raw": 42.07,
+      "delta": -0.13000000000000256,
+      "delta_fmt": "-0.13 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,10 +163,10 @@
     },
     {
       "label": "#1 EdBalloon",
-      "value": "51.1M TDH",
-      "raw": 51140119,
-      "delta": 10000,
-      "delta_fmt": "+0.0M TDH"
+      "value": "51.2M TDH",
+      "raw": 51207335,
+      "delta": 67216,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 Hoizon",
@@ -326,7 +326,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.010 ETH",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO"
   ]
 }
