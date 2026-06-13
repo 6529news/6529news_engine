@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T11:26:28.518362+00:00",
+  "generated_at": "2026-06-13T12:06:29.455976+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -81,8 +81,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 3.98 ETH Volume",
-      "summary": "22 sales in 24h for 3.98 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
+      "headline": "22 Sales Today - 3.99 ETH Volume",
+      "summary": "22 sales in 24h for 3.99 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -115,7 +115,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "3.98",
+          "value": "3.99",
           "sub": "ETH"
         },
         {
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.98 ETH",
-      "raw": 3.9768,
-      "delta": 1.9632,
-      "delta_fmt": "+97.5%"
+      "value": "3.99 ETH",
+      "raw": 3.9868,
+      "delta": 1.9042000000000003,
+      "delta_fmt": "+91.4%"
     },
     {
       "label": "7d Vol",
-      "value": "14.81 ETH",
-      "raw": 14.8113
+      "value": "14.89 ETH",
+      "raw": 14.8903
     },
     {
       "label": "30d Vol",
-      "value": "67.53 ETH",
-      "raw": 67.5338
+      "value": "67.61 ETH",
+      "raw": 67.6128
     },
     {
       "label": "Full Set Bid",
-      "value": "42.1 ETH",
-      "raw": 42.15,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "value": "42.2 ETH",
+      "raw": 42.19,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -324,7 +324,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.010 ETH",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 89 HOLDERS | I STILL DO"
   ]
 }
