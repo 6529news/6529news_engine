@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T21:41:57.048403+00:00",
+  "generated_at": "2026-06-13T22:11:09.545662+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 4.08 ETH Volume",
-      "summary": "28 sales in 24h for 4.08 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
+      "headline": "29 Sales Today - 4.18 ETH Volume",
+      "summary": "29 sales in 24h for 4.18 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "28",
+          "value": "29",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "4.08",
+          "value": "4.18",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "4.08 ETH",
-      "raw": 4.0774,
-      "delta": 1.3874999999999997,
-      "delta_fmt": "+51.6%"
+      "value": "4.18 ETH",
+      "raw": 4.1774,
+      "delta": 1.4874999999999994,
+      "delta_fmt": "+55.3%"
     },
     {
       "label": "7d Vol",
-      "value": "15.38 ETH",
-      "raw": 15.3755
+      "value": "15.48 ETH",
+      "raw": 15.4755
     },
     {
       "label": "30d Vol",
-      "value": "68.66 ETH",
-      "raw": 68.6558
+      "value": "68.76 ETH",
+      "raw": 68.7558
     },
     {
       "label": "Full Set Bid",
-      "value": "42.0 ETH",
-      "raw": 41.99,
-      "delta": 0.09000000000000341,
-      "delta_fmt": "+0.09 ETH"
+      "value": "42.1 ETH",
+      "raw": 42.06,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Network TDH",
@@ -311,7 +311,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.010 ETH",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 92 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 92 HOLDERS | I STILL DO"
   ]
 }
