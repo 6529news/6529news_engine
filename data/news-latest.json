@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T21:09:57.590065+00:00",
+  "generated_at": "2026-06-14T21:44:24.785195+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,25 +47,15 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Jedi69 (11.9M) | fatesensation (2.4M) | underscore (1.7M) | Surreal24seven (1.6M).",
+      "summary": "4 submissions this week. Ranking: Jedi69 (12.0M) | fatesensation (2.4M) | underscore (1.7M) | Surreal24seven (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3289ced3-3e3f-48ea-9821-665524dd5f8c/4c93aba0-275c-4dab-9b68-a079762d2d3f/The-Oncoming-Storm.jpg",
-        "label": "fatesensation (2.4M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_274efaa8-28fc-45ce-a9a2-a4114dbab609/42fa13bf-70d0-42b4-83c2-5ac3dbc63b88/herdmready.jpg",
+        "label": "Surreal24seven (1.6M)",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3289ced3-3e3f-48ea-9821-665524dd5f8c/4c93aba0-275c-4dab-9b68-a079762d2d3f/The-Oncoming-Storm.jpg",
-          "label": "fatesensation (2.4M)",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_367b7a4b-7108-45ea-b630-e84241b555f8/5dceeb9b-d715-43a8-b9a5-8e1929396e3c/the-only-cloud.gif",
-          "label": "underscore (1.7M)",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_274efaa8-28fc-45ce-a9a2-a4114dbab609/42fa13bf-70d0-42b4-83c2-5ac3dbc63b88/herdmready.jpg",
           "label": "Surreal24seven (1.6M)",
@@ -76,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -204,10 +194,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.8 ETH",
-      "raw": 39.75,
-      "delta": -0.10999999999999943,
-      "delta_fmt": "-0.11 ETH"
+      "value": "39.9 ETH",
+      "raw": 39.85,
+      "delta": 0.10000000000000142,
+      "delta_fmt": "+0.10 ETH"
     },
     {
       "label": "Network TDH",
@@ -217,7 +207,9 @@
     {
       "label": "#1 EdBalloon",
       "value": "64.7M TDH",
-      "raw": 64673058
+      "raw": 64692545,
+      "delta": 19487,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Hoizon",
@@ -377,7 +369,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "PEBBLES: FLOOR 0.454 ETH | 1 SALES | LAST SALE 14h AGO",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 93 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 93 HOLDERS | I STILL DO"
   ]
 }
