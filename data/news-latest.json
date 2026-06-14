@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T20:32:11.964914+00:00",
+  "generated_at": "2026-06-14T21:09:57.590065+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "EdBalloon Leads with 64.7M Projected TDH",
-      "summary": "\"Conviction Cosplayer \" by EdBalloon (64.7M projected TDH, 62 voters) | \"Sir, A Needle\" by Hoizon (47.5M projected TDH, 66 voters) | \"Cerebrum\" by QuantumSpirit (18.9M projected TDH, 49 voters) Next selection: Mon Jun 15 at 17:00 CET.",
+      "summary": "\"Conviction Cosplayer \" by EdBalloon (64.7M projected TDH, 62 voters) | \"Sir, A Needle\" by Hoizon (47.5M projected TDH, 67 voters) | \"Cerebrum\" by QuantumSpirit (18.9M projected TDH, 49 voters) Next selection: Mon Jun 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "Hoizon",
           "value": "47.5M",
-          "sub": "proj. (66 votes)"
+          "sub": "proj. (67 votes)"
         },
         {
           "label": "QuantumSpirit",
@@ -51,11 +51,21 @@
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_274efaa8-28fc-45ce-a9a2-a4114dbab609/42fa13bf-70d0-42b4-83c2-5ac3dbc63b88/herdmready.jpg",
-        "label": "Surreal24seven (1.6M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3289ced3-3e3f-48ea-9821-665524dd5f8c/4c93aba0-275c-4dab-9b68-a079762d2d3f/The-Oncoming-Storm.jpg",
+        "label": "fatesensation (2.4M)",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3289ced3-3e3f-48ea-9821-665524dd5f8c/4c93aba0-275c-4dab-9b68-a079762d2d3f/The-Oncoming-Storm.jpg",
+          "label": "fatesensation (2.4M)",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_367b7a4b-7108-45ea-b630-e84241b555f8/5dceeb9b-d715-43a8-b9a5-8e1929396e3c/the-only-cloud.gif",
+          "label": "underscore (1.7M)",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_274efaa8-28fc-45ce-a9a2-a4114dbab609/42fa13bf-70d0-42b4-83c2-5ac3dbc63b88/herdmready.jpg",
           "label": "Surreal24seven (1.6M)",
@@ -66,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "12 Sales Today - 0.86 ETH Volume",
-      "summary": "12 sales in 24h for 0.86 ETH. Highest: \"Pepocalypse\" at 0.250 ETH.",
+      "headline": "10 Sales Today - 0.74 ETH Volume",
+      "summary": "10 sales in 24h for 0.74 ETH. Highest: \"Pepocalypse\" at 0.250 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -94,25 +104,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/372.WEBP",
-          "label": "VIVA SATOSHI - 0.080 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/145.GIF",
+          "label": "Inevitable Arrival - 0.070 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/145.GIF",
-          "label": "Inevitable Arrival - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/136.WEBP",
+          "label": "Abduction of Satoshi, 2023 - 0.070 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "12",
+          "value": "10",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.86",
+          "value": "0.74",
           "sub": "ETH"
         },
         {
@@ -177,10 +187,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.86 ETH",
-      "raw": 0.8633,
-      "delta": -3.0921000000000003,
-      "delta_fmt": "-78.2%"
+      "value": "0.74 ETH",
+      "raw": 0.7413,
+      "delta": -3.3361,
+      "delta_fmt": "-81.8%"
     },
     {
       "label": "7d Vol",
@@ -194,10 +204,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.9 ETH",
-      "raw": 39.86,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "value": "39.8 ETH",
+      "raw": 39.75,
+      "delta": -0.10999999999999943,
+      "delta_fmt": "-0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -366,8 +376,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.454 ETH | 1 SALES | LAST SALE 13h AGO",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 93 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.454 ETH | 1 SALES | LAST SALE 14h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 93 HOLDERS | I STILL DO"
   ]
 }
