@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T03:49:20.731507+00:00",
+  "generated_at": "2026-06-14T05:38:17.968445+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -46,12 +46,22 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Jedi69 (6.8M) | fatesensation (2.4M) | underscore (1.7M).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: Jedi69 (6.8M) | fatesensation (2.4M) | underscore (1.7M) | Surreal24seven (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": null,
-      "images": [],
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_274efaa8-28fc-45ce-a9a2-a4114dbab609/42fa13bf-70d0-42b4-83c2-5ac3dbc63b88/herdmready.jpg",
+        "label": "Surreal24seven (1.6M)",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_274efaa8-28fc-45ce-a9a2-a4114dbab609/42fa13bf-70d0-42b4-83c2-5ac3dbc63b88/herdmready.jpg",
+          "label": "Surreal24seven (1.6M)",
+          "type": "image"
+        }
+      ],
       "dataBoxes": null
     },
     {
@@ -68,8 +78,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "29 Sales Today - 3.65 ETH Volume",
-      "summary": "29 sales in 24h for 3.65 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
+      "headline": "26 Sales Today - 3.49 ETH Volume",
+      "summary": "26 sales in 24h for 3.49 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "29",
+          "value": "26",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.65",
+          "value": "3.49",
           "sub": "ETH"
         },
         {
@@ -121,10 +131,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.65 ETH",
-      "raw": 3.6534,
-      "delta": 0.6004999999999998,
-      "delta_fmt": "+19.7%"
+      "value": "3.49 ETH",
+      "raw": 3.4944,
+      "delta": 0.4535,
+      "delta_fmt": "+14.9%"
     },
     {
       "label": "7d Vol",
@@ -138,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.1 ETH",
-      "raw": 42.09,
-      "delta": 0.010000000000005116,
-      "delta_fmt": "+0.01 ETH"
+      "value": "42.0 ETH",
+      "raw": 42.01,
+      "delta": -0.0800000000000054,
+      "delta_fmt": "-0.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -311,7 +321,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.010 ETH",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 92 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 92 HOLDERS | I STILL DO"
   ]
 }
