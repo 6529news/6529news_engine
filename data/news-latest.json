@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T09:58:35.264522+00:00",
+  "generated_at": "2026-06-14T11:06:13.359721+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "EdBalloon Leads with 51.2M Projected TDH",
-      "summary": "\"Conviction Cosplayer \" by EdBalloon (51.2M projected TDH, 61 voters) | \"Sir, A Needle\" by Hoizon (47.5M projected TDH, 66 voters) | \"Cerebrum\" by QuantumSpirit (18.9M projected TDH, 50 voters) Next selection: Mon Jun 15 at 17:00 CET.",
+      "headline": "EdBalloon Leads with 58.1M Projected TDH",
+      "summary": "\"Conviction Cosplayer \" by EdBalloon (58.1M projected TDH, 61 voters) | \"Sir, A Needle\" by Hoizon (47.5M projected TDH, 66 voters) | \"Cerebrum\" by QuantumSpirit (18.9M projected TDH, 50 voters) Next selection: Mon Jun 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "EdBalloon",
-          "value": "51.2M",
+          "value": "58.1M",
           "sub": "proj. (61 votes)"
         },
         {
@@ -78,16 +78,21 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.55 ETH Volume",
-      "summary": "23 sales in 24h for 1.55 ETH. Highest: \"UncleSeize\" at 0.130 ETH.",
+      "headline": "24 Sales Today - 1.80 ETH Volume",
+      "summary": "24 sales in 24h for 1.80 ETH. Highest: \"Pepocalypse\" at 0.250 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-        "label": "UncleSeize - 0.130 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/222.GIF",
+        "label": "Pepocalypse - 0.250 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/222.GIF",
+          "label": "Pepocalypse - 0.250 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
           "label": "UncleSeize - 0.130 ETH",
@@ -97,28 +102,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/440.GIF",
           "label": "FREEDOM TO CONNECT - 0.120 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.120 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.55",
+          "value": "1.80",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.130",
-          "sub": "UncleSeize"
+          "value": "0.250",
+          "sub": "Pepocalypse"
         },
         {
           "label": "Floor",
@@ -177,27 +177,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.55 ETH",
-      "raw": 1.5533,
-      "delta": -2.3434999999999997,
-      "delta_fmt": "-60.1%"
+      "value": "1.80 ETH",
+      "raw": 1.8033,
+      "delta": -2.1734999999999998,
+      "delta_fmt": "-54.7%"
     },
     {
       "label": "7d Vol",
-      "value": "14.76 ETH",
-      "raw": 14.7558
+      "value": "15.01 ETH",
+      "raw": 15.0058
     },
     {
       "label": "30d Vol",
-      "value": "68.59 ETH",
-      "raw": 68.591
+      "value": "68.84 ETH",
+      "raw": 68.841
     },
     {
       "label": "Full Set Bid",
-      "value": "40.4 ETH",
-      "raw": 40.42,
-      "delta": 0.05000000000000426,
-      "delta_fmt": "+0.05 ETH"
+      "value": "40.5 ETH",
+      "raw": 40.53,
+      "delta": 0.10999999999999943,
+      "delta_fmt": "+0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -206,8 +206,10 @@
     },
     {
       "label": "#1 EdBalloon",
-      "value": "51.2M TDH",
-      "raw": 51209426
+      "value": "58.1M TDH",
+      "raw": 58073711,
+      "delta": 6864285,
+      "delta_fmt": "+6.9M TDH"
     },
     {
       "label": "#1 Hoizon",
@@ -366,8 +368,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.454 ETH | 1 SALES | LAST SALE 3h AGO",
-    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 92 HOLDERS | I STILL DO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.454 ETH | 1 SALES | LAST SALE 4h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #508: 295 MINTS (EXCL. MUSEUM) | 92 HOLDERS | I STILL DO"
   ]
 }
