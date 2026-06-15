@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:07:23.094477+00:00",
+  "generated_at": "2026-06-15T20:24:46.207987+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Hoizon Leads with 44.6M Projected TDH",
-      "summary": "\"Sir, A Needle\" by Hoizon (44.6M projected TDH, 71 voters) | \"Cerebrum\" by QuantumSpirit (19.0M projected TDH, 49 voters) | \"When The World is Destroyed\" by HIPOCREATE (15.9M projected TDH, 51 voters) Next selection: Wed Jun 17 at 17:00 CET.",
+      "headline": "Hoizon Leads with 44.7M Projected TDH",
+      "summary": "\"Sir, A Needle\" by Hoizon (44.7M projected TDH, 72 voters) | \"Cerebrum\" by QuantumSpirit (19.0M projected TDH, 49 voters) | \"When The World is Destroyed\" by HIPOCREATE (15.9M projected TDH, 51 voters) Next selection: Wed Jun 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Hoizon",
-          "value": "44.6M",
-          "sub": "proj. (71 votes)"
+          "value": "44.7M",
+          "sub": "proj. (72 votes)"
         },
         {
           "label": "QuantumSpirit",
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Jedi69 (13.7M) | fatesensation (2.4M) | underscore (1.7M) | Surreal24seven (1.6M).",
+      "summary": "4 submissions this week. Ranking: Jedi69 (14.1M) | fatesensation (2.4M) | underscore (1.7M) | Surreal24seven (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 1.86 ETH Volume",
-      "summary": "25 sales in 24h for 1.86 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.420 ETH.",
+      "headline": "32 Sales Today - 2.06 ETH Volume",
+      "summary": "32 sales in 24h for 2.06 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.420 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "32",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.86",
+          "value": "2.06",
           "sub": "ETH"
         },
         {
@@ -144,27 +144,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.86 ETH",
-      "raw": 1.8563,
-      "delta": 0.9930000000000001,
-      "delta_fmt": "+115.0%"
+      "value": "2.06 ETH",
+      "raw": 2.0564,
+      "delta": 1.1931,
+      "delta_fmt": "+138.2%"
     },
     {
       "label": "7d Vol",
-      "value": "13.75 ETH",
-      "raw": 13.75
+      "value": "13.95 ETH",
+      "raw": 13.9501
     },
     {
       "label": "30d Vol",
-      "value": "68.26 ETH",
-      "raw": 68.2559
+      "value": "68.46 ETH",
+      "raw": 68.456
     },
     {
       "label": "Full Set Bid",
       "value": "36.5 ETH",
-      "raw": 36.52,
-      "delta": 0.04000000000000625,
-      "delta_fmt": "+0.04 ETH"
+      "raw": 36.52
     },
     {
       "label": "Network TDH",
@@ -173,10 +171,10 @@
     },
     {
       "label": "#1 Hoizon",
-      "value": "44.6M TDH",
-      "raw": 44601062,
-      "delta": 6529,
-      "delta_fmt": "+0.0M TDH"
+      "value": "44.7M TDH",
+      "raw": 44667241,
+      "delta": 66179,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 EdBalloon",
@@ -337,7 +335,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #509: 123 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE COLLECTIVE SYNAPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #509: 123 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE COLLECTIVE SYNAPSE"
   ]
 }
