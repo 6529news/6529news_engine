@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T23:12:42.621087+00:00",
+  "generated_at": "2026-06-15T23:55:55.368554+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -146,8 +146,8 @@
       "label": "24h Vol",
       "value": "2.06 ETH",
       "raw": 2.0564,
-      "delta": 1.4361000000000002,
-      "delta_fmt": "+231.5%"
+      "delta": 1.276,
+      "delta_fmt": "+163.5%"
     },
     {
       "label": "7d Vol",
@@ -162,9 +162,9 @@
     {
       "label": "Full Set Bid",
       "value": "36.5 ETH",
-      "raw": 36.51,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "raw": 36.53,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,7 +174,9 @@
     {
       "label": "#1 Hoizon",
       "value": "44.7M TDH",
-      "raw": 44667241
+      "raw": 44667247,
+      "delta": 6,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 EdBalloon",
@@ -335,7 +337,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #509: 123 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE COLLECTIVE SYNAPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #509: 123 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE COLLECTIVE SYNAPSE"
   ]
 }
