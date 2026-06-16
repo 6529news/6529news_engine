@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T09:19:24.579235+00:00",
+  "generated_at": "2026-06-16T11:16:38.368024+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Hoizon Leads with 51.3M Projected TDH",
-      "summary": "\"Sir, A Needle\" by Hoizon (51.3M projected TDH, 73 voters) | \"6529 SVNDIAL\" by Jedi69 (30.3M projected TDH, 41 voters) | \"SEIZE 24/7\" by AshtonTekno (25.3M projected TDH, 38 voters) Next selection: Wed Jun 17 at 17:00 CET.",
+      "summary": "\"Sir, A Needle\" by Hoizon (51.3M projected TDH, 73 voters) | \"6529 SVNDIAL\" by Jedi69 (31.3M projected TDH, 43 voters) | \"SEIZE 24/7\" by AshtonTekno (25.3M projected TDH, 38 voters) Next selection: Wed Jun 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "Jedi69",
-          "value": "30.3M",
-          "sub": "proj. (41 votes)"
+          "value": "31.3M",
+          "sub": "proj. (43 votes)"
         },
         {
           "label": "AshtonTekno",
@@ -84,33 +84,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "30 Sales Today - 1.76 ETH Volume",
-      "summary": "30 sales in 24h for 1.76 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.420 ETH.",
+      "headline": "22 Sales Today - 1.44 ETH Volume",
+      "summary": "22 sales in 24h for 1.44 ETH. Highest: \"We Are Still Alive\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-        "label": "The Tree of Knowledge of Good and Evil - 0.420 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/424.GIF",
+        "label": "We Are Still Alive - 0.150 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.420 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/424.GIF",
           "label": "We Are Still Alive - 0.150 ETH",
@@ -120,23 +115,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/452.GIF",
           "label": "The JPEGs Are Coming For Your Institutions - 0.129 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/244.GIF",
+          "label": "Pamp It - 0.090 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "30",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.76",
+          "value": "1.44",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.420",
-          "sub": "The Tree of Knowledg"
+          "value": "0.150",
+          "sub": "We Are Still Alive"
         },
         {
           "label": "Floor",
@@ -149,10 +149,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.76 ETH",
-      "raw": 1.7604,
-      "delta": 0.9271999999999999,
-      "delta_fmt": "+111.3%"
+      "value": "1.44 ETH",
+      "raw": 1.4405,
+      "delta": 0.09039999999999981,
+      "delta_fmt": "+6.7%"
     },
     {
       "label": "7d Vol",
@@ -167,9 +167,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.3 ETH",
-      "raw": 40.3,
-      "delta": -0.09000000000000341,
-      "delta_fmt": "-0.09 ETH"
+      "raw": 40.34,
+      "delta": 0.04000000000000625,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,9 +179,9 @@
     {
       "label": "#1 Hoizon",
       "value": "51.3M TDH",
-      "raw": 51305419,
-      "delta": -549,
-      "delta_fmt": "-0.0M TDH"
+      "raw": 51305698,
+      "delta": 279,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 EdBalloon",
@@ -342,7 +342,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #509: 124 MINTS (EXCL. MUSEUM) | 87 HOLDERS | THE COLLECTIVE SYNAPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #509: 124 MINTS (EXCL. MUSEUM) | 87 HOLDERS | THE COLLECTIVE SYNAPSE"
   ]
 }
