@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:38:42.888327+00:00",
+  "generated_at": "2026-06-16T18:19:46.252774+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Hoizon Leads with 51.3M Projected TDH",
-      "summary": "\"Sir, A Needle\" by Hoizon (51.3M projected TDH, 74 voters) | \"6529 SVNDIAL\" by Jedi69 (37.2M projected TDH, 50 voters) | \"SEIZE 24/7\" by AshtonTekno (25.3M projected TDH, 41 voters) Next selection: Wed Jun 17 at 17:00 CET.",
+      "summary": "\"Sir, A Needle\" by Hoizon (51.3M projected TDH, 74 voters) | \"6529 SVNDIAL\" by Jedi69 (37.2M projected TDH, 50 voters) | \"SEIZE 24/7\" by AshtonTekno (25.3M projected TDH, 43 voters) Next selection: Wed Jun 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "AshtonTekno",
           "value": "25.3M",
-          "sub": "proj. (41 votes)"
+          "sub": "proj. (43 votes)"
         }
       ]
     },
@@ -76,28 +76,23 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 1.11 ETH Volume",
-      "summary": "26 sales in 24h for 1.11 ETH. Highest: \"The JPEGs Are Coming For Your Institutions\" at 0.129 ETH.",
+      "headline": "28 Sales Today - 1.19 ETH Volume",
+      "summary": "28 sales in 24h for 1.19 ETH. Highest: \"Possession Game\" at 0.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/452.GIF",
-        "label": "The JPEGs Are Coming For Your Institutions - 0.129 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/86.WEBP",
+        "label": "Possession Game - 0.100 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/452.GIF",
-          "label": "The JPEGs Are Coming For Your Institutions - 0.129 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/86.WEBP",
           "label": "Possession Game - 0.100 ETH",
@@ -107,27 +102,32 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/267.WEBP",
           "label": "Seize Them Loud - 0.084 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/378.GIF",
+          "label": "Crypto Atlas - 0.069 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "26",
+          "value": "28",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.11",
+          "value": "1.19",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.129",
-          "sub": "The JPEGs Are Coming"
+          "value": "0.100",
+          "sub": "Possession Game"
         },
         {
           "label": "Floor",
-          "value": "0.01519999999899",
+          "value": "0.0151999",
           "sub": "ETH"
         }
       ]
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.11 ETH",
-      "raw": 1.1147,
-      "delta": -0.5549999999999999,
-      "delta_fmt": "-33.2%"
+      "value": "1.19 ETH",
+      "raw": 1.1924,
+      "delta": -0.7116,
+      "delta_fmt": "-37.4%"
     },
     {
       "label": "7d Vol",
-      "value": "13.77 ETH",
-      "raw": 13.7709
+      "value": "13.61 ETH",
+      "raw": 13.6149
     },
     {
       "label": "30d Vol",
-      "value": "68.17 ETH",
-      "raw": 68.1663
+      "value": "68.35 ETH",
+      "raw": 68.352
     },
     {
       "label": "Full Set Bid",
-      "value": "39.9 ETH",
-      "raw": 39.85,
-      "delta": -1.8099999999999952,
-      "delta_fmt": "-1.81 ETH"
+      "value": "39.5 ETH",
+      "raw": 39.54,
+      "delta": -0.3100000000000023,
+      "delta_fmt": "-0.31 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,7 +166,9 @@
     {
       "label": "#1 Hoizon",
       "value": "51.3M TDH",
-      "raw": 51325698
+      "raw": 51325722,
+      "delta": 24,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 EdBalloon",
@@ -327,7 +329,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #509: 140 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE COLLECTIVE SYNAPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #509: 140 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE COLLECTIVE SYNAPSE"
   ]
 }
