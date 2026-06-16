@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-06-16T14:57:01.999640+00:00",
+  "generated_at": "2026-06-16T16:38:42.888327+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"The Collective Synapse\" by elnaz555 \u2014 77.6M TDH from 84 voters. Top supporter: Poseidon (15.9M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/509.GIF",
-        "label": "The Collective Synapse - elnaz555",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING WEDNESDAY",
       "headline": "Minting Wednesday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Hoizon Leads with 51.3M Projected TDH",
-      "summary": "\"Sir, A Needle\" by Hoizon (51.3M projected TDH, 74 voters) | \"6529 SVNDIAL\" by Jedi69 (31.4M projected TDH, 48 voters) | \"SEIZE 24/7\" by AshtonTekno (25.3M projected TDH, 40 voters) Next selection: Wed Jun 17 at 17:00 CET.",
+      "summary": "\"Sir, A Needle\" by Hoizon (51.3M projected TDH, 74 voters) | \"6529 SVNDIAL\" by Jedi69 (37.2M projected TDH, 50 voters) | \"SEIZE 24/7\" by AshtonTekno (25.3M projected TDH, 41 voters) Next selection: Wed Jun 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,13 +34,13 @@
         },
         {
           "label": "Jedi69",
-          "value": "31.4M",
-          "sub": "proj. (48 votes)"
+          "value": "37.2M",
+          "sub": "proj. (50 votes)"
         },
         {
           "label": "AshtonTekno",
           "value": "25.3M",
-          "sub": "proj. (40 votes)"
+          "sub": "proj. (41 votes)"
         }
       ]
     },
@@ -84,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 0.91 ETH Volume",
-      "summary": "20 sales in 24h for 0.91 ETH. Highest: \"The JPEGs Are Coming For Your Institutions\" at 0.129 ETH.",
+      "headline": "26 Sales Today - 1.11 ETH Volume",
+      "summary": "26 sales in 24h for 1.11 ETH. Highest: \"The JPEGs Are Coming For Your Institutions\" at 0.129 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,20 +104,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/244.GIF",
-          "label": "Pamp It - 0.090 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/267.WEBP",
+          "label": "Seize Them Loud - 0.084 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "20",
+          "value": "26",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.91",
+          "value": "1.11",
           "sub": "ETH"
         },
         {
@@ -149,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.91 ETH",
-      "raw": 0.9084,
-      "delta": -0.7613,
-      "delta_fmt": "-45.6%"
+      "value": "1.11 ETH",
+      "raw": 1.1147,
+      "delta": -0.5549999999999999,
+      "delta_fmt": "-33.2%"
     },
     {
       "label": "7d Vol",
-      "value": "13.46 ETH",
-      "raw": 13.4592
+      "value": "13.77 ETH",
+      "raw": 13.7709
     },
     {
       "label": "30d Vol",
-      "value": "67.85 ETH",
-      "raw": 67.8546
+      "value": "68.17 ETH",
+      "raw": 68.1663
     },
     {
       "label": "Full Set Bid",
-      "value": "41.7 ETH",
-      "raw": 41.66,
-      "delta": 1.3599999999999994,
-      "delta_fmt": "+1.36 ETH"
+      "value": "39.9 ETH",
+      "raw": 39.85,
+      "delta": -1.8099999999999952,
+      "delta_fmt": "-1.81 ETH"
     },
     {
       "label": "Network TDH",
@@ -340,7 +327,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #509: 140 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE COLLECTIVE SYNAPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #509: 140 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE COLLECTIVE SYNAPSE"
   ]
 }
