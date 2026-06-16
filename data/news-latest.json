@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T21:52:19.700664+00:00",
+  "generated_at": "2026-06-16T22:40:30.950621+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Hoizon Leads with 52.0M Projected TDH",
-      "summary": "\"Sir, A Needle\" by Hoizon (52.0M projected TDH, 75 voters) | \"6529 SVNDIAL\" by Jedi69 (37.2M projected TDH, 51 voters) | \"SEIZE 24/7\" by AshtonTekno (25.3M projected TDH, 43 voters) Next selection: Wed Jun 17 at 17:00 CET.",
+      "summary": "\"Sir, A Needle\" by Hoizon (52.0M projected TDH, 75 voters) | \"6529 SVNDIAL\" by Jedi69 (38.3M projected TDH, 52 voters) | \"SEIZE 24/7\" by AshtonTekno (25.3M projected TDH, 43 voters) Next selection: Wed Jun 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "Jedi69",
-          "value": "37.2M",
-          "sub": "proj. (51 votes)"
+          "value": "38.3M",
+          "sub": "proj. (52 votes)"
         },
         {
           "label": "AshtonTekno",
@@ -71,13 +71,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -153,10 +153,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.3 ETH",
-      "raw": 39.32,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "value": "39.8 ETH",
+      "raw": 39.81,
+      "delta": 0.490000000000002,
+      "delta_fmt": "+0.49 ETH"
     },
     {
       "label": "Network TDH",
@@ -327,7 +327,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #509: 140 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE COLLECTIVE SYNAPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #509: 140 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE COLLECTIVE SYNAPSE"
   ]
 }
