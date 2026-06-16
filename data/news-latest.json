@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T05:19:40.838146+00:00",
+  "generated_at": "2026-06-16T07:18:44.947680+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Hoizon Leads with 44.7M Projected TDH",
-      "summary": "\"Sir, A Needle\" by Hoizon (44.7M projected TDH, 72 voters) | \"6529 SVNDIAL\" by Jedi69 (30.3M projected TDH, 40 voters) | \"SEIZE 24/7\" by AshtonTekno (25.2M projected TDH, 36 voters) Next selection: Wed Jun 17 at 17:00 CET.",
+      "headline": "Hoizon Leads with 51.3M Projected TDH",
+      "summary": "\"Sir, A Needle\" by Hoizon (51.3M projected TDH, 73 voters) | \"6529 SVNDIAL\" by Jedi69 (30.3M projected TDH, 40 voters) | \"SEIZE 24/7\" by AshtonTekno (25.3M projected TDH, 38 voters) Next selection: Wed Jun 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Hoizon",
-          "value": "44.7M",
-          "sub": "proj. (72 votes)"
+          "value": "51.3M",
+          "sub": "proj. (73 votes)"
         },
         {
           "label": "Jedi69",
@@ -52,8 +52,8 @@
         },
         {
           "label": "AshtonTekno",
-          "value": "25.2M",
-          "sub": "proj. (36 votes)"
+          "value": "25.3M",
+          "sub": "proj. (38 votes)"
         }
       ]
     },
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -146,8 +146,8 @@
       "label": "24h Vol",
       "value": "1.77 ETH",
       "raw": 1.7714,
-      "delta": 0.8460000000000001,
-      "delta_fmt": "+91.4%"
+      "delta": 0.937,
+      "delta_fmt": "+112.3%"
     },
     {
       "label": "7d Vol",
@@ -162,9 +162,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.4 ETH",
-      "raw": 40.38,
-      "delta": 0.03999999999999915,
-      "delta_fmt": "+0.04 ETH"
+      "raw": 40.39,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,8 +173,10 @@
     },
     {
       "label": "#1 Hoizon",
-      "value": "44.7M TDH",
-      "raw": 44667838
+      "value": "51.3M TDH",
+      "raw": 51305968,
+      "delta": 6638130,
+      "delta_fmt": "+6.6M TDH"
     },
     {
       "label": "#1 EdBalloon",
@@ -335,7 +337,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #509: 124 MINTS (EXCL. MUSEUM) | 87 HOLDERS | THE COLLECTIVE SYNAPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #509: 124 MINTS (EXCL. MUSEUM) | 87 HOLDERS | THE COLLECTIVE SYNAPSE"
   ]
 }
