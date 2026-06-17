@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T17:10:29.032923+00:00",
+  "generated_at": "2026-06-17T17:19:34.338573+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -173,26 +173,26 @@
     {
       "label": "24h Vol",
       "value": "1.33 ETH",
-      "raw": 1.3275,
-      "delta": 0.21279999999999988,
-      "delta_fmt": "+19.1%"
+      "raw": 1.3259,
+      "delta": 0.21120000000000005,
+      "delta_fmt": "+18.9%"
     },
     {
       "label": "7d Vol",
-      "value": "13.01 ETH",
-      "raw": 13.0069
+      "value": "12.99 ETH",
+      "raw": 12.9915
     },
     {
       "label": "30d Vol",
-      "value": "67.77 ETH",
-      "raw": 67.7717
+      "value": "67.69 ETH",
+      "raw": 67.6914
     },
     {
       "label": "Full Set Bid",
-      "value": "42.4 ETH",
-      "raw": 42.4,
-      "delta": 0.5399999999999991,
-      "delta_fmt": "+0.54 ETH"
+      "value": "41.7 ETH",
+      "raw": 41.74,
+      "delta": -0.6599999999999966,
+      "delta_fmt": "-0.66 ETH"
     },
     {
       "label": "Network TDH",
@@ -202,9 +202,7 @@
     {
       "label": "#1 Jedi69",
       "value": "44.9M TDH",
-      "raw": 44893531,
-      "delta": 6221807,
-      "delta_fmt": "+6.2M TDH"
+      "raw": 44893531
     },
     {
       "label": "#1 Hoizon",
@@ -371,6 +369,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #510: 121 MINTS (EXCL. MUSEUM) | 86 HOLDERS | CONVICTION COSPLAYER "
+    "CARD #510: 124 MINTS (EXCL. MUSEUM) | 87 HOLDERS | CONVICTION COSPLAYER "
   ]
 }
