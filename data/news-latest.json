@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T16:05:24.164946+00:00",
+  "generated_at": "2026-06-17T17:10:29.032923+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Jedi69 Leads with 38.7M Projected TDH",
-      "summary": "\"6529 SVNDIAL\" by Jedi69 (38.7M projected TDH, 59 voters) | \"SEIZE 24/7\" by AshtonTekno (27.1M projected TDH, 48 voters) | \"Cerebrum\" by QuantumSpirit (20.6M projected TDH, 55 voters) Next selection: Fri Jun 19 at 17:00 CET.",
+      "headline": "Jedi69 Leads with 44.9M Projected TDH",
+      "summary": "\"6529 SVNDIAL\" by Jedi69 (44.9M projected TDH, 61 voters) | \"SEIZE 24/7\" by AshtonTekno (27.3M projected TDH, 48 voters) | \"Cerebrum\" by QuantumSpirit (20.6M projected TDH, 55 voters) Next selection: Fri Jun 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,12 +42,12 @@
       "dataBoxes": [
         {
           "label": "Jedi69",
-          "value": "38.7M",
-          "sub": "proj. (59 votes)"
+          "value": "44.9M",
+          "sub": "proj. (61 votes)"
         },
         {
           "label": "AshtonTekno",
-          "value": "27.1M",
+          "value": "27.3M",
           "sub": "proj. (48 votes)"
         },
         {
@@ -112,15 +112,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 1.22 ETH Volume",
-      "summary": "13 sales in 24h for 1.22 ETH. Highest: \"DALL-E's Revenge\" at 0.690 ETH.",
+      "headline": "14 Sales Today - 1.33 ETH Volume",
+      "summary": "14 sales in 24h for 1.33 ETH. Highest: \"DALL-E's Revenge\" at 0.690 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -140,20 +140,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/476.WEBP",
-          "label": "The Bear Spot - 0.075 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/32.WEBP",
+          "label": "You Can't Touch This - 0.110 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.22",
+          "value": "1.33",
           "sub": "ETH"
         },
         {
@@ -172,27 +172,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.22 ETH",
-      "raw": 1.2159,
-      "delta": 0.10119999999999996,
-      "delta_fmt": "+9.1%"
+      "value": "1.33 ETH",
+      "raw": 1.3275,
+      "delta": 0.21279999999999988,
+      "delta_fmt": "+19.1%"
     },
     {
       "label": "7d Vol",
-      "value": "12.88 ETH",
-      "raw": 12.8815
+      "value": "13.01 ETH",
+      "raw": 13.0069
     },
     {
       "label": "30d Vol",
-      "value": "67.58 ETH",
-      "raw": 67.5814
+      "value": "67.77 ETH",
+      "raw": 67.7717
     },
     {
       "label": "Full Set Bid",
-      "value": "41.9 ETH",
-      "raw": 41.86,
-      "delta": -0.740000000000002,
-      "delta_fmt": "-0.74 ETH"
+      "value": "42.4 ETH",
+      "raw": 42.4,
+      "delta": 0.5399999999999991,
+      "delta_fmt": "+0.54 ETH"
     },
     {
       "label": "Network TDH",
@@ -201,10 +201,10 @@
     },
     {
       "label": "#1 Jedi69",
-      "value": "38.7M TDH",
-      "raw": 38671724,
-      "delta": -15012111,
-      "delta_fmt": "-15.0M TDH"
+      "value": "44.9M TDH",
+      "raw": 44893531,
+      "delta": 6221807,
+      "delta_fmt": "+6.2M TDH"
     },
     {
       "label": "#1 Hoizon",
@@ -370,7 +370,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #510: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CONVICTION COSPLAYER ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #510: 121 MINTS (EXCL. MUSEUM) | 86 HOLDERS | CONVICTION COSPLAYER "
   ]
 }
