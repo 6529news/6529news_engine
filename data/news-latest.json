@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T19:19:00.276172+00:00",
+  "generated_at": "2026-06-17T20:17:08.571736+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Jedi69 Leads with 44.9M Projected TDH",
-      "summary": "\"6529 SVNDIAL\" by Jedi69 (44.9M projected TDH, 63 voters) | \"SEIZE 24/7\" by AshtonTekno (27.4M projected TDH, 48 voters) | \"Cerebrum\" by QuantumSpirit (20.6M projected TDH, 55 voters) Next selection: Fri Jun 19 at 17:00 CET.",
+      "summary": "\"6529 SVNDIAL\" by Jedi69 (44.9M projected TDH, 64 voters) | \"SEIZE 24/7\" by AshtonTekno (27.4M projected TDH, 48 voters) | \"Cerebrum\" by QuantumSpirit (20.6M projected TDH, 55 voters) Next selection: Fri Jun 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Jedi69",
           "value": "44.9M",
-          "sub": "proj. (63 votes)"
+          "sub": "proj. (64 votes)"
         },
         {
           "label": "AshtonTekno",
@@ -107,13 +107,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -174,8 +174,8 @@
       "label": "24h Vol",
       "value": "1.31 ETH",
       "raw": 1.3139,
-      "delta": 0.45940000000000003,
-      "delta_fmt": "+53.8%"
+      "delta": 0.49860000000000004,
+      "delta_fmt": "+61.2%"
     },
     {
       "label": "7d Vol",
@@ -190,9 +190,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.4 ETH",
-      "raw": 42.35,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 42.39,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -202,8 +202,8 @@
     {
       "label": "#1 Jedi69",
       "value": "44.9M TDH",
-      "raw": 44907029,
-      "delta": 6969,
+      "raw": 44915625,
+      "delta": 8596,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -370,7 +370,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #510: 125 MINTS (EXCL. MUSEUM) | 88 HOLDERS | CONVICTION COSPLAYER ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #510: 126 MINTS (EXCL. MUSEUM) | 88 HOLDERS | CONVICTION COSPLAYER "
   ]
 }
