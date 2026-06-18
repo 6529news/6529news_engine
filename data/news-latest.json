@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T00:10:51.446439+00:00",
+  "generated_at": "2026-06-18T01:26:58.327253+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Jedi69 Leads with 44.9M Projected TDH",
-      "summary": "\"6529 SVNDIAL\" by Jedi69 (44.9M projected TDH, 64 voters) | \"SEIZE 24/7\" by AshtonTekno (26.8M projected TDH, 48 voters) | \"Cerebrum\" by QuantumSpirit (20.6M projected TDH, 55 voters) Next selection: Fri Jun 19 at 17:00 CET.",
+      "headline": "Jedi69 Leads with 51.6M Projected TDH",
+      "summary": "\"6529 SVNDIAL\" by Jedi69 (51.6M projected TDH, 65 voters) | \"SEIZE 24/7\" by AshtonTekno (26.8M projected TDH, 48 voters) | \"Cerebrum\" by QuantumSpirit (20.6M projected TDH, 55 voters) Next selection: Fri Jun 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Jedi69",
-          "value": "44.9M",
-          "sub": "proj. (64 votes)"
+          "value": "51.6M",
+          "sub": "proj. (65 votes)"
         },
         {
           "label": "AshtonTekno",
@@ -163,7 +163,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01519999999899",
+          "value": "0.0145",
           "sub": "ETH"
         }
       ]
@@ -174,8 +174,8 @@
       "label": "24h Vol",
       "value": "1.48 ETH",
       "raw": 1.4811,
-      "delta": 0.6658000000000001,
-      "delta_fmt": "+81.7%"
+      "delta": 0.6506000000000001,
+      "delta_fmt": "+78.3%"
     },
     {
       "label": "7d Vol",
@@ -189,22 +189,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.3 ETH",
-      "raw": 42.31,
-      "delta": 0.21999999999999886,
-      "delta_fmt": "+0.22 ETH"
+      "value": "42.4 ETH",
+      "raw": 42.4,
+      "delta": 0.0899999999999963,
+      "delta_fmt": "+0.09 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1687.7M",
-      "raw": 1687654945,
-      "delta": 2663158,
-      "delta_fmt": "+2.7M TDH"
+      "raw": 1687654945
     },
     {
       "label": "#1 Jedi69",
-      "value": "44.9M TDH",
-      "raw": 44915625
+      "value": "51.6M TDH",
+      "raw": 51637800,
+      "delta": 6722175,
+      "delta_fmt": "+6.7M TDH"
     },
     {
       "label": "#1 Hoizon",
@@ -370,7 +370,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #510: 129 MINTS (EXCL. MUSEUM) | 91 HOLDERS | CONVICTION COSPLAYER ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #510: 129 MINTS (EXCL. MUSEUM) | 93 HOLDERS | CONVICTION COSPLAYER "
   ]
 }
