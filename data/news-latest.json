@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T09:02:08.881542+00:00",
+  "generated_at": "2026-06-18T10:47:14.779171+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Jedi69 Leads with 54.7M Projected TDH",
-      "summary": "\"6529 SVNDIAL\" by Jedi69 (54.7M projected TDH, 68 voters) | \"Cerebrum\" by QuantumSpirit (27.9M projected TDH, 55 voters) | \"SEIZE 24/7\" by AshtonTekno (27.0M projected TDH, 52 voters) Next selection: Fri Jun 19 at 17:00 CET.",
+      "summary": "\"6529 SVNDIAL\" by Jedi69 (54.7M projected TDH, 69 voters) | \"Cerebrum\" by QuantumSpirit (27.9M projected TDH, 55 voters) | \"SEIZE 24/7\" by AshtonTekno (27.0M projected TDH, 52 voters) Next selection: Fri Jun 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Jedi69",
           "value": "54.7M",
-          "sub": "proj. (68 votes)"
+          "sub": "proj. (69 votes)"
         },
         {
           "label": "QuantumSpirit",
@@ -54,24 +54,6 @@
           "label": "AshtonTekno",
           "value": "27.0M",
           "sub": "proj. (52 votes)"
-        }
-      ]
-    },
-    {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by GelatoGenesis",
-      "summary": "GelatoGenesis: We just released the wave rep functionality. Will write more about the details of it later, but the main point is that this was our first experiment of releasing a full feature ...",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmXuXC4QNM9diEvBnJT3UY2o9jWTUxhYh3srRuyS2bGFJQ",
-        "label": "GelatoGenesis"
-      },
-      "dataBoxes": [
-        {
-          "label": "GelatoGenesis",
-          "value": "Lv51",
-          "sub": "1K TDH"
         }
       ]
     },
@@ -107,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -135,13 +117,13 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/6.WEBP",
-          "label": "DALL-E's Revenge - 0.690 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/290.GIF",
+          "label": "TAP TAP, Who's There? - 0.141 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/290.GIF",
-          "label": "TAP TAP, Who's There? - 0.141 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/32.WEBP",
+          "label": "You Can't Touch This - 0.110 ETH",
           "type": "image"
         }
       ],
@@ -163,7 +145,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01448",
+          "value": "0.01444",
           "sub": "ETH"
         }
       ]
@@ -174,8 +156,8 @@
       "label": "24h Vol",
       "value": "1.97 ETH",
       "raw": 1.9677,
-      "delta": 1.1129,
-      "delta_fmt": "+130.2%"
+      "delta": 0.3929,
+      "delta_fmt": "+24.9%"
     },
     {
       "label": "7d Vol",
@@ -189,10 +171,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.0 ETH",
-      "raw": 41.98,
-      "delta": -0.3300000000000054,
-      "delta_fmt": "-0.33 ETH"
+      "value": "40.2 ETH",
+      "raw": 40.23,
+      "delta": -1.75,
+      "delta_fmt": "-1.75 ETH"
     },
     {
       "label": "Network TDH",
@@ -202,9 +184,9 @@
     {
       "label": "#1 Jedi69",
       "value": "54.7M TDH",
-      "raw": 54658260,
-      "delta": 15290,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 54749119,
+      "delta": 90859,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 Hoizon",
@@ -371,7 +353,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.928 ETH",
-    "CARD #510: 131 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CONVICTION COSPLAYER ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #510: 131 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CONVICTION COSPLAYER "
   ]
 }
