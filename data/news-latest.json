@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T22:41:29.291885+00:00",
+  "generated_at": "2026-06-18T23:22:07.778970+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING FRIDAY",
-      "headline": "Minting Friday",
-      "summary": " \"Sir, A Needle\" by Hoizon \u2014 52.1M TDH from 77 voters. Top supporter: Giopetto (7.0M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Sir, A Needle\" by Hoizon \u2014 52.1M TDH from 77 voters. Top supporter: Giopetto (7.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -158,10 +158,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.3 ETH",
-      "raw": 40.33,
-      "delta": 0.10000000000000142,
-      "delta_fmt": "+0.10 ETH"
+      "value": "40.4 ETH",
+      "raw": 40.37,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,9 +171,7 @@
     {
       "label": "#1 Jedi69",
       "value": "58.2M TDH",
-      "raw": 58212083,
-      "delta": 373,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 58212083
     },
     {
       "label": "#1 Hoizon",
@@ -341,7 +339,7 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.929 ETH",
     "SGT PEPE SALE: 0.928 ETH",
-    "CARD #510: 137 MINTS (EXCL. MUSEUM) | 96 HOLDERS | CONVICTION COSPLAYER ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #510: 137 MINTS (EXCL. MUSEUM) | 96 HOLDERS | CONVICTION COSPLAYER "
   ]
 }
