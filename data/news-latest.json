@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T17:13:10.888490+00:00",
+  "generated_at": "2026-06-18T18:14:08.133385+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Jedi69 Leads with 54.7M Projected TDH",
-      "summary": "\"6529 SVNDIAL\" by Jedi69 (54.7M projected TDH, 70 voters) | \"Cerebrum\" by QuantumSpirit (27.9M projected TDH, 56 voters) | \"SEIZE 24/7\" by AshtonTekno (27.0M projected TDH, 54 voters) Next selection: Fri Jun 19 at 17:00 CET.",
+      "headline": "Jedi69 Leads with 58.2M Projected TDH",
+      "summary": "\"6529 SVNDIAL\" by Jedi69 (58.2M projected TDH, 70 voters) | \"Cerebrum\" by QuantumSpirit (27.9M projected TDH, 56 voters) | \"SEIZE 24/7\" by AshtonTekno (27.0M projected TDH, 54 voters) Next selection: Fri Jun 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "Jedi69",
-          "value": "54.7M",
+          "value": "58.2M",
           "sub": "proj. (70 votes)"
         },
         {
@@ -88,8 +88,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 2.69 ETH Volume",
-      "summary": "19 sales in 24h for 2.69 ETH. Highest: \"Sgt. Pepe\" at 0.929 ETH.",
+      "headline": "20 Sales Today - 2.73 ETH Volume",
+      "summary": "20 sales in 24h for 2.73 ETH. Highest: \"Sgt. Pepe\" at 0.929 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,12 +117,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.69",
+          "value": "2.73",
           "sub": "ETH"
         },
         {
@@ -141,27 +141,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.69 ETH",
-      "raw": 2.6929,
-      "delta": 1.3654,
-      "delta_fmt": "+102.9%"
+      "value": "2.73 ETH",
+      "raw": 2.7324,
+      "delta": 1.4185,
+      "delta_fmt": "+108.0%"
     },
     {
       "label": "7d Vol",
-      "value": "14.73 ETH",
-      "raw": 14.7323
+      "value": "14.43 ETH",
+      "raw": 14.4267
     },
     {
       "label": "30d Vol",
-      "value": "67.71 ETH",
-      "raw": 67.7077
+      "value": "67.75 ETH",
+      "raw": 67.7472
     },
     {
       "label": "Full Set Bid",
-      "value": "40.4 ETH",
-      "raw": 40.37,
-      "delta": -0.1600000000000037,
-      "delta_fmt": "-0.16 ETH"
+      "value": "39.7 ETH",
+      "raw": 39.71,
+      "delta": -0.6599999999999966,
+      "delta_fmt": "-0.66 ETH"
     },
     {
       "label": "Network TDH",
@@ -170,10 +170,10 @@
     },
     {
       "label": "#1 Jedi69",
-      "value": "54.7M TDH",
-      "raw": 54749250,
-      "delta": 131,
-      "delta_fmt": "+0.0M TDH"
+      "value": "58.2M TDH",
+      "raw": 58211362,
+      "delta": 3462112,
+      "delta_fmt": "+3.5M TDH"
     },
     {
       "label": "#1 Hoizon",
@@ -341,7 +341,7 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.929 ETH",
     "SGT PEPE SALE: 0.928 ETH",
-    "CARD #510: 137 MINTS (EXCL. MUSEUM) | 96 HOLDERS | CONVICTION COSPLAYER ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #510: 137 MINTS (EXCL. MUSEUM) | 96 HOLDERS | CONVICTION COSPLAYER "
   ]
 }
