@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T20:55:31.959336+00:00",
+  "generated_at": "2026-06-19T21:29:02.096320+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "QuantumSpirit Leads with 34.2M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (34.2M projected TDH, 66 voters) | \"artist manifesto\" by alperaym (29.9M projected TDH, 29 voters) | \"SEIZE 24/7\" by AshtonTekno (18.7M projected TDH, 61 voters) Next selection: Mon Jun 22 at 17:00 CET.",
+      "headline": "QuantumSpirit Leads with 34.3M Projected TDH",
+      "summary": "\"Cerebrum\" by QuantumSpirit (34.3M projected TDH, 67 voters) | \"artist manifesto\" by alperaym (29.9M projected TDH, 29 voters) | \"SEIZE 24/7\" by AshtonTekno (18.7M projected TDH, 60 voters) Next selection: Mon Jun 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "QuantumSpirit",
-          "value": "34.2M",
-          "sub": "proj. (66 votes)"
+          "value": "34.3M",
+          "sub": "proj. (67 votes)"
         },
         {
           "label": "alperaym",
@@ -53,7 +53,7 @@
         {
           "label": "AshtonTekno",
           "value": "18.7M",
-          "sub": "proj. (61 votes)"
+          "sub": "proj. (60 votes)"
         }
       ]
     },
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "10 Sales Today - 0.36 ETH Volume",
-      "summary": "10 sales in 24h for 0.36 ETH. Highest: \"Meme Kong\" at 0.070 ETH.",
+      "headline": "9 Sales Today - 0.29 ETH Volume",
+      "summary": "9 sales in 24h for 0.29 ETH. Highest: \"Meme Kong\" at 0.070 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "10",
+          "value": "9",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.36",
+          "value": "0.29",
           "sub": "ETH"
         },
         {
@@ -154,10 +154,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.36 ETH",
-      "raw": 0.358,
-      "delta": -2.4128,
-      "delta_fmt": "-87.1%"
+      "value": "0.29 ETH",
+      "raw": 0.2877,
+      "delta": -2.541,
+      "delta_fmt": "-89.8%"
     },
     {
       "label": "7d Vol",
@@ -172,7 +172,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.9 ETH",
-      "raw": 40.95
+      "raw": 40.89,
+      "delta": -0.060000000000002274,
+      "delta_fmt": "-0.06 ETH"
     },
     {
       "label": "Network TDH",
@@ -181,10 +183,10 @@
     },
     {
       "label": "#1 QuantumSpirit",
-      "value": "34.2M TDH",
-      "raw": 34238487,
-      "delta": 10110,
-      "delta_fmt": "+0.0M TDH"
+      "value": "34.3M TDH",
+      "raw": 34338487,
+      "delta": 100000,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 Jedi69",
@@ -357,7 +359,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #511: 123 MINTS (EXCL. MUSEUM) | 91 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 124 MINTS (EXCL. MUSEUM) | 92 HOLDERS | SIR, A NEEDLE"
   ]
 }
