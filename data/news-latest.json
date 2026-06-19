@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T17:17:32.857593+00:00",
+  "generated_at": "2026-06-19T18:11:50.747803+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "QuantumSpirit Leads with 33.3M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (33.3M projected TDH, 63 voters) | \"artist manifesto\" by alperaym (19.9M projected TDH, 26 voters) | \"SEIZE 24/7\" by AshtonTekno (18.7M projected TDH, 60 voters) Next selection: Mon Jun 22 at 17:00 CET.",
+      "headline": "QuantumSpirit Leads with 34.2M Projected TDH",
+      "summary": "\"Cerebrum\" by QuantumSpirit (34.2M projected TDH, 65 voters) | \"artist manifesto\" by alperaym (23.5M projected TDH, 27 voters) | \"SEIZE 24/7\" by AshtonTekno (18.7M projected TDH, 61 voters) Next selection: Mon Jun 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,25 +42,25 @@
       "dataBoxes": [
         {
           "label": "QuantumSpirit",
-          "value": "33.3M",
-          "sub": "proj. (63 votes)"
+          "value": "34.2M",
+          "sub": "proj. (65 votes)"
         },
         {
           "label": "alperaym",
-          "value": "19.9M",
-          "sub": "proj. (26 votes)"
+          "value": "23.5M",
+          "sub": "proj. (27 votes)"
         },
         {
           "label": "AshtonTekno",
           "value": "18.7M",
-          "sub": "proj. (60 votes)"
+          "sub": "proj. (61 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: 0xCuttlefish (11.2M) | demonego (8.1M) | agnimax (2.7M) | Surreal24seven (1.6M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: 0xCuttlefish (11.2M) | demonego (8.7M) | agnimax (2.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -76,7 +76,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3a7ec28c-dbeb-4c3a-ab5d-67f7eb10c64b/7ede553d-c41c-4d61-a109-c7979500d2f9/63.gif",
-          "label": "demonego (8.1M)",
+          "label": "demonego (8.7M)",
           "type": "image"
         },
         {
@@ -156,8 +156,8 @@
       "label": "24h Vol",
       "value": "0.41 ETH",
       "raw": 0.4125,
-      "delta": -2.2803999999999998,
-      "delta_fmt": "-84.7%"
+      "delta": -2.3199,
+      "delta_fmt": "-84.9%"
     },
     {
       "label": "7d Vol",
@@ -171,10 +171,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.1 ETH",
-      "raw": 40.1,
-      "delta": -0.5,
-      "delta_fmt": "-0.50 ETH"
+      "value": "41.0 ETH",
+      "raw": 41.0,
+      "delta": 0.8999999999999986,
+      "delta_fmt": "+0.90 ETH"
     },
     {
       "label": "Network TDH",
@@ -183,10 +183,10 @@
     },
     {
       "label": "#1 QuantumSpirit",
-      "value": "33.3M TDH",
-      "raw": 33287751,
-      "delta": 3000000,
-      "delta_fmt": "+3.0M TDH"
+      "value": "34.2M TDH",
+      "raw": 34225168,
+      "delta": 937417,
+      "delta_fmt": "+0.9M TDH"
     },
     {
       "label": "#1 Jedi69",
@@ -359,7 +359,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #511: 121 MINTS (EXCL. MUSEUM) | 86 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 122 MINTS (EXCL. MUSEUM) | 87 HOLDERS | SIR, A NEEDLE"
   ]
 }
