@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T20:19:40.539864+00:00",
+  "generated_at": "2026-06-19T20:55:31.959336+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "QuantumSpirit Leads with 34.2M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (34.2M projected TDH, 65 voters) | \"artist manifesto\" by alperaym (29.9M projected TDH, 29 voters) | \"SEIZE 24/7\" by AshtonTekno (18.7M projected TDH, 61 voters) Next selection: Mon Jun 22 at 17:00 CET.",
+      "summary": "\"Cerebrum\" by QuantumSpirit (34.2M projected TDH, 66 voters) | \"artist manifesto\" by alperaym (29.9M projected TDH, 29 voters) | \"SEIZE 24/7\" by AshtonTekno (18.7M projected TDH, 61 voters) Next selection: Mon Jun 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "QuantumSpirit",
           "value": "34.2M",
-          "sub": "proj. (65 votes)"
+          "sub": "proj. (66 votes)"
         },
         {
           "label": "alperaym",
@@ -94,7 +94,7 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
@@ -171,10 +171,8 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.0 ETH",
-      "raw": 40.95,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "value": "40.9 ETH",
+      "raw": 40.95
     },
     {
       "label": "Network TDH",
@@ -184,8 +182,8 @@
     {
       "label": "#1 QuantumSpirit",
       "value": "34.2M TDH",
-      "raw": 34228377,
-      "delta": 3209,
+      "raw": 34238487,
+      "delta": 10110,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -359,7 +357,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #511: 123 MINTS (EXCL. MUSEUM) | 91 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 123 MINTS (EXCL. MUSEUM) | 91 HOLDERS | SIR, A NEEDLE"
   ]
 }
