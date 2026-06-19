@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T21:55:19.174544+00:00",
+  "generated_at": "2026-06-19T22:23:15.214597+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "alperaym Leads with 36.6M Projected TDH",
-      "summary": "\"artist manifesto\" by alperaym (36.6M projected TDH, 30 voters) | \"Cerebrum\" by QuantumSpirit (34.4M projected TDH, 69 voters) | \"SEIZE 24/7\" by AshtonTekno (18.7M projected TDH, 61 voters) Next selection: Mon Jun 22 at 17:00 CET.",
+      "summary": "\"artist manifesto\" by alperaym (36.6M projected TDH, 31 voters) | \"Cerebrum\" by QuantumSpirit (34.4M projected TDH, 69 voters) | \"SEIZE 24/7\" by AshtonTekno (18.7M projected TDH, 61 voters) Next selection: Mon Jun 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "alperaym",
           "value": "36.6M",
-          "sub": "proj. (30 votes)"
+          "sub": "proj. (31 votes)"
         },
         {
           "label": "QuantumSpirit",
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -156,8 +156,8 @@
       "label": "24h Vol",
       "value": "0.29 ETH",
       "raw": 0.2877,
-      "delta": -2.541,
-      "delta_fmt": "-89.8%"
+      "delta": -2.468,
+      "delta_fmt": "-89.6%"
     },
     {
       "label": "7d Vol",
@@ -172,9 +172,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.0 ETH",
-      "raw": 40.97,
-      "delta": 0.0799999999999983,
-      "delta_fmt": "+0.08 ETH"
+      "raw": 41.02,
+      "delta": 0.05000000000000426,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,9 +184,9 @@
     {
       "label": "#1 alperaym",
       "value": "36.6M TDH",
-      "raw": 36605137,
-      "delta": -17078698,
-      "delta_fmt": "-17.1M TDH"
+      "raw": 36615267,
+      "delta": 10130,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 QuantumSpirit",
@@ -366,7 +366,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #511: 124 MINTS (EXCL. MUSEUM) | 92 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 124 MINTS (EXCL. MUSEUM) | 92 HOLDERS | SIR, A NEEDLE"
   ]
 }
