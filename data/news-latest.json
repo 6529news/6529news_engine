@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T22:48:18.891376+00:00",
+  "generated_at": "2026-06-19T23:26:04.625099+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Sir, A Needle\" by Hoizon \u2014 52.1M TDH from 77 voters. Top supporter: Giopetto (7.0M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Sir, A Needle\" by Hoizon \u2014 52.1M TDH from 77 voters. Top supporter: Giopetto (7.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,16 +30,21 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "alperaym Leads with 36.7M Projected TDH",
-      "summary": "\"artist manifesto\" by alperaym (36.7M projected TDH, 32 voters) | \"Cerebrum\" by QuantumSpirit (34.4M projected TDH, 69 voters) | \"SEIZE 24/7\" by AshtonTekno (18.7M projected TDH, 62 voters) Next selection: Mon Jun 22 at 17:00 CET.",
+      "headline": "AshtonTekno Leads with 37.4M Projected TDH",
+      "summary": "\"SEIZE 24/7\" by AshtonTekno (37.4M projected TDH, 62 voters) | \"artist manifesto\" by alperaym (36.7M projected TDH, 32 voters) | \"Cerebrum\" by QuantumSpirit (34.4M projected TDH, 69 voters) Next selection: Mon Jun 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c6019681-b2bb-48a4-b0ab-2ea202e1624c/55f36e32-cd80-43a7-b0f8-d0e6159324c1.jpg",
-        "label": "artist manifesto - alperaym",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_243f9bd2-4866-4dc7-9927-9112f15c2039/1d55416c-37f4-4069-9457-08ef40182b57/SEIZE-24-7-Memecard-By-Ashton-Tekno-Persaud.mp4",
+        "label": "SEIZE 24/7 - AshtonTekno",
+        "type": "video"
       },
       "dataBoxes": [
+        {
+          "label": "AshtonTekno",
+          "value": "37.4M",
+          "sub": "proj. (62 votes)"
+        },
         {
           "label": "alperaym",
           "value": "36.7M",
@@ -49,35 +54,30 @@
           "label": "QuantumSpirit",
           "value": "34.4M",
           "sub": "proj. (69 votes)"
-        },
-        {
-          "label": "AshtonTekno",
-          "value": "18.7M",
-          "sub": "proj. (62 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: 0xCuttlefish (11.2M) | demonego (8.7M) | agnimax (2.7M).",
+      "summary": "3 submissions this week. Ranking: demonego (8.7M) | 0xCuttlefish (2.8M) | agnimax (2.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/e4daf76a-582a-4a9e-bef9-138666360f85/OM-Finale-200MB.mp4",
-        "label": "0xCuttlefish (11.2M)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3a7ec28c-dbeb-4c3a-ab5d-67f7eb10c64b/7ede553d-c41c-4d61-a109-c7979500d2f9/63.gif",
+        "label": "demonego (8.7M)",
+        "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/e4daf76a-582a-4a9e-bef9-138666360f85/OM-Finale-200MB.mp4",
-          "label": "0xCuttlefish (11.2M)",
-          "type": "video"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3a7ec28c-dbeb-4c3a-ab5d-67f7eb10c64b/7ede553d-c41c-4d61-a109-c7979500d2f9/63.gif",
           "label": "demonego (8.7M)",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/e4daf76a-582a-4a9e-bef9-138666360f85/OM-Finale-200MB.mp4",
+          "label": "0xCuttlefish (2.8M)",
+          "type": "video"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f82d963-87b4-11ee-9d82-029a0e4b6159/bcbf9f0a-cc7b-4573-91f6-af7d725623cf/StillHere.mp4",
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -172,14 +172,21 @@
     {
       "label": "Full Set Bid",
       "value": "41.0 ETH",
-      "raw": 40.97,
-      "delta": -0.05000000000000426,
-      "delta_fmt": "-0.05 ETH"
+      "raw": 40.98,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1690.3M",
       "raw": 1690327712
+    },
+    {
+      "label": "#1 AshtonTekno",
+      "value": "37.4M TDH",
+      "raw": 37361336,
+      "delta": -16322499,
+      "delta_fmt": "-16.3M TDH"
     },
     {
       "label": "#1 alperaym",
@@ -366,7 +373,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #511: 124 MINTS (EXCL. MUSEUM) | 92 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 124 MINTS (EXCL. MUSEUM) | 92 HOLDERS | SIR, A NEEDLE"
   ]
 }
