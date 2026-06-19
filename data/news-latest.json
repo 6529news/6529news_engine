@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T23:22:07.778970+00:00",
+  "generated_at": "2026-06-19T00:04:29.572013+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Jedi69 Leads with 58.2M Projected TDH",
-      "summary": "\"6529 SVNDIAL\" by Jedi69 (58.2M projected TDH, 70 voters) | \"Cerebrum\" by QuantumSpirit (27.9M projected TDH, 56 voters) | \"SEIZE 24/7\" by AshtonTekno (19.7M projected TDH, 55 voters) Next selection: Fri Jun 19 at 17:00 CET.",
+      "summary": "\"6529 SVNDIAL\" by Jedi69 (58.2M projected TDH, 70 voters) | \"Cerebrum\" by QuantumSpirit (27.9M projected TDH, 57 voters) | \"SEIZE 24/7\" by AshtonTekno (19.7M projected TDH, 55 voters) Next selection: Fri Jun 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "QuantumSpirit",
           "value": "27.9M",
-          "sub": "proj. (56 votes)"
+          "sub": "proj. (57 votes)"
         },
         {
           "label": "AshtonTekno",
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -109,8 +109,8 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/268.GIF",
-          "label": "FARMERS MARKET - 0.080 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/109.WEBP",
+          "label": "Meme Kong - 0.070 ETH",
           "type": "image"
         }
       ],
@@ -143,8 +143,8 @@
       "label": "24h Vol",
       "value": "2.76 ETH",
       "raw": 2.7557,
-      "delta": 1.3564,
-      "delta_fmt": "+96.9%"
+      "delta": 1.2746,
+      "delta_fmt": "+86.1%"
     },
     {
       "label": "7d Vol",
@@ -158,10 +158,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.4 ETH",
-      "raw": 40.37,
-      "delta": 0.03999999999999915,
-      "delta_fmt": "+0.04 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.14,
+      "delta": -0.22999999999999687,
+      "delta_fmt": "-0.23 ETH"
     },
     {
       "label": "Network TDH",
@@ -339,7 +339,7 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.929 ETH",
     "SGT PEPE SALE: 0.928 ETH",
-    "CARD #510: 137 MINTS (EXCL. MUSEUM) | 96 HOLDERS | CONVICTION COSPLAYER ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #510: 137 MINTS (EXCL. MUSEUM) | 96 HOLDERS | CONVICTION COSPLAYER "
   ]
 }
