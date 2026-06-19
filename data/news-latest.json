@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T16:23:21.891259+00:00",
+  "generated_at": "2026-06-19T16:55:34.453894+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "QuantumSpirit Leads with 30.3M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (30.3M projected TDH, 63 voters) | \"SEIZE 24/7\" by AshtonTekno (18.7M projected TDH, 59 voters) | \"artist manifesto\" by alperaym (15.9M projected TDH, 25 voters) Next selection: Mon Jun 22 at 17:00 CET.",
+      "summary": "\"Cerebrum\" by QuantumSpirit (30.3M projected TDH, 63 voters) | \"SEIZE 24/7\" by AshtonTekno (18.7M projected TDH, 60 voters) | \"artist manifesto\" by alperaym (15.9M projected TDH, 26 voters) Next selection: Mon Jun 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,12 +48,12 @@
         {
           "label": "AshtonTekno",
           "value": "18.7M",
-          "sub": "proj. (59 votes)"
+          "sub": "proj. (60 votes)"
         },
         {
           "label": "alperaym",
           "value": "15.9M",
-          "sub": "proj. (25 votes)"
+          "sub": "proj. (26 votes)"
         }
       ]
     },
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -156,8 +156,8 @@
       "label": "24h Vol",
       "value": "0.41 ETH",
       "raw": 0.4125,
-      "delta": -2.5187999999999997,
-      "delta_fmt": "-85.9%"
+      "delta": -2.2803999999999998,
+      "delta_fmt": "-84.7%"
     },
     {
       "label": "7d Vol",
@@ -172,9 +172,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.6 ETH",
-      "raw": 40.59,
-      "delta": 0.25,
-      "delta_fmt": "+0.25 ETH"
+      "raw": 40.6,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,9 +184,7 @@
     {
       "label": "#1 QuantumSpirit",
       "value": "30.3M TDH",
-      "raw": 30287751,
-      "delta": -23396084,
-      "delta_fmt": "-23.4M TDH"
+      "raw": 30287751
     },
     {
       "label": "#1 Jedi69",
@@ -360,6 +358,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #511: 119 MINTS (EXCL. MUSEUM) | 84 HOLDERS | SIR, A NEEDLE"
+    "CARD #511: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SIR, A NEEDLE"
   ]
 }
