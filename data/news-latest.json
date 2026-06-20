@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T10:17:03.413058+00:00",
+  "generated_at": "2026-06-20T11:17:12.279561+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -101,8 +101,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 1.06 ETH Volume",
-      "summary": "17 sales in 24h for 1.06 ETH. Highest: \"SeizeJPGs\" at 0.249 ETH.",
+      "headline": "15 Sales Today - 1.02 ETH Volume",
+      "summary": "15 sales in 24h for 1.02 ETH. Highest: \"SeizeJPGs\" at 0.249 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.06",
+          "value": "1.02",
           "sub": "ETH"
         },
         {
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.06 ETH",
-      "raw": 1.0621,
-      "delta": -0.45899999999999985,
-      "delta_fmt": "-30.2%"
+      "value": "1.02 ETH",
+      "raw": 1.0239,
+      "delta": 0.42680000000000007,
+      "delta_fmt": "+71.5%"
     },
     {
       "label": "7d Vol",
-      "value": "10.05 ETH",
-      "raw": 10.0505
+      "value": "10.10 ETH",
+      "raw": 10.0993
     },
     {
       "label": "30d Vol",
-      "value": "65.94 ETH",
-      "raw": 65.9376
+      "value": "65.99 ETH",
+      "raw": 65.9864
     },
     {
       "label": "Full Set Bid",
-      "value": "41.5 ETH",
-      "raw": 41.53,
-      "delta": 0.14000000000000057,
-      "delta_fmt": "+0.14 ETH"
+      "value": "41.4 ETH",
+      "raw": 41.43,
+      "delta": -0.10000000000000142,
+      "delta_fmt": "-0.10 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,7 +184,9 @@
     {
       "label": "#1 AshtonTekno",
       "value": "44.9M TDH",
-      "raw": 44888449
+      "raw": 44898741,
+      "delta": 10292,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 alperaym",
@@ -371,7 +373,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #511: 125 MINTS (EXCL. MUSEUM) | 93 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 126 MINTS (EXCL. MUSEUM) | 94 HOLDERS | SIR, A NEEDLE"
   ]
 }
