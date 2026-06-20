@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-06-20T14:31:31.304522+00:00",
+  "generated_at": "2026-06-20T15:22:35.861748+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Sir, A Needle\" by Hoizon \u2014 52.1M TDH from 77 voters. Top supporter: Giopetto (7.0M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/511.GIF",
-        "label": "Sir, A Needle - Hoizon",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING MONDAY",
       "headline": "Minting Monday",
@@ -89,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 1.12 ETH Volume",
-      "summary": "19 sales in 24h for 1.12 ETH. Highest: \"SeizeJPGs\" at 0.249 ETH.",
+      "headline": "20 Sales Today - 1.15 ETH Volume",
+      "summary": "20 sales in 24h for 1.15 ETH. Highest: \"SeizeJPGs\" at 0.249 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +117,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.12",
+          "value": "1.15",
           "sub": "ETH"
         },
         {
@@ -154,27 +141,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.12 ETH",
-      "raw": 1.1208,
-      "delta": 0.6657,
-      "delta_fmt": "+146.3%"
+      "value": "1.15 ETH",
+      "raw": 1.1498,
+      "delta": 0.6946999999999999,
+      "delta_fmt": "+152.6%"
     },
     {
       "label": "7d Vol",
-      "value": "9.28 ETH",
-      "raw": 9.2752
+      "value": "9.30 ETH",
+      "raw": 9.3042
     },
     {
       "label": "30d Vol",
-      "value": "66.08 ETH",
-      "raw": 66.0833
+      "value": "66.11 ETH",
+      "raw": 66.1123
     },
     {
       "label": "Full Set Bid",
-      "value": "41.2 ETH",
-      "raw": 41.23,
-      "delta": -0.15000000000000568,
-      "delta_fmt": "-0.15 ETH"
+      "value": "41.4 ETH",
+      "raw": 41.42,
+      "delta": 0.19000000000000483,
+      "delta_fmt": "+0.19 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,7 +171,9 @@
     {
       "label": "#1 AshtonTekno",
       "value": "44.9M TDH",
-      "raw": 44908968
+      "raw": 44909744,
+      "delta": 776,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 alperaym",
@@ -371,7 +360,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE"
   ]
 }
