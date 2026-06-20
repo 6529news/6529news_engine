@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T09:14:50.502006+00:00",
+  "generated_at": "2026-06-20T10:17:03.413058+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -94,7 +94,7 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
@@ -171,8 +171,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.4 ETH",
-      "raw": 41.39
+      "value": "41.5 ETH",
+      "raw": 41.53,
+      "delta": 0.14000000000000057,
+      "delta_fmt": "+0.14 ETH"
     },
     {
       "label": "Network TDH",
@@ -182,9 +184,7 @@
     {
       "label": "#1 AshtonTekno",
       "value": "44.9M TDH",
-      "raw": 44888449,
-      "delta": 601283,
-      "delta_fmt": "+0.6M TDH"
+      "raw": 44888449
     },
     {
       "label": "#1 alperaym",
@@ -371,7 +371,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #511: 125 MINTS (EXCL. MUSEUM) | 93 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 125 MINTS (EXCL. MUSEUM) | 93 HOLDERS | SIR, A NEEDLE"
   ]
 }
