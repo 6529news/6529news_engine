@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T03:47:46.385184+00:00",
+  "generated_at": "2026-06-21T05:40:27.270647+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,20 +76,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 1.08 ETH Volume",
-      "summary": "19 sales in 24h for 1.08 ETH. Highest: \"SeizeJPGs\" at 0.249 ETH.",
+      "headline": "17 Sales Today - 1.05 ETH Volume",
+      "summary": "17 sales in 24h for 1.05 ETH. Highest: \"SeizeJPGs\" at 0.249 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,12 +117,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.08",
+          "value": "1.05",
           "sub": "ETH"
         },
         {
@@ -141,10 +141,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.08 ETH",
-      "raw": 1.0785,
-      "delta": 0.7098,
-      "delta_fmt": "+192.5%"
+      "value": "1.05 ETH",
+      "raw": 1.051,
+      "delta": 0.35329999999999995,
+      "delta_fmt": "+50.6%"
     },
     {
       "label": "7d Vol",
@@ -159,9 +159,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.8 ETH",
-      "raw": 40.83,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 40.84,
+      "delta": 0.010000000000005116,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,8 +171,8 @@
     {
       "label": "#1 AshtonTekno",
       "value": "44.9M TDH",
-      "raw": 44923144,
-      "delta": 350,
+      "raw": 44942944,
+      "delta": 19800,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -360,7 +360,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE"
   ]
 }
