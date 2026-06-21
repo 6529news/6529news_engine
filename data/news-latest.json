@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T05:40:27.270647+00:00",
+  "generated_at": "2026-06-21T07:19:01.891420+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,59 +76,59 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 1.05 ETH Volume",
-      "summary": "17 sales in 24h for 1.05 ETH. Highest: \"SeizeJPGs\" at 0.249 ETH.",
+      "headline": "8 Sales Today - 0.21 ETH Volume",
+      "summary": "8 sales in 24h for 0.21 ETH. Highest: \"Memehaus\" at 0.055 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-        "label": "SeizeJPGs - 0.249 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/312.WEBP",
+        "label": "Memehaus - 0.055 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.249 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/312.WEBP",
+          "label": "Memehaus - 0.055 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.230 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/25.WEBP",
+          "label": "Authentic Summer - 0.049 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/411.WEBP",
-          "label": "Meme Police - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/58.WEBP",
+          "label": "Bear Survival Tactics - 0.029 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "8",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.05",
+          "value": "0.21",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.249",
-          "sub": "SeizeJPGs"
+          "value": "0.055",
+          "sub": "Memehaus"
         },
         {
           "label": "Floor",
@@ -141,15 +141,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.05 ETH",
-      "raw": 1.051,
-      "delta": 0.35329999999999995,
-      "delta_fmt": "+50.6%"
+      "value": "0.21 ETH",
+      "raw": 0.2078,
+      "delta": -0.8543000000000001,
+      "delta_fmt": "-80.4%"
     },
     {
       "label": "7d Vol",
-      "value": "9.05 ETH",
-      "raw": 9.0542
+      "value": "8.53 ETH",
+      "raw": 8.5339
     },
     {
       "label": "30d Vol",
@@ -158,10 +158,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.8 ETH",
-      "raw": 40.84,
-      "delta": 0.010000000000005116,
-      "delta_fmt": "+0.01 ETH"
+      "value": "40.7 ETH",
+      "raw": 40.71,
+      "delta": -0.13000000000000256,
+      "delta_fmt": "-0.13 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,8 +171,8 @@
     {
       "label": "#1 AshtonTekno",
       "value": "44.9M TDH",
-      "raw": 44942944,
-      "delta": 19800,
+      "raw": 44943354,
+      "delta": 410,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -360,7 +360,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE"
   ]
 }
