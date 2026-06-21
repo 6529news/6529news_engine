@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T23:56:23.308875+00:00",
+  "generated_at": "2026-06-21T01:19:12.571074+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "AshtonTekno Leads with 44.9M Projected TDH",
-      "summary": "\"SEIZE 24/7\" by AshtonTekno (44.9M projected TDH, 67 voters) | \"Cerebrum\" by QuantumSpirit (34.5M projected TDH, 71 voters) | \"artist manifesto\" by alperaym (29.9M projected TDH, 32 voters) Next selection: Mon Jun 22 at 17:00 CET.",
+      "summary": "\"SEIZE 24/7\" by AshtonTekno (44.9M projected TDH, 67 voters) | \"Cerebrum\" by QuantumSpirit (34.8M projected TDH, 72 voters) | \"artist manifesto\" by alperaym (29.9M projected TDH, 32 voters) Next selection: Mon Jun 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "QuantumSpirit",
-          "value": "34.5M",
-          "sub": "proj. (71 votes)"
+          "value": "34.8M",
+          "sub": "proj. (72 votes)"
         },
         {
           "label": "alperaym",
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -158,15 +158,17 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.5 ETH",
-      "raw": 40.47,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "40.8 ETH",
+      "raw": 40.78,
+      "delta": 0.3100000000000023,
+      "delta_fmt": "+0.31 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1693.0M",
-      "raw": 1692997176
+      "value": "1695.7M",
+      "raw": 1695698526,
+      "delta": 2701350,
+      "delta_fmt": "+2.7M TDH"
     },
     {
       "label": "#1 AshtonTekno",
@@ -358,7 +360,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE"
   ]
 }
