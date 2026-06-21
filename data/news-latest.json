@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T18:35:44.799162+00:00",
+  "generated_at": "2026-06-21T19:11:43.058734+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "AshtonTekno Leads with 53.1M Projected TDH",
-      "summary": "\"SEIZE 24/7\" by AshtonTekno (53.1M projected TDH, 71 voters) | \"Cerebrum\" by QuantumSpirit (49.6M projected TDH, 74 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 32 voters) Next selection: Mon Jun 22 at 17:00 CET.",
+      "headline": "AshtonTekno Leads with 55.6M Projected TDH",
+      "summary": "\"SEIZE 24/7\" by AshtonTekno (55.6M projected TDH, 72 voters) | \"Cerebrum\" by QuantumSpirit (49.6M projected TDH, 74 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 32 voters) Next selection: Mon Jun 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "AshtonTekno",
-          "value": "53.1M",
-          "sub": "proj. (71 votes)"
+          "value": "55.6M",
+          "sub": "proj. (72 votes)"
         },
         {
           "label": "QuantumSpirit",
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -189,8 +189,8 @@
       "label": "24h Vol",
       "value": "0.15 ETH",
       "raw": 0.155,
-      "delta": -1.0278,
-      "delta_fmt": "-86.9%"
+      "delta": -1.0045,
+      "delta_fmt": "-86.6%"
     },
     {
       "label": "7d Vol",
@@ -204,10 +204,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.8 ETH",
-      "raw": 39.76,
-      "delta": -0.9500000000000028,
-      "delta_fmt": "-0.95 ETH"
+      "value": "39.9 ETH",
+      "raw": 39.88,
+      "delta": 0.12000000000000455,
+      "delta_fmt": "+0.12 ETH"
     },
     {
       "label": "Network TDH",
@@ -216,10 +216,10 @@
     },
     {
       "label": "#1 AshtonTekno",
-      "value": "53.1M TDH",
-      "raw": 53050545,
-      "delta": 120,
-      "delta_fmt": "+0.0M TDH"
+      "value": "55.6M TDH",
+      "raw": 55585851,
+      "delta": 2535306,
+      "delta_fmt": "+2.5M TDH"
     },
     {
       "label": "#1 QuantumSpirit",
@@ -405,7 +405,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "PEBBLES: FLOOR 0.455 ETH | 1 SALES | LAST SALE 11h AGO",
-    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE"
   ]
 }
