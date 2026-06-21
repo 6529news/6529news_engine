@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T15:02:05.700464+00:00",
+  "generated_at": "2026-06-21T15:54:09.013300+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -46,8 +46,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: demonego (8.7M) | 0xCuttlefish (2.8M) | agnimax (2.7M).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: demonego (8.7M) | 0xCuttlefish (2.8M) | agnimax (2.7M) | Jedi69 (1.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -204,10 +204,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.0 ETH",
-      "raw": 40.96,
-      "delta": -0.17999999999999972,
-      "delta_fmt": "-0.18 ETH"
+      "value": "41.1 ETH",
+      "raw": 41.13,
+      "delta": 0.1700000000000017,
+      "delta_fmt": "+0.17 ETH"
     },
     {
       "label": "Network TDH",
@@ -217,7 +217,9 @@
     {
       "label": "#1 AshtonTekno",
       "value": "53.0M TDH",
-      "raw": 52975156
+      "raw": 52977062,
+      "delta": 1906,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 QuantumSpirit",
@@ -402,8 +404,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.45397 ETH | 1 SALES | LAST SALE 7h AGO",
-    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.45397 ETH | 1 SALES | LAST SALE 8h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 98 HOLDERS | SIR, A NEEDLE"
   ]
 }
