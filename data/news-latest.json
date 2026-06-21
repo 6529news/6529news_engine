@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T21:45:11.964288+00:00",
+  "generated_at": "2026-06-21T22:16:34.253478+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "AshtonTekno Leads with 56.7M Projected TDH",
-      "summary": "\"SEIZE 24/7\" by AshtonTekno (56.7M projected TDH, 75 voters) | \"Cerebrum\" by QuantumSpirit (49.6M projected TDH, 74 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 32 voters) Next selection: Mon Jun 22 at 17:00 CET.",
+      "summary": "\"SEIZE 24/7\" by AshtonTekno (56.7M projected TDH, 76 voters) | \"Cerebrum\" by QuantumSpirit (49.6M projected TDH, 74 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 32 voters) Next selection: Mon Jun 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "AshtonTekno",
           "value": "56.7M",
-          "sub": "proj. (75 votes)"
+          "sub": "proj. (76 votes)"
         },
         {
           "label": "QuantumSpirit",
@@ -132,7 +132,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.017344444",
+          "value": "0.017344443999",
           "sub": "ETH"
         }
       ]
@@ -204,10 +204,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.7 ETH",
-      "raw": 39.7,
-      "delta": -0.05999999999999517,
-      "delta_fmt": "-0.06 ETH"
+      "value": "39.8 ETH",
+      "raw": 39.78,
+      "delta": 0.0799999999999983,
+      "delta_fmt": "+0.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -217,8 +217,8 @@
     {
       "label": "#1 AshtonTekno",
       "value": "56.7M TDH",
-      "raw": 56734035,
-      "delta": 3683,
+      "raw": 56735272,
+      "delta": 1237,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -405,7 +405,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "PEBBLES: FLOOR 0.455 ETH | 1 SALES | LAST SALE 14h AGO",
-    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 100 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 100 HOLDERS | SIR, A NEEDLE"
   ]
 }
