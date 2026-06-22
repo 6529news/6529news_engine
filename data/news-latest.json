@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T18:02:21.635065+00:00",
+  "generated_at": "2026-06-22T19:24:56.205176+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "QuantumSpirit Leads with 51.7M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (51.7M projected TDH, 80 voters) | \"artist manifesto\" by alperaym (30.1M projected TDH, 35 voters) | \"MDAGA\" by Banksit (20.3M projected TDH, 43 voters) Next selection: Wed Jun 24 at 17:00 CET.",
+      "headline": "QuantumSpirit Leads with 51.8M Projected TDH",
+      "summary": "\"Cerebrum\" by QuantumSpirit (51.8M projected TDH, 81 voters) | \"artist manifesto\" by alperaym (30.2M projected TDH, 37 voters) | \"MDAGA\" by Banksit (20.3M projected TDH, 43 voters) Next selection: Wed Jun 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "QuantumSpirit",
-          "value": "51.7M",
-          "sub": "proj. (80 votes)"
+          "value": "51.8M",
+          "sub": "proj. (81 votes)"
         },
         {
           "label": "alperaym",
-          "value": "30.1M",
-          "sub": "proj. (35 votes)"
+          "value": "30.2M",
+          "sub": "proj. (37 votes)"
         },
         {
           "label": "Banksit",
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -156,8 +156,8 @@
       "label": "24h Vol",
       "value": "1.09 ETH",
       "raw": 1.0883,
-      "delta": 0.9972000000000001,
-      "delta_fmt": "+1094.6%"
+      "delta": 0.9333,
+      "delta_fmt": "+602.1%"
     },
     {
       "label": "7d Vol",
@@ -171,10 +171,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.8 ETH",
-      "raw": 40.84,
-      "delta": 0.0800000000000054,
-      "delta_fmt": "+0.08 ETH"
+      "value": "41.2 ETH",
+      "raw": 41.16,
+      "delta": 0.3199999999999932,
+      "delta_fmt": "+0.32 ETH"
     },
     {
       "label": "Network TDH",
@@ -183,10 +183,10 @@
     },
     {
       "label": "#1 QuantumSpirit",
-      "value": "51.7M TDH",
-      "raw": 51694990,
-      "delta": -1500000,
-      "delta_fmt": "-1.5M TDH"
+      "value": "51.8M TDH",
+      "raw": 51803625,
+      "delta": 108635,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 AshtonTekno",
@@ -373,7 +373,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 113 MINTS (EXCL. MUSEUM) | 85 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #512: 115 MINTS (EXCL. MUSEUM) | 86 HOLDERS | 6529 SVNDIAL"
   ]
 }
