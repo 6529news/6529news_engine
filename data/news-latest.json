@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T16:17:35.820300+00:00",
+  "generated_at": "2026-06-22T17:38:08.056538+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "QuantumSpirit Leads with 52.5M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (52.5M projected TDH, 79 voters) | \"artist manifesto\" by alperaym (28.5M projected TDH, 34 voters) | \"Cycle of Creation\" by RalenArc (15.8M projected TDH, 48 voters) Next selection: Wed Jun 24 at 17:00 CET.",
+      "headline": "QuantumSpirit Leads with 53.2M Projected TDH",
+      "summary": "\"Cerebrum\" by QuantumSpirit (53.2M projected TDH, 80 voters) | \"artist manifesto\" by alperaym (30.1M projected TDH, 35 voters) | \"Cycle of Creation\" by RalenArc (15.8M projected TDH, 48 voters) Next selection: Wed Jun 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "QuantumSpirit",
-          "value": "52.5M",
-          "sub": "proj. (79 votes)"
+          "value": "53.2M",
+          "sub": "proj. (80 votes)"
         },
         {
           "label": "alperaym",
-          "value": "28.5M",
-          "sub": "proj. (34 votes)"
+          "value": "30.1M",
+          "sub": "proj. (35 votes)"
         },
         {
           "label": "RalenArc",
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -145,7 +145,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.017430999999",
+          "value": "0.0174309",
           "sub": "ETH"
         }
       ]
@@ -156,8 +156,8 @@
       "label": "24h Vol",
       "value": "1.15 ETH",
       "raw": 1.1521,
-      "delta": 1.0278999999999998,
-      "delta_fmt": "+827.6%"
+      "delta": 1.061,
+      "delta_fmt": "+1164.7%"
     },
     {
       "label": "7d Vol",
@@ -171,10 +171,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.1 ETH",
-      "raw": 41.1,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "40.8 ETH",
+      "raw": 40.76,
+      "delta": -0.3400000000000034,
+      "delta_fmt": "-0.34 ETH"
     },
     {
       "label": "Network TDH",
@@ -183,10 +183,10 @@
     },
     {
       "label": "#1 QuantumSpirit",
-      "value": "52.5M TDH",
-      "raw": 52458956,
-      "delta": 2825289,
-      "delta_fmt": "+2.8M TDH"
+      "value": "53.2M TDH",
+      "raw": 53194990,
+      "delta": 736034,
+      "delta_fmt": "+0.7M TDH"
     },
     {
       "label": "#1 AshtonTekno",
