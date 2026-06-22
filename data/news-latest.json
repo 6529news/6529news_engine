@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T20:23:04.264857+00:00",
+  "generated_at": "2026-06-22T21:25:00.772820+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "QuantumSpirit Leads with 51.8M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (51.8M projected TDH, 82 voters) | \"artist manifesto\" by alperaym (30.2M projected TDH, 37 voters) | \"MDAGA\" by Banksit (16.9M projected TDH, 42 voters) Next selection: Wed Jun 24 at 17:00 CET.",
+      "summary": "\"Cerebrum\" by QuantumSpirit (51.8M projected TDH, 83 voters) | \"artist manifesto\" by alperaym (30.2M projected TDH, 37 voters) | \"MDAGA\" by Banksit (16.9M projected TDH, 42 voters) Next selection: Wed Jun 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "QuantumSpirit",
           "value": "51.8M",
-          "sub": "proj. (82 votes)"
+          "sub": "proj. (83 votes)"
         },
         {
           "label": "alperaym",
@@ -89,13 +89,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#12 aoifeodwyer \u2014 0 TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
-        "label": "aoifeodwyer (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -122,8 +122,8 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/46.WEBP",
-          "label": "gmgn - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/330.GIF",
+          "label": "The Bear Necessities - 0.062 ETH",
           "type": "image"
         }
       ],
@@ -171,10 +171,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.87,
-      "delta": -0.28999999999999915,
-      "delta_fmt": "-0.29 ETH"
+      "value": "40.8 ETH",
+      "raw": 40.84,
+      "delta": -0.02999999999999403,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,9 +184,9 @@
     {
       "label": "#1 QuantumSpirit",
       "value": "51.8M TDH",
-      "raw": 51789089,
-      "delta": -14536,
-      "delta_fmt": "-0.0M TDH"
+      "raw": 51792469,
+      "delta": 3380,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 AshtonTekno",
@@ -373,7 +373,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 116 MINTS (EXCL. MUSEUM) | 87 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #512: 116 MINTS (EXCL. MUSEUM) | 87 HOLDERS | 6529 SVNDIAL"
   ]
 }
