@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T01:29:59.225842+00:00",
+  "generated_at": "2026-06-22T02:26:43.877727+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -76,13 +76,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -205,9 +205,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.2 ETH",
-      "raw": 41.19,
-      "delta": 1.9699999999999989,
-      "delta_fmt": "+1.97 ETH"
+      "raw": 41.16,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -217,9 +217,7 @@
     {
       "label": "#1 AshtonTekno",
       "value": "58.2M TDH",
-      "raw": 58206355,
-      "delta": 16597,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 58206355
     },
     {
       "label": "#1 QuantumSpirit",
@@ -404,8 +402,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.455 ETH | 1 SALES | LAST SALE 18h AGO",
-    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 100 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.455 ETH | 1 SALES | LAST SALE 19h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 100 HOLDERS | SIR, A NEEDLE"
   ]
 }
