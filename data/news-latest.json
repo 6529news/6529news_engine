@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T23:32:13.958852+00:00",
+  "generated_at": "2026-06-22T00:09:55.597933+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -132,7 +132,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.017344444",
+          "value": "0.017344443999",
           "sub": "ETH"
         }
       ]
@@ -194,32 +194,32 @@
     },
     {
       "label": "7d Vol",
-      "value": "8.78 ETH",
-      "raw": 8.7763
+      "value": "8.59 ETH",
+      "raw": 8.5913
     },
     {
       "label": "30d Vol",
-      "value": "64.79 ETH",
-      "raw": 64.7917
+      "value": "63.17 ETH",
+      "raw": 63.1674
     },
     {
       "label": "Full Set Bid",
-      "value": "39.7 ETH",
-      "raw": 39.75,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "39.2 ETH",
+      "raw": 39.22,
+      "delta": -0.5300000000000011,
+      "delta_fmt": "-0.53 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1695.7M",
-      "raw": 1695698526
+      "value": "1698.4M",
+      "raw": 1698362124,
+      "delta": 2663598,
+      "delta_fmt": "+2.7M TDH"
     },
     {
       "label": "#1 AshtonTekno",
       "value": "58.2M TDH",
-      "raw": 58189758,
-      "delta": 4632,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 58189758
     },
     {
       "label": "#1 QuantumSpirit",
@@ -405,7 +405,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "PEBBLES: FLOOR 0.455 ETH | 1 SALES | LAST SALE 16h AGO",
-    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 100 HOLDERS | SIR, A NEEDLE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #511: 130 MINTS (EXCL. MUSEUM) | 100 HOLDERS | SIR, A NEEDLE"
   ]
 }
