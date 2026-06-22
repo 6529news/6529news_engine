@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T10:15:53.876848+00:00",
+  "generated_at": "2026-06-22T12:32:15.874216+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -46,8 +46,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: demonego (8.7M) | 0xCuttlefish (2.8M) | agnimax (2.7M) | Jedi69 (1.3M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: demonego (8.7M) | 0xCuttlefish (2.8M) | Jedi69 (1.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -67,8 +67,8 @@
           "type": "video"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f82d963-87b4-11ee-9d82-029a0e4b6159/bcbf9f0a-cc7b-4573-91f6-af7d725623cf/StillHere.mp4",
-          "label": "agnimax (2.7M)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_76995883-f3f3-42ec-8446-71f35a6708d1/621cf71e-5bfb-4331-a338-8eb2b3dd2381/Trailer-svntikythera.mp4",
+          "label": "Jedi69 (1.3M)",
           "type": "video"
         }
       ],
@@ -132,7 +132,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.017344444",
+          "value": "0.017344443999",
           "sub": "ETH"
         }
       ]
@@ -143,8 +143,8 @@
       "label": "24h Vol",
       "value": "0.81 ETH",
       "raw": 0.814,
-      "delta": 0.532,
-      "delta_fmt": "+188.7%"
+      "delta": 0.5779,
+      "delta_fmt": "+244.8%"
     },
     {
       "label": "7d Vol",
@@ -158,10 +158,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.4 ETH",
-      "raw": 41.4,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "value": "41.3 ETH",
+      "raw": 41.29,
+      "delta": -0.10999999999999943,
+      "delta_fmt": "-0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,8 +171,8 @@
     {
       "label": "#1 AshtonTekno",
       "value": "58.3M TDH",
-      "raw": 58285177,
-      "delta": 1067,
+      "raw": 58285398,
+      "delta": 221,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -358,7 +358,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 46 MINTS (EXCL. MUSEUM) | 28 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #512: 109 MINTS (EXCL. MUSEUM) | 82 HOLDERS | 6529 SVNDIAL"
   ]
 }
