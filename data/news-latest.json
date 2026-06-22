@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T22:53:10.430877+00:00",
+  "generated_at": "2026-06-22T23:32:56.177034+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"6529 SVNDIAL\" by Jedi69 \u2014 58.3M TDH from 74 voters. Top supporter: Thor (16.5M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"6529 SVNDIAL\" by Jedi69 \u2014 58.3M TDH from 74 voters. Top supporter: Thor (16.5M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,16 +30,21 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "QuantumSpirit Leads with 51.8M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (51.8M projected TDH, 83 voters) | \"artist manifesto\" by alperaym (30.2M projected TDH, 37 voters) | \"MDAGA\" by Banksit (16.9M projected TDH, 42 voters) Next selection: Wed Jun 24 at 17:00 CET.",
+      "headline": "GoodVibesClub Leads with 52.0M Projected TDH",
+      "summary": "\"Freedom Craig\" by GoodVibesClub (52.0M projected TDH, 12 voters) | \"Cerebrum\" by QuantumSpirit (51.8M projected TDH, 83 voters) | \"artist manifesto\" by alperaym (30.2M projected TDH, 37 voters) Next selection: Wed Jun 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_98fae5a8-cdd6-4e70-8bf7-d34acbc20caf/7098c351-16b4-4829-aca9-baa6dd957a36.gif",
-        "label": "Cerebrum - QuantumSpirit",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_00a30b49-d0d9-4e1a-a435-31dda7f59076/829333a2-5f77-431c-9c00-ebe09710e433/GVC-6529Card-01.jpg",
+        "label": "Freedom Craig - GoodVibesClub",
         "type": "image"
       },
       "dataBoxes": [
+        {
+          "label": "GoodVibesClub",
+          "value": "52.0M",
+          "sub": "proj. (12 votes)"
+        },
         {
           "label": "QuantumSpirit",
           "value": "51.8M",
@@ -49,31 +54,21 @@
           "label": "alperaym",
           "value": "30.2M",
           "sub": "proj. (37 votes)"
-        },
-        {
-          "label": "Banksit",
-          "value": "16.9M",
-          "sub": "proj. (42 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: GoodVibesClub (52.0M) | demonego (8.7M) | 0xCuttlefish (2.8M) | Jedi69 (1.3M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: demonego (8.7M) | 0xCuttlefish (2.8M) | Jedi69 (1.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_00a30b49-d0d9-4e1a-a435-31dda7f59076/829333a2-5f77-431c-9c00-ebe09710e433/GVC-6529Card-01.jpg",
-        "label": "GoodVibesClub (52.0M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3a7ec28c-dbeb-4c3a-ab5d-67f7eb10c64b/7ede553d-c41c-4d61-a109-c7979500d2f9/63.gif",
+        "label": "demonego (8.7M)",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_00a30b49-d0d9-4e1a-a435-31dda7f59076/829333a2-5f77-431c-9c00-ebe09710e433/GVC-6529Card-01.jpg",
-          "label": "GoodVibesClub (52.0M)",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3a7ec28c-dbeb-4c3a-ab5d-67f7eb10c64b/7ede553d-c41c-4d61-a109-c7979500d2f9/63.gif",
           "label": "demonego (8.7M)",
@@ -83,20 +78,25 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/e4daf76a-582a-4a9e-bef9-138666360f85/OM-Finale-200MB.mp4",
           "label": "0xCuttlefish (2.8M)",
           "type": "video"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_76995883-f3f3-42ec-8446-71f35a6708d1/621cf71e-5bfb-4331-a338-8eb2b3dd2381/Trailer-svntikythera.mp4",
+          "label": "Jedi69 (1.3M)",
+          "type": "video"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
+        "type": "image"
       }
     },
     {
@@ -122,8 +122,8 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/330.GIF",
-          "label": "The Bear Necessities - 0.062 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/342.GIF",
+          "label": "SIN.KING.SHIP - 0.055 ETH",
           "type": "image"
         }
       ],
@@ -155,31 +155,38 @@
     {
       "label": "24h Vol",
       "value": "0.81 ETH",
-      "raw": 0.8108,
-      "delta": 0.41029999999999994,
-      "delta_fmt": "+102.4%"
+      "raw": 0.8109,
+      "delta": 0.34839999999999993,
+      "delta_fmt": "+75.3%"
     },
     {
       "label": "7d Vol",
       "value": "7.69 ETH",
-      "raw": 7.69
+      "raw": 7.6908
     },
     {
       "label": "30d Vol",
-      "value": "63.97 ETH",
-      "raw": 63.9712
+      "value": "63.98 ETH",
+      "raw": 63.9782
     },
     {
       "label": "Full Set Bid",
-      "value": "41.1 ETH",
-      "raw": 41.1,
-      "delta": 0.12000000000000455,
-      "delta_fmt": "+0.12 ETH"
+      "value": "41.2 ETH",
+      "raw": 41.19,
+      "delta": 0.0899999999999963,
+      "delta_fmt": "+0.09 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1698.4M",
       "raw": 1698362124
+    },
+    {
+      "label": "#1 GoodVibesClub",
+      "value": "52.0M TDH",
+      "raw": 51964185,
+      "delta": -1719650,
+      "delta_fmt": "-1.7M TDH"
     },
     {
       "label": "#1 QuantumSpirit",
@@ -371,7 +378,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 116 MINTS (EXCL. MUSEUM) | 87 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #512: 116 MINTS (EXCL. MUSEUM) | 87 HOLDERS | 6529 SVNDIAL"
   ]
 }
