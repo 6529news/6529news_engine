@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T09:12:37.194792+00:00",
+  "generated_at": "2026-06-23T10:29:23.197191+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,25 +30,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "GoodVibesClub Leads with 56.5M Projected TDH",
-      "summary": "\"Freedom Craig\" by GoodVibesClub (56.5M projected TDH, 25 voters) | \"Cerebrum\" by QuantumSpirit (54.6M projected TDH, 84 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 38 voters) Next selection: Wed Jun 24 at 17:00 CET.",
+      "headline": "QuantumSpirit Leads with 57.1M Projected TDH",
+      "summary": "\"Cerebrum\" by QuantumSpirit (57.1M projected TDH, 84 voters) | \"Freedom Craig\" by GoodVibesClub (50.8M projected TDH, 27 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 38 voters) Next selection: Wed Jun 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_00a30b49-d0d9-4e1a-a435-31dda7f59076/829333a2-5f77-431c-9c00-ebe09710e433/GVC-6529Card-01.jpg",
-        "label": "Freedom Craig - GoodVibesClub",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_98fae5a8-cdd6-4e70-8bf7-d34acbc20caf/7098c351-16b4-4829-aca9-baa6dd957a36.gif",
+        "label": "Cerebrum - QuantumSpirit",
         "type": "image"
       },
       "dataBoxes": [
         {
-          "label": "GoodVibesClub",
-          "value": "56.5M",
-          "sub": "proj. (25 votes)"
+          "label": "QuantumSpirit",
+          "value": "57.1M",
+          "sub": "proj. (84 votes)"
         },
         {
-          "label": "QuantumSpirit",
-          "value": "54.6M",
-          "sub": "proj. (84 votes)"
+          "label": "GoodVibesClub",
+          "value": "50.8M",
+          "sub": "proj. (27 votes)"
         },
         {
           "label": "alperaym",
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: demonego (8.1M) | 0xCuttlefish (2.8M) | Jedi69 (1.3M).",
+      "summary": "3 submissions this week. Ranking: demonego (8.1M) | 0xCuttlefish (2.8M) | Jedi69 (1.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -81,7 +81,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_76995883-f3f3-42ec-8446-71f35a6708d1/621cf71e-5bfb-4331-a338-8eb2b3dd2381/Trailer-svntikythera.mp4",
-          "label": "Jedi69 (1.3M)",
+          "label": "Jedi69 (1.4M)",
           "type": "video"
         }
       ],
@@ -101,8 +101,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "9 Sales Today - 1.22 ETH Volume",
-      "summary": "9 sales in 24h for 1.22 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.410 ETH.",
+      "headline": "14 Sales Today - 1.57 ETH Volume",
+      "summary": "14 sales in 24h for 1.57 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.410 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "9",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.22",
+          "value": "1.57",
           "sub": "ETH"
         },
         {
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.22 ETH",
-      "raw": 1.2151,
-      "delta": 0.4011000000000001,
-      "delta_fmt": "+49.3%"
+      "value": "1.57 ETH",
+      "raw": 1.5711,
+      "delta": 0.7571,
+      "delta_fmt": "+93.0%"
     },
     {
       "label": "7d Vol",
-      "value": "8.41 ETH",
-      "raw": 8.4137
+      "value": "8.77 ETH",
+      "raw": 8.7697
     },
     {
       "label": "30d Vol",
-      "value": "55.69 ETH",
-      "raw": 55.6874
+      "value": "56.04 ETH",
+      "raw": 56.0434
     },
     {
       "label": "Full Set Bid",
       "value": "41.0 ETH",
-      "raw": 40.97,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "raw": 41.05,
+      "delta": 0.0799999999999983,
+      "delta_fmt": "+0.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -182,16 +182,18 @@
       "raw": 1700993619
     },
     {
+      "label": "#1 QuantumSpirit",
+      "value": "57.1M TDH",
+      "raw": 57143592,
+      "delta": 5351123,
+      "delta_fmt": "+5.4M TDH"
+    },
+    {
       "label": "#1 GoodVibesClub",
       "value": "56.5M TDH",
       "raw": 56535136,
       "delta": 73178,
       "delta_fmt": "+0.1M TDH"
-    },
-    {
-      "label": "#1 QuantumSpirit",
-      "value": "51.8M TDH",
-      "raw": 51792469
     },
     {
       "label": "#1 AshtonTekno",
@@ -378,7 +380,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 123 MINTS (EXCL. MUSEUM) | 89 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #512: 123 MINTS (EXCL. MUSEUM) | 89 HOLDERS | 6529 SVNDIAL"
   ]
 }
