@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T03:24:47.565427+00:00",
+  "generated_at": "2026-06-23T04:50:30.786116+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "GoodVibesClub Leads with 52.8M Projected TDH",
-      "summary": "\"Freedom Craig\" by GoodVibesClub (52.8M projected TDH, 17 voters) | \"Cerebrum\" by QuantumSpirit (51.2M projected TDH, 84 voters) | \"artist manifesto\" by alperaym (30.2M projected TDH, 37 voters) Next selection: Wed Jun 24 at 17:00 CET.",
+      "headline": "GoodVibesClub Leads with 53.8M Projected TDH",
+      "summary": "\"Freedom Craig\" by GoodVibesClub (53.8M projected TDH, 19 voters) | \"Cerebrum\" by QuantumSpirit (51.2M projected TDH, 84 voters) | \"artist manifesto\" by alperaym (30.2M projected TDH, 37 voters) Next selection: Wed Jun 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "GoodVibesClub",
-          "value": "52.8M",
-          "sub": "proj. (17 votes)"
+          "value": "53.8M",
+          "sub": "proj. (19 votes)"
         },
         {
           "label": "QuantumSpirit",
@@ -89,14 +89,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
+        "type": "image"
       }
     },
     {
@@ -171,10 +171,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.92,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "41.0 ETH",
+      "raw": 41.0,
+      "delta": 0.0799999999999983,
+      "delta_fmt": "+0.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -183,10 +183,10 @@
     },
     {
       "label": "#1 GoodVibesClub",
-      "value": "52.8M TDH",
-      "raw": 52790734,
-      "delta": 654460,
-      "delta_fmt": "+0.7M TDH"
+      "value": "53.8M TDH",
+      "raw": 53806014,
+      "delta": 1015280,
+      "delta_fmt": "+1.0M TDH"
     },
     {
       "label": "#1 QuantumSpirit",
@@ -378,7 +378,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 121 MINTS (EXCL. MUSEUM) | 87 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #512: 122 MINTS (EXCL. MUSEUM) | 88 HOLDERS | 6529 SVNDIAL"
   ]
 }
