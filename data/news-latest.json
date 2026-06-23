@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T18:11:23.726154+00:00",
+  "generated_at": "2026-06-23T18:58:34.975323+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "QuantumSpirit Leads with 58.3M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (58.3M projected TDH, 87 voters) | \"Freedom Craig\" by GoodVibesClub (54.4M projected TDH, 38 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 38 voters) Next selection: Wed Jun 24 at 17:00 CET.",
+      "summary": "\"Cerebrum\" by QuantumSpirit (58.3M projected TDH, 88 voters) | \"Freedom Craig\" by GoodVibesClub (54.4M projected TDH, 38 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 38 voters) Next selection: Wed Jun 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "QuantumSpirit",
           "value": "58.3M",
-          "sub": "proj. (87 votes)"
+          "sub": "proj. (88 votes)"
         },
         {
           "label": "GoodVibesClub",
@@ -76,14 +76,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
+        "type": "image"
       }
     },
     {
@@ -132,7 +132,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01741",
+          "value": "0.0174",
           "sub": "ETH"
         }
       ]
@@ -148,8 +148,8 @@
     },
     {
       "label": "7d Vol",
-      "value": "8.47 ETH",
-      "raw": 8.4696
+      "value": "8.43 ETH",
+      "raw": 8.4276
     },
     {
       "label": "30d Vol",
@@ -159,9 +159,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.1 ETH",
-      "raw": 41.06,
-      "delta": 0.03999999999999915,
-      "delta_fmt": "+0.04 ETH"
+      "raw": 41.08,
+      "delta": 0.01999999999999602,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,7 +171,9 @@
     {
       "label": "#1 QuantumSpirit",
       "value": "58.3M TDH",
-      "raw": 58323054
+      "raw": 58344604,
+      "delta": 21550,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 GoodVibesClub",
@@ -365,7 +367,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 134 MINTS (EXCL. MUSEUM) | 93 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #512: 134 MINTS (EXCL. MUSEUM) | 93 HOLDERS | 6529 SVNDIAL"
   ]
 }
