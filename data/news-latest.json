@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T01:15:21.381622+00:00",
+  "generated_at": "2026-06-23T02:04:10.345559+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "GoodVibesClub Leads with 52.1M Projected TDH",
-      "summary": "\"Freedom Craig\" by GoodVibesClub (52.1M projected TDH, 15 voters) | \"Cerebrum\" by QuantumSpirit (51.8M projected TDH, 83 voters) | \"artist manifesto\" by alperaym (30.2M projected TDH, 37 voters) Next selection: Wed Jun 24 at 17:00 CET.",
+      "summary": "\"Freedom Craig\" by GoodVibesClub (52.1M projected TDH, 15 voters) | \"Cerebrum\" by QuantumSpirit (51.8M projected TDH, 84 voters) | \"artist manifesto\" by alperaym (30.2M projected TDH, 37 voters) Next selection: Wed Jun 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +48,7 @@
         {
           "label": "QuantumSpirit",
           "value": "51.8M",
-          "sub": "proj. (83 votes)"
+          "sub": "proj. (84 votes)"
         },
         {
           "label": "alperaym",
@@ -89,14 +89,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
+        "type": "image"
       }
     },
     {
@@ -171,24 +171,20 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.93,
-      "delta": 0.10999999999999943,
-      "delta_fmt": "+0.11 ETH"
+      "value": "41.0 ETH",
+      "raw": 40.95,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1701.0M",
-      "raw": 1700993619,
-      "delta": 2631495,
-      "delta_fmt": "+2.6M TDH"
+      "raw": 1700993619
     },
     {
       "label": "#1 GoodVibesClub",
       "value": "52.1M TDH",
-      "raw": 52136274,
-      "delta": 172089,
-      "delta_fmt": "+0.2M TDH"
+      "raw": 52136274
     },
     {
       "label": "#1 QuantumSpirit",
@@ -380,7 +376,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 116 MINTS (EXCL. MUSEUM) | 87 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #512: 121 MINTS (EXCL. MUSEUM) | 87 HOLDERS | 6529 SVNDIAL"
   ]
 }
