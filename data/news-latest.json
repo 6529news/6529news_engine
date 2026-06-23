@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T13:40:51.823468+00:00",
+  "generated_at": "2026-06-23T14:41:11.192486+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "QuantumSpirit Leads with 58.3M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (58.3M projected TDH, 84 voters) | \"Freedom Craig\" by GoodVibesClub (51.9M projected TDH, 31 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 38 voters) Next selection: Wed Jun 24 at 17:00 CET.",
+      "summary": "\"Cerebrum\" by QuantumSpirit (58.3M projected TDH, 85 voters) | \"Freedom Craig\" by GoodVibesClub (52.0M projected TDH, 35 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 38 voters) Next selection: Wed Jun 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,12 +43,12 @@
         {
           "label": "QuantumSpirit",
           "value": "58.3M",
-          "sub": "proj. (84 votes)"
+          "sub": "proj. (85 votes)"
         },
         {
           "label": "GoodVibesClub",
-          "value": "51.9M",
-          "sub": "proj. (31 votes)"
+          "value": "52.0M",
+          "sub": "proj. (35 votes)"
         },
         {
           "label": "alperaym",
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "12 Sales Today - 1.40 ETH Volume",
-      "summary": "12 sales in 24h for 1.40 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.410 ETH.",
+      "headline": "12 Sales Today - 1.50 ETH Volume",
+      "summary": "12 sales in 24h for 1.50 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.410 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -135,7 +135,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.40",
+          "value": "1.50",
           "sub": "ETH"
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.017415",
+          "value": "0.01741499",
           "sub": "ETH"
         }
       ]
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.40 ETH",
-      "raw": 1.3994,
-      "delta": 0.26469999999999994,
-      "delta_fmt": "+23.3%"
+      "value": "1.50 ETH",
+      "raw": 1.5021,
+      "delta": 0.36739999999999995,
+      "delta_fmt": "+32.4%"
     },
     {
       "label": "7d Vol",
-      "value": "8.27 ETH",
-      "raw": 8.2695
+      "value": "8.39 ETH",
+      "raw": 8.3895
     },
     {
       "label": "30d Vol",
-      "value": "56.19 ETH",
-      "raw": 56.1924
+      "value": "56.31 ETH",
+      "raw": 56.3124
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.94,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "41.0 ETH",
+      "raw": 40.97,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,7 +184,9 @@
     {
       "label": "#1 QuantumSpirit",
       "value": "58.3M TDH",
-      "raw": 58303541
+      "raw": 58307041,
+      "delta": 3500,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 GoodVibesClub",
@@ -378,7 +380,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 123 MINTS (EXCL. MUSEUM) | 89 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #512: 134 MINTS (EXCL. MUSEUM) | 93 HOLDERS | 6529 SVNDIAL"
   ]
 }
