@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-06-23T14:41:11.192486+00:00",
+  "generated_at": "2026-06-23T15:43:05.814992+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"6529 SVNDIAL\" by Jedi69 \u2014 58.3M TDH from 74 voters. Top supporter: Thor (16.5M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/512.PNG",
-        "label": "6529 SVNDIAL - Jedi69",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING WEDNESDAY",
       "headline": "Minting Wednesday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "QuantumSpirit Leads with 58.3M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (58.3M projected TDH, 85 voters) | \"Freedom Craig\" by GoodVibesClub (52.0M projected TDH, 35 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 38 voters) Next selection: Wed Jun 24 at 17:00 CET.",
+      "summary": "\"Cerebrum\" by QuantumSpirit (58.3M projected TDH, 86 voters) | \"Freedom Craig\" by GoodVibesClub (52.0M projected TDH, 37 voters) | \"artist manifesto\" by alperaym (28.2M projected TDH, 38 voters) Next selection: Wed Jun 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,12 +30,12 @@
         {
           "label": "QuantumSpirit",
           "value": "58.3M",
-          "sub": "proj. (85 votes)"
+          "sub": "proj. (86 votes)"
         },
         {
           "label": "GoodVibesClub",
           "value": "52.0M",
-          "sub": "proj. (35 votes)"
+          "sub": "proj. (37 votes)"
         },
         {
           "label": "alperaym",
@@ -156,8 +143,8 @@
       "label": "24h Vol",
       "value": "1.50 ETH",
       "raw": 1.5021,
-      "delta": 0.36739999999999995,
-      "delta_fmt": "+32.4%"
+      "delta": 0.3500000000000001,
+      "delta_fmt": "+30.4%"
     },
     {
       "label": "7d Vol",
@@ -172,9 +159,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.0 ETH",
-      "raw": 40.97,
-      "delta": 0.030000000000001137,
-      "delta_fmt": "+0.03 ETH"
+      "raw": 40.96,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -184,8 +171,8 @@
     {
       "label": "#1 QuantumSpirit",
       "value": "58.3M TDH",
-      "raw": 58307041,
-      "delta": 3500,
+      "raw": 58307088,
+      "delta": 47,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -380,7 +367,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 134 MINTS (EXCL. MUSEUM) | 93 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #512: 134 MINTS (EXCL. MUSEUM) | 93 HOLDERS | 6529 SVNDIAL"
   ]
 }
