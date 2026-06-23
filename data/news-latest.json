@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T19:43:53.542905+00:00",
+  "generated_at": "2026-06-23T20:30:34.649099+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -46,8 +46,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: 0xCuttlefish (2.8M) | demonego (2.8M) | Jedi69 (1.4M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: 0xCuttlefish (2.8M) | Jedi69 (1.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -62,11 +62,6 @@
           "type": "video"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3a7ec28c-dbeb-4c3a-ab5d-67f7eb10c64b/7ede553d-c41c-4d61-a109-c7979500d2f9/63.gif",
-          "label": "demonego (2.8M)",
-          "type": "image"
-        },
-        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_76995883-f3f3-42ec-8446-71f35a6708d1/621cf71e-5bfb-4331-a338-8eb2b3dd2381/Trailer-svntikythera.mp4",
           "label": "Jedi69 (1.4M)",
           "type": "video"
@@ -76,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 1.58 ETH Volume",
-      "summary": "17 sales in 24h for 1.58 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.410 ETH.",
+      "headline": "18 Sales Today - 1.67 ETH Volume",
+      "summary": "18 sales in 24h for 1.67 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.410 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "18",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.58",
+          "value": "1.67",
           "sub": "ETH"
         },
         {
@@ -141,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.58 ETH",
-      "raw": 1.5822,
-      "delta": 0.4939,
-      "delta_fmt": "+45.4%"
+      "value": "1.67 ETH",
+      "raw": 1.672,
+      "delta": 0.5535999999999999,
+      "delta_fmt": "+49.5%"
     },
     {
       "label": "7d Vol",
-      "value": "8.43 ETH",
-      "raw": 8.4276
+      "value": "8.55 ETH",
+      "raw": 8.5475
     },
     {
       "label": "30d Vol",
-      "value": "56.39 ETH",
-      "raw": 56.3925
+      "value": "56.51 ETH",
+      "raw": 56.5125
     },
     {
       "label": "Full Set Bid",
       "value": "41.1 ETH",
-      "raw": 41.12,
-      "delta": 0.03999999999999915,
-      "delta_fmt": "+0.04 ETH"
+      "raw": 41.13,
+      "delta": 0.010000000000005116,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -171,9 +166,7 @@
     {
       "label": "#1 QuantumSpirit",
       "value": "59.2M TDH",
-      "raw": 59208417,
-      "delta": 863813,
-      "delta_fmt": "+0.9M TDH"
+      "raw": 59208417
     },
     {
       "label": "#1 GoodVibesClub",
@@ -367,7 +360,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 134 MINTS (EXCL. MUSEUM) | 93 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #512: 134 MINTS (EXCL. MUSEUM) | 93 HOLDERS | 6529 SVNDIAL"
   ]
 }
