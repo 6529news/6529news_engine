@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T13:17:58.975315+00:00",
+  "generated_at": "2026-06-24T14:18:08.798468+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,16 +9,16 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_243f9bd2-4866-4dc7-9927-9112f15c2039/1d55416c-37f4-4069-9457-08ef40182b57/SEIZE-24-7-Memecard-By-Ashton-Tekno-Persaud.mp4",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/513.GIF",
         "label": "SEIZE 24/7 - AshtonTekno",
-        "type": "video"
+        "type": "image"
       },
       "dataBoxes": null
     },
     {
       "category": "TOP MEMES",
-      "headline": "GoodVibesClub Leads with 67.2M Projected TDH",
-      "summary": "\"Freedom Craig\" by GoodVibesClub (67.2M projected TDH, 55 voters) | \"Cerebrum\" by QuantumSpirit (62.8M projected TDH, 93 voters) | \"artist manifesto\" by alperaym (27.1M projected TDH, 37 voters) Next selection: Wed Jun 24 at 17:00 CET.",
+      "headline": "GoodVibesClub Leads with 67.3M Projected TDH",
+      "summary": "\"Freedom Craig\" by GoodVibesClub (67.3M projected TDH, 56 voters) | \"Cerebrum\" by QuantumSpirit (62.8M projected TDH, 94 voters) | \"artist manifesto\" by alperaym (27.1M projected TDH, 37 voters) Next selection: Wed Jun 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "GoodVibesClub",
-          "value": "67.2M",
-          "sub": "proj. (55 votes)"
+          "value": "67.3M",
+          "sub": "proj. (56 votes)"
         },
         {
           "label": "QuantumSpirit",
           "value": "62.8M",
-          "sub": "proj. (93 votes)"
+          "sub": "proj. (94 votes)"
         },
         {
           "label": "alperaym",
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -99,8 +99,8 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/24.WEBP",
-          "label": "NFT Adoption Pathway 2030 - 0.120 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+          "label": "< no, really [ this ] is going to be our year > - 0.101 ETH",
           "type": "image"
         }
       ],
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.017385",
+          "value": "0.0173845",
           "sub": "ETH"
         }
       ]
@@ -133,8 +133,8 @@
       "label": "24h Vol",
       "value": "2.08 ETH",
       "raw": 2.0763,
-      "delta": 0.6768999999999998,
-      "delta_fmt": "+48.4%"
+      "delta": 0.5741999999999998,
+      "delta_fmt": "+38.2%"
     },
     {
       "label": "7d Vol",
@@ -149,9 +149,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.1 ETH",
-      "raw": 42.08,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "raw": 42.1,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -160,10 +160,10 @@
     },
     {
       "label": "#1 GoodVibesClub",
-      "value": "67.2M TDH",
-      "raw": 67203089,
-      "delta": 42350,
-      "delta_fmt": "+0.0M TDH"
+      "value": "67.3M TDH",
+      "raw": 67302511,
+      "delta": 99422,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 QuantumSpirit",
@@ -357,7 +357,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #512: 277 MINTS (EXCL. MUSEUM) | 95 HOLDERS | 6529 SVNDIAL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #513: 112 MINTS (EXCL. MUSEUM) | 79 HOLDERS | SEIZE 24/7"
   ]
 }
