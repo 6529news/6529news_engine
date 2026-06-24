@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T22:30:46.357765+00:00",
+  "generated_at": "2026-06-24T23:08:35.695405+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"SEIZE 24/7\" by AshtonTekno \u2014 58.3M TDH from 82 voters. Top supporter: gpebbles (20.1M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"SEIZE 24/7\" by AshtonTekno \u2014 58.3M TDH from 82 voters. Top supporter: gpebbles (20.1M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "37 Sales Today - 2.26 ETH Volume",
-      "summary": "37 sales in 24h for 2.26 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
+      "headline": "39 Sales Today - 2.35 ETH Volume",
+      "summary": "39 sales in 24h for 2.35 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "37",
+          "value": "39",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.26",
+          "value": "2.35",
           "sub": "ETH"
         },
         {
@@ -135,7 +135,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.017372999999",
+          "value": "0.017372989999",
           "sub": "ETH"
         }
       ]
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.26 ETH",
-      "raw": 2.2554,
-      "delta": 0.5833999999999999,
-      "delta_fmt": "+34.9%"
+      "value": "2.35 ETH",
+      "raw": 2.3454,
+      "delta": 0.5094000000000001,
+      "delta_fmt": "+27.7%"
     },
     {
       "label": "7d Vol",
-      "value": "9.45 ETH",
-      "raw": 9.4486
+      "value": "9.54 ETH",
+      "raw": 9.5386
     },
     {
       "label": "30d Vol",
-      "value": "55.70 ETH",
-      "raw": 55.698
+      "value": "55.79 ETH",
+      "raw": 55.788
     },
     {
       "label": "Full Set Bid",
-      "value": "42.3 ETH",
-      "raw": 42.35,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "43.5 ETH",
+      "raw": 43.45,
+      "delta": 1.1000000000000014,
+      "delta_fmt": "+1.10 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,9 @@
     {
       "label": "#1 QuantumSpirit",
       "value": "90.7M TDH",
-      "raw": 90663222,
-      "delta": 1498139,
-      "delta_fmt": "+1.5M TDH"
+      "raw": 90663423,
+      "delta": 201,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 GoodVibesClub",
@@ -370,7 +370,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #513: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SEIZE 24/7",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #513: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SEIZE 24/7"
   ]
 }
