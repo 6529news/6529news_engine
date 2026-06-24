@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T16:17:28.842088+00:00",
+  "generated_at": "2026-06-24T16:52:28.284470+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "33 Sales Today - 2.17 ETH Volume",
-      "summary": "33 sales in 24h for 2.17 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
+      "headline": "35 Sales Today - 2.23 ETH Volume",
+      "summary": "35 sales in 24h for 2.23 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "33",
+          "value": "35",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.17",
+          "value": "2.23",
           "sub": "ETH"
         },
         {
@@ -144,25 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.17 ETH",
-      "raw": 2.1698,
-      "delta": 0.5875999999999999,
-      "delta_fmt": "+37.1%"
+      "value": "2.23 ETH",
+      "raw": 2.2312,
+      "delta": 0.6489999999999998,
+      "delta_fmt": "+41.0%"
     },
     {
       "label": "7d Vol",
-      "value": "9.28 ETH",
-      "raw": 9.2789
+      "value": "9.34 ETH",
+      "raw": 9.345
     },
     {
       "label": "30d Vol",
-      "value": "55.32 ETH",
-      "raw": 55.3159
+      "value": "55.41 ETH",
+      "raw": 55.4119
     },
     {
       "label": "Full Set Bid",
       "value": "42.0 ETH",
-      "raw": 42.02
+      "raw": 42.03,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -172,9 +174,7 @@
     {
       "label": "#1 QuantumSpirit",
       "value": "67.4M TDH",
-      "raw": 67426286,
-      "delta": 8217707,
-      "delta_fmt": "+8.2M TDH"
+      "raw": 67426286
     },
     {
       "label": "#1 GoodVibesClub",
@@ -369,6 +369,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #513: 118 MINTS (EXCL. MUSEUM) | 84 HOLDERS | SEIZE 24/7"
+    "CARD #513: 119 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SEIZE 24/7"
   ]
 }
