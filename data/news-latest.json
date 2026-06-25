@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T10:28:07.333576+00:00",
+  "generated_at": "2026-06-25T11:27:07.356253+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "QuantumSpirit Leads with 103.5M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (103.5M projected TDH, 98 voters) | \"artist manifesto\" by alperaym (26.2M projected TDH, 37 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (18.5M projected TDH, 34 voters) Next selection: Fri Jun 26 at 17:00 CET.",
+      "summary": "\"Cerebrum\" by QuantumSpirit (103.5M projected TDH, 98 voters) | \"artist manifesto\" by alperaym (26.2M projected TDH, 37 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (18.6M projected TDH, 34 voters) Next selection: Fri Jun 26 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -52,7 +52,7 @@
         },
         {
           "label": "MoonZoey",
-          "value": "18.5M",
+          "value": "18.6M",
           "sub": "proj. (34 votes)"
         }
       ]
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#12 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "35 Sales Today - 1.89 ETH Volume",
-      "summary": "35 sales in 24h for 1.89 ETH. Highest: \"The Socially Umpired Animals\" at 0.420 ETH.",
+      "headline": "34 Sales Today - 1.84 ETH Volume",
+      "summary": "34 sales in 24h for 1.84 ETH. Highest: \"The Socially Umpired Animals\" at 0.420 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "35",
+          "value": "34",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.89",
+          "value": "1.84",
           "sub": "ETH"
         },
         {
@@ -144,10 +144,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.89 ETH",
-      "raw": 1.8882,
-      "delta": 0.43300000000000005,
-      "delta_fmt": "+29.8%"
+      "value": "1.84 ETH",
+      "raw": 1.8382,
+      "delta": 0.16300000000000003,
+      "delta_fmt": "+9.7%"
     },
     {
       "label": "7d Vol",
@@ -162,9 +162,9 @@
     {
       "label": "Full Set Bid",
       "value": "43.4 ETH",
-      "raw": 43.43,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 43.41,
+      "delta": -0.020000000000003126,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 QuantumSpirit",
       "value": "103.5M TDH",
-      "raw": 103501711,
-      "delta": 5000000,
-      "delta_fmt": "+5.0M TDH"
+      "raw": 103501711
     },
     {
       "label": "#1 GoodVibesClub",
@@ -370,7 +368,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #513: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SEIZE 24/7",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #513: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SEIZE 24/7"
   ]
 }
