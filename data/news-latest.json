@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T08:10:14.352858+00:00",
+  "generated_at": "2026-06-25T09:24:20.658591+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -146,8 +146,8 @@
       "label": "24h Vol",
       "value": "2.17 ETH",
       "raw": 2.1734,
-      "delta": 0.3904000000000001,
-      "delta_fmt": "+21.9%"
+      "delta": 0.4274,
+      "delta_fmt": "+24.5%"
     },
     {
       "label": "7d Vol",
@@ -162,9 +162,7 @@
     {
       "label": "Full Set Bid",
       "value": "43.4 ETH",
-      "raw": 43.42,
-      "delta": 0.17999999999999972,
-      "delta_fmt": "+0.18 ETH"
+      "raw": 43.42
     },
     {
       "label": "Network TDH",
@@ -174,9 +172,7 @@
     {
       "label": "#1 QuantumSpirit",
       "value": "98.5M TDH",
-      "raw": 98501711,
-      "delta": -796,
-      "delta_fmt": "-0.0M TDH"
+      "raw": 98501711
     },
     {
       "label": "#1 GoodVibesClub",
@@ -370,7 +366,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #513: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SEIZE 24/7",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #513: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SEIZE 24/7"
   ]
 }
