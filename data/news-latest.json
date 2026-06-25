@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T23:40:08.113253+00:00",
+  "generated_at": "2026-06-25T00:09:44.622569+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "QuantumSpirit Leads with 90.7M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (90.7M projected TDH, 95 voters) | \"artist manifesto\" by alperaym (26.2M projected TDH, 37 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (18.2M projected TDH, 32 voters) Next selection: Fri Jun 26 at 17:00 CET.",
+      "summary": "\"Cerebrum\" by QuantumSpirit (90.7M projected TDH, 95 voters) | \"artist manifesto\" by alperaym (26.2M projected TDH, 37 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (18.3M projected TDH, 32 voters) Next selection: Fri Jun 26 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -52,7 +52,7 @@
         },
         {
           "label": "MoonZoey",
-          "value": "18.2M",
+          "value": "18.3M",
           "sub": "proj. (32 votes)"
         }
       ]
@@ -79,14 +79,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
+        "type": "image"
       }
     },
     {
@@ -162,19 +162,21 @@
     {
       "label": "Full Set Bid",
       "value": "43.5 ETH",
-      "raw": 43.47,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 43.47
     },
     {
       "label": "Network TDH",
-      "value": "1703.6M",
-      "raw": 1703555778
+      "value": "1706.4M",
+      "raw": 1706398952,
+      "delta": 2843174,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 QuantumSpirit",
       "value": "90.7M TDH",
-      "raw": 90663423
+      "raw": 90686507,
+      "delta": 23084,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 GoodVibesClub",
@@ -368,7 +370,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #513: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SEIZE 24/7",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #513: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SEIZE 24/7"
   ]
 }
