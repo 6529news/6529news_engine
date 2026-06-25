@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T01:18:16.472399+00:00",
+  "generated_at": "2026-06-25T02:21:42.831809+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "QuantumSpirit Leads with 90.7M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (90.7M projected TDH, 95 voters) | \"artist manifesto\" by alperaym (26.2M projected TDH, 37 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (18.3M projected TDH, 32 voters) Next selection: Fri Jun 26 at 17:00 CET.",
+      "headline": "QuantumSpirit Leads with 98.5M Projected TDH",
+      "summary": "\"Cerebrum\" by QuantumSpirit (98.5M projected TDH, 96 voters) | \"artist manifesto\" by alperaym (26.2M projected TDH, 37 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (18.5M projected TDH, 32 voters) Next selection: Fri Jun 26 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "QuantumSpirit",
-          "value": "90.7M",
-          "sub": "proj. (95 votes)"
+          "value": "98.5M",
+          "sub": "proj. (96 votes)"
         },
         {
           "label": "alperaym",
@@ -52,7 +52,7 @@
         },
         {
           "label": "MoonZoey",
-          "value": "18.3M",
+          "value": "18.5M",
           "sub": "proj. (32 votes)"
         }
       ]
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -145,26 +145,26 @@
     {
       "label": "24h Vol",
       "value": "2.07 ETH",
-      "raw": 2.0725,
-      "delta": -0.013500000000000068,
+      "raw": 2.0734,
+      "delta": -0.012599999999999945,
       "delta_fmt": "-0.6%"
     },
     {
       "label": "7d Vol",
       "value": "8.26 ETH",
-      "raw": 8.2551
+      "raw": 8.2588
     },
     {
       "label": "30d Vol",
-      "value": "50.93 ETH",
-      "raw": 50.9315
+      "value": "50.95 ETH",
+      "raw": 50.9542
     },
     {
       "label": "Full Set Bid",
       "value": "43.4 ETH",
-      "raw": 43.42,
-      "delta": -0.04999999999999716,
-      "delta_fmt": "-0.05 ETH"
+      "raw": 43.44,
+      "delta": 0.01999999999999602,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,8 +173,10 @@
     },
     {
       "label": "#1 QuantumSpirit",
-      "value": "90.7M TDH",
-      "raw": 90686507
+      "value": "98.5M TDH",
+      "raw": 98502505,
+      "delta": 7815998,
+      "delta_fmt": "+7.8M TDH"
     },
     {
       "label": "#1 GoodVibesClub",
@@ -368,7 +370,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #513: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SEIZE 24/7",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #513: 120 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SEIZE 24/7"
   ]
 }
