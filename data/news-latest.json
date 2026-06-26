@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T16:17:03.187838+00:00",
+  "generated_at": "2026-06-26T16:48:28.053954+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "alperaym Leads with 31.8M Projected TDH",
-      "summary": "\"artist manifesto\" by alperaym (31.8M projected TDH, 39 voters) | \"MDAGA\" by Banksit (24.0M projected TDH, 46 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (16.5M projected TDH, 37 voters) Next selection: Mon Jun 29 at 17:00 CET.",
+      "summary": "\"artist manifesto\" by alperaym (31.8M projected TDH, 40 voters) | \"MDAGA\" by Banksit (24.0M projected TDH, 46 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (16.5M projected TDH, 37 voters) Next selection: Mon Jun 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "alperaym",
           "value": "31.8M",
-          "sub": "proj. (39 votes)"
+          "sub": "proj. (40 votes)"
         },
         {
           "label": "Banksit",
@@ -84,31 +84,31 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.25 ETH Volume",
-      "summary": "23 sales in 24h for 1.25 ETH. Highest: \"SeizeJPGs\" at 0.200 ETH.",
+      "headline": "28 Sales Today - 2.10 ETH Volume",
+      "summary": "28 sales in 24h for 2.10 ETH. Highest: \"SeizeJPGs\" at 0.245 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-        "label": "SeizeJPGs - 0.200 ETH",
+        "label": "SeizeJPGs - 0.245 ETH",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.200 ETH",
+          "label": "SeizeJPGs - 0.245 ETH",
           "type": "image"
         },
         {
@@ -125,22 +125,22 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "28",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.25",
+          "value": "2.10",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.200",
+          "value": "0.245",
           "sub": "SeizeJPGs"
         },
         {
           "label": "Floor",
-          "value": "0.017346",
+          "value": "0.017345599999",
           "sub": "ETH"
         }
       ]
@@ -149,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.25 ETH",
-      "raw": 1.2473,
-      "delta": 0.35620000000000007,
-      "delta_fmt": "+40.0%"
+      "value": "2.10 ETH",
+      "raw": 2.0972,
+      "delta": 1.2061,
+      "delta_fmt": "+135.3%"
     },
     {
       "label": "7d Vol",
-      "value": "8.34 ETH",
-      "raw": 8.3374
+      "value": "9.19 ETH",
+      "raw": 9.1878
     },
     {
       "label": "30d Vol",
-      "value": "51.70 ETH",
-      "raw": 51.6958
+      "value": "52.55 ETH",
+      "raw": 52.5495
     },
     {
       "label": "Full Set Bid",
       "value": "42.7 ETH",
-      "raw": 42.68,
-      "delta": 0.04999999999999716,
-      "delta_fmt": "+0.05 ETH"
+      "raw": 42.7,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,9 +179,9 @@
     {
       "label": "#1 alperaym",
       "value": "31.8M TDH",
-      "raw": 31772451,
-      "delta": -4884885,
-      "delta_fmt": "-4.9M TDH"
+      "raw": 31788649,
+      "delta": 16198,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 QuantumSpirit",
@@ -376,6 +376,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #514: 210 MINTS (EXCL. MUSEUM) | 176 HOLDERS | FREEDOM CRAIG"
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
