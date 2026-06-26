@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T22:41:03.165445+00:00",
+  "generated_at": "2026-06-26T23:09:54.054016+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Freedom Craig\" by GoodVibesClub \u2014 67.3M TDH from 59 voters. Top supporter: gpebbles (20.3M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Freedom Craig\" by GoodVibesClub \u2014 67.3M TDH from 59 voters. Top supporter: gpebbles (20.3M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -91,8 +91,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "39 Sales Today - 3.75 ETH Volume",
-      "summary": "39 sales in 24h for 3.75 ETH. Highest: \"Sgt. Pepe\" at 1.050 ETH.",
+      "headline": "40 Sales Today - 3.77 ETH Volume",
+      "summary": "40 sales in 24h for 3.77 ETH. Highest: \"Sgt. Pepe\" at 1.050 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "39",
+          "value": "40",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.75",
+          "value": "3.77",
           "sub": "ETH"
         },
         {
@@ -135,7 +135,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.017339999999",
+          "value": "0.017334999999",
           "sub": "ETH"
         }
       ]
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.75 ETH",
-      "raw": 3.7539,
-      "delta": 3.1068999999999996,
-      "delta_fmt": "+480.2%"
+      "value": "3.77 ETH",
+      "raw": 3.7729,
+      "delta": 3.1258999999999997,
+      "delta_fmt": "+483.1%"
     },
     {
       "label": "7d Vol",
-      "value": "10.86 ETH",
-      "raw": 10.8632
+      "value": "10.88 ETH",
+      "raw": 10.8822
     },
     {
       "label": "30d Vol",
-      "value": "54.25 ETH",
-      "raw": 54.2483
+      "value": "54.27 ETH",
+      "raw": 54.2673
     },
     {
       "label": "Full Set Bid",
-      "value": "43.6 ETH",
-      "raw": 43.62,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "value": "35.3 ETH",
+      "raw": 35.33,
+      "delta": -8.29,
+      "delta_fmt": "-8.29 ETH"
     },
     {
       "label": "Network TDH",
@@ -369,7 +369,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.050 ETH",
-    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
