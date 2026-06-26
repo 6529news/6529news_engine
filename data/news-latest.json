@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T17:53:37.453530+00:00",
+  "generated_at": "2026-06-26T18:40:57.092171+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "alperaym Leads with 32.3M Projected TDH",
-      "summary": "\"artist manifesto\" by alperaym (32.3M projected TDH, 41 voters) | \"MDAGA\" by Banksit (24.0M projected TDH, 46 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (16.7M projected TDH, 37 voters) Next selection: Mon Jun 29 at 17:00 CET.",
+      "headline": "alperaym Leads with 35.3M Projected TDH",
+      "summary": "\"artist manifesto\" by alperaym (35.3M projected TDH, 42 voters) | \"MDAGA\" by Banksit (24.0M projected TDH, 46 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (16.7M projected TDH, 37 voters) Next selection: Mon Jun 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "alperaym",
-          "value": "32.3M",
-          "sub": "proj. (41 votes)"
+          "value": "35.3M",
+          "sub": "proj. (42 votes)"
         },
         {
           "label": "Banksit",
@@ -84,63 +84,63 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "30 Sales Today - 2.29 ETH Volume",
-      "summary": "30 sales in 24h for 2.29 ETH. Highest: \"SeizeJPGs\" at 0.245 ETH.",
+      "headline": "38 Sales Today - 3.97 ETH Volume",
+      "summary": "38 sales in 24h for 3.97 ETH. Highest: \"Sgt. Pepe\" at 1.050 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-        "label": "SeizeJPGs - 0.245 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
+        "label": "Sgt. Pepe - 1.050 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
+          "label": "Sgt. Pepe - 1.050 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
           "label": "SeizeJPGs - 0.245 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/514.WEBP",
-          "label": "Freedom Craig - 0.100 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/339.GIF",
-          "label": "Powered by Time - 0.078 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+          "label": "UncleSeize - 0.150 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "30",
+          "value": "38",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.29",
+          "value": "3.97",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.245",
-          "sub": "SeizeJPGs"
+          "value": "1.050",
+          "sub": "Sgt. Pepe"
         },
         {
           "label": "Floor",
-          "value": "0.017341",
+          "value": "0.017340999999",
           "sub": "ETH"
         }
       ]
@@ -149,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.29 ETH",
-      "raw": 2.288,
-      "delta": 1.6009999999999998,
-      "delta_fmt": "+233.0%"
+      "value": "3.97 ETH",
+      "raw": 3.9651,
+      "delta": 3.2781000000000002,
+      "delta_fmt": "+477.2%"
     },
     {
       "label": "7d Vol",
-      "value": "9.42 ETH",
-      "raw": 9.4207
+      "value": "11.07 ETH",
+      "raw": 11.0744
     },
     {
       "label": "30d Vol",
-      "value": "52.78 ETH",
-      "raw": 52.7824
+      "value": "54.46 ETH",
+      "raw": 54.4595
     },
     {
       "label": "Full Set Bid",
       "value": "43.7 ETH",
-      "raw": 43.74,
-      "delta": 1.0,
-      "delta_fmt": "+1.00 ETH"
+      "raw": 43.65,
+      "delta": -0.09000000000000341,
+      "delta_fmt": "-0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -178,10 +178,10 @@
     },
     {
       "label": "#1 alperaym",
-      "value": "32.3M TDH",
-      "raw": 32300326,
-      "delta": 511677,
-      "delta_fmt": "+0.5M TDH"
+      "value": "35.3M TDH",
+      "raw": 35300326,
+      "delta": 3000000,
+      "delta_fmt": "+3.0M TDH"
     },
     {
       "label": "#1 QuantumSpirit",
@@ -375,7 +375,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 204 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "SGT PEPE SALE: 1.050 ETH",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
