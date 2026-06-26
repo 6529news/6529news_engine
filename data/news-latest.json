@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T15:19:00.321875+00:00",
+  "generated_at": "2026-06-26T16:17:03.187838+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,49 +16,62 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "QuantumSpirit Leads with 106.9M Projected TDH",
-      "summary": "\"Cerebrum\" by QuantumSpirit (106.9M projected TDH, 104 voters) | \"artist manifesto\" by alperaym (26.6M projected TDH, 38 voters) | \"MDAGA\" by Banksit (21.7M projected TDH, 46 voters) Next selection: Fri Jun 26 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"Cerebrum\" by QuantumSpirit \u2014 106.9M TDH from 106 voters. Top supporter: DGMD (23.0M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_98fae5a8-cdd6-4e70-8bf7-d34acbc20caf/7098c351-16b4-4829-aca9-baa6dd957a36.gif",
         "label": "Cerebrum - QuantumSpirit",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "alperaym Leads with 31.8M Projected TDH",
+      "summary": "\"artist manifesto\" by alperaym (31.8M projected TDH, 39 voters) | \"MDAGA\" by Banksit (24.0M projected TDH, 46 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (16.5M projected TDH, 37 voters) Next selection: Mon Jun 29 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c6019681-b2bb-48a4-b0ab-2ea202e1624c/55f36e32-cd80-43a7-b0f8-d0e6159324c1.jpg",
+        "label": "artist manifesto - alperaym",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "QuantumSpirit",
-          "value": "106.9M",
-          "sub": "proj. (104 votes)"
-        },
-        {
           "label": "alperaym",
-          "value": "26.6M",
-          "sub": "proj. (38 votes)"
+          "value": "31.8M",
+          "sub": "proj. (39 votes)"
         },
         {
           "label": "Banksit",
-          "value": "21.7M",
+          "value": "24.0M",
           "sub": "proj. (46 votes)"
+        },
+        {
+          "label": "MoonZoey",
+          "value": "16.5M",
+          "sub": "proj. (37 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: sonyart (2.1M) | Jedi69 (1.6M).",
+      "summary": "2 submissions this week. Ranking: sonyart (2.2M) | Jedi69 (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ff18d66e-44e7-4f50-b1e6-bb0026b414e8/cd94dbba-3b1a-46f4-bf92-94a8d551a5dd/Bedroom.jpg",
-        "label": "sonyart (2.1M)",
+        "label": "sonyart (2.2M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ff18d66e-44e7-4f50-b1e6-bb0026b414e8/cd94dbba-3b1a-46f4-bf92-94a8d551a5dd/Bedroom.jpg",
-          "label": "sonyart (2.1M)",
+          "label": "sonyart (2.2M)",
           "type": "image"
         },
         {
@@ -83,8 +96,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 1.10 ETH Volume",
-      "summary": "21 sales in 24h for 1.10 ETH. Highest: \"SeizeJPGs\" at 0.200 ETH.",
+      "headline": "23 Sales Today - 1.25 ETH Volume",
+      "summary": "23 sales in 24h for 1.25 ETH. Highest: \"SeizeJPGs\" at 0.200 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -99,25 +112,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/339.GIF",
-          "label": "Powered by Time - 0.078 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/514.WEBP",
+          "label": "Freedom Craig - 0.100 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/252.GIF",
-          "label": "What A Memeable Day - 0.074 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/339.GIF",
+          "label": "Powered by Time - 0.078 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "23",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.10",
+          "value": "1.25",
           "sub": "ETH"
         },
         {
@@ -136,32 +149,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.10 ETH",
-      "raw": 1.0974,
-      "delta": 0.14629999999999999,
-      "delta_fmt": "+15.4%"
+      "value": "1.25 ETH",
+      "raw": 1.2473,
+      "delta": 0.35620000000000007,
+      "delta_fmt": "+40.0%"
     },
     {
       "label": "7d Vol",
-      "value": "8.19 ETH",
-      "raw": 8.188
+      "value": "8.34 ETH",
+      "raw": 8.3374
     },
     {
       "label": "30d Vol",
-      "value": "51.55 ETH",
-      "raw": 51.5498
+      "value": "51.70 ETH",
+      "raw": 51.6958
     },
     {
       "label": "Full Set Bid",
-      "value": "42.6 ETH",
-      "raw": 42.63,
-      "delta": -0.30999999999999517,
-      "delta_fmt": "-0.31 ETH"
+      "value": "42.7 ETH",
+      "raw": 42.68,
+      "delta": 0.04999999999999716,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1709.1M",
       "raw": 1709095653
+    },
+    {
+      "label": "#1 alperaym",
+      "value": "31.8M TDH",
+      "raw": 31772451,
+      "delta": -4884885,
+      "delta_fmt": "-4.9M TDH"
     },
     {
       "label": "#1 QuantumSpirit",
@@ -182,13 +202,6 @@
       "value": "58.3M TDH",
       "raw": 58286934,
       "delta": 1536,
-      "delta_fmt": "+0.0M TDH"
-    },
-    {
-      "label": "#1 alperaym",
-      "value": "36.7M TDH",
-      "raw": 36657336,
-      "delta": 42069,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -362,7 +375,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #514: 136 MINTS (EXCL. MUSEUM) | 103 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 210 MINTS (EXCL. MUSEUM) | 176 HOLDERS | FREEDOM CRAIG"
   ]
 }
