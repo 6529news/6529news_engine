@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T22:25:18.701800+00:00",
+  "generated_at": "2026-06-27T22:49:23.122764+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -46,8 +46,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: sonyart (2.2M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: HasanGoktepe (2.5M) | sonyart (2.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -133,8 +133,8 @@
       "label": "24h Vol",
       "value": "2.65 ETH",
       "raw": 2.6476,
-      "delta": -1.0352999999999999,
-      "delta_fmt": "-28.1%"
+      "delta": -1.1062999999999996,
+      "delta_fmt": "-29.5%"
     },
     {
       "label": "7d Vol",
@@ -149,7 +149,9 @@
     {
       "label": "Full Set Bid",
       "value": "43.3 ETH",
-      "raw": 43.31
+      "raw": 43.3,
+      "delta": -0.010000000000005116,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -354,7 +356,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.070 ETH",
-    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
