@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T10:28:10.300662+00:00",
+  "generated_at": "2026-06-27T11:08:01.293806+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "alperaym Leads with 55.4M Projected TDH",
-      "summary": "\"artist manifesto\" by alperaym (55.4M projected TDH, 47 voters) | \"MDAGA\" by Banksit (25.2M projected TDH, 50 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (16.5M projected TDH, 37 voters) Next selection: Mon Jun 29 at 17:00 CET.",
+      "summary": "\"artist manifesto\" by alperaym (55.4M projected TDH, 47 voters) | \"MDAGA\" by Banksit (25.2M projected TDH, 51 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (16.5M projected TDH, 37 voters) Next selection: Mon Jun 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +48,7 @@
         {
           "label": "Banksit",
           "value": "25.2M",
-          "sub": "proj. (50 votes)"
+          "sub": "proj. (51 votes)"
         },
         {
           "label": "MoonZoey",
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -162,9 +162,9 @@
     {
       "label": "Full Set Bid",
       "value": "35.9 ETH",
-      "raw": 35.89,
-      "delta": 0.11999999999999744,
-      "delta_fmt": "+0.12 ETH"
+      "raw": 35.9,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,7 +174,9 @@
     {
       "label": "#1 alperaym",
       "value": "55.4M TDH",
-      "raw": 55357483
+      "raw": 55357753,
+      "delta": 270,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 QuantumSpirit",
@@ -369,7 +371,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.050 ETH",
-    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
