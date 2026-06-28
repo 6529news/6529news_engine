@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T09:14:12.145579+00:00",
+  "generated_at": "2026-06-28T10:12:48.679512+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "CasaNUA Leads with 85.2M Projected TDH",
-      "summary": "\"PEBBLES at Dom\u00ednio P\u00fabliCC0\" by CasaNUA (85.2M projected TDH, 38 voters) | \"artist manifesto\" by alperaym (55.0M projected TDH, 49 voters) | \"MDAGA\" by Banksit (18.5M projected TDH, 50 voters) Next selection: Mon Jun 29 at 17:00 CET.",
+      "headline": "CasaNUA Leads with 87.8M Projected TDH",
+      "summary": "\"PEBBLES at Dom\u00ednio P\u00fabliCC0\" by CasaNUA (87.8M projected TDH, 40 voters) | \"artist manifesto\" by alperaym (55.0M projected TDH, 49 voters) | \"MDAGA\" by Banksit (18.5M projected TDH, 50 voters) Next selection: Mon Jun 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "CasaNUA",
-          "value": "85.2M",
-          "sub": "proj. (38 votes)"
+          "value": "87.8M",
+          "sub": "proj. (40 votes)"
         },
         {
           "label": "alperaym",
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 2.25 ETH Volume",
-      "summary": "16 sales in 24h for 2.25 ETH. Highest: \"Sgt. Pepe\" at 1.070 ETH.",
+      "headline": "15 Sales Today - 2.16 ETH Volume",
+      "summary": "15 sales in 24h for 2.16 ETH. Highest: \"Sgt. Pepe\" at 1.070 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -99,20 +99,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
-          "label": "< no, really [ this ] is going to be our year > - 0.090 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/514.WEBP",
+          "label": "Freedom Craig - 0.073 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.25",
+          "value": "2.16",
           "sub": "ETH"
         },
         {
@@ -131,10 +131,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.25 ETH",
-      "raw": 2.2488,
-      "delta": -1.7079,
-      "delta_fmt": "-43.2%"
+      "value": "2.16 ETH",
+      "raw": 2.1588,
+      "delta": -1.9448000000000003,
+      "delta_fmt": "-47.4%"
     },
     {
       "label": "7d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.0 ETH",
-      "raw": 36.95,
-      "delta": 0.3200000000000003,
-      "delta_fmt": "+0.32 ETH"
+      "value": "37.1 ETH",
+      "raw": 37.09,
+      "delta": 0.14000000000000057,
+      "delta_fmt": "+0.14 ETH"
     },
     {
       "label": "Network TDH",
@@ -160,8 +160,10 @@
     },
     {
       "label": "#1 CasaNUA",
-      "value": "85.2M TDH",
-      "raw": 85244414
+      "value": "87.8M TDH",
+      "raw": 87843164,
+      "delta": 2598750,
+      "delta_fmt": "+2.6M TDH"
     },
     {
       "label": "#1 alperaym",
@@ -354,7 +356,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.070 ETH",
-    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
