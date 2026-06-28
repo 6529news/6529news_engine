@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T15:02:28.478133+00:00",
+  "generated_at": "2026-06-28T15:43:26.725788+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "CasaNUA Leads with 87.7M Projected TDH",
-      "summary": "\"PEBBLES at Dom\u00ednio P\u00fabliCC0\" by CasaNUA (87.7M projected TDH, 52 voters) | \"artist manifesto\" by alperaym (55.8M projected TDH, 50 voters) | \"MDAGA\" by Banksit (18.5M projected TDH, 50 voters) Next selection: Mon Jun 29 at 17:00 CET.",
+      "summary": "\"PEBBLES at Dom\u00ednio P\u00fabliCC0\" by CasaNUA (87.7M projected TDH, 53 voters) | \"artist manifesto\" by alperaym (55.8M projected TDH, 50 voters) | \"MDAGA\" by Banksit (18.5M projected TDH, 51 voters) Next selection: Mon Jun 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "CasaNUA",
           "value": "87.7M",
-          "sub": "proj. (52 votes)"
+          "sub": "proj. (53 votes)"
         },
         {
           "label": "alperaym",
@@ -40,7 +40,7 @@
         {
           "label": "Banksit",
           "value": "18.5M",
-          "sub": "proj. (50 votes)"
+          "sub": "proj. (51 votes)"
         }
       ]
     },
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 2.60 ETH Volume",
-      "summary": "15 sales in 24h for 2.60 ETH. Highest: \"Sgt. Pepe\" at 1.070 ETH.",
+      "headline": "12 Sales Today - 2.48 ETH Volume",
+      "summary": "12 sales in 24h for 2.48 ETH. Highest: \"Sgt. Pepe\" at 1.070 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.60",
+          "value": "2.48",
           "sub": "ETH"
         },
         {
@@ -131,10 +131,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.60 ETH",
-      "raw": 2.5969,
-      "delta": -0.9285999999999999,
-      "delta_fmt": "-26.3%"
+      "value": "2.48 ETH",
+      "raw": 2.4829,
+      "delta": -0.5415000000000001,
+      "delta_fmt": "-17.9%"
     },
     {
       "label": "7d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "34.5 ETH",
-      "raw": 34.54,
-      "delta": 0.1599999999999966,
-      "delta_fmt": "+0.16 ETH"
+      "value": "34.3 ETH",
+      "raw": 34.26,
+      "delta": -0.28000000000000114,
+      "delta_fmt": "-0.28 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,7 +161,9 @@
     {
       "label": "#1 CasaNUA",
       "value": "87.7M TDH",
-      "raw": 87741397
+      "raw": 87741448,
+      "delta": 51,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 alperaym",
@@ -354,7 +356,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.070 ETH",
-    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
