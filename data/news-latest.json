@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T00:54:07.844085+00:00",
+  "generated_at": "2026-06-28T01:46:13.007928+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "CasaNUA Leads with 62.9M Projected TDH",
-      "summary": "\"PEBBLES at Dom\u00ednio P\u00fabliCC0\" by CasaNUA (62.9M projected TDH, 28 voters) | \"artist manifesto\" by alperaym (55.5M projected TDH, 49 voters) | \"MDAGA\" by Banksit (18.5M projected TDH, 50 voters) Next selection: Mon Jun 29 at 17:00 CET.",
+      "summary": "\"PEBBLES at Dom\u00ednio P\u00fabliCC0\" by CasaNUA (62.9M projected TDH, 29 voters) | \"artist manifesto\" by alperaym (55.5M projected TDH, 49 voters) | \"MDAGA\" by Banksit (18.5M projected TDH, 50 voters) Next selection: Mon Jun 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "CasaNUA",
           "value": "62.9M",
-          "sub": "proj. (28 votes)"
+          "sub": "proj. (29 votes)"
         },
         {
           "label": "alperaym",
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -148,23 +148,21 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.9 ETH",
-      "raw": 42.85,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "value": "35.8 ETH",
+      "raw": 35.77,
+      "delta": -7.079999999999998,
+      "delta_fmt": "-7.08 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1714.4M",
-      "raw": 1714444231,
-      "delta": 2714990,
-      "delta_fmt": "+2.7M TDH"
+      "raw": 1714444231
     },
     {
       "label": "#1 CasaNUA",
       "value": "62.9M TDH",
-      "raw": 62912939,
-      "delta": 440,
+      "raw": 62933049,
+      "delta": 20110,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -358,7 +356,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.070 ETH",
-    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
