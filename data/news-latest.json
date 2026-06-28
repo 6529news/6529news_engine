@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T14:23:39.553210+00:00",
+  "generated_at": "2026-06-28T15:02:28.478133+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -71,15 +71,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 2.10 ETH Volume",
-      "summary": "13 sales in 24h for 2.10 ETH. Highest: \"Sgt. Pepe\" at 1.070 ETH.",
+      "headline": "15 Sales Today - 2.60 ETH Volume",
+      "summary": "15 sales in 24h for 2.60 ETH. Highest: \"Sgt. Pepe\" at 1.070 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -99,20 +99,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/514.WEBP",
-          "label": "Freedom Craig - 0.073 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+          "label": "AUTONOMY.EXE - 0.250 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.10",
+          "value": "2.60",
           "sub": "ETH"
         },
         {
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.10 ETH",
-      "raw": 2.1019,
-      "delta": -1.4236,
-      "delta_fmt": "-40.4%"
+      "value": "2.60 ETH",
+      "raw": 2.5969,
+      "delta": -0.9285999999999999,
+      "delta_fmt": "-26.3%"
     },
     {
       "label": "7d Vol",
-      "value": "12.17 ETH",
-      "raw": 12.1742
+      "value": "12.67 ETH",
+      "raw": 12.6692
     },
     {
       "label": "30d Vol",
-      "value": "55.26 ETH",
-      "raw": 55.257
+      "value": "55.75 ETH",
+      "raw": 55.752
     },
     {
       "label": "Full Set Bid",
-      "value": "34.4 ETH",
-      "raw": 34.38,
-      "delta": -2.299999999999997,
-      "delta_fmt": "-2.30 ETH"
+      "value": "34.5 ETH",
+      "raw": 34.54,
+      "delta": 0.1599999999999966,
+      "delta_fmt": "+0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 CasaNUA",
       "value": "87.7M TDH",
-      "raw": 87741397,
-      "delta": 1856816,
-      "delta_fmt": "+1.9M TDH"
+      "raw": 87741397
     },
     {
       "label": "#1 alperaym",
@@ -356,7 +354,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.070 ETH",
-    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
