@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T16:43:44.673815+00:00",
+  "generated_at": "2026-06-28T17:14:14.109378+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#12 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
@@ -133,8 +133,8 @@
       "label": "24h Vol",
       "value": "2.55 ETH",
       "raw": 2.548,
-      "delta": 0.2755000000000001,
-      "delta_fmt": "+12.1%"
+      "delta": 0.6955,
+      "delta_fmt": "+37.5%"
     },
     {
       "label": "7d Vol",
@@ -149,9 +149,9 @@
     {
       "label": "Full Set Bid",
       "value": "34.1 ETH",
-      "raw": 34.08,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "raw": 34.06,
+      "delta": -0.01999999999999602,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 CasaNUA",
       "value": "104.6M TDH",
-      "raw": 104605573,
-      "delta": 16864047,
-      "delta_fmt": "+16.9M TDH"
+      "raw": 104605573
     },
     {
       "label": "#1 alperaym",
@@ -356,7 +354,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.070 ETH",
-    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
