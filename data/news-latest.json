@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T10:59:28.608074+00:00",
+  "generated_at": "2026-06-28T11:40:18.057127+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "CasaNUA Leads with 87.8M Projected TDH",
-      "summary": "\"PEBBLES at Dom\u00ednio P\u00fabliCC0\" by CasaNUA (87.8M projected TDH, 40 voters) | \"artist manifesto\" by alperaym (55.0M projected TDH, 49 voters) | \"MDAGA\" by Banksit (18.5M projected TDH, 50 voters) Next selection: Mon Jun 29 at 17:00 CET.",
+      "headline": "CasaNUA Leads with 82.8M Projected TDH",
+      "summary": "\"PEBBLES at Dom\u00ednio P\u00fabliCC0\" by CasaNUA (82.8M projected TDH, 43 voters) | \"artist manifesto\" by alperaym (55.0M projected TDH, 49 voters) | \"MDAGA\" by Banksit (18.5M projected TDH, 50 voters) Next selection: Mon Jun 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "CasaNUA",
-          "value": "87.8M",
-          "sub": "proj. (40 votes)"
+          "value": "82.8M",
+          "sub": "proj. (43 votes)"
         },
         {
           "label": "alperaym",
@@ -133,8 +133,8 @@
       "label": "24h Vol",
       "value": "2.10 ETH",
       "raw": 2.1019,
-      "delta": -2.0017,
-      "delta_fmt": "-48.8%"
+      "delta": -1.4234999999999998,
+      "delta_fmt": "-40.4%"
     },
     {
       "label": "7d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "34.9 ETH",
-      "raw": 34.92,
-      "delta": -2.1700000000000017,
-      "delta_fmt": "-2.17 ETH"
+      "value": "37.1 ETH",
+      "raw": 37.08,
+      "delta": 2.1599999999999966,
+      "delta_fmt": "+2.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -160,8 +160,10 @@
     },
     {
       "label": "#1 CasaNUA",
-      "value": "87.8M TDH",
-      "raw": 87843164
+      "value": "82.8M TDH",
+      "raw": 82849452,
+      "delta": -4993712,
+      "delta_fmt": "-5.0M TDH"
     },
     {
       "label": "#1 alperaym",
@@ -354,7 +356,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 1.070 ETH",
-    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
