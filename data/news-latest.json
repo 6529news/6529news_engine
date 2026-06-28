@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T22:37:10.433478+00:00",
+  "generated_at": "2026-06-28T23:08:30.471461+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING MONDAY",
-      "headline": "Minting Monday",
-      "summary": " \"Cerebrum\" by QuantumSpirit \u2014 106.9M TDH from 106 voters. Top supporter: DGMD (23.0M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Cerebrum\" by QuantumSpirit \u2014 106.9M TDH from 106 voters. Top supporter: DGMD (23.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -133,8 +133,8 @@
       "label": "24h Vol",
       "value": "0.69 ETH",
       "raw": 0.6871,
-      "delta": -1.9605000000000001,
-      "delta_fmt": "-74.0%"
+      "delta": -1.7864999999999998,
+      "delta_fmt": "-72.2%"
     },
     {
       "label": "7d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "36.6 ETH",
-      "raw": 36.61,
-      "delta": 0.14999999999999858,
-      "delta_fmt": "+0.15 ETH"
+      "value": "36.3 ETH",
+      "raw": 36.32,
+      "delta": -0.28999999999999915,
+      "delta_fmt": "-0.29 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 CasaNUA",
       "value": "109.0M TDH",
-      "raw": 108951634,
-      "delta": 189,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 108951634
     },
     {
       "label": "#1 alperaym",
@@ -355,7 +353,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #514: 279 MINTS (EXCL. MUSEUM) | 205 HOLDERS | FREEDOM CRAIG"
   ]
 }
