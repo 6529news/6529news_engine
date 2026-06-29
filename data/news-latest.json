@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T22:37:42.034719+00:00",
+  "generated_at": "2026-06-29T23:07:50.538297+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Cerebrum\" by QuantumSpirit \u2014 106.9M TDH from 106 voters. Top supporter: DGMD (23.0M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Cerebrum\" by QuantumSpirit \u2014 106.9M TDH from 106 voters. Top supporter: DGMD (23.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -207,10 +207,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "35.9 ETH",
-      "raw": 35.86,
-      "delta": 0.060000000000002274,
-      "delta_fmt": "+0.06 ETH"
+      "value": "35.8 ETH",
+      "raw": 35.85,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -220,9 +220,7 @@
     {
       "label": "#1 alperaym",
       "value": "59.1M TDH",
-      "raw": 59130963,
-      "delta": 2800993,
-      "delta_fmt": "+2.8M TDH"
+      "raw": 59130963
     },
     {
       "label": "#1 CasaNUA",
@@ -417,7 +415,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "PEBBLES: FLOOR 0.459 ETH | 1 SALES | LAST SALE 22h AGO",
-    "CARD #515: 131 MINTS (EXCL. MUSEUM) | 88 HOLDERS | CEREBRUM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #515: 131 MINTS (EXCL. MUSEUM) | 88 HOLDERS | CEREBRUM"
   ]
 }
