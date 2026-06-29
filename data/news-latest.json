@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T20:52:45.195796+00:00",
+  "generated_at": "2026-06-29T21:33:09.816743+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "alperaym Leads with 56.3M Projected TDH",
-      "summary": "\"artist manifesto\" by alperaym (56.3M projected TDH, 51 voters) | \"MDAGA\" by Banksit (18.5M projected TDH, 51 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (16.0M projected TDH, 40 voters) Next selection: Wed Jul 01 at 17:00 CET.",
+      "summary": "\"artist manifesto\" by alperaym (56.3M projected TDH, 52 voters) | \"MDAGA\" by Banksit (24.7M projected TDH, 54 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (16.5M projected TDH, 41 voters) Next selection: Wed Jul 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,17 +43,17 @@
         {
           "label": "alperaym",
           "value": "56.3M",
-          "sub": "proj. (51 votes)"
+          "sub": "proj. (52 votes)"
         },
         {
           "label": "Banksit",
-          "value": "18.5M",
-          "sub": "proj. (51 votes)"
+          "value": "24.7M",
+          "sub": "proj. (54 votes)"
         },
         {
           "label": "MoonZoey",
-          "value": "16.0M",
-          "sub": "proj. (40 votes)"
+          "value": "16.5M",
+          "sub": "proj. (41 votes)"
         }
       ]
     },
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#12 aoifeodwyer \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c953f7fd-9ce8-484e-98c4-211389c168a2/8dc7c1ac-301b-4ae8-8b58-c0e241676e2d/Suaitaerach-WIP.png",
+        "label": "aoifeodwyer (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 1.67 ETH Volume",
-      "summary": "11 sales in 24h for 1.67 ETH. Highest: \"DALL-E's Revenge\" at 0.432 ETH.",
+      "headline": "10 Sales Today - 1.65 ETH Volume",
+      "summary": "10 sales in 24h for 1.65 ETH. Highest: \"DALL-E's Revenge\" at 0.432 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "10",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.67",
+          "value": "1.65",
           "sub": "ETH"
         },
         {
@@ -190,10 +190,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.67 ETH",
-      "raw": 1.6693,
-      "delta": 1.0044,
-      "delta_fmt": "+151.1%"
+      "value": "1.65 ETH",
+      "raw": 1.6471,
+      "delta": 0.96,
+      "delta_fmt": "+139.7%"
     },
     {
       "label": "7d Vol",
@@ -207,10 +207,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "36.2 ETH",
-      "raw": 36.25,
-      "delta": 0.17999999999999972,
-      "delta_fmt": "+0.18 ETH"
+      "value": "36.3 ETH",
+      "raw": 36.31,
+      "delta": 0.060000000000002274,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Network TDH",
@@ -220,7 +220,9 @@
     {
       "label": "#1 alperaym",
       "value": "56.3M TDH",
-      "raw": 56323441
+      "raw": 56329970,
+      "delta": 6529,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -414,8 +416,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.459 ETH | 1 SALES | LAST SALE 20h AGO",
-    "CARD #515: 130 MINTS (EXCL. MUSEUM) | 88 HOLDERS | CEREBRUM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.459 ETH | 1 SALES | LAST SALE 21h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #515: 130 MINTS (EXCL. MUSEUM) | 88 HOLDERS | CEREBRUM"
   ]
 }
