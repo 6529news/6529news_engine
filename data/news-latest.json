@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T13:41:31.448539+00:00",
+  "generated_at": "2026-06-30T14:38:40.513591+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "alperaym Leads with 59.1M Projected TDH",
-      "summary": "\"artist manifesto\" by alperaym (59.1M projected TDH, 55 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (24.7M projected TDH, 47 voters) | \"MDAGA\" by Banksit (24.7M projected TDH, 54 voters) Next selection: Wed Jul 01 at 17:00 CET.",
+      "headline": "alperaym Leads with 59.2M Projected TDH",
+      "summary": "\"artist manifesto\" by alperaym (59.2M projected TDH, 56 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (24.7M projected TDH, 48 voters) | \"MDAGA\" by Banksit (24.7M projected TDH, 54 voters) Next selection: Wed Jul 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "alperaym",
-          "value": "59.1M",
-          "sub": "proj. (55 votes)"
+          "value": "59.2M",
+          "sub": "proj. (56 votes)"
         },
         {
           "label": "MoonZoey",
           "value": "24.7M",
-          "sub": "proj. (47 votes)"
+          "sub": "proj. (48 votes)"
         },
         {
           "label": "Banksit",
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -161,10 +161,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.9 ETH",
-      "raw": 39.92,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "value": "39.4 ETH",
+      "raw": 39.45,
+      "delta": -0.46999999999999886,
+      "delta_fmt": "-0.47 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,8 +173,10 @@
     },
     {
       "label": "#1 alperaym",
-      "value": "59.1M TDH",
-      "raw": 59133908
+      "value": "59.2M TDH",
+      "raw": 59153908,
+      "delta": 20000,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -368,7 +370,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM"
   ]
 }
