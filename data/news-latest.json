@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T00:08:43.034415+00:00",
+  "generated_at": "2026-06-30T01:18:08.267027+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "alperaym Leads with 59.1M Projected TDH",
-      "summary": "\"artist manifesto\" by alperaym (59.1M projected TDH, 53 voters) | \"MDAGA\" by Banksit (24.7M projected TDH, 54 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (16.5M projected TDH, 42 voters) Next selection: Wed Jul 01 at 17:00 CET.",
+      "summary": "\"artist manifesto\" by alperaym (59.1M projected TDH, 53 voters) | \"MDAGA\" by Banksit (24.7M projected TDH, 54 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (24.7M projected TDH, 42 voters) Next selection: Wed Jul 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -52,7 +52,7 @@
         },
         {
           "label": "MoonZoey",
-          "value": "16.5M",
+          "value": "24.7M",
           "sub": "proj. (42 votes)"
         }
       ]
@@ -139,52 +139,6 @@
           "sub": "ETH"
         }
       ]
-    },
-    {
-      "category": "PEBBLES",
-      "headline": "Pebbles: 1 Sales - 0.455 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.455 ETH. Current floor: 0.459 ETH.",
-      "source": "OpenSea",
-      "link": "https://opensea.io/collection/pebbles-by-zeblocks",
-      "image": {
-        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/32c41fff40c7ddb7b9f73d5578f720/b232c41fff40c7ddb7b9f73d5578f720.png",
-        "label": "Pebbles #294 - 0.455 ETH",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/32c41fff40c7ddb7b9f73d5578f720/b232c41fff40c7ddb7b9f73d5578f720.png",
-          "label": "Pebbles #294 - 0.455 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/a3d2d228f6fedb8722d6eaf7e70d44/a9a3d2d228f6fedb8722d6eaf7e70d44.png",
-          "label": "Pebbles #340 - 0.454 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/790b202fb1f2d02ea6db78b22d3a9f/9c790b202fb1f2d02ea6db78b22d3a9f.png",
-          "label": "Pebbles #36 - 1.000 ETH",
-          "type": "image"
-        }
-      ],
-      "dataBoxes": [
-        {
-          "label": "Sales 24h",
-          "value": "1",
-          "sub": ""
-        },
-        {
-          "label": "Volume",
-          "value": "0.455",
-          "sub": "ETH"
-        },
-        {
-          "label": "Floor",
-          "value": "0.459",
-          "sub": "ETH"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -208,14 +162,14 @@
     {
       "label": "Full Set Bid",
       "value": "36.0 ETH",
-      "raw": 35.97,
-      "delta": 0.0799999999999983,
-      "delta_fmt": "+0.08 ETH"
+      "raw": 35.97
     },
     {
       "label": "Network TDH",
-      "value": "1717.2M",
-      "raw": 1717167762
+      "value": "1719.8M",
+      "raw": 1719824146,
+      "delta": 2656384,
+      "delta_fmt": "+2.7M TDH"
     },
     {
       "label": "#1 alperaym",
@@ -414,8 +368,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.459 ETH | 1 SALES | LAST SALE 23h AGO",
-    "CARD #515: 131 MINTS (EXCL. MUSEUM) | 88 HOLDERS | CEREBRUM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #515: 131 MINTS (EXCL. MUSEUM) | 88 HOLDERS | CEREBRUM"
   ]
 }
