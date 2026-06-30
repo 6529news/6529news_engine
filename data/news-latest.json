@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T18:55:27.086055+00:00",
+  "generated_at": "2026-06-30T19:37:49.374540+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -78,8 +78,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "30 Sales Today - 1.06 ETH Volume",
-      "summary": "30 sales in 24h for 1.06 ETH. Highest: \"AUTONOMY.EXE\" at 0.180 ETH.",
+      "headline": "29 Sales Today - 1.01 ETH Volume",
+      "summary": "29 sales in 24h for 1.01 ETH. Highest: \"AUTONOMY.EXE\" at 0.180 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "30",
+          "value": "29",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.06",
+          "value": "1.01",
           "sub": "ETH"
         },
         {
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.06 ETH",
-      "raw": 1.0568,
-      "delta": -0.5725,
-      "delta_fmt": "-35.1%"
+      "value": "1.01 ETH",
+      "raw": 1.0146,
+      "delta": -0.6147,
+      "delta_fmt": "-37.7%"
     },
     {
       "label": "7d Vol",
-      "value": "12.44 ETH",
-      "raw": 12.4431
+      "value": "12.40 ETH",
+      "raw": 12.3998
     },
     {
       "label": "30d Vol",
-      "value": "51.29 ETH",
-      "raw": 51.2931
+      "value": "51.25 ETH",
+      "raw": 51.2461
     },
     {
       "label": "Full Set Bid",
       "value": "40.0 ETH",
-      "raw": 39.96,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 39.97,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -355,7 +355,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM"
   ]
 }
