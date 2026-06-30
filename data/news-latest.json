@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T02:21:33.322896+00:00",
+  "generated_at": "2026-06-30T03:46:52.498819+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -161,10 +161,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "36.1 ETH",
-      "raw": 36.14,
-      "delta": 0.1700000000000017,
-      "delta_fmt": "+0.17 ETH"
+      "value": "36.3 ETH",
+      "raw": 36.3,
+      "delta": 0.1599999999999966,
+      "delta_fmt": "+0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 alperaym",
       "value": "59.1M TDH",
-      "raw": 59133463,
-      "delta": 2500,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 59133463
     },
     {
       "label": "#1 CasaNUA",
@@ -370,7 +368,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #515: 131 MINTS (EXCL. MUSEUM) | 88 HOLDERS | CEREBRUM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #515: 131 MINTS (EXCL. MUSEUM) | 88 HOLDERS | CEREBRUM"
   ]
 }
