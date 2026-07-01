@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T08:37:03.316857+00:00",
+  "generated_at": "2026-07-01T10:07:01.448485+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "alperaym Leads with 59.9M Projected TDH",
-      "summary": "\"artist manifesto\" by alperaym (59.9M projected TDH, 59 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (24.7M projected TDH, 49 voters) | \"MDAGA\" by Banksit (24.7M projected TDH, 54 voters) Next selection: Wed Jul 01 at 17:00 CET.",
+      "summary": "\"artist manifesto\" by alperaym (59.9M projected TDH, 60 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (24.7M projected TDH, 49 voters) | \"MDAGA\" by Banksit (24.7M projected TDH, 54 voters) Next selection: Wed Jul 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "alperaym",
           "value": "59.9M",
-          "sub": "proj. (59 votes)"
+          "sub": "proj. (60 votes)"
         },
         {
           "label": "MoonZoey",
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "31 Sales Today - 1.05 ETH Volume",
-      "summary": "31 sales in 24h for 1.05 ETH. Highest: \"Pursuit of Volatility\" at 0.080 ETH.",
+      "headline": "32 Sales Today - 1.08 ETH Volume",
+      "summary": "32 sales in 24h for 1.08 ETH. Highest: \"Pursuit of Volatility\" at 0.080 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "31",
+          "value": "32",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.05",
+          "value": "1.08",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.05 ETH",
-      "raw": 1.0469,
-      "delta": -0.7287000000000001,
-      "delta_fmt": "-41.0%"
+      "value": "1.08 ETH",
+      "raw": 1.0769,
+      "delta": -0.7586999999999999,
+      "delta_fmt": "-41.3%"
     },
     {
       "label": "7d Vol",
-      "value": "11.70 ETH",
-      "raw": 11.7005
+      "value": "11.73 ETH",
+      "raw": 11.7305
     },
     {
       "label": "30d Vol",
-      "value": "49.36 ETH",
-      "raw": 49.3648
+      "value": "49.39 ETH",
+      "raw": 49.3948
     },
     {
       "label": "Full Set Bid",
-      "value": "38.9 ETH",
-      "raw": 38.94,
-      "delta": -0.4000000000000057,
-      "delta_fmt": "-0.40 ETH"
+      "value": "39.3 ETH",
+      "raw": 39.31,
+      "delta": 0.37000000000000455,
+      "delta_fmt": "+0.37 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,7 +151,9 @@
     {
       "label": "#1 alperaym",
       "value": "59.9M TDH",
-      "raw": 59914236
+      "raw": 59916034,
+      "delta": 1798,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -345,7 +347,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM"
   ]
 }
