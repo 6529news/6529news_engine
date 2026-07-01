@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T07:10:21.802371+00:00",
+  "generated_at": "2026-07-01T08:37:03.316857+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,12 +68,32 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "31 Sales Today - 1.08 ETH Volume",
-      "summary": "31 sales in 24h for 1.08 ETH.",
+      "headline": "31 Sales Today - 1.05 ETH Volume",
+      "summary": "31 sales in 24h for 1.05 ETH. Highest: \"Pursuit of Volatility\" at 0.080 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
-      "image": null,
-      "images": [],
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/492.GIF",
+        "label": "Pursuit of Volatility - 0.080 ETH",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/492.GIF",
+          "label": "Pursuit of Volatility - 0.080 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/472.WEBP",
+          "label": "SEIZE PEACE - 0.070 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/417.GIF",
+          "label": "PVP - 0.061 ETH",
+          "type": "image"
+        }
+      ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
@@ -82,17 +102,17 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.08",
+          "value": "1.05",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.000",
-          "sub": ""
+          "value": "0.080",
+          "sub": "Pursuit of Volatilit"
         },
         {
           "label": "Floor",
-          "value": "0.01724",
+          "value": "0.017234",
           "sub": "ETH"
         }
       ]
@@ -101,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.08 ETH",
-      "raw": 1.0849,
-      "delta": -0.7068000000000001,
-      "delta_fmt": "-39.4%"
+      "value": "1.05 ETH",
+      "raw": 1.0469,
+      "delta": -0.7287000000000001,
+      "delta_fmt": "-41.0%"
     },
     {
       "label": "7d Vol",
-      "value": "11.68 ETH",
-      "raw": 11.6785
+      "value": "11.70 ETH",
+      "raw": 11.7005
     },
     {
       "label": "30d Vol",
-      "value": "49.34 ETH",
-      "raw": 49.3428
+      "value": "49.36 ETH",
+      "raw": 49.3648
     },
     {
       "label": "Full Set Bid",
-      "value": "39.3 ETH",
-      "raw": 39.34,
-      "delta": 0.25,
-      "delta_fmt": "+0.25 ETH"
+      "value": "38.9 ETH",
+      "raw": 38.94,
+      "delta": -0.4000000000000057,
+      "delta_fmt": "-0.40 ETH"
     },
     {
       "label": "Network TDH",
@@ -325,7 +345,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM"
   ]
 }
