@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T22:31:52.828684+00:00",
+  "generated_at": "2026-07-01T23:10:02.541879+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"PEBBLES at Dom\u00ednio P\u00fabliCC0\" by CasaNUA \u2014 112.8M TDH from 75 voters. Top supporter: gpebbles (18.2M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"PEBBLES at Dom\u00ednio P\u00fabliCC0\" by CasaNUA \u2014 112.8M TDH from 75 voters. Top supporter: gpebbles (18.2M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "MoonZoey Leads with 29.2M Projected TDH",
-      "summary": "\"YOU ARE THE PRODUCT\" by MoonZoey (29.2M projected TDH, 53 voters) | \"MDAGA\" by Banksit (24.7M projected TDH, 55 voters) | \"Cycle of Creation\" by RalenArc (18.9M projected TDH, 52 voters) Next selection: Fri Jul 03 at 17:00 CET.",
+      "headline": "MoonZoey Leads with 30.4M Projected TDH",
+      "summary": "\"YOU ARE THE PRODUCT\" by MoonZoey (30.4M projected TDH, 53 voters) | \"MDAGA\" by Banksit (24.7M projected TDH, 55 voters) | \"Cycle of Creation\" by RalenArc (18.9M projected TDH, 52 voters) Next selection: Fri Jul 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "MoonZoey",
-          "value": "29.2M",
+          "value": "30.4M",
           "sub": "proj. (53 votes)"
         },
         {
@@ -153,26 +153,26 @@
     {
       "label": "24h Vol",
       "value": "2.14 ETH",
-      "raw": 2.1434,
-      "delta": 1.0884000000000003,
+      "raw": 2.1433,
+      "delta": 1.0883,
       "delta_fmt": "+103.2%"
     },
     {
       "label": "7d Vol",
       "value": "12.34 ETH",
-      "raw": 12.3412
+      "raw": 12.3407
     },
     {
       "label": "30d Vol",
       "value": "51.28 ETH",
-      "raw": 51.2784
+      "raw": 51.2762
     },
     {
       "label": "Full Set Bid",
-      "value": "40.0 ETH",
-      "raw": 39.98,
-      "delta": 0.14999999999999858,
-      "delta_fmt": "+0.15 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.08,
+      "delta": 0.10000000000000142,
+      "delta_fmt": "+0.10 ETH"
     },
     {
       "label": "Network TDH",
@@ -181,8 +181,10 @@
     },
     {
       "label": "#1 MoonZoey",
-      "value": "29.2M TDH",
-      "raw": 29229001
+      "value": "30.4M TDH",
+      "raw": 30352901,
+      "delta": 1123900,
+      "delta_fmt": "+1.1M TDH"
     },
     {
       "label": "#1 alperaym",
@@ -383,7 +385,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #516: 137 MINTS (EXCL. MUSEUM) | 95 HOLDERS | PEBBLES AT DOM\u00cdNIO P\u00daBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #516: 137 MINTS (EXCL. MUSEUM) | 95 HOLDERS | PEBBLES AT DOM\u00cdNIO P\u00daBLICC0"
   ]
 }
