@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T10:07:01.448485+00:00",
+  "generated_at": "2026-07-01T11:24:18.125557+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -45,6 +45,24 @@
       ]
     },
     {
+      "category": "ANNOUNCEMENT",
+      "headline": "New Announcement by GelatoGenesis",
+      "summary": "GelatoGenesis: I just released an enhancement how unread messages are counted in waves and this made it so that some old waves are showing like all messages are unread (including DM waves). Th...",
+      "source": "Announcements",
+      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmXuXC4QNM9diEvBnJT3UY2o9jWTUxhYh3srRuyS2bGFJQ",
+        "label": "GelatoGenesis"
+      },
+      "dataBoxes": [
+        {
+          "label": "GelatoGenesis",
+          "value": "Lv51",
+          "sub": "1K TDH"
+        }
+      ]
+    },
+    {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
       "summary": "2 submissions this week. Ranking: Cody (2.7M) | HasanGoktepe (2.7M).",
@@ -56,28 +74,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "32 Sales Today - 1.08 ETH Volume",
-      "summary": "32 sales in 24h for 1.08 ETH. Highest: \"Pursuit of Volatility\" at 0.080 ETH.",
+      "headline": "33 Sales Today - 1.22 ETH Volume",
+      "summary": "33 sales in 24h for 1.22 ETH. Highest: \"I Still Do\" at 0.140 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/492.GIF",
-        "label": "Pursuit of Volatility - 0.080 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/508.WEBP",
+        "label": "I Still Do - 0.140 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/508.WEBP",
+          "label": "I Still Do - 0.140 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/492.GIF",
           "label": "Pursuit of Volatility - 0.080 ETH",
@@ -87,28 +110,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/472.WEBP",
           "label": "SEIZE PEACE - 0.070 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/417.GIF",
-          "label": "PVP - 0.061 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "32",
+          "value": "33",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.08",
+          "value": "1.22",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.080",
-          "sub": "Pursuit of Volatilit"
+          "value": "0.140",
+          "sub": "I Still Do"
         },
         {
           "label": "Floor",
@@ -121,27 +139,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.08 ETH",
-      "raw": 1.0769,
-      "delta": -0.7586999999999999,
-      "delta_fmt": "-41.3%"
+      "value": "1.22 ETH",
+      "raw": 1.2169,
+      "delta": -0.4976999999999998,
+      "delta_fmt": "-29.0%"
     },
     {
       "label": "7d Vol",
-      "value": "11.73 ETH",
-      "raw": 11.7305
+      "value": "11.87 ETH",
+      "raw": 11.8705
     },
     {
       "label": "30d Vol",
-      "value": "49.39 ETH",
-      "raw": 49.3948
+      "value": "49.53 ETH",
+      "raw": 49.5348
     },
     {
       "label": "Full Set Bid",
       "value": "39.3 ETH",
-      "raw": 39.31,
-      "delta": 0.37000000000000455,
-      "delta_fmt": "+0.37 ETH"
+      "raw": 39.3,
+      "delta": -0.010000000000005116,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +169,7 @@
     {
       "label": "#1 alperaym",
       "value": "59.9M TDH",
-      "raw": 59916034,
-      "delta": 1798,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 59916034
     },
     {
       "label": "#1 CasaNUA",
@@ -347,7 +363,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM"
   ]
 }
