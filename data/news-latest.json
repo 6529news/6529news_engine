@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T05:36:47.041128+00:00",
+  "generated_at": "2026-07-01T07:10:21.802371+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "alperaym Leads with 59.9M Projected TDH",
-      "summary": "\"artist manifesto\" by alperaym (59.9M projected TDH, 59 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (24.7M projected TDH, 48 voters) | \"MDAGA\" by Banksit (24.7M projected TDH, 54 voters) Next selection: Wed Jul 01 at 17:00 CET.",
+      "summary": "\"artist manifesto\" by alperaym (59.9M projected TDH, 59 voters) | \"YOU ARE THE PRODUCT\" by MoonZoey (24.7M projected TDH, 49 voters) | \"MDAGA\" by Banksit (24.7M projected TDH, 54 voters) Next selection: Wed Jul 01 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "MoonZoey",
           "value": "24.7M",
-          "sub": "proj. (48 votes)"
+          "sub": "proj. (49 votes)"
         },
         {
           "label": "Banksit",
@@ -56,59 +56,39 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "30 Sales Today - 1.11 ETH Volume",
-      "summary": "30 sales in 24h for 1.11 ETH. Highest: \"PVP\" at 0.061 ETH.",
+      "headline": "31 Sales Today - 1.08 ETH Volume",
+      "summary": "31 sales in 24h for 1.08 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/417.GIF",
-        "label": "PVP - 0.061 ETH",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/417.GIF",
-          "label": "PVP - 0.061 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/509.GIF",
-          "label": "The Collective Synapse - 0.060 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/372.WEBP",
-          "label": "VIVA SATOSHI - 0.060 ETH",
-          "type": "image"
-        }
-      ],
+      "image": null,
+      "images": [],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "30",
+          "value": "31",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.11",
+          "value": "1.08",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.061",
-          "sub": "PVP"
+          "value": "0.000",
+          "sub": ""
         },
         {
           "label": "Floor",
@@ -121,27 +101,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.11 ETH",
-      "raw": 1.115,
-      "delta": -0.5517000000000001,
-      "delta_fmt": "-33.1%"
+      "value": "1.08 ETH",
+      "raw": 1.0849,
+      "delta": -0.7068000000000001,
+      "delta_fmt": "-39.4%"
     },
     {
       "label": "7d Vol",
-      "value": "11.86 ETH",
-      "raw": 11.8638
+      "value": "11.68 ETH",
+      "raw": 11.6785
     },
     {
       "label": "30d Vol",
-      "value": "49.19 ETH",
-      "raw": 49.1929
+      "value": "49.34 ETH",
+      "raw": 49.3428
     },
     {
       "label": "Full Set Bid",
-      "value": "39.1 ETH",
-      "raw": 39.09,
-      "delta": -0.6499999999999986,
-      "delta_fmt": "-0.65 ETH"
+      "value": "39.3 ETH",
+      "raw": 39.34,
+      "delta": 0.25,
+      "delta_fmt": "+0.25 ETH"
     },
     {
       "label": "Network TDH",
@@ -345,7 +325,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #515: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | CEREBRUM"
   ]
 }
