@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T15:39:51.203321+00:00",
+  "generated_at": "2026-07-02T17:19:31.687223+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "MoonZoey Leads with 36.5M Projected TDH",
-      "summary": "\"YOU ARE THE PRODUCT\" by MoonZoey (36.5M projected TDH, 60 voters) | \"MEMEntoMori\" by EmptySoulPrime (26.4M projected TDH, 14 voters) | \"MDAGA\" by Banksit (25.3M projected TDH, 56 voters) Next selection: Fri Jul 03 at 17:00 CET.",
+      "summary": "\"YOU ARE THE PRODUCT\" by MoonZoey (36.5M projected TDH, 60 voters) | \"MEMEntoMori\" by EmptySoulPrime (26.4M projected TDH, 15 voters) | \"MDAGA\" by Banksit (25.3M projected TDH, 56 voters) Next selection: Fri Jul 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "EmptySoulPrime",
           "value": "26.4M",
-          "sub": "proj. (14 votes)"
+          "sub": "proj. (15 votes)"
         },
         {
           "label": "Banksit",
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.25 ETH Volume",
-      "summary": "23 sales in 24h for 1.25 ETH. Highest: \"6529Seizing\" at 0.189 ETH.",
+      "headline": "22 Sales Today - 1.10 ETH Volume",
+      "summary": "22 sales in 24h for 1.10 ETH. Highest: \"6529Seizing\" at 0.189 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.25",
+          "value": "1.10",
           "sub": "ETH"
         },
         {
@@ -121,10 +121,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.25 ETH",
-      "raw": 1.2528,
-      "delta": -0.7501,
-      "delta_fmt": "-37.5%"
+      "value": "1.10 ETH",
+      "raw": 1.1028,
+      "delta": -0.6460999999999999,
+      "delta_fmt": "-36.9%"
     },
     {
       "label": "7d Vol",
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "35.5 ETH",
-      "raw": 35.52,
-      "delta": -3.489999999999995,
-      "delta_fmt": "-3.49 ETH"
+      "value": "33.8 ETH",
+      "raw": 33.82,
+      "delta": -1.7000000000000028,
+      "delta_fmt": "-1.70 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 MoonZoey",
       "value": "36.5M TDH",
-      "raw": 36450540,
-      "delta": 153,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 36450540
     },
     {
       "label": "#1 alperaym",
@@ -354,7 +352,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #516: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | PEBBLES AT DOM\u00cdNIO P\u00daBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #516: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | PEBBLES AT DOM\u00cdNIO P\u00daBLICC0"
   ]
 }
