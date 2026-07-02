@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T05:43:25.441620+00:00",
+  "generated_at": "2026-07-02T08:35:01.946195+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "MoonZoey Leads with 30.3M Projected TDH",
-      "summary": "\"YOU ARE THE PRODUCT\" by MoonZoey (30.3M projected TDH, 54 voters) | \"MDAGA\" by Banksit (24.8M projected TDH, 55 voters) | \"Cycle of Creation\" by RalenArc (18.9M projected TDH, 52 voters) Next selection: Fri Jul 03 at 17:00 CET.",
+      "headline": "MoonZoey Leads with 30.4M Projected TDH",
+      "summary": "\"YOU ARE THE PRODUCT\" by MoonZoey (30.4M projected TDH, 57 voters) | \"MDAGA\" by Banksit (24.8M projected TDH, 55 voters) | \"Cycle of Creation\" by RalenArc (18.9M projected TDH, 53 voters) Next selection: Fri Jul 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "MoonZoey",
-          "value": "30.3M",
-          "sub": "proj. (54 votes)"
+          "value": "30.4M",
+          "sub": "proj. (57 votes)"
         },
         {
           "label": "Banksit",
@@ -53,7 +53,7 @@
         {
           "label": "RalenArc",
           "value": "18.9M",
-          "sub": "proj. (52 votes)"
+          "sub": "proj. (53 votes)"
         }
       ]
     },
@@ -78,7 +78,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: EmptySoulPrime (20.8M) | Cody (3.0M).",
+      "summary": "2 submissions this week. Ranking: EmptySoulPrime (24.3M) | Cody (3.0M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -87,20 +87,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "35 Sales Today - 2.35 ETH Volume",
-      "summary": "35 sales in 24h for 2.35 ETH. Highest: \"6529Seizing\" at 0.210 ETH.",
+      "headline": "32 Sales Today - 2.17 ETH Volume",
+      "summary": "32 sales in 24h for 2.17 ETH. Highest: \"6529Seizing\" at 0.210 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -128,12 +128,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "35",
+          "value": "32",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.35",
+          "value": "2.17",
           "sub": "ETH"
         },
         {
@@ -152,10 +152,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.35 ETH",
-      "raw": 2.346,
-      "delta": 1.231,
-      "delta_fmt": "+110.4%"
+      "value": "2.17 ETH",
+      "raw": 2.1741,
+      "delta": 1.1272000000000002,
+      "delta_fmt": "+107.7%"
     },
     {
       "label": "7d Vol",
@@ -169,10 +169,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.5 ETH",
-      "raw": 39.54,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "value": "39.4 ETH",
+      "raw": 39.41,
+      "delta": -0.13000000000000256,
+      "delta_fmt": "-0.13 ETH"
     },
     {
       "label": "Network TDH",
@@ -181,9 +181,9 @@
     },
     {
       "label": "#1 MoonZoey",
-      "value": "30.3M TDH",
-      "raw": 30345725,
-      "delta": 1120,
+      "value": "30.4M TDH",
+      "raw": 30354244,
+      "delta": 8519,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -385,7 +385,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #516: 140 MINTS (EXCL. MUSEUM) | 99 HOLDERS | PEBBLES AT DOM\u00cdNIO P\u00daBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #516: 140 MINTS (EXCL. MUSEUM) | 99 HOLDERS | PEBBLES AT DOM\u00cdNIO P\u00daBLICC0"
   ]
 }
