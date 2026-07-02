@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T00:52:03.031503+00:00",
+  "generated_at": "2026-07-02T01:44:48.291165+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -92,7 +92,7 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
@@ -169,24 +169,20 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.3 ETH",
-      "raw": 39.33,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "value": "39.5 ETH",
+      "raw": 39.47,
+      "delta": 0.14000000000000057,
+      "delta_fmt": "+0.14 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1724.9M",
-      "raw": 1724942919,
-      "delta": 2640400,
-      "delta_fmt": "+2.6M TDH"
+      "raw": 1724942919
     },
     {
       "label": "#1 MoonZoey",
       "value": "30.3M TDH",
-      "raw": 30344605,
-      "delta": -8296,
-      "delta_fmt": "-0.0M TDH"
+      "raw": 30344605
     },
     {
       "label": "#1 alperaym",
@@ -387,7 +383,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #516: 138 MINTS (EXCL. MUSEUM) | 97 HOLDERS | PEBBLES AT DOM\u00cdNIO P\u00daBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #516: 138 MINTS (EXCL. MUSEUM) | 97 HOLDERS | PEBBLES AT DOM\u00cdNIO P\u00daBLICC0"
   ]
 }
