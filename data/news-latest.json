@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T19:21:05.184335+00:00",
+  "generated_at": "2026-07-03T20:38:23.790719+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "desolalasisi Leads with 41.7M Projected TDH",
-      "summary": "\"The Loom \" by desolalasisi (41.7M projected TDH, 35 voters) | \"MEMEntoMori\" by EmptySoulPrime (36.4M projected TDH, 28 voters) | \"MDAGA\" by Banksit (27.4M projected TDH, 57 voters) Next selection: Mon Jul 06 at 17:00 CET.",
+      "summary": "\"The Loom \" by desolalasisi (41.7M projected TDH, 37 voters) | \"MEMEntoMori\" by EmptySoulPrime (36.4M projected TDH, 29 voters) | \"MDAGA\" by Banksit (27.4M projected TDH, 57 voters) Next selection: Mon Jul 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,12 +43,12 @@
         {
           "label": "desolalasisi",
           "value": "41.7M",
-          "sub": "proj. (35 votes)"
+          "sub": "proj. (37 votes)"
         },
         {
           "label": "EmptySoulPrime",
           "value": "36.4M",
-          "sub": "proj. (28 votes)"
+          "sub": "proj. (29 votes)"
         },
         {
           "label": "Banksit",
@@ -99,8 +99,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 0.77 ETH Volume",
-      "summary": "16 sales in 24h for 0.77 ETH. Highest: \"Cult of Memes\" at 0.120 ETH.",
+      "headline": "14 Sales Today - 0.68 ETH Volume",
+      "summary": "14 sales in 24h for 0.68 ETH. Highest: \"Cult of Memes\" at 0.120 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -128,12 +128,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.77",
+          "value": "0.68",
           "sub": "ETH"
         },
         {
@@ -152,10 +152,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.77 ETH",
-      "raw": 0.7736,
-      "delta": -0.0917,
-      "delta_fmt": "-10.6%"
+      "value": "0.68 ETH",
+      "raw": 0.6824,
+      "delta": -0.1491,
+      "delta_fmt": "-17.9%"
     },
     {
       "label": "7d Vol",
@@ -169,10 +169,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.8 ETH",
-      "raw": 39.81,
-      "delta": 0.2600000000000051,
-      "delta_fmt": "+0.26 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.06,
+      "delta": 0.25,
+      "delta_fmt": "+0.25 ETH"
     },
     {
       "label": "Network TDH",
@@ -182,8 +182,8 @@
     {
       "label": "#1 desolalasisi",
       "value": "41.7M TDH",
-      "raw": 41670462,
-      "delta": 397,
+      "raw": 41671623,
+      "delta": 1161,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -392,7 +392,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #517: 123 MINTS (EXCL. MUSEUM) | 80 HOLDERS | ARTIST MANIFESTO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #517: 124 MINTS (EXCL. MUSEUM) | 81 HOLDERS | ARTIST MANIFESTO"
   ]
 }
