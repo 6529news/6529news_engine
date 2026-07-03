@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T22:48:06.592486+00:00",
+  "generated_at": "2026-07-03T00:04:29.622378+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING FRIDAY",
-      "headline": "Minting Friday",
-      "summary": " \"artist manifesto\" by alperaym \u2014 59.9M TDH from 60 voters. Top supporter: Thor (20.0M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"artist manifesto\" by alperaym \u2014 59.9M TDH from 60 voters. Top supporter: Thor (20.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 0.68 ETH Volume",
-      "summary": "14 sales in 24h for 0.68 ETH. Highest: \"6529Seizing\" at 0.189 ETH.",
+      "headline": "17 Sales Today - 0.81 ETH Volume",
+      "summary": "17 sales in 24h for 0.81 ETH. Highest: \"6529Seizing\" at 0.189 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.68",
+          "value": "0.81",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01715431",
+          "value": "0.01710331",
           "sub": "ETH"
         }
       ]
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.68 ETH",
-      "raw": 0.6786,
-      "delta": -1.4648000000000003,
-      "delta_fmt": "-68.3%"
+      "value": "0.81 ETH",
+      "raw": 0.8092,
+      "delta": -1.3340999999999998,
+      "delta_fmt": "-62.2%"
     },
     {
       "label": "7d Vol",
-      "value": "12.50 ETH",
-      "raw": 12.5022
+      "value": "12.63 ETH",
+      "raw": 12.6329
     },
     {
       "label": "30d Vol",
-      "value": "51.18 ETH",
-      "raw": 51.1818
+      "value": "51.31 ETH",
+      "raw": 51.3124
     },
     {
       "label": "Full Set Bid",
-      "value": "36.0 ETH",
-      "raw": 36.03,
-      "delta": 0.38000000000000256,
-      "delta_fmt": "+0.38 ETH"
+      "value": "35.7 ETH",
+      "raw": 35.74,
+      "delta": -0.28999999999999915,
+      "delta_fmt": "-0.29 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,7 +151,9 @@
     {
       "label": "#1 MoonZoey",
       "value": "49.5M TDH",
-      "raw": 49457926
+      "raw": 49458395,
+      "delta": 469,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 alperaym",
@@ -352,7 +354,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #516: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | PEBBLES AT DOM\u00cdNIO P\u00daBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #516: 142 MINTS (EXCL. MUSEUM) | 99 HOLDERS | PEBBLES AT DOM\u00cdNIO P\u00daBLICC0"
   ]
 }
