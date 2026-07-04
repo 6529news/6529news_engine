@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T22:45:23.436075+00:00",
+  "generated_at": "2026-07-04T00:03:16.683809+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"artist manifesto\" by alperaym \u2014 59.9M TDH from 60 voters. Top supporter: Thor (20.0M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"artist manifesto\" by alperaym \u2014 59.9M TDH from 60 voters. Top supporter: Thor (20.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -87,28 +87,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 0.68 ETH Volume",
-      "summary": "14 sales in 24h for 0.68 ETH. Highest: \"Cult of Memes\" at 0.120 ETH.",
+      "headline": "12 Sales Today - 0.75 ETH Volume",
+      "summary": "12 sales in 24h for 0.75 ETH. Highest: \"PEBBLES at Dom\u00ednio P\u00fabliCC0\" at 0.200 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/191.WEBP",
-        "label": "Cult of Memes - 0.120 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/516.GIF",
+        "label": "PEBBLES at Dom\u00ednio P\u00fabliCC0 - 0.200 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/516.GIF",
+          "label": "PEBBLES at Dom\u00ednio P\u00fabliCC0 - 0.200 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/191.WEBP",
           "label": "Cult of Memes - 0.120 ETH",
@@ -118,28 +123,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/92.WEBP",
           "label": "Gm From a Roof - 0.092 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/476.WEBP",
-          "label": "The Bear Spot - 0.084 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.68",
+          "value": "0.75",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.120",
-          "sub": "Cult of Memes"
+          "value": "0.200",
+          "sub": "PEBBLES at Dom\u00ednio P"
         },
         {
           "label": "Floor",
@@ -152,27 +152,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.68 ETH",
-      "raw": 0.6824,
-      "delta": 0.0038000000000000256,
-      "delta_fmt": "+0.6%"
+      "value": "0.75 ETH",
+      "raw": 0.7518,
+      "delta": -0.05740000000000001,
+      "delta_fmt": "-7.1%"
     },
     {
       "label": "7d Vol",
-      "value": "9.34 ETH",
-      "raw": 9.3427
+      "value": "9.54 ETH",
+      "raw": 9.5427
     },
     {
       "label": "30d Vol",
-      "value": "50.20 ETH",
-      "raw": 50.204
+      "value": "50.40 ETH",
+      "raw": 50.404
     },
     {
       "label": "Full Set Bid",
-      "value": "39.5 ETH",
-      "raw": 39.46,
-      "delta": 1.1700000000000017,
-      "delta_fmt": "+1.17 ETH"
+      "value": "39.2 ETH",
+      "raw": 39.16,
+      "delta": -0.30000000000000426,
+      "delta_fmt": "-0.30 ETH"
     },
     {
       "label": "Network TDH",
@@ -390,7 +390,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #517: 125 MINTS (EXCL. MUSEUM) | 81 HOLDERS | ARTIST MANIFESTO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #517: 128 MINTS (EXCL. MUSEUM) | 82 HOLDERS | ARTIST MANIFESTO"
   ]
 }
