@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T17:44:52.470695+00:00",
+  "generated_at": "2026-07-04T18:43:41.803687+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "desolalasisi Leads with 52.5M Projected TDH",
-      "summary": "\"The Loom \" by desolalasisi (52.5M projected TDH, 52 voters) | \"MEMEntoMori\" by EmptySoulPrime (36.6M projected TDH, 34 voters) | \"MDAGA\" by Banksit (27.4M projected TDH, 57 voters) Next selection: Mon Jul 06 at 17:00 CET.",
+      "headline": "desolalasisi Leads with 52.6M Projected TDH",
+      "summary": "\"The Loom \" by desolalasisi (52.6M projected TDH, 53 voters) | \"MEMEntoMori\" by EmptySoulPrime (36.7M projected TDH, 35 voters) | \"MDAGA\" by Banksit (27.4M projected TDH, 57 voters) Next selection: Mon Jul 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "desolalasisi",
-          "value": "52.5M",
-          "sub": "proj. (52 votes)"
+          "value": "52.6M",
+          "sub": "proj. (53 votes)"
         },
         {
           "label": "EmptySoulPrime",
-          "value": "36.6M",
-          "sub": "proj. (34 votes)"
+          "value": "36.7M",
+          "sub": "proj. (35 votes)"
         },
         {
           "label": "Banksit",
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "8 Sales Today - 0.69 ETH Volume",
-      "summary": "8 sales in 24h for 0.69 ETH. Highest: \"SeizeJPGs\" at 0.300 ETH.",
+      "headline": "7 Sales Today - 0.68 ETH Volume",
+      "summary": "7 sales in 24h for 0.68 ETH. Highest: \"SeizeJPGs\" at 0.300 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "8",
+          "value": "7",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.69",
+          "value": "0.68",
           "sub": "ETH"
         },
         {
@@ -121,15 +121,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.69 ETH",
-      "raw": 0.6913,
-      "delta": -0.06769999999999998,
-      "delta_fmt": "-8.9%"
+      "value": "0.68 ETH",
+      "raw": 0.6763,
+      "delta": -0.09729999999999994,
+      "delta_fmt": "-12.6%"
     },
     {
       "label": "7d Vol",
-      "value": "9.47 ETH",
-      "raw": 9.4679
+      "value": "7.55 ETH",
+      "raw": 7.5454
     },
     {
       "label": "30d Vol",
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "35.5 ETH",
-      "raw": 35.46,
-      "delta": -1.4699999999999989,
-      "delta_fmt": "-1.47 ETH"
+      "value": "37.8 ETH",
+      "raw": 37.81,
+      "delta": 2.3500000000000014,
+      "delta_fmt": "+2.35 ETH"
     },
     {
       "label": "Network TDH",
@@ -150,10 +150,10 @@
     },
     {
       "label": "#1 desolalasisi",
-      "value": "52.5M TDH",
-      "raw": 52456044,
-      "delta": 2885665,
-      "delta_fmt": "+2.9M TDH"
+      "value": "52.6M TDH",
+      "raw": 52556044,
+      "delta": 100000,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 MoonZoey",
@@ -361,7 +361,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #517: 135 MINTS (EXCL. MUSEUM) | 89 HOLDERS | ARTIST MANIFESTO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #517: 135 MINTS (EXCL. MUSEUM) | 89 HOLDERS | ARTIST MANIFESTO"
   ]
 }
