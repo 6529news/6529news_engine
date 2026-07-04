@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T21:04:08.055449+00:00",
+  "generated_at": "2026-07-04T22:10:59.220880+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "desolalasisi Leads with 52.6M Projected TDH",
-      "summary": "\"The Loom \" by desolalasisi (52.6M projected TDH, 54 voters) | \"MEMEntoMori\" by EmptySoulPrime (36.7M projected TDH, 34 voters) | \"MDAGA\" by Banksit (27.4M projected TDH, 57 voters) Next selection: Mon Jul 06 at 17:00 CET.",
+      "summary": "\"The Loom \" by desolalasisi (52.6M projected TDH, 55 voters) | \"MEMEntoMori\" by EmptySoulPrime (36.7M projected TDH, 35 voters) | \"MDAGA\" by Banksit (27.4M projected TDH, 57 voters) Next selection: Mon Jul 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "desolalasisi",
           "value": "52.6M",
-          "sub": "proj. (54 votes)"
+          "sub": "proj. (55 votes)"
         },
         {
           "label": "EmptySoulPrime",
           "value": "36.7M",
-          "sub": "proj. (34 votes)"
+          "sub": "proj. (35 votes)"
         },
         {
           "label": "Banksit",
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.4 ETH",
-      "raw": 38.43,
-      "delta": 0.3500000000000014,
-      "delta_fmt": "+0.35 ETH"
+      "value": "38.5 ETH",
+      "raw": 38.46,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,8 +151,8 @@
     {
       "label": "#1 desolalasisi",
       "value": "52.6M TDH",
-      "raw": 52595076,
-      "delta": 35561,
+      "raw": 52595766,
+      "delta": 690,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -361,7 +361,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #517: 135 MINTS (EXCL. MUSEUM) | 89 HOLDERS | ARTIST MANIFESTO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #517: 135 MINTS (EXCL. MUSEUM) | 89 HOLDERS | ARTIST MANIFESTO"
   ]
 }
