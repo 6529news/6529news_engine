@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T10:52:55.375130+00:00",
+  "generated_at": "2026-07-06T14:24:16.678650+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_6458d37d-6f5e-47b6-a91e-b4a7e7e8493a/a35691fc-0efe-4150-88b0-82dc07a66dc3/You-are-the-product.gif",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/518.GIF",
         "label": "YOU ARE THE PRODUCT - MoonZoey",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "desolalasisi Leads with 60.8M Projected TDH",
-      "summary": "\"The Loom \" by desolalasisi (60.8M projected TDH, 65 voters) | \"MEMEntoMori\" by EmptySoulPrime (37.1M projected TDH, 43 voters) | \"MDAGA\" by Banksit (34.0M projected TDH, 57 voters) Next selection: Mon Jul 06 at 17:00 CET.",
+      "summary": "\"The Loom \" by desolalasisi (60.8M projected TDH, 66 voters) | \"MEMEntoMori\" by EmptySoulPrime (37.2M projected TDH, 43 voters) | \"MDAGA\" by Banksit (34.0M projected TDH, 57 voters) Next selection: Mon Jul 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,11 +30,11 @@
         {
           "label": "desolalasisi",
           "value": "60.8M",
-          "sub": "proj. (65 votes)"
+          "sub": "proj. (66 votes)"
         },
         {
           "label": "EmptySoulPrime",
-          "value": "37.1M",
+          "value": "37.2M",
           "sub": "proj. (43 votes)"
         },
         {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -123,13 +123,13 @@
       "label": "24h Vol",
       "value": "1.00 ETH",
       "raw": 1.0045,
-      "delta": 0.49329999999999996,
-      "delta_fmt": "+96.5%"
+      "delta": 0.5512999999999999,
+      "delta_fmt": "+121.6%"
     },
     {
       "label": "7d Vol",
-      "value": "8.17 ETH",
-      "raw": 8.1679
+      "value": "6.77 ETH",
+      "raw": 6.7739
     },
     {
       "label": "30d Vol",
@@ -138,21 +138,23 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "35.7 ETH",
-      "raw": 35.72,
-      "delta": -2.3400000000000034,
-      "delta_fmt": "-2.34 ETH"
+      "value": "38.8 ETH",
+      "raw": 38.77,
+      "delta": 3.0500000000000043,
+      "delta_fmt": "+3.05 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1759.3M",
-      "raw": 1759309855
+      "value": "1759.4M",
+      "raw": 1759387656,
+      "delta": 77801,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 desolalasisi",
       "value": "60.8M TDH",
-      "raw": 60766951,
-      "delta": 190,
+      "raw": 60801765,
+      "delta": 34814,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -361,7 +363,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #517: 135 MINTS (EXCL. MUSEUM) | 91 HOLDERS | ARTIST MANIFESTO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #518: 119 MINTS (EXCL. MUSEUM) | 76 HOLDERS | YOU ARE THE PRODUCT"
   ]
 }
