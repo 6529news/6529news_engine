@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T23:45:22.071397+00:00",
+  "generated_at": "2026-07-07T01:26:37.918440+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "EmptySoulPrime Leads with 58.6M Projected TDH",
-      "summary": "\"MEMEntoMori\" by EmptySoulPrime (58.6M projected TDH, 56 voters) | \"MDAGA\" by Banksit (39.0M projected TDH, 60 voters) | \"TAKE A PIECE\" by nasimghanizadeh (22.8M projected TDH, 65 voters) Next selection: Wed Jul 08 at 17:00 CET.",
+      "summary": "\"MEMEntoMori\" by EmptySoulPrime (58.6M projected TDH, 56 voters) | \"MDAGA\" by Banksit (39.0M projected TDH, 60 voters) | \"TAKE A PIECE\" by nasimghanizadeh (22.8M projected TDH, 66 voters) Next selection: Wed Jul 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -53,7 +53,7 @@
         {
           "label": "nasimghanizadeh",
           "value": "22.8M",
-          "sub": "proj. (65 votes)"
+          "sub": "proj. (66 votes)"
         }
       ]
     },
@@ -81,8 +81,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "12 Sales Today - 1.18 ETH Volume",
-      "summary": "12 sales in 24h for 1.18 ETH. Highest: \"AUTONOMY.EXE\" at 0.250 ETH.",
+      "headline": "13 Sales Today - 1.19 ETH Volume",
+      "summary": "13 sales in 24h for 1.19 ETH. Highest: \"AUTONOMY.EXE\" at 0.250 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "12",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.18",
+          "value": "1.19",
           "sub": "ETH"
         },
         {
@@ -134,39 +134,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.18 ETH",
-      "raw": 1.1778,
-      "delta": 0.7214,
-      "delta_fmt": "+158.1%"
+      "value": "1.19 ETH",
+      "raw": 1.1901,
+      "delta": 0.7337,
+      "delta_fmt": "+160.8%"
     },
     {
       "label": "7d Vol",
-      "value": "7.15 ETH",
-      "raw": 7.1481
+      "value": "6.98 ETH",
+      "raw": 6.9804
     },
     {
       "label": "30d Vol",
-      "value": "46.31 ETH",
-      "raw": 46.314
+      "value": "44.74 ETH",
+      "raw": 44.7398
     },
     {
       "label": "Full Set Bid",
-      "value": "39.4 ETH",
-      "raw": 39.42,
-      "delta": 3.6300000000000026,
-      "delta_fmt": "+3.63 ETH"
+      "value": "34.8 ETH",
+      "raw": 34.78,
+      "delta": -4.640000000000001,
+      "delta_fmt": "-4.64 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1759.4M",
-      "raw": 1759387656
+      "value": "1762.2M",
+      "raw": 1762173493,
+      "delta": 2785837,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 EmptySoulPrime",
       "value": "58.6M TDH",
-      "raw": 58634687,
-      "delta": -5392902,
-      "delta_fmt": "-5.4M TDH"
+      "raw": 58635771,
+      "delta": 1084,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 desolalasisi",
@@ -381,7 +383,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #518: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | YOU ARE THE PRODUCT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #518: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | YOU ARE THE PRODUCT"
   ]
 }
