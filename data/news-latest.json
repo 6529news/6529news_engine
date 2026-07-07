@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-07-07T14:31:53.969325+00:00",
+  "generated_at": "2026-07-07T16:59:29.688092+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"YOU ARE THE PRODUCT\" by MoonZoey \u2014 50.2M TDH from 68 voters. Top supporter: Poseidon (13.0M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/518.GIF",
-        "label": "YOU ARE THE PRODUCT - MoonZoey",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING WEDNESDAY",
       "headline": "Minting Wednesday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "EmptySoulPrime Leads with 58.6M Projected TDH",
-      "summary": "\"MEMEntoMori\" by EmptySoulPrime (58.6M projected TDH, 56 voters) | \"MDAGA\" by Banksit (39.1M projected TDH, 61 voters) | \"TAKE A PIECE\" by nasimghanizadeh (23.1M projected TDH, 66 voters) Next selection: Wed Jul 08 at 17:00 CET.",
+      "summary": "\"MEMEntoMori\" by EmptySoulPrime (58.6M projected TDH, 56 voters) | \"MDAGA\" by Banksit (39.5M projected TDH, 61 voters) | \"TAKE A PIECE\" by nasimghanizadeh (23.1M projected TDH, 66 voters) Next selection: Wed Jul 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,7 +34,7 @@
         },
         {
           "label": "Banksit",
-          "value": "39.1M",
+          "value": "39.5M",
           "sub": "proj. (61 votes)"
         },
         {
@@ -59,30 +46,40 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: Danielbin (2.1M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: GlassCrown (7.7M) | Danielbin (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": null,
-      "images": [],
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_62bd0523-90b4-406f-ad31-b8cd02b0c7a1/8871a799-b34b-42da-a8a8-eadcc81210c4/Survival.jpg",
+        "label": "GlassCrown (7.7M)",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_62bd0523-90b4-406f-ad31-b8cd02b0c7a1/8871a799-b34b-42da-a8a8-eadcc81210c4/Survival.jpg",
+          "label": "GlassCrown (7.7M)",
+          "type": "image"
+        }
+      ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 1.30 ETH Volume",
-      "summary": "17 sales in 24h for 1.30 ETH. Highest: \"6529Seizing\" at 0.230 ETH.",
+      "headline": "14 Sales Today - 1.04 ETH Volume",
+      "summary": "14 sales in 24h for 1.04 ETH. Highest: \"6529Seizing\" at 0.230 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,25 +94,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/517.WEBP",
-          "label": "artist manifesto - 0.170 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+          "label": "UncleSeize - 0.109 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-          "label": "UncleSeize - 0.109 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/346.WEBP",
+          "label": "BLACKPANIKMONDAY - 0.080 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.30",
+          "value": "1.04",
           "sub": "ETH"
         },
         {
@@ -134,10 +131,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.30 ETH",
-      "raw": 1.3,
-      "delta": 0.2955000000000001,
-      "delta_fmt": "+29.4%"
+      "value": "1.04 ETH",
+      "raw": 1.0418,
+      "delta": -0.29589999999999983,
+      "delta_fmt": "-22.1%"
     },
     {
       "label": "7d Vol",
@@ -152,9 +149,9 @@
     {
       "label": "Full Set Bid",
       "value": "39.6 ETH",
-      "raw": 39.63,
-      "delta": 1.6799999999999997,
-      "delta_fmt": "+1.68 ETH"
+      "raw": 39.64,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +161,7 @@
     {
       "label": "#1 EmptySoulPrime",
       "value": "58.6M TDH",
-      "raw": 58649663,
-      "delta": 13752,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 58649663
     },
     {
       "label": "#1 desolalasisi",
@@ -381,7 +376,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #518: 131 MINTS (EXCL. MUSEUM) | 90 HOLDERS | YOU ARE THE PRODUCT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #518: 131 MINTS (EXCL. MUSEUM) | 90 HOLDERS | YOU ARE THE PRODUCT"
   ]
 }
