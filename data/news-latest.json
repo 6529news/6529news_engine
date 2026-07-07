@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T16:59:29.688092+00:00",
+  "generated_at": "2026-07-07T19:07:52.557319+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "EmptySoulPrime Leads with 58.6M Projected TDH",
-      "summary": "\"MEMEntoMori\" by EmptySoulPrime (58.6M projected TDH, 56 voters) | \"MDAGA\" by Banksit (39.5M projected TDH, 61 voters) | \"TAKE A PIECE\" by nasimghanizadeh (23.1M projected TDH, 66 voters) Next selection: Wed Jul 08 at 17:00 CET.",
+      "headline": "EmptySoulPrime Leads with 60.2M Projected TDH",
+      "summary": "\"MEMEntoMori\" by EmptySoulPrime (60.2M projected TDH, 58 voters) | \"MDAGA\" by Banksit (39.5M projected TDH, 61 voters) | \"TAKE A PIECE\" by nasimghanizadeh (23.6M projected TDH, 67 voters) Next selection: Wed Jul 08 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "EmptySoulPrime",
-          "value": "58.6M",
-          "sub": "proj. (56 votes)"
+          "value": "60.2M",
+          "sub": "proj. (58 votes)"
         },
         {
           "label": "Banksit",
@@ -39,8 +39,8 @@
         },
         {
           "label": "nasimghanizadeh",
-          "value": "23.1M",
-          "sub": "proj. (66 votes)"
+          "value": "23.6M",
+          "sub": "proj. (67 votes)"
         }
       ]
     },
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 1.04 ETH Volume",
-      "summary": "14 sales in 24h for 1.04 ETH. Highest: \"6529Seizing\" at 0.230 ETH.",
+      "headline": "16 Sales Today - 1.09 ETH Volume",
+      "summary": "16 sales in 24h for 1.09 ETH. Highest: \"6529Seizing\" at 0.230 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.04",
+          "value": "1.09",
           "sub": "ETH"
         },
         {
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.04 ETH",
-      "raw": 1.0418,
-      "delta": -0.29589999999999983,
-      "delta_fmt": "-22.1%"
+      "value": "1.09 ETH",
+      "raw": 1.0893,
+      "delta": -0.2654000000000001,
+      "delta_fmt": "-19.6%"
     },
     {
       "label": "7d Vol",
-      "value": "7.13 ETH",
-      "raw": 7.1344
+      "value": "7.08 ETH",
+      "raw": 7.078
     },
     {
       "label": "30d Vol",
-      "value": "45.65 ETH",
-      "raw": 45.6478
+      "value": "45.71 ETH",
+      "raw": 45.7124
     },
     {
       "label": "Full Set Bid",
-      "value": "39.6 ETH",
-      "raw": 39.64,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "35.9 ETH",
+      "raw": 35.95,
+      "delta": -3.6899999999999977,
+      "delta_fmt": "-3.69 ETH"
     },
     {
       "label": "Network TDH",
@@ -160,8 +160,10 @@
     },
     {
       "label": "#1 EmptySoulPrime",
-      "value": "58.6M TDH",
-      "raw": 58649663
+      "value": "60.2M TDH",
+      "raw": 60207151,
+      "delta": 1557488,
+      "delta_fmt": "+1.6M TDH"
     },
     {
       "label": "#1 desolalasisi",
@@ -376,7 +378,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #518: 131 MINTS (EXCL. MUSEUM) | 90 HOLDERS | YOU ARE THE PRODUCT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #518: 131 MINTS (EXCL. MUSEUM) | 90 HOLDERS | YOU ARE THE PRODUCT"
   ]
 }
