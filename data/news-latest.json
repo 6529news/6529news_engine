@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:35:22.730618+00:00",
+  "generated_at": "2026-07-08T17:08:29.148807+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,22 +16,30 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "EmptySoulPrime Leads with 63.1M Projected TDH",
-      "summary": "\"MEMEntoMori\" by EmptySoulPrime (63.1M projected TDH, 63 voters) | \"MDAGA\" by Banksit (39.5M projected TDH, 62 voters) | \"TAKE A PIECE\" by nasimghanizadeh (23.6M projected TDH, 69 voters) Next selection: Wed Jul 08 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING FRIDAY",
+      "headline": "Minting Friday",
+      "summary": " \"MEMEntoMori\" by EmptySoulPrime \u2014 63.1M TDH from 63 voters. Top supporter: Thor (20.3M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e3d0a02a-4d95-484e-80cc-6db0aa9b2125/01809af5-63e7-4311-8010-da3290b6e291/MEMEntoMori.gif",
         "label": "MEMEntoMori - EmptySoulPrime",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "Banksit Leads with 39.5M Projected TDH",
+      "summary": "\"MDAGA\" by Banksit (39.5M projected TDH, 62 voters) | \"TAKE A PIECE\" by nasimghanizadeh (24.3M projected TDH, 70 voters) | \"Cycle of Creation\" by RalenArc (21.2M projected TDH, 54 voters) Next selection: Fri Jul 10 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_4faf7be7-d030-4331-b768-073c2e412e17/874d824d-a3f1-41af-b1bb-550c776ebe30.png",
+        "label": "MDAGA - Banksit",
+        "type": "image"
+      },
       "dataBoxes": [
-        {
-          "label": "EmptySoulPrime",
-          "value": "63.1M",
-          "sub": "proj. (63 votes)"
-        },
         {
           "label": "Banksit",
           "value": "39.5M",
@@ -39,26 +47,31 @@
         },
         {
           "label": "nasimghanizadeh",
-          "value": "23.6M",
-          "sub": "proj. (69 votes)"
+          "value": "24.3M",
+          "sub": "proj. (70 votes)"
+        },
+        {
+          "label": "RalenArc",
+          "value": "21.2M",
+          "sub": "proj. (54 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: GlassCrown (7.8M) | Danielbin (2.1M).",
+      "summary": "2 submissions this week. Ranking: GlassCrown (9.8M) | Danielbin (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_62bd0523-90b4-406f-ad31-b8cd02b0c7a1/8871a799-b34b-42da-a8a8-eadcc81210c4/Survival.jpg",
-        "label": "GlassCrown (7.8M)",
+        "label": "GlassCrown (9.8M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_62bd0523-90b4-406f-ad31-b8cd02b0c7a1/8871a799-b34b-42da-a8a8-eadcc81210c4/Survival.jpg",
-          "label": "GlassCrown (7.8M)",
+          "label": "GlassCrown (9.8M)",
           "type": "image"
         }
       ],
@@ -66,28 +79,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "12 Sales Today - 0.51 ETH Volume",
-      "summary": "12 sales in 24h for 0.51 ETH. Highest: \"SeizeJPGs\" at 0.168 ETH.",
+      "headline": "13 Sales Today - 0.76 ETH Volume",
+      "summary": "13 sales in 24h for 0.76 ETH. Highest: \"Feeling Lucky?\" at 0.250 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-        "label": "SeizeJPGs - 0.168 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/33.WEBP",
+        "label": "Feeling Lucky? - 0.250 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/33.WEBP",
+          "label": "Feeling Lucky? - 0.250 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
           "label": "SeizeJPGs - 0.168 ETH",
@@ -97,28 +115,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/208.WEBP",
           "label": "The Transaction War - 0.050 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/113.WEBP",
-          "label": "Time to BUIDL - 0.045 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "12",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.51",
+          "value": "0.76",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.168",
-          "sub": "SeizeJPGs"
+          "value": "0.250",
+          "sub": "Feeling Lucky?"
         },
         {
           "label": "Floor",
@@ -131,32 +144,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.51 ETH",
-      "raw": 0.5119,
-      "delta": -0.7881,
-      "delta_fmt": "-60.6%"
+      "value": "0.76 ETH",
+      "raw": 0.7619,
+      "delta": -0.27990000000000004,
+      "delta_fmt": "-26.9%"
     },
     {
       "label": "7d Vol",
-      "value": "5.90 ETH",
-      "raw": 5.8974
+      "value": "6.15 ETH",
+      "raw": 6.1474
     },
     {
       "label": "30d Vol",
-      "value": "43.52 ETH",
-      "raw": 43.523
+      "value": "43.77 ETH",
+      "raw": 43.773
     },
     {
       "label": "Full Set Bid",
-      "value": "39.2 ETH",
-      "raw": 39.17,
-      "delta": 3.710000000000001,
-      "delta_fmt": "+3.71 ETH"
+      "value": "37.1 ETH",
+      "raw": 37.14,
+      "delta": -2.030000000000001,
+      "delta_fmt": "-2.03 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1764.9M",
       "raw": 1764858688
+    },
+    {
+      "label": "#1 Banksit",
+      "value": "39.5M TDH",
+      "raw": 39514912,
+      "delta": -14168923,
+      "delta_fmt": "-14.2M TDH"
     },
     {
       "label": "#1 EmptySoulPrime",
@@ -376,7 +396,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #519: 120 MINTS (EXCL. MUSEUM) | 77 HOLDERS | THE LOOM ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #519: 121 MINTS (EXCL. MUSEUM) | 79 HOLDERS | THE LOOM "
   ]
 }
