@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T18:11:27.064490+00:00",
+  "generated_at": "2026-07-09T20:04:09.156261+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "HIPOCREATE Leads with 58.9M Projected TDH",
-      "summary": "\"When The World is Destroyed\" by HIPOCREATE (58.9M projected TDH, 81 voters) | \"MDAGA\" by Banksit (38.7M projected TDH, 65 voters) | \"TAKE A PIECE\" by nasimghanizadeh (28.3M projected TDH, 75 voters) Next selection: Fri Jul 10 at 17:00 CET.",
+      "headline": "HIPOCREATE Leads with 59.2M Projected TDH",
+      "summary": "\"When The World is Destroyed\" by HIPOCREATE (59.2M projected TDH, 81 voters) | \"MDAGA\" by Banksit (38.7M projected TDH, 65 voters) | \"TAKE A PIECE\" by nasimghanizadeh (28.3M projected TDH, 75 voters) Next selection: Fri Jul 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "HIPOCREATE",
-          "value": "58.9M",
+          "value": "59.2M",
           "sub": "proj. (81 votes)"
         },
         {
@@ -66,28 +66,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "9 Sales Today - 0.61 ETH Volume",
-      "summary": "9 sales in 24h for 0.61 ETH. Highest: \"The Loom \" at 0.072 ETH.",
+      "headline": "9 Sales Today - 0.53 ETH Volume",
+      "summary": "9 sales in 24h for 0.53 ETH. Highest: \"UncleSeize\" at 0.111 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/519.WEBP",
-        "label": "The Loom  - 0.072 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+        "label": "UncleSeize - 0.111 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+          "label": "UncleSeize - 0.111 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/519.WEBP",
           "label": "The Loom  - 0.072 ETH",
@@ -96,11 +101,6 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/125.GIF",
           "label": "Build What Feels Good - 0.065 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/138.WEBP",
-          "label": "We Will Survive - 0.050 ETH",
           "type": "image"
         }
       ],
@@ -112,13 +112,13 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.61",
+          "value": "0.53",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.072",
-          "sub": "The Loom "
+          "value": "0.111",
+          "sub": "UncleSeize"
         },
         {
           "label": "Floor",
@@ -177,27 +177,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.61 ETH",
-      "raw": 0.6073,
-      "delta": -0.11450000000000005,
-      "delta_fmt": "-15.9%"
+      "value": "0.53 ETH",
+      "raw": 0.5283,
+      "delta": -0.359,
+      "delta_fmt": "-40.5%"
     },
     {
       "label": "7d Vol",
-      "value": "5.65 ETH",
-      "raw": 5.6519
+      "value": "5.54 ETH",
+      "raw": 5.541
     },
     {
       "label": "30d Vol",
-      "value": "43.07 ETH",
-      "raw": 43.069
+      "value": "43.18 ETH",
+      "raw": 43.18
     },
     {
       "label": "Full Set Bid",
-      "value": "37.4 ETH",
-      "raw": 37.4,
-      "delta": -0.37000000000000455,
-      "delta_fmt": "-0.37 ETH"
+      "value": "38.1 ETH",
+      "raw": 38.13,
+      "delta": 0.730000000000004,
+      "delta_fmt": "+0.73 ETH"
     },
     {
       "label": "Network TDH",
@@ -206,10 +206,10 @@
     },
     {
       "label": "#1 HIPOCREATE",
-      "value": "58.9M TDH",
-      "raw": 58881211,
-      "delta": 8060,
-      "delta_fmt": "+0.0M TDH"
+      "value": "59.2M TDH",
+      "raw": 59153366,
+      "delta": 272155,
+      "delta_fmt": "+0.3M TDH"
     },
     {
       "label": "#1 Banksit",
@@ -434,8 +434,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.459 ETH | 1 SALES | LAST SALE 19h AGO",
-    "CARD #519: 140 MINTS (EXCL. MUSEUM) | 91 HOLDERS | THE LOOM ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.459 ETH | 1 SALES | LAST SALE 21h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #519: 140 MINTS (EXCL. MUSEUM) | 91 HOLDERS | THE LOOM "
   ]
 }
