@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T06:47:26.271098+00:00",
+  "generated_at": "2026-07-09T10:34:16.667423+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "HIPOCREATE Leads with 47.0M Projected TDH",
-      "summary": "\"When The World is Destroyed\" by HIPOCREATE (47.0M projected TDH, 75 voters) | \"MDAGA\" by Banksit (38.7M projected TDH, 64 voters) | \"TAKE A PIECE\" by nasimghanizadeh (27.8M projected TDH, 72 voters) Next selection: Fri Jul 10 at 17:00 CET.",
+      "headline": "HIPOCREATE Leads with 54.8M Projected TDH",
+      "summary": "\"When The World is Destroyed\" by HIPOCREATE (54.8M projected TDH, 77 voters) | \"MDAGA\" by Banksit (38.7M projected TDH, 64 voters) | \"TAKE A PIECE\" by nasimghanizadeh (28.3M projected TDH, 74 voters) Next selection: Fri Jul 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "HIPOCREATE",
-          "value": "47.0M",
-          "sub": "proj. (75 votes)"
+          "value": "54.8M",
+          "sub": "proj. (77 votes)"
         },
         {
           "label": "Banksit",
@@ -52,26 +52,26 @@
         },
         {
           "label": "nasimghanizadeh",
-          "value": "27.8M",
-          "sub": "proj. (72 votes)"
+          "value": "28.3M",
+          "sub": "proj. (74 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: GlassCrown (22.8M) | Danielbin (2.1M).",
+      "summary": "2 submissions this week. Ranking: GlassCrown (22.9M) | Danielbin (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_62bd0523-90b4-406f-ad31-b8cd02b0c7a1/8871a799-b34b-42da-a8a8-eadcc81210c4/Survival.jpg",
-        "label": "GlassCrown (22.8M)",
+        "label": "GlassCrown (22.9M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_62bd0523-90b4-406f-ad31-b8cd02b0c7a1/8871a799-b34b-42da-a8a8-eadcc81210c4/Survival.jpg",
-          "label": "GlassCrown (22.8M)",
+          "label": "GlassCrown (22.9M)",
           "type": "image"
         }
       ],
@@ -91,8 +91,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "5 Sales Today - 0.69 ETH Volume",
-      "summary": "5 sales in 24h for 0.69 ETH. Highest: \"Feeling Lucky?\" at 0.250 ETH.",
+      "headline": "6 Sales Today - 0.77 ETH Volume",
+      "summary": "6 sales in 24h for 0.77 ETH. Highest: \"Feeling Lucky?\" at 0.250 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "5",
+          "value": "6",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.69",
+          "value": "0.77",
           "sub": "ETH"
         },
         {
@@ -135,7 +135,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.017095",
+          "value": "0.017",
           "sub": "ETH"
         }
       ]
@@ -190,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.69 ETH",
-      "raw": 0.689,
-      "delta": -0.2972,
-      "delta_fmt": "-30.1%"
+      "value": "0.77 ETH",
+      "raw": 0.7682,
+      "delta": 0.19589999999999996,
+      "delta_fmt": "+34.2%"
     },
     {
       "label": "7d Vol",
-      "value": "5.29 ETH",
-      "raw": 5.2926
+      "value": "5.41 ETH",
+      "raw": 5.4078
     },
     {
       "label": "30d Vol",
-      "value": "42.65 ETH",
-      "raw": 42.6517
+      "value": "42.77 ETH",
+      "raw": 42.7669
     },
     {
       "label": "Full Set Bid",
-      "value": "35.5 ETH",
-      "raw": 35.51,
-      "delta": -3.719999999999999,
-      "delta_fmt": "-3.72 ETH"
+      "value": "33.9 ETH",
+      "raw": 33.89,
+      "delta": -1.6199999999999974,
+      "delta_fmt": "-1.62 ETH"
     },
     {
       "label": "Network TDH",
@@ -219,10 +219,10 @@
     },
     {
       "label": "#1 HIPOCREATE",
-      "value": "47.0M TDH",
-      "raw": 46979906,
-      "delta": 4720282,
-      "delta_fmt": "+4.7M TDH"
+      "value": "54.8M TDH",
+      "raw": 54837853,
+      "delta": 7857947,
+      "delta_fmt": "+7.9M TDH"
     },
     {
       "label": "#1 Banksit",
@@ -447,8 +447,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.459 ETH | 1 SALES | LAST SALE 8h AGO",
-    "CARD #519: 133 MINTS (EXCL. MUSEUM) | 82 HOLDERS | THE LOOM ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.459 ETH | 1 SALES | LAST SALE 12h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #519: 136 MINTS (EXCL. MUSEUM) | 87 HOLDERS | THE LOOM "
   ]
 }
