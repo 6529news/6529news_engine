@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T19:02:41.950912+00:00",
+  "generated_at": "2026-07-10T20:42:28.212750+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,49 +30,49 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Banksit Leads with 32.8M Projected TDH",
-      "summary": "\"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) | \"Sentenced to Survive\" by GlassCrown (29.4M projected TDH, 31 voters) | \"TAKE A PIECE\" by nasimghanizadeh (28.9M projected TDH, 77 voters) Next selection: Mon Jul 13 at 17:00 CET.",
+      "headline": "GlassCrown Leads with 34.5M Projected TDH",
+      "summary": "\"Sentenced to Survive\" by GlassCrown (34.5M projected TDH, 33 voters) | \"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) | \"TAKE A PIECE\" by nasimghanizadeh (28.9M projected TDH, 78 voters) Next selection: Mon Jul 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_4faf7be7-d030-4331-b768-073c2e412e17/874d824d-a3f1-41af-b1bb-550c776ebe30.png",
-        "label": "MDAGA - Banksit",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_62bd0523-90b4-406f-ad31-b8cd02b0c7a1/8871a799-b34b-42da-a8a8-eadcc81210c4/Survival.jpg",
+        "label": "Sentenced to Survive - GlassCrown",
         "type": "image"
       },
       "dataBoxes": [
+        {
+          "label": "GlassCrown",
+          "value": "34.5M",
+          "sub": "proj. (33 votes)"
+        },
         {
           "label": "Banksit",
           "value": "32.8M",
           "sub": "proj. (66 votes)"
         },
         {
-          "label": "GlassCrown",
-          "value": "29.4M",
-          "sub": "proj. (31 votes)"
-        },
-        {
           "label": "nasimghanizadeh",
           "value": "28.9M",
-          "sub": "proj. (77 votes)"
+          "sub": "proj. (78 votes)"
         }
       ]
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 0.90 ETH Volume",
-      "summary": "26 sales in 24h for 0.90 ETH. Highest: \"Pepemoto: The Genesis Revolution\" at 0.170 ETH.",
+      "headline": "25 Sales Today - 0.88 ETH Volume",
+      "summary": "25 sales in 24h for 0.88 ETH. Highest: \"Pepemoto: The Genesis Revolution\" at 0.170 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -87,25 +87,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-          "label": "UncleSeize - 0.111 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/288.WEBP",
+          "label": "Hold Tight - 0.070 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/288.WEBP",
-          "label": "Hold Tight - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/67.WEBP",
+          "label": "Come and Take It! - 0.057 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "26",
+          "value": "25",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.90",
+          "value": "0.88",
           "sub": "ETH"
         },
         {
@@ -124,10 +124,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.90 ETH",
-      "raw": 0.8956,
-      "delta": 0.2883,
-      "delta_fmt": "+47.5%"
+      "value": "0.88 ETH",
+      "raw": 0.8828,
+      "delta": 0.35450000000000004,
+      "delta_fmt": "+67.1%"
     },
     {
       "label": "7d Vol",
@@ -141,15 +141,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.4 ETH",
-      "raw": 39.45,
-      "delta": 0.45000000000000284,
-      "delta_fmt": "+0.45 ETH"
+      "value": "39.3 ETH",
+      "raw": 39.34,
+      "delta": -0.10999999999999943,
+      "delta_fmt": "-0.11 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1772.5M",
       "raw": 1772517062
+    },
+    {
+      "label": "#1 GlassCrown",
+      "value": "34.5M TDH",
+      "raw": 34480826,
+      "delta": -19203009,
+      "delta_fmt": "-19.2M TDH"
     },
     {
       "label": "#1 Banksit",
@@ -379,7 +386,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #520: 123 MINTS (EXCL. MUSEUM) | 79 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 82 HOLDERS | MEMENTOMORI"
   ]
 }
