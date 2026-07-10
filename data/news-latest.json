@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T15:40:04.203083+00:00",
+  "generated_at": "2026-07-10T17:26:49.583458+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,53 +16,46 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "HIPOCREATE Leads with 60.1M Projected TDH",
-      "summary": "\"When The World is Destroyed\" by HIPOCREATE (60.1M projected TDH, 88 voters) | \"MDAGA\" by Banksit (35.0M projected TDH, 66 voters) | \"TAKE A PIECE\" by nasimghanizadeh (28.4M projected TDH, 77 voters) Next selection: Fri Jul 10 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"When The World is Destroyed\" by HIPOCREATE \u2014 60.1M TDH from 88 voters. Top supporter: Thor (20.7M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_4c0d1131-93b3-4c28-a974-c134f89c5a80/a9f5ef76-7acc-4cb8-a3c6-d9305e5ccc2c.gif",
         "label": "When The World is Destroyed - HIPOCREATE",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "Banksit Leads with 32.8M Projected TDH",
+      "summary": "\"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) | \"TAKE A PIECE\" by nasimghanizadeh (28.9M projected TDH, 77 voters) | \"Sentenced to Survive\" by GlassCrown (26.3M projected TDH, 31 voters) Next selection: Mon Jul 13 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_4faf7be7-d030-4331-b768-073c2e412e17/874d824d-a3f1-41af-b1bb-550c776ebe30.png",
+        "label": "MDAGA - Banksit",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "HIPOCREATE",
-          "value": "60.1M",
-          "sub": "proj. (88 votes)"
-        },
-        {
           "label": "Banksit",
-          "value": "35.0M",
+          "value": "32.8M",
           "sub": "proj. (66 votes)"
         },
         {
           "label": "nasimghanizadeh",
-          "value": "28.4M",
+          "value": "28.9M",
           "sub": "proj. (77 votes)"
+        },
+        {
+          "label": "GlassCrown",
+          "value": "26.3M",
+          "sub": "proj. (31 votes)"
         }
       ]
-    },
-    {
-      "category": "NEW MEMES SUBMISSIONS",
-      "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: GlassCrown (23.0M).",
-      "source": "Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_62bd0523-90b4-406f-ad31-b8cd02b0c7a1/8871a799-b34b-42da-a8a8-eadcc81210c4/Survival.jpg",
-        "label": "GlassCrown (23.0M)",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_62bd0523-90b4-406f-ad31-b8cd02b0c7a1/8871a799-b34b-42da-a8a8-eadcc81210c4/Survival.jpg",
-          "label": "GlassCrown (23.0M)",
-          "type": "image"
-        }
-      ],
-      "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
@@ -133,8 +126,8 @@
       "label": "24h Vol",
       "value": "0.92 ETH",
       "raw": 0.9158,
-      "delta": 0.09449999999999992,
-      "delta_fmt": "+11.5%"
+      "delta": 0.3085,
+      "delta_fmt": "+50.8%"
     },
     {
       "label": "7d Vol",
@@ -148,10 +141,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.1 ETH",
-      "raw": 39.15,
-      "delta": 0.21000000000000085,
-      "delta_fmt": "+0.21 ETH"
+      "value": "39.0 ETH",
+      "raw": 38.96,
+      "delta": -0.18999999999999773,
+      "delta_fmt": "-0.19 ETH"
     },
     {
       "label": "Network TDH",
@@ -159,14 +152,16 @@
       "raw": 1772517062
     },
     {
+      "label": "#1 Banksit",
+      "value": "32.8M TDH",
+      "raw": 32778644,
+      "delta": -73138,
+      "delta_fmt": "-0.1M TDH"
+    },
+    {
       "label": "#1 HIPOCREATE",
       "value": "60.1M TDH",
       "raw": 60133411
-    },
-    {
-      "label": "#1 Banksit",
-      "value": "32.9M TDH",
-      "raw": 32851782
     },
     {
       "label": "#1 EmptySoulPrime",
@@ -386,7 +381,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #520: 121 MINTS (EXCL. MUSEUM) | 78 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 123 MINTS (EXCL. MUSEUM) | 79 HOLDERS | MEMENTOMORI"
   ]
 }
