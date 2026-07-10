@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T22:42:06.959078+00:00",
+  "generated_at": "2026-07-10T23:39:42.939032+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"MEMEntoMori\" by EmptySoulPrime \u2014 63.1M TDH from 63 voters. Top supporter: Thor (20.3M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"MEMEntoMori\" by EmptySoulPrime \u2014 63.1M TDH from 63 voters. Top supporter: Thor (20.3M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "nasimghanizadeh Leads with 36.6M Projected TDH",
-      "summary": "\"TAKE A PIECE\" by nasimghanizadeh (36.6M projected TDH, 81 voters) | \"Sentenced to Survive\" by GlassCrown (34.5M projected TDH, 34 voters) | \"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
+      "headline": "nasimghanizadeh Leads with 36.7M Projected TDH",
+      "summary": "\"TAKE A PIECE\" by nasimghanizadeh (36.7M projected TDH, 82 voters) | \"Sentenced to Survive\" by GlassCrown (34.5M projected TDH, 35 voters) | \"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "nasimghanizadeh",
-          "value": "36.6M",
-          "sub": "proj. (81 votes)"
+          "value": "36.7M",
+          "sub": "proj. (82 votes)"
         },
         {
           "label": "GlassCrown",
           "value": "34.5M",
-          "sub": "proj. (34 votes)"
+          "sub": "proj. (35 votes)"
         },
         {
           "label": "Banksit",
@@ -59,20 +59,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 0.88 ETH Volume",
-      "summary": "25 sales in 24h for 0.88 ETH. Highest: \"Come and Take It!\" at 0.057 ETH.",
+      "headline": "24 Sales Today - 0.66 ETH Volume",
+      "summary": "24 sales in 24h for 0.66 ETH. Highest: \"Come and Take It!\" at 0.057 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -100,12 +100,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.88",
+          "value": "0.66",
           "sub": "ETH"
         },
         {
@@ -124,27 +124,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.88 ETH",
-      "raw": 0.8828,
-      "delta": 0.10170000000000001,
-      "delta_fmt": "+13.0%"
+      "value": "0.66 ETH",
+      "raw": 0.6649,
+      "delta": -0.11619999999999997,
+      "delta_fmt": "-14.9%"
     },
     {
       "label": "7d Vol",
-      "value": "5.68 ETH",
-      "raw": 5.6848
+      "value": "5.71 ETH",
+      "raw": 5.7069
     },
     {
       "label": "30d Vol",
-      "value": "41.59 ETH",
-      "raw": 41.5871
+      "value": "41.61 ETH",
+      "raw": 41.6092
     },
     {
       "label": "Full Set Bid",
-      "value": "39.6 ETH",
-      "raw": 39.59,
-      "delta": -0.5399999999999991,
-      "delta_fmt": "-0.54 ETH"
+      "value": "39.4 ETH",
+      "raw": 39.42,
+      "delta": -0.1700000000000017,
+      "delta_fmt": "-0.17 ETH"
     },
     {
       "label": "Network TDH",
@@ -153,9 +153,9 @@
     },
     {
       "label": "#1 nasimghanizadeh",
-      "value": "36.6M TDH",
-      "raw": 36643712,
-      "delta": 31379,
+      "value": "36.7M TDH",
+      "raw": 36650681,
+      "delta": 6969,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -393,7 +393,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 82 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 84 HOLDERS | MEMENTOMORI"
   ]
 }
