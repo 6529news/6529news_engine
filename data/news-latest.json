@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T22:57:24.682551+00:00",
+  "generated_at": "2026-07-10T00:09:56.761169+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING FRIDAY",
-      "headline": "Minting Friday",
-      "summary": " \"MEMEntoMori\" by EmptySoulPrime \u2014 63.1M TDH from 63 voters. Top supporter: Thor (20.3M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"MEMEntoMori\" by EmptySoulPrime \u2014 63.1M TDH from 63 voters. Top supporter: Thor (20.3M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -66,14 +66,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
+        "type": "image"
       }
     },
     {
@@ -148,22 +148,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.2 ETH",
-      "raw": 39.23,
-      "delta": 2.759999999999998,
-      "delta_fmt": "+2.76 ETH"
+      "value": "35.2 ETH",
+      "raw": 35.16,
+      "delta": -4.07,
+      "delta_fmt": "-4.07 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1769.6M",
-      "raw": 1769593178
+      "value": "1772.5M",
+      "raw": 1772517062,
+      "delta": 2923884,
+      "delta_fmt": "+2.9M TDH"
     },
     {
       "label": "#1 HIPOCREATE",
       "value": "59.9M TDH",
-      "raw": 59894174,
-      "delta": 740808,
-      "delta_fmt": "+0.7M TDH"
+      "raw": 59894174
     },
     {
       "label": "#1 Banksit",
@@ -388,7 +388,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #519: 140 MINTS (EXCL. MUSEUM) | 91 HOLDERS | THE LOOM ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #519: 140 MINTS (EXCL. MUSEUM) | 91 HOLDERS | THE LOOM "
   ]
 }
