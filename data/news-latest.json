@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T04:13:41.457096+00:00",
+  "generated_at": "2026-07-10T07:53:02.651211+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "HIPOCREATE Leads with 59.9M Projected TDH",
-      "summary": "\"When The World is Destroyed\" by HIPOCREATE (59.9M projected TDH, 84 voters) | \"MDAGA\" by Banksit (35.0M projected TDH, 65 voters) | \"TAKE A PIECE\" by nasimghanizadeh (28.3M projected TDH, 77 voters) Next selection: Fri Jul 10 at 17:00 CET.",
+      "summary": "\"When The World is Destroyed\" by HIPOCREATE (59.9M projected TDH, 86 voters) | \"MDAGA\" by Banksit (35.0M projected TDH, 65 voters) | \"TAKE A PIECE\" by nasimghanizadeh (28.3M projected TDH, 77 voters) Next selection: Fri Jul 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "HIPOCREATE",
           "value": "59.9M",
-          "sub": "proj. (84 votes)"
+          "sub": "proj. (86 votes)"
         },
         {
           "label": "Banksit",
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 0.81 ETH Volume",
-      "summary": "13 sales in 24h for 0.81 ETH. Highest: \"Pepemoto: The Genesis Revolution\" at 0.170 ETH.",
+      "headline": "13 Sales Today - 0.78 ETH Volume",
+      "summary": "13 sales in 24h for 0.78 ETH. Highest: \"Pepemoto: The Genesis Revolution\" at 0.170 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.81",
+          "value": "0.78",
           "sub": "ETH"
         },
         {
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.81 ETH",
-      "raw": 0.8114,
-      "delta": 0.08240000000000003,
-      "delta_fmt": "+11.3%"
+      "value": "0.78 ETH",
+      "raw": 0.7812,
+      "delta": 0.09220000000000006,
+      "delta_fmt": "+13.4%"
     },
     {
       "label": "7d Vol",
-      "value": "5.53 ETH",
-      "raw": 5.5303
+      "value": "5.57 ETH",
+      "raw": 5.5653
     },
     {
       "label": "30d Vol",
-      "value": "40.97 ETH",
-      "raw": 40.9746
+      "value": "41.01 ETH",
+      "raw": 41.0096
     },
     {
       "label": "Full Set Bid",
-      "value": "34.2 ETH",
-      "raw": 34.24,
-      "delta": -0.9199999999999946,
-      "delta_fmt": "-0.92 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.07,
+      "delta": 5.829999999999998,
+      "delta_fmt": "+5.83 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,8 +161,8 @@
     {
       "label": "#1 HIPOCREATE",
       "value": "59.9M TDH",
-      "raw": 59894847,
-      "delta": 673,
+      "raw": 59895070,
+      "delta": 223,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -388,7 +388,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #519: 140 MINTS (EXCL. MUSEUM) | 91 HOLDERS | THE LOOM ",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #519: 140 MINTS (EXCL. MUSEUM) | 91 HOLDERS | THE LOOM "
   ]
 }
