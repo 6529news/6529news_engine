@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T12:12:42.201711+00:00",
+  "generated_at": "2026-07-11T13:55:56.589397+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "GlassCrown Leads with 56.2M Projected TDH",
-      "summary": "\"Sentenced to Survive\" by GlassCrown (56.2M projected TDH, 42 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 84 voters) | \"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
+      "headline": "GlassCrown Leads with 57.9M Projected TDH",
+      "summary": "\"Sentenced to Survive\" by GlassCrown (57.9M projected TDH, 43 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 84 voters) | \"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "GlassCrown",
-          "value": "56.2M",
-          "sub": "proj. (42 votes)"
+          "value": "57.9M",
+          "sub": "proj. (43 votes)"
         },
         {
           "label": "nasimghanizadeh",
@@ -59,20 +59,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 0.75 ETH Volume",
-      "summary": "22 sales in 24h for 0.75 ETH. Highest: \"UncleSeize\" at 0.129 ETH.",
+      "headline": "16 Sales Today - 0.51 ETH Volume",
+      "summary": "16 sales in 24h for 0.51 ETH. Highest: \"UncleSeize\" at 0.129 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -100,12 +100,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "22",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.75",
+          "value": "0.51",
           "sub": "ETH"
         },
         {
@@ -115,7 +115,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01499",
+          "value": "0.014985",
           "sub": "ETH"
         }
       ]
@@ -124,15 +124,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.75 ETH",
-      "raw": 0.754,
-      "delta": -0.34909999999999997,
-      "delta_fmt": "-31.6%"
+      "value": "0.51 ETH",
+      "raw": 0.5075,
+      "delta": -0.5956,
+      "delta_fmt": "-54.0%"
     },
     {
       "label": "7d Vol",
-      "value": "5.65 ETH",
-      "raw": 5.6472
+      "value": "5.59 ETH",
+      "raw": 5.5892
     },
     {
       "label": "30d Vol",
@@ -141,10 +141,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.3 ETH",
-      "raw": 39.32,
-      "delta": -0.240000000000002,
-      "delta_fmt": "-0.24 ETH"
+      "value": "39.7 ETH",
+      "raw": 39.7,
+      "delta": 0.38000000000000256,
+      "delta_fmt": "+0.38 ETH"
     },
     {
       "label": "Network TDH",
@@ -153,8 +153,10 @@
     },
     {
       "label": "#1 GlassCrown",
-      "value": "56.2M TDH",
-      "raw": 56153479
+      "value": "57.9M TDH",
+      "raw": 57944182,
+      "delta": 1790703,
+      "delta_fmt": "+1.8M TDH"
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -391,7 +393,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 84 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 84 HOLDERS | MEMENTOMORI"
   ]
 }
