@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T13:55:56.589397+00:00",
+  "generated_at": "2026-07-11T14:54:37.044973+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -59,13 +59,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -126,8 +126,8 @@
       "label": "24h Vol",
       "value": "0.51 ETH",
       "raw": 0.5075,
-      "delta": -0.5956,
-      "delta_fmt": "-54.0%"
+      "delta": -0.4083,
+      "delta_fmt": "-44.6%"
     },
     {
       "label": "7d Vol",
@@ -141,10 +141,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.7 ETH",
-      "raw": 39.7,
-      "delta": 0.38000000000000256,
-      "delta_fmt": "+0.38 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.05,
+      "delta": 0.3499999999999943,
+      "delta_fmt": "+0.35 ETH"
     },
     {
       "label": "Network TDH",
@@ -154,9 +154,7 @@
     {
       "label": "#1 GlassCrown",
       "value": "57.9M TDH",
-      "raw": 57944182,
-      "delta": 1790703,
-      "delta_fmt": "+1.8M TDH"
+      "raw": 57944182
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -393,7 +391,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 84 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 84 HOLDERS | MEMENTOMORI"
   ]
 }
