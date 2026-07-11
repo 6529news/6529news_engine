@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T01:08:32.735404+00:00",
+  "generated_at": "2026-07-11T04:27:50.267197+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "GlassCrown Leads with 50.2M Projected TDH",
-      "summary": "\"Sentenced to Survive\" by GlassCrown (50.2M projected TDH, 36 voters) | \"TAKE A PIECE\" by nasimghanizadeh (41.7M projected TDH, 82 voters) | \"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
+      "summary": "\"Sentenced to Survive\" by GlassCrown (50.2M projected TDH, 37 voters) | \"TAKE A PIECE\" by nasimghanizadeh (41.7M projected TDH, 82 voters) | \"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "GlassCrown",
           "value": "50.2M",
-          "sub": "proj. (36 votes)"
+          "sub": "proj. (37 votes)"
         },
         {
           "label": "nasimghanizadeh",
@@ -59,13 +59,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -126,8 +126,8 @@
       "label": "24h Vol",
       "value": "0.90 ETH",
       "raw": 0.9035,
-      "delta": 0.12239999999999995,
-      "delta_fmt": "+15.7%"
+      "delta": 0.09209999999999996,
+      "delta_fmt": "+11.4%"
     },
     {
       "label": "7d Vol",
@@ -141,24 +141,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.1 ETH",
-      "raw": 40.11,
-      "delta": 0.6899999999999977,
-      "delta_fmt": "+0.69 ETH"
+      "value": "39.6 ETH",
+      "raw": 39.59,
+      "delta": -0.519999999999996,
+      "delta_fmt": "-0.52 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1775.1M",
-      "raw": 1775133874,
-      "delta": 2616812,
-      "delta_fmt": "+2.6M TDH"
+      "raw": 1775133874
     },
     {
       "label": "#1 GlassCrown",
       "value": "50.2M TDH",
-      "raw": 50236804,
-      "delta": 15755978,
-      "delta_fmt": "+15.8M TDH"
+      "raw": 50236814,
+      "delta": 10,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -395,7 +393,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 84 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 84 HOLDERS | MEMENTOMORI"
   ]
 }
