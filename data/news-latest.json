@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T08:28:11.359909+00:00",
+  "generated_at": "2026-07-11T10:01:14.097705+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "GlassCrown Leads with 52.3M Projected TDH",
-      "summary": "\"Sentenced to Survive\" by GlassCrown (52.3M projected TDH, 40 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 83 voters) | \"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
+      "headline": "GlassCrown Leads with 52.4M Projected TDH",
+      "summary": "\"Sentenced to Survive\" by GlassCrown (52.4M projected TDH, 40 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 83 voters) | \"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "GlassCrown",
-          "value": "52.3M",
+          "value": "52.4M",
           "sub": "proj. (40 votes)"
         },
         {
@@ -64,15 +64,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 0.84 ETH Volume",
-      "summary": "28 sales in 24h for 0.84 ETH. Highest: \"UncleSeize\" at 0.129 ETH.",
+      "headline": "20 Sales Today - 0.73 ETH Volume",
+      "summary": "20 sales in 24h for 0.73 ETH. Highest: \"UncleSeize\" at 0.129 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -87,25 +87,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/67.WEBP",
-          "label": "Come and Take It! - 0.057 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/518.GIF",
+          "label": "YOU ARE THE PRODUCT - 0.060 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/450.WEBP",
-          "label": "A Node from the Outer Rim - 0.055 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/67.WEBP",
+          "label": "Come and Take It! - 0.057 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "28",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.84",
+          "value": "0.73",
           "sub": "ETH"
         },
         {
@@ -124,27 +124,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.84 ETH",
-      "raw": 0.8382,
-      "delta": 0.05699999999999994,
-      "delta_fmt": "+7.3%"
+      "value": "0.73 ETH",
+      "raw": 0.727,
+      "delta": -0.20840000000000003,
+      "delta_fmt": "-22.3%"
     },
     {
       "label": "7d Vol",
-      "value": "5.53 ETH",
-      "raw": 5.5272
+      "value": "5.62 ETH",
+      "raw": 5.6202
     },
     {
       "label": "30d Vol",
-      "value": "41.26 ETH",
-      "raw": 41.2625
+      "value": "41.36 ETH",
+      "raw": 41.3555
     },
     {
       "label": "Full Set Bid",
-      "value": "40.1 ETH",
-      "raw": 40.07,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "value": "39.2 ETH",
+      "raw": 39.2,
+      "delta": -0.8699999999999974,
+      "delta_fmt": "-0.87 ETH"
     },
     {
       "label": "Network TDH",
@@ -153,9 +153,9 @@
     },
     {
       "label": "#1 GlassCrown",
-      "value": "52.3M TDH",
-      "raw": 52328462,
-      "delta": 91646,
+      "value": "52.4M TDH",
+      "raw": 52389795,
+      "delta": 61333,
       "delta_fmt": "+0.1M TDH"
     },
     {
@@ -393,7 +393,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 84 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 84 HOLDERS | MEMENTOMORI"
   ]
 }
