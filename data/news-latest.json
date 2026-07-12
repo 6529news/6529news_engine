@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T11:58:33.506884+00:00",
+  "generated_at": "2026-07-12T13:45:50.153984+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "GlassCrown Leads with 74.3M Projected TDH",
-      "summary": "\"Sentenced to Survive\" by GlassCrown (74.3M projected TDH, 49 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 87 voters) | \"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
+      "summary": "\"Sentenced to Survive\" by GlassCrown (74.3M projected TDH, 50 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 87 voters) | \"MDAGA\" by Banksit (32.8M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "GlassCrown",
           "value": "74.3M",
-          "sub": "proj. (49 votes)"
+          "sub": "proj. (50 votes)"
         },
         {
           "label": "nasimghanizadeh",
@@ -46,59 +46,59 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "4 Sales Today - 0.23 ETH Volume",
-      "summary": "4 sales in 24h for 0.23 ETH. Highest: \"Weight of Value\" at 0.100 ETH.",
+      "headline": "6 Sales Today - 0.69 ETH Volume",
+      "summary": "6 sales in 24h for 0.69 ETH. Highest: \"MEMEntoMori\" at 0.240 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/438.GIF",
-        "label": "Weight of Value - 0.100 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/520.GIF",
+        "label": "MEMEntoMori - 0.240 ETH",
         "type": "image"
       },
       "images": [
         {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/520.GIF",
+          "label": "MEMEntoMori - 0.240 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/508.WEBP",
+          "label": "I Still Do - 0.220 ETH",
+          "type": "image"
+        },
+        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/438.GIF",
           "label": "Weight of Value - 0.100 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/483.WEBP",
-          "label": "Codex Obscura - 0.065 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/477.GIF",
-          "label": "\u200bMEMERY CARD GAME - ALL SEASONS - 0.050 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "4",
+          "value": "6",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.23",
+          "value": "0.69",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.100",
-          "sub": "Weight of Value"
+          "value": "0.240",
+          "sub": "MEMEntoMori"
         },
         {
           "label": "Floor",
@@ -157,27 +157,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.23 ETH",
-      "raw": 0.229,
-      "delta": -0.525,
-      "delta_fmt": "-69.6%"
+      "value": "0.69 ETH",
+      "raw": 0.689,
+      "delta": 0.1815,
+      "delta_fmt": "+35.8%"
     },
     {
       "label": "7d Vol",
-      "value": "5.36 ETH",
-      "raw": 5.365
+      "value": "5.82 ETH",
+      "raw": 5.825
     },
     {
       "label": "30d Vol",
-      "value": "38.92 ETH",
-      "raw": 38.9216
+      "value": "39.38 ETH",
+      "raw": 39.3816
     },
     {
       "label": "Full Set Bid",
-      "value": "40.2 ETH",
-      "raw": 40.25,
-      "delta": 0.17999999999999972,
-      "delta_fmt": "+0.18 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.06,
+      "delta": -0.18999999999999773,
+      "delta_fmt": "-0.19 ETH"
     },
     {
       "label": "Network TDH",
@@ -187,7 +187,9 @@
     {
       "label": "#1 GlassCrown",
       "value": "74.3M TDH",
-      "raw": 74258702
+      "raw": 74259232,
+      "delta": 530,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -424,8 +426,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.78 ETH | 4 SALES | LAST SALE 15h AGO",
-    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 85 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.78 ETH | 4 SALES | LAST SALE 17h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 85 HOLDERS | MEMENTOMORI"
   ]
 }
