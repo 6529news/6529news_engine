@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T13:45:50.153984+00:00",
+  "generated_at": "2026-07-12T14:55:20.735421+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -174,10 +174,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.1 ETH",
-      "raw": 40.06,
-      "delta": -0.18999999999999773,
-      "delta_fmt": "-0.19 ETH"
+      "value": "40.2 ETH",
+      "raw": 40.22,
+      "delta": 0.1599999999999966,
+      "delta_fmt": "+0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -187,9 +187,7 @@
     {
       "label": "#1 GlassCrown",
       "value": "74.3M TDH",
-      "raw": 74259232,
-      "delta": 530,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 74259232
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -426,8 +424,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.78 ETH | 4 SALES | LAST SALE 17h AGO",
-    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 85 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.78 ETH | 4 SALES | LAST SALE 18h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 85 HOLDERS | MEMENTOMORI"
   ]
 }
