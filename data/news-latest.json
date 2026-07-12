@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T22:22:46.901699+00:00",
+  "generated_at": "2026-07-12T23:25:33.666897+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING MONDAY",
-      "headline": "Minting Monday",
-      "summary": " \"When The World is Destroyed\" by HIPOCREATE \u2014 60.1M TDH from 88 voters. Top supporter: Thor (20.7M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"When The World is Destroyed\" by HIPOCREATE \u2014 60.1M TDH from 88 voters. Top supporter: Thor (20.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -46,20 +46,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "12 Sales Today - 1.75 ETH Volume",
-      "summary": "12 sales in 24h for 1.75 ETH. Highest: \"Sgt. Pepe\" at 0.900 ETH.",
+      "headline": "17 Sales Today - 1.88 ETH Volume",
+      "summary": "17 sales in 24h for 1.88 ETH. Highest: \"Sgt. Pepe\" at 0.900 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -87,12 +87,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "12",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.75",
+          "value": "1.88",
           "sub": "ETH"
         },
         {
@@ -157,27 +157,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.75 ETH",
-      "raw": 1.7503,
-      "delta": 1.3696,
-      "delta_fmt": "+359.8%"
+      "value": "1.88 ETH",
+      "raw": 1.8847,
+      "delta": 1.5261,
+      "delta_fmt": "+425.6%"
     },
     {
       "label": "7d Vol",
-      "value": "6.60 ETH",
-      "raw": 6.6049
+      "value": "6.74 ETH",
+      "raw": 6.7393
     },
     {
       "label": "30d Vol",
-      "value": "40.44 ETH",
-      "raw": 40.443
+      "value": "40.58 ETH",
+      "raw": 40.5774
     },
     {
       "label": "Full Set Bid",
       "value": "40.0 ETH",
-      "raw": 39.99,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "raw": 40.0,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -187,9 +187,7 @@
     {
       "label": "#1 GlassCrown",
       "value": "79.5M TDH",
-      "raw": 79455120,
-      "delta": 4995534,
-      "delta_fmt": "+5.0M TDH"
+      "raw": 79455120
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -427,8 +425,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.900 ETH",
-    "PEBBLES: FLOOR 0.949 ETH | 1 SALES | LAST SALE 1h AGO",
-    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 85 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.949 ETH | 1 SALES | LAST SALE 2h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 85 HOLDERS | MEMENTOMORI"
   ]
 }
