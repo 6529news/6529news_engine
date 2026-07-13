@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T23:25:33.666897+00:00",
+  "generated_at": "2026-07-13T01:04:04.866963+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "GlassCrown Leads with 79.5M Projected TDH",
-      "summary": "\"Sentenced to Survive\" by GlassCrown (79.5M projected TDH, 54 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 87 voters) | \"MDAGA\" by Banksit (33.4M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
+      "summary": "\"Sentenced to Survive\" by GlassCrown (79.5M projected TDH, 55 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 87 voters) | \"MDAGA\" by Banksit (33.4M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "GlassCrown",
           "value": "79.5M",
-          "sub": "proj. (54 votes)"
+          "sub": "proj. (55 votes)"
         },
         {
           "label": "nasimghanizadeh",
@@ -46,14 +46,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
@@ -110,7 +110,7 @@
     {
       "category": "PEBBLES",
       "headline": "Pebbles: 1 Sales - 0.780 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.780 ETH. Current floor: 0.949 ETH.",
+      "summary": "1 Pebbles sold in the last 24h for a total of 0.780 ETH. Current floor: 0.9999 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/pebbles-by-zeblocks",
       "image": {
@@ -148,7 +148,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.949",
+          "value": "0.9999",
           "sub": "ETH"
         }
       ]
@@ -159,35 +159,39 @@
       "label": "24h Vol",
       "value": "1.88 ETH",
       "raw": 1.8847,
-      "delta": 1.5261,
-      "delta_fmt": "+425.6%"
+      "delta": 1.7648000000000001,
+      "delta_fmt": "+1471.9%"
     },
     {
       "label": "7d Vol",
-      "value": "6.74 ETH",
-      "raw": 6.7393
+      "value": "6.58 ETH",
+      "raw": 6.5793
     },
     {
       "label": "30d Vol",
-      "value": "40.58 ETH",
-      "raw": 40.5774
+      "value": "36.38 ETH",
+      "raw": 36.379
     },
     {
       "label": "Full Set Bid",
-      "value": "40.0 ETH",
-      "raw": 40.0,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "39.9 ETH",
+      "raw": 39.95,
+      "delta": -0.04999999999999716,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1777.8M",
-      "raw": 1777784991
+      "value": "1780.6M",
+      "raw": 1780566660,
+      "delta": 2781669,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 GlassCrown",
       "value": "79.5M TDH",
-      "raw": 79455120
+      "raw": 79455172,
+      "delta": 52,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -425,8 +429,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.900 ETH",
-    "PEBBLES: FLOOR 0.949 ETH | 1 SALES | LAST SALE 2h AGO",
-    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 85 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 4h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 85 HOLDERS | MEMENTOMORI"
   ]
 }
