@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T04:45:58.620902+00:00",
+  "generated_at": "2026-07-13T08:16:00.742028+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "GlassCrown Leads with 79.5M Projected TDH",
-      "summary": "\"Sentenced to Survive\" by GlassCrown (79.5M projected TDH, 55 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 87 voters) | \"MDAGA\" by Banksit (33.4M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
+      "summary": "\"Sentenced to Survive\" by GlassCrown (79.5M projected TDH, 56 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 87 voters) | \"MDAGA\" by Banksit (33.4M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "GlassCrown",
           "value": "79.5M",
-          "sub": "proj. (55 votes)"
+          "sub": "proj. (56 votes)"
         },
         {
           "label": "nasimghanizadeh",
@@ -46,20 +46,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 1.77 ETH Volume",
-      "summary": "15 sales in 24h for 1.77 ETH. Highest: \"Sgt. Pepe\" at 0.900 ETH.",
+      "headline": "17 Sales Today - 1.82 ETH Volume",
+      "summary": "17 sales in 24h for 1.82 ETH. Highest: \"Sgt. Pepe\" at 0.900 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -87,12 +87,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.77",
+          "value": "1.82",
           "sub": "ETH"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.014984",
+          "value": "0.014978",
           "sub": "ETH"
         }
       ]
@@ -157,27 +157,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.77 ETH",
-      "raw": 1.7697,
-      "delta": 1.5347,
-      "delta_fmt": "+653.1%"
+      "value": "1.82 ETH",
+      "raw": 1.8239,
+      "delta": 1.5748000000000002,
+      "delta_fmt": "+632.2%"
     },
     {
       "label": "7d Vol",
-      "value": "6.58 ETH",
-      "raw": 6.5793
+      "value": "6.18 ETH",
+      "raw": 6.1844
     },
     {
       "label": "30d Vol",
-      "value": "36.38 ETH",
-      "raw": 36.379
+      "value": "36.55 ETH",
+      "raw": 36.5471
     },
     {
       "label": "Full Set Bid",
-      "value": "40.2 ETH",
-      "raw": 40.23,
-      "delta": 0.27999999999999403,
-      "delta_fmt": "+0.28 ETH"
+      "value": "39.3 ETH",
+      "raw": 39.27,
+      "delta": -0.9599999999999937,
+      "delta_fmt": "-0.96 ETH"
     },
     {
       "label": "Network TDH",
@@ -187,7 +187,9 @@
     {
       "label": "#1 GlassCrown",
       "value": "79.5M TDH",
-      "raw": 79455172
+      "raw": 79473698,
+      "delta": 18526,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -425,8 +427,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.900 ETH",
-    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 7h AGO",
-    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 85 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 11h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 85 HOLDERS | MEMENTOMORI"
   ]
 }
