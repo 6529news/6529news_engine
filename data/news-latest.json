@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:49:19.721998+00:00",
+  "generated_at": "2026-07-13T16:32:19.635048+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,57 +9,70 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_4c0d1131-93b3-4c28-a974-c134f89c5a80/a9f5ef76-7acc-4cb8-a3c6-d9305e5ccc2c.gif",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/521.GIF",
         "label": "When The World is Destroyed - HIPOCREATE",
         "type": "image"
       },
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "GlassCrown Leads with 79.5M Projected TDH",
-      "summary": "\"Sentenced to Survive\" by GlassCrown (79.5M projected TDH, 56 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 88 voters) | \"MDAGA\" by Banksit (33.4M projected TDH, 66 voters) Next selection: Mon Jul 13 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING WEDNESDAY",
+      "headline": "Minting Wednesday",
+      "summary": " \"Sentenced to Survive\" by GlassCrown \u2014 79.5M TDH from 59 voters. Top supporter: Poseidon (16.1M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_62bd0523-90b4-406f-ad31-b8cd02b0c7a1/8871a799-b34b-42da-a8a8-eadcc81210c4/Survival.jpg",
         "label": "Sentenced to Survive - GlassCrown",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "Cody Leads with 50.9M Projected TDH",
+      "summary": "\"This is Fine\" by Cody (50.9M projected TDH, 41 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.3M projected TDH, 90 voters) | \"MDAGA\" by Banksit (33.5M projected TDH, 67 voters) Next selection: Wed Jul 15 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2f101b86-9fad-4c19-8366-4df4dfc6fcfc/25c83100-f957-4ce8-82ac-cfc98ddaa4ea/its-all-fine.jpg",
+        "label": "This is Fine - Cody",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "GlassCrown",
-          "value": "79.5M",
-          "sub": "proj. (56 votes)"
+          "label": "Cody",
+          "value": "50.9M",
+          "sub": "proj. (41 votes)"
         },
         {
           "label": "nasimghanizadeh",
           "value": "43.3M",
-          "sub": "proj. (88 votes)"
+          "sub": "proj. (90 votes)"
         },
         {
           "label": "Banksit",
-          "value": "33.4M",
-          "sub": "proj. (66 votes)"
+          "value": "33.5M",
+          "sub": "proj. (67 votes)"
         }
       ]
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 1.38 ETH Volume",
-      "summary": "16 sales in 24h for 1.38 ETH. Highest: \"Sgt. Pepe\" at 0.900 ETH.",
+      "headline": "17 Sales Today - 1.43 ETH Volume",
+      "summary": "17 sales in 24h for 1.43 ETH. Highest: \"Sgt. Pepe\" at 0.900 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -87,12 +100,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.38",
+          "value": "1.43",
           "sub": "ETH"
         },
         {
@@ -157,32 +170,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.38 ETH",
-      "raw": 1.3789,
-      "delta": 0.6899000000000001,
-      "delta_fmt": "+100.1%"
+      "value": "1.43 ETH",
+      "raw": 1.4294,
+      "delta": 0.7404000000000001,
+      "delta_fmt": "+107.5%"
     },
     {
       "label": "7d Vol",
-      "value": "5.87 ETH",
-      "raw": 5.8662
+      "value": "5.93 ETH",
+      "raw": 5.9332
     },
     {
       "label": "30d Vol",
-      "value": "36.56 ETH",
-      "raw": 36.5621
+      "value": "36.63 ETH",
+      "raw": 36.6291
     },
     {
       "label": "Full Set Bid",
-      "value": "39.4 ETH",
-      "raw": 39.41,
-      "delta": -0.25,
-      "delta_fmt": "-0.25 ETH"
+      "value": "40.2 ETH",
+      "raw": 40.22,
+      "delta": 0.8100000000000023,
+      "delta_fmt": "+0.81 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1780.6M",
       "raw": 1780566660
+    },
+    {
+      "label": "#1 Cody",
+      "value": "50.9M TDH",
+      "raw": 50897917,
+      "delta": -2785918,
+      "delta_fmt": "-2.8M TDH"
     },
     {
       "label": "#1 GlassCrown",
@@ -427,8 +447,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.900 ETH",
-    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 16h AGO",
-    "CARD #520: 298 MINTS (EXCL. MUSEUM) | 85 HOLDERS | MEMENTOMORI",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 19h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #521: 122 MINTS (EXCL. MUSEUM) | 81 HOLDERS | WHEN THE WORLD IS DESTROYED"
   ]
 }
