@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:09:51.868368+00:00",
+  "generated_at": "2026-07-14T10:10:16.673379+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Cody Leads with 54.6M Projected TDH",
-      "summary": "\"This is Fine\" by Cody (54.6M projected TDH, 51 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.4M projected TDH, 92 voters) | \"MDAGA\" by Banksit (32.9M projected TDH, 67 voters) Next selection: Wed Jul 15 at 17:00 CET.",
+      "summary": "\"This is Fine\" by Cody (54.6M projected TDH, 52 voters) | \"TAKE A PIECE\" by nasimghanizadeh (43.4M projected TDH, 92 voters) | \"MDAGA\" by Banksit (32.9M projected TDH, 67 voters) Next selection: Wed Jul 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Cody",
           "value": "54.6M",
-          "sub": "proj. (51 votes)"
+          "sub": "proj. (52 votes)"
         },
         {
           "label": "nasimghanizadeh",
@@ -59,20 +59,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "7 Sales Today - 0.36 ETH Volume",
-      "summary": "7 sales in 24h for 0.36 ETH. Highest: \"T.A.P. Village\" at 0.130 ETH.",
+      "headline": "7 Sales Today - 0.31 ETH Volume",
+      "summary": "7 sales in 24h for 0.31 ETH. Highest: \"T.A.P. Village\" at 0.130 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -105,7 +105,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.36",
+          "value": "0.31",
           "sub": "ETH"
         },
         {
@@ -124,27 +124,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.36 ETH",
-      "raw": 0.356,
-      "delta": -1.4679000000000002,
-      "delta_fmt": "-80.5%"
+      "value": "0.31 ETH",
+      "raw": 0.306,
+      "delta": -1.5179,
+      "delta_fmt": "-83.2%"
     },
     {
       "label": "7d Vol",
-      "value": "5.37 ETH",
-      "raw": 5.3698
+      "value": "5.39 ETH",
+      "raw": 5.3888
     },
     {
       "label": "30d Vol",
-      "value": "36.05 ETH",
-      "raw": 36.0537
+      "value": "36.07 ETH",
+      "raw": 36.0727
     },
     {
       "label": "Full Set Bid",
-      "value": "38.1 ETH",
-      "raw": 38.05,
-      "delta": 0.1599999999999966,
-      "delta_fmt": "+0.16 ETH"
+      "value": "39.8 ETH",
+      "raw": 39.84,
+      "delta": 1.7900000000000063,
+      "delta_fmt": "+1.79 ETH"
     },
     {
       "label": "Network TDH",
@@ -154,8 +154,8 @@
     {
       "label": "#1 Cody",
       "value": "54.6M TDH",
-      "raw": 54599020,
-      "delta": 415,
+      "raw": 54599083,
+      "delta": 63,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -400,7 +400,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #521: 124 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WHEN THE WORLD IS DESTROYED",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #521: 124 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WHEN THE WORLD IS DESTROYED"
   ]
 }
