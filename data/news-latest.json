@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T22:16:05.871773+00:00",
+  "generated_at": "2026-07-14T23:24:31.809972+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING WEDNESDAY",
-      "headline": "Minting Wednesday",
-      "summary": " \"Sentenced to Survive\" by GlassCrown \u2014 79.5M TDH from 59 voters. Top supporter: Poseidon (16.1M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Sentenced to Survive\" by GlassCrown \u2014 79.5M TDH from 59 voters. Top supporter: Poseidon (16.1M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -46,20 +46,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 0.55 ETH Volume",
-      "summary": "16 sales in 24h for 0.55 ETH. Highest: \"T.A.P. Village\" at 0.130 ETH.",
+      "headline": "20 Sales Today - 0.84 ETH Volume",
+      "summary": "20 sales in 24h for 0.84 ETH. Highest: \"T.A.P. Village\" at 0.130 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -74,25 +74,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/454.WEBP",
-          "label": "Ship Happens\u2026 Again - 0.048 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/356.GIF",
+          "label": "No Meme, We Riot - 0.099 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/43.WEBP",
-          "label": "TRASHOR - 0.047 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/454.WEBP",
+          "label": "Ship Happens\u2026 Again - 0.048 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.55",
+          "value": "0.84",
           "sub": "ETH"
         },
         {
@@ -111,27 +111,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.55 ETH",
-      "raw": 0.5516,
-      "delta": 0.11709999999999998,
-      "delta_fmt": "+27.0%"
+      "value": "0.84 ETH",
+      "raw": 0.8449,
+      "delta": 0.4556,
+      "delta_fmt": "+117.0%"
     },
     {
       "label": "7d Vol",
-      "value": "5.26 ETH",
-      "raw": 5.2551
+      "value": "5.55 ETH",
+      "raw": 5.5483
     },
     {
       "label": "30d Vol",
-      "value": "36.44 ETH",
-      "raw": 36.4353
+      "value": "36.73 ETH",
+      "raw": 36.7286
     },
     {
       "label": "Full Set Bid",
-      "value": "35.9 ETH",
-      "raw": 35.87,
-      "delta": -2.1700000000000017,
-      "delta_fmt": "-2.17 ETH"
+      "value": "36.1 ETH",
+      "raw": 36.08,
+      "delta": 0.21000000000000085,
+      "delta_fmt": "+0.21 ETH"
     },
     {
       "label": "Network TDH",
@@ -385,7 +385,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #521: 125 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WHEN THE WORLD IS DESTROYED",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #521: 125 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WHEN THE WORLD IS DESTROYED"
   ]
 }
