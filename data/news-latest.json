@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T18:47:13.482060+00:00",
+  "generated_at": "2026-07-14T20:10:49.979456+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -46,20 +46,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "7 Sales Today - 0.31 ETH Volume",
-      "summary": "7 sales in 24h for 0.31 ETH. Highest: \"T.A.P. Village\" at 0.130 ETH.",
+      "headline": "12 Sales Today - 0.46 ETH Volume",
+      "summary": "12 sales in 24h for 0.46 ETH. Highest: \"T.A.P. Village\" at 0.130 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -87,12 +87,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "7",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.31",
+          "value": "0.46",
           "sub": "ETH"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01498",
+          "value": "0.013",
           "sub": "ETH"
         }
       ]
@@ -111,27 +111,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.31 ETH",
-      "raw": 0.3075,
-      "delta": -0.1669,
-      "delta_fmt": "-35.2%"
+      "value": "0.46 ETH",
+      "raw": 0.4621,
+      "delta": 0.027600000000000013,
+      "delta_fmt": "+6.4%"
     },
     {
       "label": "7d Vol",
-      "value": "5.01 ETH",
-      "raw": 5.011
+      "value": "5.17 ETH",
+      "raw": 5.1656
     },
     {
       "label": "30d Vol",
-      "value": "36.19 ETH",
-      "raw": 36.1912
+      "value": "36.35 ETH",
+      "raw": 36.3458
     },
     {
       "label": "Full Set Bid",
       "value": "39.9 ETH",
-      "raw": 39.94,
-      "delta": 0.9600000000000009,
-      "delta_fmt": "+0.96 ETH"
+      "raw": 39.85,
+      "delta": -0.0899999999999963,
+      "delta_fmt": "-0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -141,9 +141,7 @@
     {
       "label": "#1 Cody",
       "value": "60.0M TDH",
-      "raw": 59991546,
-      "delta": 134782,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 59991546
     },
     {
       "label": "#1 GlassCrown",
@@ -387,7 +385,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #521: 125 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WHEN THE WORLD IS DESTROYED",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #521: 125 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WHEN THE WORLD IS DESTROYED"
   ]
 }
