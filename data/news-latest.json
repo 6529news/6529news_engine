@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:53:21.974231+00:00",
+  "generated_at": "2026-07-14T14:50:05.598637+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Cody Leads with 59.5M Projected TDH",
-      "summary": "\"This is Fine\" by Cody (59.5M projected TDH, 54 voters) | \"TAKE A PIECE\" by nasimghanizadeh (44.4M projected TDH, 94 voters) | \"MDAGA\" by Banksit (32.9M projected TDH, 67 voters) Next selection: Wed Jul 15 at 17:00 CET.",
+      "headline": "Cody Leads with 59.8M Projected TDH",
+      "summary": "\"This is Fine\" by Cody (59.8M projected TDH, 56 voters) | \"TAKE A PIECE\" by nasimghanizadeh (44.4M projected TDH, 95 voters) | \"MDAGA\" by Banksit (32.9M projected TDH, 67 voters) Next selection: Wed Jul 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "Cody",
-          "value": "59.5M",
-          "sub": "proj. (54 votes)"
+          "value": "59.8M",
+          "sub": "proj. (56 votes)"
         },
         {
           "label": "nasimghanizadeh",
           "value": "44.4M",
-          "sub": "proj. (94 votes)"
+          "sub": "proj. (95 votes)"
         },
         {
           "label": "Banksit",
@@ -59,13 +59,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -141,10 +141,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.9 ETH",
-      "raw": 39.95,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "value": "36.3 ETH",
+      "raw": 36.29,
+      "delta": -3.6600000000000037,
+      "delta_fmt": "-3.66 ETH"
     },
     {
       "label": "Network TDH",
@@ -153,10 +153,10 @@
     },
     {
       "label": "#1 Cody",
-      "value": "59.5M TDH",
-      "raw": 59455612,
-      "delta": 1006529,
-      "delta_fmt": "+1.0M TDH"
+      "value": "59.8M TDH",
+      "raw": 59849197,
+      "delta": 393585,
+      "delta_fmt": "+0.4M TDH"
     },
     {
       "label": "#1 GlassCrown",
@@ -400,7 +400,6 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #521: 125 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WHEN THE WORLD IS DESTROYED",
     "DIVE BAR: 0 MSGS IN LAST 6H"
   ]
 }
