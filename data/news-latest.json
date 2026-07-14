@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T16:13:52.946267+00:00",
+  "generated_at": "2026-07-14T17:35:18.972277+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Cody Leads with 59.9M Projected TDH",
-      "summary": "\"This is Fine\" by Cody (59.9M projected TDH, 57 voters) | \"TAKE A PIECE\" by nasimghanizadeh (44.4M projected TDH, 95 voters) | \"MDAGA\" by Banksit (32.9M projected TDH, 67 voters) Next selection: Wed Jul 15 at 17:00 CET.",
+      "summary": "\"This is Fine\" by Cody (59.9M projected TDH, 58 voters) | \"TAKE A PIECE\" by nasimghanizadeh (44.4M projected TDH, 96 voters) | \"MDAGA\" by Banksit (32.9M projected TDH, 67 voters) Next selection: Wed Jul 15 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "Cody",
           "value": "59.9M",
-          "sub": "proj. (57 votes)"
+          "sub": "proj. (58 votes)"
         },
         {
           "label": "nasimghanizadeh",
           "value": "44.4M",
-          "sub": "proj. (95 votes)"
+          "sub": "proj. (96 votes)"
         },
         {
           "label": "Banksit",
@@ -46,20 +46,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "5 Sales Today - 0.27 ETH Volume",
-      "summary": "5 sales in 24h for 0.27 ETH. Highest: \"T.A.P. Village\" at 0.130 ETH.",
+      "headline": "5 Sales Today - 0.28 ETH Volume",
+      "summary": "5 sales in 24h for 0.28 ETH. Highest: \"T.A.P. Village\" at 0.130 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -74,13 +74,13 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/123.WEBP",
-          "label": "I Pledge Allegiance to the Coint - 0.045 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/454.WEBP",
+          "label": "Ship Happens\u2026 Again - 0.048 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/370.WEBP",
-          "label": "Decentralized Decision Network - 0.040 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/123.WEBP",
+          "label": "I Pledge Allegiance to the Coint - 0.045 ETH",
           "type": "image"
         }
       ],
@@ -92,7 +92,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.27",
+          "value": "0.28",
           "sub": "ETH"
         },
         {
@@ -111,27 +111,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.27 ETH",
-      "raw": 0.269,
-      "delta": -1.1604,
-      "delta_fmt": "-81.2%"
+      "value": "0.28 ETH",
+      "raw": 0.282,
+      "delta": -1.1824,
+      "delta_fmt": "-80.7%"
     },
     {
       "label": "7d Vol",
-      "value": "5.12 ETH",
-      "raw": 5.1203
+      "value": "5.17 ETH",
+      "raw": 5.1683
     },
     {
       "label": "30d Vol",
-      "value": "36.12 ETH",
-      "raw": 36.1177
+      "value": "36.17 ETH",
+      "raw": 36.1657
     },
     {
       "label": "Full Set Bid",
-      "value": "37.5 ETH",
-      "raw": 37.46,
-      "delta": 1.1700000000000017,
-      "delta_fmt": "+1.17 ETH"
+      "value": "39.0 ETH",
+      "raw": 38.98,
+      "delta": 1.519999999999996,
+      "delta_fmt": "+1.52 ETH"
     },
     {
       "label": "Network TDH",
@@ -141,8 +141,8 @@
     {
       "label": "#1 Cody",
       "value": "59.9M TDH",
-      "raw": 59856698,
-      "delta": 7501,
+      "raw": 59856764,
+      "delta": 66,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -387,7 +387,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #521: 125 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WHEN THE WORLD IS DESTROYED",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #521: 125 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WHEN THE WORLD IS DESTROYED"
   ]
 }
