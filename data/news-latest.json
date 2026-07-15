@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T16:55:05.057504+00:00",
+  "generated_at": "2026-07-15T17:23:39.021638+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "nasimghanizadeh Leads with 64.9M Projected TDH",
-      "summary": "\"TAKE A PIECE\" by nasimghanizadeh (64.9M projected TDH, 99 voters) | \"Cycle of Creation\" by RalenArc (25.1M projected TDH, 55 voters) | \"MDAGA\" by Banksit (24.4M projected TDH, 66 voters) Next selection: Fri Jul 17 at 17:00 CET.",
+      "headline": "nasimghanizadeh Leads with 65.2M Projected TDH",
+      "summary": "\"TAKE A PIECE\" by nasimghanizadeh (65.2M projected TDH, 99 voters) | \"Cycle of Creation\" by RalenArc (25.1M projected TDH, 55 voters) | \"MDAGA\" by Banksit (24.4M projected TDH, 66 voters) Next selection: Fri Jul 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "nasimghanizadeh",
-          "value": "64.9M",
+          "value": "65.2M",
           "sub": "proj. (99 votes)"
         },
         {
@@ -59,13 +59,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -142,9 +142,9 @@
     {
       "label": "Full Set Bid",
       "value": "36.1 ETH",
-      "raw": 36.06,
-      "delta": -0.1699999999999946,
-      "delta_fmt": "-0.17 ETH"
+      "raw": 36.14,
+      "delta": 0.0799999999999983,
+      "delta_fmt": "+0.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -153,10 +153,10 @@
     },
     {
       "label": "#1 nasimghanizadeh",
-      "value": "64.9M TDH",
-      "raw": 64882475,
-      "delta": 28231794,
-      "delta_fmt": "+28.2M TDH"
+      "value": "65.2M TDH",
+      "raw": 65150264,
+      "delta": 267789,
+      "delta_fmt": "+0.3M TDH"
     },
     {
       "label": "#1 Cody",
