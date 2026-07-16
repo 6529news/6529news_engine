@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T16:40:42.779932+00:00",
+  "generated_at": "2026-07-16T17:51:27.080693+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -129,9 +129,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.1 ETH",
-      "raw": 42.06,
-      "delta": 0.10999999999999943,
-      "delta_fmt": "+0.11 ETH"
+      "raw": 42.09,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -141,9 +141,7 @@
     {
       "label": "#1 nasimghanizadeh",
       "value": "67.3M TDH",
-      "raw": 67336512,
-      "delta": 141,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 67336512
     },
     {
       "label": "#1 Cody",
@@ -387,7 +385,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #522: 130 MINTS (EXCL. MUSEUM) | 89 HOLDERS | SENTENCED TO SURVIVE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #522: 130 MINTS (EXCL. MUSEUM) | 89 HOLDERS | SENTENCED TO SURVIVE"
   ]
 }
