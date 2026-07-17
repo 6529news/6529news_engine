@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T17:18:33.274994+00:00",
+  "generated_at": "2026-07-17T18:04:56.218121+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "RegularDad Leads with 51.8M Projected TDH",
-      "summary": "\"The Manager's Complaint Report\" by RegularDad (51.8M projected TDH, 39 voters) | \"Cycle of Creation\" by RalenArc (27.2M projected TDH, 57 voters) | \"the_only_cloud\" by underscore (15.2M projected TDH, 44 voters) Next selection: Mon Jul 20 at 17:00 CET.",
+      "headline": "RegularDad Leads with 53.7M Projected TDH",
+      "summary": "\"The Manager's Complaint Report\" by RegularDad (53.7M projected TDH, 41 voters) | \"Cycle of Creation\" by RalenArc (27.2M projected TDH, 57 voters) | \"the_only_cloud\" by underscore (15.2M projected TDH, 44 voters) Next selection: Mon Jul 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "RegularDad",
-          "value": "51.8M",
-          "sub": "proj. (39 votes)"
+          "value": "53.7M",
+          "sub": "proj. (41 votes)"
         },
         {
           "label": "RalenArc",
@@ -60,18 +60,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: BEFE (6.2M).",
+      "summary": "1 submissions this week. Ranking: BEFE (9.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b44bd9-7d53-4b5c-9986-886fc1833049/17fbd18a-ac5f-4b9a-a4a6-014bbba83465/Freedon-To-Dance.mov",
-        "label": "BEFE (6.2M)",
+        "label": "BEFE (9.2M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b44bd9-7d53-4b5c-9986-886fc1833049/17fbd18a-ac5f-4b9a-a4a6-014bbba83465/Freedon-To-Dance.mov",
-          "label": "BEFE (6.2M)",
+          "label": "BEFE (9.2M)",
           "type": "video"
         }
       ],
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
@@ -161,10 +161,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.1 ETH",
-      "raw": 42.05,
-      "delta": -0.12000000000000455,
-      "delta_fmt": "-0.12 ETH"
+      "value": "42.2 ETH",
+      "raw": 42.18,
+      "delta": 0.13000000000000256,
+      "delta_fmt": "+0.13 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,10 +173,10 @@
     },
     {
       "label": "#1 RegularDad",
-      "value": "51.8M TDH",
-      "raw": 51844860,
-      "delta": 6529,
-      "delta_fmt": "+0.0M TDH"
+      "value": "53.7M TDH",
+      "raw": 53713511,
+      "delta": 1868651,
+      "delta_fmt": "+1.9M TDH"
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -425,7 +425,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #523: 121 MINTS (EXCL. MUSEUM) | 79 HOLDERS | THIS IS FINE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #523: 121 MINTS (EXCL. MUSEUM) | 79 HOLDERS | THIS IS FINE"
   ]
 }
