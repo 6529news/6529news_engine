@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:52:04.699903+00:00",
+  "generated_at": "2026-07-17T12:08:41.754902+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "nasimghanizadeh Leads with 69.8M Projected TDH",
-      "summary": "\"TAKE A PIECE\" by nasimghanizadeh (69.8M projected TDH, 103 voters) | \"The Manager's Complaint Report\" by RegularDad (39.8M projected TDH, 30 voters) | \"Cycle of Creation\" by RalenArc (27.0M projected TDH, 57 voters) Next selection: Fri Jul 17 at 17:00 CET.",
+      "summary": "\"TAKE A PIECE\" by nasimghanizadeh (69.8M projected TDH, 103 voters) | \"The Manager's Complaint Report\" by RegularDad (39.8M projected TDH, 31 voters) | \"Cycle of Creation\" by RalenArc (27.0M projected TDH, 57 voters) Next selection: Fri Jul 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "RegularDad",
           "value": "39.8M",
-          "sub": "proj. (30 votes)"
+          "sub": "proj. (31 votes)"
         },
         {
           "label": "RalenArc",
@@ -46,13 +46,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -113,8 +113,8 @@
       "label": "24h Vol",
       "value": "0.48 ETH",
       "raw": 0.4811,
-      "delta": 0.09540000000000004,
-      "delta_fmt": "+24.7%"
+      "delta": 0.16030000000000005,
+      "delta_fmt": "+50.0%"
     },
     {
       "label": "7d Vol",
@@ -129,9 +129,7 @@
     {
       "label": "Full Set Bid",
       "value": "42.1 ETH",
-      "raw": 42.13,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "raw": 42.13
     },
     {
       "label": "Network TDH",
@@ -141,7 +139,9 @@
     {
       "label": "#1 nasimghanizadeh",
       "value": "69.8M TDH",
-      "raw": 69755149
+      "raw": 69755173,
+      "delta": 24,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Cody",
@@ -385,7 +385,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #522: 130 MINTS (EXCL. MUSEUM) | 89 HOLDERS | SENTENCED TO SURVIVE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #522: 130 MINTS (EXCL. MUSEUM) | 89 HOLDERS | SENTENCED TO SURVIVE"
   ]
 }
