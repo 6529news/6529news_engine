@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T22:31:39.039963+00:00",
+  "generated_at": "2026-07-17T23:35:03.795051+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"This is Fine\" by Cody \u2014 61.5M TDH from 65 voters. Top supporter: Ruskin (24.0M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"This is Fine\" by Cody \u2014 61.5M TDH from 65 voters. Top supporter: Ruskin (24.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "RegularDad Leads with 54.9M Projected TDH",
-      "summary": "\"The Manager's Complaint Report\" by RegularDad (54.9M projected TDH, 46 voters) | \"Cycle of Creation\" by RalenArc (27.2M projected TDH, 57 voters) | \"the_only_cloud\" by underscore (15.0M projected TDH, 44 voters) Next selection: Mon Jul 20 at 17:00 CET.",
+      "summary": "\"The Manager's Complaint Report\" by RegularDad (54.9M projected TDH, 47 voters) | \"Cycle of Creation\" by RalenArc (27.2M projected TDH, 57 voters) | \"the_only_cloud\" by underscore (15.0M projected TDH, 44 voters) Next selection: Mon Jul 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "RegularDad",
           "value": "54.9M",
-          "sub": "proj. (46 votes)"
+          "sub": "proj. (47 votes)"
         },
         {
           "label": "RalenArc",
@@ -60,18 +60,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: BEFE (9.3M).",
+      "summary": "1 submissions this week. Ranking: BEFE (9.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b44bd9-7d53-4b5c-9986-886fc1833049/17fbd18a-ac5f-4b9a-a4a6-014bbba83465/Freedon-To-Dance.mov",
-        "label": "BEFE (9.3M)",
+        "label": "BEFE (9.8M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b44bd9-7d53-4b5c-9986-886fc1833049/17fbd18a-ac5f-4b9a-a4a6-014bbba83465/Freedon-To-Dance.mov",
-          "label": "BEFE (9.3M)",
+          "label": "BEFE (9.8M)",
           "type": "video"
         }
       ],
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -162,9 +162,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.2 ETH",
-      "raw": 42.22,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 42.19,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,8 +174,8 @@
     {
       "label": "#1 RegularDad",
       "value": "54.9M TDH",
-      "raw": 54938074,
-      "delta": 5070,
+      "raw": 54940643,
+      "delta": 2569,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -425,7 +425,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #523: 121 MINTS (EXCL. MUSEUM) | 79 HOLDERS | THIS IS FINE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #523: 123 MINTS (EXCL. MUSEUM) | 79 HOLDERS | THIS IS FINE"
   ]
 }
