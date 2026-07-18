@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T19:31:52.175236+00:00",
+  "generated_at": "2026-07-18T20:28:21.516657+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "RegularDad Leads with 54.3M Projected TDH",
-      "summary": "\"The Manager's Complaint Report\" by RegularDad (54.3M projected TDH, 58 voters) | \"Cycle of Creation\" by RalenArc (27.4M projected TDH, 58 voters) | \"road trip to the apocalypse  \" by awhurst (21.6M projected TDH, 28 voters) Next selection: Mon Jul 20 at 17:00 CET.",
+      "summary": "\"The Manager's Complaint Report\" by RegularDad (54.3M projected TDH, 58 voters) | \"Cycle of Creation\" by RalenArc (29.4M projected TDH, 59 voters) | \"road trip to the apocalypse  \" by awhurst (23.6M projected TDH, 29 voters) Next selection: Mon Jul 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,13 +34,13 @@
         },
         {
           "label": "RalenArc",
-          "value": "27.4M",
-          "sub": "proj. (58 votes)"
+          "value": "29.4M",
+          "sub": "proj. (59 votes)"
         },
         {
           "label": "awhurst",
-          "value": "21.6M",
-          "sub": "proj. (28 votes)"
+          "value": "23.6M",
+          "sub": "proj. (29 votes)"
         }
       ]
     },
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "12 Sales Today - 0.50 ETH Volume",
-      "summary": "12 sales in 24h for 0.50 ETH. Highest: \"Hodl on for Dear Life\" at 0.110 ETH.",
+      "headline": "14 Sales Today - 0.54 ETH Volume",
+      "summary": "14 sales in 24h for 0.54 ETH. Highest: \"Hodl on for Dear Life\" at 0.110 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "12",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.50",
+          "value": "0.54",
           "sub": "ETH"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0171",
+          "value": "0.01724444",
           "sub": "ETH"
         }
       ]
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.50 ETH",
-      "raw": 0.5033,
-      "delta": -0.03600000000000003,
-      "delta_fmt": "-6.7%"
+      "value": "0.54 ETH",
+      "raw": 0.5409,
+      "delta": 0.09890000000000004,
+      "delta_fmt": "+22.4%"
     },
     {
       "label": "7d Vol",
-      "value": "5.31 ETH",
-      "raw": 5.3144
+      "value": "5.37 ETH",
+      "raw": 5.3671
     },
     {
       "label": "30d Vol",
-      "value": "32.16 ETH",
-      "raw": 32.1616
+      "value": "32.21 ETH",
+      "raw": 32.2142
     },
     {
       "label": "Full Set Bid",
       "value": "42.0 ETH",
-      "raw": 42.01,
-      "delta": -0.010000000000005116,
-      "delta_fmt": "-0.01 ETH"
+      "raw": 41.96,
+      "delta": -0.04999999999999716,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 RegularDad",
       "value": "54.3M TDH",
-      "raw": 54254281,
-      "delta": 1870564,
-      "delta_fmt": "+1.9M TDH"
+      "raw": 54254281
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -412,7 +410,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #523: 135 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THIS IS FINE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #523: 135 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THIS IS FINE"
   ]
 }
