@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T11:04:35.159048+00:00",
+  "generated_at": "2026-07-18T12:04:19.166685+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "RegularDad Leads with 57.0M Projected TDH",
-      "summary": "\"The Manager's Complaint Report\" by RegularDad (57.0M projected TDH, 52 voters) | \"Cycle of Creation\" by RalenArc (27.4M projected TDH, 57 voters) | \"road trip to the apocalypse  \" by awhurst (21.6M projected TDH, 24 voters) Next selection: Mon Jul 20 at 17:00 CET.",
+      "headline": "RegularDad Leads with 60.9M Projected TDH",
+      "summary": "\"The Manager's Complaint Report\" by RegularDad (60.9M projected TDH, 55 voters) | \"Cycle of Creation\" by RalenArc (27.4M projected TDH, 58 voters) | \"road trip to the apocalypse  \" by awhurst (21.6M projected TDH, 25 voters) Next selection: Mon Jul 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,18 +42,18 @@
       "dataBoxes": [
         {
           "label": "RegularDad",
-          "value": "57.0M",
-          "sub": "proj. (52 votes)"
+          "value": "60.9M",
+          "sub": "proj. (55 votes)"
         },
         {
           "label": "RalenArc",
           "value": "27.4M",
-          "sub": "proj. (57 votes)"
+          "sub": "proj. (58 votes)"
         },
         {
           "label": "awhurst",
           "value": "21.6M",
-          "sub": "proj. (24 votes)"
+          "sub": "proj. (25 votes)"
         }
       ]
     },
@@ -161,10 +161,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.0 ETH",
-      "raw": 41.96,
-      "delta": 0.13000000000000256,
-      "delta_fmt": "+0.13 ETH"
+      "value": "41.8 ETH",
+      "raw": 41.84,
+      "delta": -0.11999999999999744,
+      "delta_fmt": "-0.12 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,8 +173,10 @@
     },
     {
       "label": "#1 RegularDad",
-      "value": "57.0M TDH",
-      "raw": 57022623
+      "value": "60.9M TDH",
+      "raw": 60872702,
+      "delta": 3850079,
+      "delta_fmt": "+3.9M TDH"
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -423,7 +425,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #523: 126 MINTS (EXCL. MUSEUM) | 83 HOLDERS | THIS IS FINE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #523: 126 MINTS (EXCL. MUSEUM) | 83 HOLDERS | THIS IS FINE"
   ]
 }
