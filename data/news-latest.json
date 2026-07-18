@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T23:35:03.795051+00:00",
+  "generated_at": "2026-07-18T01:05:30.175547+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "RegularDad Leads with 54.9M Projected TDH",
-      "summary": "\"The Manager's Complaint Report\" by RegularDad (54.9M projected TDH, 47 voters) | \"Cycle of Creation\" by RalenArc (27.2M projected TDH, 57 voters) | \"the_only_cloud\" by underscore (15.0M projected TDH, 44 voters) Next selection: Mon Jul 20 at 17:00 CET.",
+      "headline": "RegularDad Leads with 55.0M Projected TDH",
+      "summary": "\"The Manager's Complaint Report\" by RegularDad (55.0M projected TDH, 49 voters) | \"Cycle of Creation\" by RalenArc (27.3M projected TDH, 57 voters) | \"the_only_cloud\" by underscore (15.0M projected TDH, 44 voters) Next selection: Mon Jul 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,12 +42,12 @@
       "dataBoxes": [
         {
           "label": "RegularDad",
-          "value": "54.9M",
-          "sub": "proj. (47 votes)"
+          "value": "55.0M",
+          "sub": "proj. (49 votes)"
         },
         {
           "label": "RalenArc",
-          "value": "27.2M",
+          "value": "27.3M",
           "sub": "proj. (57 votes)"
         },
         {
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -151,32 +151,34 @@
     },
     {
       "label": "7d Vol",
-      "value": "5.20 ETH",
-      "raw": 5.2019
+      "value": "4.96 ETH",
+      "raw": 4.9633
     },
     {
       "label": "30d Vol",
-      "value": "34.35 ETH",
-      "raw": 34.3491
+      "value": "31.69 ETH",
+      "raw": 31.6904
     },
     {
       "label": "Full Set Bid",
-      "value": "42.2 ETH",
-      "raw": 42.19,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "42.1 ETH",
+      "raw": 42.1,
+      "delta": -0.0899999999999963,
+      "delta_fmt": "-0.09 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1791.7M",
-      "raw": 1791684271
+      "value": "1794.5M",
+      "raw": 1794478140,
+      "delta": 2793869,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 RegularDad",
-      "value": "54.9M TDH",
-      "raw": 54940643,
-      "delta": 2569,
-      "delta_fmt": "+0.0M TDH"
+      "value": "55.0M TDH",
+      "raw": 54997796,
+      "delta": 57153,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -425,7 +427,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #523: 123 MINTS (EXCL. MUSEUM) | 79 HOLDERS | THIS IS FINE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #523: 126 MINTS (EXCL. MUSEUM) | 81 HOLDERS | THIS IS FINE"
   ]
 }
