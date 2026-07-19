@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T04:34:29.406479+00:00",
+  "generated_at": "2026-07-19T07:15:16.435577+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "RegularDad Leads with 60.2M Projected TDH",
-      "summary": "\"The Manager's Complaint Report\" by RegularDad (60.2M projected TDH, 61 voters) | \"road trip to the apocalypse  \" by awhurst (43.6M projected TDH, 30 voters) | \"Cycle of Creation\" by RalenArc (29.4M projected TDH, 60 voters) Next selection: Mon Jul 20 at 17:00 CET.",
+      "summary": "\"The Manager's Complaint Report\" by RegularDad (60.2M projected TDH, 61 voters) | \"road trip to the apocalypse  \" by awhurst (43.8M projected TDH, 32 voters) | \"Cycle of Creation\" by RalenArc (29.4M projected TDH, 60 voters) Next selection: Mon Jul 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "awhurst",
-          "value": "43.6M",
-          "sub": "proj. (30 votes)"
+          "value": "43.8M",
+          "sub": "proj. (32 votes)"
         },
         {
           "label": "RalenArc",
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 0.43 ETH Volume",
-      "summary": "11 sales in 24h for 0.43 ETH. Highest: \"Hodl on for Dear Life\" at 0.110 ETH.",
+      "headline": "13 Sales Today - 0.50 ETH Volume",
+      "summary": "13 sales in 24h for 0.50 ETH. Highest: \"Hodl on for Dear Life\" at 0.110 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.43",
+          "value": "0.50",
           "sub": "ETH"
         },
         {
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.43 ETH",
-      "raw": 0.427,
-      "delta": -0.13610000000000005,
-      "delta_fmt": "-24.2%"
+      "value": "0.50 ETH",
+      "raw": 0.499,
+      "delta": -0.06410000000000005,
+      "delta_fmt": "-11.4%"
     },
     {
       "label": "7d Vol",
-      "value": "5.29 ETH",
-      "raw": 5.2921
+      "value": "5.25 ETH",
+      "raw": 5.2501
     },
     {
       "label": "30d Vol",
-      "value": "31.97 ETH",
-      "raw": 31.9665
+      "value": "32.04 ETH",
+      "raw": 32.0385
     },
     {
       "label": "Full Set Bid",
-      "value": "42.3 ETH",
-      "raw": 42.29,
-      "delta": 0.13000000000000256,
-      "delta_fmt": "+0.13 ETH"
+      "value": "42.2 ETH",
+      "raw": 42.24,
+      "delta": -0.04999999999999716,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,8 +161,8 @@
     {
       "label": "#1 RegularDad",
       "value": "60.2M TDH",
-      "raw": 60168170,
-      "delta": 4067,
+      "raw": 60168182,
+      "delta": 12,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -412,7 +412,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #523: 135 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THIS IS FINE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #523: 135 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THIS IS FINE"
   ]
 }
