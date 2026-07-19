@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T22:51:04.807822+00:00",
+  "generated_at": "2026-07-19T23:56:17.035954+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING MONDAY",
-      "headline": "Minting Monday",
-      "summary": " \"TAKE A PIECE\" by nasimghanizadeh \u2014 69.8M TDH from 105 voters. Top supporter: Thor (21.2M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"TAKE A PIECE\" by nasimghanizadeh \u2014 69.8M TDH from 105 voters. Top supporter: Thor (21.2M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "RegularDad Leads with 61.2M Projected TDH",
-      "summary": "\"The Manager's Complaint Report\" by RegularDad (61.2M projected TDH, 64 voters) | \"road trip to the apocalypse  \" by awhurst (43.9M projected TDH, 38 voters) | \"Cycle of Creation\" by RalenArc (29.4M projected TDH, 60 voters) Next selection: Mon Jul 20 at 17:00 CET.",
+      "headline": "RegularDad Leads with 61.3M Projected TDH",
+      "summary": "\"The Manager's Complaint Report\" by RegularDad (61.3M projected TDH, 65 voters) | \"road trip to the apocalypse  \" by awhurst (43.9M projected TDH, 38 voters) | \"Cycle of Creation\" by RalenArc (29.4M projected TDH, 60 voters) Next selection: Mon Jul 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "RegularDad",
-          "value": "61.2M",
-          "sub": "proj. (64 votes)"
+          "value": "61.3M",
+          "sub": "proj. (65 votes)"
         },
         {
           "label": "awhurst",
@@ -66,14 +66,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
@@ -149,9 +149,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.2 ETH",
-      "raw": 42.16,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 42.2,
+      "delta": 0.04000000000000625,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -160,10 +160,10 @@
     },
     {
       "label": "#1 RegularDad",
-      "value": "61.2M TDH",
-      "raw": 61226146,
-      "delta": 1382,
-      "delta_fmt": "+0.0M TDH"
+      "value": "61.3M TDH",
+      "raw": 61310728,
+      "delta": 84582,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 nasimghanizadeh",
@@ -412,7 +412,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #523: 135 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THIS IS FINE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #523: 135 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THIS IS FINE"
   ]
 }
