@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T03:37:21.927849+00:00",
+  "generated_at": "2026-07-20T06:31:59.985354+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "RegularDad Leads with 61.3M Projected TDH",
-      "summary": "\"The Manager's Complaint Report\" by RegularDad (61.3M projected TDH, 67 voters) | \"road trip to the apocalypse  \" by awhurst (43.9M projected TDH, 39 voters) | \"Cycle of Creation\" by RalenArc (29.4M projected TDH, 60 voters) Next selection: Mon Jul 20 at 17:00 CET.",
+      "summary": "\"The Manager's Complaint Report\" by RegularDad (61.3M projected TDH, 68 voters) | \"road trip to the apocalypse  \" by awhurst (43.9M projected TDH, 39 voters) | \"Cycle of Creation\" by RalenArc (29.4M projected TDH, 60 voters) Next selection: Mon Jul 20 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "RegularDad",
           "value": "61.3M",
-          "sub": "proj. (67 votes)"
+          "sub": "proj. (68 votes)"
         },
         {
           "label": "awhurst",
@@ -71,15 +71,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 1.18 ETH Volume",
-      "summary": "14 sales in 24h for 1.18 ETH. Highest: \"Brain\" at 0.219 ETH.",
+      "headline": "16 Sales Today - 1.61 ETH Volume",
+      "summary": "16 sales in 24h for 1.61 ETH. Highest: \"Brain\" at 0.219 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.18",
+          "value": "1.61",
           "sub": "ETH"
         },
         {
@@ -131,40 +131,38 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.18 ETH",
-      "raw": 1.1779,
-      "delta": 0.7508999999999999,
-      "delta_fmt": "+175.9%"
+      "value": "1.61 ETH",
+      "raw": 1.6139,
+      "delta": 1.1149,
+      "delta_fmt": "+223.4%"
     },
     {
       "label": "7d Vol",
-      "value": "4.70 ETH",
-      "raw": 4.7002
+      "value": "5.00 ETH",
+      "raw": 5.0031
     },
     {
       "label": "30d Vol",
-      "value": "31.98 ETH",
-      "raw": 31.985
+      "value": "32.46 ETH",
+      "raw": 32.456
     },
     {
       "label": "Full Set Bid",
-      "value": "42.2 ETH",
-      "raw": 42.18,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "value": "41.9 ETH",
+      "raw": 41.89,
+      "delta": -0.28999999999999915,
+      "delta_fmt": "-0.29 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1800.0M",
-      "raw": 1800041132,
-      "delta": 2765846,
-      "delta_fmt": "+2.8M TDH"
+      "raw": 1800041132
     },
     {
       "label": "#1 RegularDad",
       "value": "61.3M TDH",
-      "raw": 61311683,
-      "delta": 955,
+      "raw": 61314220,
+      "delta": 2537,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -414,7 +412,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #523: 135 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THIS IS FINE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #523: 135 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THIS IS FINE"
   ]
 }
