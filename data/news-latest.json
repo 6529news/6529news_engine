@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T18:49:15.333833+00:00",
+  "generated_at": "2026-07-21T20:17:58.623220+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "awhurst Leads with 57.8M Projected TDH",
-      "summary": "\"road trip to the apocalypse  \" by awhurst (57.8M projected TDH, 52 voters) | \"Cycle of Creation\" by RalenArc (29.0M projected TDH, 61 voters) | \"Freedom To Dance\" by BEFE (24.9M projected TDH, 40 voters) Next selection: Wed Jul 22 at 17:00 CET.",
+      "headline": "awhurst Leads with 59.8M Projected TDH",
+      "summary": "\"road trip to the apocalypse  \" by awhurst (59.8M projected TDH, 52 voters) | \"Cycle of Creation\" by RalenArc (29.0M projected TDH, 61 voters) | \"Freedom To Dance\" by BEFE (24.9M projected TDH, 40 voters) Next selection: Wed Jul 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "awhurst",
-          "value": "57.8M",
+          "value": "59.8M",
           "sub": "proj. (52 votes)"
         },
         {
@@ -46,19 +46,19 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: GIANT (8.0M) | josenarciso (3.2M) | RegularDad (125K).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: GIANT (8.0M) | josenarciso (5.2M) | intrepid (4.0M) | RegularDad (125K).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_806c47b1-dba9-4c04-bea1-323796655d57/92ad11d4-ba8f-4383-92cc-29507386b6e9/mfer-HERMENEUTICS-11.png",
-        "label": "josenarciso (3.2M)",
+        "label": "josenarciso (5.2M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_806c47b1-dba9-4c04-bea1-323796655d57/92ad11d4-ba8f-4383-92cc-29507386b6e9/mfer-HERMENEUTICS-11.png",
-          "label": "josenarciso (3.2M)",
+          "label": "josenarciso (5.2M)",
           "type": "image"
         }
       ],
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -133,8 +133,8 @@
       "label": "24h Vol",
       "value": "1.08 ETH",
       "raw": 1.0759,
-      "delta": -0.7965,
-      "delta_fmt": "-42.5%"
+      "delta": -1.0736,
+      "delta_fmt": "-49.9%"
     },
     {
       "label": "7d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.0 ETH",
-      "raw": 42.03,
-      "delta": -0.10000000000000142,
-      "delta_fmt": "-0.10 ETH"
+      "value": "42.2 ETH",
+      "raw": 42.25,
+      "delta": 0.21999999999999886,
+      "delta_fmt": "+0.22 ETH"
     },
     {
       "label": "Network TDH",
@@ -160,8 +160,10 @@
     },
     {
       "label": "#1 awhurst",
-      "value": "57.8M TDH",
-      "raw": 57813072
+      "value": "59.8M TDH",
+      "raw": 59827001,
+      "delta": 2013929,
+      "delta_fmt": "+2.0M TDH"
     },
     {
       "label": "#1 RegularDad",
@@ -417,7 +419,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #524: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TAKE A PIECE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #524: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TAKE A PIECE"
   ]
 }
