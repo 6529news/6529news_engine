@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T17:18:12.455984+00:00",
+  "generated_at": "2026-07-21T18:49:15.333833+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "awhurst Leads with 57.8M Projected TDH",
-      "summary": "\"road trip to the apocalypse  \" by awhurst (57.8M projected TDH, 52 voters) | \"Cycle of Creation\" by RalenArc (29.0M projected TDH, 61 voters) | \"Freedom To Dance\" by BEFE (24.4M projected TDH, 40 voters) Next selection: Wed Jul 22 at 17:00 CET.",
+      "summary": "\"road trip to the apocalypse  \" by awhurst (57.8M projected TDH, 52 voters) | \"Cycle of Creation\" by RalenArc (29.0M projected TDH, 61 voters) | \"Freedom To Dance\" by BEFE (24.9M projected TDH, 40 voters) Next selection: Wed Jul 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,7 +39,7 @@
         },
         {
           "label": "BEFE",
-          "value": "24.4M",
+          "value": "24.9M",
           "sub": "proj. (40 votes)"
         }
       ]
@@ -78,8 +78,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "34 Sales Today - 1.10 ETH Volume",
-      "summary": "34 sales in 24h for 1.10 ETH. Highest: \"CONTAGION\" at 0.068 ETH.",
+      "headline": "33 Sales Today - 1.08 ETH Volume",
+      "summary": "33 sales in 24h for 1.08 ETH. Highest: \"CONTAGION\" at 0.068 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "34",
+          "value": "33",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.10",
+          "value": "1.08",
           "sub": "ETH"
         },
         {
@@ -131,15 +131,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.10 ETH",
-      "raw": 1.0993,
-      "delta": -0.7731000000000001,
-      "delta_fmt": "-41.3%"
+      "value": "1.08 ETH",
+      "raw": 1.0759,
+      "delta": -0.7965,
+      "delta_fmt": "-42.5%"
     },
     {
       "label": "7d Vol",
-      "value": "7.09 ETH",
-      "raw": 7.0858
+      "value": "6.45 ETH",
+      "raw": 6.4537
     },
     {
       "label": "30d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.1 ETH",
-      "raw": 42.13,
-      "delta": 0.12000000000000455,
-      "delta_fmt": "+0.12 ETH"
+      "value": "42.0 ETH",
+      "raw": 42.03,
+      "delta": -0.10000000000000142,
+      "delta_fmt": "-0.10 ETH"
     },
     {
       "label": "Network TDH",
@@ -417,7 +417,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #524: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TAKE A PIECE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #524: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TAKE A PIECE"
   ]
 }
