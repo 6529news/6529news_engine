@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:19:49.570835+00:00",
+  "generated_at": "2026-07-21T10:00:37.814071+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "awhurst Leads with 56.2M Projected TDH",
-      "summary": "\"road trip to the apocalypse  \" by awhurst (56.2M projected TDH, 50 voters) | \"Cycle of Creation\" by RalenArc (29.4M projected TDH, 61 voters) | \"Freedom To Dance\" by BEFE (24.3M projected TDH, 38 voters) Next selection: Wed Jul 22 at 17:00 CET.",
+      "headline": "awhurst Leads with 56.8M Projected TDH",
+      "summary": "\"road trip to the apocalypse  \" by awhurst (56.8M projected TDH, 51 voters) | \"Cycle of Creation\" by RalenArc (29.0M projected TDH, 61 voters) | \"Freedom To Dance\" by BEFE (24.3M projected TDH, 38 voters) Next selection: Wed Jul 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,12 +42,12 @@
       "dataBoxes": [
         {
           "label": "awhurst",
-          "value": "56.2M",
-          "sub": "proj. (50 votes)"
+          "value": "56.8M",
+          "sub": "proj. (51 votes)"
         },
         {
           "label": "RalenArc",
-          "value": "29.4M",
+          "value": "29.0M",
           "sub": "proj. (61 votes)"
         },
         {
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: RegularDad (9.3M) | GIANT (7.7M) | josenarciso (3.0M).",
+      "summary": "3 submissions this week. Ranking: RegularDad (9.3M) | GIANT (8.0M) | josenarciso (3.0M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -91,21 +91,16 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "35 Sales Today - 1.96 ETH Volume",
-      "summary": "35 sales in 24h for 1.96 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.485 ETH.",
+      "headline": "36 Sales Today - 1.41 ETH Volume",
+      "summary": "36 sales in 24h for 1.41 ETH. Highest: \"I AM BECOME MEME\" at 0.145 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-        "label": "The Tree of Knowledge of Good and Evil - 0.485 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/337.WEBP",
+        "label": "I AM BECOME MEME - 0.145 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.485 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/337.WEBP",
           "label": "I AM BECOME MEME - 0.145 ETH",
@@ -115,23 +110,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
           "label": "Meme Enjoyoor - 0.125 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/147.WEBP",
+          "label": "CONTAGION - 0.068 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "35",
+          "value": "36",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.96",
+          "value": "1.41",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.485",
-          "sub": "The Tree of Knowledg"
+          "value": "0.145",
+          "sub": "I AM BECOME MEME"
         },
         {
           "label": "Floor",
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.96 ETH",
-      "raw": 1.9631,
-      "delta": 0.3492000000000002,
-      "delta_fmt": "+21.6%"
+      "value": "1.41 ETH",
+      "raw": 1.4126,
+      "delta": -0.6664000000000001,
+      "delta_fmt": "-32.1%"
     },
     {
       "label": "7d Vol",
-      "value": "6.81 ETH",
-      "raw": 6.8092
+      "value": "6.74 ETH",
+      "raw": 6.7447
     },
     {
       "label": "30d Vol",
-      "value": "33.96 ETH",
-      "raw": 33.9566
+      "value": "34.04 ETH",
+      "raw": 34.0411
     },
     {
       "label": "Full Set Bid",
       "value": "42.0 ETH",
-      "raw": 42.0,
-      "delta": -0.04999999999999716,
-      "delta_fmt": "-0.05 ETH"
+      "raw": 41.99,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,10 +173,10 @@
     },
     {
       "label": "#1 awhurst",
-      "value": "56.2M TDH",
-      "raw": 56157331,
-      "delta": 85225,
-      "delta_fmt": "+0.1M TDH"
+      "value": "56.8M TDH",
+      "raw": 56752286,
+      "delta": 594955,
+      "delta_fmt": "+0.6M TDH"
     },
     {
       "label": "#1 RegularDad",
@@ -432,7 +432,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #524: 124 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TAKE A PIECE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #524: 124 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TAKE A PIECE"
   ]
 }
