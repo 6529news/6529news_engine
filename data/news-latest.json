@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T23:40:31.742199+00:00",
+  "generated_at": "2026-07-21T01:09:16.268717+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "awhurst Leads with 56.1M Projected TDH",
-      "summary": "\"road trip to the apocalypse  \" by awhurst (56.1M projected TDH, 47 voters) | \"Cycle of Creation\" by RalenArc (29.4M projected TDH, 61 voters) | \"Freedom To Dance\" by BEFE (24.1M projected TDH, 34 voters) Next selection: Wed Jul 22 at 17:00 CET.",
+      "summary": "\"road trip to the apocalypse  \" by awhurst (56.1M projected TDH, 48 voters) | \"Cycle of Creation\" by RalenArc (29.4M projected TDH, 61 voters) | \"Freedom To Dance\" by BEFE (24.1M projected TDH, 34 voters) Next selection: Wed Jul 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "awhurst",
           "value": "56.1M",
-          "sub": "proj. (47 votes)"
+          "sub": "proj. (48 votes)"
         },
         {
           "label": "RalenArc",
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "33 Sales Today - 2.21 ETH Volume",
-      "summary": "33 sales in 24h for 2.21 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.485 ETH.",
+      "headline": "35 Sales Today - 2.28 ETH Volume",
+      "summary": "35 sales in 24h for 2.28 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.485 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "33",
+          "value": "35",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.21",
+          "value": "2.28",
           "sub": "ETH"
         },
         {
@@ -134,37 +134,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.21 ETH",
-      "raw": 2.2086,
-      "delta": 0.9907000000000001,
-      "delta_fmt": "+81.3%"
+      "value": "2.28 ETH",
+      "raw": 2.2811,
+      "delta": 1.0632,
+      "delta_fmt": "+87.3%"
     },
     {
       "label": "7d Vol",
-      "value": "6.62 ETH",
-      "raw": 6.6237
+      "value": "6.66 ETH",
+      "raw": 6.6562
     },
     {
       "label": "30d Vol",
-      "value": "34.19 ETH",
-      "raw": 34.1936
+      "value": "33.80 ETH",
+      "raw": 33.8036
     },
     {
       "label": "Full Set Bid",
-      "value": "42.1 ETH",
-      "raw": 42.07,
-      "delta": 0.10999999999999943,
-      "delta_fmt": "+0.11 ETH"
+      "value": "42.0 ETH",
+      "raw": 42.04,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1800.0M",
-      "raw": 1800041132
+      "value": "1802.7M",
+      "raw": 1802679693,
+      "delta": 2638561,
+      "delta_fmt": "+2.6M TDH"
     },
     {
       "label": "#1 awhurst",
       "value": "56.1M TDH",
-      "raw": 56064842
+      "raw": 56065530,
+      "delta": 688,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 RegularDad",
@@ -420,7 +424,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #524: 124 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TAKE A PIECE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #524: 124 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TAKE A PIECE"
   ]
 }
