@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T21:38:39.927954+00:00",
+  "generated_at": "2026-07-21T22:35:21.432854+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 1.29 ETH Volume",
-      "summary": "24 sales in 24h for 1.29 ETH. Highest: \"DALL-E's Revenge\" at 0.550 ETH.",
+      "headline": "25 Sales Today - 1.60 ETH Volume",
+      "summary": "25 sales in 24h for 1.60 ETH. Highest: \"DALL-E's Revenge\" at 0.550 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -94,25 +94,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/147.WEBP",
-          "label": "CONTAGION - 0.068 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/303.GIF",
+          "label": "Summer Days - 0.302 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/522.WEBP",
-          "label": "Sentenced to Survive - 0.060 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/147.WEBP",
+          "label": "CONTAGION - 0.068 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "24",
+          "value": "25",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.29",
+          "value": "1.60",
           "sub": "ETH"
         },
         {
@@ -131,27 +131,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.29 ETH",
-      "raw": 1.2941,
-      "delta": -0.9145000000000001,
-      "delta_fmt": "-41.4%"
+      "value": "1.60 ETH",
+      "raw": 1.5961,
+      "delta": -0.6125,
+      "delta_fmt": "-27.7%"
     },
     {
       "label": "7d Vol",
-      "value": "7.00 ETH",
-      "raw": 7.0037
+      "value": "7.31 ETH",
+      "raw": 7.3057
     },
     {
       "label": "30d Vol",
-      "value": "35.03 ETH",
-      "raw": 35.0252
+      "value": "35.33 ETH",
+      "raw": 35.3272
     },
     {
       "label": "Full Set Bid",
       "value": "42.2 ETH",
-      "raw": 42.16,
-      "delta": -0.09000000000000341,
-      "delta_fmt": "-0.09 ETH"
+      "raw": 42.16
     },
     {
       "label": "Network TDH",
@@ -417,7 +415,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #524: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TAKE A PIECE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #524: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TAKE A PIECE"
   ]
 }
