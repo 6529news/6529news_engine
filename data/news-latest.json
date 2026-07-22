@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T09:58:22.673697+00:00",
+  "generated_at": "2026-07-22T11:54:20.728260+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/e8948b6c-9905-402d-ba7f-929143ee26d0/complaint-punk6529-1146126-1.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/525.PNG",
         "label": "The Manager's Complaint Report - RegularDad",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "awhurst Leads with 60.4M Projected TDH",
-      "summary": "\"road trip to the apocalypse  \" by awhurst (60.4M projected TDH, 54 voters) | \"Cycle of Creation\" by RalenArc (29.3M projected TDH, 62 voters) | \"Freedom To Dance\" by BEFE (25.0M projected TDH, 47 voters) Next selection: Wed Jul 22 at 17:00 CET.",
+      "summary": "\"road trip to the apocalypse  \" by awhurst (60.4M projected TDH, 54 voters) | \"Cycle of Creation\" by RalenArc (29.3M projected TDH, 62 voters) | \"Freedom To Dance\" by BEFE (25.1M projected TDH, 49 voters) Next selection: Wed Jul 22 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,15 +39,15 @@
         },
         {
           "label": "BEFE",
-          "value": "25.0M",
-          "sub": "proj. (47 votes)"
+          "value": "25.1M",
+          "sub": "proj. (49 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: GIANT (8.0M) | josenarciso (5.2M) | intrepid (4.3M) | RegularDad (125K).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: GIANT (8.0M) | josenarciso (5.2M) | intrepid (4.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "29 Sales Today - 2.21 ETH Volume",
-      "summary": "29 sales in 24h for 2.21 ETH. Highest: \"DALL-E's Revenge\" at 0.550 ETH.",
+      "headline": "30 Sales Today - 2.35 ETH Volume",
+      "summary": "30 sales in 24h for 2.35 ETH. Highest: \"DALL-E's Revenge\" at 0.550 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "29",
+          "value": "30",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.21",
+          "value": "2.35",
           "sub": "ETH"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01724443999999",
+          "value": "0.0172444",
           "sub": "ETH"
         }
       ]
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.21 ETH",
-      "raw": 2.2127,
-      "delta": 0.8000999999999998,
-      "delta_fmt": "+56.6%"
+      "value": "2.35 ETH",
+      "raw": 2.3516,
+      "delta": 0.9389999999999998,
+      "delta_fmt": "+66.5%"
     },
     {
       "label": "7d Vol",
-      "value": "7.53 ETH",
-      "raw": 7.5262
+      "value": "7.67 ETH",
+      "raw": 7.6652
     },
     {
       "label": "30d Vol",
-      "value": "35.44 ETH",
-      "raw": 35.443
+      "value": "35.58 ETH",
+      "raw": 35.5819
     },
     {
       "label": "Full Set Bid",
-      "value": "39.9 ETH",
-      "raw": 39.91,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.11,
+      "delta": 0.20000000000000284,
+      "delta_fmt": "+0.20 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 awhurst",
       "value": "60.4M TDH",
-      "raw": 60401023,
-      "delta": 571785,
-      "delta_fmt": "+0.6M TDH"
+      "raw": 60401023
     },
     {
       "label": "#1 RegularDad",
@@ -419,7 +417,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #524: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TAKE A PIECE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #525: 117 MINTS (EXCL. MUSEUM) | 76 HOLDERS | THE MANAGER'S COMPLAINT REPORT"
   ]
 }
