@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T01:04:20.804181+00:00",
+  "generated_at": "2026-07-23T04:33:16.045327+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "sonyart Leads with 59.3M Projected TDH",
-      "summary": "\"The Key to Freedom\" by sonyart (59.3M projected TDH, 43 voters) | \"Freedom To Dance\" by BEFE (34.4M projected TDH, 55 voters) | \"Cycle of Creation\" by RalenArc (31.3M projected TDH, 63 voters) Next selection: Fri Jul 24 at 17:00 CET.",
+      "headline": "sonyart Leads with 60.3M Projected TDH",
+      "summary": "\"The Key to Freedom\" by sonyart (60.3M projected TDH, 45 voters) | \"Freedom To Dance\" by BEFE (34.4M projected TDH, 55 voters) | \"Cycle of Creation\" by RalenArc (31.3M projected TDH, 64 voters) Next selection: Fri Jul 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "sonyart",
-          "value": "59.3M",
-          "sub": "proj. (43 votes)"
+          "value": "60.3M",
+          "sub": "proj. (45 votes)"
         },
         {
           "label": "BEFE",
@@ -53,14 +53,14 @@
         {
           "label": "RalenArc",
           "value": "31.3M",
-          "sub": "proj. (63 votes)"
+          "sub": "proj. (64 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: intrepid (8.6M) | GIANT (7.9M) | josenarciso (7.8M).",
+      "summary": "3 submissions this week. Ranking: intrepid (9.3M) | GIANT (7.9M) | josenarciso (7.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 1.45 ETH Volume",
-      "summary": "19 sales in 24h for 1.45 ETH. Highest: \"AUTONOMY.EXE\" at 0.200 ETH.",
+      "headline": "20 Sales Today - 1.55 ETH Volume",
+      "summary": "20 sales in 24h for 1.55 ETH. Highest: \"AUTONOMY.EXE\" at 0.200 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.45",
+          "value": "1.55",
           "sub": "ETH"
         },
         {
@@ -144,41 +144,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.45 ETH",
-      "raw": 1.446,
-      "delta": -0.16159999999999997,
-      "delta_fmt": "-10.1%"
+      "value": "1.55 ETH",
+      "raw": 1.546,
+      "delta": 0.09140000000000015,
+      "delta_fmt": "+6.3%"
     },
     {
       "label": "7d Vol",
-      "value": "7.81 ETH",
-      "raw": 7.8089
+      "value": "7.91 ETH",
+      "raw": 7.9089
     },
     {
       "label": "30d Vol",
-      "value": "34.21 ETH",
-      "raw": 34.2104
+      "value": "34.31 ETH",
+      "raw": 34.3104
     },
     {
       "label": "Full Set Bid",
-      "value": "42.5 ETH",
-      "raw": 42.52,
-      "delta": 0.060000000000002274,
-      "delta_fmt": "+0.06 ETH"
+      "value": "42.6 ETH",
+      "raw": 42.57,
+      "delta": 0.04999999999999716,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1807.6M",
-      "raw": 1807624525,
-      "delta": 2191765,
-      "delta_fmt": "+2.2M TDH"
+      "raw": 1807624525
     },
     {
       "label": "#1 sonyart",
-      "value": "59.3M TDH",
-      "raw": 59260696,
-      "delta": 110000,
-      "delta_fmt": "+0.1M TDH"
+      "value": "60.3M TDH",
+      "raw": 60303891,
+      "delta": 1043195,
+      "delta_fmt": "+1.0M TDH"
     },
     {
       "label": "#1 BEFE",
@@ -451,7 +449,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #525: 130 MINTS (EXCL. MUSEUM) | 84 HOLDERS | THE MANAGER'S COMPLAINT REPORT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #525: 130 MINTS (EXCL. MUSEUM) | 84 HOLDERS | THE MANAGER'S COMPLAINT REPORT"
   ]
 }
