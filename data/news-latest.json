@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T13:06:17.519045+00:00",
+  "generated_at": "2026-07-24T15:05:23.729601+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "sonyart Leads with 71.3M Projected TDH",
-      "summary": "\"The Key to Freedom\" by sonyart (71.3M projected TDH, 58 voters) | \"Freedom To Dance\" by BEFE (34.6M projected TDH, 58 voters) | \"Cycle of Creation\" by RalenArc (30.4M projected TDH, 64 voters) Next selection: Fri Jul 24 at 17:00 CET.",
+      "summary": "\"The Key to Freedom\" by sonyart (71.3M projected TDH, 61 voters) | \"Freedom To Dance\" by BEFE (34.6M projected TDH, 58 voters) | \"Cycle of Creation\" by RalenArc (30.4M projected TDH, 64 voters) Next selection: Fri Jul 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "sonyart",
           "value": "71.3M",
-          "sub": "proj. (58 votes)"
+          "sub": "proj. (61 votes)"
         },
         {
           "label": "BEFE",
@@ -66,31 +66,31 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 0.78 ETH Volume",
-      "summary": "21 sales in 24h for 0.78 ETH. Highest: \"artist manifesto\" at 0.070 ETH.",
+      "headline": "16 Sales Today - 0.71 ETH Volume",
+      "summary": "16 sales in 24h for 0.71 ETH. Highest: \"Pepe X\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/517.WEBP",
-        "label": "artist manifesto - 0.070 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+        "label": "Pepe X - 0.150 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/517.WEBP",
-          "label": "artist manifesto - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+          "label": "Pepe X - 0.150 ETH",
           "type": "image"
         },
         {
@@ -107,22 +107,22 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.78",
+          "value": "0.71",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.070",
-          "sub": "artist manifesto"
+          "value": "0.150",
+          "sub": "Pepe X"
         },
         {
           "label": "Floor",
-          "value": "0.019195",
+          "value": "0.01924443999999",
           "sub": "ETH"
         }
       ]
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.78 ETH",
-      "raw": 0.7833,
-      "delta": -0.0043999999999999595,
-      "delta_fmt": "-0.6%"
+      "value": "0.71 ETH",
+      "raw": 0.7138,
+      "delta": -0.2066,
+      "delta_fmt": "-22.4%"
     },
     {
       "label": "7d Vol",
-      "value": "8.11 ETH",
-      "raw": 8.1092
+      "value": "8.28 ETH",
+      "raw": 8.2784
     },
     {
       "label": "30d Vol",
-      "value": "32.89 ETH",
-      "raw": 32.8875
+      "value": "33.06 ETH",
+      "raw": 33.0567
     },
     {
       "label": "Full Set Bid",
-      "value": "42.8 ETH",
-      "raw": 42.84,
-      "delta": 0.21000000000000085,
-      "delta_fmt": "+0.21 ETH"
+      "value": "42.7 ETH",
+      "raw": 42.69,
+      "delta": -0.15000000000000568,
+      "delta_fmt": "-0.15 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,8 +161,8 @@
     {
       "label": "#1 sonyart",
       "value": "71.3M TDH",
-      "raw": 71323379,
-      "delta": 8754,
+      "raw": 71325529,
+      "delta": 2150,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -436,7 +436,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #526: 116 MINTS (EXCL. MUSEUM) | 75 HOLDERS | ROAD TRIP TO THE APOCALYPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #526: 120 MINTS (EXCL. MUSEUM) | 79 HOLDERS | ROAD TRIP TO THE APOCALYPSE"
   ]
 }
