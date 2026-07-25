@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:26:27.880188+00:00",
+  "generated_at": "2026-07-25T23:31:55.647140+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -71,13 +71,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -137,26 +137,26 @@
     {
       "label": "24h Vol",
       "value": "5.10 ETH",
-      "raw": 5.1031,
-      "delta": 4.651300000000001,
-      "delta_fmt": "+1029.5%"
+      "raw": 5.1038,
+      "delta": 4.651999999999999,
+      "delta_fmt": "+1029.7%"
     },
     {
       "label": "7d Vol",
-      "value": "12.82 ETH",
-      "raw": 12.8246
+      "value": "12.83 ETH",
+      "raw": 12.8262
     },
     {
       "label": "30d Vol",
       "value": "37.64 ETH",
-      "raw": 37.6387
+      "raw": 37.6435
     },
     {
       "label": "Full Set Bid",
-      "value": "41.7 ETH",
-      "raw": 41.75,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "41.9 ETH",
+      "raw": 41.9,
+      "delta": 0.14999999999999858,
+      "delta_fmt": "+0.15 ETH"
     },
     {
       "label": "Network TDH",
@@ -444,7 +444,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.400 ETH",
-    "CARD #526: 132 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ROAD TRIP TO THE APOCALYPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #526: 132 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ROAD TRIP TO THE APOCALYPSE"
   ]
 }
