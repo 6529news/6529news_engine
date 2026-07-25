@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T04:27:55.385292+00:00",
+  "generated_at": "2026-07-25T06:39:20.938884+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "6 Sales Today - 2.90 ETH Volume",
-      "summary": "6 sales in 24h for 2.90 ETH. Highest: \"EXIT STRATEGY\" at 2.400 ETH.",
+      "headline": "20 Sales Today - 3.20 ETH Volume",
+      "summary": "20 sales in 24h for 3.20 ETH. Highest: \"EXIT STRATEGY\" at 2.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "6",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.90",
+          "value": "3.20",
           "sub": "ETH"
         },
         {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01924443999999",
+          "value": "0.01914444",
           "sub": "ETH"
         }
       ]
@@ -149,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.90 ETH",
-      "raw": 2.897,
-      "delta": 2.1115,
-      "delta_fmt": "+268.8%"
+      "value": "3.20 ETH",
+      "raw": 3.1961,
+      "delta": 2.3453999999999997,
+      "delta_fmt": "+275.7%"
     },
     {
       "label": "7d Vol",
-      "value": "10.74 ETH",
-      "raw": 10.7424
+      "value": "10.94 ETH",
+      "raw": 10.9365
     },
     {
       "label": "30d Vol",
-      "value": "35.17 ETH",
-      "raw": 35.1727
+      "value": "35.52 ETH",
+      "raw": 35.5168
     },
     {
       "label": "Full Set Bid",
-      "value": "42.5 ETH",
-      "raw": 42.48,
-      "delta": -0.37000000000000455,
-      "delta_fmt": "-0.37 ETH"
+      "value": "42.4 ETH",
+      "raw": 42.41,
+      "delta": -0.07000000000000028,
+      "delta_fmt": "-0.07 ETH"
     },
     {
       "label": "Network TDH",
@@ -457,7 +457,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.400 ETH",
-    "CARD #526: 127 MINTS (EXCL. MUSEUM) | 85 HOLDERS | ROAD TRIP TO THE APOCALYPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #526: 127 MINTS (EXCL. MUSEUM) | 85 HOLDERS | ROAD TRIP TO THE APOCALYPSE"
   ]
 }
