@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T11:18:36.093410+00:00",
+  "generated_at": "2026-07-26T12:36:53.954281+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "RalenArc Leads with 39.8M Projected TDH",
-      "summary": "\"Cycle of Creation\" by RalenArc (39.8M projected TDH, 68 voters) | \"MDAGA\" by Banksit (38.2M projected TDH, 74 voters) | \"Freedom To Dance\" by BEFE (29.0M projected TDH, 65 voters) Next selection: Mon Jul 27 at 17:00 CET.",
+      "headline": "RalenArc Leads with 39.9M Projected TDH",
+      "summary": "\"Cycle of Creation\" by RalenArc (39.9M projected TDH, 69 voters) | \"MDAGA\" by Banksit (38.2M projected TDH, 74 voters) | \"Freedom To Dance\" by BEFE (29.0M projected TDH, 65 voters) Next selection: Mon Jul 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "RalenArc",
-          "value": "39.8M",
-          "sub": "proj. (68 votes)"
+          "value": "39.9M",
+          "sub": "proj. (69 votes)"
         },
         {
           "label": "Banksit",
@@ -71,33 +71,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 1.85 ETH Volume",
-      "summary": "24 sales in 24h for 1.85 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.485 ETH.",
+      "headline": "22 Sales Today - 1.31 ETH Volume",
+      "summary": "22 sales in 24h for 1.31 ETH. Highest: \"Brain\" at 0.221 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-        "label": "The Tree of Knowledge of Good and Evil - 0.485 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/279.WEBP",
+        "label": "Brain - 0.221 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.485 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/279.WEBP",
           "label": "Brain - 0.221 ETH",
@@ -107,23 +102,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/469.GIF",
           "label": "ART Seize-n - 0.120 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/221.WEBP",
+          "label": "Rugs & Rockets - 0.055 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "24",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.85",
+          "value": "1.31",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.485",
-          "sub": "The Tree of Knowledg"
+          "value": "0.221",
+          "sub": "Brain"
         },
         {
           "label": "Floor",
@@ -136,15 +136,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.85 ETH",
-      "raw": 1.8483,
-      "delta": -1.4905,
-      "delta_fmt": "-44.6%"
+      "value": "1.31 ETH",
+      "raw": 1.3134,
+      "delta": -2.5963000000000003,
+      "delta_fmt": "-66.4%"
     },
     {
       "label": "7d Vol",
-      "value": "12.16 ETH",
-      "raw": 12.1623
+      "value": "11.67 ETH",
+      "raw": 11.6671
     },
     {
       "label": "30d Vol",
@@ -153,10 +153,8 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "42.1 ETH",
-      "raw": 42.05,
-      "delta": 0.05999999999999517,
-      "delta_fmt": "+0.06 ETH"
+      "value": "42.0 ETH",
+      "raw": 42.05
     },
     {
       "label": "Network TDH",
@@ -165,8 +163,10 @@
     },
     {
       "label": "#1 RalenArc",
-      "value": "39.8M TDH",
-      "raw": 39844451
+      "value": "39.9M TDH",
+      "raw": 39851420,
+      "delta": 6969,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Banksit",
@@ -443,7 +443,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #526: 132 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ROAD TRIP TO THE APOCALYPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #526: 132 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ROAD TRIP TO THE APOCALYPSE"
   ]
 }
