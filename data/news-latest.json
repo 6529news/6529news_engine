@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T20:58:40.558196+00:00",
+  "generated_at": "2026-07-26T22:06:01.509965+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: Giopetto (16.5M) | intrepid (11.8M) | josenarciso (7.4M) | Gray (2.6M) | Bombadil (1.7M).",
+      "summary": "5 submissions this week. Ranking: Giopetto (16.5M) | intrepid (11.8M) | josenarciso (7.4M) | Gray (2.6M) | Bombadil (1.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -63,7 +63,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_228e3e15-a583-4b1a-9f22-227d6147ec86/28372716-bdb5-4f32-8cf1-8fd57b712310/2.gif",
-          "label": "Bombadil (1.7M)",
+          "label": "Bombadil (1.8M)",
           "type": "image"
         }
       ],
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "6 Sales Today - 0.21 ETH Volume",
-      "summary": "6 sales in 24h for 0.21 ETH. Highest: \"Faces of Freedom\" at 0.020 ETH.",
+      "headline": "3 Sales Today - 0.06 ETH Volume",
+      "summary": "3 sales in 24h for 0.06 ETH. Highest: \"Faces of Freedom\" at 0.020 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "6",
+          "value": "3",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.21",
+          "value": "0.06",
           "sub": "ETH"
         },
         {
@@ -131,10 +131,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.21 ETH",
-      "raw": 0.21,
-      "delta": -4.8938,
-      "delta_fmt": "-95.9%"
+      "value": "0.06 ETH",
+      "raw": 0.056,
+      "delta": -5.0471,
+      "delta_fmt": "-98.9%"
     },
     {
       "label": "7d Vol",
@@ -149,9 +149,9 @@
     {
       "label": "Full Set Bid",
       "value": "42.2 ETH",
-      "raw": 42.21,
-      "delta": 0.030000000000001137,
-      "delta_fmt": "+0.03 ETH"
+      "raw": 42.19,
+      "delta": -0.020000000000003126,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 Banksit",
       "value": "41.7M TDH",
-      "raw": 41654903,
-      "delta": 3656841,
-      "delta_fmt": "+3.7M TDH"
+      "raw": 41654903
     },
     {
       "label": "#1 RalenArc",
@@ -440,7 +438,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #526: 132 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ROAD TRIP TO THE APOCALYPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #526: 132 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ROAD TRIP TO THE APOCALYPSE"
   ]
 }
