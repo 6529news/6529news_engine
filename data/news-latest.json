@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T18:03:43.356465+00:00",
+  "generated_at": "2026-07-27T19:53:23.871276+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "RalenArc Leads with 40.3M Projected TDH",
-      "summary": "\"Cycle of Creation\" by RalenArc (40.3M projected TDH, 70 voters) | \"Freedom To Dance\" by BEFE (39.5M projected TDH, 71 voters) | \"MAKE IT COUNT\" by Giopetto (18.7M projected TDH, 35 voters) Next selection: Wed Jul 29 at 17:00 CET.",
+      "summary": "\"Cycle of Creation\" by RalenArc (40.3M projected TDH, 70 voters) | \"Freedom To Dance\" by BEFE (39.5M projected TDH, 72 voters) | \"MAKE IT COUNT\" by Giopetto (18.7M projected TDH, 36 voters) Next selection: Wed Jul 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,12 +48,12 @@
         {
           "label": "BEFE",
           "value": "39.5M",
-          "sub": "proj. (71 votes)"
+          "sub": "proj. (72 votes)"
         },
         {
           "label": "Giopetto",
           "value": "18.7M",
-          "sub": "proj. (35 votes)"
+          "sub": "proj. (36 votes)"
         }
       ]
     },
@@ -79,59 +79,59 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "43 Sales Today - 2.20 ETH Volume",
-      "summary": "43 sales in 24h for 2.20 ETH. Highest: \"SeizeJPGs\" at 0.205 ETH.",
+      "headline": "47 Sales Today - 3.42 ETH Volume",
+      "summary": "47 sales in 24h for 3.42 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.430 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-        "label": "SeizeJPGs - 0.205 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
+        "label": "ALL YOUR BITCOIN - 0.430 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.205 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
+          "label": "ALL YOUR BITCOIN - 0.430 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
-          "label": "Pepe X - 0.135 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+          "label": "The Tree of Knowledge of Good and Evil - 0.400 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
-          "label": "rekt6529 - 0.130 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/118.WEBP",
+          "label": "The Socially Umpired Animals - 0.360 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "43",
+          "value": "47",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.20",
+          "value": "3.42",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.205",
-          "sub": "SeizeJPGs"
+          "value": "0.430",
+          "sub": "ALL YOUR BITCOIN"
         },
         {
           "label": "Floor",
@@ -144,25 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.20 ETH",
-      "raw": 2.195,
-      "delta": 1.9849999999999999,
-      "delta_fmt": "+945.2%"
+      "value": "3.42 ETH",
+      "raw": 3.4201,
+      "delta": 3.2101,
+      "delta_fmt": "+1528.6%"
     },
     {
       "label": "7d Vol",
-      "value": "12.01 ETH",
-      "raw": 12.0059
+      "value": "12.83 ETH",
+      "raw": 12.8273
     },
     {
       "label": "30d Vol",
-      "value": "33.58 ETH",
-      "raw": 33.5789
+      "value": "34.80 ETH",
+      "raw": 34.804
     },
     {
       "label": "Full Set Bid",
-      "value": "41.3 ETH",
-      "raw": 41.26
+      "value": "40.9 ETH",
+      "raw": 40.94,
+      "delta": -0.3200000000000003,
+      "delta_fmt": "-0.32 ETH"
     },
     {
       "label": "Network TDH",
@@ -451,7 +453,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #527: 122 MINTS (EXCL. MUSEUM) | 80 HOLDERS | THE KEY TO FREEDOM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #527: 122 MINTS (EXCL. MUSEUM) | 80 HOLDERS | THE KEY TO FREEDOM"
   ]
 }
