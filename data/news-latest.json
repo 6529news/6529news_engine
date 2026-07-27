@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T22:17:32.108831+00:00",
+  "generated_at": "2026-07-27T23:33:50.080554+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"The Key to Freedom\" by sonyart \u2014 71.3M TDH from 61 voters. Top supporter: Ruskin (24.5M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"The Key to Freedom\" by sonyart \u2014 71.3M TDH from 61 voters. Top supporter: Ruskin (24.5M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "48 Sales Today - 3.48 ETH Volume",
-      "summary": "48 sales in 24h for 3.48 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.430 ETH.",
+      "headline": "51 Sales Today - 3.58 ETH Volume",
+      "summary": "51 sales in 24h for 3.58 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.430 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "48",
+          "value": "51",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.48",
+          "value": "3.58",
           "sub": "ETH"
         },
         {
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.48 ETH",
-      "raw": 3.4801,
-      "delta": 3.4241,
-      "delta_fmt": "+6114.5%"
+      "value": "3.58 ETH",
+      "raw": 3.5841,
+      "delta": 3.5281,
+      "delta_fmt": "+6300.2%"
     },
     {
       "label": "7d Vol",
-      "value": "12.89 ETH",
-      "raw": 12.8873
+      "value": "12.99 ETH",
+      "raw": 12.9913
     },
     {
       "label": "30d Vol",
-      "value": "34.86 ETH",
-      "raw": 34.864
+      "value": "34.97 ETH",
+      "raw": 34.968
     },
     {
       "label": "Full Set Bid",
-      "value": "41.1 ETH",
-      "raw": 41.13,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "value": "41.2 ETH",
+      "raw": 41.18,
+      "delta": 0.04999999999999716,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -453,7 +453,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #527: 123 MINTS (EXCL. MUSEUM) | 82 HOLDERS | THE KEY TO FREEDOM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #527: 123 MINTS (EXCL. MUSEUM) | 82 HOLDERS | THE KEY TO FREEDOM"
   ]
 }
