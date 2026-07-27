@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T04:04:21.616353+00:00",
+  "generated_at": "2026-07-27T07:50:23.864349+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "5 New Memes Submissions This Week",
-      "summary": "5 submissions this week. Ranking: Giopetto (16.5M) | intrepid (11.8M) | josenarciso (7.4M) | Gray (2.6M) | Bombadil (1.8M).",
+      "summary": "5 submissions this week. Ranking: Giopetto (17.4M) | intrepid (11.8M) | josenarciso (7.4M) | Gray (2.6M) | Bombadil (1.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "44 Sales Today - 2.52 ETH Volume",
-      "summary": "44 sales in 24h for 2.52 ETH. Highest: \"SeizeJPGs\" at 0.205 ETH.",
+      "headline": "47 Sales Today - 2.67 ETH Volume",
+      "summary": "47 sales in 24h for 2.67 ETH. Highest: \"SeizeJPGs\" at 0.205 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "44",
+          "value": "47",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.52",
+          "value": "2.67",
           "sub": "ETH"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01912439",
+          "value": "0.01911438",
           "sub": "ETH"
         }
       ]
@@ -136,37 +136,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.52 ETH",
-      "raw": 2.5171,
-      "delta": 0.04630000000000001,
-      "delta_fmt": "+1.9%"
+      "value": "2.67 ETH",
+      "raw": 2.6664,
+      "delta": 0.5396999999999998,
+      "delta_fmt": "+25.4%"
     },
     {
       "label": "7d Vol",
-      "value": "13.65 ETH",
-      "raw": 13.6544
+      "value": "13.17 ETH",
+      "raw": 13.1687
     },
     {
       "label": "30d Vol",
-      "value": "33.85 ETH",
-      "raw": 33.845
+      "value": "33.99 ETH",
+      "raw": 33.9943
     },
     {
       "label": "Full Set Bid",
-      "value": "41.2 ETH",
-      "raw": 41.19,
-      "delta": -1.0,
-      "delta_fmt": "-1.00 ETH"
+      "value": "41.5 ETH",
+      "raw": 41.51,
+      "delta": 0.3200000000000003,
+      "delta_fmt": "+0.32 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1818.7M",
-      "raw": 1818683777
+      "raw": 1818683684,
+      "delta": -93,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 Banksit",
       "value": "45.9M TDH",
-      "raw": 45891570
+      "raw": 45891904,
+      "delta": 334,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 RalenArc",
@@ -443,7 +447,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #526: 132 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ROAD TRIP TO THE APOCALYPSE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #526: 132 MINTS (EXCL. MUSEUM) | 88 HOLDERS | ROAD TRIP TO THE APOCALYPSE"
   ]
 }
