@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T17:53:52.123752+00:00",
+  "generated_at": "2026-07-28T19:21:51.770893+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "BEFE Leads with 49.6M Projected TDH",
-      "summary": "\"Freedom To Dance\" by BEFE (49.6M projected TDH, 77 voters) | \"Cycle of Creation\" by RalenArc (41.8M projected TDH, 70 voters) | \"MAKE IT COUNT\" by Giopetto (27.3M projected TDH, 41 voters) Next selection: Wed Jul 29 at 17:00 CET.",
+      "summary": "\"Freedom To Dance\" by BEFE (49.6M projected TDH, 77 voters) | \"Cycle of Creation\" by RalenArc (41.8M projected TDH, 70 voters) | \"MAKE IT COUNT\" by Giopetto (27.3M projected TDH, 42 voters) Next selection: Wed Jul 29 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "Giopetto",
           "value": "27.3M",
-          "sub": "proj. (41 votes)"
+          "sub": "proj. (42 votes)"
         }
       ]
     },
@@ -56,59 +56,59 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 2.23 ETH Volume",
-      "summary": "26 sales in 24h for 2.23 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.430 ETH.",
+      "headline": "23 Sales Today - 1.04 ETH Volume",
+      "summary": "23 sales in 24h for 1.04 ETH. Highest: \"I CAN HAS ETHEREUM?\" at 0.300 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
-        "label": "ALL YOUR BITCOIN - 0.430 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/237.WEBP",
+        "label": "I CAN HAS ETHEREUM? - 0.300 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
-          "label": "ALL YOUR BITCOIN - 0.430 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/237.WEBP",
+          "label": "I CAN HAS ETHEREUM? - 0.300 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.400 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/186.WEBP",
+          "label": "Freedom To Undress - 0.076 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/118.WEBP",
-          "label": "The Socially Umpired Animals - 0.360 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/456.GIF",
+          "label": "Don't Let Them! - 0.060 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "26",
+          "value": "23",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.23",
+          "value": "1.04",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.430",
-          "sub": "ALL YOUR BITCOIN"
+          "value": "0.300",
+          "sub": "I CAN HAS ETHEREUM?"
         },
         {
           "label": "Floor",
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.23 ETH",
-      "raw": 2.2342,
-      "delta": 0.039200000000000124,
-      "delta_fmt": "+1.8%"
+      "value": "1.04 ETH",
+      "raw": 1.0445,
+      "delta": -2.3756000000000004,
+      "delta_fmt": "-69.5%"
     },
     {
       "label": "7d Vol",
-      "value": "13.14 ETH",
-      "raw": 13.1396
+      "value": "12.27 ETH",
+      "raw": 12.27
     },
     {
       "label": "30d Vol",
       "value": "35.19 ETH",
-      "raw": 35.1874
+      "raw": 35.1913
     },
     {
       "label": "Full Set Bid",
-      "value": "41.1 ETH",
-      "raw": 41.05,
-      "delta": 0.1699999999999946,
-      "delta_fmt": "+0.17 ETH"
+      "value": "40.9 ETH",
+      "raw": 40.91,
+      "delta": -0.14000000000000057,
+      "delta_fmt": "-0.14 ETH"
     },
     {
       "label": "Network TDH",
@@ -430,7 +430,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #527: 126 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE KEY TO FREEDOM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #527: 126 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE KEY TO FREEDOM"
   ]
 }
