@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:42:20.162387+00:00",
+  "generated_at": "2026-07-29T20:36:48.904060+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -69,28 +69,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 1.26 ETH Volume",
-      "summary": "25 sales in 24h for 1.26 ETH. Highest: \"BOOM\" at 0.090 ETH.",
+      "headline": "26 Sales Today - 1.82 ETH Volume",
+      "summary": "26 sales in 24h for 1.82 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.556 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/151.WEBP",
-        "label": "BOOM - 0.090 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+        "label": "The Tree of Knowledge of Good and Evil - 0.556 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+          "label": "The Tree of Knowledge of Good and Evil - 0.556 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/151.WEBP",
           "label": "BOOM - 0.090 ETH",
@@ -100,28 +105,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/339.GIF",
           "label": "Powered by Time - 0.084 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/247.GIF",
-          "label": "Fool's Gold - 0.081 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "26",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.26",
+          "value": "1.82",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.090",
-          "sub": "BOOM"
+          "value": "0.556",
+          "sub": "The Tree of Knowledg"
         },
         {
           "label": "Floor",
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.26 ETH",
-      "raw": 1.2593,
-      "delta": 0.2148000000000001,
-      "delta_fmt": "+20.6%"
+      "value": "1.82 ETH",
+      "raw": 1.8155,
+      "delta": 0.8060999999999998,
+      "delta_fmt": "+79.9%"
     },
     {
       "label": "7d Vol",
-      "value": "12.04 ETH",
-      "raw": 12.0382
+      "value": "12.59 ETH",
+      "raw": 12.5944
     },
     {
       "label": "30d Vol",
-      "value": "34.76 ETH",
-      "raw": 34.7629
+      "value": "35.32 ETH",
+      "raw": 35.3191
     },
     {
       "label": "Full Set Bid",
       "value": "40.8 ETH",
-      "raw": 40.79,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "raw": 40.81,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +164,7 @@
     {
       "label": "#1 Giopetto",
       "value": "46.9M TDH",
-      "raw": 46902885,
-      "delta": -520000,
-      "delta_fmt": "-0.5M TDH"
+      "raw": 46902885
     },
     {
       "label": "#1 RalenArc",
@@ -450,7 +448,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #528: 124 MINTS (EXCL. MUSEUM) | 83 HOLDERS | MDAGA",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #528: 125 MINTS (EXCL. MUSEUM) | 84 HOLDERS | MDAGA"
   ]
 }
