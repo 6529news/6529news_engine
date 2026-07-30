@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T01:02:36.963134+00:00",
+  "generated_at": "2026-07-30T04:20:12.521904+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Giopetto Leads with 49.6M Projected TDH",
-      "summary": "\"MAKE IT COUNT\" by Giopetto (49.6M projected TDH, 53 voters) | \"Cycle of Creation\" by RalenArc (41.8M projected TDH, 71 voters) | \"Fully Exposed\" by Bowo (20.6M projected TDH, 37 voters) Next selection: Fri Jul 31 at 17:00 CET.",
+      "summary": "\"MAKE IT COUNT\" by Giopetto (49.6M projected TDH, 54 voters) | \"Cycle of Creation\" by RalenArc (46.2M projected TDH, 72 voters) | \"Fully Exposed\" by Bowo (20.6M projected TDH, 37 voters) Next selection: Fri Jul 31 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,12 +43,12 @@
         {
           "label": "Giopetto",
           "value": "49.6M",
-          "sub": "proj. (53 votes)"
+          "sub": "proj. (54 votes)"
         },
         {
           "label": "RalenArc",
-          "value": "41.8M",
-          "sub": "proj. (71 votes)"
+          "value": "46.2M",
+          "sub": "proj. (72 votes)"
         },
         {
           "label": "Bowo",
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: Gray (1.6M).",
+      "summary": "1 submissions this week. Ranking: Gray (2.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "37 Sales Today - 2.19 ETH Volume",
-      "summary": "37 sales in 24h for 2.19 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.556 ETH.",
+      "headline": "36 Sales Today - 2.11 ETH Volume",
+      "summary": "36 sales in 24h for 2.11 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.556 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "37",
+          "value": "36",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.19",
+          "value": "2.11",
           "sub": "ETH"
         },
         {
@@ -134,10 +134,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.19 ETH",
-      "raw": 2.1865,
-      "delta": 1.3411,
-      "delta_fmt": "+158.6%"
+      "value": "2.11 ETH",
+      "raw": 2.1055,
+      "delta": 1.1746000000000003,
+      "delta_fmt": "+126.2%"
     },
     {
       "label": "7d Vol",
@@ -151,24 +151,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH",
-      "raw": 38.69,
-      "delta": -0.15000000000000568,
-      "delta_fmt": "-0.15 ETH"
+      "value": "38.8 ETH",
+      "raw": 38.84,
+      "delta": 0.15000000000000568,
+      "delta_fmt": "+0.15 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1826.3M",
-      "raw": 1826302814,
-      "delta": 2642880,
-      "delta_fmt": "+2.6M TDH"
+      "raw": 1826302814
     },
     {
       "label": "#1 Giopetto",
       "value": "49.6M TDH",
-      "raw": 49609224,
-      "delta": 2000289,
-      "delta_fmt": "+2.0M TDH"
+      "raw": 49610372,
+      "delta": 1148,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 RalenArc",
@@ -452,7 +450,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #528: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | MDAGA",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #528: 129 MINTS (EXCL. MUSEUM) | 86 HOLDERS | MDAGA"
   ]
 }
