@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T21:46:29.764355+00:00",
+  "generated_at": "2026-07-31T22:58:58.606648+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "RalenArc Leads with 41.6M Projected TDH",
-      "summary": "\"Cycle of Creation\" by RalenArc (41.6M projected TDH, 72 voters) | \"Fully Exposed\" by Bowo (32.8M projected TDH, 45 voters) | \"SYSTEM FAILURE\" by apocalypse (17.6M projected TDH, 51 voters) Next selection: Mon Aug 03 at 17:00 CET.",
+      "summary": "\"Cycle of Creation\" by RalenArc (41.6M projected TDH, 72 voters) | \"Fully Exposed\" by Bowo (32.8M projected TDH, 46 voters) | \"SYSTEM FAILURE\" by apocalypse (17.6M projected TDH, 51 voters) Next selection: Mon Aug 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +48,7 @@
         {
           "label": "Bowo",
           "value": "32.8M",
-          "sub": "proj. (45 votes)"
+          "sub": "proj. (46 votes)"
         },
         {
           "label": "apocalypse",
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01903428",
+          "value": "0.01904428999999",
           "sub": "ETH"
         }
       ]
@@ -136,8 +136,8 @@
       "label": "24h Vol",
       "value": "0.93 ETH",
       "raw": 0.9277,
-      "delta": 0.06629999999999991,
-      "delta_fmt": "+7.7%"
+      "delta": 0.4141,
+      "delta_fmt": "+80.6%"
     },
     {
       "label": "7d Vol",
@@ -151,10 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "40.1 ETH",
-      "raw": 40.15,
-      "delta": 0.030000000000001137,
-      "delta_fmt": "+0.03 ETH"
+      "value": "40.0 ETH",
+      "raw": 39.99,
+      "delta": -0.1599999999999966,
+      "delta_fmt": "-0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -451,7 +451,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.500 ETH",
-    "CARD #529: 123 MINTS (EXCL. MUSEUM) | 82 HOLDERS | FREEDOM TO DANCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #529: 123 MINTS (EXCL. MUSEUM) | 82 HOLDERS | FREEDOM TO DANCE"
   ]
 }
