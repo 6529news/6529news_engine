@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:21:56.238965+00:00",
+  "generated_at": "2026-08-01T11:42:19.053275+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,25 +30,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "RalenArc Leads with 41.6M Projected TDH",
-      "summary": "\"Cycle of Creation\" by RalenArc (41.6M projected TDH, 72 voters) | \"Fully Exposed\" by Bowo (35.0M projected TDH, 48 voters) | \"SYSTEM FAILURE\" by apocalypse (17.6M projected TDH, 51 voters) Next selection: Mon Aug 03 at 17:00 CET.",
+      "headline": "Bowo Leads with 45.0M Projected TDH",
+      "summary": "\"Fully Exposed\" by Bowo (45.0M projected TDH, 50 voters) | \"Cycle of Creation\" by RalenArc (41.6M projected TDH, 72 voters) | \"SYSTEM FAILURE\" by apocalypse (17.6M projected TDH, 51 voters) Next selection: Mon Aug 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_cf7cd4b9-2421-45d2-b5be-cd5c8849ad06/160168aa-9c36-4b6d-8a14-d9b2d1277a0a.mov",
-        "label": "Cycle of Creation - RalenArc",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e8c578ca-6585-4dfe-b65f-015f94a68430/5619385a-527c-42ae-a4c1-9b38e8368ddd/0-0-39-srcnn-photo-2x-copy.jpg",
+        "label": "Fully Exposed - Bowo",
+        "type": "image"
       },
       "dataBoxes": [
+        {
+          "label": "Bowo",
+          "value": "45.0M",
+          "sub": "proj. (50 votes)"
+        },
         {
           "label": "RalenArc",
           "value": "41.6M",
           "sub": "proj. (72 votes)"
-        },
-        {
-          "label": "Bowo",
-          "value": "35.0M",
-          "sub": "proj. (48 votes)"
         },
         {
           "label": "apocalypse",
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -152,14 +152,21 @@
     {
       "label": "Full Set Bid",
       "value": "40.4 ETH",
-      "raw": 40.4,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "raw": 40.41,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1831.6M",
       "raw": 1831599522
+    },
+    {
+      "label": "#1 Bowo",
+      "value": "45.0M TDH",
+      "raw": 45012456,
+      "delta": -8671379,
+      "delta_fmt": "-8.7M TDH"
     },
     {
       "label": "#1 RalenArc",
@@ -451,7 +458,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.500 ETH",
-    "CARD #529: 123 MINTS (EXCL. MUSEUM) | 82 HOLDERS | FREEDOM TO DANCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #529: 123 MINTS (EXCL. MUSEUM) | 82 HOLDERS | FREEDOM TO DANCE"
   ]
 }
