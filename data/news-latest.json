@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-08-01T14:13:05.866666+00:00",
+  "generated_at": "2026-08-01T15:29:14.051761+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Freedom To Dance\" by BEFE \u2014 50.5M TDH from 79 voters. Top supporter: johndoe8891 (9.3M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/529.GIF",
-        "label": "Freedom To Dance - BEFE",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING MONDAY",
       "headline": "Minting Monday",
@@ -60,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Minotaur_Man (15.9M) | Sunken0x (3.5M) | Bhare (2.7M).",
+      "summary": "3 submissions this week. Ranking: Minotaur_Man (15.9M) | Bhare (3.7M) | Sunken0x (3.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -81,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "8 Sales Today - 1.02 ETH Volume",
-      "summary": "8 sales in 24h for 1.02 ETH. Highest: \"Sgt. Pepe\" at 0.500 ETH.",
+      "headline": "11 Sales Today - 1.09 ETH Volume",
+      "summary": "11 sales in 24h for 1.09 ETH. Highest: \"Sgt. Pepe\" at 0.500 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "8",
+          "value": "11",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.02",
+          "value": "1.09",
           "sub": "ETH"
         },
         {
@@ -125,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01893444",
+          "value": "0.01749",
           "sub": "ETH"
         }
       ]
@@ -134,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.02 ETH",
-      "raw": 1.0164,
-      "delta": 0.3577,
-      "delta_fmt": "+54.3%"
+      "value": "1.09 ETH",
+      "raw": 1.0913,
+      "delta": 0.7537999999999999,
+      "delta_fmt": "+223.3%"
     },
     {
       "label": "7d Vol",
-      "value": "8.72 ETH",
-      "raw": 8.7191
+      "value": "8.79 ETH",
+      "raw": 8.7932
     },
     {
       "label": "30d Vol",
-      "value": "33.58 ETH",
-      "raw": 33.5757
+      "value": "33.65 ETH",
+      "raw": 33.6475
     },
     {
       "label": "Full Set Bid",
       "value": "40.6 ETH",
-      "raw": 40.55,
-      "delta": 0.1599999999999966,
-      "delta_fmt": "+0.16 ETH"
+      "raw": 40.57,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,7 +151,9 @@
     {
       "label": "#1 Bowo",
       "value": "45.0M TDH",
-      "raw": 45016836
+      "raw": 45038558,
+      "delta": 21722,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 RalenArc",
@@ -456,7 +445,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.500 ETH",
-    "CARD #529: 125 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO DANCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #529: 125 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO DANCE"
   ]
 }
