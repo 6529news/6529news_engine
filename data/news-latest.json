@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T03:49:14.394721+00:00",
+  "generated_at": "2026-08-01T06:28:18.885740+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Minotaur_Man (15.8M) | Sunken0x (3.5M).",
+      "summary": "2 submissions this week. Ranking: Minotaur_Man (15.9M) | Sunken0x (3.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 0.93 ETH Volume",
-      "summary": "11 sales in 24h for 0.93 ETH. Highest: \"Sgt. Pepe\" at 0.500 ETH.",
+      "headline": "10 Sales Today - 0.85 ETH Volume",
+      "summary": "10 sales in 24h for 0.85 ETH. Highest: \"Sgt. Pepe\" at 0.500 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,20 +102,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/466.GIF",
-          "label": "The Signal - 0.065 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/356.GIF",
+          "label": "No Meme, We Riot - 0.042 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "10",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.93",
+          "value": "0.85",
           "sub": "ETH"
         },
         {
@@ -134,34 +134,32 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.93 ETH",
-      "raw": 0.9277,
-      "delta": 0.4341,
-      "delta_fmt": "+87.9%"
+      "value": "0.85 ETH",
+      "raw": 0.8507,
+      "delta": 0.2921,
+      "delta_fmt": "+52.3%"
     },
     {
       "label": "7d Vol",
-      "value": "13.33 ETH",
-      "raw": 13.3339
+      "value": "10.11 ETH",
+      "raw": 10.1084
     },
     {
       "label": "30d Vol",
-      "value": "34.05 ETH",
-      "raw": 34.05
+      "value": "33.27 ETH",
+      "raw": 33.2707
     },
     {
       "label": "Full Set Bid",
-      "value": "40.1 ETH",
-      "raw": 40.15,
-      "delta": 0.11999999999999744,
-      "delta_fmt": "+0.12 ETH"
+      "value": "40.3 ETH",
+      "raw": 40.31,
+      "delta": 0.1600000000000037,
+      "delta_fmt": "+0.16 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1831.6M",
-      "raw": 1831599522,
-      "delta": 2780359,
-      "delta_fmt": "+2.8M TDH"
+      "raw": 1831599522
     },
     {
       "label": "#1 RalenArc",
@@ -453,7 +451,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.500 ETH",
-    "CARD #529: 123 MINTS (EXCL. MUSEUM) | 82 HOLDERS | FREEDOM TO DANCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #529: 123 MINTS (EXCL. MUSEUM) | 82 HOLDERS | FREEDOM TO DANCE"
   ]
 }
