@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T12:39:46.509450+00:00",
+  "generated_at": "2026-08-01T14:13:05.866666+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "8 Sales Today - 0.78 ETH Volume",
-      "summary": "8 sales in 24h for 0.78 ETH. Highest: \"Sgt. Pepe\" at 0.500 ETH.",
+      "headline": "8 Sales Today - 1.02 ETH Volume",
+      "summary": "8 sales in 24h for 1.02 ETH. Highest: \"Sgt. Pepe\" at 0.500 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,13 +97,13 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-          "label": "UncleSeize - 0.105 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.259 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/312.WEBP",
-          "label": "Memehaus - 0.046 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+          "label": "UncleSeize - 0.105 ETH",
           "type": "image"
         }
       ],
@@ -115,7 +115,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.78",
+          "value": "1.02",
           "sub": "ETH"
         },
         {
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.78 ETH",
-      "raw": 0.7776,
-      "delta": 0.1368999999999999,
-      "delta_fmt": "+21.4%"
+      "value": "1.02 ETH",
+      "raw": 1.0164,
+      "delta": 0.3577,
+      "delta_fmt": "+54.3%"
     },
     {
       "label": "7d Vol",
-      "value": "8.46 ETH",
-      "raw": 8.4601
+      "value": "8.72 ETH",
+      "raw": 8.7191
     },
     {
       "label": "30d Vol",
-      "value": "33.32 ETH",
-      "raw": 33.3167
+      "value": "33.58 ETH",
+      "raw": 33.5757
     },
     {
       "label": "Full Set Bid",
-      "value": "40.4 ETH",
-      "raw": 40.39,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "value": "40.6 ETH",
+      "raw": 40.55,
+      "delta": 0.1599999999999966,
+      "delta_fmt": "+0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +164,7 @@
     {
       "label": "#1 Bowo",
       "value": "45.0M TDH",
-      "raw": 45016836,
-      "delta": 4380,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 45016836
     },
     {
       "label": "#1 RalenArc",
@@ -458,7 +456,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.500 ETH",
-    "CARD #529: 123 MINTS (EXCL. MUSEUM) | 82 HOLDERS | FREEDOM TO DANCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #529: 125 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO DANCE"
   ]
 }
