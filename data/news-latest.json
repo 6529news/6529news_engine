@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T06:17:07.860930+00:00",
+  "generated_at": "2026-08-02T08:43:17.938809+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Minotaur_Man (21.0M) | Bhare (3.9M) | Sunken0x (3.5M).",
+      "summary": "3 submissions this week. Ranking: Minotaur_Man (21.0M) | Bhare (4.3M) | Sunken0x (3.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 0.66 ETH Volume",
-      "summary": "15 sales in 24h for 0.66 ETH. Highest: \"SeizeJPGs\" at 0.259 ETH.",
+      "headline": "14 Sales Today - 0.63 ETH Volume",
+      "summary": "14 sales in 24h for 0.63 ETH. Highest: \"SeizeJPGs\" at 0.259 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.66",
+          "value": "0.63",
           "sub": "ETH"
         },
         {
@@ -121,10 +121,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.66 ETH",
-      "raw": 0.6562,
-      "delta": -0.1945,
-      "delta_fmt": "-22.9%"
+      "value": "0.63 ETH",
+      "raw": 0.6262,
+      "delta": -0.14239999999999997,
+      "delta_fmt": "-18.5%"
     },
     {
       "label": "7d Vol",
@@ -133,15 +133,15 @@
     },
     {
       "label": "30d Vol",
-      "value": "33.90 ETH",
-      "raw": 33.8969
+      "value": "33.15 ETH",
+      "raw": 33.1451
     },
     {
       "label": "Full Set Bid",
-      "value": "40.7 ETH",
-      "raw": 40.67,
-      "delta": -0.07000000000000028,
-      "delta_fmt": "-0.07 ETH"
+      "value": "40.8 ETH",
+      "raw": 40.76,
+      "delta": 0.0899999999999963,
+      "delta_fmt": "+0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,8 +151,8 @@
     {
       "label": "#1 Bowo",
       "value": "45.0M TDH",
-      "raw": 45039028,
-      "delta": 465,
+      "raw": 45039040,
+      "delta": 12,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -444,7 +444,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #529: 125 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO DANCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #529: 125 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO DANCE"
   ]
 }
