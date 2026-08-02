@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:02:57.357575+00:00",
+  "generated_at": "2026-08-02T22:09:32.934189+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "8 Sales Today - 0.41 ETH Volume",
-      "summary": "8 sales in 24h for 0.41 ETH. Highest: \"Brain\" at 0.180 ETH.",
+      "headline": "10 Sales Today - 0.44 ETH Volume",
+      "summary": "10 sales in 24h for 0.44 ETH. Highest: \"Brain\" at 0.180 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "8",
+          "value": "10",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.41",
+          "value": "0.44",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01893",
+          "value": "0.01894444",
           "sub": "ETH"
         }
       ]
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.41 ETH",
-      "raw": 0.4054,
-      "delta": -0.2508,
-      "delta_fmt": "-38.2%"
+      "value": "0.44 ETH",
+      "raw": 0.4433,
+      "delta": -0.21289999999999998,
+      "delta_fmt": "-32.4%"
     },
     {
       "label": "7d Vol",
-      "value": "9.24 ETH",
-      "raw": 9.2357
+      "value": "9.27 ETH",
+      "raw": 9.2736
     },
     {
       "label": "30d Vol",
-      "value": "33.55 ETH",
-      "raw": 33.5505
+      "value": "33.59 ETH",
+      "raw": 33.5884
     },
     {
       "label": "Full Set Bid",
-      "value": "40.4 ETH",
-      "raw": 40.37,
-      "delta": -0.17999999999999972,
-      "delta_fmt": "-0.18 ETH"
+      "value": "40.3 ETH",
+      "raw": 40.31,
+      "delta": -0.05999999999999517,
+      "delta_fmt": "-0.06 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 Bowo",
       "value": "45.1M TDH",
-      "raw": 45131292,
-      "delta": 75823,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 45131292
     },
     {
       "label": "#1 RalenArc",
@@ -444,7 +442,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #529: 125 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO DANCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #529: 125 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO DANCE"
   ]
 }
