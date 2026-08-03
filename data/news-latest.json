@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T18:04:21.978129+00:00",
+  "generated_at": "2026-08-03T19:57:35.409978+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "underscore Leads with 51.6M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (51.6M projected TDH, 61 voters) | \"Cycle of Creation\" by RalenArc (41.6M projected TDH, 72 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (31.4M projected TDH, 40 voters) Next selection: Wed Aug 05 at 17:00 CET.",
+      "summary": "\"the_only_cloud\" by underscore (51.6M projected TDH, 62 voters) | \"Cycle of Creation\" by RalenArc (41.6M projected TDH, 72 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (31.4M projected TDH, 42 voters) Next selection: Wed Aug 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "underscore",
           "value": "51.6M",
-          "sub": "proj. (61 votes)"
+          "sub": "proj. (62 votes)"
         },
         {
           "label": "RalenArc",
@@ -53,14 +53,14 @@
         {
           "label": "Jedi69",
           "value": "31.4M",
-          "sub": "proj. (40 votes)"
+          "sub": "proj. (42 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Minotaur_Man (24.3M) | Bhare (4.4M).",
+      "summary": "2 submissions this week. Ranking: Minotaur_Man (26.3M) | Bhare (4.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 0.74 ETH Volume",
-      "summary": "15 sales in 24h for 0.74 ETH. Highest: \"Brain\" at 0.180 ETH.",
+      "headline": "14 Sales Today - 0.70 ETH Volume",
+      "summary": "14 sales in 24h for 0.70 ETH. Highest: \"Brain\" at 0.180 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.74",
+          "value": "0.70",
           "sub": "ETH"
         },
         {
@@ -134,15 +134,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.74 ETH",
-      "raw": 0.7396,
-      "delta": 0.5361,
-      "delta_fmt": "+263.4%"
+      "value": "0.70 ETH",
+      "raw": 0.6976,
+      "delta": 0.4722,
+      "delta_fmt": "+209.5%"
     },
     {
       "label": "7d Vol",
-      "value": "7.56 ETH",
-      "raw": 7.5583
+      "value": "6.17 ETH",
+      "raw": 6.1692
     },
     {
       "label": "30d Vol",
@@ -151,10 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.5 ETH",
-      "raw": 39.49,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "39.9 ETH",
+      "raw": 39.92,
+      "delta": 0.4299999999999997,
+      "delta_fmt": "+0.43 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,7 +164,9 @@
     {
       "label": "#1 underscore",
       "value": "51.6M TDH",
-      "raw": 51555012
+      "raw": 51560546,
+      "delta": 5534,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Bowo",
@@ -462,7 +464,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #530: 201 MINTS (EXCL. MUSEUM) | 91 HOLDERS | MAKE IT COUNT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #530: 201 MINTS (EXCL. MUSEUM) | 91 HOLDERS | MAKE IT COUNT"
   ]
 }
