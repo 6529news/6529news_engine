@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T00:12:33.388574+00:00",
+  "generated_at": "2026-08-03T03:56:09.824931+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Bowo Leads with 45.1M Projected TDH",
-      "summary": "\"Fully Exposed\" by Bowo (45.1M projected TDH, 55 voters) | \"the_only_cloud\" by underscore (43.3M projected TDH, 57 voters) | \"Cycle of Creation\" by RalenArc (41.6M projected TDH, 72 voters) Next selection: Mon Aug 03 at 17:00 CET.",
+      "summary": "\"Fully Exposed\" by Bowo (45.1M projected TDH, 55 voters) | \"the_only_cloud\" by underscore (43.4M projected TDH, 58 voters) | \"Cycle of Creation\" by RalenArc (41.6M projected TDH, 72 voters) Next selection: Mon Aug 03 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "underscore",
-          "value": "43.3M",
-          "sub": "proj. (57 votes)"
+          "value": "43.4M",
+          "sub": "proj. (58 votes)"
         },
         {
           "label": "RalenArc",
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -138,23 +138,21 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "26.1 ETH",
-      "raw": 26.07,
-      "delta": -14.21,
-      "delta_fmt": "-14.21 ETH"
+      "value": "40.4 ETH",
+      "raw": 40.4,
+      "delta": 14.329999999999998,
+      "delta_fmt": "+14.33 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1837.2M",
-      "raw": 1837206457,
-      "delta": 2831955,
-      "delta_fmt": "+2.8M TDH"
+      "raw": 1837206457
     },
     {
       "label": "#1 Bowo",
       "value": "45.1M TDH",
-      "raw": 45145906,
-      "delta": 14614,
+      "raw": 45146581,
+      "delta": 675,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -446,7 +444,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #529: 125 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO DANCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #529: 125 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FREEDOM TO DANCE"
   ]
 }
