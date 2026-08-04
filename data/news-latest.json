@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T18:43:41.455403+00:00",
+  "generated_at": "2026-08-04T20:13:13.178344+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Minotaur_Man Leads with 61.3M Projected TDH",
-      "summary": "\"Zeus vs Typhon\" by Minotaur_Man (61.3M projected TDH, 80 voters) | \"the_only_cloud\" by underscore (55.7M projected TDH, 69 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Wed Aug 05 at 17:00 CET.",
+      "summary": "\"Zeus vs Typhon\" by Minotaur_Man (61.3M projected TDH, 81 voters) | \"the_only_cloud\" by underscore (55.7M projected TDH, 69 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Wed Aug 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Minotaur_Man",
           "value": "61.3M",
-          "sub": "proj. (80 votes)"
+          "sub": "proj. (81 votes)"
         },
         {
           "label": "underscore",
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "59 Sales Today - 3.54 ETH Volume",
-      "summary": "59 sales in 24h for 3.54 ETH. Highest: \"The Institutions Are Coming\" at 0.400 ETH.",
+      "headline": "64 Sales Today - 3.75 ETH Volume",
+      "summary": "64 sales in 24h for 3.75 ETH. Highest: \"The Institutions Are Coming\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "59",
+          "value": "64",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.54",
+          "value": "3.75",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.54 ETH",
-      "raw": 3.5439,
-      "delta": 2.8042999999999996,
-      "delta_fmt": "+379.2%"
+      "value": "3.75 ETH",
+      "raw": 3.7536,
+      "delta": 3.056,
+      "delta_fmt": "+438.1%"
     },
     {
       "label": "7d Vol",
-      "value": "8.87 ETH",
-      "raw": 8.8677
+      "value": "9.08 ETH",
+      "raw": 9.0774
     },
     {
       "label": "30d Vol",
-      "value": "36.40 ETH",
-      "raw": 36.401
+      "value": "36.61 ETH",
+      "raw": 36.6107
     },
     {
       "label": "Full Set Bid",
       "value": "41.8 ETH",
-      "raw": 41.76,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 41.78,
+      "delta": 0.020000000000003126,
+      "delta_fmt": "+0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,8 +151,8 @@
     {
       "label": "#1 Minotaur_Man",
       "value": "61.3M TDH",
-      "raw": 61341497,
-      "delta": 18672,
+      "raw": 61341498,
+      "delta": 1,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -458,7 +458,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #530: 219 MINTS (EXCL. MUSEUM) | 101 HOLDERS | MAKE IT COUNT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #530: 219 MINTS (EXCL. MUSEUM) | 101 HOLDERS | MAKE IT COUNT"
   ]
 }
