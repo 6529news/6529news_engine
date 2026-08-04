@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T04:30:16.557343+00:00",
+  "generated_at": "2026-08-04T07:17:57.736640+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Minotaur_Man Leads with 56.7M Projected TDH",
-      "summary": "\"Zeus vs Typhon\" by Minotaur_Man (56.7M projected TDH, 65 voters) | \"the_only_cloud\" by underscore (51.7M projected TDH, 65 voters) | \"Cycle of Creation\" by RalenArc (37.9M projected TDH, 72 voters) Next selection: Wed Aug 05 at 17:00 CET.",
+      "headline": "Minotaur_Man Leads with 56.8M Projected TDH",
+      "summary": "\"Zeus vs Typhon\" by Minotaur_Man (56.8M projected TDH, 66 voters) | \"the_only_cloud\" by underscore (51.7M projected TDH, 66 voters) | \"Cycle of Creation\" by RalenArc (37.7M projected TDH, 72 voters) Next selection: Wed Aug 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,17 +42,17 @@
       "dataBoxes": [
         {
           "label": "Minotaur_Man",
-          "value": "56.7M",
-          "sub": "proj. (65 votes)"
+          "value": "56.8M",
+          "sub": "proj. (66 votes)"
         },
         {
           "label": "underscore",
           "value": "51.7M",
-          "sub": "proj. (65 votes)"
+          "sub": "proj. (66 votes)"
         },
         {
           "label": "RalenArc",
-          "value": "37.9M",
+          "value": "37.7M",
           "sub": "proj. (72 votes)"
         }
       ]
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "43 Sales Today - 2.53 ETH Volume",
-      "summary": "43 sales in 24h for 2.53 ETH. Highest: \"6529Seizing\" at 0.175 ETH.",
+      "headline": "44 Sales Today - 2.51 ETH Volume",
+      "summary": "44 sales in 24h for 2.51 ETH. Highest: \"6529Seizing\" at 0.175 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "43",
+          "value": "44",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.53",
+          "value": "2.51",
           "sub": "ETH"
         },
         {
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.53 ETH",
-      "raw": 2.5277,
-      "delta": 2.0843999999999996,
-      "delta_fmt": "+470.2%"
+      "value": "2.51 ETH",
+      "raw": 2.5098,
+      "delta": 1.8754999999999997,
+      "delta_fmt": "+295.7%"
     },
     {
       "label": "7d Vol",
-      "value": "8.14 ETH",
-      "raw": 8.1426
+      "value": "7.81 ETH",
+      "raw": 7.8104
     },
     {
       "label": "30d Vol",
-      "value": "34.91 ETH",
-      "raw": 34.9051
+      "value": "35.08 ETH",
+      "raw": 35.0782
     },
     {
       "label": "Full Set Bid",
-      "value": "41.6 ETH",
-      "raw": 41.64,
-      "delta": 1.5499999999999972,
-      "delta_fmt": "+1.55 ETH"
+      "value": "41.8 ETH",
+      "raw": 41.83,
+      "delta": 0.18999999999999773,
+      "delta_fmt": "+0.19 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,10 +163,10 @@
     },
     {
       "label": "#1 Minotaur_Man",
-      "value": "56.7M TDH",
-      "raw": 56707279,
-      "delta": 1220851,
-      "delta_fmt": "+1.2M TDH"
+      "value": "56.8M TDH",
+      "raw": 56808366,
+      "delta": 101087,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 underscore",
@@ -471,7 +471,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #530: 205 MINTS (EXCL. MUSEUM) | 93 HOLDERS | MAKE IT COUNT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #530: 207 MINTS (EXCL. MUSEUM) | 95 HOLDERS | MAKE IT COUNT"
   ]
 }
