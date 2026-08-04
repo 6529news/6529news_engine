@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:09:22.504909+00:00",
+  "generated_at": "2026-08-04T12:18:40.281079+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Minotaur_Man Leads with 57.8M Projected TDH",
-      "summary": "\"Zeus vs Typhon\" by Minotaur_Man (57.8M projected TDH, 69 voters) | \"the_only_cloud\" by underscore (52.7M projected TDH, 68 voters) | \"Cycle of Creation\" by RalenArc (37.7M projected TDH, 72 voters) Next selection: Wed Aug 05 at 17:00 CET.",
+      "headline": "Minotaur_Man Leads with 57.9M Projected TDH",
+      "summary": "\"Zeus vs Typhon\" by Minotaur_Man (57.9M projected TDH, 72 voters) | \"the_only_cloud\" by underscore (52.7M projected TDH, 68 voters) | \"Cycle of Creation\" by RalenArc (37.7M projected TDH, 72 voters) Next selection: Wed Aug 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Minotaur_Man",
-          "value": "57.8M",
-          "sub": "proj. (69 votes)"
+          "value": "57.9M",
+          "sub": "proj. (72 votes)"
         },
         {
           "label": "underscore",
@@ -74,23 +74,28 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "45 Sales Today - 2.54 ETH Volume",
-      "summary": "45 sales in 24h for 2.54 ETH. Highest: \"6529Seizing\" at 0.175 ETH.",
+      "headline": "57 Sales Today - 3.18 ETH Volume",
+      "summary": "57 sales in 24h for 3.18 ETH. Highest: \"The Institutions Are Coming\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-        "label": "6529Seizing - 0.175 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
+        "label": "The Institutions Are Coming - 0.400 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
+          "label": "The Institutions Are Coming - 0.400 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
           "label": "6529Seizing - 0.175 ETH",
@@ -100,28 +105,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
           "label": "UncleSeize - 0.139 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/44.WEBP",
-          "label": "Vibe Check - 0.100 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "45",
+          "value": "57",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.54",
+          "value": "3.18",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.175",
-          "sub": "6529Seizing"
+          "value": "0.400",
+          "sub": "The Institutions Are"
         },
         {
           "label": "Floor",
@@ -134,27 +134,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.54 ETH",
-      "raw": 2.5361,
-      "delta": 1.8556999999999997,
-      "delta_fmt": "+272.7%"
+      "value": "3.18 ETH",
+      "raw": 3.184,
+      "delta": 2.4203,
+      "delta_fmt": "+316.9%"
     },
     {
       "label": "7d Vol",
-      "value": "7.90 ETH",
-      "raw": 7.9017
+      "value": "8.28 ETH",
+      "raw": 8.2841
     },
     {
       "label": "30d Vol",
-      "value": "35.17 ETH",
-      "raw": 35.1695
+      "value": "35.82 ETH",
+      "raw": 35.8174
     },
     {
       "label": "Full Set Bid",
       "value": "42.1 ETH",
-      "raw": 42.14,
-      "delta": 0.3100000000000023,
-      "delta_fmt": "+0.31 ETH"
+      "raw": 42.14
     },
     {
       "label": "Network TDH",
@@ -163,10 +161,10 @@
     },
     {
       "label": "#1 Minotaur_Man",
-      "value": "57.8M TDH",
-      "raw": 57816155,
-      "delta": 1007789,
-      "delta_fmt": "+1.0M TDH"
+      "value": "57.9M TDH",
+      "raw": 57922886,
+      "delta": 106731,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 underscore",
@@ -471,7 +469,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #530: 207 MINTS (EXCL. MUSEUM) | 95 HOLDERS | MAKE IT COUNT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #530: 215 MINTS (EXCL. MUSEUM) | 99 HOLDERS | MAKE IT COUNT"
   ]
 }
