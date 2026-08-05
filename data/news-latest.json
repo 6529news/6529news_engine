@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:47:37.890601+00:00",
+  "generated_at": "2026-08-05T18:20:48.126647+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "underscore Leads with 55.8M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (55.8M projected TDH, 73 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (34.0M projected TDH, 49 voters) Next selection: Fri Aug 07 at 17:00 CET.",
+      "summary": "\"the_only_cloud\" by underscore (55.8M projected TDH, 73 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) | \"THE BUILDER\" by pandelic (35.6M projected TDH, 43 voters) Next selection: Fri Aug 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -51,9 +51,9 @@
           "sub": "proj. (73 votes)"
         },
         {
-          "label": "Jedi69",
-          "value": "34.0M",
-          "sub": "proj. (49 votes)"
+          "label": "pandelic",
+          "value": "35.6M",
+          "sub": "proj. (43 votes)"
         }
       ]
     },
@@ -79,59 +79,39 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "55 Sales Today - 2.20 ETH Volume",
-      "summary": "55 sales in 24h for 2.20 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.480 ETH.",
+      "headline": "54 Sales Today - 2.17 ETH Volume",
+      "summary": "54 sales in 24h for 2.17 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-        "label": "The Tree of Knowledge of Good and Evil - 0.480 ETH",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.480 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.221 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
-          "label": "rekt6529 - 0.139 ETH",
-          "type": "image"
-        }
-      ],
+      "image": null,
+      "images": [],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "55",
+          "value": "54",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.20",
+          "value": "2.17",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.480",
-          "sub": "The Tree of Knowledg"
+          "value": "0.000",
+          "sub": ""
         },
         {
           "label": "Floor",
@@ -144,15 +124,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.20 ETH",
-      "raw": 2.2036,
-      "delta": -1.2542000000000004,
-      "delta_fmt": "-36.3%"
+      "value": "2.17 ETH",
+      "raw": 2.1675,
+      "delta": -1.3763999999999998,
+      "delta_fmt": "-38.8%"
     },
     {
       "label": "7d Vol",
-      "value": "9.81 ETH",
-      "raw": 9.8109
+      "value": "8.71 ETH",
+      "raw": 8.7119
     },
     {
       "label": "30d Vol",
@@ -161,10 +141,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.5 ETH",
-      "raw": 37.46,
-      "delta": 0.060000000000002274,
-      "delta_fmt": "+0.06 ETH"
+      "value": "37.4 ETH",
+      "raw": 37.43,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +154,7 @@
     {
       "label": "#1 underscore",
       "value": "55.8M TDH",
-      "raw": 55774940,
-      "delta": 1842,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 55774940
     },
     {
       "label": "#1 Minotaur_Man",
