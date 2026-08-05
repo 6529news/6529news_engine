@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T21:31:43.220167+00:00",
+  "generated_at": "2026-08-05T22:42:11.265604+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "pandelic Leads with 63.7M Projected TDH",
-      "summary": "\"THE BUILDER\" by pandelic (63.7M projected TDH, 50 voters) | \"the_only_cloud\" by underscore (55.8M projected TDH, 73 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Fri Aug 07 at 17:00 CET.",
+      "headline": "pandelic Leads with 67.7M Projected TDH",
+      "summary": "\"THE BUILDER\" by pandelic (67.7M projected TDH, 52 voters) | \"the_only_cloud\" by underscore (55.8M projected TDH, 73 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Fri Aug 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "pandelic",
-          "value": "63.7M",
-          "sub": "proj. (50 votes)"
+          "value": "67.7M",
+          "sub": "proj. (52 votes)"
         },
         {
           "label": "underscore",
@@ -59,22 +59,12 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Baku (2.6M) | Bhare (2.5M).",
+      "headline": "1 New Memes Submission This Week",
+      "summary": "1 submissions this week. Ranking: Bhare (2.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_b567f3e4-e7d3-4ebd-9e7b-328d72294af2/c7ee478e-a7f7-454a-871f-308a54a98bff/Meme-Worthy-by-Baku.jpg",
-        "label": "Baku (2.6M)",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_b567f3e4-e7d3-4ebd-9e7b-328d72294af2/c7ee478e-a7f7-454a-871f-308a54a98bff/Meme-Worthy-by-Baku.jpg",
-          "label": "Baku (2.6M)",
-          "type": "image"
-        }
-      ],
+      "image": null,
+      "images": [],
       "dataBoxes": null
     },
     {
@@ -84,23 +74,28 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "48 Sales Today - 1.82 ETH Volume",
-      "summary": "48 sales in 24h for 1.82 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.480 ETH.",
+      "headline": "45 Sales Today - 2.19 ETH Volume",
+      "summary": "45 sales in 24h for 2.19 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.510 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-        "label": "The Tree of Knowledge of Good and Evil - 0.480 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
+        "label": "ALL YOUR BITCOIN - 0.510 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
+          "label": "ALL YOUR BITCOIN - 0.510 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
           "label": "The Tree of Knowledge of Good and Evil - 0.480 ETH",
@@ -110,28 +105,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
           "label": "SeizeJPGs - 0.221 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/431.WEBP",
-          "label": "Walk Into Freedom - 0.100 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "48",
+          "value": "45",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.82",
+          "value": "2.19",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.480",
-          "sub": "The Tree of Knowledg"
+          "value": "0.510",
+          "sub": "ALL YOUR BITCOIN"
         },
         {
           "label": "Floor",
@@ -144,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.82 ETH",
-      "raw": 1.8188,
-      "delta": -2.0469,
-      "delta_fmt": "-53.0%"
+      "value": "2.19 ETH",
+      "raw": 2.19,
+      "delta": -1.6497000000000002,
+      "delta_fmt": "-43.0%"
     },
     {
       "label": "7d Vol",
-      "value": "8.71 ETH",
-      "raw": 8.7119
+      "value": "9.27 ETH",
+      "raw": 9.2719
     },
     {
       "label": "30d Vol",
-      "value": "37.39 ETH",
-      "raw": 37.3907
+      "value": "37.95 ETH",
+      "raw": 37.9507
     },
     {
       "label": "Full Set Bid",
-      "value": "41.8 ETH",
-      "raw": 41.78,
-      "delta": 4.329999999999998,
-      "delta_fmt": "+4.33 ETH"
+      "value": "41.4 ETH",
+      "raw": 41.38,
+      "delta": -0.3999999999999986,
+      "delta_fmt": "-0.40 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,10 +163,10 @@
     },
     {
       "label": "#1 pandelic",
-      "value": "63.7M TDH",
-      "raw": 63732272,
-      "delta": 10048437,
-      "delta_fmt": "+10.0M TDH"
+      "value": "67.7M TDH",
+      "raw": 67701160,
+      "delta": 3968888,
+      "delta_fmt": "+4.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -486,7 +476,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #531: 121 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FULLY EXPOSED",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #531: 121 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FULLY EXPOSED"
   ]
 }
