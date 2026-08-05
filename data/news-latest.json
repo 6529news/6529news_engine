@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T20:07:47.343899+00:00",
+  "generated_at": "2026-08-05T21:31:43.220167+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,25 +30,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "underscore Leads with 55.8M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (55.8M projected TDH, 73 voters) | \"THE BUILDER\" by pandelic (52.3M projected TDH, 48 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Fri Aug 07 at 17:00 CET.",
+      "headline": "pandelic Leads with 63.7M Projected TDH",
+      "summary": "\"THE BUILDER\" by pandelic (63.7M projected TDH, 50 voters) | \"the_only_cloud\" by underscore (55.8M projected TDH, 73 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Fri Aug 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_367b7a4b-7108-45ea-b630-e84241b555f8/5dceeb9b-d715-43a8-b9a5-8e1929396e3c/the-only-cloud.gif",
-        "label": "the_only_cloud - underscore",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_b794cc91-a6e0-4434-807e-137973f2d095/18d2f64b-e322-4887-8e3a-b22ff31dea34/builder-card.png",
+        "label": "THE BUILDER - pandelic",
         "type": "image"
       },
       "dataBoxes": [
         {
+          "label": "pandelic",
+          "value": "63.7M",
+          "sub": "proj. (50 votes)"
+        },
+        {
           "label": "underscore",
           "value": "55.8M",
           "sub": "proj. (73 votes)"
-        },
-        {
-          "label": "pandelic",
-          "value": "52.3M",
-          "sub": "proj. (48 votes)"
         },
         {
           "label": "RalenArc",
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "49 Sales Today - 1.96 ETH Volume",
-      "summary": "49 sales in 24h for 1.96 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.480 ETH.",
+      "headline": "48 Sales Today - 1.82 ETH Volume",
+      "summary": "48 sales in 24h for 1.82 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.480 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,20 +112,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
-          "label": "rekt6529 - 0.139 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/431.WEBP",
+          "label": "Walk Into Freedom - 0.100 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "49",
+          "value": "48",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.96",
+          "value": "1.82",
           "sub": "ETH"
         },
         {
@@ -144,10 +144,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.96 ETH",
-      "raw": 1.9578,
-      "delta": -1.7958,
-      "delta_fmt": "-47.8%"
+      "value": "1.82 ETH",
+      "raw": 1.8188,
+      "delta": -2.0469,
+      "delta_fmt": "-53.0%"
     },
     {
       "label": "7d Vol",
@@ -161,15 +161,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.4 ETH",
-      "raw": 37.45,
-      "delta": 0.020000000000003126,
-      "delta_fmt": "+0.02 ETH"
+      "value": "41.8 ETH",
+      "raw": 41.78,
+      "delta": 4.329999999999998,
+      "delta_fmt": "+4.33 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1842.1M",
       "raw": 1842096043
+    },
+    {
+      "label": "#1 pandelic",
+      "value": "63.7M TDH",
+      "raw": 63732272,
+      "delta": 10048437,
+      "delta_fmt": "+10.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -479,7 +486,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #531: 121 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FULLY EXPOSED",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #531: 121 MINTS (EXCL. MUSEUM) | 84 HOLDERS | FULLY EXPOSED"
   ]
 }
