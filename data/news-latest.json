@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T08:07:58.876601+00:00",
+  "generated_at": "2026-08-05T10:46:05.224664+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e8c578ca-6585-4dfe-b65f-015f94a68430/5619385a-527c-42ae-a4c1-9b38e8368ddd/0-0-39-srcnn-photo-2x-copy.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/531.JPG",
         "label": "Fully Exposed - Bowo",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Minotaur_Man Leads with 65.2M Projected TDH",
-      "summary": "\"Zeus vs Typhon\" by Minotaur_Man (65.2M projected TDH, 89 voters) | \"the_only_cloud\" by underscore (55.7M projected TDH, 71 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Wed Aug 05 at 17:00 CET.",
+      "summary": "\"Zeus vs Typhon\" by Minotaur_Man (65.2M projected TDH, 90 voters) | \"the_only_cloud\" by underscore (55.7M projected TDH, 71 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Wed Aug 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Minotaur_Man",
           "value": "65.2M",
-          "sub": "proj. (89 votes)"
+          "sub": "proj. (90 votes)"
         },
         {
           "label": "underscore",
@@ -47,18 +47,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Bhare (2.5M) | Baku (1.6M).",
+      "summary": "2 submissions this week. Ranking: Bhare (2.5M) | Baku (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_b567f3e4-e7d3-4ebd-9e7b-328d72294af2/c7ee478e-a7f7-454a-871f-308a54a98bff/Meme-Worthy-by-Baku.jpg",
-        "label": "Baku (1.6M)",
+        "label": "Baku (1.7M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_b567f3e4-e7d3-4ebd-9e7b-328d72294af2/c7ee478e-a7f7-454a-871f-308a54a98bff/Meme-Worthy-by-Baku.jpg",
-          "label": "Baku (1.6M)",
+          "label": "Baku (1.7M)",
           "type": "image"
         }
       ],
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "42 Sales Today - 2.85 ETH Volume",
-      "summary": "42 sales in 24h for 2.85 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.480 ETH.",
+      "headline": "41 Sales Today - 2.85 ETH Volume",
+      "summary": "41 sales in 24h for 2.85 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.480 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,7 +107,7 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "42",
+          "value": "41",
           "sub": ""
         },
         {
@@ -132,26 +132,26 @@
     {
       "label": "24h Vol",
       "value": "2.85 ETH",
-      "raw": 2.8508,
-      "delta": 0.3410000000000002,
-      "delta_fmt": "+13.6%"
+      "raw": 2.8495,
+      "delta": 0.3134000000000001,
+      "delta_fmt": "+12.4%"
     },
     {
       "label": "7d Vol",
-      "value": "9.92 ETH",
-      "raw": 9.919
+      "value": "10.06 ETH",
+      "raw": 10.059
     },
     {
       "label": "30d Vol",
-      "value": "36.62 ETH",
-      "raw": 36.6212
+      "value": "36.76 ETH",
+      "raw": 36.7612
     },
     {
       "label": "Full Set Bid",
-      "value": "40.5 ETH",
-      "raw": 40.54,
-      "delta": -1.1300000000000026,
-      "delta_fmt": "-1.13 ETH"
+      "value": "39.2 ETH",
+      "raw": 39.22,
+      "delta": -1.3200000000000003,
+      "delta_fmt": "-1.32 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,8 +161,8 @@
     {
       "label": "#1 Minotaur_Man",
       "value": "65.2M TDH",
-      "raw": 65168842,
-      "delta": 24032,
+      "raw": 65179276,
+      "delta": 10434,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -468,7 +468,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #530: 219 MINTS (EXCL. MUSEUM) | 97 HOLDERS | MAKE IT COUNT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #531: 111 MINTS (EXCL. MUSEUM) | 75 HOLDERS | FULLY EXPOSED"
   ]
 }
