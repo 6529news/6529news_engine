@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T12:18:46.236694+00:00",
+  "generated_at": "2026-08-06T14:52:54.221673+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "pandelic Leads with 78.5M Projected TDH",
-      "summary": "\"THE BUILDER\" by pandelic (78.5M projected TDH, 64 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 74 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Fri Aug 07 at 17:00 CET.",
+      "summary": "\"THE BUILDER\" by pandelic (78.5M projected TDH, 66 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 74 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Fri Aug 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "pandelic",
           "value": "78.5M",
-          "sub": "proj. (64 votes)"
+          "sub": "proj. (66 votes)"
         },
         {
           "label": "underscore",
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "41 Sales Today - 1.37 ETH Volume",
-      "summary": "41 sales in 24h for 1.37 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.510 ETH.",
+      "headline": "40 Sales Today - 1.31 ETH Volume",
+      "summary": "40 sales in 24h for 1.31 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.510 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "41",
+          "value": "40",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.37",
+          "value": "1.31",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0182647",
+          "value": "0.01815764",
           "sub": "ETH"
         }
       ]
@@ -134,15 +134,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.37 ETH",
-      "raw": 1.3705,
-      "delta": -0.7510999999999999,
-      "delta_fmt": "-35.4%"
+      "value": "1.31 ETH",
+      "raw": 1.3115,
+      "delta": -1.0631,
+      "delta_fmt": "-44.8%"
     },
     {
       "label": "7d Vol",
-      "value": "9.41 ETH",
-      "raw": 9.4109
+      "value": "9.03 ETH",
+      "raw": 9.0343
     },
     {
       "label": "30d Vol",
@@ -151,10 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.0 ETH",
-      "raw": 38.01,
-      "delta": -0.740000000000002,
-      "delta_fmt": "-0.74 ETH"
+      "value": "41.4 ETH",
+      "raw": 41.43,
+      "delta": 3.4200000000000017,
+      "delta_fmt": "+3.42 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +164,9 @@
     {
       "label": "#1 pandelic",
       "value": "78.5M TDH",
-      "raw": 78457440,
-      "delta": 586789,
-      "delta_fmt": "+0.6M TDH"
+      "raw": 78463607,
+      "delta": 6167,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -476,7 +476,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #531: 122 MINTS (EXCL. MUSEUM) | 85 HOLDERS | FULLY EXPOSED",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #531: 122 MINTS (EXCL. MUSEUM) | 85 HOLDERS | FULLY EXPOSED"
   ]
 }
