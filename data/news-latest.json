@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:23:09.067138+00:00",
+  "generated_at": "2026-08-07T18:11:26.570292+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "underscore Leads with 56.9M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (56.9M projected TDH, 74 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (34.0M projected TDH, 50 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "headline": "underscore Leads with 57.0M Projected TDH",
+      "summary": "\"the_only_cloud\" by underscore (57.0M projected TDH, 76 voters) | \"The King Must Fall\" by josenarciso (37.5M projected TDH, 83 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,18 +42,18 @@
       "dataBoxes": [
         {
           "label": "underscore",
-          "value": "56.9M",
-          "sub": "proj. (74 votes)"
+          "value": "57.0M",
+          "sub": "proj. (76 votes)"
+        },
+        {
+          "label": "josenarciso",
+          "value": "37.5M",
+          "sub": "proj. (83 votes)"
         },
         {
           "label": "RalenArc",
           "value": "36.9M",
           "sub": "proj. (73 votes)"
-        },
-        {
-          "label": "Jedi69",
-          "value": "34.0M",
-          "sub": "proj. (50 votes)"
         }
       ]
     },
@@ -115,7 +115,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01676586",
+          "value": "0.0166588",
           "sub": "ETH"
         }
       ]
@@ -131,8 +131,8 @@
     },
     {
       "label": "7d Vol",
-      "value": "10.15 ETH",
-      "raw": 10.1464
+      "value": "9.52 ETH",
+      "raw": 9.5184
     },
     {
       "label": "30d Vol",
@@ -142,8 +142,8 @@
     {
       "label": "Full Set Bid",
       "value": "41.1 ETH",
-      "raw": 41.13,
-      "delta": 0.010000000000005116,
+      "raw": 41.14,
+      "delta": 0.00999999999999801,
       "delta_fmt": "+0.01 ETH"
     },
     {
@@ -153,8 +153,10 @@
     },
     {
       "label": "#1 underscore",
-      "value": "56.9M TDH",
-      "raw": 56918000
+      "value": "57.0M TDH",
+      "raw": 56954712,
+      "delta": 36712,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 pandelic",
@@ -466,7 +468,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 130 MINTS (EXCL. MUSEUM) | 101 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 131 MINTS (EXCL. MUSEUM) | 102 HOLDERS | ZEUS VS TYPHON"
   ]
 }
