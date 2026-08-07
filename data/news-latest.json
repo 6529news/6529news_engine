@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:13:03.239833+00:00",
+  "generated_at": "2026-08-07T11:08:47.597390+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_7c8c55e7-1fd7-456c-8003-2e0e519d6366/833cf440-10af-4449-ba0a-7b3a8fdda6c1/Zeus-vs-Typhon-digital-2026-Paul-Reid.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/532.JPG",
         "label": "Zeus vs Typhon - Minotaur_Man",
         "type": "image"
       },
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "pandelic Leads with 79.8M Projected TDH",
-      "summary": "\"THE BUILDER\" by pandelic (79.8M projected TDH, 73 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 75 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Fri Aug 07 at 17:00 CET.",
+      "headline": "pandelic Leads with 79.9M Projected TDH",
+      "summary": "\"THE BUILDER\" by pandelic (79.9M projected TDH, 74 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 75 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Fri Aug 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "pandelic",
-          "value": "79.8M",
-          "sub": "proj. (73 votes)"
+          "value": "79.9M",
+          "sub": "proj. (74 votes)"
         },
         {
           "label": "underscore",
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -122,26 +122,26 @@
     {
       "label": "24h Vol",
       "value": "1.22 ETH",
-      "raw": 1.2208,
-      "delta": -0.0807,
+      "raw": 1.2206,
+      "delta": -0.0809000000000002,
       "delta_fmt": "-6.2%"
     },
     {
       "label": "7d Vol",
       "value": "9.99 ETH",
-      "raw": 9.9918
+      "raw": 9.9908
     },
     {
       "label": "30d Vol",
       "value": "37.48 ETH",
-      "raw": 37.4841
+      "raw": 37.4802
     },
     {
       "label": "Full Set Bid",
       "value": "41.4 ETH",
-      "raw": 41.41,
-      "delta": 0.02999999999999403,
-      "delta_fmt": "+0.03 ETH"
+      "raw": 41.36,
+      "delta": -0.04999999999999716,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -150,10 +150,10 @@
     },
     {
       "label": "#1 pandelic",
-      "value": "79.8M TDH",
-      "raw": 79786345,
-      "delta": 2093,
-      "delta_fmt": "+0.0M TDH"
+      "value": "79.9M TDH",
+      "raw": 79935875,
+      "delta": 149530,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 underscore",
@@ -463,7 +463,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #531: 122 MINTS (EXCL. MUSEUM) | 85 HOLDERS | FULLY EXPOSED",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 113 MINTS (EXCL. MUSEUM) | 77 HOLDERS | ZEUS VS TYPHON"
   ]
 }
