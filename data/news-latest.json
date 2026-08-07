@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T08:00:54.792098+00:00",
+  "generated_at": "2026-08-07T09:14:48.061891+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 1.11 ETH Volume",
-      "summary": "11 sales in 24h for 1.11 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.440 ETH.",
+      "headline": "12 Sales Today - 1.27 ETH Volume",
+      "summary": "12 sales in 24h for 1.27 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.440 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.11",
+          "value": "1.27",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.11 ETH",
-      "raw": 1.107,
-      "delta": -0.3345,
-      "delta_fmt": "-23.2%"
+      "value": "1.27 ETH",
+      "raw": 1.272,
+      "delta": -0.02950000000000008,
+      "delta_fmt": "-2.3%"
     },
     {
       "label": "7d Vol",
-      "value": "9.81 ETH",
-      "raw": 9.8081
+      "value": "9.97 ETH",
+      "raw": 9.9731
     },
     {
       "label": "30d Vol",
-      "value": "37.30 ETH",
-      "raw": 37.2975
+      "value": "37.46 ETH",
+      "raw": 37.4625
     },
     {
       "label": "Full Set Bid",
       "value": "41.4 ETH",
-      "raw": 41.38,
-      "delta": 0.010000000000005116,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 41.38
     },
     {
       "label": "Network TDH",
@@ -151,8 +149,8 @@
     {
       "label": "#1 pandelic",
       "value": "79.8M TDH",
-      "raw": 79774057,
-      "delta": 2417,
+      "raw": 79784252,
+      "delta": 10195,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -463,7 +461,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #531: 122 MINTS (EXCL. MUSEUM) | 85 HOLDERS | FULLY EXPOSED",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #531: 122 MINTS (EXCL. MUSEUM) | 85 HOLDERS | FULLY EXPOSED"
   ]
 }
