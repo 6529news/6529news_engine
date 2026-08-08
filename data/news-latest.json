@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:01:59.241159+00:00",
+  "generated_at": "2026-08-08T08:59:40.406421+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,25 +30,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "underscore Leads with 57.1M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (57.1M projected TDH, 76 voters) | \"The King Must Fall\" by josenarciso (56.6M projected TDH, 87 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "headline": "josenarciso Leads with 59.1M Projected TDH",
+      "summary": "\"The King Must Fall\" by josenarciso (59.1M projected TDH, 87 voters) | \"the_only_cloud\" by underscore (57.5M projected TDH, 76 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_367b7a4b-7108-45ea-b630-e84241b555f8/5dceeb9b-d715-43a8-b9a5-8e1929396e3c/the-only-cloud.gif",
-        "label": "the_only_cloud - underscore",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_806c47b1-dba9-4c04-bea1-323796655d57/92ad11d4-ba8f-4383-92cc-29507386b6e9/mfer-HERMENEUTICS-11.png",
+        "label": "The King Must Fall - josenarciso",
         "type": "image"
       },
       "dataBoxes": [
         {
-          "label": "underscore",
-          "value": "57.1M",
-          "sub": "proj. (76 votes)"
+          "label": "josenarciso",
+          "value": "59.1M",
+          "sub": "proj. (87 votes)"
         },
         {
-          "label": "josenarciso",
-          "value": "56.6M",
-          "sub": "proj. (87 votes)"
+          "label": "underscore",
+          "value": "57.5M",
+          "sub": "proj. (76 votes)"
         },
         {
           "label": "RalenArc",
@@ -79,33 +79,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
       "headline": "19 Sales Today - 0.89 ETH Volume",
-      "summary": "19 sales in 24h for 0.89 ETH. Highest: \"6529Seizing\" at 0.165 ETH.",
+      "summary": "19 sales in 24h for 0.89 ETH. Highest: \"What's Ded May Never Die\" at 0.088 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-        "label": "6529Seizing - 0.165 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/439.WEBP",
+        "label": "What's Ded May Never Die - 0.088 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.165 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/439.WEBP",
           "label": "What's Ded May Never Die - 0.088 ETH",
@@ -114,6 +109,11 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/249.WEBP",
           "label": "In Spite of Hardship - 0.071 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/205.WEBP",
+          "label": "Allegory of a Meme - 0.070 ETH",
           "type": "image"
         }
       ],
@@ -130,8 +130,8 @@
         },
         {
           "label": "Top Sale",
-          "value": "0.165",
-          "sub": "6529Seizing"
+          "value": "0.088",
+          "sub": "What's Ded May Never"
         },
         {
           "label": "Floor",
@@ -146,8 +146,8 @@
       "label": "24h Vol",
       "value": "0.89 ETH",
       "raw": 0.8939,
-      "delta": -0.21309999999999996,
-      "delta_fmt": "-19.3%"
+      "delta": -0.3781,
+      "delta_fmt": "-29.7%"
     },
     {
       "label": "7d Vol",
@@ -162,14 +162,19 @@
     {
       "label": "Full Set Bid",
       "value": "41.0 ETH",
-      "raw": 40.96,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "raw": 40.96
     },
     {
       "label": "Network TDH",
       "value": "1849.8M",
       "raw": 1849842128
+    },
+    {
+      "label": "#1 josenarciso",
+      "value": "59.1M TDH",
+      "raw": 59094012,
+      "delta": 5410177,
+      "delta_fmt": "+5.4M TDH"
     },
     {
       "label": "#1 underscore",
@@ -486,7 +491,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 139 MINTS (EXCL. MUSEUM) | 109 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 139 MINTS (EXCL. MUSEUM) | 109 HOLDERS | ZEUS VS TYPHON"
   ]
 }
