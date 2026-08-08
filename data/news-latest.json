@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:59:19.953590+00:00",
+  "generated_at": "2026-08-08T18:50:11.425941+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "josenarciso Leads with 60.5M Projected TDH",
-      "summary": "\"The King Must Fall\" by josenarciso (60.5M projected TDH, 89 voters) | \"the_only_cloud\" by underscore (56.4M projected TDH, 77 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (33.4M projected TDH, 52 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "headline": "josenarciso Leads with 69.5M Projected TDH",
+      "summary": "\"The King Must Fall\" by josenarciso (69.5M projected TDH, 90 voters) | \"the_only_cloud\" by underscore (56.4M projected TDH, 77 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (33.4M projected TDH, 52 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "josenarciso",
-          "value": "60.5M",
-          "sub": "proj. (89 votes)"
+          "value": "69.5M",
+          "sub": "proj. (90 votes)"
         },
         {
           "label": "underscore",
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "62 Sales Today - 3.25 ETH Volume",
-      "summary": "62 sales in 24h for 3.25 ETH. Highest: \"The Socially Umpired Animals\" at 0.420 ETH.",
+      "headline": "63 Sales Today - 3.29 ETH Volume",
+      "summary": "63 sales in 24h for 3.29 ETH. Highest: \"The Socially Umpired Animals\" at 0.420 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "62",
+          "value": "63",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.25",
+          "value": "3.29",
           "sub": "ETH"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01548114",
+          "value": "0.01537408",
           "sub": "ETH"
         }
       ]
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.25 ETH",
-      "raw": 3.2534,
-      "delta": 1.9706000000000001,
-      "delta_fmt": "+153.6%"
+      "value": "3.29 ETH",
+      "raw": 3.2895,
+      "delta": 2.0067,
+      "delta_fmt": "+156.4%"
     },
     {
       "label": "7d Vol",
-      "value": "12.14 ETH",
-      "raw": 12.1357
+      "value": "12.15 ETH",
+      "raw": 12.1517
     },
     {
       "label": "30d Vol",
-      "value": "40.22 ETH",
-      "raw": 40.2187
+      "value": "40.25 ETH",
+      "raw": 40.2548
     },
     {
       "label": "Full Set Bid",
       "value": "36.2 ETH",
-      "raw": 36.25,
-      "delta": 0.04999999999999716,
-      "delta_fmt": "+0.05 ETH"
+      "raw": 36.22,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -165,8 +165,10 @@
     },
     {
       "label": "#1 josenarciso",
-      "value": "60.5M TDH",
-      "raw": 60482277
+      "value": "69.5M TDH",
+      "raw": 69484188,
+      "delta": 9001911,
+      "delta_fmt": "+9.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -483,7 +485,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON"
   ]
 }
