@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:27:21.306448+00:00",
+  "generated_at": "2026-08-08T23:55:53.763581+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "josenarciso Leads with 63.8M Projected TDH",
-      "summary": "\"The King Must Fall\" by josenarciso (63.8M projected TDH, 90 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 78 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (33.4M projected TDH, 52 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "summary": "\"The King Must Fall\" by josenarciso (63.8M projected TDH, 90 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (33.7M projected TDH, 11 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -38,29 +38,24 @@
           "sub": "proj. (78 votes)"
         },
         {
-          "label": "Jedi69",
-          "value": "33.4M",
-          "sub": "proj. (52 votes)"
+          "label": "desolalasisi",
+          "value": "33.7M",
+          "sub": "proj. (11 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: desolalasisi (33.7M) | Jaen (8.4M) | CasaNUA (4.9M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: Jaen (8.4M) | CasaNUA (4.9M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_29a64658-b85b-4d34-96e8-11b12f1b28d3/a251e11a-62d6-4e9a-b63c-2ee4a22b114f/Terms-and-Conditions.png",
-        "label": "desolalasisi (33.7M)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3940d33a-702f-47be-8b00-0c3fa518d22a/4715aac2-8015-4940-8589-77f8fd8405f6.mp4",
+        "label": "Jaen (8.4M)",
+        "type": "video"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_29a64658-b85b-4d34-96e8-11b12f1b28d3/a251e11a-62d6-4e9a-b63c-2ee4a22b114f/Terms-and-Conditions.png",
-          "label": "desolalasisi (33.7M)",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3940d33a-702f-47be-8b00-0c3fa518d22a/4715aac2-8015-4940-8589-77f8fd8405f6.mp4",
           "label": "Jaen (8.4M)",
@@ -76,13 +71,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -143,8 +138,8 @@
       "label": "24h Vol",
       "value": "3.09 ETH",
       "raw": 3.0919,
-      "delta": 2.133,
-      "delta_fmt": "+222.4%"
+      "delta": 2.121,
+      "delta_fmt": "+218.5%"
     },
     {
       "label": "7d Vol",
@@ -159,9 +154,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.3 ETH",
-      "raw": 40.34,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 40.3,
+      "delta": -0.04000000000000625,
+      "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -488,7 +483,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON"
   ]
 }
