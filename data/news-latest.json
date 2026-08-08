@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:58:23.003887+00:00",
+  "generated_at": "2026-08-08T02:07:09.082063+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "underscore Leads with 57.0M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (57.0M projected TDH, 76 voters) | \"The King Must Fall\" by josenarciso (46.7M projected TDH, 86 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "headline": "underscore Leads with 57.1M Projected TDH",
+      "summary": "\"the_only_cloud\" by underscore (57.1M projected TDH, 76 voters) | \"The King Must Fall\" by josenarciso (51.7M projected TDH, 86 voters) | \"Cycle of Creation\" by RalenArc (36.9M projected TDH, 73 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,12 +42,12 @@
       "dataBoxes": [
         {
           "label": "underscore",
-          "value": "57.0M",
+          "value": "57.1M",
           "sub": "proj. (76 votes)"
         },
         {
           "label": "josenarciso",
-          "value": "46.7M",
+          "value": "51.7M",
           "sub": "proj. (86 votes)"
         },
         {
@@ -58,14 +58,34 @@
       ]
     },
     {
+      "category": "NEW MEMES SUBMISSIONS",
+      "headline": "1 New Memes Submission This Week",
+      "summary": "1 submissions this week. Ranking: Jaen (7.8M).",
+      "source": "Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3940d33a-702f-47be-8b00-0c3fa518d22a/4715aac2-8015-4940-8589-77f8fd8405f6.mp4",
+        "label": "Jaen (7.8M)",
+        "type": "video"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3940d33a-702f-47be-8b00-0c3fa518d22a/4715aac2-8015-4940-8589-77f8fd8405f6.mp4",
+          "label": "Jaen (7.8M)",
+          "type": "video"
+        }
+      ],
+      "dataBoxes": null
+    },
+    {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
@@ -115,7 +135,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01633762",
+          "value": "0.01623056",
           "sub": "ETH"
         }
       ]
@@ -126,8 +146,8 @@
       "label": "24h Vol",
       "value": "0.97 ETH",
       "raw": 0.9709,
-      "delta": -0.17109999999999992,
-      "delta_fmt": "-15.0%"
+      "delta": -0.1211000000000001,
+      "delta_fmt": "-11.1%"
     },
     {
       "label": "7d Vol",
@@ -136,25 +156,29 @@
     },
     {
       "label": "30d Vol",
-      "value": "38.19 ETH",
-      "raw": 38.1914
+      "value": "37.41 ETH",
+      "raw": 37.4103
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.94,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "41.0 ETH",
+      "raw": 40.98,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1847.0M",
-      "raw": 1847040014
+      "value": "1849.8M",
+      "raw": 1849842128,
+      "delta": 2802114,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 underscore",
-      "value": "57.0M TDH",
-      "raw": 56954712
+      "value": "57.1M TDH",
+      "raw": 57115028,
+      "delta": 160316,
+      "delta_fmt": "+0.2M TDH"
     },
     {
       "label": "#1 pandelic",
@@ -466,7 +490,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 138 MINTS (EXCL. MUSEUM) | 108 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 138 MINTS (EXCL. MUSEUM) | 108 HOLDERS | ZEUS VS TYPHON"
   ]
 }
