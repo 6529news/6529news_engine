@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:45:03.618411+00:00",
+  "generated_at": "2026-08-08T16:12:31.685185+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "josenarciso Leads with 60.7M Projected TDH",
-      "summary": "\"The King Must Fall\" by josenarciso (60.7M projected TDH, 88 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 77 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (34.0M projected TDH, 52 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "summary": "\"The King Must Fall\" by josenarciso (60.7M projected TDH, 89 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 77 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (34.0M projected TDH, 52 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "josenarciso",
           "value": "60.7M",
-          "sub": "proj. (88 votes)"
+          "sub": "proj. (89 votes)"
         },
         {
           "label": "underscore",
@@ -47,18 +47,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: Jaen (7.9M).",
+      "summary": "1 submissions this week. Ranking: Jaen (8.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3940d33a-702f-47be-8b00-0c3fa518d22a/4715aac2-8015-4940-8589-77f8fd8405f6.mp4",
-        "label": "Jaen (7.9M)",
+        "label": "Jaen (8.4M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3940d33a-702f-47be-8b00-0c3fa518d22a/4715aac2-8015-4940-8589-77f8fd8405f6.mp4",
-          "label": "Jaen (7.9M)",
+          "label": "Jaen (8.4M)",
           "type": "video"
         }
       ],
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0155882",
+          "value": "0.01548114",
           "sub": "ETH"
         }
       ]
@@ -133,8 +133,8 @@
       "label": "24h Vol",
       "value": "3.23 ETH",
       "raw": 3.2287,
-      "delta": 1.7671999999999999,
-      "delta_fmt": "+120.9%"
+      "delta": 1.8346,
+      "delta_fmt": "+131.6%"
     },
     {
       "label": "7d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "36.5 ETH",
-      "raw": 36.54,
-      "delta": -0.060000000000002274,
-      "delta_fmt": "-0.06 ETH"
+      "value": "36.4 ETH",
+      "raw": 36.38,
+      "delta": -0.1599999999999966,
+      "delta_fmt": "-0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,8 +161,8 @@
     {
       "label": "#1 josenarciso",
       "value": "60.7M TDH",
-      "raw": 60655858,
-      "delta": 1000,
+      "raw": 60659798,
+      "delta": 3940,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -480,7 +480,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON"
   ]
 }
