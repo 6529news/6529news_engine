@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:57:17.332766+00:00",
+  "generated_at": "2026-08-08T14:36:08.612036+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "josenarciso Leads with 60.7M Projected TDH",
-      "summary": "\"The King Must Fall\" by josenarciso (60.7M projected TDH, 87 voters) | \"the_only_cloud\" by underscore (57.5M projected TDH, 77 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (34.0M projected TDH, 52 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "summary": "\"The King Must Fall\" by josenarciso (60.7M projected TDH, 87 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 77 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (34.0M projected TDH, 52 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,7 +47,7 @@
         },
         {
           "label": "underscore",
-          "value": "57.5M",
+          "value": "56.5M",
           "sub": "proj. (77 votes)"
         },
         {
@@ -91,8 +91,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "63 Sales Today - 3.25 ETH Volume",
-      "summary": "63 sales in 24h for 3.25 ETH. Highest: \"The Socially Umpired Animals\" at 0.420 ETH.",
+      "headline": "64 Sales Today - 3.27 ETH Volume",
+      "summary": "64 sales in 24h for 3.27 ETH. Highest: \"The Socially Umpired Animals\" at 0.420 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "63",
+          "value": "64",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.25",
+          "value": "3.27",
           "sub": "ETH"
         },
         {
@@ -135,7 +135,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01569526",
+          "value": "0.0155882",
           "sub": "ETH"
         }
       ]
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.25 ETH",
-      "raw": 3.2502,
-      "delta": 1.8287,
-      "delta_fmt": "+128.6%"
+      "value": "3.27 ETH",
+      "raw": 3.2687,
+      "delta": 1.8472,
+      "delta_fmt": "+129.9%"
     },
     {
       "label": "7d Vol",
-      "value": "12.07 ETH",
-      "raw": 12.0672
+      "value": "12.09 ETH",
+      "raw": 12.0857
     },
     {
       "label": "30d Vol",
-      "value": "40.15 ETH",
-      "raw": 40.1501
+      "value": "40.17 ETH",
+      "raw": 40.1687
     },
     {
       "label": "Full Set Bid",
-      "value": "36.3 ETH",
-      "raw": 36.35,
-      "delta": -0.05999999999999517,
-      "delta_fmt": "-0.06 ETH"
+      "value": "36.4 ETH",
+      "raw": 36.38,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -491,7 +491,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON"
   ]
 }
