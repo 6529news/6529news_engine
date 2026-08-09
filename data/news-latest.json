@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T12:52:59.544018+00:00",
+  "generated_at": "2026-08-09T13:49:14.968667+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "josenarciso Leads with 64.0M Projected TDH",
-      "summary": "\"The King Must Fall\" by josenarciso (64.0M projected TDH, 93 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (35.4M projected TDH, 19 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "summary": "\"The King Must Fall\" by josenarciso (64.0M projected TDH, 93 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (35.4M projected TDH, 20 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "desolalasisi",
           "value": "35.4M",
-          "sub": "proj. (19 votes)"
+          "sub": "proj. (20 votes)"
         }
       ]
     },
@@ -154,9 +154,7 @@
     {
       "label": "Full Set Bid",
       "value": "41.0 ETH",
-      "raw": 40.98,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "raw": 40.98
     },
     {
       "label": "Network TDH",
@@ -483,7 +481,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON"
   ]
 }
