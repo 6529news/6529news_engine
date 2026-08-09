@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:54:29.025224+00:00",
+  "generated_at": "2026-08-09T07:53:17.108455+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "josenarciso Leads with 64.0M Projected TDH",
-      "summary": "\"The King Must Fall\" by josenarciso (64.0M projected TDH, 92 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (35.4M projected TDH, 15 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "summary": "\"The King Must Fall\" by josenarciso (64.0M projected TDH, 92 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (35.4M projected TDH, 16 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,14 +40,14 @@
         {
           "label": "desolalasisi",
           "value": "35.4M",
-          "sub": "proj. (15 votes)"
+          "sub": "proj. (16 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Jaen (8.4M) | CasaNUA (4.9M).",
+      "summary": "2 submissions this week. Ranking: Jaen (8.4M) | CasaNUA (5.0M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -63,7 +63,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/e3ac5f7c-d458-4320-901f-b86d7ddaf656/Keys-Gates-memecard-Vid-Final.mp4",
-          "label": "CasaNUA (4.9M)",
+          "label": "CasaNUA (5.0M)",
           "type": "video"
         }
       ],
@@ -71,14 +71,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
+        "type": "image"
       }
     },
     {
@@ -143,8 +143,8 @@
     },
     {
       "label": "7d Vol",
-      "value": "12.53 ETH",
-      "raw": 12.5304
+      "value": "12.50 ETH",
+      "raw": 12.4955
     },
     {
       "label": "30d Vol",
@@ -154,9 +154,9 @@
     {
       "label": "Full Set Bid",
       "value": "40.4 ETH",
-      "raw": 40.43,
-      "delta": 0.10000000000000142,
-      "delta_fmt": "+0.10 ETH"
+      "raw": 40.44,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,9 +166,7 @@
     {
       "label": "#1 josenarciso",
       "value": "64.0M TDH",
-      "raw": 63954402,
-      "delta": 2,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 63954402
     },
     {
       "label": "#1 underscore",
@@ -485,7 +483,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON"
   ]
 }
