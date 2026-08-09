@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:56:43.064574+00:00",
+  "generated_at": "2026-08-09T20:36:10.675544+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "josenarciso Leads with 64.0M Projected TDH",
-      "summary": "\"The King Must Fall\" by josenarciso (64.0M projected TDH, 96 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (35.8M projected TDH, 23 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "summary": "\"The King Must Fall\" by josenarciso (64.0M projected TDH, 97 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (35.8M projected TDH, 23 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "josenarciso",
           "value": "64.0M",
-          "sub": "proj. (96 votes)"
+          "sub": "proj. (97 votes)"
         },
         {
           "label": "underscore",
@@ -138,8 +138,8 @@
       "label": "24h Vol",
       "value": "1.18 ETH",
       "raw": 1.183,
-      "delta": -2.0888999999999998,
-      "delta_fmt": "-63.8%"
+      "delta": -2.0179,
+      "delta_fmt": "-63.0%"
     },
     {
       "label": "7d Vol",
@@ -154,9 +154,7 @@
     {
       "label": "Full Set Bid",
       "value": "41.3 ETH",
-      "raw": 41.3,
-      "delta": -0.010000000000005116,
-      "delta_fmt": "-0.01 ETH"
+      "raw": 41.3
     },
     {
       "label": "Network TDH",
@@ -166,7 +164,9 @@
     {
       "label": "#1 josenarciso",
       "value": "64.0M TDH",
-      "raw": 64040020
+      "raw": 64042479,
+      "delta": 2459,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -483,7 +483,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON"
   ]
 }
