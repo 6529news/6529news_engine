@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:07:03.225433+00:00",
+  "generated_at": "2026-08-09T15:46:15.617117+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "josenarciso Leads with 64.0M Projected TDH",
-      "summary": "\"The King Must Fall\" by josenarciso (64.0M projected TDH, 95 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (35.8M projected TDH, 22 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "summary": "\"The King Must Fall\" by josenarciso (64.0M projected TDH, 96 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (35.8M projected TDH, 22 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "josenarciso",
           "value": "64.0M",
-          "sub": "proj. (95 votes)"
+          "sub": "proj. (96 votes)"
         },
         {
           "label": "underscore",
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.11 ETH Volume",
-      "summary": "23 sales in 24h for 1.11 ETH. Highest: \"SeizeJPGs\" at 0.250 ETH.",
+      "headline": "24 Sales Today - 1.18 ETH Volume",
+      "summary": "24 sales in 24h for 1.18 ETH. Highest: \"SeizeJPGs\" at 0.250 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.11",
+          "value": "1.18",
           "sub": "ETH"
         },
         {
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.11 ETH",
-      "raw": 1.1141,
-      "delta": -2.1546,
-      "delta_fmt": "-65.9%"
+      "value": "1.18 ETH",
+      "raw": 1.1831,
+      "delta": -2.0456,
+      "delta_fmt": "-63.4%"
     },
     {
       "label": "7d Vol",
-      "value": "13.00 ETH",
-      "raw": 12.9963
+      "value": "13.07 ETH",
+      "raw": 13.0653
     },
     {
       "label": "30d Vol",
-      "value": "40.62 ETH",
-      "raw": 40.6179
+      "value": "40.69 ETH",
+      "raw": 40.6869
     },
     {
       "label": "Full Set Bid",
       "value": "41.0 ETH",
-      "raw": 41.02,
-      "delta": 0.04000000000000625,
-      "delta_fmt": "+0.04 ETH"
+      "raw": 41.03,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,9 +166,9 @@
     {
       "label": "#1 josenarciso",
       "value": "64.0M TDH",
-      "raw": 63962753,
-      "delta": 7000,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 64017178,
+      "delta": 54425,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 underscore",
@@ -485,7 +485,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON"
   ]
 }
