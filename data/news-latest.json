@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:12:55.511692+00:00",
+  "generated_at": "2026-08-09T21:49:18.104669+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "josenarciso Leads with 64.0M Projected TDH",
-      "summary": "\"The King Must Fall\" by josenarciso (64.0M projected TDH, 97 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (51.7M projected TDH, 24 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "summary": "\"The King Must Fall\" by josenarciso (64.0M projected TDH, 97 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (51.7M projected TDH, 25 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "desolalasisi",
           "value": "51.7M",
-          "sub": "proj. (24 votes)"
+          "sub": "proj. (25 votes)"
         }
       ]
     },
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 1.18 ETH Volume",
-      "summary": "25 sales in 24h for 1.18 ETH. Highest: \"SeizeJPGs\" at 0.250 ETH.",
+      "headline": "20 Sales Today - 1.04 ETH Volume",
+      "summary": "20 sales in 24h for 1.04 ETH. Highest: \"SeizeJPGs\" at 0.250 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.18",
+          "value": "1.04",
           "sub": "ETH"
         },
         {
@@ -136,10 +136,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.18 ETH",
-      "raw": 1.183,
-      "delta": -2.0179,
-      "delta_fmt": "-63.0%"
+      "value": "1.04 ETH",
+      "raw": 1.0361,
+      "delta": -2.0092999999999996,
+      "delta_fmt": "-66.0%"
     },
     {
       "label": "7d Vol",
@@ -154,9 +154,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.3 ETH",
-      "raw": 41.31,
-      "delta": 0.010000000000005116,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 41.3,
+      "delta": -0.010000000000005116,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -483,7 +483,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON"
   ]
 }
