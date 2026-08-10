@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T22:48:00.293261+00:00",
+  "generated_at": "2026-08-10T23:33:46.827410+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"THE BUILDER\" by pandelic \u2014 80.5M TDH from 76 voters. Top supporter: david (9.0M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"THE BUILDER\" by pandelic \u2014 80.5M TDH from 76 voters. Top supporter: david (9.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -84,13 +84,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -151,8 +151,8 @@
       "label": "24h Vol",
       "value": "1.47 ETH",
       "raw": 1.4724,
-      "delta": 0.4362999999999999,
-      "delta_fmt": "+42.1%"
+      "delta": 0.399,
+      "delta_fmt": "+37.2%"
     },
     {
       "label": "7d Vol",
@@ -167,9 +167,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.7 ETH",
-      "raw": 41.68,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 41.72,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,9 +179,7 @@
     {
       "label": "#1 desolalasisi",
       "value": "72.8M TDH",
-      "raw": 72812262,
-      "delta": 9116875,
-      "delta_fmt": "+9.1M TDH"
+      "raw": 72812262
     },
     {
       "label": "#1 underscore",
@@ -498,7 +496,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #533: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE BUILDER",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #533: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE BUILDER"
   ]
 }
