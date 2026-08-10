@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:11:32.950635+00:00",
+  "generated_at": "2026-08-10T11:59:22.423841+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 1.53 ETH Volume",
-      "summary": "22 sales in 24h for 1.53 ETH. Highest: \"SeizeJPGs\" at 0.250 ETH.",
+      "headline": "24 Sales Today - 1.73 ETH Volume",
+      "summary": "24 sales in 24h for 1.73 ETH. Highest: \"SeizeJPGs\" at 0.250 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -99,25 +99,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.180 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+          "label": "AUTONOMY.EXE - 0.190 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/309.GIF",
-          "label": "ENDLESS \u00b7 SUMMER - 0.140 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
+          "label": "6529Seizing - 0.180 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "22",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.53",
+          "value": "1.73",
           "sub": "ETH"
         },
         {
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.53 ETH",
-      "raw": 1.5296,
-      "delta": -1.8701,
-      "delta_fmt": "-55.0%"
+      "value": "1.73 ETH",
+      "raw": 1.7346,
+      "delta": 0.6929999999999998,
+      "delta_fmt": "+66.5%"
     },
     {
       "label": "7d Vol",
-      "value": "13.69 ETH",
-      "raw": 13.6948
+      "value": "13.90 ETH",
+      "raw": 13.8997
     },
     {
       "label": "30d Vol",
-      "value": "41.47 ETH",
-      "raw": 41.4736
+      "value": "41.68 ETH",
+      "raw": 41.6786
     },
     {
       "label": "Full Set Bid",
       "value": "41.5 ETH",
-      "raw": 41.52,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 41.47,
+      "delta": -0.05000000000000426,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,9 +166,7 @@
     {
       "label": "#1 josenarciso",
       "value": "64.5M TDH",
-      "raw": 64470347,
-      "delta": 1514,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 64470347
     },
     {
       "label": "#1 underscore",
@@ -485,7 +483,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON"
   ]
 }
