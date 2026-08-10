@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T19:41:58.778369+00:00",
+  "generated_at": "2026-08-10T20:24:13.418075+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -84,14 +84,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
@@ -167,9 +167,7 @@
     {
       "label": "Full Set Bid",
       "value": "41.7 ETH",
-      "raw": 41.68,
-      "delta": 0.11999999999999744,
-      "delta_fmt": "+0.12 ETH"
+      "raw": 41.68
     },
     {
       "label": "Network TDH",
@@ -179,9 +177,7 @@
     {
       "label": "#1 desolalasisi",
       "value": "63.7M TDH",
-      "raw": 63688858,
-      "delta": 2420814,
-      "delta_fmt": "+2.4M TDH"
+      "raw": 63688858
     },
     {
       "label": "#1 underscore",
@@ -498,7 +494,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #533: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE BUILDER",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #533: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE BUILDER"
   ]
 }
