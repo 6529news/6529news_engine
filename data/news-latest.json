@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:40:37.218016+00:00",
+  "generated_at": "2026-08-10T16:32:22.378317+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,54 +16,67 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "josenarciso Leads with 64.6M Projected TDH",
-      "summary": "\"The King Must Fall\" by josenarciso (64.6M projected TDH, 101 voters) | \"the_only_cloud\" by underscore (57.0M projected TDH, 79 voters) | \"Terms and Conditions\" by desolalasisi (51.9M projected TDH, 32 voters) Next selection: Mon Aug 10 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING WEDNESDAY",
+      "headline": "Minting Wednesday",
+      "summary": " \"The King Must Fall\" by josenarciso \u2014 64.6M TDH from 102 voters. Top supporter: david (9.1M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_806c47b1-dba9-4c04-bea1-323796655d57/92ad11d4-ba8f-4383-92cc-29507386b6e9/mfer-HERMENEUTICS-11.png",
         "label": "The King Must Fall - josenarciso",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "underscore Leads with 56.5M Projected TDH",
+      "summary": "\"the_only_cloud\" by underscore (56.5M projected TDH, 79 voters) | \"Terms and Conditions\" by desolalasisi (56.3M projected TDH, 32 voters) | \"Cycle of Creation\" by RalenArc (32.5M projected TDH, 72 voters) Next selection: Wed Aug 12 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_367b7a4b-7108-45ea-b630-e84241b555f8/5dceeb9b-d715-43a8-b9a5-8e1929396e3c/the-only-cloud.gif",
+        "label": "the_only_cloud - underscore",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "josenarciso",
-          "value": "64.6M",
-          "sub": "proj. (101 votes)"
-        },
-        {
           "label": "underscore",
-          "value": "57.0M",
+          "value": "56.5M",
           "sub": "proj. (79 votes)"
         },
         {
           "label": "desolalasisi",
-          "value": "51.9M",
+          "value": "56.3M",
           "sub": "proj. (32 votes)"
+        },
+        {
+          "label": "RalenArc",
+          "value": "32.5M",
+          "sub": "proj. (72 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Jaen (8.4M) | CasaNUA (5.2M).",
+      "summary": "2 submissions this week. Ranking: CasaNUA (12.4M) | Jaen (8.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3940d33a-702f-47be-8b00-0c3fa518d22a/4715aac2-8015-4940-8589-77f8fd8405f6.mp4",
-        "label": "Jaen (8.4M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/e3ac5f7c-d458-4320-901f-b86d7ddaf656/Keys-Gates-memecard-Vid-Final.mp4",
+        "label": "CasaNUA (12.4M)",
         "type": "video"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3940d33a-702f-47be-8b00-0c3fa518d22a/4715aac2-8015-4940-8589-77f8fd8405f6.mp4",
-          "label": "Jaen (8.4M)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/e3ac5f7c-d458-4320-901f-b86d7ddaf656/Keys-Gates-memecard-Vid-Final.mp4",
+          "label": "CasaNUA (12.4M)",
           "type": "video"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/e3ac5f7c-d458-4320-901f-b86d7ddaf656/Keys-Gates-memecard-Vid-Final.mp4",
-          "label": "CasaNUA (5.2M)",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3940d33a-702f-47be-8b00-0c3fa518d22a/4715aac2-8015-4940-8589-77f8fd8405f6.mp4",
+          "label": "Jaen (8.8M)",
           "type": "video"
         }
       ],
@@ -71,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.45 ETH Volume",
-      "summary": "23 sales in 24h for 1.45 ETH. Highest: \"AUTONOMY.EXE\" at 0.190 ETH.",
+      "headline": "22 Sales Today - 1.41 ETH Volume",
+      "summary": "22 sales in 24h for 1.41 ETH. Highest: \"AUTONOMY.EXE\" at 0.190 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.45",
+          "value": "1.41",
           "sub": "ETH"
         },
         {
@@ -136,10 +149,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.45 ETH",
-      "raw": 1.4543,
-      "delta": 0.2711999999999999,
-      "delta_fmt": "+22.9%"
+      "value": "1.41 ETH",
+      "raw": 1.4063,
+      "delta": 0.17520000000000002,
+      "delta_fmt": "+14.2%"
     },
     {
       "label": "7d Vol",
@@ -153,10 +166,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.5 ETH",
-      "raw": 41.55,
-      "delta": 0.02999999999999403,
-      "delta_fmt": "+0.03 ETH"
+      "value": "41.6 ETH",
+      "raw": 41.56,
+      "delta": 0.010000000000005116,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,14 +177,16 @@
       "raw": 1855013981
     },
     {
+      "label": "#1 underscore",
+      "value": "56.5M TDH",
+      "raw": 56533490,
+      "delta": -581538,
+      "delta_fmt": "-0.6M TDH"
+    },
+    {
       "label": "#1 josenarciso",
       "value": "64.6M TDH",
       "raw": 64613542
-    },
-    {
-      "label": "#1 underscore",
-      "value": "57.1M TDH",
-      "raw": 57115028
     },
     {
       "label": "#1 pandelic",
@@ -483,7 +498,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #533: 120 MINTS (EXCL. MUSEUM) | 82 HOLDERS | THE BUILDER",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #533: 123 MINTS (EXCL. MUSEUM) | 84 HOLDERS | THE BUILDER"
   ]
 }
