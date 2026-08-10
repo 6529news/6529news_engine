@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:34:26.546071+00:00",
+  "generated_at": "2026-08-10T14:42:56.820240+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Jaen (8.4M) | CasaNUA (5.1M).",
+      "summary": "2 submissions this week. Ranking: Jaen (8.4M) | CasaNUA (5.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -63,7 +63,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/e3ac5f7c-d458-4320-901f-b86d7ddaf656/Keys-Gates-memecard-Vid-Final.mp4",
-          "label": "CasaNUA (5.1M)",
+          "label": "CasaNUA (5.2M)",
           "type": "video"
         }
       ],
@@ -71,33 +71,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.67 ETH Volume",
-      "summary": "23 sales in 24h for 1.67 ETH. Highest: \"SeizeJPGs\" at 0.250 ETH.",
+      "headline": "22 Sales Today - 1.42 ETH Volume",
+      "summary": "22 sales in 24h for 1.42 ETH. Highest: \"AUTONOMY.EXE\" at 0.190 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-        "label": "SeizeJPGs - 0.250 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+        "label": "AUTONOMY.EXE - 0.190 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.250 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
           "label": "AUTONOMY.EXE - 0.190 ETH",
@@ -107,27 +102,32 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
           "label": "6529Seizing - 0.180 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/309.GIF",
+          "label": "ENDLESS \u00b7 SUMMER - 0.140 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.67",
+          "value": "1.42",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.250",
-          "sub": "SeizeJPGs"
+          "value": "0.190",
+          "sub": "AUTONOMY.EXE"
         },
         {
           "label": "Floor",
-          "value": "0.014946",
+          "value": "0.0145",
           "sub": "ETH"
         }
       ]
@@ -136,10 +136,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.67 ETH",
-      "raw": 1.6693,
-      "delta": 0.8277,
-      "delta_fmt": "+98.3%"
+      "value": "1.42 ETH",
+      "raw": 1.4193,
+      "delta": 0.3051999999999999,
+      "delta_fmt": "+27.4%"
     },
     {
       "label": "7d Vol",
@@ -154,9 +154,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.5 ETH",
-      "raw": 41.53,
-      "delta": 0.060000000000002274,
-      "delta_fmt": "+0.06 ETH"
+      "raw": 41.52,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,9 +166,9 @@
     {
       "label": "#1 josenarciso",
       "value": "64.6M TDH",
-      "raw": 64613492,
-      "delta": 143145,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 64613542,
+      "delta": 50,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -485,7 +485,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #533: 110 MINTS (EXCL. MUSEUM) | 76 HOLDERS | THE BUILDER",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #533: 110 MINTS (EXCL. MUSEUM) | 76 HOLDERS | THE BUILDER"
   ]
 }
