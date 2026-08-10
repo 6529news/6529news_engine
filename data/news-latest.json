@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T16:32:22.378317+00:00",
+  "generated_at": "2026-08-10T16:59:42.816991+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,25 +30,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "underscore Leads with 56.5M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (56.5M projected TDH, 79 voters) | \"Terms and Conditions\" by desolalasisi (56.3M projected TDH, 32 voters) | \"Cycle of Creation\" by RalenArc (32.5M projected TDH, 72 voters) Next selection: Wed Aug 12 at 17:00 CET.",
+      "headline": "desolalasisi Leads with 61.2M Projected TDH",
+      "summary": "\"Terms and Conditions\" by desolalasisi (61.2M projected TDH, 34 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 79 voters) | \"Cycle of Creation\" by RalenArc (32.5M projected TDH, 72 voters) Next selection: Wed Aug 12 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_367b7a4b-7108-45ea-b630-e84241b555f8/5dceeb9b-d715-43a8-b9a5-8e1929396e3c/the-only-cloud.gif",
-        "label": "the_only_cloud - underscore",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_29a64658-b85b-4d34-96e8-11b12f1b28d3/a251e11a-62d6-4e9a-b63c-2ee4a22b114f/Terms-and-Conditions.png",
+        "label": "Terms and Conditions - desolalasisi",
         "type": "image"
       },
       "dataBoxes": [
         {
+          "label": "desolalasisi",
+          "value": "61.2M",
+          "sub": "proj. (34 votes)"
+        },
+        {
           "label": "underscore",
           "value": "56.5M",
           "sub": "proj. (79 votes)"
-        },
-        {
-          "label": "desolalasisi",
-          "value": "56.3M",
-          "sub": "proj. (32 votes)"
         },
         {
           "label": "RalenArc",
@@ -150,31 +150,38 @@
     {
       "label": "24h Vol",
       "value": "1.41 ETH",
-      "raw": 1.4063,
-      "delta": 0.17520000000000002,
-      "delta_fmt": "+14.2%"
+      "raw": 1.4059,
+      "delta": 0.20479999999999987,
+      "delta_fmt": "+17.1%"
     },
     {
       "label": "7d Vol",
       "value": "13.78 ETH",
-      "raw": 13.78
+      "raw": 13.776
     },
     {
       "label": "30d Vol",
-      "value": "41.78 ETH",
-      "raw": 41.7826
+      "value": "41.77 ETH",
+      "raw": 41.7705
     },
     {
       "label": "Full Set Bid",
       "value": "41.6 ETH",
-      "raw": 41.56,
-      "delta": 0.010000000000005116,
+      "raw": 41.57,
+      "delta": 0.00999999999999801,
       "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1855.0M",
       "raw": 1855013981
+    },
+    {
+      "label": "#1 desolalasisi",
+      "value": "61.2M TDH",
+      "raw": 61243162,
+      "delta": 441397,
+      "delta_fmt": "+0.4M TDH"
     },
     {
       "label": "#1 underscore",
@@ -284,13 +291,6 @@
       "label": "#1 EmptySoulPrime",
       "value": "63.1M TDH",
       "raw": 63105693
-    },
-    {
-      "label": "#1 desolalasisi",
-      "value": "60.8M TDH",
-      "raw": 60801765,
-      "delta": 34814,
-      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 MoonZoey",
