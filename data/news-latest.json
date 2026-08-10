@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T05:07:18.717378+00:00",
+  "generated_at": "2026-08-10T06:41:07.960978+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "josenarciso Leads with 64.5M Projected TDH",
-      "summary": "\"The King Must Fall\" by josenarciso (64.5M projected TDH, 98 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 78 voters) | \"Terms and Conditions\" by desolalasisi (51.9M projected TDH, 28 voters) Next selection: Mon Aug 10 at 17:00 CET.",
+      "summary": "\"The King Must Fall\" by josenarciso (64.5M projected TDH, 97 voters) | \"the_only_cloud\" by underscore (57.1M projected TDH, 77 voters) | \"Terms and Conditions\" by desolalasisi (51.9M projected TDH, 28 voters) Next selection: Mon Aug 10 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "josenarciso",
           "value": "64.5M",
-          "sub": "proj. (98 votes)"
+          "sub": "proj. (97 votes)"
         },
         {
           "label": "underscore",
           "value": "57.1M",
-          "sub": "proj. (78 votes)"
+          "sub": "proj. (77 votes)"
         },
         {
           "label": "desolalasisi",
@@ -154,9 +154,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.5 ETH",
-      "raw": 41.53,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "raw": 41.52,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,9 +166,9 @@
     {
       "label": "#1 josenarciso",
       "value": "64.5M TDH",
-      "raw": 64464462,
-      "delta": 421980,
-      "delta_fmt": "+0.4M TDH"
+      "raw": 64463829,
+      "delta": -633,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -485,7 +485,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #532: 140 MINTS (EXCL. MUSEUM) | 110 HOLDERS | ZEUS VS TYPHON"
   ]
 }
