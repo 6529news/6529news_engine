@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T20:24:13.418075+00:00",
+  "generated_at": "2026-08-10T21:11:59.685890+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "desolalasisi Leads with 63.7M Projected TDH",
-      "summary": "\"Terms and Conditions\" by desolalasisi (63.7M projected TDH, 37 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 79 voters) | \"Cycle of Creation\" by RalenArc (32.5M projected TDH, 72 voters) Next selection: Wed Aug 12 at 17:00 CET.",
+      "summary": "\"Terms and Conditions\" by desolalasisi (63.7M projected TDH, 38 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 79 voters) | \"Cycle of Creation\" by RalenArc (32.5M projected TDH, 72 voters) Next selection: Wed Aug 12 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "desolalasisi",
           "value": "63.7M",
-          "sub": "proj. (37 votes)"
+          "sub": "proj. (38 votes)"
         },
         {
           "label": "underscore",
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.42 ETH Volume",
-      "summary": "23 sales in 24h for 1.42 ETH. Highest: \"AUTONOMY.EXE\" at 0.190 ETH.",
+      "headline": "24 Sales Today - 1.43 ETH Volume",
+      "summary": "24 sales in 24h for 1.43 ETH. Highest: \"AUTONOMY.EXE\" at 0.190 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.42",
+          "value": "1.43",
           "sub": "ETH"
         },
         {
@@ -149,25 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.42 ETH",
-      "raw": 1.4155,
-      "delta": 0.23249999999999993,
-      "delta_fmt": "+19.7%"
+      "value": "1.43 ETH",
+      "raw": 1.4304,
+      "delta": 0.24739999999999984,
+      "delta_fmt": "+20.9%"
     },
     {
       "label": "7d Vol",
-      "value": "13.77 ETH",
-      "raw": 13.7743
+      "value": "13.79 ETH",
+      "raw": 13.7893
     },
     {
       "label": "30d Vol",
-      "value": "41.83 ETH",
-      "raw": 41.8298
+      "value": "41.84 ETH",
+      "raw": 41.8447
     },
     {
       "label": "Full Set Bid",
-      "value": "41.7 ETH",
-      "raw": 41.68
+      "value": "37.2 ETH",
+      "raw": 37.19,
+      "delta": -4.490000000000002,
+      "delta_fmt": "-4.49 ETH"
     },
     {
       "label": "Network TDH",
@@ -177,7 +179,9 @@
     {
       "label": "#1 desolalasisi",
       "value": "63.7M TDH",
-      "raw": 63688858
+      "raw": 63695387,
+      "delta": 6529,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -494,7 +498,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #533: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE BUILDER",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #533: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | THE BUILDER"
   ]
 }
