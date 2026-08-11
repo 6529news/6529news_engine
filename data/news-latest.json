@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T02:51:47.253510+00:00",
+  "generated_at": "2026-08-11T04:18:32.858890+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 1.30 ETH Volume",
-      "summary": "21 sales in 24h for 1.30 ETH. Highest: \"AUTONOMY.EXE\" at 0.190 ETH.",
+      "headline": "21 Sales Today - 1.29 ETH Volume",
+      "summary": "21 sales in 24h for 1.29 ETH. Highest: \"AUTONOMY.EXE\" at 0.190 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,7 +130,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.30",
+          "value": "1.29",
           "sub": "ETH"
         },
         {
@@ -149,27 +149,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.30 ETH",
-      "raw": 1.2967,
-      "delta": 0.3167,
-      "delta_fmt": "+32.3%"
+      "value": "1.29 ETH",
+      "raw": 1.289,
+      "delta": 0.30899999999999994,
+      "delta_fmt": "+31.5%"
     },
     {
       "label": "7d Vol",
-      "value": "11.91 ETH",
-      "raw": 11.9141
+      "value": "11.97 ETH",
+      "raw": 11.9691
     },
     {
       "label": "30d Vol",
-      "value": "40.00 ETH",
-      "raw": 40.002
+      "value": "40.06 ETH",
+      "raw": 40.057
     },
     {
       "label": "Full Set Bid",
       "value": "41.7 ETH",
-      "raw": 41.67,
-      "delta": -0.05999999999999517,
-      "delta_fmt": "-0.06 ETH"
+      "raw": 41.67
     },
     {
       "label": "Network TDH",
@@ -179,7 +177,9 @@
     {
       "label": "#1 desolalasisi",
       "value": "72.8M TDH",
-      "raw": 72812262
+      "raw": 72834140,
+      "delta": 21878,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -496,7 +496,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #533: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | THE BUILDER",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #533: 131 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE BUILDER"
   ]
 }
