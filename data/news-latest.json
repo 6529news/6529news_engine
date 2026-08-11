@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T04:18:32.858890+00:00",
+  "generated_at": "2026-08-11T05:33:59.671145+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "desolalasisi Leads with 72.8M Projected TDH",
-      "summary": "\"Terms and Conditions\" by desolalasisi (72.8M projected TDH, 40 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 79 voters) | \"Cycle of Creation\" by RalenArc (32.5M projected TDH, 72 voters) Next selection: Wed Aug 12 at 17:00 CET.",
+      "headline": "desolalasisi Leads with 72.9M Projected TDH",
+      "summary": "\"Terms and Conditions\" by desolalasisi (72.9M projected TDH, 41 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 80 voters) | \"Cycle of Creation\" by RalenArc (32.5M projected TDH, 73 voters) Next selection: Wed Aug 12 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,36 +42,36 @@
       "dataBoxes": [
         {
           "label": "desolalasisi",
-          "value": "72.8M",
-          "sub": "proj. (40 votes)"
+          "value": "72.9M",
+          "sub": "proj. (41 votes)"
         },
         {
           "label": "underscore",
           "value": "56.5M",
-          "sub": "proj. (79 votes)"
+          "sub": "proj. (80 votes)"
         },
         {
           "label": "RalenArc",
           "value": "32.5M",
-          "sub": "proj. (72 votes)"
+          "sub": "proj. (73 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: CasaNUA (19.5M) | Jaen (8.8M) | Articulate (8.2M).",
+      "summary": "3 submissions this week. Ranking: CasaNUA (29.4M) | Jaen (8.8M) | Articulate (8.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/e3ac5f7c-d458-4320-901f-b86d7ddaf656/Keys-Gates-memecard-Vid-Final.mp4",
-        "label": "CasaNUA (19.5M)",
+        "label": "CasaNUA (29.4M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/e3ac5f7c-d458-4320-901f-b86d7ddaf656/Keys-Gates-memecard-Vid-Final.mp4",
-          "label": "CasaNUA (19.5M)",
+          "label": "CasaNUA (29.4M)",
           "type": "video"
         },
         {
@@ -84,28 +84,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 1.29 ETH Volume",
-      "summary": "21 sales in 24h for 1.29 ETH. Highest: \"AUTONOMY.EXE\" at 0.190 ETH.",
+      "headline": "22 Sales Today - 1.69 ETH Volume",
+      "summary": "22 sales in 24h for 1.69 ETH. Highest: \"The Socially Umpired Animals\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-        "label": "AUTONOMY.EXE - 0.190 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/118.WEBP",
+        "label": "The Socially Umpired Animals - 0.400 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/118.WEBP",
+          "label": "The Socially Umpired Animals - 0.400 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
           "label": "AUTONOMY.EXE - 0.190 ETH",
@@ -115,28 +120,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
           "label": "6529Seizing - 0.180 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/309.GIF",
-          "label": "ENDLESS \u00b7 SUMMER - 0.140 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.29",
+          "value": "1.69",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.190",
-          "sub": "AUTONOMY.EXE"
+          "value": "0.400",
+          "sub": "The Socially Umpired"
         },
         {
           "label": "Floor",
@@ -149,25 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.29 ETH",
-      "raw": 1.289,
-      "delta": 0.30899999999999994,
-      "delta_fmt": "+31.5%"
+      "value": "1.69 ETH",
+      "raw": 1.689,
+      "delta": 0.6463000000000001,
+      "delta_fmt": "+62.0%"
     },
     {
       "label": "7d Vol",
-      "value": "11.97 ETH",
-      "raw": 11.9691
+      "value": "12.37 ETH",
+      "raw": 12.3691
     },
     {
       "label": "30d Vol",
-      "value": "40.06 ETH",
-      "raw": 40.057
+      "value": "40.46 ETH",
+      "raw": 40.457
     },
     {
       "label": "Full Set Bid",
-      "value": "41.7 ETH",
-      "raw": 41.67
+      "value": "41.6 ETH",
+      "raw": 41.62,
+      "delta": -0.05000000000000426,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -176,10 +178,10 @@
     },
     {
       "label": "#1 desolalasisi",
-      "value": "72.8M TDH",
-      "raw": 72834140,
-      "delta": 21878,
-      "delta_fmt": "+0.0M TDH"
+      "value": "72.9M TDH",
+      "raw": 72899570,
+      "delta": 65430,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 underscore",
@@ -496,7 +498,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #533: 131 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE BUILDER",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #533: 131 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE BUILDER"
   ]
 }
