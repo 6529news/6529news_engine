@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:33:59.671145+00:00",
+  "generated_at": "2026-08-11T06:35:40.056832+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -60,18 +60,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: CasaNUA (29.4M) | Jaen (8.8M) | Articulate (8.3M).",
+      "summary": "3 submissions this week. Ranking: CasaNUA (29.5M) | Jaen (8.8M) | Articulate (8.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/e3ac5f7c-d458-4320-901f-b86d7ddaf656/Keys-Gates-memecard-Vid-Final.mp4",
-        "label": "CasaNUA (29.4M)",
+        "label": "CasaNUA (29.5M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/e3ac5f7c-d458-4320-901f-b86d7ddaf656/Keys-Gates-memecard-Vid-Final.mp4",
-          "label": "CasaNUA (29.4M)",
+          "label": "CasaNUA (29.5M)",
           "type": "video"
         },
         {
@@ -89,7 +89,7 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
@@ -166,10 +166,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "41.6 ETH",
-      "raw": 41.62,
-      "delta": -0.05000000000000426,
-      "delta_fmt": "-0.05 ETH"
+      "value": "41.7 ETH",
+      "raw": 41.69,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,9 +179,9 @@
     {
       "label": "#1 desolalasisi",
       "value": "72.9M TDH",
-      "raw": 72899570,
-      "delta": 65430,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 72899583,
+      "delta": 13,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -498,7 +498,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #533: 131 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE BUILDER",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #533: 131 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE BUILDER"
   ]
 }
