@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:50:05.831875+00:00",
+  "generated_at": "2026-08-11T13:02:25.005833+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "desolalasisi Leads with 74.4M Projected TDH",
-      "summary": "\"Terms and Conditions\" by desolalasisi (74.4M projected TDH, 44 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 80 voters) | \"Keys and Gates at Dominio PubliCC0\" by CasaNUA (29.5M projected TDH, 23 voters) Next selection: Wed Aug 12 at 17:00 CET.",
+      "summary": "\"Terms and Conditions\" by desolalasisi (74.4M projected TDH, 44 voters) | \"the_only_cloud\" by underscore (57.6M projected TDH, 81 voters) | \"Keys and Gates at Dominio PubliCC0\" by CasaNUA (29.5M projected TDH, 23 voters) Next selection: Wed Aug 12 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "underscore",
-          "value": "56.5M",
-          "sub": "proj. (80 votes)"
+          "value": "57.6M",
+          "sub": "proj. (81 votes)"
         },
         {
           "label": "CasaNUA",
@@ -146,13 +146,13 @@
       "label": "24h Vol",
       "value": "0.85 ETH",
       "raw": 0.8453,
-      "delta": -0.8892999999999999,
-      "delta_fmt": "-51.3%"
+      "delta": -0.824,
+      "delta_fmt": "-49.4%"
     },
     {
       "label": "7d Vol",
-      "value": "11.56 ETH",
-      "raw": 11.5611
+      "value": "11.01 ETH",
+      "raw": 11.0136
     },
     {
       "label": "30d Vol",
@@ -162,9 +162,9 @@
     {
       "label": "Full Set Bid",
       "value": "41.6 ETH",
-      "raw": 41.65,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "raw": 41.62,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 desolalasisi",
       "value": "74.4M TDH",
-      "raw": 74449576,
-      "delta": 1512058,
-      "delta_fmt": "+1.5M TDH"
+      "raw": 74449576
     },
     {
       "label": "#1 underscore",
@@ -493,7 +491,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #533: 131 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE BUILDER",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #533: 131 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE BUILDER"
   ]
 }
