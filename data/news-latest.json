@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T17:02:58.179138+00:00",
+  "generated_at": "2026-08-12T17:42:03.295282+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -59,16 +59,21 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Jaen (8.8M) | Articulate (8.6M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: MaNiC (32.7M) | Jaen (8.8M) | Articulate (8.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3940d33a-702f-47be-8b00-0c3fa518d22a/4715aac2-8015-4940-8589-77f8fd8405f6.mp4",
-        "label": "Jaen (8.8M)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_6eb11b74-0e55-4be8-8db3-143f56289a46/a0740c59-941c-4d59-8ce5-f4545f0197ff/No-Human-Interface-6529.gif",
+        "label": "MaNiC (32.7M)",
+        "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_6eb11b74-0e55-4be8-8db3-143f56289a46/a0740c59-941c-4d59-8ce5-f4545f0197ff/No-Human-Interface-6529.gif",
+          "label": "MaNiC (32.7M)",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_3940d33a-702f-47be-8b00-0c3fa518d22a/4715aac2-8015-4940-8589-77f8fd8405f6.mp4",
           "label": "Jaen (8.8M)",
@@ -79,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 1.58 ETH Volume",
-      "summary": "28 sales in 24h for 1.58 ETH. Highest: \"AUTONOMY.EXE\" at 0.180 ETH.",
+      "headline": "29 Sales Today - 1.72 ETH Volume",
+      "summary": "29 sales in 24h for 1.72 ETH. Highest: \"AUTONOMY.EXE\" at 0.180 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "28",
+          "value": "29",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.58",
+          "value": "1.72",
           "sub": "ETH"
         },
         {
@@ -144,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.58 ETH",
-      "raw": 1.5811,
-      "delta": 0.7646999999999999,
-      "delta_fmt": "+93.7%"
+      "value": "1.72 ETH",
+      "raw": 1.7201,
+      "delta": 0.9037,
+      "delta_fmt": "+110.7%"
     },
     {
       "label": "7d Vol",
-      "value": "10.47 ETH",
-      "raw": 10.4661
+      "value": "10.61 ETH",
+      "raw": 10.6051
     },
     {
       "label": "30d Vol",
-      "value": "42.01 ETH",
-      "raw": 42.0102
+      "value": "42.15 ETH",
+      "raw": 42.1492
     },
     {
       "label": "Full Set Bid",
       "value": "41.7 ETH",
-      "raw": 41.66,
-      "delta": 0.02999999999999403,
-      "delta_fmt": "+0.03 ETH"
+      "raw": 41.7,
+      "delta": 0.04000000000000625,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -491,7 +496,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #534: 122 MINTS (EXCL. MUSEUM) | 83 HOLDERS | THE KING MUST FALL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #534: 123 MINTS (EXCL. MUSEUM) | 84 HOLDERS | THE KING MUST FALL"
   ]
 }
