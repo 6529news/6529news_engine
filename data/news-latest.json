@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:21:57.495485+00:00",
+  "generated_at": "2026-08-14T16:22:43.595668+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,31 +16,44 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "CasaNUA Leads with 73.5M Projected TDH",
-      "summary": "\"Keys and Gates at Dominio PubliCC0\" by CasaNUA (73.5M projected TDH, 59 voters) | \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (63.7M projected TDH, 67 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 83 voters) Next selection: Fri Aug 14 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"Keys and Gates at Dominio PubliCC0\" by CasaNUA \u2014 73.5M TDH from 59 voters. Top supporter: Giopetto (8.9M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/e3ac5f7c-d458-4320-901f-b86d7ddaf656/Keys-Gates-memecard-Vid-Final.mp4",
         "label": "Keys and Gates at Dominio PubliCC0 - CasaNUA",
         "type": "video"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "MaNiC Leads with 67.4M Projected TDH",
+      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (67.4M projected TDH, 70 voters) | \"the_only_cloud\" by underscore (54.3M projected TDH, 83 voters) | \"Cycle of Creation\" by RalenArc (24.8M projected TDH, 73 voters) Next selection: Mon Aug 17 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_6eb11b74-0e55-4be8-8db3-143f56289a46/a0740c59-941c-4d59-8ce5-f4545f0197ff/No-Human-Interface-6529.gif",
+        "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - MaNiC",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "CasaNUA",
-          "value": "73.5M",
-          "sub": "proj. (59 votes)"
-        },
-        {
           "label": "MaNiC",
-          "value": "63.7M",
-          "sub": "proj. (67 votes)"
+          "value": "67.4M",
+          "sub": "proj. (70 votes)"
         },
         {
           "label": "underscore",
-          "value": "56.5M",
+          "value": "54.3M",
           "sub": "proj. (83 votes)"
+        },
+        {
+          "label": "RalenArc",
+          "value": "24.8M",
+          "sub": "proj. (73 votes)"
         }
       ]
     },
@@ -56,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 11.48 ETH Volume",
-      "summary": "26 sales in 24h for 11.48 ETH. Highest: \"NakamotoFreedom\" at 8.240 ETH.",
+      "headline": "27 Sales Today - 11.54 ETH Volume",
+      "summary": "27 sales in 24h for 11.54 ETH. Highest: \"NakamotoFreedom\" at 8.240 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "26",
+          "value": "27",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "11.48",
+          "value": "11.54",
           "sub": "ETH"
         },
         {
@@ -121,32 +134,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "11.48 ETH",
-      "raw": 11.4825,
-      "delta": 10.0745,
-      "delta_fmt": "+715.5%"
+      "value": "11.54 ETH",
+      "raw": 11.5425,
+      "delta": 10.368,
+      "delta_fmt": "+882.8%"
     },
     {
       "label": "7d Vol",
-      "value": "20.90 ETH",
-      "raw": 20.8953
+      "value": "20.96 ETH",
+      "raw": 20.9553
     },
     {
       "label": "30d Vol",
-      "value": "52.80 ETH",
-      "raw": 52.8002
+      "value": "52.86 ETH",
+      "raw": 52.8602
     },
     {
       "label": "Full Set Bid",
-      "value": "38.5 ETH",
-      "raw": 38.45,
-      "delta": -0.02999999999999403,
+      "value": "38.4 ETH",
+      "raw": 38.42,
+      "delta": -0.030000000000001137,
       "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1866.0M",
       "raw": 1865973359
+    },
+    {
+      "label": "#1 MaNiC",
+      "value": "67.4M TDH",
+      "raw": 67435403,
+      "delta": 13751568,
+      "delta_fmt": "+13.8M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -467,7 +487,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.651 ETH",
-    "CARD #535: 114 MINTS (EXCL. MUSEUM) | 78 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 124 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
