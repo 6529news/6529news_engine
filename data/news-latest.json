@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T23:58:23.442999+00:00",
+  "generated_at": "2026-08-14T02:31:44.742310+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "CasaNUA Leads with 67.7M Projected TDH",
-      "summary": "\"Keys and Gates at Dominio PubliCC0\" by CasaNUA (67.7M projected TDH, 55 voters) | \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (62.7M projected TDH, 62 voters) | \"the_only_cloud\" by underscore (56.6M projected TDH, 83 voters) Next selection: Fri Aug 14 at 17:00 CET.",
+      "headline": "CasaNUA Leads with 73.1M Projected TDH",
+      "summary": "\"Keys and Gates at Dominio PubliCC0\" by CasaNUA (73.1M projected TDH, 56 voters) | \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (62.7M projected TDH, 62 voters) | \"the_only_cloud\" by underscore (56.6M projected TDH, 83 voters) Next selection: Fri Aug 14 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "CasaNUA",
-          "value": "67.7M",
-          "sub": "proj. (55 votes)"
+          "value": "73.1M",
+          "sub": "proj. (56 votes)"
         },
         {
           "label": "MaNiC",
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -123,8 +123,8 @@
       "label": "24h Vol",
       "value": "2.25 ETH",
       "raw": 2.246,
-      "delta": -0.022299999999999986,
-      "delta_fmt": "-1.0%"
+      "delta": 0.2790999999999999,
+      "delta_fmt": "+14.2%"
     },
     {
       "label": "7d Vol",
@@ -133,25 +133,29 @@
     },
     {
       "label": "30d Vol",
-      "value": "44.20 ETH",
-      "raw": 44.2002
+      "value": "43.25 ETH",
+      "raw": 43.2473
     },
     {
       "label": "Full Set Bid",
-      "value": "41.1 ETH",
-      "raw": 41.13,
-      "delta": -0.10999999999999943,
-      "delta_fmt": "-0.11 ETH"
+      "value": "41.2 ETH",
+      "raw": 41.17,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1863.1M",
-      "raw": 1863131171
+      "value": "1866.0M",
+      "raw": 1865973359,
+      "delta": 2842188,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 CasaNUA",
-      "value": "67.7M TDH",
-      "raw": 67726304
+      "value": "73.1M TDH",
+      "raw": 73081861,
+      "delta": 5355557,
+      "delta_fmt": "+5.4M TDH"
     },
     {
       "label": "#1 underscore",
@@ -466,7 +470,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #534: 130 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE KING MUST FALL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #534: 130 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE KING MUST FALL"
   ]
 }
