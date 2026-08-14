@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:29:12.272477+00:00",
+  "generated_at": "2026-08-14T23:51:22.419217+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "MaNiC Leads with 75.1M Projected TDH",
-      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (75.1M projected TDH, 76 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 83 voters) | \"Cycle of Creation\" by RalenArc (24.8M projected TDH, 73 voters) Next selection: Mon Aug 17 at 17:00 CET.",
+      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (75.1M projected TDH, 76 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 83 voters) | \"Meme Worthy\" by Baku (25.8M projected TDH, 77 voters) Next selection: Mon Aug 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -51,9 +51,9 @@
           "sub": "proj. (83 votes)"
         },
         {
-          "label": "RalenArc",
-          "value": "24.8M",
-          "sub": "proj. (73 votes)"
+          "label": "Baku",
+          "value": "25.8M",
+          "sub": "proj. (77 votes)"
         }
       ]
     },
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -102,8 +102,8 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.196 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/253.GIF",
+          "label": "WE THE CYPHERPUNKS - 0.170 ETH",
           "type": "image"
         }
       ],
@@ -182,8 +182,8 @@
       "label": "24h Vol",
       "value": "9.78 ETH",
       "raw": 9.7753,
-      "delta": 7.8073,
-      "delta_fmt": "+396.7%"
+      "delta": 7.529299999999999,
+      "delta_fmt": "+335.2%"
     },
     {
       "label": "7d Vol",
@@ -197,10 +197,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.5 ETH",
-      "raw": 38.51,
-      "delta": 3.3900000000000006,
-      "delta_fmt": "+3.39 ETH"
+      "value": "38.6 ETH",
+      "raw": 38.58,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Network TDH",
@@ -531,8 +531,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.651 ETH",
-    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 5h AGO",
-    "CARD #535: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 6h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
