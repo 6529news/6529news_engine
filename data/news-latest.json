@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:31:44.742310+00:00",
+  "generated_at": "2026-08-14T04:28:10.264318+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -123,8 +123,8 @@
       "label": "24h Vol",
       "value": "2.25 ETH",
       "raw": 2.246,
-      "delta": 0.2790999999999999,
-      "delta_fmt": "+14.2%"
+      "delta": 0.4020999999999999,
+      "delta_fmt": "+21.8%"
     },
     {
       "label": "7d Vol",
@@ -139,23 +139,19 @@
     {
       "label": "Full Set Bid",
       "value": "41.2 ETH",
-      "raw": 41.17,
-      "delta": 0.03999999999999915,
-      "delta_fmt": "+0.04 ETH"
+      "raw": 41.25,
+      "delta": 0.0799999999999983,
+      "delta_fmt": "+0.08 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1866.0M",
-      "raw": 1865973359,
-      "delta": 2842188,
-      "delta_fmt": "+2.8M TDH"
+      "raw": 1865973359
     },
     {
       "label": "#1 CasaNUA",
       "value": "73.1M TDH",
-      "raw": 73081861,
-      "delta": 5355557,
-      "delta_fmt": "+5.4M TDH"
+      "raw": 73081861
     },
     {
       "label": "#1 underscore",
@@ -470,7 +466,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #534: 130 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE KING MUST FALL",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #534: 130 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE KING MUST FALL"
   ]
 }
