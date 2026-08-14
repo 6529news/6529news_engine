@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T14:26:33.983125+00:00",
+  "generated_at": "2026-08-14T15:21:57.495485+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "CasaNUA Leads with 73.5M Projected TDH",
-      "summary": "\"Keys and Gates at Dominio PubliCC0\" by CasaNUA (73.5M projected TDH, 59 voters) | \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (63.7M projected TDH, 66 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 83 voters) Next selection: Fri Aug 14 at 17:00 CET.",
+      "summary": "\"Keys and Gates at Dominio PubliCC0\" by CasaNUA (73.5M projected TDH, 59 voters) | \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (63.7M projected TDH, 67 voters) | \"the_only_cloud\" by underscore (56.5M projected TDH, 83 voters) Next selection: Fri Aug 14 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "MaNiC",
           "value": "63.7M",
-          "sub": "proj. (66 votes)"
+          "sub": "proj. (67 votes)"
         },
         {
           "label": "underscore",
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 10.23 ETH Volume",
-      "summary": "16 sales in 24h for 10.23 ETH. Highest: \"NakamotoFreedom\" at 8.240 ETH.",
+      "headline": "26 Sales Today - 11.48 ETH Volume",
+      "summary": "26 sales in 24h for 11.48 ETH. Highest: \"NakamotoFreedom\" at 8.240 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -84,25 +84,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
-          "label": "The Institutions Are Coming - 0.410 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
+          "label": "Sgt. Pepe - 0.651 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.250 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
+          "label": "The Institutions Are Coming - 0.410 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "26",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "10.23",
+          "value": "11.48",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "10.23 ETH",
-      "raw": 10.2296,
-      "delta": 8.8216,
-      "delta_fmt": "+626.5%"
+      "value": "11.48 ETH",
+      "raw": 11.4825,
+      "delta": 10.0745,
+      "delta_fmt": "+715.5%"
     },
     {
       "label": "7d Vol",
-      "value": "19.64 ETH",
-      "raw": 19.6424
+      "value": "20.90 ETH",
+      "raw": 20.8953
     },
     {
       "label": "30d Vol",
-      "value": "51.55 ETH",
-      "raw": 51.5473
+      "value": "52.80 ETH",
+      "raw": 52.8002
     },
     {
       "label": "Full Set Bid",
       "value": "38.5 ETH",
-      "raw": 38.48,
-      "delta": 5.18,
-      "delta_fmt": "+5.18 ETH"
+      "raw": 38.45,
+      "delta": -0.02999999999999403,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 CasaNUA",
       "value": "73.5M TDH",
-      "raw": 73548179,
-      "delta": 114152,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 73548179
     },
     {
       "label": "#1 underscore",
@@ -468,7 +466,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #535: 110 MINTS (EXCL. MUSEUM) | 74 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "SGT PEPE SALE: 0.651 ETH",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 114 MINTS (EXCL. MUSEUM) | 78 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
