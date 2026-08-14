@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:31:32.382293+00:00",
+  "generated_at": "2026-08-14T22:59:26.630498+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -81,8 +81,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 10.77 ETH Volume",
-      "summary": "22 sales in 24h for 10.77 ETH. Highest: \"NakamotoFreedom\" at 8.240 ETH.",
+      "headline": "17 Sales Today - 9.99 ETH Volume",
+      "summary": "17 sales in 24h for 9.99 ETH. Highest: \"NakamotoFreedom\" at 8.240 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,20 +102,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
-          "label": "The Institutions Are Coming - 0.410 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
+          "label": "6529Seizing - 0.196 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "22",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "10.77",
+          "value": "9.99",
           "sub": "ETH"
         },
         {
@@ -180,10 +180,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "10.77 ETH",
-      "raw": 10.7657,
-      "delta": 9.5751,
-      "delta_fmt": "+804.2%"
+      "value": "9.99 ETH",
+      "raw": 9.9883,
+      "delta": 8.0203,
+      "delta_fmt": "+407.5%"
     },
     {
       "label": "7d Vol",
@@ -197,10 +197,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH",
-      "raw": 38.69,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "value": "35.1 ETH",
+      "raw": 35.12,
+      "delta": -3.5700000000000003,
+      "delta_fmt": "-3.57 ETH"
     },
     {
       "label": "Network TDH",
@@ -531,8 +531,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.651 ETH",
-    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 4h AGO",
-    "CARD #535: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 5h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
