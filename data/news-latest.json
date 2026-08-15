@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T04:58:22.237154+00:00",
+  "generated_at": "2026-08-15T05:31:15.234257+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "MaNiC Leads with 81.7M Projected TDH",
-      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (81.7M projected TDH, 76 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 83 voters) | \"Meme Worthy\" by Baku (26.3M projected TDH, 78 voters) Next selection: Mon Aug 17 at 17:00 CET.",
+      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (81.7M projected TDH, 76 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 83 voters) | \"Meme Worthy\" by Baku (26.3M projected TDH, 79 voters) Next selection: Mon Aug 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -53,7 +53,7 @@
         {
           "label": "Baku",
           "value": "26.3M",
-          "sub": "proj. (78 votes)"
+          "sub": "proj. (79 votes)"
         }
       ]
     },
@@ -182,8 +182,8 @@
       "label": "24h Vol",
       "value": "9.85 ETH",
       "raw": 9.8472,
-      "delta": 7.6012,
-      "delta_fmt": "+338.4%"
+      "delta": 7.581200000000001,
+      "delta_fmt": "+334.6%"
     },
     {
       "label": "7d Vol",
@@ -197,10 +197,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "35.4 ETH",
-      "raw": 35.44,
-      "delta": 0.46999999999999886,
-      "delta_fmt": "+0.47 ETH"
+      "value": "35.8 ETH",
+      "raw": 35.83,
+      "delta": 0.39000000000000057,
+      "delta_fmt": "+0.39 ETH"
     },
     {
       "label": "Network TDH",
@@ -532,7 +532,7 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.651 ETH",
     "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 11h AGO",
-    "CARD #535: 129 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 129 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
