@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:51:22.419217+00:00",
+  "generated_at": "2026-08-15T01:10:15.770676+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "MaNiC Leads with 75.1M Projected TDH",
-      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (75.1M projected TDH, 76 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 83 voters) | \"Meme Worthy\" by Baku (25.8M projected TDH, 77 voters) Next selection: Mon Aug 17 at 17:00 CET.",
+      "headline": "MaNiC Leads with 81.7M Projected TDH",
+      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (81.7M projected TDH, 76 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 83 voters) | \"Meme Worthy\" by Baku (26.3M projected TDH, 78 voters) Next selection: Mon Aug 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "MaNiC",
-          "value": "75.1M",
+          "value": "81.7M",
           "sub": "proj. (76 votes)"
         },
         {
@@ -52,8 +52,8 @@
         },
         {
           "label": "Baku",
-          "value": "25.8M",
-          "sub": "proj. (77 votes)"
+          "value": "26.3M",
+          "sub": "proj. (78 votes)"
         }
       ]
     },
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
@@ -192,25 +192,29 @@
     },
     {
       "label": "30d Vol",
-      "value": "53.02 ETH",
-      "raw": 53.0226
+      "value": "52.66 ETH",
+      "raw": 52.6604
     },
     {
       "label": "Full Set Bid",
-      "value": "38.6 ETH",
-      "raw": 38.58,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "value": "38.2 ETH",
+      "raw": 38.2,
+      "delta": -0.37999999999999545,
+      "delta_fmt": "-0.38 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1866.0M",
-      "raw": 1865973359
+      "value": "1868.7M",
+      "raw": 1868732585,
+      "delta": 2759226,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 MaNiC",
-      "value": "75.1M TDH",
-      "raw": 75058806
+      "value": "81.7M TDH",
+      "raw": 81680970,
+      "delta": 6622164,
+      "delta_fmt": "+6.6M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -531,8 +535,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.651 ETH",
-    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 6h AGO",
-    "CARD #535: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 7h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
