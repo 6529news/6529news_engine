@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:29:01.669785+00:00",
+  "generated_at": "2026-08-15T13:53:52.233636+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "MaNiC Leads with 82.6M Projected TDH",
-      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (82.6M projected TDH, 81 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 83 voters) | \"Meme Worthy\" by Baku (26.3M projected TDH, 79 voters) Next selection: Mon Aug 17 at 17:00 CET.",
+      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (82.6M projected TDH, 82 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 83 voters) | \"Meme Worthy\" by Baku (26.3M projected TDH, 79 voters) Next selection: Mon Aug 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "MaNiC",
           "value": "82.6M",
-          "sub": "proj. (81 votes)"
+          "sub": "proj. (82 votes)"
         },
         {
           "label": "underscore",
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 1.98 ETH Volume",
-      "summary": "24 sales in 24h for 1.98 ETH. Highest: \"Sgt. Pepe\" at 0.651 ETH.",
+      "headline": "26 Sales Today - 2.12 ETH Volume",
+      "summary": "26 sales in 24h for 2.12 ETH. Highest: \"Sgt. Pepe\" at 0.651 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "24",
+          "value": "26",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.98",
+          "value": "2.12",
           "sub": "ETH"
         },
         {
@@ -180,27 +180,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.98 ETH",
-      "raw": 1.9813,
-      "delta": -8.3947,
-      "delta_fmt": "-80.9%"
+      "value": "2.12 ETH",
+      "raw": 2.1213,
+      "delta": -8.1083,
+      "delta_fmt": "-79.3%"
     },
     {
       "label": "7d Vol",
-      "value": "18.37 ETH",
-      "raw": 18.3703
+      "value": "18.51 ETH",
+      "raw": 18.5103
     },
     {
       "label": "30d Vol",
-      "value": "53.17 ETH",
-      "raw": 53.1664
+      "value": "53.31 ETH",
+      "raw": 53.3064
     },
     {
       "label": "Full Set Bid",
-      "value": "33.2 ETH",
-      "raw": 33.21,
-      "delta": -3.719999999999999,
-      "delta_fmt": "-3.72 ETH"
+      "value": "33.3 ETH",
+      "raw": 33.32,
+      "delta": 0.10999999999999943,
+      "delta_fmt": "+0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -531,8 +531,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.651 ETH",
-    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 19h AGO",
-    "CARD #535: 132 MINTS (EXCL. MUSEUM) | 88 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.9999 ETH | 1 SALES | LAST SALE 20h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 132 MINTS (EXCL. MUSEUM) | 88 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
