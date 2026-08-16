@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T09:59:51.333501+00:00",
+  "generated_at": "2026-08-16T10:31:46.591836+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "MaNiC Leads with 83.8M Projected TDH",
-      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (83.8M projected TDH, 91 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 84 voters) | \"Meme Worthy\" by Baku (28.3M projected TDH, 84 voters) Next selection: Mon Aug 17 at 17:00 CET.",
+      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (83.8M projected TDH, 91 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 84 voters) | \"Meme Worthy\" by Baku (28.4M projected TDH, 85 voters) Next selection: Mon Aug 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,15 +39,15 @@
         },
         {
           "label": "Baku",
-          "value": "28.3M",
-          "sub": "proj. (84 votes)"
+          "value": "28.4M",
+          "sub": "proj. (85 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: vertigo (10.6M) | Articulate (7.7M).",
+      "summary": "2 submissions this week. Ranking: vertigo (10.6M) | Articulate (7.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "35.3 ETH",
-      "raw": 35.35,
-      "delta": 0.6300000000000026,
-      "delta_fmt": "+0.63 ETH"
+      "value": "35.9 ETH",
+      "raw": 35.95,
+      "delta": 0.6000000000000014,
+      "delta_fmt": "+0.60 ETH"
     },
     {
       "label": "Network TDH",
@@ -471,7 +471,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #535: 133 MINTS (EXCL. MUSEUM) | 89 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 133 MINTS (EXCL. MUSEUM) | 89 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
