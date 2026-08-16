@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:54:39.215055+00:00",
+  "generated_at": "2026-08-16T20:19:58.274476+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "18 Sales Today - 0.77 ETH Volume",
-      "summary": "18 sales in 24h for 0.77 ETH. Highest: \"survive at all cost\" at 0.100 ETH.",
+      "headline": "17 Sales Today - 0.67 ETH Volume",
+      "summary": "17 sales in 24h for 0.67 ETH. Highest: \"survive at all cost\" at 0.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "18",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.77",
+          "value": "0.67",
           "sub": "ETH"
         },
         {
@@ -121,10 +121,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.77 ETH",
-      "raw": 0.7686,
-      "delta": -0.03980000000000006,
-      "delta_fmt": "-4.9%"
+      "value": "0.67 ETH",
+      "raw": 0.6686,
+      "delta": -0.2398,
+      "delta_fmt": "-26.4%"
     },
     {
       "label": "7d Vol",
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "35.6 ETH",
-      "raw": 35.64,
-      "delta": 0.35999999999999943,
-      "delta_fmt": "+0.36 ETH"
+      "value": "36.4 ETH",
+      "raw": 36.4,
+      "delta": 0.759999999999998,
+      "delta_fmt": "+0.76 ETH"
     },
     {
       "label": "Network TDH",
@@ -471,7 +471,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #535: 133 MINTS (EXCL. MUSEUM) | 89 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 133 MINTS (EXCL. MUSEUM) | 89 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
