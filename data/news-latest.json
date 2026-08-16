@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T23:58:37.062573+00:00",
+  "generated_at": "2026-08-16T01:50:50.534695+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "MaNiC Leads with 83.6M Projected TDH",
-      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (83.6M projected TDH, 84 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 84 voters) | \"Meme Worthy\" by Baku (28.3M projected TDH, 81 voters) Next selection: Mon Aug 17 at 17:00 CET.",
+      "headline": "MaNiC Leads with 83.7M Projected TDH",
+      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (83.7M projected TDH, 86 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 84 voters) | \"Meme Worthy\" by Baku (28.3M projected TDH, 82 voters) Next selection: Mon Aug 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "MaNiC",
-          "value": "83.6M",
-          "sub": "proj. (84 votes)"
+          "value": "83.7M",
+          "sub": "proj. (86 votes)"
         },
         {
           "label": "underscore",
@@ -40,7 +40,7 @@
         {
           "label": "Baku",
           "value": "28.3M",
-          "sub": "proj. (81 votes)"
+          "sub": "proj. (82 votes)"
         }
       ]
     },
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 1.09 ETH Volume",
-      "summary": "20 sales in 24h for 1.09 ETH. Highest: \"SeizeJPGs\" at 0.240 ETH.",
+      "headline": "20 Sales Today - 1.02 ETH Volume",
+      "summary": "20 sales in 24h for 1.02 ETH. Highest: \"SeizeJPGs\" at 0.240 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,7 +102,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.09",
+          "value": "1.02",
           "sub": "ETH"
         },
         {
@@ -121,37 +121,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.09 ETH",
-      "raw": 1.0861,
-      "delta": -8.6892,
-      "delta_fmt": "-88.9%"
+      "value": "1.02 ETH",
+      "raw": 1.0162,
+      "delta": -8.849,
+      "delta_fmt": "-89.7%"
     },
     {
       "label": "7d Vol",
-      "value": "18.67 ETH",
-      "raw": 18.6668
+      "value": "18.56 ETH",
+      "raw": 18.5555
     },
     {
       "label": "30d Vol",
-      "value": "53.75 ETH",
-      "raw": 53.7465
+      "value": "53.32 ETH",
+      "raw": 53.3222
     },
     {
       "label": "Full Set Bid",
-      "value": "37.3 ETH",
-      "raw": 37.31,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "value": "37.9 ETH",
+      "raw": 37.91,
+      "delta": 0.5999999999999943,
+      "delta_fmt": "+0.60 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1868.7M",
-      "raw": 1868732585
+      "value": "1871.5M",
+      "raw": 1871542994,
+      "delta": 2810409,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 MaNiC",
-      "value": "83.6M TDH",
-      "raw": 83647300
+      "value": "83.7M TDH",
+      "raw": 83653249,
+      "delta": 5949,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -471,7 +475,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #535: 133 MINTS (EXCL. MUSEUM) | 89 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 133 MINTS (EXCL. MUSEUM) | 89 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
