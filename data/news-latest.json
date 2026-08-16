@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T13:18:23.344292+00:00",
+  "generated_at": "2026-08-16T13:52:09.447165+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "MaNiC Leads with 83.8M Projected TDH",
-      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (83.8M projected TDH, 92 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 85 voters) | \"Meme Worthy\" by Baku (28.4M projected TDH, 85 voters) Next selection: Mon Aug 17 at 17:00 CET.",
+      "headline": "MaNiC Leads with 83.9M Projected TDH",
+      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (83.9M projected TDH, 94 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 85 voters) | \"Meme Worthy\" by Baku (28.4M projected TDH, 85 voters) Next selection: Mon Aug 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "MaNiC",
-          "value": "83.8M",
-          "sub": "proj. (92 votes)"
+          "value": "83.9M",
+          "sub": "proj. (94 votes)"
         },
         {
           "label": "underscore",
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 0.68 ETH Volume",
-      "summary": "15 sales in 24h for 0.68 ETH. Highest: \"survive at all cost\" at 0.100 ETH.",
+      "headline": "14 Sales Today - 0.58 ETH Volume",
+      "summary": "14 sales in 24h for 0.58 ETH. Highest: \"survive at all cost\" at 0.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -89,20 +89,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/21.WEBP",
-          "label": "Open Roads, Open Metaverse - 0.080 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/477.GIF",
+          "label": "\u200bMEMERY CARD GAME - ALL SEASONS - 0.070 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.68",
+          "value": "0.58",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.68 ETH",
-      "raw": 0.6835,
-      "delta": -1.2978,
-      "delta_fmt": "-65.5%"
+      "value": "0.58 ETH",
+      "raw": 0.5786,
+      "delta": -1.5427000000000002,
+      "delta_fmt": "-72.7%"
     },
     {
       "label": "7d Vol",
-      "value": "17.83 ETH",
-      "raw": 17.8347
+      "value": "17.87 ETH",
+      "raw": 17.8698
     },
     {
       "label": "30d Vol",
-      "value": "53.41 ETH",
-      "raw": 53.4057
+      "value": "53.44 ETH",
+      "raw": 53.4408
     },
     {
       "label": "Full Set Bid",
-      "value": "34.7 ETH",
-      "raw": 34.74,
-      "delta": 0.7000000000000028,
-      "delta_fmt": "+0.70 ETH"
+      "value": "35.8 ETH",
+      "raw": 35.8,
+      "delta": 1.0599999999999952,
+      "delta_fmt": "+1.06 ETH"
     },
     {
       "label": "Network TDH",
@@ -150,10 +150,10 @@
     },
     {
       "label": "#1 MaNiC",
-      "value": "83.8M TDH",
-      "raw": 83812524,
-      "delta": -3100,
-      "delta_fmt": "-0.0M TDH"
+      "value": "83.9M TDH",
+      "raw": 83913388,
+      "delta": 100864,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -473,7 +473,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #535: 133 MINTS (EXCL. MUSEUM) | 89 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 133 MINTS (EXCL. MUSEUM) | 89 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
