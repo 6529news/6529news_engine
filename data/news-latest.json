@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:54:21.780497+00:00",
+  "generated_at": "2026-08-17T09:39:45.318534+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "MaNiC Leads with 83.9M Projected TDH",
-      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (83.9M projected TDH, 95 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 85 voters) | \"Meme Worthy\" by Baku (36.0M projected TDH, 91 voters) Next selection: Mon Aug 17 at 17:00 CET.",
+      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (83.9M projected TDH, 95 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 86 voters) | \"Meme Worthy\" by Baku (36.0M projected TDH, 91 voters) Next selection: Mon Aug 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "underscore",
           "value": "54.4M",
-          "sub": "proj. (85 votes)"
+          "sub": "proj. (86 votes)"
         },
         {
           "label": "Baku",
@@ -61,7 +61,7 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "34.2 ETH",
-      "raw": 34.24,
-      "delta": -1.5799999999999983,
-      "delta_fmt": "-1.58 ETH"
+      "value": "35.8 ETH",
+      "raw": 35.82,
+      "delta": 1.5799999999999983,
+      "delta_fmt": "+1.58 ETH"
     },
     {
       "label": "Network TDH",
@@ -471,7 +471,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #535: 133 MINTS (EXCL. MUSEUM) | 89 HOLDERS | TERMS AND CONDITIONS",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #535: 133 MINTS (EXCL. MUSEUM) | 89 HOLDERS | TERMS AND CONDITIONS"
   ]
 }
