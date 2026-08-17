@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:59:28.099854+00:00",
+  "generated_at": "2026-08-17T16:34:44.432504+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,22 +16,30 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "MaNiC Leads with 84.1M Projected TDH",
-      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (84.1M projected TDH, 101 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 86 voters) | \"Meme Worthy\" by Baku (36.2M projected TDH, 93 voters) Next selection: Mon Aug 17 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING WEDNESDAY",
+      "headline": "Minting Wednesday",
+      "summary": " \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC \u2014 84.1M TDH from 101 voters. Top supporter: gpebbles (16.5M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_6eb11b74-0e55-4be8-8db3-143f56289a46/a0740c59-941c-4d59-8ce5-f4545f0197ff/No-Human-Interface-6529.gif",
         "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - MaNiC",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "underscore Leads with 54.4M Projected TDH",
+      "summary": "\"the_only_cloud\" by underscore (54.4M projected TDH, 86 voters) | \"Meme Worthy\" by Baku (48.0M projected TDH, 96 voters) | \"Cycle of Creation\" by RalenArc (19.9M projected TDH, 72 voters) Next selection: Wed Aug 19 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_367b7a4b-7108-45ea-b630-e84241b555f8/5dceeb9b-d715-43a8-b9a5-8e1929396e3c/the-only-cloud.gif",
+        "label": "the_only_cloud - underscore",
+        "type": "image"
+      },
       "dataBoxes": [
-        {
-          "label": "MaNiC",
-          "value": "84.1M",
-          "sub": "proj. (101 votes)"
-        },
         {
           "label": "underscore",
           "value": "54.4M",
@@ -39,15 +47,20 @@
         },
         {
           "label": "Baku",
-          "value": "36.2M",
-          "sub": "proj. (93 votes)"
+          "value": "48.0M",
+          "sub": "proj. (96 votes)"
+        },
+        {
+          "label": "RalenArc",
+          "value": "19.9M",
+          "sub": "proj. (72 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: vertigo (11.2M).",
+      "summary": "1 submissions this week. Ranking: vertigo (11.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 1.47 ETH Volume",
-      "summary": "19 sales in 24h for 1.47 ETH. Highest: \"The Institutions Are Coming\" at 0.360 ETH.",
+      "headline": "20 Sales Today - 1.51 ETH Volume",
+      "summary": "20 sales in 24h for 1.51 ETH. Highest: \"The Institutions Are Coming\" at 0.360 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.47",
+          "value": "1.51",
           "sub": "ETH"
         },
         {
@@ -121,32 +134,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.47 ETH",
-      "raw": 1.4694,
-      "delta": 0.8308000000000001,
-      "delta_fmt": "+130.1%"
+      "value": "1.51 ETH",
+      "raw": 1.5074,
+      "delta": 0.8688000000000001,
+      "delta_fmt": "+136.0%"
     },
     {
       "label": "7d Vol",
-      "value": "18.03 ETH",
-      "raw": 18.0309
+      "value": "18.07 ETH",
+      "raw": 18.0689
     },
     {
       "label": "30d Vol",
-      "value": "54.45 ETH",
-      "raw": 54.4464
+      "value": "54.48 ETH",
+      "raw": 54.4844
     },
     {
       "label": "Full Set Bid",
-      "value": "36.2 ETH",
-      "raw": 36.21,
-      "delta": -1.8800000000000026,
-      "delta_fmt": "-1.88 ETH"
+      "value": "38.2 ETH",
+      "raw": 38.2,
+      "delta": 1.990000000000002,
+      "delta_fmt": "+1.99 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1874.3M",
       "raw": 1874340054
+    },
+    {
+      "label": "#1 underscore",
+      "value": "54.4M TDH",
+      "raw": 54403976,
+      "delta": 261208,
+      "delta_fmt": "+0.3M TDH"
     },
     {
       "label": "#1 MaNiC",
@@ -157,11 +177,6 @@
       "label": "#1 CasaNUA",
       "value": "73.5M TDH",
       "raw": 73548179
-    },
-    {
-      "label": "#1 underscore",
-      "value": "54.1M TDH",
-      "raw": 54142768
     },
     {
       "label": "#1 desolalasisi",
@@ -471,7 +486,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #536: 116 MINTS (EXCL. MUSEUM) | 86 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #536: 116 MINTS (EXCL. MUSEUM) | 86 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0"
   ]
 }
