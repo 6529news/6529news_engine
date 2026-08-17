@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:07:24.887933+00:00",
+  "generated_at": "2026-08-17T15:39:21.007973+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "MaNiC Leads with 84.1M Projected TDH",
-      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (84.1M projected TDH, 100 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 86 voters) | \"Meme Worthy\" by Baku (36.2M projected TDH, 93 voters) Next selection: Mon Aug 17 at 17:00 CET.",
+      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (84.1M projected TDH, 101 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 86 voters) | \"Meme Worthy\" by Baku (36.2M projected TDH, 93 voters) Next selection: Mon Aug 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "MaNiC",
           "value": "84.1M",
-          "sub": "proj. (100 votes)"
+          "sub": "proj. (101 votes)"
         },
         {
           "label": "underscore",
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "33.5 ETH",
-      "raw": 33.52,
-      "delta": -0.0899999999999963,
-      "delta_fmt": "-0.09 ETH"
+      "value": "38.1 ETH",
+      "raw": 38.09,
+      "delta": 4.57,
+      "delta_fmt": "+4.57 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,8 +151,8 @@
     {
       "label": "#1 MaNiC",
       "value": "84.1M TDH",
-      "raw": 84081293,
-      "delta": 58,
+      "raw": 84081615,
+      "delta": 322,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -473,7 +473,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #536: 108 MINTS (EXCL. MUSEUM) | 83 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #536: 115 MINTS (EXCL. MUSEUM) | 86 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0"
   ]
 }
