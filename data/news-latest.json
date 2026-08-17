@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:41:01.318237+00:00",
+  "generated_at": "2026-08-17T13:26:46.665790+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "MaNiC Leads with 84.1M Projected TDH",
-      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (84.1M projected TDH, 98 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 86 voters) | \"Meme Worthy\" by Baku (36.2M projected TDH, 93 voters) Next selection: Mon Aug 17 at 17:00 CET.",
+      "summary": "\"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC (84.1M projected TDH, 99 voters) | \"the_only_cloud\" by underscore (54.4M projected TDH, 86 voters) | \"Meme Worthy\" by Baku (36.2M projected TDH, 93 voters) Next selection: Mon Aug 17 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "MaNiC",
           "value": "84.1M",
-          "sub": "proj. (98 votes)"
+          "sub": "proj. (99 votes)"
         },
         {
           "label": "underscore",
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "12 Sales Today - 1.03 ETH Volume",
-      "summary": "12 sales in 24h for 1.03 ETH. Highest: \"The Institutions Are Coming\" at 0.360 ETH.",
+      "headline": "12 Sales Today - 1.04 ETH Volume",
+      "summary": "12 sales in 24h for 1.04 ETH. Highest: \"The Institutions Are Coming\" at 0.360 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,7 +102,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.03",
+          "value": "1.04",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.03 ETH",
-      "raw": 1.0268,
-      "delta": 0.34329999999999994,
-      "delta_fmt": "+50.2%"
+      "value": "1.04 ETH",
+      "raw": 1.0414,
+      "delta": 0.3579000000000001,
+      "delta_fmt": "+52.4%"
     },
     {
       "label": "7d Vol",
-      "value": "17.50 ETH",
-      "raw": 17.498
+      "value": "17.54 ETH",
+      "raw": 17.5429
     },
     {
       "label": "30d Vol",
-      "value": "53.92 ETH",
-      "raw": 53.924
+      "value": "53.96 ETH",
+      "raw": 53.9584
     },
     {
       "label": "Full Set Bid",
-      "value": "36.0 ETH",
-      "raw": 36.03,
-      "delta": 0.5700000000000003,
-      "delta_fmt": "+0.57 ETH"
+      "value": "35.9 ETH",
+      "raw": 35.93,
+      "delta": -0.10000000000000142,
+      "delta_fmt": "-0.10 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,9 @@
     {
       "label": "#1 MaNiC",
       "value": "84.1M TDH",
-      "raw": 84078907,
-      "delta": 158635,
-      "delta_fmt": "+0.2M TDH"
+      "raw": 84081235,
+      "delta": 2328,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 CasaNUA",
@@ -473,7 +473,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #536: 108 MINTS (EXCL. MUSEUM) | 81 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #536: 108 MINTS (EXCL. MUSEUM) | 83 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0"
   ]
 }
