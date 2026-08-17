@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:44:27.430806+00:00",
+  "generated_at": "2026-08-17T18:14:07.552872+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Baku Leads with 58.0M Projected TDH",
-      "summary": "\"Meme Worthy\" by Baku (58.0M projected TDH, 100 voters) | \"the_only_cloud\" by underscore (54.5M projected TDH, 86 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (20.6M projected TDH, 64 voters) Next selection: Wed Aug 19 at 17:00 CET.",
+      "headline": "Baku Leads with 58.2M Projected TDH",
+      "summary": "\"Meme Worthy\" by Baku (58.2M projected TDH, 100 voters) | \"the_only_cloud\" by underscore (54.5M projected TDH, 86 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (20.6M projected TDH, 64 voters) Next selection: Wed Aug 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "Baku",
-          "value": "58.0M",
+          "value": "58.2M",
           "sub": "proj. (100 votes)"
         },
         {
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
@@ -142,19 +142,17 @@
     {
       "label": "7d Vol",
       "value": "18.07 ETH",
-      "raw": 18.0686
+      "raw": 18.0689
     },
     {
       "label": "30d Vol",
       "value": "54.48 ETH",
-      "raw": 54.4833
+      "raw": 54.4844
     },
     {
       "label": "Full Set Bid",
       "value": "38.3 ETH",
-      "raw": 38.34,
-      "delta": 0.13000000000000256,
-      "delta_fmt": "+0.13 ETH"
+      "raw": 38.34
     },
     {
       "label": "Network TDH",
@@ -163,10 +161,10 @@
     },
     {
       "label": "#1 Baku",
-      "value": "58.0M TDH",
-      "raw": 58023921,
-      "delta": 4340086,
-      "delta_fmt": "+4.3M TDH"
+      "value": "58.2M TDH",
+      "raw": 58222134,
+      "delta": 198213,
+      "delta_fmt": "+0.2M TDH"
     },
     {
       "label": "#1 underscore",
@@ -491,7 +489,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0"
   ]
 }
