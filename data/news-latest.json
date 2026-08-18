@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T22:50:13.624037+00:00",
+  "generated_at": "2026-08-18T23:20:28.197481+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING WEDNESDAY",
-      "headline": "Minting Wednesday",
-      "summary": " \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC \u2014 84.1M TDH from 101 voters. Top supporter: gpebbles (16.5M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" by MaNiC \u2014 84.1M TDH from 101 voters. Top supporter: gpebbles (16.5M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "4 Sales Today - 0.48 ETH Volume",
-      "summary": "4 sales in 24h for 0.48 ETH. Highest: \"SeizeJPGs\" at 0.330 ETH.",
+      "headline": "5 Sales Today - 0.60 ETH Volume",
+      "summary": "5 sales in 24h for 0.60 ETH. Highest: \"SeizeJPGs\" at 0.330 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -84,25 +84,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/320.WEBP",
-          "label": "Pepe: Instructions Not Clear - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/32.WEBP",
+          "label": "You Can't Touch This - 0.120 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/503.WEBP",
-          "label": "The Daily Meme - 0.060 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/320.WEBP",
+          "label": "Pepe: Instructions Not Clear - 0.070 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "4",
+          "value": "5",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.48",
+          "value": "0.60",
           "sub": "ETH"
         },
         {
@@ -121,25 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.48 ETH",
-      "raw": 0.4839,
-      "delta": -1.0622,
-      "delta_fmt": "-68.7%"
+      "value": "0.60 ETH",
+      "raw": 0.6039,
+      "delta": -0.9422,
+      "delta_fmt": "-60.9%"
     },
     {
       "label": "7d Vol",
-      "value": "17.77 ETH",
-      "raw": 17.772
+      "value": "17.89 ETH",
+      "raw": 17.892
     },
     {
       "label": "30d Vol",
-      "value": "53.96 ETH",
-      "raw": 53.957
+      "value": "54.08 ETH",
+      "raw": 54.077
     },
     {
       "label": "Full Set Bid",
       "value": "39.2 ETH",
-      "raw": 39.22
+      "raw": 39.21,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -474,7 +476,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0"
   ]
 }
