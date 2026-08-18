@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-08-18T14:52:03.908498+00:00",
+  "generated_at": "2026-08-18T15:30:09.242280+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Keys and Gates at Dominio PubliCC0\" by CasaNUA \u2014 73.5M TDH from 59 voters. Top supporter: Giopetto (8.9M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/536.GIF",
-        "label": "Keys and Gates at Dominio PubliCC0 - CasaNUA",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING WEDNESDAY",
       "headline": "Minting Wednesday",
@@ -125,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016923",
+          "value": "0.01692",
           "sub": "ETH"
         }
       ]
@@ -152,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.8 ETH",
-      "raw": 38.84,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "raw": 38.82,
+      "delta": -0.020000000000003126,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +151,9 @@
     {
       "label": "#1 Baku",
       "value": "66.1M TDH",
-      "raw": 66107600,
-      "delta": 150550,
-      "delta_fmt": "+0.2M TDH"
+      "raw": 66107620,
+      "delta": 20,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -491,7 +478,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0"
   ]
 }
