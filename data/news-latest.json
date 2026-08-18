@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:53:25.861164+00:00",
+  "generated_at": "2026-08-18T09:31:45.772373+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: vertigo (16.6M).",
+      "summary": "1 submissions this week. Ranking: vertigo (16.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -135,26 +135,26 @@
     {
       "label": "24h Vol",
       "value": "1.24 ETH",
-      "raw": 1.2426,
-      "delta": 0.1984999999999999,
+      "raw": 1.2425,
+      "delta": 0.1983999999999999,
       "delta_fmt": "+19.0%"
     },
     {
       "label": "7d Vol",
       "value": "17.99 ETH",
-      "raw": 17.9941
+      "raw": 17.9933
     },
     {
       "label": "30d Vol",
       "value": "53.93 ETH",
-      "raw": 53.9331
+      "raw": 53.9305
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH",
-      "raw": 38.65,
-      "delta": 0.04999999999999716,
-      "delta_fmt": "+0.05 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.41,
+      "delta": -0.240000000000002,
+      "delta_fmt": "-0.24 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +164,7 @@
     {
       "label": "#1 Baku",
       "value": "65.9M TDH",
-      "raw": 65928841,
-      "delta": 19,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 65928841
     },
     {
       "label": "#1 underscore",
@@ -491,7 +489,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0"
   ]
 }
