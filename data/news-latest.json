@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:57:55.921038+00:00",
+  "generated_at": "2026-08-18T01:38:42.752625+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Baku Leads with 59.1M Projected TDH",
-      "summary": "\"Meme Worthy\" by Baku (59.1M projected TDH, 103 voters) | \"the_only_cloud\" by underscore (54.0M projected TDH, 86 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (20.9M projected TDH, 65 voters) Next selection: Wed Aug 19 at 17:00 CET.",
+      "headline": "Baku Leads with 65.9M Projected TDH",
+      "summary": "\"Meme Worthy\" by Baku (65.9M projected TDH, 106 voters) | \"the_only_cloud\" by underscore (54.0M projected TDH, 86 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (20.9M projected TDH, 65 voters) Next selection: Wed Aug 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Baku",
-          "value": "59.1M",
-          "sub": "proj. (103 votes)"
+          "value": "65.9M",
+          "sub": "proj. (106 votes)"
         },
         {
           "label": "underscore",
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: vertigo (15.6M).",
+      "summary": "1 submissions this week. Ranking: vertigo (16.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,33 +69,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
       "headline": "20 Sales Today - 1.55 ETH Volume",
-      "summary": "20 sales in 24h for 1.55 ETH. Highest: \"The Institutions Are Coming\" at 0.360 ETH.",
+      "summary": "20 sales in 24h for 1.55 ETH. Highest: \"Sit, Wait, Watch Them Burn\" at 0.200 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
-        "label": "The Institutions Are Coming - 0.360 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/325.WEBP",
+        "label": "Sit, Wait, Watch Them Burn - 0.200 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
-          "label": "The Institutions Are Coming - 0.360 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/325.WEBP",
           "label": "Sit, Wait, Watch Them Burn - 0.200 ETH",
@@ -104,6 +99,11 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
           "label": "Meme Enjoyoor - 0.100 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/10.WEBP",
+          "label": "A Meditation on GM - 0.090 ETH",
           "type": "image"
         }
       ],
@@ -120,8 +120,8 @@
         },
         {
           "label": "Top Sale",
-          "value": "0.360",
-          "sub": "The Institutions Are"
+          "value": "0.200",
+          "sub": "Sit, Wait, Watch The"
         },
         {
           "label": "Floor",
@@ -136,8 +136,8 @@
       "label": "24h Vol",
       "value": "1.55 ETH",
       "raw": 1.5461,
-      "delta": 1.1796,
-      "delta_fmt": "+321.9%"
+      "delta": 0.8396,
+      "delta_fmt": "+118.8%"
     },
     {
       "label": "7d Vol",
@@ -151,20 +151,24 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.3 ETH",
-      "raw": 38.28,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "value": "38.6 ETH",
+      "raw": 38.57,
+      "delta": 0.28999999999999915,
+      "delta_fmt": "+0.29 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1874.3M",
-      "raw": 1874340054
+      "value": "1877.0M",
+      "raw": 1876966010,
+      "delta": 2625956,
+      "delta_fmt": "+2.6M TDH"
     },
     {
       "label": "#1 Baku",
-      "value": "59.1M TDH",
-      "raw": 59055065
+      "value": "65.9M TDH",
+      "raw": 65918166,
+      "delta": 6863101,
+      "delta_fmt": "+6.9M TDH"
     },
     {
       "label": "#1 underscore",
@@ -489,7 +493,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0"
   ]
 }
