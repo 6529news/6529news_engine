@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T02:41:36.383756+00:00",
+  "generated_at": "2026-08-18T03:27:32.783523+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -69,33 +69,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
       "headline": "19 Sales Today - 1.06 ETH Volume",
-      "summary": "19 sales in 24h for 1.06 ETH. Highest: \"Sit, Wait, Watch Them Burn\" at 0.200 ETH.",
+      "summary": "19 sales in 24h for 1.06 ETH. Highest: \"Meme Enjoyoor\" at 0.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/325.WEBP",
-        "label": "Sit, Wait, Watch Them Burn - 0.200 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
+        "label": "Meme Enjoyoor - 0.100 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/325.WEBP",
-          "label": "Sit, Wait, Watch Them Burn - 0.200 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
           "label": "Meme Enjoyoor - 0.100 ETH",
@@ -104,6 +99,11 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/10.WEBP",
           "label": "A Meditation on GM - 0.090 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/320.WEBP",
+          "label": "Pepe: Instructions Not Clear - 0.070 ETH",
           "type": "image"
         }
       ],
@@ -120,8 +120,8 @@
         },
         {
           "label": "Top Sale",
-          "value": "0.200",
-          "sub": "Sit, Wait, Watch The"
+          "value": "0.100",
+          "sub": "Meme Enjoyoor"
         },
         {
           "label": "Floor",
@@ -136,8 +136,8 @@
       "label": "24h Vol",
       "value": "1.06 ETH",
       "raw": 1.0561,
-      "delta": 0.14960000000000007,
-      "delta_fmt": "+16.5%"
+      "delta": 0.1655000000000001,
+      "delta_fmt": "+18.6%"
     },
     {
       "label": "7d Vol",
@@ -151,10 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.6 ETH",
-      "raw": 38.62,
-      "delta": 0.04999999999999716,
-      "delta_fmt": "+0.05 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.45,
+      "delta": -0.1699999999999946,
+      "delta_fmt": "-0.17 ETH"
     },
     {
       "label": "Network TDH",
@@ -489,7 +489,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #536: 117 MINTS (EXCL. MUSEUM) | 87 HOLDERS | KEYS AND GATES AT DOMINIO PUBLICC0"
   ]
 }
