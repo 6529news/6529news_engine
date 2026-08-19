@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:40:47.172088+00:00",
+  "generated_at": "2026-08-19T22:00:29.590939+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "underscore Leads with 59.1M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (59.1M projected TDH, 89 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (27.4M projected TDH, 72 voters) | \"Burn Mechanism\" by Gray (19.2M projected TDH, 41 voters) Next selection: Fri Aug 21 at 17:00 CET.",
+      "headline": "underscore Leads with 59.7M Projected TDH",
+      "summary": "\"the_only_cloud\" by underscore (59.7M projected TDH, 89 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (27.4M projected TDH, 72 voters) | \"Burn Mechanism\" by Gray (19.2M projected TDH, 41 voters) Next selection: Fri Aug 21 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "underscore",
-          "value": "59.1M",
+          "value": "59.7M",
           "sub": "proj. (89 votes)"
         },
         {
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 1.67 ETH Volume",
-      "summary": "17 sales in 24h for 1.67 ETH. Highest: \"Sgt. Pepe\" at 0.699 ETH.",
+      "headline": "18 Sales Today - 1.68 ETH Volume",
+      "summary": "18 sales in 24h for 1.68 ETH. Highest: \"Sgt. Pepe\" at 0.699 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "18",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.67",
+          "value": "1.68",
           "sub": "ETH"
         },
         {
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.67 ETH",
-      "raw": 1.6671,
-      "delta": 1.1832,
-      "delta_fmt": "+244.5%"
+      "value": "1.68 ETH",
+      "raw": 1.6849,
+      "delta": 1.201,
+      "delta_fmt": "+248.2%"
     },
     {
       "label": "7d Vol",
       "value": "17.19 ETH",
-      "raw": 17.1908
+      "raw": 17.1887
     },
     {
       "label": "30d Vol",
-      "value": "53.43 ETH",
-      "raw": 53.4337
+      "value": "53.38 ETH",
+      "raw": 53.3848
     },
     {
       "label": "Full Set Bid",
-      "value": "39.5 ETH",
-      "raw": 39.46,
-      "delta": 1.3999999999999986,
-      "delta_fmt": "+1.40 ETH"
+      "value": "39.6 ETH",
+      "raw": 39.57,
+      "delta": 0.10999999999999943,
+      "delta_fmt": "+0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,8 +163,10 @@
     },
     {
       "label": "#1 underscore",
-      "value": "59.1M TDH",
-      "raw": 59111077
+      "value": "59.7M TDH",
+      "raw": 59698687,
+      "delta": 587610,
+      "delta_fmt": "+0.6M TDH"
     },
     {
       "label": "#1 Baku",
@@ -490,7 +492,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.699 ETH",
-    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 139 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 139 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
   ]
 }
