@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T16:47:06.212508+00:00",
+  "generated_at": "2026-08-19T17:25:14.197513+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "underscore Leads with 59.1M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (59.1M projected TDH, 88 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (20.9M projected TDH, 70 voters) | \"Burn Mechanism\" by Gray (19.1M projected TDH, 38 voters) Next selection: Fri Aug 21 at 17:00 CET.",
+      "summary": "\"the_only_cloud\" by underscore (59.1M projected TDH, 88 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (21.1M projected TDH, 70 voters) | \"Burn Mechanism\" by Gray (19.2M projected TDH, 39 voters) Next selection: Fri Aug 21 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,13 +47,13 @@
         },
         {
           "label": "Ebrahim_Elmi",
-          "value": "20.9M",
+          "value": "21.1M",
           "sub": "proj. (70 votes)"
         },
         {
           "label": "Gray",
-          "value": "19.1M",
-          "sub": "proj. (38 votes)"
+          "value": "19.2M",
+          "sub": "proj. (39 votes)"
         }
       ]
     },
@@ -81,8 +81,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 1.43 ETH Volume",
-      "summary": "11 sales in 24h for 1.43 ETH. Highest: \"Sgt. Pepe\" at 0.699 ETH.",
+      "headline": "12 Sales Today - 1.44 ETH Volume",
+      "summary": "12 sales in 24h for 1.44 ETH. Highest: \"Sgt. Pepe\" at 0.699 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.43",
+          "value": "1.44",
           "sub": "ETH"
         },
         {
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.43 ETH",
-      "raw": 1.4274,
-      "delta": 0.737,
-      "delta_fmt": "+106.7%"
+      "value": "1.44 ETH",
+      "raw": 1.4424,
+      "delta": 0.7519999999999999,
+      "delta_fmt": "+108.9%"
     },
     {
       "label": "7d Vol",
-      "value": "17.65 ETH",
-      "raw": 17.6503
+      "value": "17.67 ETH",
+      "raw": 17.6653
     },
     {
       "label": "30d Vol",
-      "value": "53.13 ETH",
-      "raw": 53.1273
+      "value": "53.14 ETH",
+      "raw": 53.1423
     },
     {
       "label": "Full Set Bid",
-      "value": "37.5 ETH",
-      "raw": 37.53,
-      "delta": -2.1000000000000014,
-      "delta_fmt": "-2.10 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.39,
+      "delta": 0.8599999999999994,
+      "delta_fmt": "+0.86 ETH"
     },
     {
       "label": "Network TDH",
@@ -490,7 +490,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.699 ETH",
-    "CARD #537: 190 MINTS (EXCL. MUSEUM) | 124 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 137 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
   ]
 }
