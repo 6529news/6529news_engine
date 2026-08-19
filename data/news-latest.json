@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T19:08:38.203018+00:00",
+  "generated_at": "2026-08-19T19:39:13.182317+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "underscore Leads with 59.1M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (59.1M projected TDH, 89 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (27.3M projected TDH, 72 voters) | \"Burn Mechanism\" by Gray (19.2M projected TDH, 40 voters) Next selection: Fri Aug 21 at 17:00 CET.",
+      "summary": "\"the_only_cloud\" by underscore (59.1M projected TDH, 89 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (27.3M projected TDH, 72 voters) | \"Burn Mechanism\" by Gray (19.2M projected TDH, 41 voters) Next selection: Fri Aug 21 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -53,7 +53,7 @@
         {
           "label": "Gray",
           "value": "19.2M",
-          "sub": "proj. (40 votes)"
+          "sub": "proj. (41 votes)"
         }
       ]
     },
@@ -151,10 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.9 ETH",
-      "raw": 37.9,
-      "delta": -1.5900000000000034,
-      "delta_fmt": "-1.59 ETH"
+      "value": "38.8 ETH",
+      "raw": 38.8,
+      "delta": 0.8999999999999986,
+      "delta_fmt": "+0.90 ETH"
     },
     {
       "label": "Network TDH",
@@ -490,7 +490,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.699 ETH",
-    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 140 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 140 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
   ]
 }
