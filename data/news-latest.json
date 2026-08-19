@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:03:36.763088+00:00",
+  "generated_at": "2026-08-19T09:48:34.010190+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -139,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "38.4 ETH",
-      "raw": 38.37,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 38.4,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -477,7 +477,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.699 ETH",
-    "CARD #537: 119 MINTS (EXCL. MUSEUM) | 83 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #537: 119 MINTS (EXCL. MUSEUM) | 83 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
   ]
 }
