@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:27:05.558438+00:00",
+  "generated_at": "2026-08-19T10:55:48.513208+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "6 Sales Today - 1.13 ETH Volume",
-      "summary": "6 sales in 24h for 1.13 ETH. Highest: \"Sgt. Pepe\" at 0.699 ETH.",
+      "headline": "5 Sales Today - 1.11 ETH Volume",
+      "summary": "5 sales in 24h for 1.11 ETH. Highest: \"Sgt. Pepe\" at 0.699 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "6",
+          "value": "5",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.13",
+          "value": "1.11",
           "sub": "ETH"
         },
         {
@@ -121,10 +121,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.13 ETH",
-      "raw": 1.1329,
-      "delta": -0.13359999999999994,
-      "delta_fmt": "-10.5%"
+      "value": "1.11 ETH",
+      "raw": 1.109,
+      "delta": -0.15749999999999997,
+      "delta_fmt": "-12.4%"
     },
     {
       "label": "7d Vol",
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.4 ETH",
-      "raw": 38.38,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "value": "39.3 ETH",
+      "raw": 39.26,
+      "delta": 0.8799999999999955,
+      "delta_fmt": "+0.88 ETH"
     },
     {
       "label": "Network TDH",
@@ -477,7 +477,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.699 ETH",
-    "CARD #537: 119 MINTS (EXCL. MUSEUM) | 83 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #537: 119 MINTS (EXCL. MUSEUM) | 83 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
   ]
 }
