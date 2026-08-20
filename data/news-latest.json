@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T01:41:01.826617+00:00",
+  "generated_at": "2026-08-20T02:42:52.926067+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "underscore Leads with 59.8M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (59.8M projected TDH, 89 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (36.5M projected TDH, 75 voters) | \"Burn Mechanism\" by Gray (21.6M projected TDH, 43 voters) Next selection: Fri Aug 21 at 17:00 CET.",
+      "summary": "\"the_only_cloud\" by underscore (59.8M projected TDH, 90 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (36.6M projected TDH, 75 voters) | \"Burn Mechanism\" by Gray (21.6M projected TDH, 44 voters) Next selection: Fri Aug 21 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,24 +43,24 @@
         {
           "label": "underscore",
           "value": "59.8M",
-          "sub": "proj. (89 votes)"
+          "sub": "proj. (90 votes)"
         },
         {
           "label": "Ebrahim_Elmi",
-          "value": "36.5M",
+          "value": "36.6M",
           "sub": "proj. (75 votes)"
         },
         {
           "label": "Gray",
           "value": "21.6M",
-          "sub": "proj. (43 votes)"
+          "sub": "proj. (44 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Cuttle (6.0M) | DarkMarkArt (3.3M).",
+      "summary": "2 submissions this week. Ranking: Cuttle (6.0M) | DarkMarkArt (3.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -146,8 +146,8 @@
       "label": "24h Vol",
       "value": "0.93 ETH",
       "raw": 0.9335,
-      "delta": -0.36939999999999995,
-      "delta_fmt": "-28.4%"
+      "delta": -0.2994000000000001,
+      "delta_fmt": "-24.3%"
     },
     {
       "label": "7d Vol",
@@ -161,24 +161,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.4 ETH",
-      "raw": 39.45,
-      "delta": -0.0899999999999963,
-      "delta_fmt": "-0.09 ETH"
+      "value": "38.4 ETH",
+      "raw": 38.43,
+      "delta": -1.0200000000000031,
+      "delta_fmt": "-1.02 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1882.7M",
-      "raw": 1882661594,
-      "delta": 2832543,
-      "delta_fmt": "+2.8M TDH"
+      "raw": 1882661594
     },
     {
       "label": "#1 underscore",
       "value": "59.8M TDH",
-      "raw": 59795006,
-      "delta": -1,
-      "delta_fmt": "-0.0M TDH"
+      "raw": 59798504,
+      "delta": 3498,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Baku",
@@ -503,7 +501,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 139 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 139 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
   ]
 }
