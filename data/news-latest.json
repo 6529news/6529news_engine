@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T10:05:37.868574+00:00",
+  "generated_at": "2026-08-20T10:46:36.895874+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "underscore Leads with 62.8M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (62.8M projected TDH, 92 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (43.1M projected TDH, 77 voters) | \"Burn Mechanism\" by Gray (21.1M projected TDH, 45 voters) Next selection: Fri Aug 21 at 17:00 CET.",
+      "headline": "underscore Leads with 62.9M Projected TDH",
+      "summary": "\"the_only_cloud\" by underscore (62.9M projected TDH, 92 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (43.1M projected TDH, 78 voters) | \"Burn Mechanism\" by Gray (21.1M projected TDH, 45 voters) Next selection: Fri Aug 21 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "underscore",
-          "value": "62.8M",
+          "value": "62.9M",
           "sub": "proj. (92 votes)"
         },
         {
           "label": "Ebrahim_Elmi",
           "value": "43.1M",
-          "sub": "proj. (77 votes)"
+          "sub": "proj. (78 votes)"
         },
         {
           "label": "Gray",
@@ -146,8 +146,8 @@
       "label": "24h Vol",
       "value": "1.14 ETH",
       "raw": 1.1358,
-      "delta": 0.0028999999999999027,
-      "delta_fmt": "+0.3%"
+      "delta": 0.026799999999999935,
+      "delta_fmt": "+2.4%"
     },
     {
       "label": "7d Vol",
@@ -161,10 +161,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "36.2 ETH",
-      "raw": 36.23,
-      "delta": 0.8599999999999994,
-      "delta_fmt": "+0.86 ETH"
+      "value": "37.2 ETH",
+      "raw": 37.17,
+      "delta": 0.9400000000000048,
+      "delta_fmt": "+0.94 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,8 +173,10 @@
     },
     {
       "label": "#1 underscore",
-      "value": "62.8M TDH",
-      "raw": 62846432
+      "value": "62.9M TDH",
+      "raw": 62884232,
+      "delta": 37800,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Baku",
@@ -499,7 +501,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 138 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 138 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
   ]
 }
