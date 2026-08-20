@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:46:13.996552+00:00",
+  "generated_at": "2026-08-20T06:42:45.427034+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -91,8 +91,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "18 Sales Today - 0.93 ETH Volume",
-      "summary": "18 sales in 24h for 0.93 ETH. Highest: \"6529Seizing\" at 0.170 ETH.",
+      "headline": "17 Sales Today - 0.77 ETH Volume",
+      "summary": "17 sales in 24h for 0.77 ETH. Highest: \"6529Seizing\" at 0.170 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "18",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.93",
+          "value": "0.77",
           "sub": "ETH"
         },
         {
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.93 ETH",
-      "raw": 0.9335,
-      "delta": 0.03059999999999996,
-      "delta_fmt": "+3.4%"
+      "value": "0.77 ETH",
+      "raw": 0.7655,
+      "delta": -0.36740000000000006,
+      "delta_fmt": "-32.4%"
     },
     {
       "label": "7d Vol",
-      "value": "17.22 ETH",
-      "raw": 17.2162
+      "value": "17.15 ETH",
+      "raw": 17.1482
     },
     {
       "label": "30d Vol",
-      "value": "51.89 ETH",
-      "raw": 51.8857
+      "value": "51.95 ETH",
+      "raw": 51.9477
     },
     {
       "label": "Full Set Bid",
-      "value": "39.2 ETH",
-      "raw": 39.16,
-      "delta": 1.2399999999999949,
-      "delta_fmt": "+1.24 ETH"
+      "value": "39.3 ETH",
+      "raw": 39.32,
+      "delta": 0.1600000000000037,
+      "delta_fmt": "+0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -499,7 +499,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 139 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 139 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
   ]
 }
