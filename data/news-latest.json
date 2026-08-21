@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:47:58.760674+00:00",
+  "generated_at": "2026-08-21T16:32:40.067122+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,38 +16,51 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "underscore Leads with 77.2M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (77.2M projected TDH, 95 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (47.1M projected TDH, 82 voters) | \"Burn Mechanism\" by Gray (29.4M projected TDH, 55 voters) Next selection: Fri Aug 21 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING MONDAY",
+      "headline": "Minting Monday",
+      "summary": " \"the_only_cloud\" by underscore \u2014 77.2M TDH from 95 voters. Top supporter: Ruskin (24.9M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_367b7a4b-7108-45ea-b630-e84241b555f8/5dceeb9b-d715-43a8-b9a5-8e1929396e3c/the-only-cloud.gif",
         "label": "the_only_cloud - underscore",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "Ebrahim_Elmi Leads with 47.5M Projected TDH",
+      "summary": "\"Tears of the Desert\" by Ebrahim_Elmi (47.5M projected TDH, 82 voters) | \"Burn Mechanism\" by Gray (33.8M projected TDH, 55 voters) | \"Open Source\" by vertigo (19.5M projected TDH, 64 voters) Next selection: Mon Aug 24 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5373ec77-deda-4536-b783-c6d400187567/1f009bc9-4fd1-4341-bbd3-8f6024a5b50b/final.jpg",
+        "label": "Tears of the Desert - Ebrahim_Elmi",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "underscore",
-          "value": "77.2M",
-          "sub": "proj. (95 votes)"
-        },
-        {
           "label": "Ebrahim_Elmi",
-          "value": "47.1M",
+          "value": "47.5M",
           "sub": "proj. (82 votes)"
         },
         {
           "label": "Gray",
-          "value": "29.4M",
+          "value": "33.8M",
           "sub": "proj. (55 votes)"
+        },
+        {
+          "label": "vertigo",
+          "value": "19.5M",
+          "sub": "proj. (64 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Cuttle (6.1M) | DarkMarkArt (3.4M).",
+      "summary": "2 submissions this week. Ranking: DarkMarkArt (8.4M) | Cuttle (6.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -66,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 1.60 ETH Volume",
-      "summary": "16 sales in 24h for 1.60 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.330 ETH.",
+      "headline": "15 Sales Today - 1.50 ETH Volume",
+      "summary": "15 sales in 24h for 1.50 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.330 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.60",
+          "value": "1.50",
           "sub": "ETH"
         },
         {
@@ -131,10 +144,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.60 ETH",
-      "raw": 1.5994,
-      "delta": -0.2522,
-      "delta_fmt": "-13.6%"
+      "value": "1.50 ETH",
+      "raw": 1.4994,
+      "delta": -0.45219999999999994,
+      "delta_fmt": "-23.2%"
     },
     {
       "label": "7d Vol",
@@ -148,15 +161,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.1 ETH",
-      "raw": 38.12,
-      "delta": -1.8000000000000043,
-      "delta_fmt": "-1.80 ETH"
+      "value": "39.9 ETH",
+      "raw": 39.88,
+      "delta": 1.7600000000000051,
+      "delta_fmt": "+1.76 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1885.3M",
       "raw": 1885347945
+    },
+    {
+      "label": "#1 Ebrahim_Elmi",
+      "value": "47.5M TDH",
+      "raw": 47510790,
+      "delta": -6173045,
+      "delta_fmt": "-6.2M TDH"
     },
     {
       "label": "#1 underscore",
@@ -486,7 +506,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 117 MINTS (EXCL. MUSEUM) | 77 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 120 MINTS (EXCL. MUSEUM) | 81 HOLDERS | MEME WORTHY"
   ]
 }
