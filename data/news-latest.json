@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:28:28.861438+00:00",
+  "generated_at": "2026-08-21T20:52:08.279651+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -79,14 +79,14 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
+        "type": "image"
       }
     },
     {
@@ -145,26 +145,26 @@
     {
       "label": "24h Vol",
       "value": "1.97 ETH",
-      "raw": 1.9722,
-      "delta": 0.14949999999999997,
+      "raw": 1.9725,
+      "delta": 0.14979999999999993,
       "delta_fmt": "+8.2%"
     },
     {
       "label": "7d Vol",
       "value": "8.91 ETH",
-      "raw": 8.9125
+      "raw": 8.914
     },
     {
       "label": "30d Vol",
-      "value": "54.06 ETH",
-      "raw": 54.0643
+      "value": "54.07 ETH",
+      "raw": 54.0737
     },
     {
       "label": "Full Set Bid",
       "value": "40.0 ETH",
-      "raw": 39.96,
-      "delta": 0.5200000000000031,
-      "delta_fmt": "+0.52 ETH"
+      "raw": 39.97,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 Ebrahim_Elmi",
       "value": "53.7M TDH",
-      "raw": 53697389,
-      "delta": 81,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 53697389
     },
     {
       "label": "#1 underscore",
@@ -506,7 +504,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 125 MINTS (EXCL. MUSEUM) | 86 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 125 MINTS (EXCL. MUSEUM) | 86 HOLDERS | MEME WORTHY"
   ]
 }
