@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:32:40.067122+00:00",
+  "generated_at": "2026-08-21T16:41:06.684446+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: DarkMarkArt (8.4M) | Cuttle (6.1M).",
+      "summary": "2 submissions this week. Ranking: DarkMarkArt (8.5M) | Cuttle (6.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -162,9 +162,7 @@
     {
       "label": "Full Set Bid",
       "value": "39.9 ETH",
-      "raw": 39.88,
-      "delta": 1.7600000000000051,
-      "delta_fmt": "+1.76 ETH"
+      "raw": 39.88
     },
     {
       "label": "Network TDH",
@@ -174,9 +172,7 @@
     {
       "label": "#1 Ebrahim_Elmi",
       "value": "47.5M TDH",
-      "raw": 47510790,
-      "delta": -6173045,
-      "delta_fmt": "-6.2M TDH"
+      "raw": 47510790
     },
     {
       "label": "#1 underscore",
@@ -507,6 +503,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #538: 120 MINTS (EXCL. MUSEUM) | 81 HOLDERS | MEME WORTHY"
+    "CARD #538: 121 MINTS (EXCL. MUSEUM) | 82 HOLDERS | MEME WORTHY"
   ]
 }
