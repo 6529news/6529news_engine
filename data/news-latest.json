@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:08:27.724101+00:00",
+  "generated_at": "2026-08-21T08:57:50.932141+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "underscore Leads with 77.2M Projected TDH",
-      "summary": "\"the_only_cloud\" by underscore (77.2M projected TDH, 95 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (46.9M projected TDH, 80 voters) | \"Burn Mechanism\" by Gray (27.7M projected TDH, 52 voters) Next selection: Fri Aug 21 at 17:00 CET.",
+      "summary": "\"the_only_cloud\" by underscore (77.2M projected TDH, 95 voters) | \"Tears of the Desert\" by Ebrahim_Elmi (46.9M projected TDH, 80 voters) | \"Burn Mechanism\" by Gray (29.2M projected TDH, 53 voters) Next selection: Fri Aug 21 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -39,8 +39,8 @@
         },
         {
           "label": "Gray",
-          "value": "27.7M",
-          "sub": "proj. (52 votes)"
+          "value": "29.2M",
+          "sub": "proj. (53 votes)"
         }
       ]
     },
@@ -66,59 +66,59 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "36 Sales Today - 1.86 ETH Volume",
-      "summary": "36 sales in 24h for 1.86 ETH. Highest: \"The Institutions Are Coming\" at 0.315 ETH.",
+      "headline": "38 Sales Today - 2.40 ETH Volume",
+      "summary": "38 sales in 24h for 2.40 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.330 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
-        "label": "The Institutions Are Coming - 0.315 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
+        "label": "ALL YOUR BITCOIN - 0.330 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
+          "label": "ALL YOUR BITCOIN - 0.330 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
           "label": "The Institutions Are Coming - 0.315 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.220 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.160 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/237.WEBP",
+          "label": "I CAN HAS ETHEREUM? - 0.235 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "36",
+          "value": "38",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.86",
+          "value": "2.40",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.315",
-          "sub": "The Institutions Are"
+          "value": "0.330",
+          "sub": "ALL YOUR BITCOIN"
         },
         {
           "label": "Floor",
@@ -131,27 +131,25 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.86 ETH",
-      "raw": 1.8555,
-      "delta": 1.061,
-      "delta_fmt": "+133.5%"
+      "value": "2.40 ETH",
+      "raw": 2.4025,
+      "delta": 1.5319999999999998,
+      "delta_fmt": "+176.0%"
     },
     {
       "label": "7d Vol",
-      "value": "8.72 ETH",
-      "raw": 8.7168
+      "value": "9.34 ETH",
+      "raw": 9.3398
     },
     {
       "label": "30d Vol",
-      "value": "52.40 ETH",
-      "raw": 52.4011
+      "value": "53.02 ETH",
+      "raw": 53.0241
     },
     {
       "label": "Full Set Bid",
       "value": "40.0 ETH",
-      "raw": 40.0,
-      "delta": 1.1899999999999977,
-      "delta_fmt": "+1.19 ETH"
+      "raw": 40.0
     },
     {
       "label": "Network TDH",
@@ -486,7 +484,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 140 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 140 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
   ]
 }
