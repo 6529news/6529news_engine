@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T04:23:04.701755+00:00",
+  "generated_at": "2026-08-21T05:04:40.776392+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -78,8 +78,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "37 Sales Today - 1.89 ETH Volume",
-      "summary": "37 sales in 24h for 1.89 ETH. Highest: \"The Institutions Are Coming\" at 0.315 ETH.",
+      "headline": "38 Sales Today - 1.96 ETH Volume",
+      "summary": "38 sales in 24h for 1.96 ETH. Highest: \"The Institutions Are Coming\" at 0.315 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "37",
+          "value": "38",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.89",
+          "value": "1.96",
           "sub": "ETH"
         },
         {
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.89 ETH",
-      "raw": 1.8945,
-      "delta": 0.9610000000000001,
-      "delta_fmt": "+102.9%"
+      "value": "1.96 ETH",
+      "raw": 1.9565,
+      "delta": 1.023,
+      "delta_fmt": "+109.6%"
     },
     {
       "label": "7d Vol",
-      "value": "16.84 ETH",
-      "raw": 16.8448
+      "value": "16.91 ETH",
+      "raw": 16.9068
     },
     {
       "label": "30d Vol",
-      "value": "52.29 ETH",
-      "raw": 52.2891
+      "value": "52.35 ETH",
+      "raw": 52.3511
     },
     {
       "label": "Full Set Bid",
-      "value": "36.4 ETH",
-      "raw": 36.4,
-      "delta": -3.690000000000005,
-      "delta_fmt": "-3.69 ETH"
+      "value": "40.0 ETH",
+      "raw": 40.03,
+      "delta": 3.6300000000000026,
+      "delta_fmt": "+3.63 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,7 @@
     {
       "label": "#1 underscore",
       "value": "77.2M TDH",
-      "raw": 77188876,
-      "delta": 503729,
-      "delta_fmt": "+0.5M TDH"
+      "raw": 77188876
     },
     {
       "label": "#1 Baku",
@@ -488,7 +486,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 140 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #537: 295 MINTS (EXCL. MUSEUM) | 140 HOLDERS | \uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
   ]
 }
