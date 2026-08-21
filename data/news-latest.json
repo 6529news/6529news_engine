@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:30:52.206391+00:00",
+  "generated_at": "2026-08-21T19:56:50.222230+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -161,10 +161,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "34.7 ETH",
-      "raw": 34.73,
-      "delta": -5.310000000000002,
-      "delta_fmt": "-5.31 ETH"
+      "value": "39.4 ETH",
+      "raw": 39.44,
+      "delta": 4.710000000000001,
+      "delta_fmt": "+4.71 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 Ebrahim_Elmi",
       "value": "53.7M TDH",
-      "raw": 53697308,
-      "delta": 1625,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 53697308
     },
     {
       "label": "#1 underscore",
@@ -506,7 +504,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 125 MINTS (EXCL. MUSEUM) | 86 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 125 MINTS (EXCL. MUSEUM) | 86 HOLDERS | MEME WORTHY"
   ]
 }
