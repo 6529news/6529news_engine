@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T05:53:24.180755+00:00",
+  "generated_at": "2026-08-22T06:37:38.448091+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Ebrahim_Elmi Leads with 53.7M Projected TDH",
-      "summary": "\"Tears of the Desert\" by Ebrahim_Elmi (53.7M projected TDH, 83 voters) | \"Burn Mechanism\" by Gray (34.8M projected TDH, 57 voters) | \"Open Source\" by vertigo (21.0M projected TDH, 65 voters) Next selection: Mon Aug 24 at 17:00 CET.",
+      "summary": "\"Tears of the Desert\" by Ebrahim_Elmi (53.7M projected TDH, 83 voters) | \"Burn Mechanism\" by Gray (34.8M projected TDH, 58 voters) | \"Open Source\" by vertigo (21.0M projected TDH, 65 voters) Next selection: Mon Aug 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +48,7 @@
         {
           "label": "Gray",
           "value": "34.8M",
-          "sub": "proj. (57 votes)"
+          "sub": "proj. (58 votes)"
         },
         {
           "label": "vertigo",
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 1.88 ETH Volume",
-      "summary": "20 sales in 24h for 1.88 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.330 ETH.",
+      "headline": "21 Sales Today - 2.04 ETH Volume",
+      "summary": "21 sales in 24h for 2.04 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.330 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "20",
+          "value": "21",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.88",
+          "value": "2.04",
           "sub": "ETH"
         },
         {
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.88 ETH",
-      "raw": 1.8804,
-      "delta": -0.12609999999999988,
-      "delta_fmt": "-6.3%"
+      "value": "2.04 ETH",
+      "raw": 2.0404,
+      "delta": 0.18569999999999998,
+      "delta_fmt": "+10.0%"
     },
     {
       "label": "7d Vol",
-      "value": "8.99 ETH",
-      "raw": 8.99
+      "value": "8.78 ETH",
+      "raw": 8.7758
     },
     {
       "label": "30d Vol",
-      "value": "53.54 ETH",
-      "raw": 53.5437
+      "value": "53.70 ETH",
+      "raw": 53.7037
     },
     {
       "label": "Full Set Bid",
-      "value": "39.3 ETH",
-      "raw": 39.34,
-      "delta": -0.13999999999999346,
-      "delta_fmt": "-0.14 ETH"
+      "value": "42.0 ETH",
+      "raw": 42.01,
+      "delta": 2.6699999999999946,
+      "delta_fmt": "+2.67 ETH"
     },
     {
       "label": "Network TDH",
@@ -504,7 +504,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | MEME WORTHY"
   ]
 }
