@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-08-22T14:47:28.318246+00:00",
+  "generated_at": "2026-08-22T15:19:24.378936+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Meme Worthy\" by Baku \u2014 66.2M TDH from 113 voters. Top supporter: david (9.3M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/538.JPG",
-        "label": "Meme Worthy - Baku",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING MONDAY",
       "headline": "Minting Monday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Ebrahim_Elmi Leads with 61.4M Projected TDH",
-      "summary": "\"Tears of the Desert\" by Ebrahim_Elmi (61.4M projected TDH, 84 voters) | \"Burn Mechanism\" by Gray (35.7M projected TDH, 61 voters) | \"Open Source\" by vertigo (22.2M projected TDH, 69 voters) Next selection: Mon Aug 24 at 17:00 CET.",
+      "summary": "\"Tears of the Desert\" by Ebrahim_Elmi (61.4M projected TDH, 84 voters) | \"Burn Mechanism\" by Gray (35.7M projected TDH, 62 voters) | \"Open Source\" by vertigo (22.2M projected TDH, 69 voters) Next selection: Mon Aug 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +35,7 @@
         {
           "label": "Gray",
           "value": "35.7M",
-          "sub": "proj. (61 votes)"
+          "sub": "proj. (62 votes)"
         },
         {
           "label": "vertigo",
@@ -79,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "30 Sales Today - 1.89 ETH Volume",
-      "summary": "30 sales in 24h for 1.89 ETH. Highest: \"Brain\" at 0.200 ETH.",
+      "headline": "29 Sales Today - 1.88 ETH Volume",
+      "summary": "29 sales in 24h for 1.88 ETH. Highest: \"Brain\" at 0.200 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +107,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "30",
+          "value": "29",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.89",
+          "value": "1.88",
           "sub": "ETH"
         },
         {
@@ -144,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.89 ETH",
-      "raw": 1.8889,
-      "delta": 0.4295,
-      "delta_fmt": "+29.4%"
+      "value": "1.88 ETH",
+      "raw": 1.8788,
+      "delta": 0.4194,
+      "delta_fmt": "+28.7%"
     },
     {
       "label": "7d Vol",
-      "value": "9.46 ETH",
-      "raw": 9.4638
+      "value": "9.59 ETH",
+      "raw": 9.5937
     },
     {
       "label": "30d Vol",
-      "value": "54.53 ETH",
-      "raw": 54.5316
+      "value": "54.66 ETH",
+      "raw": 54.6615
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH",
-      "raw": 38.71,
-      "delta": 0.4299999999999997,
-      "delta_fmt": "+0.43 ETH"
+      "value": "39.7 ETH",
+      "raw": 39.7,
+      "delta": 0.990000000000002,
+      "delta_fmt": "+0.99 ETH"
     },
     {
       "label": "Network TDH",
@@ -504,7 +491,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | MEME WORTHY"
   ]
 }
