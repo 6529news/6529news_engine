@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T04:04:59.943110+00:00",
+  "generated_at": "2026-08-22T04:48:38.311676+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -84,7 +84,7 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
@@ -146,8 +146,8 @@
       "label": "24h Vol",
       "value": "1.93 ETH",
       "raw": 1.9304,
-      "delta": 0.03589999999999982,
-      "delta_fmt": "+1.9%"
+      "delta": -0.026100000000000012,
+      "delta_fmt": "-1.3%"
     },
     {
       "label": "7d Vol",
@@ -161,10 +161,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.3 ETH",
-      "raw": 39.31,
-      "delta": -0.0899999999999963,
-      "delta_fmt": "-0.09 ETH"
+      "value": "39.4 ETH",
+      "raw": 39.35,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,7 +174,9 @@
     {
       "label": "#1 Ebrahim_Elmi",
       "value": "53.7M TDH",
-      "raw": 53702830
+      "raw": 53727512,
+      "delta": 24682,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -504,7 +506,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | MEME WORTHY"
   ]
 }
