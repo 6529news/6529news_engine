@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:54:25.350863+00:00",
+  "generated_at": "2026-08-22T08:27:50.427033+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Ebrahim_Elmi Leads with 53.7M Projected TDH",
-      "summary": "\"Tears of the Desert\" by Ebrahim_Elmi (53.7M projected TDH, 83 voters) | \"Burn Mechanism\" by Gray (34.8M projected TDH, 58 voters) | \"Open Source\" by vertigo (21.0M projected TDH, 65 voters) Next selection: Mon Aug 24 at 17:00 CET.",
+      "summary": "\"Tears of the Desert\" by Ebrahim_Elmi (53.7M projected TDH, 83 voters) | \"Burn Mechanism\" by Gray (35.7M projected TDH, 59 voters) | \"Open Source\" by vertigo (21.1M projected TDH, 66 voters) Next selection: Mon Aug 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,13 +47,13 @@
         },
         {
           "label": "Gray",
-          "value": "34.8M",
-          "sub": "proj. (58 votes)"
+          "value": "35.7M",
+          "sub": "proj. (59 votes)"
         },
         {
           "label": "vertigo",
-          "value": "21.0M",
-          "sub": "proj. (65 votes)"
+          "value": "21.1M",
+          "sub": "proj. (66 votes)"
         }
       ]
     },
@@ -79,59 +79,59 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 2.37 ETH Volume",
-      "summary": "28 sales in 24h for 2.37 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.330 ETH.",
+      "headline": "22 Sales Today - 1.49 ETH Volume",
+      "summary": "22 sales in 24h for 1.49 ETH. Highest: \"The Institutions Are Coming\" at 0.300 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
-        "label": "ALL YOUR BITCOIN - 0.330 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
+        "label": "The Institutions Are Coming - 0.300 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
-          "label": "ALL YOUR BITCOIN - 0.330 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
           "label": "The Institutions Are Coming - 0.300 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/237.WEBP",
-          "label": "I CAN HAS ETHEREUM? - 0.235 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/103.WEBP",
+          "label": "Don't Trust, Check. - 0.160 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
+          "label": "AUTONOMY.EXE - 0.150 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "28",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.37",
+          "value": "1.49",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.330",
-          "sub": "ALL YOUR BITCOIN"
+          "value": "0.300",
+          "sub": "The Institutions Are"
         },
         {
           "label": "Floor",
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.37 ETH",
-      "raw": 2.3681,
-      "delta": 0.5126000000000002,
-      "delta_fmt": "+27.6%"
+      "value": "1.49 ETH",
+      "raw": 1.4861,
+      "delta": -0.36939999999999995,
+      "delta_fmt": "-19.9%"
     },
     {
       "label": "7d Vol",
-      "value": "9.10 ETH",
-      "raw": 9.1036
+      "value": "8.84 ETH",
+      "raw": 8.8446
     },
     {
       "label": "30d Vol",
-      "value": "54.03 ETH",
-      "raw": 54.0314
+      "value": "53.77 ETH",
+      "raw": 53.7724
     },
     {
       "label": "Full Set Bid",
       "value": "41.7 ETH",
-      "raw": 41.7,
-      "delta": 0.3500000000000014,
-      "delta_fmt": "+0.35 ETH"
+      "raw": 41.71,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -504,7 +504,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 128 MINTS (EXCL. MUSEUM) | 89 HOLDERS | MEME WORTHY"
   ]
 }
