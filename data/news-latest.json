@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T18:27:17.398325+00:00",
+  "generated_at": "2026-08-23T18:57:46.290132+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,28 +56,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "5 Sales Today - 0.52 ETH Volume",
-      "summary": "5 sales in 24h for 0.52 ETH. Highest: \"The Ritual of T\u0334\u0301\u0340.A\u0334\u0314\u0357.P\u0335\u0301\u030a.\" at 0.330 ETH.",
+      "headline": "6 Sales Today - 0.92 ETH Volume",
+      "summary": "6 sales in 24h for 0.92 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/286.GIF",
-        "label": "The Ritual of T\u0334\u0301\u0340.A\u0334\u0314\u0357.P\u0335\u0301\u030a. - 0.330 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+        "label": "The Tree of Knowledge of Good and Evil - 0.400 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+          "label": "The Tree of Knowledge of Good and Evil - 0.400 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/286.GIF",
           "label": "The Ritual of T\u0334\u0301\u0340.A\u0334\u0314\u0357.P\u0335\u0301\u030a. - 0.330 ETH",
@@ -87,28 +92,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
           "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.078 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/475.WEBP",
-          "label": "Cogito, ergo sum - 0.060 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "5",
+          "value": "6",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.52",
+          "value": "0.92",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.330",
-          "sub": "The Ritual of T\u0334\u0301\u0340.A"
+          "value": "0.400",
+          "sub": "The Tree of Knowledg"
         },
         {
           "label": "Floor",
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.52 ETH",
-      "raw": 0.5245,
-      "delta": -0.8856999999999999,
-      "delta_fmt": "-62.8%"
+      "value": "0.92 ETH",
+      "raw": 0.9245,
+      "delta": -0.4856999999999999,
+      "delta_fmt": "-34.4%"
     },
     {
       "label": "7d Vol",
-      "value": "9.47 ETH",
-      "raw": 9.471
+      "value": "9.70 ETH",
+      "raw": 9.7032
     },
     {
       "label": "30d Vol",
-      "value": "54.73 ETH",
-      "raw": 54.7256
+      "value": "55.13 ETH",
+      "raw": 55.1256
     },
     {
       "label": "Full Set Bid",
-      "value": "30.9 ETH",
-      "raw": 30.93,
-      "delta": -5.5,
-      "delta_fmt": "-5.50 ETH"
+      "value": "31.2 ETH",
+      "raw": 31.21,
+      "delta": 0.28000000000000114,
+      "delta_fmt": "+0.28 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 Ebrahim_Elmi",
       "value": "66.4M TDH",
-      "raw": 66358871,
-      "delta": 451,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 66358871
     },
     {
       "label": "#1 underscore",
@@ -483,7 +481,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 93 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 94 HOLDERS | MEME WORTHY"
   ]
 }
