@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:19:13.528144+00:00",
+  "generated_at": "2026-08-23T17:45:46.717029+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,13 +56,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -134,14 +134,14 @@
     {
       "label": "30d Vol",
       "value": "54.73 ETH",
-      "raw": 54.7252
+      "raw": 54.7256
     },
     {
       "label": "Full Set Bid",
-      "value": "35.6 ETH",
-      "raw": 35.61,
-      "delta": 0.740000000000002,
-      "delta_fmt": "+0.74 ETH"
+      "value": "36.4 ETH",
+      "raw": 36.43,
+      "delta": 0.8200000000000003,
+      "delta_fmt": "+0.82 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,7 +151,9 @@
     {
       "label": "#1 Ebrahim_Elmi",
       "value": "66.4M TDH",
-      "raw": 66358273
+      "raw": 66358420,
+      "delta": 147,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -481,7 +483,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 93 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 93 HOLDERS | MEME WORTHY"
   ]
 }
