@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:59:40.607903+00:00",
+  "generated_at": "2026-08-23T01:53:26.128157+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -66,13 +66,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
@@ -133,8 +133,8 @@
       "label": "24h Vol",
       "value": "1.32 ETH",
       "raw": 1.3172,
-      "delta": -0.6553,
-      "delta_fmt": "-33.2%"
+      "delta": -0.5863,
+      "delta_fmt": "-30.8%"
     },
     {
       "label": "7d Vol",
@@ -149,17 +149,23 @@
     {
       "label": "Full Set Bid",
       "value": "40.3 ETH",
-      "raw": 40.29
+      "raw": 40.28,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1888.2M",
-      "raw": 1888161275
+      "value": "1891.1M",
+      "raw": 1891063523,
+      "delta": 2902248,
+      "delta_fmt": "+2.9M TDH"
     },
     {
       "label": "#1 Ebrahim_Elmi",
       "value": "61.4M TDH",
-      "raw": 61418718
+      "raw": 61418679,
+      "delta": -39,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -489,7 +495,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | MEME WORTHY"
   ]
 }
