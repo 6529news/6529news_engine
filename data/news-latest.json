@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T20:48:42.337998+00:00",
+  "generated_at": "2026-08-23T21:20:01.963762+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Ebrahim_Elmi Leads with 66.4M Projected TDH",
-      "summary": "\"Tears of the Desert\" by Ebrahim_Elmi (66.4M projected TDH, 87 voters) | \"Burn Mechanism\" by Gray (42.3M projected TDH, 65 voters) | \"Open Source\" by vertigo (23.6M projected TDH, 74 voters) Next selection: Mon Aug 24 at 17:00 CET.",
+      "summary": "\"Tears of the Desert\" by Ebrahim_Elmi (66.4M projected TDH, 88 voters) | \"Burn Mechanism\" by Gray (42.3M projected TDH, 65 voters) | \"Open Source\" by vertigo (30.9M projected TDH, 75 voters) Next selection: Mon Aug 24 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Ebrahim_Elmi",
           "value": "66.4M",
-          "sub": "proj. (87 votes)"
+          "sub": "proj. (88 votes)"
         },
         {
           "label": "Gray",
@@ -39,8 +39,8 @@
         },
         {
           "label": "vertigo",
-          "value": "23.6M",
-          "sub": "proj. (74 votes)"
+          "value": "30.9M",
+          "sub": "proj. (75 votes)"
         }
       ]
     },
@@ -139,9 +139,9 @@
     {
       "label": "Full Set Bid",
       "value": "34.1 ETH",
-      "raw": 34.06,
-      "delta": 0.15000000000000568,
-      "delta_fmt": "+0.15 ETH"
+      "raw": 34.09,
+      "delta": 0.030000000000001137,
+      "delta_fmt": "+0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,7 +151,9 @@
     {
       "label": "#1 Ebrahim_Elmi",
       "value": "66.4M TDH",
-      "raw": 66358871
+      "raw": 66359871,
+      "delta": 1000,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 underscore",
@@ -481,7 +483,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 96 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 96 HOLDERS | MEME WORTHY"
   ]
 }
