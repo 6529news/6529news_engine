@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:01:20.087255+00:00",
+  "generated_at": "2026-08-23T04:00:14.573563+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -71,15 +71,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 1.20 ETH Volume",
-      "summary": "19 sales in 24h for 1.20 ETH. Highest: \"Brain\" at 0.200 ETH.",
+      "headline": "19 Sales Today - 1.23 ETH Volume",
+      "summary": "19 sales in 24h for 1.23 ETH. Highest: \"Brain\" at 0.200 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.20",
+          "value": "1.23",
           "sub": "ETH"
         },
         {
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.20 ETH",
-      "raw": 1.1972,
-      "delta": -0.8862999999999999,
-      "delta_fmt": "-42.5%"
+      "value": "1.23 ETH",
+      "raw": 1.229,
+      "delta": -0.7013999999999998,
+      "delta_fmt": "-36.3%"
     },
     {
       "label": "7d Vol",
-      "value": "9.06 ETH",
-      "raw": 9.0593
+      "value": "9.12 ETH",
+      "raw": 9.1189
     },
     {
       "label": "30d Vol",
-      "value": "54.20 ETH",
-      "raw": 54.2012
+      "value": "54.26 ETH",
+      "raw": 54.2608
     },
     {
       "label": "Full Set Bid",
-      "value": "39.3 ETH",
-      "raw": 39.34,
-      "delta": -0.9399999999999977,
-      "delta_fmt": "-0.94 ETH"
+      "value": "40.1 ETH",
+      "raw": 40.09,
+      "delta": 0.75,
+      "delta_fmt": "+0.75 ETH"
     },
     {
       "label": "Network TDH",
@@ -491,7 +491,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | MEME WORTHY"
   ]
 }
