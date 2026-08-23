@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T05:56:49.145259+00:00",
+  "generated_at": "2026-08-23T06:45:07.133365+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -71,7 +71,7 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
@@ -94,13 +94,13 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/103.WEBP",
-          "label": "Don't Trust, Check. - 0.160 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
+          "label": "rekt6529 - 0.130 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
-          "label": "rekt6529 - 0.130 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/103.WEBP",
+          "label": "Don't Trust, Check. - 0.102 ETH",
           "type": "image"
         }
       ],
@@ -133,13 +133,13 @@
       "label": "24h Vol",
       "value": "1.23 ETH",
       "raw": 1.229,
-      "delta": -0.6514,
-      "delta_fmt": "-34.6%"
+      "delta": -0.8113999999999999,
+      "delta_fmt": "-39.8%"
     },
     {
       "label": "7d Vol",
-      "value": "9.12 ETH",
-      "raw": 9.1189
+      "value": "9.10 ETH",
+      "raw": 9.1013
     },
     {
       "label": "30d Vol",
@@ -148,10 +148,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "39.2 ETH",
-      "raw": 39.16,
-      "delta": 0.09999999999999432,
-      "delta_fmt": "+0.10 ETH"
+      "value": "38.3 ETH",
+      "raw": 38.31,
+      "delta": -0.8499999999999943,
+      "delta_fmt": "-0.85 ETH"
     },
     {
       "label": "Network TDH",
@@ -491,7 +491,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | MEME WORTHY"
   ]
 }
