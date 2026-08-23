@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T09:03:33.356899+00:00",
+  "generated_at": "2026-08-23T09:42:38.590639+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,33 +56,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 1.03 ETH Volume",
-      "summary": "15 sales in 24h for 1.03 ETH. Highest: \"Brain\" at 0.200 ETH.",
+      "headline": "13 Sales Today - 0.76 ETH Volume",
+      "summary": "13 sales in 24h for 0.76 ETH. Highest: \"rekt6529\" at 0.130 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/279.WEBP",
-        "label": "Brain - 0.200 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
+        "label": "rekt6529 - 0.130 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/279.WEBP",
-          "label": "Brain - 0.200 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
           "label": "rekt6529 - 0.130 ETH",
@@ -92,23 +87,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/103.WEBP",
           "label": "Don't Trust, Check. - 0.102 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/109.WEBP",
+          "label": "Meme Kong - 0.070 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.03",
+          "value": "0.76",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.200",
-          "sub": "Brain"
+          "value": "0.130",
+          "sub": "rekt6529"
         },
         {
           "label": "Floor",
@@ -121,10 +121,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.03 ETH",
-      "raw": 1.03,
-      "delta": -0.5213999999999999,
-      "delta_fmt": "-33.6%"
+      "value": "0.76 ETH",
+      "raw": 0.76,
+      "delta": -0.9914000000000001,
+      "delta_fmt": "-56.6%"
     },
     {
       "label": "7d Vol",
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "33.3 ETH",
-      "raw": 33.31,
-      "delta": -4.07,
-      "delta_fmt": "-4.07 ETH"
+      "value": "38.7 ETH",
+      "raw": 38.72,
+      "delta": 5.409999999999997,
+      "delta_fmt": "+5.41 ETH"
     },
     {
       "label": "Network TDH",
@@ -481,7 +481,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 90 HOLDERS | MEME WORTHY"
   ]
 }
