@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:40:23.273178+00:00",
+  "generated_at": "2026-08-24T15:21:54.423628+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "10 Sales Today - 0.92 ETH Volume",
-      "summary": "10 sales in 24h for 0.92 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
+      "headline": "10 Sales Today - 0.97 ETH Volume",
+      "summary": "10 sales in 24h for 0.97 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,7 +102,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.92",
+          "value": "0.97",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.92 ETH",
-      "raw": 0.9222,
-      "delta": 0.2781,
-      "delta_fmt": "+43.2%"
+      "value": "0.97 ETH",
+      "raw": 0.9744,
+      "delta": 0.33030000000000004,
+      "delta_fmt": "+51.3%"
     },
     {
       "label": "7d Vol",
-      "value": "8.79 ETH",
-      "raw": 8.791
+      "value": "8.86 ETH",
+      "raw": 8.86
     },
     {
       "label": "30d Vol",
-      "value": "50.45 ETH",
-      "raw": 50.4492
+      "value": "50.52 ETH",
+      "raw": 50.5182
     },
     {
       "label": "Full Set Bid",
-      "value": "37.6 ETH",
-      "raw": 37.6,
-      "delta": -0.0799999999999983,
-      "delta_fmt": "-0.08 ETH"
+      "value": "36.0 ETH",
+      "raw": 35.99,
+      "delta": -1.6099999999999994,
+      "delta_fmt": "-1.61 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 Ebrahim_Elmi",
       "value": "66.4M TDH",
-      "raw": 66395197,
-      "delta": 31960,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 66395197
     },
     {
       "label": "#1 underscore",
@@ -483,7 +481,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #539: 110 MINTS (EXCL. MUSEUM) | 74 HOLDERS | THE_ONLY_CLOUD",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #539: 112 MINTS (EXCL. MUSEUM) | 76 HOLDERS | THE_ONLY_CLOUD"
   ]
 }
