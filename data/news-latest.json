@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T20:47:22.943628+00:00",
+  "generated_at": "2026-08-24T21:27:03.646800+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
@@ -151,10 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "38.7 ETH",
-      "raw": 38.69,
-      "delta": 0.29999999999999716,
-      "delta_fmt": "+0.30 ETH"
+      "value": "38.8 ETH",
+      "raw": 38.77,
+      "delta": 0.0800000000000054,
+      "delta_fmt": "+0.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +164,9 @@
     {
       "label": "#1 Gray",
       "value": "69.4M TDH",
-      "raw": 69386935,
-      "delta": 3084830,
-      "delta_fmt": "+3.1M TDH"
+      "raw": 69393060,
+      "delta": 6125,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Ebrahim_Elmi",
@@ -501,7 +501,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #539: 123 MINTS (EXCL. MUSEUM) | 84 HOLDERS | THE_ONLY_CLOUD",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #539: 123 MINTS (EXCL. MUSEUM) | 84 HOLDERS | THE_ONLY_CLOUD"
   ]
 }
