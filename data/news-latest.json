@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:48:42.427419+00:00",
+  "generated_at": "2026-08-24T13:50:35.600980+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -61,7 +61,7 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
@@ -84,13 +84,13 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/286.GIF",
-          "label": "The Ritual of T\u0334\u0301\u0340.A\u0334\u0314\u0357.P\u0335\u0301\u030a. - 0.330 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/36.WEBP",
+          "label": "Sphere of Influence - 0.150 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/36.WEBP",
-          "label": "Sphere of Influence - 0.150 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
+          "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.078 ETH",
           "type": "image"
         }
       ],
@@ -122,26 +122,26 @@
     {
       "label": "24h Vol",
       "value": "1.25 ETH",
-      "raw": 1.2522,
-      "delta": 0.6951999999999999,
-      "delta_fmt": "+124.8%"
+      "raw": 1.2501,
+      "delta": 0.57,
+      "delta_fmt": "+83.8%"
     },
     {
       "label": "7d Vol",
-      "value": "8.79 ETH",
-      "raw": 8.791
+      "value": "8.78 ETH",
+      "raw": 8.7766
     },
     {
       "label": "30d Vol",
-      "value": "50.45 ETH",
-      "raw": 50.4492
+      "value": "50.37 ETH",
+      "raw": 50.3664
     },
     {
       "label": "Full Set Bid",
-      "value": "37.5 ETH",
-      "raw": 37.52,
-      "delta": 0.20000000000000284,
-      "delta_fmt": "+0.20 ETH"
+      "value": "37.7 ETH",
+      "raw": 37.68,
+      "delta": 0.1599999999999966,
+      "delta_fmt": "+0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -481,7 +481,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 97 HOLDERS | MEME WORTHY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #538: 129 MINTS (EXCL. MUSEUM) | 97 HOLDERS | MEME WORTHY"
   ]
 }
