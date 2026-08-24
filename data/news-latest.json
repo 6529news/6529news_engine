@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T23:21:05.341112+00:00",
+  "generated_at": "2026-08-24T23:46:11.274343+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Gray Leads with 70.4M Projected TDH",
-      "summary": "\"Burn Mechanism\" by Gray (70.4M projected TDH, 78 voters) | \"Open Source\" by vertigo (41.3M projected TDH, 85 voters) | \"Age of Memes\" by HasanGoktepe (17.3M projected TDH, 46 voters) Next selection: Wed Aug 26 at 17:00 CET.",
+      "summary": "\"Burn Mechanism\" by Gray (70.4M projected TDH, 79 voters) | \"Open Source\" by vertigo (41.3M projected TDH, 85 voters) | \"Age of Memes\" by HasanGoktepe (17.3M projected TDH, 46 voters) Next selection: Wed Aug 26 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Gray",
           "value": "70.4M",
-          "sub": "proj. (78 votes)"
+          "sub": "proj. (79 votes)"
         },
         {
           "label": "vertigo",
@@ -151,10 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.3 ETH",
-      "raw": 37.32,
-      "delta": 0.20000000000000284,
-      "delta_fmt": "+0.20 ETH"
+      "value": "37.6 ETH",
+      "raw": 37.57,
+      "delta": 0.25,
+      "delta_fmt": "+0.25 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,7 +164,9 @@
     {
       "label": "#1 Gray",
       "value": "70.4M TDH",
-      "raw": 70405942
+      "raw": 70412471,
+      "delta": 6529,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Ebrahim_Elmi",
@@ -499,7 +501,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #539: 124 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THE_ONLY_CLOUD",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #539: 124 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THE_ONLY_CLOUD"
   ]
 }
