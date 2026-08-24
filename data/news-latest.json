@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T21:54:14.991274+00:00",
+  "generated_at": "2026-08-24T22:24:45.581635+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Gray Leads with 69.4M Projected TDH",
-      "summary": "\"Burn Mechanism\" by Gray (69.4M projected TDH, 76 voters) | \"Open Source\" by vertigo (34.8M projected TDH, 84 voters) | \"Age of Memes\" by HasanGoktepe (17.3M projected TDH, 46 voters) Next selection: Wed Aug 26 at 17:00 CET.",
+      "summary": "\"Burn Mechanism\" by Gray (69.4M projected TDH, 77 voters) | \"Open Source\" by vertigo (34.8M projected TDH, 84 voters) | \"Age of Memes\" by HasanGoktepe (17.3M projected TDH, 46 voters) Next selection: Wed Aug 26 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Gray",
           "value": "69.4M",
-          "sub": "proj. (76 votes)"
+          "sub": "proj. (77 votes)"
         },
         {
           "label": "vertigo",
@@ -59,8 +59,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: MariaMindal (2.1M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: GarryB1rd (6.9M) | MariaMindal (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -81,8 +81,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "10 Sales Today - 0.57 ETH Volume",
-      "summary": "10 sales in 24h for 0.57 ETH. Highest: \"Sphere of Influence\" at 0.150 ETH.",
+      "headline": "11 Sales Today - 0.63 ETH Volume",
+      "summary": "11 sales in 24h for 0.63 ETH. Highest: \"Sphere of Influence\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "10",
+          "value": "11",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.57",
+          "value": "0.63",
           "sub": "ETH"
         },
         {
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.57 ETH",
-      "raw": 0.5652,
-      "delta": -0.35929999999999995,
-      "delta_fmt": "-38.9%"
+      "value": "0.63 ETH",
+      "raw": 0.6296,
+      "delta": -0.29489999999999994,
+      "delta_fmt": "-31.9%"
     },
     {
       "label": "7d Vol",
-      "value": "8.72 ETH",
-      "raw": 8.7223
+      "value": "8.82 ETH",
+      "raw": 8.8223
     },
     {
       "label": "30d Vol",
-      "value": "50.59 ETH",
-      "raw": 50.587
+      "value": "50.69 ETH",
+      "raw": 50.687
     },
     {
       "label": "Full Set Bid",
-      "value": "37.3 ETH",
-      "raw": 37.31,
-      "delta": -1.4600000000000009,
-      "delta_fmt": "-1.46 ETH"
+      "value": "36.8 ETH",
+      "raw": 36.77,
+      "delta": -0.5399999999999991,
+      "delta_fmt": "-0.54 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,7 +164,9 @@
     {
       "label": "#1 Gray",
       "value": "69.4M TDH",
-      "raw": 69393060
+      "raw": 69399413,
+      "delta": 6353,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Ebrahim_Elmi",
@@ -499,7 +501,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #539: 123 MINTS (EXCL. MUSEUM) | 84 HOLDERS | THE_ONLY_CLOUD",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #539: 123 MINTS (EXCL. MUSEUM) | 84 HOLDERS | THE_ONLY_CLOUD"
   ]
 }
