@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T22:01:58.057527+00:00",
+  "generated_at": "2026-08-25T22:44:45.424015+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Gray Leads with 76.3M Projected TDH",
-      "summary": "\"Burn Mechanism\" by Gray (76.3M projected TDH, 86 voters) | \"Open Source\" by vertigo (41.6M projected TDH, 94 voters) | \"Age of Memes\" by HasanGoktepe (19.4M projected TDH, 48 voters) Next selection: Wed Aug 26 at 17:00 CET.",
+      "summary": "\"Burn Mechanism\" by Gray (76.3M projected TDH, 86 voters) | \"Open Source\" by vertigo (41.6M projected TDH, 95 voters) | \"Age of Memes\" by HasanGoktepe (19.4M projected TDH, 48 voters) Next selection: Wed Aug 26 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -35,7 +35,7 @@
         {
           "label": "vertigo",
           "value": "41.6M",
-          "sub": "proj. (94 votes)"
+          "sub": "proj. (95 votes)"
         },
         {
           "label": "HasanGoktepe",
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: GarryB1rd (8.8M) | MariaMindal (2.1M) | Egodead (1.9M).",
+      "summary": "3 submissions this week. Ranking: GarryB1rd (8.9M) | MariaMindal (2.1M) | Egodead (1.9M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -123,8 +123,8 @@
       "label": "24h Vol",
       "value": "2.23 ETH",
       "raw": 2.2304,
-      "delta": 1.6652,
-      "delta_fmt": "+294.6%"
+      "delta": 1.6008,
+      "delta_fmt": "+254.3%"
     },
     {
       "label": "7d Vol",
@@ -138,10 +138,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.0 ETH",
-      "raw": 37.02,
-      "delta": 0.030000000000001137,
-      "delta_fmt": "+0.03 ETH"
+      "value": "37.1 ETH",
+      "raw": 37.11,
+      "delta": 0.0899999999999963,
+      "delta_fmt": "+0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,7 +151,9 @@
     {
       "label": "#1 Gray",
       "value": "76.3M TDH",
-      "raw": 76282381
+      "raw": 76291527,
+      "delta": 9146,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Ebrahim_Elmi",
@@ -487,7 +489,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.891 ETH",
-    "CARD #539: 125 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE_ONLY_CLOUD",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #539: 125 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE_ONLY_CLOUD"
   ]
 }
