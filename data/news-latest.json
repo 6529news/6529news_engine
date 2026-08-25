@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:43:11.207045+00:00",
+  "generated_at": "2026-08-25T07:31:02.698067+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
@@ -151,10 +151,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "37.1 ETH",
-      "raw": 37.14,
-      "delta": 0.10000000000000142,
-      "delta_fmt": "+0.10 ETH"
+      "value": "37.3 ETH",
+      "raw": 37.27,
+      "delta": 0.13000000000000256,
+      "delta_fmt": "+0.13 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +164,9 @@
     {
       "label": "#1 Gray",
       "value": "76.7M TDH",
-      "raw": 76724451,
-      "delta": 6529,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 76674713,
+      "delta": -49738,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 Ebrahim_Elmi",
@@ -501,7 +501,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #539: 124 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THE_ONLY_CLOUD",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #539: 124 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THE_ONLY_CLOUD"
   ]
 }
