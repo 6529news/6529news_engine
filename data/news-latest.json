@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T22:44:45.424015+00:00",
+  "generated_at": "2026-08-25T23:10:05.173363+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING WEDNESDAY",
-      "headline": "Minting Wednesday",
-      "summary": " \"Tears of the Desert\" by Ebrahim_Elmi \u2014 66.4M TDH from 90 voters. Top supporter: DGMD (8.9M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Tears of the Desert\" by Ebrahim_Elmi \u2014 66.4M TDH from 90 voters. Top supporter: DGMD (8.9M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 2.23 ETH Volume",
-      "summary": "26 sales in 24h for 2.23 ETH. Highest: \"Sgt. Pepe\" at 0.891 ETH.",
+      "headline": "27 Sales Today - 2.25 ETH Volume",
+      "summary": "27 sales in 24h for 2.25 ETH. Highest: \"Sgt. Pepe\" at 0.891 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "26",
+          "value": "27",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.23",
+          "value": "2.25",
           "sub": "ETH"
         },
         {
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.23 ETH",
-      "raw": 2.2304,
-      "delta": 1.6008,
-      "delta_fmt": "+254.3%"
+      "value": "2.25 ETH",
+      "raw": 2.2479,
+      "delta": 1.7683,
+      "delta_fmt": "+368.7%"
     },
     {
       "label": "7d Vol",
-      "value": "10.30 ETH",
-      "raw": 10.2988
+      "value": "10.32 ETH",
+      "raw": 10.3163
     },
     {
       "label": "30d Vol",
-      "value": "52.71 ETH",
-      "raw": 52.7115
+      "value": "52.73 ETH",
+      "raw": 52.729
     },
     {
       "label": "Full Set Bid",
-      "value": "37.1 ETH",
-      "raw": 37.11,
-      "delta": 0.0899999999999963,
-      "delta_fmt": "+0.09 ETH"
+      "value": "37.2 ETH",
+      "raw": 37.16,
+      "delta": 0.04999999999999716,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -151,9 +151,7 @@
     {
       "label": "#1 Gray",
       "value": "76.3M TDH",
-      "raw": 76291527,
-      "delta": 9146,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 76291527
     },
     {
       "label": "#1 Ebrahim_Elmi",
@@ -489,7 +487,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.891 ETH",
-    "CARD #539: 125 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE_ONLY_CLOUD",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #539: 125 MINTS (EXCL. MUSEUM) | 86 HOLDERS | THE_ONLY_CLOUD"
   ]
 }
