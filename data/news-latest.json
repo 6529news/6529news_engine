@@ -1,24 +1,11 @@
 {
-  "generated_at": "2026-08-26T16:00:21.614489+00:00",
+  "generated_at": "2026-08-26T16:52:07.742863+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
       "category": "MINTING TODAY",
       "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"the_only_cloud\" by underscore \u2014 77.2M TDH from 95 voters. Top supporter: Ruskin (24.9M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/539.GIF",
-        "label": "the_only_cloud - underscore",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
-    {
-      "category": "MINTING FRIDAY",
-      "headline": "Minting Friday",
-      "summary": " \"Tears of the Desert\" by Ebrahim_Elmi \u2014 66.4M TDH from 90 voters. Top supporter: DGMD (8.9M TDH).",
+      "summary": "A new Meme Card is being minted today! \"Tears of the Desert\" by Ebrahim_Elmi \u2014 66.4M TDH from 90 voters. Top supporter: DGMD (8.9M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -29,38 +16,51 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "Gray Leads with 76.3M Projected TDH",
-      "summary": "\"Burn Mechanism\" by Gray (76.3M projected TDH, 87 voters) | \"Open Source\" by vertigo (41.7M projected TDH, 97 voters) | \"Age of Memes\" by HasanGoktepe (19.9M projected TDH, 51 voters) Next selection: Fri Aug 28 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING FRIDAY",
+      "headline": "Minting Friday",
+      "summary": " \"Burn Mechanism\" by Gray \u2014 76.3M TDH from 87 voters. Top supporter: gpebbles (14.0M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_30cc7457-7be3-49bf-90b7-36cfefb3003e/cf05c04a-e3b9-43ca-810a-d8b7090e3a6a/Gray-Meme.jpg",
         "label": "Burn Mechanism - Gray",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "vertigo Leads with 41.8M Projected TDH",
+      "summary": "\"Open Source\" by vertigo (41.8M projected TDH, 98 voters) | \"Age of Memes\" by HasanGoktepe (20.1M projected TDH, 52 voters) | \"Cycle of Creation\" by RalenArc (16.0M projected TDH, 68 voters) Next selection: Fri Aug 28 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_f7e027c7-a2e3-479a-9e3c-e865bc2c61e3/a84c4dd8-2e2a-42a6-9fa7-69ffc31444d0/Open-Source.jpg",
+        "label": "Open Source - vertigo",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "Gray",
-          "value": "76.3M",
-          "sub": "proj. (87 votes)"
-        },
-        {
           "label": "vertigo",
-          "value": "41.7M",
-          "sub": "proj. (97 votes)"
+          "value": "41.8M",
+          "sub": "proj. (98 votes)"
         },
         {
           "label": "HasanGoktepe",
-          "value": "19.9M",
-          "sub": "proj. (51 votes)"
+          "value": "20.1M",
+          "sub": "proj. (52 votes)"
+        },
+        {
+          "label": "RalenArc",
+          "value": "16.0M",
+          "sub": "proj. (68 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: GarryB1rd (8.9M) | Egodead (1.9M).",
+      "summary": "2 submissions this week. Ranking: GarryB1rd (9.0M) | Egodead (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "42 Sales Today - 2.84 ETH Volume",
-      "summary": "42 sales in 24h for 2.84 ETH. Highest: \"Sgt. Pepe\" at 0.891 ETH.",
+      "headline": "41 Sales Today - 2.81 ETH Volume",
+      "summary": "41 sales in 24h for 2.81 ETH. Highest: \"Sgt. Pepe\" at 0.891 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "42",
+          "value": "41",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.84",
+          "value": "2.81",
           "sub": "ETH"
         },
         {
@@ -134,10 +134,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.84 ETH",
-      "raw": 2.8449,
-      "delta": 2.1595,
-      "delta_fmt": "+315.1%"
+      "value": "2.81 ETH",
+      "raw": 2.8119,
+      "delta": 2.0935,
+      "delta_fmt": "+291.4%"
     },
     {
       "label": "7d Vol",
@@ -151,15 +151,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "35.5 ETH",
-      "raw": 35.54,
-      "delta": 0.21999999999999886,
-      "delta_fmt": "+0.22 ETH"
+      "value": "35.8 ETH",
+      "raw": 35.79,
+      "delta": 0.25,
+      "delta_fmt": "+0.25 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1898.8M",
       "raw": 1898798265
+    },
+    {
+      "label": "#1 vertigo",
+      "value": "41.8M TDH",
+      "raw": 41781467,
+      "delta": -11902368,
+      "delta_fmt": "-11.9M TDH"
     },
     {
       "label": "#1 Gray",
@@ -502,7 +509,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.891 ETH",
-    "CARD #540: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | TEARS OF THE DESERT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #540: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | TEARS OF THE DESERT"
   ]
 }
