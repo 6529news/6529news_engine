@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:53:29.085177+00:00",
+  "generated_at": "2026-08-26T19:00:57.922948+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "vertigo Leads with 41.8M Projected TDH",
-      "summary": "\"Open Source\" by vertigo (41.8M projected TDH, 98 voters) | \"Age of Memes\" by HasanGoktepe (20.1M projected TDH, 52 voters) | \"Cycle of Creation\" by RalenArc (16.0M projected TDH, 68 voters) Next selection: Fri Aug 28 at 17:00 CET.",
+      "headline": "vertigo Leads with 46.7M Projected TDH",
+      "summary": "\"Open Source\" by vertigo (46.7M projected TDH, 99 voters) | \"Age of Memes\" by HasanGoktepe (20.1M projected TDH, 52 voters) | \"Cycle of Creation\" by RalenArc (16.0M projected TDH, 68 voters) Next selection: Fri Aug 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "vertigo",
-          "value": "41.8M",
-          "sub": "proj. (98 votes)"
+          "value": "46.7M",
+          "sub": "proj. (99 votes)"
         },
         {
           "label": "HasanGoktepe",
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "41 Sales Today - 2.81 ETH Volume",
-      "summary": "41 sales in 24h for 2.81 ETH. Highest: \"Sgt. Pepe\" at 0.891 ETH.",
+      "headline": "37 Sales Today - 2.77 ETH Volume",
+      "summary": "37 sales in 24h for 2.77 ETH. Highest: \"Sgt. Pepe\" at 0.891 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,20 +102,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.180 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.213 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "41",
+          "value": "37",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.81",
+          "value": "2.77",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.016878",
+          "value": "0.01687",
           "sub": "ETH"
         }
       ]
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.81 ETH",
-      "raw": 2.8119,
-      "delta": 2.0935,
-      "delta_fmt": "+291.4%"
+      "value": "2.77 ETH",
+      "raw": 2.7667,
+      "delta": 1.7901000000000002,
+      "delta_fmt": "+183.3%"
     },
     {
       "label": "7d Vol",
-      "value": "10.28 ETH",
-      "raw": 10.2762
+      "value": "10.18 ETH",
+      "raw": 10.1792
     },
     {
       "label": "30d Vol",
-      "value": "50.43 ETH",
-      "raw": 50.4272
+      "value": "50.64 ETH",
+      "raw": 50.6402
     },
     {
       "label": "Full Set Bid",
-      "value": "36.0 ETH",
-      "raw": 35.97,
-      "delta": 0.17999999999999972,
-      "delta_fmt": "+0.18 ETH"
+      "value": "36.3 ETH",
+      "raw": 36.33,
+      "delta": 0.35999999999999943,
+      "delta_fmt": "+0.36 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,8 +163,10 @@
     },
     {
       "label": "#1 vertigo",
-      "value": "41.8M TDH",
-      "raw": 41781467
+      "value": "46.7M TDH",
+      "raw": 46669720,
+      "delta": 4888253,
+      "delta_fmt": "+4.9M TDH"
     },
     {
       "label": "#1 Gray",
@@ -507,7 +509,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.891 ETH",
-    "CARD #540: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | TEARS OF THE DESERT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #540: 122 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TEARS OF THE DESERT"
   ]
 }
