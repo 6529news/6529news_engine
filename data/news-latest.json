@@ -1,24 +1,11 @@
 {
-  "generated_at": "2026-08-27T14:27:10.098360+00:00",
+  "generated_at": "2026-08-27T23:53:00.241664+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Tears of the Desert\" by Ebrahim_Elmi \u2014 66.4M TDH from 90 voters. Top supporter: DGMD (8.9M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/540.JPG",
-        "label": "Tears of the Desert - Ebrahim_Elmi",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
-    {
-      "category": "MINTING FRIDAY",
-      "headline": "Minting Friday",
-      "summary": " \"Burn Mechanism\" by Gray \u2014 76.3M TDH from 87 voters. Top supporter: gpebbles (14.0M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Burn Mechanism\" by Gray \u2014 76.3M TDH from 87 voters. Top supporter: gpebbles (14.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "vertigo Leads with 56.3M Projected TDH",
-      "summary": "\"Open Source\" by vertigo (56.3M projected TDH, 105 voters) | \"GIANT \u2014 Freedom to Burn\" by GIANT (32.9M projected TDH, 23 voters) | \"Age of Memes\" by HasanGoktepe (20.6M projected TDH, 53 voters) Next selection: Fri Aug 28 at 17:00 CET.",
+      "summary": "\"Open Source\" by vertigo (56.3M projected TDH, 107 voters) | \"GIANT \u2014 Freedom to Burn\" by GIANT (38.3M projected TDH, 29 voters) | \"Age of Memes\" by HasanGoktepe (20.6M projected TDH, 53 voters) Next selection: Fri Aug 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,12 +30,12 @@
         {
           "label": "vertigo",
           "value": "56.3M",
-          "sub": "proj. (105 votes)"
+          "sub": "proj. (107 votes)"
         },
         {
           "label": "GIANT",
-          "value": "32.9M",
-          "sub": "proj. (23 votes)"
+          "value": "38.3M",
+          "sub": "proj. (29 votes)"
         },
         {
           "label": "HasanGoktepe",
@@ -60,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Ayla (14.8M) | GarryB1rd (9.0M) | Egodead (2.1M).",
+      "summary": "3 submissions this week. Ranking: Ayla (15.0M) | GarryB1rd (9.2M) | Egodead (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,36 +56,36 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 0.89 ETH Volume",
-      "summary": "19 sales in 24h for 0.89 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.690 ETH.",
+      "headline": "19 Sales Today - 1.46 ETH Volume",
+      "summary": "19 sales in 24h for 1.46 ETH. Highest: \"SeizeJPGs\" at 0.269 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-        "label": "The Tree of Knowledge of Good and Evil - 0.690 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+        "label": "SeizeJPGs - 0.269 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.690 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.269 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.213 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/538.WEBP",
+          "label": "Meme Worthy - 0.077 ETH",
           "type": "image"
         },
         {
@@ -115,17 +102,17 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.89",
+          "value": "1.46",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.690",
-          "sub": "The Tree of Knowledg"
+          "value": "0.269",
+          "sub": "SeizeJPGs"
         },
         {
           "label": "Floor",
-          "value": "0.01684",
+          "value": "0.01682",
           "sub": "ETH"
         }
       ]
@@ -134,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.89 ETH",
-      "raw": 0.8908,
-      "delta": -1.8241999999999998,
-      "delta_fmt": "-67.2%"
+      "value": "1.46 ETH",
+      "raw": 1.4575,
+      "delta": -0.06769999999999987,
+      "delta_fmt": "-4.4%"
     },
     {
       "label": "7d Vol",
-      "value": "9.20 ETH",
-      "raw": 9.1974
+      "value": "10.17 ETH",
+      "raw": 10.1699
     },
     {
       "label": "30d Vol",
-      "value": "50.44 ETH",
-      "raw": 50.4396
+      "value": "51.49 ETH",
+      "raw": 51.4922
     },
     {
       "label": "Full Set Bid",
-      "value": "37.0 ETH",
-      "raw": 36.97,
-      "delta": -0.3400000000000034,
-      "delta_fmt": "-0.34 ETH"
+      "value": "33.9 ETH",
+      "raw": 33.92,
+      "delta": -3.049999999999997,
+      "delta_fmt": "-3.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,9 +151,9 @@
     {
       "label": "#1 vertigo",
       "value": "56.3M TDH",
-      "raw": 56260412,
-      "delta": 3582318,
-      "delta_fmt": "+3.6M TDH"
+      "raw": 56279155,
+      "delta": 18743,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Gray",
@@ -508,7 +495,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #540: 126 MINTS (EXCL. MUSEUM) | 87 HOLDERS | TEARS OF THE DESERT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #540: 126 MINTS (EXCL. MUSEUM) | 87 HOLDERS | TEARS OF THE DESERT"
   ]
 }
