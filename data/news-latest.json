@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T03:18:21.230483+00:00",
+  "generated_at": "2026-08-27T14:27:10.098360+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "vertigo Leads with 52.7M Projected TDH",
-      "summary": "\"Open Source\" by vertigo (52.7M projected TDH, 101 voters) | \"Age of Memes\" by HasanGoktepe (20.1M projected TDH, 52 voters) | \"Cycle of Creation\" by RalenArc (16.0M projected TDH, 67 voters) Next selection: Fri Aug 28 at 17:00 CET.",
+      "headline": "vertigo Leads with 56.3M Projected TDH",
+      "summary": "\"Open Source\" by vertigo (56.3M projected TDH, 105 voters) | \"GIANT \u2014 Freedom to Burn\" by GIANT (32.9M projected TDH, 23 voters) | \"Age of Memes\" by HasanGoktepe (20.6M projected TDH, 53 voters) Next selection: Fri Aug 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,25 +42,25 @@
       "dataBoxes": [
         {
           "label": "vertigo",
-          "value": "52.7M",
-          "sub": "proj. (101 votes)"
+          "value": "56.3M",
+          "sub": "proj. (105 votes)"
+        },
+        {
+          "label": "GIANT",
+          "value": "32.9M",
+          "sub": "proj. (23 votes)"
         },
         {
           "label": "HasanGoktepe",
-          "value": "20.1M",
-          "sub": "proj. (52 votes)"
-        },
-        {
-          "label": "RalenArc",
-          "value": "16.0M",
-          "sub": "proj. (67 votes)"
+          "value": "20.6M",
+          "sub": "proj. (53 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: GIANT (27.8M) | Ayla (13.7M) | GarryB1rd (9.0M) | Egodead (2.1M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: Ayla (14.8M) | GarryB1rd (9.0M) | Egodead (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -81,8 +81,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 1.46 ETH Volume",
-      "summary": "26 sales in 24h for 1.46 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.690 ETH.",
+      "headline": "19 Sales Today - 0.89 ETH Volume",
+      "summary": "19 sales in 24h for 0.89 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.690 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,25 +97,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/167.WEBP",
-          "label": "all things fail - 0.300 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.213 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.213 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/421.GIF",
+          "label": "inception - 0.069 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "26",
+          "value": "19",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.46",
+          "value": "0.89",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01687",
+          "value": "0.01684",
           "sub": "ETH"
         }
       ]
@@ -134,41 +134,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.46 ETH",
-      "raw": 1.4608,
-      "delta": -1.0083,
-      "delta_fmt": "-40.8%"
+      "value": "0.89 ETH",
+      "raw": 0.8908,
+      "delta": -1.8241999999999998,
+      "delta_fmt": "-67.2%"
     },
     {
       "label": "7d Vol",
-      "value": "10.47 ETH",
-      "raw": 10.474
+      "value": "9.20 ETH",
+      "raw": 9.1974
     },
     {
       "label": "30d Vol",
-      "value": "50.09 ETH",
-      "raw": 50.0897
+      "value": "50.44 ETH",
+      "raw": 50.4396
     },
     {
       "label": "Full Set Bid",
-      "value": "37.3 ETH",
-      "raw": 37.31,
-      "delta": 1.1300000000000026,
-      "delta_fmt": "+1.13 ETH"
+      "value": "37.0 ETH",
+      "raw": 36.97,
+      "delta": -0.3400000000000034,
+      "delta_fmt": "-0.34 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1901.2M",
-      "raw": 1901169970,
-      "delta": 2371705,
-      "delta_fmt": "+2.4M TDH"
+      "raw": 1901169970
     },
     {
       "label": "#1 vertigo",
-      "value": "52.7M TDH",
-      "raw": 52678094,
-      "delta": 542603,
-      "delta_fmt": "+0.5M TDH"
+      "value": "56.3M TDH",
+      "raw": 56260412,
+      "delta": 3582318,
+      "delta_fmt": "+3.6M TDH"
     },
     {
       "label": "#1 Gray",
@@ -510,7 +508,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #540: 124 MINTS (EXCL. MUSEUM) | 85 HOLDERS | TEARS OF THE DESERT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #540: 126 MINTS (EXCL. MUSEUM) | 87 HOLDERS | TEARS OF THE DESERT"
   ]
 }
