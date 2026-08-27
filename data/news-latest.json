@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T22:07:09.577930+00:00",
+  "generated_at": "2026-08-27T03:18:21.230483+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Tears of the Desert\" by Ebrahim_Elmi \u2014 66.4M TDH from 90 voters. Top supporter: DGMD (8.9M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Tears of the Desert\" by Ebrahim_Elmi \u2014 66.4M TDH from 90 voters. Top supporter: DGMD (8.9M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "vertigo Leads with 52.1M Projected TDH",
-      "summary": "\"Open Source\" by vertigo (52.1M projected TDH, 100 voters) | \"Age of Memes\" by HasanGoktepe (20.1M projected TDH, 52 voters) | \"Cycle of Creation\" by RalenArc (16.0M projected TDH, 68 voters) Next selection: Fri Aug 28 at 17:00 CET.",
+      "headline": "vertigo Leads with 52.7M Projected TDH",
+      "summary": "\"Open Source\" by vertigo (52.7M projected TDH, 101 voters) | \"Age of Memes\" by HasanGoktepe (20.1M projected TDH, 52 voters) | \"Cycle of Creation\" by RalenArc (16.0M projected TDH, 67 voters) Next selection: Fri Aug 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "vertigo",
-          "value": "52.1M",
-          "sub": "proj. (100 votes)"
+          "value": "52.7M",
+          "sub": "proj. (101 votes)"
         },
         {
           "label": "HasanGoktepe",
@@ -53,14 +53,14 @@
         {
           "label": "RalenArc",
           "value": "16.0M",
-          "sub": "proj. (68 votes)"
+          "sub": "proj. (67 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: GIANT (26.3M) | Ayla (10.8M) | GarryB1rd (9.0M) | Egodead (2.1M).",
+      "summary": "4 submissions this week. Ranking: GIANT (27.8M) | Ayla (13.7M) | GarryB1rd (9.0M) | Egodead (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "32 Sales Today - 1.53 ETH Volume",
-      "summary": "32 sales in 24h for 1.53 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.690 ETH.",
+      "headline": "26 Sales Today - 1.46 ETH Volume",
+      "summary": "26 sales in 24h for 1.46 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.690 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "32",
+          "value": "26",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.53",
+          "value": "1.46",
           "sub": "ETH"
         },
         {
@@ -134,39 +134,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.53 ETH",
-      "raw": 1.5252,
-      "delta": -0.7052,
-      "delta_fmt": "-31.6%"
+      "value": "1.46 ETH",
+      "raw": 1.4608,
+      "delta": -1.0083,
+      "delta_fmt": "-40.8%"
     },
     {
       "label": "7d Vol",
-      "value": "10.19 ETH",
-      "raw": 10.1915
+      "value": "10.47 ETH",
+      "raw": 10.474
     },
     {
       "label": "30d Vol",
-      "value": "50.65 ETH",
-      "raw": 50.6525
+      "value": "50.09 ETH",
+      "raw": 50.0897
     },
     {
       "label": "Full Set Bid",
-      "value": "36.2 ETH",
-      "raw": 36.18,
-      "delta": -0.14999999999999858,
-      "delta_fmt": "-0.15 ETH"
+      "value": "37.3 ETH",
+      "raw": 37.31,
+      "delta": 1.1300000000000026,
+      "delta_fmt": "+1.13 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1898.8M",
-      "raw": 1898798265
+      "value": "1901.2M",
+      "raw": 1901169970,
+      "delta": 2371705,
+      "delta_fmt": "+2.4M TDH"
     },
     {
       "label": "#1 vertigo",
-      "value": "52.1M TDH",
-      "raw": 52135491,
-      "delta": 5465771,
-      "delta_fmt": "+5.5M TDH"
+      "value": "52.7M TDH",
+      "raw": 52678094,
+      "delta": 542603,
+      "delta_fmt": "+0.5M TDH"
     },
     {
       "label": "#1 Gray",
@@ -508,7 +510,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #540: 123 MINTS (EXCL. MUSEUM) | 84 HOLDERS | TEARS OF THE DESERT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #540: 124 MINTS (EXCL. MUSEUM) | 85 HOLDERS | TEARS OF THE DESERT"
   ]
 }
