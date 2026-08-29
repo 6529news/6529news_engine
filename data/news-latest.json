@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-08-29T10:03:37.766582+00:00",
+  "generated_at": "2026-08-29T15:03:40.224270+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Burn Mechanism\" by Gray \u2014 76.3M TDH from 87 voters. Top supporter: gpebbles (14.0M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/541.JPG",
-        "label": "Burn Mechanism - Gray",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING MONDAY",
       "headline": "Minting Monday",
@@ -30,37 +17,37 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "GIANT Leads with 39.4M Projected TDH",
-      "summary": "\"GIANT \u2014 Freedom to Burn\" by GIANT (39.4M projected TDH, 42 voters) | \"Age of Memes\" by HasanGoktepe (37.4M projected TDH, 61 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (16.6M projected TDH, 45 voters) Next selection: Mon Aug 31 at 17:00 CET.",
+      "headline": "HasanGoktepe Leads with 43.9M Projected TDH",
+      "summary": "\"Age of Memes\" by HasanGoktepe (43.9M projected TDH, 62 voters) | \"GIANT \u2014 Freedom to Burn\" by GIANT (39.9M projected TDH, 43 voters) | \"The First Believer\" by Ayla (16.9M projected TDH, 42 voters) Next selection: Mon Aug 31 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_cd69e4ba-0cb4-41a4-8013-09a695d9d84e/ba7164ab-2b5e-4af3-81d7-d44b1057fb91/PSX-20210811-235624.jpg",
-        "label": "GIANT \u2014 Freedom to Burn - GIANT",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_cb5feeec-fbac-4ac9-964f-5f3da2c100fb/58638fa8-9202-4dc2-9bdb-341172c1872c/Survive-14-ps.png",
+        "label": "Age of Memes - HasanGoktepe",
         "type": "image"
       },
       "dataBoxes": [
         {
-          "label": "GIANT",
-          "value": "39.4M",
-          "sub": "proj. (42 votes)"
-        },
-        {
           "label": "HasanGoktepe",
-          "value": "37.4M",
-          "sub": "proj. (61 votes)"
+          "value": "43.9M",
+          "sub": "proj. (62 votes)"
         },
         {
-          "label": "Nicolas_Bets",
-          "value": "16.6M",
-          "sub": "proj. (45 votes)"
+          "label": "GIANT",
+          "value": "39.9M",
+          "sub": "proj. (43 votes)"
+        },
+        {
+          "label": "Ayla",
+          "value": "16.9M",
+          "sub": "proj. (42 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: GarryB1rd (16.7M) | Ayla (15.8M) | Egodead (2.2M) | sqpx (1.7M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: GarryB1rd (26.7M) | Egodead (2.2M) | sqpx (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "46 Sales Today - 1.81 ETH Volume",
-      "summary": "46 sales in 24h for 1.81 ETH. Highest: \"Head Full of Meme\" at 0.280 ETH.",
+      "headline": "59 Sales Today - 2.31 ETH Volume",
+      "summary": "59 sales in 24h for 2.31 ETH. Highest: \"Head Full of Meme\" at 0.280 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,20 +89,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/264.WEBP",
-          "label": "OM Embrace: The Human-Digital Confluence - 0.107 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/24.WEBP",
+          "label": "NFT Adoption Pathway 2030 - 0.120 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "46",
+          "value": "59",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.81",
+          "value": "2.31",
           "sub": "ETH"
         },
         {
@@ -125,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01572465",
+          "value": "0.01547",
           "sub": "ETH"
         }
       ]
@@ -134,32 +121,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.81 ETH",
-      "raw": 1.8101,
-      "delta": 0.22229999999999994,
-      "delta_fmt": "+14.0%"
+      "value": "2.31 ETH",
+      "raw": 2.306,
+      "delta": 0.7182,
+      "delta_fmt": "+45.2%"
     },
     {
       "label": "7d Vol",
-      "value": "12.74 ETH",
-      "raw": 12.7431
+      "value": "13.12 ETH",
+      "raw": 13.1243
     },
     {
       "label": "30d Vol",
-      "value": "54.08 ETH",
-      "raw": 54.0808
+      "value": "54.92 ETH",
+      "raw": 54.9192
     },
     {
       "label": "Full Set Bid",
-      "value": "27.6 ETH",
-      "raw": 27.57,
-      "delta": -4.93,
-      "delta_fmt": "-4.93 ETH"
+      "value": "28.8 ETH",
+      "raw": 28.85,
+      "delta": 1.2800000000000011,
+      "delta_fmt": "+1.28 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1903.8M",
       "raw": 1903808128
+    },
+    {
+      "label": "#1 HasanGoktepe",
+      "value": "43.9M TDH",
+      "raw": 43863467,
+      "delta": -9820368,
+      "delta_fmt": "-9.8M TDH"
     },
     {
       "label": "#1 GIANT",
@@ -515,7 +509,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #541: 126 MINTS (EXCL. MUSEUM) | 86 HOLDERS | BURN MECHANISM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #541: 128 MINTS (EXCL. MUSEUM) | 87 HOLDERS | BURN MECHANISM"
   ]
 }
