@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-28T21:06:13.072340+00:00",
+  "generated_at": "2026-08-29T00:30:32.823454+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Burn Mechanism\" by Gray \u2014 76.3M TDH from 87 voters. Top supporter: gpebbles (14.0M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Burn Mechanism\" by Gray \u2014 76.3M TDH from 87 voters. Top supporter: gpebbles (14.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "GIANT Leads with 38.8M Projected TDH",
-      "summary": "\"GIANT \u2014 Freedom to Burn\" by GIANT (38.8M projected TDH, 40 voters) | \"Age of Memes\" by HasanGoktepe (37.2M projected TDH, 57 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (16.6M projected TDH, 45 voters) Next selection: Mon Aug 31 at 17:00 CET.",
+      "headline": "GIANT Leads with 39.4M Projected TDH",
+      "summary": "\"GIANT \u2014 Freedom to Burn\" by GIANT (39.4M projected TDH, 42 voters) | \"Age of Memes\" by HasanGoktepe (37.4M projected TDH, 61 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (16.6M projected TDH, 45 voters) Next selection: Mon Aug 31 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "GIANT",
-          "value": "38.8M",
-          "sub": "proj. (40 votes)"
+          "value": "39.4M",
+          "sub": "proj. (42 votes)"
         },
         {
           "label": "HasanGoktepe",
-          "value": "37.2M",
-          "sub": "proj. (57 votes)"
+          "value": "37.4M",
+          "sub": "proj. (61 votes)"
         },
         {
           "label": "Nicolas_Bets",
@@ -60,7 +60,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Ayla (15.5M) | GarryB1rd (7.6M) | Egodead (2.1M).",
+      "summary": "3 submissions this week. Ranking: Ayla (15.8M) | GarryB1rd (7.7M) | Egodead (2.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "128 Sales Today - 4.84 ETH Volume",
-      "summary": "128 sales in 24h for 4.84 ETH. Highest: \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" at 0.075 ETH.",
+      "headline": "132 Sales Today - 4.68 ETH Volume",
+      "summary": "132 sales in 24h for 4.68 ETH. Highest: \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" at 0.075 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,25 +97,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/117.WEBP",
-          "label": "Pepe House - 0.050 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/385.GIF",
+          "label": "Every Time I Walk Away I End Up Right Back Where I Start - 0.070 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/202.GIF",
-          "label": "Bullish Hollow - 0.044 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/265.WEBP",
+          "label": "Goddess of Transcription - 0.060 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "128",
+          "value": "132",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "4.84",
+          "value": "4.68",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01645742",
+          "value": "0.01645",
           "sub": "ETH"
         }
       ]
@@ -134,39 +134,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "4.84 ETH",
-      "raw": 4.8361,
-      "delta": 3.3786,
-      "delta_fmt": "+231.8%"
+      "value": "4.68 ETH",
+      "raw": 4.6755,
+      "delta": 3.2180000000000004,
+      "delta_fmt": "+220.8%"
     },
     {
       "label": "7d Vol",
-      "value": "12.54 ETH",
-      "raw": 12.5385
+      "value": "12.87 ETH",
+      "raw": 12.8729
     },
     {
       "label": "30d Vol",
-      "value": "53.51 ETH",
-      "raw": 53.5099
+      "value": "53.84 ETH",
+      "raw": 53.8443
     },
     {
       "label": "Full Set Bid",
-      "value": "30.2 ETH",
-      "raw": 30.18,
-      "delta": -6.210000000000001,
-      "delta_fmt": "-6.21 ETH"
+      "value": "30.7 ETH",
+      "raw": 30.69,
+      "delta": 0.5100000000000016,
+      "delta_fmt": "+0.51 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1904.2M",
-      "raw": 1904176113
+      "value": "1903.8M",
+      "raw": 1903808128,
+      "delta": -367985,
+      "delta_fmt": "-0.4M TDH"
     },
     {
       "label": "#1 GIANT",
-      "value": "38.8M TDH",
-      "raw": 38796366,
-      "delta": -14887469,
-      "delta_fmt": "-14.9M TDH"
+      "value": "39.4M TDH",
+      "raw": 39380485,
+      "delta": 584119,
+      "delta_fmt": "+0.6M TDH"
     },
     {
       "label": "#1 vertigo",
@@ -515,7 +517,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #541: 123 MINTS (EXCL. MUSEUM) | 84 HOLDERS | BURN MECHANISM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #541: 125 MINTS (EXCL. MUSEUM) | 85 HOLDERS | BURN MECHANISM"
   ]
 }
