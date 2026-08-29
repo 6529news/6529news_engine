@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T03:09:48.084588+00:00",
+  "generated_at": "2026-08-29T10:03:37.766582+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -59,8 +59,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Ayla (15.8M) | GarryB1rd (7.7M) | Egodead (2.2M).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: GarryB1rd (16.7M) | Ayla (15.8M) | Egodead (2.2M) | sqpx (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,63 +69,63 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "127 Sales Today - 4.49 ETH Volume",
-      "summary": "127 sales in 24h for 4.49 ETH. Highest: \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" at 0.075 ETH.",
+      "headline": "46 Sales Today - 1.81 ETH Volume",
+      "summary": "46 sales in 24h for 1.81 ETH. Highest: \"Head Full of Meme\" at 0.280 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
-        "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.075 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/318.WEBP",
+        "label": "Head Full of Meme - 0.280 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
-          "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.075 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/318.WEBP",
+          "label": "Head Full of Meme - 0.280 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/385.GIF",
-          "label": "Every Time I Walk Away I End Up Right Back Where I Start - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/518.GIF",
+          "label": "YOU ARE THE PRODUCT - 0.129 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/265.WEBP",
-          "label": "Goddess of Transcription - 0.060 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/264.WEBP",
+          "label": "OM Embrace: The Human-Digital Confluence - 0.107 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "127",
+          "value": "46",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "4.49",
+          "value": "1.81",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.075",
-          "sub": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
+          "value": "0.280",
+          "sub": "Head Full of Meme"
         },
         {
           "label": "Floor",
-          "value": "0.0161997",
+          "value": "0.01572465",
           "sub": "ETH"
         }
       ]
@@ -134,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "4.49 ETH",
-      "raw": 4.4853,
-      "delta": 3.0277999999999996,
-      "delta_fmt": "+207.7%"
+      "value": "1.81 ETH",
+      "raw": 1.8101,
+      "delta": 0.22229999999999994,
+      "delta_fmt": "+14.0%"
     },
     {
       "label": "7d Vol",
-      "value": "12.73 ETH",
-      "raw": 12.7251
+      "value": "12.74 ETH",
+      "raw": 12.7431
     },
     {
       "label": "30d Vol",
-      "value": "53.35 ETH",
-      "raw": 53.3507
+      "value": "54.08 ETH",
+      "raw": 54.0808
     },
     {
       "label": "Full Set Bid",
-      "value": "32.5 ETH",
-      "raw": 32.5,
-      "delta": 1.8099999999999987,
-      "delta_fmt": "+1.81 ETH"
+      "value": "27.6 ETH",
+      "raw": 27.57,
+      "delta": -4.93,
+      "delta_fmt": "-4.93 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,7 +164,9 @@
     {
       "label": "#1 GIANT",
       "value": "39.4M TDH",
-      "raw": 39380485
+      "raw": 39380625,
+      "delta": 140,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 vertigo",
@@ -513,7 +515,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #541: 125 MINTS (EXCL. MUSEUM) | 85 HOLDERS | BURN MECHANISM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #541: 126 MINTS (EXCL. MUSEUM) | 86 HOLDERS | BURN MECHANISM"
   ]
 }
