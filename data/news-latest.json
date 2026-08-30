@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T19:50:44.763715+00:00",
+  "generated_at": "2026-08-30T22:25:22.415601+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: GarryB1rd (20.6M) | Ayla (17.2M) | Egodead (2.3M) | sqpx (1.7M).",
+      "summary": "4 submissions this week. Ranking: GarryB1rd (20.7M) | Ayla (17.2M) | Egodead (2.3M) | sqpx (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,33 +56,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "27 Sales Today - 1.40 ETH Volume",
-      "summary": "27 sales in 24h for 1.40 ETH. Highest: \"Sgt. Pepe\" at 0.430 ETH.",
+      "headline": "19 Sales Today - 1.06 ETH Volume",
+      "summary": "19 sales in 24h for 1.06 ETH. Highest: \"UncleSeize\" at 0.140 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
-        "label": "Sgt. Pepe - 0.430 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+        "label": "UncleSeize - 0.140 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
-          "label": "Sgt. Pepe - 0.430 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
           "label": "UncleSeize - 0.140 ETH",
@@ -90,29 +85,34 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
-          "label": "< no, really [ this ] is going to be our year > - 0.110 ETH",
+          "label": "< no, really [ this ] is going to be our year > - 0.120 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/103.WEBP",
+          "label": "Don't Trust, Check. - 0.100 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "27",
+          "value": "19",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.40",
+          "value": "1.06",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.430",
-          "sub": "Sgt. Pepe"
+          "value": "0.140",
+          "sub": "UncleSeize"
         },
         {
           "label": "Floor",
-          "value": "0.0144697",
+          "value": "0.01446",
           "sub": "ETH"
         }
       ]
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.40 ETH",
-      "raw": 1.3969,
-      "delta": -0.7454999999999998,
-      "delta_fmt": "-34.8%"
+      "value": "1.06 ETH",
+      "raw": 1.0617,
+      "delta": -1.565,
+      "delta_fmt": "-59.6%"
     },
     {
       "label": "7d Vol",
-      "value": "14.24 ETH",
-      "raw": 14.2361
+      "value": "14.07 ETH",
+      "raw": 14.0741
     },
     {
       "label": "30d Vol",
-      "value": "55.63 ETH",
-      "raw": 55.6279
+      "value": "55.90 ETH",
+      "raw": 55.9014
     },
     {
       "label": "Full Set Bid",
-      "value": "32.5 ETH",
-      "raw": 32.53,
-      "delta": 0.17999999999999972,
-      "delta_fmt": "+0.18 ETH"
+      "value": "32.9 ETH",
+      "raw": 32.86,
+      "delta": 0.3299999999999983,
+      "delta_fmt": "+0.33 ETH"
     },
     {
       "label": "Network TDH",
@@ -507,8 +507,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "SGT PEPE SALE: 0.430 ETH",
-    "CARD #541: 128 MINTS (EXCL. MUSEUM) | 87 HOLDERS | BURN MECHANISM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #541: 128 MINTS (EXCL. MUSEUM) | 87 HOLDERS | BURN MECHANISM"
   ]
 }
