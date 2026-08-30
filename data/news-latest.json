@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:27:20.545638+00:00",
+  "generated_at": "2026-08-30T07:12:09.774296+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "HasanGoktepe Leads with 44.0M Projected TDH",
-      "summary": "\"Age of Memes\" by HasanGoktepe (44.0M projected TDH, 66 voters) | \"GIANT \u2014 Freedom to Burn\" by GIANT (40.0M projected TDH, 45 voters) | \"The Ride\" by GarryB1rd (26.7M projected TDH, 20 voters) Next selection: Mon Aug 31 at 17:00 CET.",
+      "summary": "\"Age of Memes\" by HasanGoktepe (44.0M projected TDH, 67 voters) | \"GIANT \u2014 Freedom to Burn\" by GIANT (40.0M projected TDH, 46 voters) | \"The Ride\" by GarryB1rd (26.8M projected TDH, 21 voters) Next selection: Mon Aug 31 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,24 +30,24 @@
         {
           "label": "HasanGoktepe",
           "value": "44.0M",
-          "sub": "proj. (66 votes)"
+          "sub": "proj. (67 votes)"
         },
         {
           "label": "GIANT",
           "value": "40.0M",
-          "sub": "proj. (45 votes)"
+          "sub": "proj. (46 votes)"
         },
         {
           "label": "GarryB1rd",
-          "value": "26.7M",
-          "sub": "proj. (20 votes)"
+          "value": "26.8M",
+          "sub": "proj. (21 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Ayla (17.2M) | Egodead (2.2M) | sqpx (1.7M).",
+      "summary": "3 submissions this week. Ranking: Ayla (17.2M) | Egodead (2.3M) | sqpx (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "59 Sales Today - 2.82 ETH Volume",
-      "summary": "59 sales in 24h for 2.82 ETH. Highest: \"Sgt. Pepe\" at 0.430 ETH.",
+      "headline": "56 Sales Today - 2.43 ETH Volume",
+      "summary": "56 sales in 24h for 2.43 ETH. Highest: \"Sgt. Pepe\" at 0.430 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "59",
+          "value": "56",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.82",
+          "value": "2.43",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01474765",
+          "value": "0.014495",
           "sub": "ETH"
         }
       ]
@@ -121,40 +121,38 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.82 ETH",
-      "raw": 2.8217,
-      "delta": -1.8538000000000006,
-      "delta_fmt": "-39.6%"
+      "value": "2.43 ETH",
+      "raw": 2.432,
+      "delta": 0.6218999999999999,
+      "delta_fmt": "+34.4%"
     },
     {
       "label": "7d Vol",
-      "value": "14.32 ETH",
-      "raw": 14.3178
+      "value": "14.41 ETH",
+      "raw": 14.4137
     },
     {
       "label": "30d Vol",
-      "value": "55.24 ETH",
-      "raw": 55.2447
+      "value": "55.38 ETH",
+      "raw": 55.3806
     },
     {
       "label": "Full Set Bid",
-      "value": "26.5 ETH",
-      "raw": 26.51,
-      "delta": -3.219999999999999,
-      "delta_fmt": "-3.22 ETH"
+      "value": "30.6 ETH",
+      "raw": 30.61,
+      "delta": 4.099999999999998,
+      "delta_fmt": "+4.10 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1906.6M",
-      "raw": 1906562603,
-      "delta": 2754475,
-      "delta_fmt": "+2.8M TDH"
+      "raw": 1906562603
     },
     {
       "label": "#1 HasanGoktepe",
       "value": "44.0M TDH",
-      "raw": 43952987,
-      "delta": 3031,
+      "raw": 43979600,
+      "delta": 26613,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -512,7 +510,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.430 ETH",
-    "CARD #541: 128 MINTS (EXCL. MUSEUM) | 87 HOLDERS | BURN MECHANISM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #541: 128 MINTS (EXCL. MUSEUM) | 87 HOLDERS | BURN MECHANISM"
   ]
 }
