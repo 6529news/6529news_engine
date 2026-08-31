@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T22:25:22.415601+00:00",
+  "generated_at": "2026-08-31T00:45:41.107751+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING MONDAY",
-      "headline": "Minting Monday",
-      "summary": " \"Open Source\" by vertigo \u2014 56.3M TDH from 110 voters. Top supporter: Thor (14.4M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Open Source\" by vertigo \u2014 56.3M TDH from 110 voters. Top supporter: Thor (14.4M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "GIANT Leads with 47.8M Projected TDH",
-      "summary": "\"GIANT \u2014 Freedom to Burn\" by GIANT (47.8M projected TDH, 49 voters) | \"Age of Memes\" by HasanGoktepe (45.7M projected TDH, 68 voters) | \"PebbleLand\" by Articulate (22.6M projected TDH, 52 voters) Next selection: Mon Aug 31 at 17:00 CET.",
+      "headline": "GIANT Leads with 47.9M Projected TDH",
+      "summary": "\"GIANT \u2014 Freedom to Burn\" by GIANT (47.9M projected TDH, 49 voters) | \"Age of Memes\" by HasanGoktepe (45.7M projected TDH, 68 voters) | \"PebbleLand\" by Articulate (22.6M projected TDH, 52 voters) Next selection: Mon Aug 31 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,7 +29,7 @@
       "dataBoxes": [
         {
           "label": "GIANT",
-          "value": "47.8M",
+          "value": "47.9M",
           "sub": "proj. (49 votes)"
         },
         {
@@ -68,47 +68,47 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "19 Sales Today - 1.06 ETH Volume",
-      "summary": "19 sales in 24h for 1.06 ETH. Highest: \"UncleSeize\" at 0.140 ETH.",
+      "headline": "16 Sales Today - 0.68 ETH Volume",
+      "summary": "16 sales in 24h for 0.68 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.120 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-        "label": "UncleSeize - 0.140 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+        "label": "< no, really [ this ] is going to be our year > - 0.120 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-          "label": "UncleSeize - 0.140 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
           "label": "< no, really [ this ] is going to be our year > - 0.120 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/103.WEBP",
-          "label": "Don't Trust, Check. - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
+          "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.095 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/300.GIF",
+          "label": "ONLY WINNERS SURVIVE - 0.080 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "19",
+          "value": "16",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.06",
+          "value": "0.68",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.140",
-          "sub": "UncleSeize"
+          "value": "0.120",
+          "sub": "< no, really [ this "
         },
         {
           "label": "Floor",
@@ -121,37 +121,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.06 ETH",
-      "raw": 1.0617,
-      "delta": -1.565,
-      "delta_fmt": "-59.6%"
+      "value": "0.68 ETH",
+      "raw": 0.6818,
+      "delta": -2.1399,
+      "delta_fmt": "-75.8%"
     },
     {
       "label": "7d Vol",
-      "value": "14.07 ETH",
-      "raw": 14.0741
+      "value": "13.84 ETH",
+      "raw": 13.8442
     },
     {
       "label": "30d Vol",
-      "value": "55.90 ETH",
-      "raw": 55.9014
+      "value": "55.27 ETH",
+      "raw": 55.2703
     },
     {
       "label": "Full Set Bid",
-      "value": "32.9 ETH",
-      "raw": 32.86,
-      "delta": 0.3299999999999983,
-      "delta_fmt": "+0.33 ETH"
+      "value": "32.7 ETH",
+      "raw": 32.67,
+      "delta": -0.18999999999999773,
+      "delta_fmt": "-0.19 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1906.6M",
-      "raw": 1906562603
+      "value": "1909.4M",
+      "raw": 1909436265,
+      "delta": 2873662,
+      "delta_fmt": "+2.9M TDH"
     },
     {
       "label": "#1 GIANT",
-      "value": "47.8M TDH",
-      "raw": 47841441
+      "value": "47.9M TDH",
+      "raw": 47937771,
+      "delta": 96330,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 HasanGoktepe",
@@ -507,7 +511,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #541: 128 MINTS (EXCL. MUSEUM) | 87 HOLDERS | BURN MECHANISM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #541: 128 MINTS (EXCL. MUSEUM) | 87 HOLDERS | BURN MECHANISM"
   ]
 }
