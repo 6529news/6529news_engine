@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T04:53:46.048712+00:00",
+  "generated_at": "2026-09-01T09:45:38.740585+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "GarryB1rd Leads with 47.9M Projected TDH",
-      "summary": "\"The Ride\" by GarryB1rd (47.9M projected TDH, 39 voters) | \"Age of Memes\" by HasanGoktepe (47.6M projected TDH, 72 voters) | \"PebbleLand\" by Articulate (32.5M projected TDH, 58 voters) Next selection: Wed Sep 02 at 17:00 CET.",
+      "headline": "GarryB1rd Leads with 48.0M Projected TDH",
+      "summary": "\"The Ride\" by GarryB1rd (48.0M projected TDH, 41 voters) | \"Age of Memes\" by HasanGoktepe (47.6M projected TDH, 72 voters) | \"PebbleLand\" by Articulate (33.5M projected TDH, 59 voters) Next selection: Wed Sep 02 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "GarryB1rd",
-          "value": "47.9M",
-          "sub": "proj. (39 votes)"
+          "value": "48.0M",
+          "sub": "proj. (41 votes)"
         },
         {
           "label": "HasanGoktepe",
@@ -52,15 +52,15 @@
         },
         {
           "label": "Articulate",
-          "value": "32.5M",
-          "sub": "proj. (58 votes)"
+          "value": "33.5M",
+          "sub": "proj. (59 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Ayla (20.9M) | simonemonte (5.3M) | sqpx (1.7M).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: Ayla (21.1M) | PePeSB (5.6M) | simonemonte (5.4M) | sqpx (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,28 +69,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 0.86 ETH Volume",
-      "summary": "25 sales in 24h for 0.86 ETH. Highest: \"Meme Enjoyoor\" at 0.098 ETH.",
+      "headline": "28 Sales Today - 1.06 ETH Volume",
+      "summary": "28 sales in 24h for 1.06 ETH. Highest: \"UncleSeize\" at 0.140 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
-        "label": "Meme Enjoyoor - 0.098 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+        "label": "UncleSeize - 0.140 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+          "label": "UncleSeize - 0.140 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
           "label": "Meme Enjoyoor - 0.098 ETH",
@@ -100,32 +105,27 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
           "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.075 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/485.WEBP",
-          "label": "Seize your Freedom - 0.074 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "28",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.86",
+          "value": "1.06",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.098",
-          "sub": "Meme Enjoyoor"
+          "value": "0.140",
+          "sub": "UncleSeize"
         },
         {
           "label": "Floor",
-          "value": "0.0129",
+          "value": "0.0135",
           "sub": "ETH"
         }
       ]
@@ -134,41 +134,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.86 ETH",
-      "raw": 0.857,
-      "delta": 0.24119999999999997,
-      "delta_fmt": "+39.2%"
+      "value": "1.06 ETH",
+      "raw": 1.0554,
+      "delta": 0.4395999999999999,
+      "delta_fmt": "+71.4%"
     },
     {
       "label": "7d Vol",
-      "value": "14.33 ETH",
-      "raw": 14.3308
+      "value": "14.39 ETH",
+      "raw": 14.392
     },
     {
       "label": "30d Vol",
-      "value": "55.74 ETH",
-      "raw": 55.741
+      "value": "56.05 ETH",
+      "raw": 56.0484
     },
     {
       "label": "Full Set Bid",
-      "value": "33.1 ETH",
-      "raw": 33.09,
-      "delta": 0.12000000000000455,
-      "delta_fmt": "+0.12 ETH"
+      "value": "32.9 ETH",
+      "raw": 32.94,
+      "delta": -0.15000000000000568,
+      "delta_fmt": "-0.15 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1912.3M",
-      "raw": 1912328078,
-      "delta": 2891813,
-      "delta_fmt": "+2.9M TDH"
+      "raw": 1912328078
     },
     {
       "label": "#1 GarryB1rd",
-      "value": "47.9M TDH",
-      "raw": 47924899,
-      "delta": -5758936,
-      "delta_fmt": "-5.8M TDH"
+      "value": "48.0M TDH",
+      "raw": 47994663,
+      "delta": 69764,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 HasanGoktepe",
@@ -531,7 +529,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #542: 129 MINTS (EXCL. MUSEUM) | 89 HOLDERS | OPEN SOURCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #542: 129 MINTS (EXCL. MUSEUM) | 89 HOLDERS | OPEN SOURCE"
   ]
 }
