@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T09:45:38.740585+00:00",
+  "generated_at": "2026-09-01T14:31:59.731461+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "GarryB1rd Leads with 48.0M Projected TDH",
-      "summary": "\"The Ride\" by GarryB1rd (48.0M projected TDH, 41 voters) | \"Age of Memes\" by HasanGoktepe (47.6M projected TDH, 72 voters) | \"PebbleLand\" by Articulate (33.5M projected TDH, 59 voters) Next selection: Wed Sep 02 at 17:00 CET.",
+      "headline": "GarryB1rd Leads with 52.8M Projected TDH",
+      "summary": "\"The Ride\" by GarryB1rd (52.8M projected TDH, 42 voters) | \"Age of Memes\" by HasanGoktepe (47.6M projected TDH, 73 voters) | \"PebbleLand\" by Articulate (30.4M projected TDH, 59 voters) Next selection: Wed Sep 02 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,25 +42,43 @@
       "dataBoxes": [
         {
           "label": "GarryB1rd",
-          "value": "48.0M",
-          "sub": "proj. (41 votes)"
+          "value": "52.8M",
+          "sub": "proj. (42 votes)"
         },
         {
           "label": "HasanGoktepe",
           "value": "47.6M",
-          "sub": "proj. (72 votes)"
+          "sub": "proj. (73 votes)"
         },
         {
           "label": "Articulate",
-          "value": "33.5M",
+          "value": "30.4M",
           "sub": "proj. (59 votes)"
         }
       ]
     },
     {
+      "category": "ANNOUNCEMENT",
+      "headline": "New Announcement by GelatoGenesis",
+      "summary": "GelatoGenesis: Haven't written here a long time, but decided to talk about recent group changes a bit.\n\nWhen we first started developing groups and later added them as guards for waves it felt...",
+      "source": "Announcements",
+      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmXuXC4QNM9diEvBnJT3UY2o9jWTUxhYh3srRuyS2bGFJQ",
+        "label": "GelatoGenesis"
+      },
+      "dataBoxes": [
+        {
+          "label": "GelatoGenesis",
+          "value": "Lv51",
+          "sub": "1K TDH"
+        }
+      ]
+    },
+    {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Ayla (21.1M) | PePeSB (5.6M) | simonemonte (5.4M) | sqpx (1.7M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: Ayla (21.2M) | simonemonte (5.4M) | sqpx (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,20 +87,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 1.06 ETH Volume",
-      "summary": "28 sales in 24h for 1.06 ETH. Highest: \"UncleSeize\" at 0.140 ETH.",
+      "headline": "30 Sales Today - 1.21 ETH Volume",
+      "summary": "30 sales in 24h for 1.21 ETH. Highest: \"UncleSeize\" at 0.140 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,25 +115,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
-          "label": "Meme Enjoyoor - 0.098 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/289.GIF",
+          "label": "Ruins of the Future - 0.100 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
-          "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.075 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
+          "label": "Meme Enjoyoor - 0.098 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "28",
+          "value": "30",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.06",
+          "value": "1.21",
           "sub": "ETH"
         },
         {
@@ -134,27 +152,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.06 ETH",
-      "raw": 1.0554,
-      "delta": 0.4395999999999999,
-      "delta_fmt": "+71.4%"
+      "value": "1.21 ETH",
+      "raw": 1.2112,
+      "delta": 0.5515000000000001,
+      "delta_fmt": "+83.6%"
     },
     {
       "label": "7d Vol",
-      "value": "14.39 ETH",
-      "raw": 14.392
+      "value": "14.07 ETH",
+      "raw": 14.0701
     },
     {
       "label": "30d Vol",
-      "value": "56.05 ETH",
-      "raw": 56.0484
+      "value": "56.25 ETH",
+      "raw": 56.2541
     },
     {
       "label": "Full Set Bid",
-      "value": "32.9 ETH",
-      "raw": 32.94,
-      "delta": -0.15000000000000568,
-      "delta_fmt": "-0.15 ETH"
+      "value": "32.8 ETH",
+      "raw": 32.78,
+      "delta": -0.1599999999999966,
+      "delta_fmt": "-0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,10 +181,10 @@
     },
     {
       "label": "#1 GarryB1rd",
-      "value": "48.0M TDH",
-      "raw": 47994663,
-      "delta": 69764,
-      "delta_fmt": "+0.1M TDH"
+      "value": "52.8M TDH",
+      "raw": 52774121,
+      "delta": 4779458,
+      "delta_fmt": "+4.8M TDH"
     },
     {
       "label": "#1 HasanGoktepe",
@@ -529,7 +547,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #542: 129 MINTS (EXCL. MUSEUM) | 89 HOLDERS | OPEN SOURCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #542: 130 MINTS (EXCL. MUSEUM) | 90 HOLDERS | OPEN SOURCE"
   ]
 }
