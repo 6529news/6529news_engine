@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:42:28.961082+00:00",
+  "generated_at": "2026-09-02T14:43:11.698460+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_cd69e4ba-0cb4-41a4-8013-09a695d9d84e/ba7164ab-2b5e-4af3-81d7-d44b1057fb91/PSX-20210811-235624.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/543.JPG",
         "label": "GIANT \u2014 Freedom to Burn - GIANT",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "GarryB1rd Leads with 53.6M Projected TDH",
-      "summary": "\"The Ride\" by GarryB1rd (53.6M projected TDH, 48 voters) | \"Age of Memes\" by HasanGoktepe (47.6M projected TDH, 75 voters) | \"PebbleLand\" by Articulate (30.4M projected TDH, 62 voters) Next selection: Wed Sep 02 at 17:00 CET.",
+      "summary": "\"The Ride\" by GarryB1rd (53.6M projected TDH, 49 voters) | \"Age of Memes\" by HasanGoktepe (47.6M projected TDH, 75 voters) | \"PebbleLand\" by Articulate (30.4M projected TDH, 64 voters) Next selection: Wed Sep 02 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "GarryB1rd",
           "value": "53.6M",
-          "sub": "proj. (48 votes)"
+          "sub": "proj. (49 votes)"
         },
         {
           "label": "HasanGoktepe",
@@ -40,7 +40,7 @@
         {
           "label": "Articulate",
           "value": "30.4M",
-          "sub": "proj. (62 votes)"
+          "sub": "proj. (64 votes)"
         }
       ]
     },
@@ -78,21 +78,16 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "31 Sales Today - 1.16 ETH Volume",
-      "summary": "31 sales in 24h for 1.16 ETH. Highest: \"Ruins of the Future\" at 0.100 ETH.",
+      "headline": "28 Sales Today - 1.01 ETH Volume",
+      "summary": "28 sales in 24h for 1.01 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.077 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/289.GIF",
-        "label": "Ruins of the Future - 0.100 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+        "label": "< no, really [ this ] is going to be our year > - 0.077 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/289.GIF",
-          "label": "Ruins of the Future - 0.100 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
           "label": "< no, really [ this ] is going to be our year > - 0.077 ETH",
@@ -102,23 +97,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/379.GIF",
           "label": "Seize The Future - 0.069 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/469.GIF",
+          "label": "ART Seize-n - 0.060 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "31",
+          "value": "28",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.16",
+          "value": "1.01",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.100",
-          "sub": "Ruins of the Future"
+          "value": "0.077",
+          "sub": "< no, really [ this "
         },
         {
           "label": "Floor",
@@ -131,27 +131,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.16 ETH",
-      "raw": 1.1626,
-      "delta": 0.10720000000000018,
-      "delta_fmt": "+10.2%"
+      "value": "1.01 ETH",
+      "raw": 1.0109,
+      "delta": -0.20030000000000014,
+      "delta_fmt": "-16.5%"
     },
     {
       "label": "7d Vol",
-      "value": "12.85 ETH",
-      "raw": 12.8525
+      "value": "12.29 ETH",
+      "raw": 12.2903
     },
     {
       "label": "30d Vol",
-      "value": "56.68 ETH",
-      "raw": 56.6784
+      "value": "56.71 ETH",
+      "raw": 56.7084
     },
     {
       "label": "Full Set Bid",
-      "value": "31.5 ETH",
-      "raw": 31.47,
-      "delta": -1.8500000000000014,
-      "delta_fmt": "-1.85 ETH"
+      "value": "27.5 ETH",
+      "raw": 27.54,
+      "delta": -3.9299999999999997,
+      "delta_fmt": "-3.93 ETH"
     },
     {
       "label": "Network TDH",
@@ -161,9 +161,9 @@
     {
       "label": "#1 GarryB1rd",
       "value": "53.6M TDH",
-      "raw": 53561136,
-      "delta": 707570,
-      "delta_fmt": "+0.7M TDH"
+      "raw": 53574063,
+      "delta": 12927,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 HasanGoktepe",
@@ -526,7 +526,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #542: 130 MINTS (EXCL. MUSEUM) | 90 HOLDERS | OPEN SOURCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #543: 107 MINTS (EXCL. MUSEUM) | 71 HOLDERS | GIANT \u2014 FREEDOM TO BURN"
   ]
 }
