@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T14:43:11.698460+00:00",
+  "generated_at": "2026-09-02T18:06:28.572561+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,22 +16,30 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "GarryB1rd Leads with 53.6M Projected TDH",
-      "summary": "\"The Ride\" by GarryB1rd (53.6M projected TDH, 49 voters) | \"Age of Memes\" by HasanGoktepe (47.6M projected TDH, 75 voters) | \"PebbleLand\" by Articulate (30.4M projected TDH, 64 voters) Next selection: Wed Sep 02 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING FRIDAY",
+      "headline": "Minting Friday",
+      "summary": " \"The Ride\" by GarryB1rd \u2014 53.6M TDH from 50 voters. Top supporter: johndoe8891 (9.4M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_a5a507ca-251e-4ebc-8574-b87b754a2faf/6822e14e-644f-44ec-9af1-67b04f4294c8/01THE-RIDE2.gif",
         "label": "The Ride - GarryB1rd",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "HasanGoktepe Leads with 47.6M Projected TDH",
+      "summary": "\"Age of Memes\" by HasanGoktepe (47.6M projected TDH, 75 voters) | \"PebbleLand\" by Articulate (30.4M projected TDH, 65 voters) | \"The First Believer\" by Ayla (21.3M projected TDH, 51 voters) Next selection: Fri Sep 04 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_cb5feeec-fbac-4ac9-964f-5f3da2c100fb/58638fa8-9202-4dc2-9bdb-341172c1872c/Survive-14-ps.png",
+        "label": "Age of Memes - HasanGoktepe",
+        "type": "image"
+      },
       "dataBoxes": [
-        {
-          "label": "GarryB1rd",
-          "value": "53.6M",
-          "sub": "proj. (49 votes)"
-        },
         {
           "label": "HasanGoktepe",
           "value": "47.6M",
@@ -40,14 +48,19 @@
         {
           "label": "Articulate",
           "value": "30.4M",
-          "sub": "proj. (64 votes)"
+          "sub": "proj. (65 votes)"
+        },
+        {
+          "label": "Ayla",
+          "value": "21.3M",
+          "sub": "proj. (51 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: Ayla (21.3M) | simonemonte (5.4M) | sqpx (1.7M) | megha (1.6M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: simonemonte (5.4M) | sqpx (1.7M) | megha (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -78,8 +91,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 1.01 ETH Volume",
-      "summary": "28 sales in 24h for 1.01 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.077 ETH.",
+      "headline": "26 Sales Today - 0.97 ETH Volume",
+      "summary": "26 sales in 24h for 0.97 ETH. Highest: \"< no, really [ this ] is going to be our year >\" at 0.077 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "28",
+          "value": "26",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.01",
+          "value": "0.97",
           "sub": "ETH"
         },
         {
@@ -131,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.01 ETH",
-      "raw": 1.0109,
-      "delta": -0.20030000000000014,
-      "delta_fmt": "-16.5%"
+      "value": "0.97 ETH",
+      "raw": 0.9699,
+      "delta": -0.2279,
+      "delta_fmt": "-19.0%"
     },
     {
       "label": "7d Vol",
-      "value": "12.29 ETH",
-      "raw": 12.2903
+      "value": "12.35 ETH",
+      "raw": 12.3483
     },
     {
       "label": "30d Vol",
-      "value": "56.71 ETH",
-      "raw": 56.7084
+      "value": "56.77 ETH",
+      "raw": 56.7664
     },
     {
       "label": "Full Set Bid",
-      "value": "27.5 ETH",
-      "raw": 27.54,
-      "delta": -3.9299999999999997,
-      "delta_fmt": "-3.93 ETH"
+      "value": "25.4 ETH",
+      "raw": 25.45,
+      "delta": -2.09,
+      "delta_fmt": "-2.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -159,18 +172,18 @@
       "raw": 1915161709
     },
     {
+      "label": "#1 HasanGoktepe",
+      "value": "47.6M TDH",
+      "raw": 47644988,
+      "delta": 88846,
+      "delta_fmt": "+0.1M TDH"
+    },
+    {
       "label": "#1 GarryB1rd",
       "value": "53.6M TDH",
       "raw": 53574063,
       "delta": 12927,
       "delta_fmt": "+0.0M TDH"
-    },
-    {
-      "label": "#1 HasanGoktepe",
-      "value": "47.6M TDH",
-      "raw": 47556142,
-      "delta": 445758,
-      "delta_fmt": "+0.4M TDH"
     },
     {
       "label": "#1 GIANT",
@@ -526,7 +539,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #543: 107 MINTS (EXCL. MUSEUM) | 71 HOLDERS | GIANT \u2014 FREEDOM TO BURN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #543: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | GIANT \u2014 FREEDOM TO BURN"
   ]
 }
