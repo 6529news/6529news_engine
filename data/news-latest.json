@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:01:32.702982+00:00",
+  "generated_at": "2026-09-02T05:49:46.903964+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "GarryB1rd Leads with 52.8M Projected TDH",
-      "summary": "\"The Ride\" by GarryB1rd (52.8M projected TDH, 46 voters) | \"Age of Memes\" by HasanGoktepe (47.6M projected TDH, 75 voters) | \"PebbleLand\" by Articulate (30.4M projected TDH, 62 voters) Next selection: Wed Sep 02 at 17:00 CET.",
+      "headline": "GarryB1rd Leads with 52.9M Projected TDH",
+      "summary": "\"The Ride\" by GarryB1rd (52.9M projected TDH, 48 voters) | \"Age of Memes\" by HasanGoktepe (47.6M projected TDH, 75 voters) | \"PebbleLand\" by Articulate (30.4M projected TDH, 62 voters) Next selection: Wed Sep 02 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "GarryB1rd",
-          "value": "52.8M",
-          "sub": "proj. (46 votes)"
+          "value": "52.9M",
+          "sub": "proj. (48 votes)"
         },
         {
           "label": "HasanGoktepe",
@@ -64,30 +64,40 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Ayla (21.3M) | simonemonte (5.4M) | sqpx (1.7M).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: Ayla (21.3M) | simonemonte (5.4M) | sqpx (1.7M) | megha (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": null,
-      "images": [],
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_f7a3c140-b4e4-4434-8cc8-c148e1dcb3c8/34d280d5-f54b-4da6-94d5-f14d4a1b776c/Sunsets.jpg",
+        "label": "megha (1.6M)",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_f7a3c140-b4e4-4434-8cc8-c148e1dcb3c8/34d280d5-f54b-4da6-94d5-f14d4a1b776c/Sunsets.jpg",
+          "label": "megha (1.6M)",
+          "type": "image"
+        }
+      ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 1.10 ETH Volume",
-      "summary": "28 sales in 24h for 1.10 ETH. Highest: \"UncleSeize\" at 0.140 ETH.",
+      "headline": "30 Sales Today - 1.27 ETH Volume",
+      "summary": "30 sales in 24h for 1.27 ETH. Highest: \"UncleSeize\" at 0.140 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,20 +117,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/187.WEBP",
-          "label": "Meme Enjoyoor - 0.098 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+          "label": "< no, really [ this ] is going to be our year > - 0.077 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "28",
+          "value": "30",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.10",
+          "value": "1.27",
           "sub": "ETH"
         },
         {
@@ -130,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0135",
+          "value": "0.01349",
           "sub": "ETH"
         }
       ]
@@ -139,39 +149,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.10 ETH",
-      "raw": 1.0991,
-      "delta": 0.43589999999999995,
-      "delta_fmt": "+65.7%"
+      "value": "1.27 ETH",
+      "raw": 1.2665,
+      "delta": 0.4095,
+      "delta_fmt": "+47.8%"
     },
     {
       "label": "7d Vol",
-      "value": "12.80 ETH",
-      "raw": 12.8046
+      "value": "13.28 ETH",
+      "raw": 13.2802
     },
     {
       "label": "30d Vol",
-      "value": "56.06 ETH",
-      "raw": 56.0567
+      "value": "56.53 ETH",
+      "raw": 56.5323
     },
     {
       "label": "Full Set Bid",
-      "value": "33.4 ETH",
-      "raw": 33.38,
-      "delta": 0.28000000000000114,
-      "delta_fmt": "+0.28 ETH"
+      "value": "33.3 ETH",
+      "raw": 33.32,
+      "delta": -0.060000000000002274,
+      "delta_fmt": "-0.06 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1915.2M",
-      "raw": 1915161709,
-      "delta": 2833631,
-      "delta_fmt": "+2.8M TDH"
+      "raw": 1915161709
     },
     {
       "label": "#1 GarryB1rd",
-      "value": "52.8M TDH",
-      "raw": 52785986
+      "value": "52.9M TDH",
+      "raw": 52853566,
+      "delta": 67580,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 HasanGoktepe",
@@ -534,7 +544,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #542: 130 MINTS (EXCL. MUSEUM) | 90 HOLDERS | OPEN SOURCE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #542: 130 MINTS (EXCL. MUSEUM) | 90 HOLDERS | OPEN SOURCE"
   ]
 }
