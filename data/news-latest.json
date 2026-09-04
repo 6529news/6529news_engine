@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T20:19:30.952423+00:00",
+  "generated_at": "2026-09-04T22:27:34.547976+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Articulate Leads with 43.5M Projected TDH",
-      "summary": "\"PebbleLand\" by Articulate (43.5M projected TDH, 73 voters) | \"Legacy of Wisdom\" by Parisa (40.2M projected TDH, 67 voters) | \"The First Believer\" by Ayla (21.4M projected TDH, 53 voters) Next selection: Mon Sep 07 at 17:00 CET.",
+      "summary": "\"PebbleLand\" by Articulate (43.5M projected TDH, 73 voters) | \"Legacy of Wisdom\" by Parisa (42.4M projected TDH, 69 voters) | \"The First Believer\" by Ayla (21.4M projected TDH, 53 voters) Next selection: Mon Sep 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "Parisa",
-          "value": "40.2M",
-          "sub": "proj. (67 votes)"
+          "value": "42.4M",
+          "sub": "proj. (69 votes)"
         },
         {
           "label": "Ayla",
@@ -84,26 +84,26 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "54 Sales Today - 1.76 ETH Volume",
-      "summary": "54 sales in 24h for 1.76 ETH. Highest: \"all things fail\" at 0.200 ETH.",
+      "headline": "74 Sales Today - 2.41 ETH Volume",
+      "summary": "74 sales in 24h for 2.41 ETH. Highest: \"6529Seizing\" at 0.110 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/167.WEBP",
-        "label": "all things fail - 0.200 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
+        "label": "6529Seizing - 0.110 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/167.WEBP",
-          "label": "all things fail - 0.200 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
+          "label": "6529Seizing - 0.110 ETH",
           "type": "image"
         },
         {
@@ -112,26 +112,26 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/543.WEBP",
-          "label": "GIANT \u2014 Freedom to Burn - 0.060 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
+          "label": "rekt6529 - 0.096 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "54",
+          "value": "74",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.76",
+          "value": "2.41",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.200",
-          "sub": "all things fail"
+          "value": "0.110",
+          "sub": "6529Seizing"
         },
         {
           "label": "Floor",
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.76 ETH",
-      "raw": 1.7565,
-      "delta": 0.816,
-      "delta_fmt": "+86.8%"
+      "value": "2.41 ETH",
+      "raw": 2.4087,
+      "delta": 1.5502,
+      "delta_fmt": "+180.6%"
     },
     {
       "label": "7d Vol",
-      "value": "8.20 ETH",
-      "raw": 8.1976
+      "value": "9.17 ETH",
+      "raw": 9.1652
     },
     {
       "label": "30d Vol",
-      "value": "52.77 ETH",
-      "raw": 52.77
+      "value": "53.75 ETH",
+      "raw": 53.7525
     },
     {
       "label": "Full Set Bid",
-      "value": "33.2 ETH",
-      "raw": 33.16,
-      "delta": 0.18999999999999773,
-      "delta_fmt": "+0.19 ETH"
+      "value": "32.9 ETH",
+      "raw": 32.91,
+      "delta": -0.25,
+      "delta_fmt": "-0.25 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 Articulate",
       "value": "43.5M TDH",
-      "raw": 43489931,
-      "delta": 2876100,
-      "delta_fmt": "+2.9M TDH"
+      "raw": 43489931
     },
     {
       "label": "#1 HasanGoktepe",
@@ -544,7 +542,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #544: 128 MINTS (EXCL. MUSEUM) | 88 HOLDERS | THE RIDE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #544: 128 MINTS (EXCL. MUSEUM) | 88 HOLDERS | THE RIDE"
   ]
 }
