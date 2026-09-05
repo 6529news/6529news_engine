@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:17:48.701951+00:00",
+  "generated_at": "2026-09-05T04:48:56.767342+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Articulate Leads with 50.4M Projected TDH",
-      "summary": "\"PebbleLand\" by Articulate (50.4M projected TDH, 74 voters) | \"Legacy of Wisdom\" by Parisa (42.4M projected TDH, 69 voters) | \"The First Believer\" by Ayla (21.4M projected TDH, 53 voters) Next selection: Mon Sep 07 at 17:00 CET.",
+      "headline": "Articulate Leads with 51.4M Projected TDH",
+      "summary": "\"PebbleLand\" by Articulate (51.4M projected TDH, 78 voters) | \"Legacy of Wisdom\" by Parisa (44.4M projected TDH, 69 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (21.4M projected TDH, 45 voters) Next selection: Mon Sep 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,18 +42,18 @@
       "dataBoxes": [
         {
           "label": "Articulate",
-          "value": "50.4M",
-          "sub": "proj. (74 votes)"
+          "value": "51.4M",
+          "sub": "proj. (78 votes)"
         },
         {
           "label": "Parisa",
-          "value": "42.4M",
+          "value": "44.4M",
           "sub": "proj. (69 votes)"
         },
         {
-          "label": "Ayla",
+          "label": "Nicolas_Bets",
           "value": "21.4M",
-          "sub": "proj. (53 votes)"
+          "sub": "proj. (45 votes)"
         }
       ]
     },
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "67 Sales Today - 2.16 ETH Volume",
-      "summary": "67 sales in 24h for 2.16 ETH. Highest: \"6529Seizing\" at 0.110 ETH.",
+      "headline": "66 Sales Today - 2.13 ETH Volume",
+      "summary": "66 sales in 24h for 2.13 ETH. Highest: \"6529Seizing\" at 0.110 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "67",
+          "value": "66",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.16",
+          "value": "2.13",
           "sub": "ETH"
         },
         {
@@ -144,10 +144,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.16 ETH",
-      "raw": 2.1575,
-      "delta": 1.4220000000000002,
-      "delta_fmt": "+193.3%"
+      "value": "2.13 ETH",
+      "raw": 2.1275,
+      "delta": 1.362,
+      "delta_fmt": "+177.9%"
     },
     {
       "label": "7d Vol",
@@ -161,24 +161,22 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "32.7 ETH",
-      "raw": 32.72,
-      "delta": -0.18999999999999773,
-      "delta_fmt": "-0.19 ETH"
+      "value": "32.8 ETH",
+      "raw": 32.81,
+      "delta": 0.09000000000000341,
+      "delta_fmt": "+0.09 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1923.0M",
-      "raw": 1923037526,
-      "delta": 2318799,
-      "delta_fmt": "+2.3M TDH"
+      "raw": 1923037526
     },
     {
       "label": "#1 Articulate",
-      "value": "50.4M TDH",
-      "raw": 50359410,
-      "delta": 6869479,
-      "delta_fmt": "+6.9M TDH"
+      "value": "51.4M TDH",
+      "raw": 51350231,
+      "delta": 990821,
+      "delta_fmt": "+1.0M TDH"
     },
     {
       "label": "#1 HasanGoktepe",
@@ -546,7 +544,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #544: 128 MINTS (EXCL. MUSEUM) | 88 HOLDERS | THE RIDE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #544: 132 MINTS (EXCL. MUSEUM) | 92 HOLDERS | THE RIDE"
   ]
 }
