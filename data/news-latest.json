@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-05T12:24:06.555173+00:00",
+  "generated_at": "2026-09-05T15:26:34.972716+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"The Ride\" by GarryB1rd \u2014 53.6M TDH from 50 voters. Top supporter: johndoe8891 (9.4M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/544.GIF",
-        "label": "The Ride - GarryB1rd",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING MONDAY",
       "headline": "Minting Monday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Articulate Leads with 51.4M Projected TDH",
-      "summary": "\"PebbleLand\" by Articulate (51.4M projected TDH, 80 voters) | \"Legacy of Wisdom\" by Parisa (44.5M projected TDH, 72 voters) | \"The First Believer\" by Ayla (21.4M projected TDH, 54 voters) Next selection: Mon Sep 07 at 17:00 CET.",
+      "summary": "\"PebbleLand\" by Articulate (51.4M projected TDH, 80 voters) | \"Legacy of Wisdom\" by Parisa (44.7M projected TDH, 74 voters) | \"The First Believer\" by Ayla (21.4M projected TDH, 54 voters) Next selection: Mon Sep 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +34,8 @@
         },
         {
           "label": "Parisa",
-          "value": "44.5M",
-          "sub": "proj. (72 votes)"
+          "value": "44.7M",
+          "sub": "proj. (74 votes)"
         },
         {
           "label": "Ayla",
@@ -59,16 +46,21 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: megha (1.6M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: Arthr (9.8M) | megha (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_f7a3c140-b4e4-4434-8cc8-c148e1dcb3c8/34d280d5-f54b-4da6-94d5-f14d4a1b776c/Sunsets.jpg",
-        "label": "megha (1.6M)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d259ae73-913b-43e3-aae3-6ffcdd6ace43/b820559d-9bae-46c5-a3e9-ad281f46e92c/WA-NGMI.mp4",
+        "label": "Arthr (9.8M)",
+        "type": "video"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d259ae73-913b-43e3-aae3-6ffcdd6ace43/b820559d-9bae-46c5-a3e9-ad281f46e92c/WA-NGMI.mp4",
+          "label": "Arthr (9.8M)",
+          "type": "video"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_f7a3c140-b4e4-4434-8cc8-c148e1dcb3c8/34d280d5-f54b-4da6-94d5-f14d4a1b776c/Sunsets.jpg",
           "label": "megha (1.6M)",
@@ -79,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "66 Sales Today - 2.08 ETH Volume",
-      "summary": "66 sales in 24h for 2.08 ETH. Highest: \"6529Seizing\" at 0.110 ETH.",
+      "headline": "65 Sales Today - 1.94 ETH Volume",
+      "summary": "65 sales in 24h for 1.94 ETH. Highest: \"6529Seizing\" at 0.110 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,25 +99,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-          "label": "UncleSeize - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/417.GIF",
+          "label": "PVP - 0.093 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
-          "label": "rekt6529 - 0.096 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/298.WEBP",
+          "label": "En Route to the Bull - 0.080 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "66",
+          "value": "65",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.08",
+          "value": "1.94",
           "sub": "ETH"
         },
         {
@@ -144,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.08 ETH",
-      "raw": 2.0826,
-      "delta": 1.3102999999999998,
-      "delta_fmt": "+169.7%"
+      "value": "1.94 ETH",
+      "raw": 1.9408,
+      "delta": 1.0806,
+      "delta_fmt": "+125.6%"
     },
     {
       "label": "7d Vol",
-      "value": "8.43 ETH",
-      "raw": 8.4291
+      "value": "7.50 ETH",
+      "raw": 7.5022
     },
     {
       "label": "30d Vol",
-      "value": "52.61 ETH",
-      "raw": 52.6055
+      "value": "52.74 ETH",
+      "raw": 52.7405
     },
     {
       "label": "Full Set Bid",
       "value": "32.7 ETH",
-      "raw": 32.66,
-      "delta": -0.0800000000000054,
-      "delta_fmt": "-0.08 ETH"
+      "raw": 32.72,
+      "delta": 0.060000000000002274,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +166,7 @@
     {
       "label": "#1 Articulate",
       "value": "51.4M TDH",
-      "raw": 51383815,
-      "delta": 28755,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 51383815
     },
     {
       "label": "#1 HasanGoktepe",
@@ -544,7 +534,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #544: 135 MINTS (EXCL. MUSEUM) | 94 HOLDERS | THE RIDE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #544: 143 MINTS (EXCL. MUSEUM) | 94 HOLDERS | THE RIDE"
   ]
 }
