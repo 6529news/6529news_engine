@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T17:28:27.972562+00:00",
+  "generated_at": "2026-09-05T19:20:56.654720+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,18 +47,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Arthr (13.9M) | megha (1.6M).",
+      "summary": "2 submissions this week. Ranking: Arthr (14.0M) | megha (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d259ae73-913b-43e3-aae3-6ffcdd6ace43/b820559d-9bae-46c5-a3e9-ad281f46e92c/WA-NGMI.mp4",
-        "label": "Arthr (13.9M)",
+        "label": "Arthr (14.0M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d259ae73-913b-43e3-aae3-6ffcdd6ace43/b820559d-9bae-46c5-a3e9-ad281f46e92c/WA-NGMI.mp4",
-          "label": "Arthr (13.9M)",
+          "label": "Arthr (14.0M)",
           "type": "video"
         },
         {
@@ -83,21 +83,16 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "63 Sales Today - 1.85 ETH Volume",
-      "summary": "63 sales in 24h for 1.85 ETH. Highest: \"6529Seizing\" at 0.110 ETH.",
+      "headline": "33 Sales Today - 1.22 ETH Volume",
+      "summary": "33 sales in 24h for 1.22 ETH. Highest: \"PVP\" at 0.093 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-        "label": "6529Seizing - 0.110 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/417.GIF",
+        "label": "PVP - 0.093 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.110 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/417.GIF",
           "label": "PVP - 0.093 ETH",
@@ -107,23 +102,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/298.WEBP",
           "label": "En Route to the Bull - 0.080 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/541.WEBP",
+          "label": "Burn Mechanism - 0.070 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "63",
+          "value": "33",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.85",
+          "value": "1.22",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.110",
-          "sub": "6529Seizing"
+          "value": "0.093",
+          "sub": "PVP"
         },
         {
           "label": "Floor",
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.85 ETH",
-      "raw": 1.8508,
-      "delta": 0.7006000000000001,
-      "delta_fmt": "+60.9%"
+      "value": "1.22 ETH",
+      "raw": 1.2183,
+      "delta": 0.06810000000000005,
+      "delta_fmt": "+5.9%"
     },
     {
       "label": "7d Vol",
-      "value": "7.50 ETH",
-      "raw": 7.5022
+      "value": "6.73 ETH",
+      "raw": 6.7275
     },
     {
       "label": "30d Vol",
-      "value": "52.74 ETH",
-      "raw": 52.7405
+      "value": "52.78 ETH",
+      "raw": 52.7847
     },
     {
       "label": "Full Set Bid",
-      "value": "32.6 ETH",
-      "raw": 32.59,
-      "delta": -0.12999999999999545,
-      "delta_fmt": "-0.13 ETH"
+      "value": "32.8 ETH",
+      "raw": 32.76,
+      "delta": 0.1699999999999946,
+      "delta_fmt": "+0.17 ETH"
     },
     {
       "label": "Network TDH",
@@ -534,7 +534,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #544: 143 MINTS (EXCL. MUSEUM) | 94 HOLDERS | THE RIDE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #544: 143 MINTS (EXCL. MUSEUM) | 94 HOLDERS | THE RIDE"
   ]
 }
