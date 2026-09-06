@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:12:53.541287+00:00",
+  "generated_at": "2026-09-06T01:00:36.730700+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Articulate Leads with 51.4M Projected TDH",
-      "summary": "\"PebbleLand\" by Articulate (51.4M projected TDH, 80 voters) | \"Legacy of Wisdom\" by Parisa (44.7M projected TDH, 74 voters) | \"The First Believer\" by Ayla (21.5M projected TDH, 55 voters) Next selection: Mon Sep 07 at 17:00 CET.",
+      "summary": "\"PebbleLand\" by Articulate (51.4M projected TDH, 81 voters) | \"Legacy of Wisdom\" by Parisa (44.7M projected TDH, 74 voters) | \"The First Believer\" by Ayla (21.5M projected TDH, 55 voters) Next selection: Mon Sep 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Articulate",
           "value": "51.4M",
-          "sub": "proj. (80 votes)"
+          "sub": "proj. (81 votes)"
         },
         {
           "label": "Parisa",
@@ -83,8 +83,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 0.80 ETH Volume",
-      "summary": "24 sales in 24h for 0.80 ETH. Highest: \"En Route to the Bull\" at 0.080 ETH.",
+      "headline": "15 Sales Today - 0.59 ETH Volume",
+      "summary": "15 sales in 24h for 0.59 ETH. Highest: \"En Route to the Bull\" at 0.080 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "24",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.80",
+          "value": "0.59",
           "sub": "ETH"
         },
         {
@@ -136,37 +136,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.80 ETH",
-      "raw": 0.7962,
-      "delta": -1.6125,
-      "delta_fmt": "-66.9%"
+      "value": "0.59 ETH",
+      "raw": 0.5945,
+      "delta": -1.5630000000000002,
+      "delta_fmt": "-72.4%"
     },
     {
       "label": "7d Vol",
-      "value": "6.86 ETH",
-      "raw": 6.8574
+      "value": "6.55 ETH",
+      "raw": 6.5486
     },
     {
       "label": "30d Vol",
-      "value": "52.91 ETH",
-      "raw": 52.9146
+      "value": "51.97 ETH",
+      "raw": 51.9658
     },
     {
       "label": "Full Set Bid",
-      "value": "32.8 ETH",
-      "raw": 32.78,
-      "delta": 0.10999999999999943,
-      "delta_fmt": "+0.11 ETH"
+      "value": "32.9 ETH",
+      "raw": 32.87,
+      "delta": 0.0899999999999963,
+      "delta_fmt": "+0.09 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1923.0M",
-      "raw": 1923037526
+      "value": "1925.8M",
+      "raw": 1925800041,
+      "delta": 2762515,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 Articulate",
       "value": "51.4M TDH",
-      "raw": 51383815
+      "raw": 51406188,
+      "delta": 22373,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 HasanGoktepe",
@@ -534,7 +538,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #544: 143 MINTS (EXCL. MUSEUM) | 95 HOLDERS | THE RIDE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #544: 143 MINTS (EXCL. MUSEUM) | 95 HOLDERS | THE RIDE"
   ]
 }
