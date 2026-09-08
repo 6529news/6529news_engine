@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T22:31:12.457110+00:00",
+  "generated_at": "2026-09-08T00:41:20.201756+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Age of Memes\" by HasanGoktepe \u2014 48.3M TDH from 77 voters. Top supporter: gpebbles (10.7M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Age of Memes\" by HasanGoktepe \u2014 48.3M TDH from 77 voters. Top supporter: gpebbles (10.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Arthr Leads with 39.2M Projected TDH",
-      "summary": "\"WA-NGMI\" by Arthr (39.2M projected TDH, 62 voters) | \"Legacy of Wisdom\" by Parisa (34.0M projected TDH, 80 voters) | \"The First Believer\" by Ayla (21.7M projected TDH, 55 voters) Next selection: Wed Sep 09 at 17:00 CET.",
+      "headline": "Arthr Leads with 39.8M Projected TDH",
+      "summary": "\"WA-NGMI\" by Arthr (39.8M projected TDH, 64 voters) | \"Legacy of Wisdom\" by Parisa (33.4M projected TDH, 80 voters) | \"The First Believer\" by Ayla (21.7M projected TDH, 55 voters) Next selection: Wed Sep 09 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,12 +42,12 @@
       "dataBoxes": [
         {
           "label": "Arthr",
-          "value": "39.2M",
-          "sub": "proj. (62 votes)"
+          "value": "39.8M",
+          "sub": "proj. (64 votes)"
         },
         {
           "label": "Parisa",
-          "value": "34.0M",
+          "value": "33.4M",
           "sub": "proj. (80 votes)"
         },
         {
@@ -60,23 +60,23 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: SgtPepeWorld (22.9M) | blake69 (21.0M) | RegularDad (11.7M).",
+      "summary": "3 submissions this week. Ranking: SgtPepeWorld (25.3M) | blake69 (12.0M) | RegularDad (11.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d22a1126-1f72-431b-9d91-45f854d2181d/7df1e4cb-850f-41e6-b615-15339662bacf/E01-Sgt-Pepe-World-Vf3-Compressed.mp4",
-        "label": "SgtPepeWorld (22.9M)",
+        "label": "SgtPepeWorld (25.3M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d22a1126-1f72-431b-9d91-45f854d2181d/7df1e4cb-850f-41e6-b615-15339662bacf/E01-Sgt-Pepe-World-Vf3-Compressed.mp4",
-          "label": "SgtPepeWorld (22.9M)",
+          "label": "SgtPepeWorld (25.3M)",
           "type": "video"
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/05bc8196-7756-4e04-9536-f5e8f4d032fd/93EEDF7C-366A-4D50-A471-0192D193CA41.png",
-          "label": "blake69 (21.0M)",
+          "label": "blake69 (12.0M)",
           "type": "image"
         },
         {
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "10 Sales Today - 0.59 ETH Volume",
-      "summary": "10 sales in 24h for 0.59 ETH. Highest: \"How To Live\" at 0.140 ETH.",
+      "headline": "11 Sales Today - 0.63 ETH Volume",
+      "summary": "11 sales in 24h for 0.63 ETH. Highest: \"How To Live\" at 0.140 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "10",
+          "value": "11",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.59",
+          "value": "0.63",
           "sub": "ETH"
         },
         {
@@ -154,39 +154,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.59 ETH",
-      "raw": 0.59,
-      "delta": 0.14099999999999996,
-      "delta_fmt": "+31.4%"
+      "value": "0.63 ETH",
+      "raw": 0.63,
+      "delta": 0.16100000000000003,
+      "delta_fmt": "+34.3%"
     },
     {
       "label": "7d Vol",
-      "value": "6.38 ETH",
-      "raw": 6.3765
+      "value": "6.11 ETH",
+      "raw": 6.1083
     },
     {
       "label": "30d Vol",
-      "value": "49.91 ETH",
-      "raw": 49.9109
+      "value": "48.88 ETH",
+      "raw": 48.8774
     },
     {
       "label": "Full Set Bid",
-      "value": "33.2 ETH",
-      "raw": 33.2,
-      "delta": 0.010000000000005116,
-      "delta_fmt": "+0.01 ETH"
+      "value": "33.1 ETH",
+      "raw": 33.1,
+      "delta": -0.10000000000000142,
+      "delta_fmt": "-0.10 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1928.7M",
-      "raw": 1928706176
+      "value": "1931.6M",
+      "raw": 1931599949,
+      "delta": 2893773,
+      "delta_fmt": "+2.9M TDH"
     },
     {
       "label": "#1 Arthr",
-      "value": "39.2M TDH",
-      "raw": 39248909,
-      "delta": 1006668,
-      "delta_fmt": "+1.0M TDH"
+      "value": "39.8M TDH",
+      "raw": 39820387,
+      "delta": 571478,
+      "delta_fmt": "+0.6M TDH"
     },
     {
       "label": "#1 Articulate",
@@ -561,7 +563,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #545: 121 MINTS (EXCL. MUSEUM) | 85 HOLDERS | AGE OF MEMES",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #545: 122 MINTS (EXCL. MUSEUM) | 86 HOLDERS | AGE OF MEMES"
   ]
 }
