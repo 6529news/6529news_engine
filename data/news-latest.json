@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T05:17:44.906512+00:00",
+  "generated_at": "2026-09-08T09:57:02.486133+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Arthr Leads with 40.0M Projected TDH",
-      "summary": "\"WA-NGMI\" by Arthr (40.0M projected TDH, 65 voters) | \"Legacy of Wisdom\" by Parisa (33.4M projected TDH, 80 voters) | \"The First Believer\" by Ayla (21.7M projected TDH, 55 voters) Next selection: Wed Sep 09 at 17:00 CET.",
+      "headline": "Arthr Leads with 40.1M Projected TDH",
+      "summary": "\"WA-NGMI\" by Arthr (40.1M projected TDH, 68 voters) | \"Legacy of Wisdom\" by Parisa (33.5M projected TDH, 80 voters) | \"The Great Meme Expo | Sgt. Pepe\u2019s World \u2014 Episode 1\" by SgtPepeWorld (29.8M projected TDH, 42 voters) Next selection: Wed Sep 09 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,38 +42,33 @@
       "dataBoxes": [
         {
           "label": "Arthr",
-          "value": "40.0M",
-          "sub": "proj. (65 votes)"
+          "value": "40.1M",
+          "sub": "proj. (68 votes)"
         },
         {
           "label": "Parisa",
-          "value": "33.4M",
+          "value": "33.5M",
           "sub": "proj. (80 votes)"
         },
         {
-          "label": "Ayla",
-          "value": "21.7M",
-          "sub": "proj. (55 votes)"
+          "label": "SgtPepeWorld",
+          "value": "29.8M",
+          "sub": "proj. (42 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: SgtPepeWorld (26.7M) | blake69 (12.0M) | RegularDad (11.8M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: blake69 (12.0M) | RegularDad (11.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d22a1126-1f72-431b-9d91-45f854d2181d/7df1e4cb-850f-41e6-b615-15339662bacf/E01-Sgt-Pepe-World-Vf3-Compressed.mp4",
-        "label": "SgtPepeWorld (26.7M)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/05bc8196-7756-4e04-9536-f5e8f4d032fd/93EEDF7C-366A-4D50-A471-0192D193CA41.png",
+        "label": "blake69 (12.0M)",
+        "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d22a1126-1f72-431b-9d91-45f854d2181d/7df1e4cb-850f-41e6-b615-15339662bacf/E01-Sgt-Pepe-World-Vf3-Compressed.mp4",
-          "label": "SgtPepeWorld (26.7M)",
-          "type": "video"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/05bc8196-7756-4e04-9536-f5e8f4d032fd/93EEDF7C-366A-4D50-A471-0192D193CA41.png",
           "label": "blake69 (12.0M)",
@@ -94,15 +89,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 0.62 ETH Volume",
-      "summary": "11 sales in 24h for 0.62 ETH. Highest: \"How To Live\" at 0.140 ETH.",
+      "headline": "12 Sales Today - 0.70 ETH Volume",
+      "summary": "12 sales in 24h for 0.70 ETH. Highest: \"How To Live\" at 0.140 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.62",
+          "value": "0.70",
           "sub": "ETH"
         },
         {
@@ -154,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.62 ETH",
-      "raw": 0.6225,
-      "delta": 0.25090000000000007,
-      "delta_fmt": "+67.5%"
+      "value": "0.70 ETH",
+      "raw": 0.7004,
+      "delta": 0.3709,
+      "delta_fmt": "+112.6%"
     },
     {
       "label": "7d Vol",
-      "value": "6.13 ETH",
-      "raw": 6.1306
+      "value": "5.86 ETH",
+      "raw": 5.8585
     },
     {
       "label": "30d Vol",
-      "value": "48.90 ETH",
-      "raw": 48.8997
+      "value": "48.98 ETH",
+      "raw": 48.9776
     },
     {
       "label": "Full Set Bid",
       "value": "32.8 ETH",
-      "raw": 32.83,
-      "delta": -0.2700000000000031,
-      "delta_fmt": "-0.27 ETH"
+      "raw": 32.8,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -183,10 +178,10 @@
     },
     {
       "label": "#1 Arthr",
-      "value": "40.0M TDH",
-      "raw": 40012533,
-      "delta": 192146,
-      "delta_fmt": "+0.2M TDH"
+      "value": "40.1M TDH",
+      "raw": 40064549,
+      "delta": 52016,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 Articulate",
@@ -561,7 +556,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #545: 122 MINTS (EXCL. MUSEUM) | 86 HOLDERS | AGE OF MEMES",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #545: 122 MINTS (EXCL. MUSEUM) | 86 HOLDERS | AGE OF MEMES"
   ]
 }
