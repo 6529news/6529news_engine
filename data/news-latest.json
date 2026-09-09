@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:47:01.240346+00:00",
+  "generated_at": "2026-09-09T19:12:04.673182+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Parisa Leads with 47.5M Projected TDH",
-      "summary": "\"Legacy of Wisdom\" by Parisa (47.5M projected TDH, 81 voters) | \"WA-NGMI\" by Arthr (44.5M projected TDH, 81 voters) | \"The First Believer\" by Ayla (30.4M projected TDH, 60 voters) Next selection: Fri Sep 11 at 17:00 CET.",
+      "summary": "\"Legacy of Wisdom\" by Parisa (47.5M projected TDH, 81 voters) | \"WA-NGMI\" by Arthr (44.5M projected TDH, 82 voters) | \"The First Believer\" by Ayla (30.4M projected TDH, 61 voters) Next selection: Fri Sep 11 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,12 +48,12 @@
         {
           "label": "Arthr",
           "value": "44.5M",
-          "sub": "proj. (81 votes)"
+          "sub": "proj. (82 votes)"
         },
         {
           "label": "Ayla",
           "value": "30.4M",
-          "sub": "proj. (60 votes)"
+          "sub": "proj. (61 votes)"
         }
       ]
     },
@@ -162,9 +162,9 @@
     {
       "label": "Full Set Bid",
       "value": "33.0 ETH",
-      "raw": 33.01,
-      "delta": 0.18999999999999773,
-      "delta_fmt": "+0.19 ETH"
+      "raw": 32.99,
+      "delta": -0.01999999999999602,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 Parisa",
       "value": "47.5M TDH",
-      "raw": 47532645,
-      "delta": -6151190,
-      "delta_fmt": "-6.2M TDH"
+      "raw": 47532645
     },
     {
       "label": "#1 SgtPepeWorld",
@@ -566,6 +564,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #546: 118 MINTS (EXCL. MUSEUM) | 79 HOLDERS | PEBBLELAND"
+    "CARD #546: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | PEBBLELAND"
   ]
 }
