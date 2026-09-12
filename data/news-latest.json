@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:09:41.789997+00:00",
+  "generated_at": "2026-09-12T19:21:43.801954+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Parisa Leads with 56.9M Projected TDH",
-      "summary": "\"Legacy of Wisdom\" by Parisa (56.9M projected TDH, 87 voters) | \"Chromie Squiggle Museum Acquisition\" by RegularDad (46.7M projected TDH, 44 voters) | \"The First Believer\" by Ayla (31.8M projected TDH, 67 voters) Next selection: Mon Sep 14 at 17:00 CET.",
+      "headline": "Parisa Leads with 58.4M Projected TDH",
+      "summary": "\"Legacy of Wisdom\" by Parisa (58.4M projected TDH, 88 voters) | \"Chromie Squiggle Museum Acquisition\" by RegularDad (46.7M projected TDH, 45 voters) | \"The First Believer\" by Ayla (31.8M projected TDH, 67 voters) Next selection: Mon Sep 14 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "Parisa",
-          "value": "56.9M",
-          "sub": "proj. (87 votes)"
+          "value": "58.4M",
+          "sub": "proj. (88 votes)"
         },
         {
           "label": "RegularDad",
           "value": "46.7M",
-          "sub": "proj. (44 votes)"
+          "sub": "proj. (45 votes)"
         },
         {
           "label": "Ayla",
@@ -65,18 +65,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Abrahanny (4.0M) | Samanta (1.4M) | Edub (1.2M).",
+      "summary": "3 submissions this week. Ranking: Abrahanny (4.1M) | Samanta (1.4M) | Edub (1.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_eb1f7ed0-a501-46c2-8433-1496f624a490/4be52222-bee1-4d5f-a0e1-fea77faceb59/PixelParty-MemeCard-Abrahanny-withoutgradient.mp4",
-        "label": "Abrahanny (4.0M)",
+        "label": "Abrahanny (4.1M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_eb1f7ed0-a501-46c2-8433-1496f624a490/4be52222-bee1-4d5f-a0e1-fea77faceb59/PixelParty-MemeCard-Abrahanny-withoutgradient.mp4",
-          "label": "Abrahanny (4.0M)",
+          "label": "Abrahanny (4.1M)",
           "type": "video"
         }
       ],
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "29 Sales Today - 1.07 ETH Volume",
-      "summary": "29 sales in 24h for 1.07 ETH. Highest: \"I Still Do\" at 0.160 ETH.",
+      "headline": "32 Sales Today - 1.15 ETH Volume",
+      "summary": "32 sales in 24h for 1.15 ETH. Highest: \"I Still Do\" at 0.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,25 +112,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.107 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/543.WEBP",
+          "label": "GIANT \u2014 Freedom to Burn - 0.050 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-          "label": "UncleSeize - 0.090 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/311.GIF",
+          "label": "MOONSHOT - 0.042 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "29",
+          "value": "32",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.07",
+          "value": "1.15",
           "sub": "ETH"
         },
         {
@@ -149,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.07 ETH",
-      "raw": 1.073,
-      "delta": 0.10949999999999993,
-      "delta_fmt": "+11.4%"
+      "value": "1.15 ETH",
+      "raw": 1.1538,
+      "delta": 0.1902999999999999,
+      "delta_fmt": "+19.8%"
     },
     {
       "label": "7d Vol",
-      "value": "4.92 ETH",
-      "raw": 4.9243
+      "value": "4.83 ETH",
+      "raw": 4.8311
     },
     {
       "label": "30d Vol",
-      "value": "45.80 ETH",
-      "raw": 45.7967
+      "value": "45.88 ETH",
+      "raw": 45.8775
     },
     {
       "label": "Full Set Bid",
       "value": "32.6 ETH",
-      "raw": 32.6,
-      "delta": -0.01999999999999602,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 32.61,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -178,8 +178,10 @@
     },
     {
       "label": "#1 Parisa",
-      "value": "56.9M TDH",
-      "raw": 56887147
+      "value": "58.4M TDH",
+      "raw": 58367116,
+      "delta": 1479969,
+      "delta_fmt": "+1.5M TDH"
     },
     {
       "label": "#1 Arthr",
@@ -568,7 +570,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #547: 223 MINTS (EXCL. MUSEUM) | 144 HOLDERS | THE GREAT MEME EXPO | SGT. PEPE\u2019S WORLD \u2014 EPISODE 1",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #547: 223 MINTS (EXCL. MUSEUM) | 144 HOLDERS | THE GREAT MEME EXPO | SGT. PEPE\u2019S WORLD \u2014 EPISODE 1"
   ]
 }
