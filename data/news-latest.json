@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-12T14:07:22.915132+00:00",
+  "generated_at": "2026-09-12T17:09:41.789997+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"The Great Meme Expo | Sgt. Pepe\u2019s World \u2014 Episode 1\" by SgtPepeWorld \u2014 75.5M TDH from 79 voters. Top supporter: 6529er (10.8M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/547.PNG",
-        "label": "The Great Meme Expo | Sgt. Pepe\u2019s World \u2014 Episode 1 - SgtPepeWorld",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING MONDAY",
       "headline": "Minting Monday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Parisa Leads with 56.9M Projected TDH",
-      "summary": "\"Legacy of Wisdom\" by Parisa (56.9M projected TDH, 87 voters) | \"Chromie Squiggle Museum Acquisition\" by RegularDad (46.3M projected TDH, 41 voters) | \"The First Believer\" by Ayla (31.8M projected TDH, 67 voters) Next selection: Mon Sep 14 at 17:00 CET.",
+      "summary": "\"Legacy of Wisdom\" by Parisa (56.9M projected TDH, 87 voters) | \"Chromie Squiggle Museum Acquisition\" by RegularDad (46.7M projected TDH, 44 voters) | \"The First Believer\" by Ayla (31.8M projected TDH, 67 voters) Next selection: Mon Sep 14 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +34,8 @@
         },
         {
           "label": "RegularDad",
-          "value": "46.3M",
-          "sub": "proj. (41 votes)"
+          "value": "46.7M",
+          "sub": "proj. (44 votes)"
         },
         {
           "label": "Ayla",
@@ -78,18 +65,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Abrahanny (3.7M) | Samanta (1.4M) | Edub (1.2M).",
+      "summary": "3 submissions this week. Ranking: Abrahanny (4.0M) | Samanta (1.4M) | Edub (1.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_eb1f7ed0-a501-46c2-8433-1496f624a490/4be52222-bee1-4d5f-a0e1-fea77faceb59/PixelParty-MemeCard-Abrahanny-withoutgradient.mp4",
-        "label": "Abrahanny (3.7M)",
+        "label": "Abrahanny (4.0M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_eb1f7ed0-a501-46c2-8433-1496f624a490/4be52222-bee1-4d5f-a0e1-fea77faceb59/PixelParty-MemeCard-Abrahanny-withoutgradient.mp4",
-          "label": "Abrahanny (3.7M)",
+          "label": "Abrahanny (4.0M)",
           "type": "video"
         }
       ],
@@ -97,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "39 Sales Today - 1.31 ETH Volume",
-      "summary": "39 sales in 24h for 1.31 ETH. Highest: \"I Still Do\" at 0.160 ETH.",
+      "headline": "29 Sales Today - 1.07 ETH Volume",
+      "summary": "29 sales in 24h for 1.07 ETH. Highest: \"I Still Do\" at 0.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -138,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "39",
+          "value": "29",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.31",
+          "value": "1.07",
           "sub": "ETH"
         },
         {
@@ -162,10 +149,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.31 ETH",
-      "raw": 1.3075,
-      "delta": 0.5185000000000001,
-      "delta_fmt": "+65.7%"
+      "value": "1.07 ETH",
+      "raw": 1.073,
+      "delta": 0.10949999999999993,
+      "delta_fmt": "+11.4%"
     },
     {
       "label": "7d Vol",
@@ -180,9 +167,9 @@
     {
       "label": "Full Set Bid",
       "value": "32.6 ETH",
-      "raw": 32.62,
-      "delta": 0.0899999999999963,
-      "delta_fmt": "+0.09 ETH"
+      "raw": 32.6,
+      "delta": -0.01999999999999602,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
@@ -581,7 +568,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #547: 223 MINTS (EXCL. MUSEUM) | 144 HOLDERS | THE GREAT MEME EXPO | SGT. PEPE\u2019S WORLD \u2014 EPISODE 1",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #547: 223 MINTS (EXCL. MUSEUM) | 144 HOLDERS | THE GREAT MEME EXPO | SGT. PEPE\u2019S WORLD \u2014 EPISODE 1"
   ]
 }
