@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:05:05.789643+00:00",
+  "generated_at": "2026-09-12T14:07:22.915132+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -97,20 +97,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "40 Sales Today - 1.41 ETH Volume",
-      "summary": "40 sales in 24h for 1.41 ETH. Highest: \"I Still Do\" at 0.160 ETH.",
+      "headline": "39 Sales Today - 1.31 ETH Volume",
+      "summary": "39 sales in 24h for 1.31 ETH. Highest: \"I Still Do\" at 0.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,20 +130,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
-          "label": "< no, really [ this ] is going to be our year > - 0.104 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+          "label": "UncleSeize - 0.090 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "40",
+          "value": "39",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.41",
+          "value": "1.31",
           "sub": "ETH"
         },
         {
@@ -162,15 +162,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.41 ETH",
-      "raw": 1.4115,
-      "delta": 0.4839,
-      "delta_fmt": "+52.2%"
+      "value": "1.31 ETH",
+      "raw": 1.3075,
+      "delta": 0.5185000000000001,
+      "delta_fmt": "+65.7%"
     },
     {
       "label": "7d Vol",
-      "value": "5.06 ETH",
-      "raw": 5.0593
+      "value": "4.92 ETH",
+      "raw": 4.9243
     },
     {
       "label": "30d Vol",
@@ -179,10 +179,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "32.5 ETH",
-      "raw": 32.53,
-      "delta": -0.14000000000000057,
-      "delta_fmt": "-0.14 ETH"
+      "value": "32.6 ETH",
+      "raw": 32.62,
+      "delta": 0.0899999999999963,
+      "delta_fmt": "+0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -192,9 +192,7 @@
     {
       "label": "#1 Parisa",
       "value": "56.9M TDH",
-      "raw": 56887147,
-      "delta": 6142,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 56887147
     },
     {
       "label": "#1 Arthr",
@@ -583,7 +581,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #547: 218 MINTS (EXCL. MUSEUM) | 141 HOLDERS | THE GREAT MEME EXPO | SGT. PEPE\u2019S WORLD \u2014 EPISODE 1",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #547: 223 MINTS (EXCL. MUSEUM) | 144 HOLDERS | THE GREAT MEME EXPO | SGT. PEPE\u2019S WORLD \u2014 EPISODE 1"
   ]
 }
