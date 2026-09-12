@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T06:16:02.074751+00:00",
+  "generated_at": "2026-09-12T11:05:05.789643+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Parisa Leads with 56.9M Projected TDH",
-      "summary": "\"Legacy of Wisdom\" by Parisa (56.9M projected TDH, 86 voters) | \"Chromie Squiggle Museum Acquisition\" by RegularDad (46.3M projected TDH, 41 voters) | \"The First Believer\" by Ayla (31.8M projected TDH, 67 voters) Next selection: Mon Sep 14 at 17:00 CET.",
+      "summary": "\"Legacy of Wisdom\" by Parisa (56.9M projected TDH, 87 voters) | \"Chromie Squiggle Museum Acquisition\" by RegularDad (46.3M projected TDH, 41 voters) | \"The First Believer\" by Ayla (31.8M projected TDH, 67 voters) Next selection: Mon Sep 14 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "Parisa",
           "value": "56.9M",
-          "sub": "proj. (86 votes)"
+          "sub": "proj. (87 votes)"
         },
         {
           "label": "RegularDad",
@@ -54,6 +54,24 @@
           "label": "Ayla",
           "value": "31.8M",
           "sub": "proj. (67 votes)"
+        }
+      ]
+    },
+    {
+      "category": "ANNOUNCEMENT",
+      "headline": "New Announcement by punk6529",
+      "summary": "punk6529: **Minting Modals**\n\nThis is minor, not really worth an \"Announcement\" but ok I am warming up here.  Anyway, I was minting yesterday and decided that I did not like the minting m...",
+      "source": "Announcements",
+      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
+        "label": "punk6529"
+      },
+      "dataBoxes": [
+        {
+          "label": "punk6529",
+          "value": "Lv100",
+          "sub": "80.4M TDH"
         }
       ]
     },
@@ -84,23 +102,28 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "39 Sales Today - 1.27 ETH Volume",
-      "summary": "39 sales in 24h for 1.27 ETH. Highest: \"6529Seizing\" at 0.107 ETH.",
+      "headline": "40 Sales Today - 1.41 ETH Volume",
+      "summary": "40 sales in 24h for 1.41 ETH. Highest: \"I Still Do\" at 0.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-        "label": "6529Seizing - 0.107 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/508.WEBP",
+        "label": "I Still Do - 0.160 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/508.WEBP",
+          "label": "I Still Do - 0.160 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
           "label": "6529Seizing - 0.107 ETH",
@@ -110,28 +133,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
           "label": "< no, really [ this ] is going to be our year > - 0.104 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-          "label": "UncleSeize - 0.090 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "39",
+          "value": "40",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.27",
+          "value": "1.41",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.107",
-          "sub": "6529Seizing"
+          "value": "0.160",
+          "sub": "I Still Do"
         },
         {
           "label": "Floor",
@@ -144,27 +162,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.27 ETH",
-      "raw": 1.2715,
-      "delta": 0.3439000000000001,
-      "delta_fmt": "+37.1%"
+      "value": "1.41 ETH",
+      "raw": 1.4115,
+      "delta": 0.4839,
+      "delta_fmt": "+52.2%"
     },
     {
       "label": "7d Vol",
-      "value": "5.12 ETH",
-      "raw": 5.1227
+      "value": "5.06 ETH",
+      "raw": 5.0593
     },
     {
       "label": "30d Vol",
-      "value": "45.60 ETH",
-      "raw": 45.5967
+      "value": "45.80 ETH",
+      "raw": 45.7967
     },
     {
       "label": "Full Set Bid",
-      "value": "32.7 ETH",
-      "raw": 32.67,
-      "delta": -0.04999999999999716,
-      "delta_fmt": "-0.05 ETH"
+      "value": "32.5 ETH",
+      "raw": 32.53,
+      "delta": -0.14000000000000057,
+      "delta_fmt": "-0.14 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +192,9 @@
     {
       "label": "#1 Parisa",
       "value": "56.9M TDH",
-      "raw": 56881005,
-      "delta": 2112272,
-      "delta_fmt": "+2.1M TDH"
+      "raw": 56887147,
+      "delta": 6142,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Arthr",
@@ -565,7 +583,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #547: 217 MINTS (EXCL. MUSEUM) | 140 HOLDERS | THE GREAT MEME EXPO | SGT. PEPE\u2019S WORLD \u2014 EPISODE 1",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #547: 218 MINTS (EXCL. MUSEUM) | 141 HOLDERS | THE GREAT MEME EXPO | SGT. PEPE\u2019S WORLD \u2014 EPISODE 1"
   ]
 }
