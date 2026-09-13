@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:17:20.092599+00:00",
+  "generated_at": "2026-09-13T16:32:48.802943+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Parisa Leads with 58.4M Projected TDH",
-      "summary": "\"Legacy of Wisdom\" by Parisa (58.4M projected TDH, 89 voters) | \"Chromie Squiggle Museum Acquisition\" by RegularDad (49.3M projected TDH, 49 voters) | \"The First Believer\" by Ayla (30.9M projected TDH, 68 voters) Next selection: Mon Sep 14 at 17:00 CET.",
+      "headline": "Parisa Leads with 59.3M Projected TDH",
+      "summary": "\"Legacy of Wisdom\" by Parisa (59.3M projected TDH, 90 voters) | \"Chromie Squiggle Museum Acquisition\" by RegularDad (49.3M projected TDH, 50 voters) | \"The First Believer\" by Ayla (30.9M projected TDH, 68 voters) Next selection: Mon Sep 14 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "Parisa",
-          "value": "58.4M",
-          "sub": "proj. (89 votes)"
+          "value": "59.3M",
+          "sub": "proj. (90 votes)"
         },
         {
           "label": "RegularDad",
           "value": "49.3M",
-          "sub": "proj. (49 votes)"
+          "sub": "proj. (50 votes)"
         },
         {
           "label": "Ayla",
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 0.90 ETH Volume",
-      "summary": "15 sales in 24h for 0.90 ETH. Highest: \"SeizeJPGs\" at 0.200 ETH.",
+      "headline": "17 Sales Today - 1.09 ETH Volume",
+      "summary": "17 sales in 24h for 1.09 ETH. Highest: \"SeizeJPGs\" at 0.200 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,25 +112,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
-          "label": "rekt6529 - 0.139 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/547.WEBP",
+          "label": "The Great Meme Expo | Sgt. Pepe\u2019s World \u2014 Episode 1 - 0.150 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.130 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
+          "label": "rekt6529 - 0.139 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "15",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.90",
+          "value": "1.09",
           "sub": "ETH"
         },
         {
@@ -149,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.90 ETH",
-      "raw": 0.9029,
-      "delta": -0.5085999999999999,
-      "delta_fmt": "-36.0%"
+      "value": "1.09 ETH",
+      "raw": 1.0868,
+      "delta": 0.013800000000000034,
+      "delta_fmt": "+1.3%"
     },
     {
       "label": "7d Vol",
-      "value": "5.27 ETH",
-      "raw": 5.2667
+      "value": "5.45 ETH",
+      "raw": 5.4506
     },
     {
       "label": "30d Vol",
-      "value": "36.92 ETH",
-      "raw": 36.9243
+      "value": "37.11 ETH",
+      "raw": 37.1082
     },
     {
       "label": "Full Set Bid",
-      "value": "32.4 ETH",
-      "raw": 32.41,
-      "delta": -0.4000000000000057,
-      "delta_fmt": "-0.40 ETH"
+      "value": "32.2 ETH",
+      "raw": 32.24,
+      "delta": -0.1699999999999946,
+      "delta_fmt": "-0.17 ETH"
     },
     {
       "label": "Network TDH",
@@ -178,10 +178,10 @@
     },
     {
       "label": "#1 Parisa",
-      "value": "58.4M TDH",
-      "raw": 58401027,
-      "delta": 5996,
-      "delta_fmt": "+0.0M TDH"
+      "value": "59.3M TDH",
+      "raw": 59290696,
+      "delta": 889669,
+      "delta_fmt": "+0.9M TDH"
     },
     {
       "label": "#1 Arthr",
@@ -570,7 +570,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #547: 223 MINTS (EXCL. MUSEUM) | 144 HOLDERS | THE GREAT MEME EXPO | SGT. PEPE\u2019S WORLD \u2014 EPISODE 1",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #547: 223 MINTS (EXCL. MUSEUM) | 145 HOLDERS | THE GREAT MEME EXPO | SGT. PEPE\u2019S WORLD \u2014 EPISODE 1"
   ]
 }
