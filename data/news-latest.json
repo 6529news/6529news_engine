@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:48:16.621816+00:00",
+  "generated_at": "2026-09-16T19:29:07.042198+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "punk6529 Leads with 60.7M Projected TDH",
-      "summary": "\"Permanent Pepe\" by punk6529 (60.7M projected TDH, 85 voters) | \"The First Believer\" by Ayla (31.1M projected TDH, 79 voters) | \"Refuge\" by intrepid (21.7M projected TDH, 70 voters) Next selection: Fri Sep 18 at 17:00 CET.",
+      "headline": "punk6529 Leads with 61.2M Projected TDH",
+      "summary": "\"Permanent Pepe\" by punk6529 (61.2M projected TDH, 86 voters) | \"The First Believer\" by Ayla (31.1M projected TDH, 79 voters) | \"Refuge\" by intrepid (21.7M projected TDH, 70 voters) Next selection: Fri Sep 18 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "punk6529",
-          "value": "60.7M",
-          "sub": "proj. (85 votes)"
+          "value": "61.2M",
+          "sub": "proj. (86 votes)"
         },
         {
           "label": "Ayla",
@@ -60,18 +60,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: SummerMaxi (10.3M) | smpsmyth (9.7M) | Abrahanny (7.8M).",
+      "summary": "3 submissions this week. Ranking: SummerMaxi (10.6M) | smpsmyth (9.7M) | Abrahanny (7.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_848982e6-7f26-446c-8125-cb469c65c722/d249b43c-0453-4051-a6a0-caa6b8010911/NSx6529.jpg",
-        "label": "SummerMaxi (10.3M)",
+        "label": "SummerMaxi (10.6M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_848982e6-7f26-446c-8125-cb469c65c722/d249b43c-0453-4051-a6a0-caa6b8010911/NSx6529.jpg",
-          "label": "SummerMaxi (10.3M)",
+          "label": "SummerMaxi (10.6M)",
           "type": "image"
         },
         {
@@ -84,13 +84,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#7 Gsen \u2014 146K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (146K)",
         "type": "image"
       }
     },
@@ -167,9 +167,9 @@
     {
       "label": "Full Set Bid",
       "value": "31.7 ETH",
-      "raw": 31.7,
-      "delta": 0.259999999999998,
-      "delta_fmt": "+0.26 ETH"
+      "raw": 31.65,
+      "delta": -0.05000000000000071,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -178,10 +178,10 @@
     },
     {
       "label": "#1 punk6529",
-      "value": "60.7M TDH",
-      "raw": 60676595,
-      "delta": 6992760,
-      "delta_fmt": "+7.0M TDH"
+      "value": "61.2M TDH",
+      "raw": 61241885,
+      "delta": 565290,
+      "delta_fmt": "+0.6M TDH"
     },
     {
       "label": "#1 RegularDad",
@@ -578,6 +578,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #549: 114 MINTS (EXCL. MUSEUM) | 75 HOLDERS | LEGACY OF WISDOM"
+    "CARD #549: 117 MINTS (EXCL. MUSEUM) | 77 HOLDERS | LEGACY OF WISDOM"
   ]
 }
