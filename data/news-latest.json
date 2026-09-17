@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T00:07:15.817864+00:00",
+  "generated_at": "2026-09-17T04:52:20.184853+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "punk6529 Leads with 61.3M Projected TDH",
-      "summary": "\"Permanent Pepe\" by punk6529 (61.3M projected TDH, 88 voters) | \"The First Believer\" by Ayla (30.6M projected TDH, 79 voters) | \"Refuge\" by intrepid (21.7M projected TDH, 71 voters) Next selection: Fri Sep 18 at 17:00 CET.",
+      "headline": "punk6529 Leads with 61.4M Projected TDH",
+      "summary": "\"Permanent Pepe\" by punk6529 (61.4M projected TDH, 90 voters) | \"The First Believer\" by Ayla (30.6M projected TDH, 79 voters) | \"Refuge\" by intrepid (21.7M projected TDH, 72 voters) Next selection: Fri Sep 18 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "punk6529",
-          "value": "61.3M",
-          "sub": "proj. (88 votes)"
+          "value": "61.4M",
+          "sub": "proj. (90 votes)"
         },
         {
           "label": "Ayla",
@@ -53,25 +53,25 @@
         {
           "label": "intrepid",
           "value": "21.7M",
-          "sub": "proj. (71 votes)"
+          "sub": "proj. (72 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: SummerMaxi (19.2M) | smpsmyth (9.9M) | Abrahanny (7.8M).",
+      "summary": "3 submissions this week. Ranking: SummerMaxi (19.6M) | smpsmyth (10.0M) | Abrahanny (7.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_848982e6-7f26-446c-8125-cb469c65c722/d249b43c-0453-4051-a6a0-caa6b8010911/NSx6529.jpg",
-        "label": "SummerMaxi (19.2M)",
+        "label": "SummerMaxi (19.6M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_848982e6-7f26-446c-8125-cb469c65c722/d249b43c-0453-4051-a6a0-caa6b8010911/NSx6529.jpg",
-          "label": "SummerMaxi (19.2M)",
+          "label": "SummerMaxi (19.6M)",
           "type": "image"
         },
         {
@@ -84,59 +84,59 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 0.48 ETH Volume",
-      "summary": "13 sales in 24h for 0.48 ETH. Highest: \"UncleSeize\" at 0.090 ETH.",
+      "headline": "20 Sales Today - 0.97 ETH Volume",
+      "summary": "20 sales in 24h for 0.97 ETH. Highest: \"WA-NGMI\" at 0.153 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
-        "label": "UncleSeize - 0.090 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/548.WEBP",
+        "label": "WA-NGMI - 0.153 ETH",
         "type": "image"
       },
       "images": [
         {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/548.WEBP",
+          "label": "WA-NGMI - 0.153 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/547.WEBP",
+          "label": "The Great Meme Expo | Sgt. Pepe\u2019s World \u2014 Episode 1 - 0.123 ETH",
+          "type": "image"
+        },
+        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
           "label": "UncleSeize - 0.090 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
-          "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.060 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/475.WEBP",
-          "label": "Cogito, ergo sum - 0.054 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.48",
+          "value": "0.97",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.090",
-          "sub": "UncleSeize"
+          "value": "0.153",
+          "sub": "WA-NGMI"
         },
         {
           "label": "Floor",
@@ -149,38 +149,40 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.48 ETH",
-      "raw": 0.4795,
-      "delta": 0.06359999999999999,
-      "delta_fmt": "+15.3%"
+      "value": "0.97 ETH",
+      "raw": 0.9683,
+      "delta": 0.5224,
+      "delta_fmt": "+117.2%"
     },
     {
       "label": "7d Vol",
-      "value": "4.96 ETH",
-      "raw": 4.9635
+      "value": "5.42 ETH",
+      "raw": 5.4183
     },
     {
       "label": "30d Vol",
-      "value": "35.49 ETH",
-      "raw": 35.4931
+      "value": "35.44 ETH",
+      "raw": 35.438
     },
     {
       "label": "Full Set Bid",
-      "value": "31.5 ETH",
-      "raw": 31.49,
-      "delta": 0.06999999999999673,
-      "delta_fmt": "+0.07 ETH"
+      "value": "30.9 ETH",
+      "raw": 30.9,
+      "delta": -0.5899999999999999,
+      "delta_fmt": "-0.59 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1954.7M",
-      "raw": 1954699830
+      "value": "1957.6M",
+      "raw": 1957600048,
+      "delta": 2900218,
+      "delta_fmt": "+2.9M TDH"
     },
     {
       "label": "#1 punk6529",
-      "value": "61.3M TDH",
-      "raw": 61342143,
-      "delta": 120,
+      "value": "61.4M TDH",
+      "raw": 61368233,
+      "delta": 26090,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -577,7 +579,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #549: 118 MINTS (EXCL. MUSEUM) | 78 HOLDERS | LEGACY OF WISDOM",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #549: 122 MINTS (EXCL. MUSEUM) | 82 HOLDERS | LEGACY OF WISDOM"
   ]
 }
