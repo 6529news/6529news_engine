@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T19:36:01.909453+00:00",
+  "generated_at": "2026-09-18T21:52:29.299044+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Ayla Leads with 31.3M Projected TDH",
-      "summary": "\"The First Believer\" by Ayla (31.3M projected TDH, 83 voters) | \"Network State Conference 2026\" by SummerMaxi (30.7M projected TDH, 23 voters) | \"Refuge\" by intrepid (21.5M projected TDH, 75 voters) Next selection: Mon Sep 21 at 17:00 CET.",
+      "headline": "Ayla Leads with 38.2M Projected TDH",
+      "summary": "\"The First Believer\" by Ayla (38.2M projected TDH, 84 voters) | \"Network State Conference 2026\" by SummerMaxi (35.8M projected TDH, 26 voters) | \"Refuge\" by intrepid (21.5M projected TDH, 75 voters) Next selection: Mon Sep 21 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "Ayla",
-          "value": "31.3M",
-          "sub": "proj. (83 votes)"
+          "value": "38.2M",
+          "sub": "proj. (84 votes)"
         },
         {
           "label": "SummerMaxi",
-          "value": "30.7M",
-          "sub": "proj. (23 votes)"
+          "value": "35.8M",
+          "sub": "proj. (26 votes)"
         },
         {
           "label": "intrepid",
@@ -60,18 +60,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: smpsmyth (15.0M) | Cuttle (1.4M) | Nicolas_Bets (1.2M).",
+      "summary": "3 submissions this week. Ranking: smpsmyth (17.1M) | Cuttle (1.5M) | Nicolas_Bets (1.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/01295f2a-38cb-47fa-b676-c066df36654b/contribute-now-final.mp4",
-        "label": "Cuttle (1.4M)",
+        "label": "Cuttle (1.5M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/01295f2a-38cb-47fa-b676-c066df36654b/contribute-now-final.mp4",
-          "label": "Cuttle (1.4M)",
+          "label": "Cuttle (1.5M)",
           "type": "video"
         },
         {
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#4 Kostas_Photo \u2014 765K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
-        "label": "Kostas_Photo (765K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "18 Sales Today - 4.66 ETH Volume",
-      "summary": "18 sales in 24h for 4.66 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
+      "headline": "26 Sales Today - 4.88 ETH Volume",
+      "summary": "26 sales in 24h for 4.88 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "18",
+          "value": "26",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "4.66",
+          "value": "4.88",
           "sub": "ETH"
         },
         {
@@ -149,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "4.66 ETH",
-      "raw": 4.6588,
-      "delta": 3.7033000000000005,
-      "delta_fmt": "+387.6%"
+      "value": "4.88 ETH",
+      "raw": 4.883,
+      "delta": 3.9182,
+      "delta_fmt": "+406.1%"
     },
     {
       "label": "7d Vol",
-      "value": "8.35 ETH",
-      "raw": 8.3453
+      "value": "8.61 ETH",
+      "raw": 8.6115
     },
     {
       "label": "30d Vol",
-      "value": "38.83 ETH",
-      "raw": 38.8254
+      "value": "39.09 ETH",
+      "raw": 39.0916
     },
     {
       "label": "Full Set Bid",
       "value": "23.5 ETH",
-      "raw": 23.52,
-      "delta": 0.3099999999999987,
-      "delta_fmt": "+0.31 ETH"
+      "raw": 23.47,
+      "delta": -0.05000000000000071,
+      "delta_fmt": "-0.05 ETH"
     },
     {
       "label": "Network TDH",
@@ -178,10 +178,10 @@
     },
     {
       "label": "#1 Ayla",
-      "value": "31.3M TDH",
-      "raw": 31291905,
-      "delta": 979,
-      "delta_fmt": "+0.0M TDH"
+      "value": "38.2M TDH",
+      "raw": 38206922,
+      "delta": 6915017,
+      "delta_fmt": "+6.9M TDH"
     },
     {
       "label": "#1 punk6529",
@@ -586,7 +586,7 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.010 ETH",
     "EXIT STRATEGY SALE: 2.000 ETH",
-    "CARD #550: 121 MINTS (EXCL. MUSEUM) | 83 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #550: 121 MINTS (EXCL. MUSEUM) | 83 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION"
   ]
 }
