@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-19T12:31:18.793260+00:00",
+  "generated_at": "2026-09-19T16:04:10.030176+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Chromie Squiggle Museum Acquisition\" by RegularDad \u2014 61.0M TDH from 81 voters. Top supporter: blocknoob (9.5M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/550.JPG",
-        "label": "Chromie Squiggle Museum Acquisition - RegularDad",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING MONDAY",
       "headline": "Minting Monday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Ayla Leads with 48.0M Projected TDH",
-      "summary": "\"The First Believer\" by Ayla (48.0M projected TDH, 87 voters) | \"Network State Conference 2026\" by SummerMaxi (41.8M projected TDH, 30 voters) | \"Refuge\" by intrepid (21.5M projected TDH, 75 voters) Next selection: Mon Sep 21 at 17:00 CET.",
+      "summary": "\"The First Believer\" by Ayla (48.0M projected TDH, 87 voters) | \"Network State Conference 2026\" by SummerMaxi (42.9M projected TDH, 31 voters) | \"Refuge\" by intrepid (21.5M projected TDH, 76 voters) Next selection: Mon Sep 21 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,20 +34,20 @@
         },
         {
           "label": "SummerMaxi",
-          "value": "41.8M",
-          "sub": "proj. (30 votes)"
+          "value": "42.9M",
+          "sub": "proj. (31 votes)"
         },
         {
           "label": "intrepid",
           "value": "21.5M",
-          "sub": "proj. (75 votes)"
+          "sub": "proj. (76 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: smpsmyth (17.1M) | Cuttle (1.5M) | Nicolas_Bets (1.2M).",
+      "summary": "3 submissions this week. Ranking: smpsmyth (17.6M) | Cuttle (1.5M) | Nicolas_Bets (1.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -96,21 +83,16 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "38 Sales Today - 5.45 ETH Volume",
-      "summary": "38 sales in 24h for 5.45 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
+      "headline": "37 Sales Today - 1.52 ETH Volume",
+      "summary": "37 sales in 24h for 1.52 ETH. Highest: \"SeizeJPGs\" at 0.190 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/47.GIF",
-        "label": "EXIT STRATEGY - 2.010 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+        "label": "SeizeJPGs - 0.190 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/47.GIF",
-          "label": "EXIT STRATEGY - 2.010 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
           "label": "SeizeJPGs - 0.190 ETH",
@@ -120,27 +102,32 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/338.WEBP",
           "label": "Shaka and Naka - 0.101 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
+          "label": "6529Seizing - 0.100 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "38",
+          "value": "37",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "5.45",
+          "value": "1.52",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "2.010",
-          "sub": "EXIT STRATEGY"
+          "value": "0.190",
+          "sub": "SeizeJPGs"
         },
         {
           "label": "Floor",
-          "value": "0.01739",
+          "value": "0.017385",
           "sub": "ETH"
         }
       ]
@@ -149,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "5.45 ETH",
-      "raw": 5.4458,
-      "delta": 4.6944,
-      "delta_fmt": "+624.8%"
+      "value": "1.52 ETH",
+      "raw": 1.5154,
+      "delta": -3.1986000000000003,
+      "delta_fmt": "-67.9%"
     },
     {
       "label": "7d Vol",
-      "value": "9.44 ETH",
-      "raw": 9.4404
+      "value": "9.53 ETH",
+      "raw": 9.5345
     },
     {
       "label": "30d Vol",
-      "value": "38.52 ETH",
-      "raw": 38.5202
+      "value": "38.61 ETH",
+      "raw": 38.6143
     },
     {
       "label": "Full Set Bid",
-      "value": "24.7 ETH",
-      "raw": 24.7,
-      "delta": -0.46000000000000085,
-      "delta_fmt": "-0.46 ETH"
+      "value": "24.2 ETH",
+      "raw": 24.15,
+      "delta": -0.5500000000000007,
+      "delta_fmt": "-0.55 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,9 +166,7 @@
     {
       "label": "#1 Ayla",
       "value": "48.0M TDH",
-      "raw": 48036730,
-      "delta": 12,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 48036730
     },
     {
       "label": "#1 punk6529",
@@ -584,9 +569,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "EXIT STRATEGY SALE: 2.010 ETH",
-    "EXIT STRATEGY SALE: 2.000 ETH",
-    "CARD #550: 123 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #550: 123 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION"
   ]
 }
