@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:36:24.858101+00:00",
+  "generated_at": "2026-09-19T21:02:02.249439+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Ayla Leads with 48.0M Projected TDH",
-      "summary": "\"The First Believer\" by Ayla (48.0M projected TDH, 87 voters) | \"Network State Conference 2026\" by SummerMaxi (42.9M projected TDH, 31 voters) | \"Refuge\" by intrepid (21.5M projected TDH, 76 voters) Next selection: Mon Sep 21 at 17:00 CET.",
+      "summary": "\"The First Believer\" by Ayla (48.0M projected TDH, 88 voters) | \"Network State Conference 2026\" by SummerMaxi (42.9M projected TDH, 31 voters) | \"Refuge\" by intrepid (21.5M projected TDH, 76 voters) Next selection: Mon Sep 21 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Ayla",
           "value": "48.0M",
-          "sub": "proj. (87 votes)"
+          "sub": "proj. (88 votes)"
         },
         {
           "label": "SummerMaxi",
@@ -83,8 +83,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "39 Sales Today - 1.58 ETH Volume",
-      "summary": "39 sales in 24h for 1.58 ETH. Highest: \"SeizeJPGs\" at 0.190 ETH.",
+      "headline": "32 Sales Today - 1.36 ETH Volume",
+      "summary": "32 sales in 24h for 1.36 ETH. Highest: \"SeizeJPGs\" at 0.190 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "39",
+          "value": "32",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.58",
+          "value": "1.36",
           "sub": "ETH"
         },
         {
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.58 ETH",
-      "raw": 1.5804,
-      "delta": -3.0835,
-      "delta_fmt": "-66.1%"
+      "value": "1.36 ETH",
+      "raw": 1.3612,
+      "delta": -3.5218,
+      "delta_fmt": "-72.1%"
     },
     {
       "label": "7d Vol",
-      "value": "9.22 ETH",
-      "raw": 9.2236
+      "value": "9.25 ETH",
+      "raw": 9.2506
     },
     {
       "label": "30d Vol",
-      "value": "38.68 ETH",
-      "raw": 38.6793
+      "value": "38.71 ETH",
+      "raw": 38.7063
     },
     {
       "label": "Full Set Bid",
-      "value": "26.7 ETH",
-      "raw": 26.75,
-      "delta": 2.6000000000000014,
-      "delta_fmt": "+2.60 ETH"
+      "value": "26.8 ETH",
+      "raw": 26.81,
+      "delta": 0.05999999999999872,
+      "delta_fmt": "+0.06 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,7 +166,9 @@
     {
       "label": "#1 Ayla",
       "value": "48.0M TDH",
-      "raw": 48036730
+      "raw": 48036970,
+      "delta": 240,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 punk6529",
@@ -569,7 +571,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #550: 123 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #550: 123 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION"
   ]
 }
