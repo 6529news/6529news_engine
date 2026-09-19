@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T03:19:12.076061+00:00",
+  "generated_at": "2026-09-19T08:13:09.582008+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "31 Sales Today - 5.49 ETH Volume",
-      "summary": "31 sales in 24h for 5.49 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
+      "headline": "41 Sales Today - 5.64 ETH Volume",
+      "summary": "41 sales in 24h for 5.64 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,20 +117,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.120 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/338.WEBP",
+          "label": "Shaka and Naka - 0.101 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "31",
+          "value": "41",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "5.49",
+          "value": "5.64",
           "sub": "ETH"
         },
         {
@@ -149,41 +149,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "5.49 ETH",
-      "raw": 5.4898,
-      "delta": 4.8214,
-      "delta_fmt": "+721.3%"
+      "value": "5.64 ETH",
+      "raw": 5.643,
+      "delta": 4.924799999999999,
+      "delta_fmt": "+685.7%"
     },
     {
       "label": "7d Vol",
-      "value": "9.26 ETH",
-      "raw": 9.2572
+      "value": "9.38 ETH",
+      "raw": 9.3804
     },
     {
       "label": "30d Vol",
-      "value": "38.14 ETH",
-      "raw": 38.137
+      "value": "38.46 ETH",
+      "raw": 38.4602
     },
     {
       "label": "Full Set Bid",
-      "value": "22.7 ETH",
-      "raw": 22.67,
-      "delta": 0.18000000000000327,
-      "delta_fmt": "+0.18 ETH"
+      "value": "25.2 ETH",
+      "raw": 25.16,
+      "delta": 2.4899999999999984,
+      "delta_fmt": "+2.49 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1963.2M",
-      "raw": 1963220767,
-      "delta": 2727880,
-      "delta_fmt": "+2.7M TDH"
+      "raw": 1963220767
     },
     {
       "label": "#1 Ayla",
       "value": "48.0M TDH",
-      "raw": 47990472,
-      "delta": 9783550,
-      "delta_fmt": "+9.8M TDH"
+      "raw": 48036718,
+      "delta": 46246,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 punk6529",
@@ -588,7 +586,7 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.010 ETH",
     "EXIT STRATEGY SALE: 2.000 ETH",
-    "CARD #550: 122 MINTS (EXCL. MUSEUM) | 84 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #550: 123 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION"
   ]
 }
