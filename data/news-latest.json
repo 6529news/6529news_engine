@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T08:13:09.582008+00:00",
+  "generated_at": "2026-09-19T12:31:18.793260+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Ayla Leads with 48.0M Projected TDH",
-      "summary": "\"The First Believer\" by Ayla (48.0M projected TDH, 86 voters) | \"Network State Conference 2026\" by SummerMaxi (41.7M projected TDH, 27 voters) | \"Refuge\" by intrepid (21.5M projected TDH, 75 voters) Next selection: Mon Sep 21 at 17:00 CET.",
+      "summary": "\"The First Believer\" by Ayla (48.0M projected TDH, 87 voters) | \"Network State Conference 2026\" by SummerMaxi (41.8M projected TDH, 30 voters) | \"Refuge\" by intrepid (21.5M projected TDH, 75 voters) Next selection: Mon Sep 21 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,12 +43,12 @@
         {
           "label": "Ayla",
           "value": "48.0M",
-          "sub": "proj. (86 votes)"
+          "sub": "proj. (87 votes)"
         },
         {
           "label": "SummerMaxi",
-          "value": "41.7M",
-          "sub": "proj. (27 votes)"
+          "value": "41.8M",
+          "sub": "proj. (30 votes)"
         },
         {
           "label": "intrepid",
@@ -96,8 +96,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "41 Sales Today - 5.64 ETH Volume",
-      "summary": "41 sales in 24h for 5.64 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
+      "headline": "38 Sales Today - 5.45 ETH Volume",
+      "summary": "38 sales in 24h for 5.45 ETH. Highest: \"EXIT STRATEGY\" at 2.010 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "41",
+          "value": "38",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "5.64",
+          "value": "5.45",
           "sub": "ETH"
         },
         {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.017815",
+          "value": "0.01739",
           "sub": "ETH"
         }
       ]
@@ -149,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "5.64 ETH",
-      "raw": 5.643,
-      "delta": 4.924799999999999,
-      "delta_fmt": "+685.7%"
+      "value": "5.45 ETH",
+      "raw": 5.4458,
+      "delta": 4.6944,
+      "delta_fmt": "+624.8%"
     },
     {
       "label": "7d Vol",
-      "value": "9.38 ETH",
-      "raw": 9.3804
+      "value": "9.44 ETH",
+      "raw": 9.4404
     },
     {
       "label": "30d Vol",
-      "value": "38.46 ETH",
-      "raw": 38.4602
+      "value": "38.52 ETH",
+      "raw": 38.5202
     },
     {
       "label": "Full Set Bid",
-      "value": "25.2 ETH",
-      "raw": 25.16,
-      "delta": 2.4899999999999984,
-      "delta_fmt": "+2.49 ETH"
+      "value": "24.7 ETH",
+      "raw": 24.7,
+      "delta": -0.46000000000000085,
+      "delta_fmt": "-0.46 ETH"
     },
     {
       "label": "Network TDH",
@@ -179,8 +179,8 @@
     {
       "label": "#1 Ayla",
       "value": "48.0M TDH",
-      "raw": 48036718,
-      "delta": 46246,
+      "raw": 48036730,
+      "delta": 12,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -586,7 +586,7 @@
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.010 ETH",
     "EXIT STRATEGY SALE: 2.000 ETH",
-    "CARD #550: 123 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #550: 123 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION"
   ]
 }
