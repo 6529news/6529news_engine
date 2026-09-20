@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:41:42.692512+00:00",
+  "generated_at": "2026-09-20T22:42:19.073441+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: smpsmyth (17.6M) | Cuttle (2.0M) | Nicolas_Bets (1.2M).",
+      "summary": "3 submissions this week. Ranking: smpsmyth (17.6M) | Cuttle (2.0M) | Nicolas_Bets (1.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -63,7 +63,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c20b398f-4cf2-4114-8a40-2972bfa172c4/22223227-5008-432d-b74d-cabf225de36b/Borntofree.jpg",
-          "label": "Nicolas_Bets (1.2M)",
+          "label": "Nicolas_Bets (1.3M)",
           "type": "image"
         }
       ],
@@ -76,54 +76,54 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "23 Sales Today - 1.79 ETH Volume",
-      "summary": "23 sales in 24h for 1.79 ETH. Highest: \"Summer Days\" at 0.305 ETH.",
+      "headline": "17 Sales Today - 0.87 ETH Volume",
+      "summary": "17 sales in 24h for 0.87 ETH. Highest: \"MEMEWASH\" at 0.147 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/303.GIF",
-        "label": "Summer Days - 0.305 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/442.GIF",
+        "label": "MEMEWASH - 0.147 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/303.GIF",
-          "label": "Summer Days - 0.305 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.186 ETH",
-          "type": "image"
-        },
-        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/442.GIF",
           "label": "MEMEWASH - 0.147 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
+          "label": "rekt6529 - 0.091 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/35.WEBP",
+          "label": "Meet Summer Glasses - 0.088 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "23",
+          "value": "17",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.79",
+          "value": "0.87",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.305",
-          "sub": "Summer Days"
+          "value": "0.147",
+          "sub": "MEMEWASH"
         },
         {
           "label": "Floor",
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.79 ETH",
-      "raw": 1.7913,
-      "delta": 0.4300999999999999,
-      "delta_fmt": "+31.6%"
+      "value": "0.87 ETH",
+      "raw": 0.8691,
+      "delta": -1.2675999999999998,
+      "delta_fmt": "-59.3%"
     },
     {
       "label": "7d Vol",
-      "value": "10.30 ETH",
-      "raw": 10.3005
+      "value": "10.33 ETH",
+      "raw": 10.3305
     },
     {
       "label": "30d Vol",
-      "value": "38.53 ETH",
-      "raw": 38.5251
+      "value": "38.56 ETH",
+      "raw": 38.5551
     },
     {
       "label": "Full Set Bid",
-      "value": "31.5 ETH",
-      "raw": 31.5,
-      "delta": 0.25,
-      "delta_fmt": "+0.25 ETH"
+      "value": "31.4 ETH",
+      "raw": 31.38,
+      "delta": -0.120000000000001,
+      "delta_fmt": "-0.12 ETH"
     },
     {
       "label": "Network TDH",
@@ -166,9 +166,7 @@
     {
       "label": "#1 Ayla",
       "value": "49.1M TDH",
-      "raw": 49060955,
-      "delta": -128,
-      "delta_fmt": "-0.0M TDH"
+      "raw": 49060955
     },
     {
       "label": "#1 punk6529",
@@ -571,7 +569,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #550: 123 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #550: 123 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION"
   ]
 }
