@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:42:09.242390+00:00",
+  "generated_at": "2026-09-20T14:52:28.656093+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Ayla Leads with 49.0M Projected TDH",
-      "summary": "\"The First Believer\" by Ayla (49.0M projected TDH, 90 voters) | \"Network State Conference 2026\" by SummerMaxi (44.2M projected TDH, 33 voters) | \"Refuge\" by intrepid (23.7M projected TDH, 78 voters) Next selection: Mon Sep 21 at 17:00 CET.",
+      "headline": "Ayla Leads with 49.1M Projected TDH",
+      "summary": "\"The First Believer\" by Ayla (49.1M projected TDH, 90 voters) | \"Network State Conference 2026\" by SummerMaxi (45.3M projected TDH, 33 voters) | \"Refuge\" by intrepid (23.7M projected TDH, 78 voters) Next selection: Mon Sep 21 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,12 +29,12 @@
       "dataBoxes": [
         {
           "label": "Ayla",
-          "value": "49.0M",
+          "value": "49.1M",
           "sub": "proj. (90 votes)"
         },
         {
           "label": "SummerMaxi",
-          "value": "44.2M",
+          "value": "45.3M",
           "sub": "proj. (33 votes)"
         },
         {
@@ -47,18 +47,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: smpsmyth (17.6M) | Cuttle (1.5M) | Nicolas_Bets (1.2M).",
+      "summary": "3 submissions this week. Ranking: smpsmyth (17.6M) | Cuttle (2.0M) | Nicolas_Bets (1.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/01295f2a-38cb-47fa-b676-c066df36654b/contribute-now-final.mp4",
-        "label": "Cuttle (1.5M)",
+        "label": "Cuttle (2.0M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_688421f0-dda9-4ba2-a3a5-b5def176560b/01295f2a-38cb-47fa-b676-c066df36654b/contribute-now-final.mp4",
-          "label": "Cuttle (1.5M)",
+          "label": "Cuttle (2.0M)",
           "type": "video"
         },
         {
@@ -83,8 +83,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "20 Sales Today - 1.64 ETH Volume",
-      "summary": "20 sales in 24h for 1.64 ETH. Highest: \"Summer Days\" at 0.305 ETH.",
+      "headline": "21 Sales Today - 1.65 ETH Volume",
+      "summary": "21 sales in 24h for 1.65 ETH. Highest: \"Summer Days\" at 0.305 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,12 +112,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "20",
+          "value": "21",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.64",
+          "value": "1.65",
           "sub": "ETH"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01738",
+          "value": "0.017379999",
           "sub": "ETH"
         }
       ]
@@ -136,27 +136,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.64 ETH",
-      "raw": 1.6376,
-      "delta": -3.8082000000000003,
-      "delta_fmt": "-69.9%"
+      "value": "1.65 ETH",
+      "raw": 1.6516,
+      "delta": 0.13619999999999988,
+      "delta_fmt": "+9.0%"
     },
     {
       "label": "7d Vol",
-      "value": "10.18 ETH",
-      "raw": 10.1751
+      "value": "10.08 ETH",
+      "raw": 10.0814
     },
     {
       "label": "30d Vol",
-      "value": "38.19 ETH",
-      "raw": 38.1853
+      "value": "38.29 ETH",
+      "raw": 38.2934
     },
     {
       "label": "Full Set Bid",
       "value": "31.3 ETH",
-      "raw": 31.34,
-      "delta": 0.28000000000000114,
-      "delta_fmt": "+0.28 ETH"
+      "raw": 31.31,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
@@ -165,10 +165,10 @@
     },
     {
       "label": "#1 Ayla",
-      "value": "49.0M TDH",
-      "raw": 49047971,
-      "delta": 1006815,
-      "delta_fmt": "+1.0M TDH"
+      "value": "49.1M TDH",
+      "raw": 49060765,
+      "delta": 12794,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 punk6529",
@@ -571,7 +571,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #550: 123 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #550: 123 MINTS (EXCL. MUSEUM) | 85 HOLDERS | CHROMIE SQUIGGLE MUSEUM ACQUISITION"
   ]
 }
