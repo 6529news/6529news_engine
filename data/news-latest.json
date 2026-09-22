@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T18:05:44.912541+00:00",
+  "generated_at": "2026-09-22T21:18:27.624609+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 2.81 ETH Volume",
-      "summary": "14 sales in 24h for 2.81 ETH. Highest: \"EXIT STRATEGY\" at 2.290 ETH.",
+      "headline": "12 Sales Today - 2.71 ETH Volume",
+      "summary": "12 sales in 24h for 2.71 ETH. Highest: \"EXIT STRATEGY\" at 2.290 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.81",
+          "value": "2.71",
           "sub": "ETH"
         },
         {
@@ -195,15 +195,15 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.81 ETH",
-      "raw": 2.8134,
-      "delta": 1.9106,
-      "delta_fmt": "+211.6%"
+      "value": "2.71 ETH",
+      "raw": 2.7086,
+      "delta": 1.8467000000000002,
+      "delta_fmt": "+214.3%"
     },
     {
       "label": "7d Vol",
-      "value": "13.04 ETH",
-      "raw": 13.0406
+      "value": "13.00 ETH",
+      "raw": 12.9975
     },
     {
       "label": "30d Vol",
@@ -212,10 +212,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "31.9 ETH",
-      "raw": 31.87,
-      "delta": 0.08000000000000185,
-      "delta_fmt": "+0.08 ETH"
+      "value": "31.8 ETH",
+      "raw": 31.79,
+      "delta": -0.08000000000000185,
+      "delta_fmt": "-0.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -225,9 +225,7 @@
     {
       "label": "#1 SummerMaxi",
       "value": "66.5M TDH",
-      "raw": 66546348,
-      "delta": 1609884,
-      "delta_fmt": "+1.6M TDH"
+      "raw": 66546348
     },
     {
       "label": "#1 Ayla",
@@ -638,8 +636,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.290 ETH",
-    "PEBBLES: FLOOR 0.57499999 ETH | 1 SALES | LAST SALE 14h AGO",
-    "CARD #551: 295 MINTS (EXCL. MUSEUM) | 174 HOLDERS | PERMANENT PEPE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.57499999 ETH | 1 SALES | LAST SALE 17h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #551: 295 MINTS (EXCL. MUSEUM) | 174 HOLDERS | PERMANENT PEPE"
   ]
 }
