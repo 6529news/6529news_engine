@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T04:55:48.466151+00:00",
+  "generated_at": "2026-09-22T09:39:26.698672+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "SummerMaxi Leads with 56.1M Projected TDH",
-      "summary": "\"Network State Conference 2026\" by SummerMaxi (56.1M projected TDH, 43 voters) | \"Patience is a Vinetree\" by smpsmyth (41.5M projected TDH, 36 voters) | \"Refuge\" by intrepid (26.8M projected TDH, 80 voters) Next selection: Wed Sep 23 at 17:00 CET.",
+      "headline": "SummerMaxi Leads with 56.2M Projected TDH",
+      "summary": "\"Network State Conference 2026\" by SummerMaxi (56.2M projected TDH, 46 voters) | \"Patience is a Vinetree\" by smpsmyth (43.6M projected TDH, 37 voters) | \"Refuge\" by intrepid (26.8M projected TDH, 80 voters) Next selection: Wed Sep 23 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "SummerMaxi",
-          "value": "56.1M",
-          "sub": "proj. (43 votes)"
+          "value": "56.2M",
+          "sub": "proj. (46 votes)"
         },
         {
           "label": "smpsmyth",
-          "value": "41.5M",
-          "sub": "proj. (36 votes)"
+          "value": "43.6M",
+          "sub": "proj. (37 votes)"
         },
         {
           "label": "intrepid",
@@ -97,20 +97,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "18 Sales Today - 2.97 ETH Volume",
-      "summary": "18 sales in 24h for 2.97 ETH. Highest: \"EXIT STRATEGY\" at 2.290 ETH.",
+      "headline": "12 Sales Today - 2.70 ETH Volume",
+      "summary": "12 sales in 24h for 2.70 ETH. Highest: \"EXIT STRATEGY\" at 2.290 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,25 +125,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/508.WEBP",
-          "label": "I Still Do - 0.140 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/300.GIF",
+          "label": "ONLY WINNERS SURVIVE - 0.071 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/300.GIF",
-          "label": "ONLY WINNERS SURVIVE - 0.071 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/482.GIF",
+          "label": "An Artist's Life - 0.063 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "18",
+          "value": "12",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.97",
+          "value": "2.70",
           "sub": "ETH"
         },
         {
@@ -153,15 +153,15 @@
         },
         {
           "label": "Floor",
-          "value": "0.017334",
+          "value": "0.0173289",
           "sub": "ETH"
         }
       ]
     },
     {
       "category": "PEBBLES",
-      "headline": "Pebbles: 2 Sales - 0.948 ETH",
-      "summary": "2 Pebbles sold in the last 24h for a total of 0.948 ETH. Current floor: 0.57499999 ETH.",
+      "headline": "Pebbles: 1 Sales - 0.578 ETH",
+      "summary": "1 Pebbles sold in the last 24h for a total of 0.578 ETH. Current floor: 0.57499999 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/pebbles-by-zeblocks",
       "image": {
@@ -189,12 +189,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "2",
+          "value": "1",
           "sub": ""
         },
         {
           "label": "Volume",
-          "value": "0.948",
+          "value": "0.578",
           "sub": "ETH"
         },
         {
@@ -208,41 +208,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.97 ETH",
-      "raw": 2.9746,
-      "delta": 2.1434,
-      "delta_fmt": "+257.9%"
+      "value": "2.70 ETH",
+      "raw": 2.7038,
+      "delta": 1.8515000000000001,
+      "delta_fmt": "+217.2%"
     },
     {
       "label": "7d Vol",
-      "value": "13.01 ETH",
-      "raw": 13.0099
+      "value": "12.73 ETH",
+      "raw": 12.7292
     },
     {
       "label": "30d Vol",
-      "value": "39.44 ETH",
-      "raw": 39.4448
+      "value": "39.46 ETH",
+      "raw": 39.4641
     },
     {
       "label": "Full Set Bid",
-      "value": "31.8 ETH",
-      "raw": 31.8,
-      "delta": 0.1700000000000017,
-      "delta_fmt": "+0.17 ETH"
+      "value": "31.9 ETH",
+      "raw": 31.92,
+      "delta": 0.120000000000001,
+      "delta_fmt": "+0.12 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1971.8M",
-      "raw": 1971793048,
-      "delta": 2870619,
-      "delta_fmt": "+2.9M TDH"
+      "raw": 1971793048
     },
     {
       "label": "#1 SummerMaxi",
-      "value": "56.1M TDH",
-      "raw": 56127331,
-      "delta": 2625372,
-      "delta_fmt": "+2.6M TDH"
+      "value": "56.2M TDH",
+      "raw": 56190709,
+      "delta": 63378,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 Ayla",
@@ -653,8 +651,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.290 ETH",
-    "PEBBLES: FLOOR 0.57499999 ETH | 2 SALES | LAST SALE 1h AGO",
-    "CARD #551: 244 MINTS (EXCL. MUSEUM) | 167 HOLDERS | PERMANENT PEPE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.57499999 ETH | 1 SALES | LAST SALE 6h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #551: 247 MINTS (EXCL. MUSEUM) | 169 HOLDERS | PERMANENT PEPE"
   ]
 }
