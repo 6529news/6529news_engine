@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:29:34.477052+00:00",
+  "generated_at": "2026-09-24T12:07:40.362014+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "smpsmyth Leads with 62.5M Projected TDH",
-      "summary": "\"Patience is a Vinetree\" by smpsmyth (62.5M projected TDH, 53 voters) | \"Refuge\" by intrepid (31.0M projected TDH, 85 voters) | \"Play the Long Game\" by simonemonte (22.7M projected TDH, 55 voters) Next selection: Fri Sep 25 at 17:00 CET.",
+      "summary": "\"Patience is a Vinetree\" by smpsmyth (62.5M projected TDH, 53 voters) | \"Refuge\" by intrepid (31.0M projected TDH, 85 voters) | \"Play the Long Game\" by simonemonte (22.9M projected TDH, 56 voters) Next selection: Fri Sep 25 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -52,10 +52,30 @@
         },
         {
           "label": "simonemonte",
-          "value": "22.7M",
-          "sub": "proj. (55 votes)"
+          "value": "22.9M",
+          "sub": "proj. (56 votes)"
         }
       ]
+    },
+    {
+      "category": "NEW MEMES SUBMISSIONS",
+      "headline": "1 New Memes Submission This Week",
+      "summary": "1 submissions this week. Ranking: CasaNUA (4.6M).",
+      "source": "Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/67600709-d3a5-481a-8786-79b0ec95ad3a/Survive-at-Dominio-PubliCC0.mp4",
+        "label": "CasaNUA (4.6M)",
+        "type": "video"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/67600709-d3a5-481a-8786-79b0ec95ad3a/Survive-at-Dominio-PubliCC0.mp4",
+          "label": "CasaNUA (4.6M)",
+          "type": "video"
+        }
+      ],
+      "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
@@ -71,8 +91,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 1.17 ETH Volume",
-      "summary": "25 sales in 24h for 1.17 ETH. Highest: \"SeizeJPGs\" at 0.182 ETH.",
+      "headline": "36 Sales Today - 1.51 ETH Volume",
+      "summary": "36 sales in 24h for 1.51 ETH. Highest: \"SeizeJPGs\" at 0.182 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -100,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "36",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.17",
+          "value": "1.51",
           "sub": "ETH"
         },
         {
@@ -115,7 +135,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0172399",
+          "value": "0.0171849",
           "sub": "ETH"
         }
       ]
@@ -124,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.17 ETH",
-      "raw": 1.1716,
-      "delta": 0.6121,
-      "delta_fmt": "+109.4%"
+      "value": "1.51 ETH",
+      "raw": 1.5089,
+      "delta": 1.1137,
+      "delta_fmt": "+281.8%"
     },
     {
       "label": "7d Vol",
-      "value": "13.12 ETH",
-      "raw": 13.1221
+      "value": "13.40 ETH",
+      "raw": 13.3975
     },
     {
       "label": "30d Vol",
-      "value": "38.47 ETH",
-      "raw": 38.4677
+      "value": "38.81 ETH",
+      "raw": 38.805
     },
     {
       "label": "Full Set Bid",
-      "value": "30.8 ETH",
-      "raw": 30.83,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "31.0 ETH",
+      "raw": 30.99,
+      "delta": 0.16000000000000014,
+      "delta_fmt": "+0.16 ETH"
     },
     {
       "label": "Network TDH",
@@ -154,9 +174,9 @@
     {
       "label": "#1 smpsmyth",
       "value": "62.5M TDH",
-      "raw": 62450206,
-      "delta": 100507,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 62450346,
+      "delta": 140,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 SummerMaxi",
@@ -573,7 +593,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #552: 120 MINTS (EXCL. MUSEUM) | 81 HOLDERS | THE FIRST BELIEVER",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #552: 120 MINTS (EXCL. MUSEUM) | 81 HOLDERS | THE FIRST BELIEVER"
   ]
 }
