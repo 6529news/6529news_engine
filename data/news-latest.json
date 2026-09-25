@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T20:38:14.174784+00:00",
+  "generated_at": "2026-09-25T23:33:54.350849+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Network State Conference 2026\" by SummerMaxi \u2014 66.5M TDH from 56 voters. Top supporter: gpebbles (9.0M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Network State Conference 2026\" by SummerMaxi \u2014 66.5M TDH from 56 voters. Top supporter: gpebbles (9.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "intrepid Leads with 47.0M Projected TDH",
-      "summary": "\"Refuge\" by intrepid (47.0M projected TDH, 90 voters) | \"Play the Long Game\" by simonemonte (28.5M projected TDH, 61 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (27.2M projected TDH, 61 voters) Next selection: Mon Sep 28 at 17:00 CET.",
+      "headline": "intrepid Leads with 47.1M Projected TDH",
+      "summary": "\"Refuge\" by intrepid (47.1M projected TDH, 90 voters) | \"Play the Long Game\" by simonemonte (28.5M projected TDH, 61 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (27.2M projected TDH, 61 voters) Next selection: Mon Sep 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "intrepid",
-          "value": "47.0M",
+          "value": "47.1M",
           "sub": "proj. (90 votes)"
         },
         {
@@ -78,18 +78,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: CasaNUA (14.8M).",
+      "summary": "1 submissions this week. Ranking: CasaNUA (35.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/67600709-d3a5-481a-8786-79b0ec95ad3a/Survive-at-Dominio-PubliCC0.mp4",
-        "label": "CasaNUA (14.8M)",
+        "label": "CasaNUA (35.2M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/67600709-d3a5-481a-8786-79b0ec95ad3a/Survive-at-Dominio-PubliCC0.mp4",
-          "label": "CasaNUA (14.8M)",
+          "label": "CasaNUA (35.2M)",
           "type": "video"
         }
       ],
@@ -97,20 +97,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "335 Sales Today - 0.71 ETH Volume",
-      "summary": "335 sales in 24h for 0.71 ETH. Highest: \"SeizeJPGs\" at 0.180 ETH.",
+      "headline": "335 Sales Today - 0.73 ETH Volume",
+      "summary": "335 sales in 24h for 0.73 ETH. Highest: \"SeizeJPGs\" at 0.180 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -143,7 +143,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "0.71",
+          "value": "0.73",
           "sub": "ETH"
         },
         {
@@ -160,16 +160,21 @@
     },
     {
       "category": "PEBBLES",
-      "headline": "Pebbles: 6 Sales - 0.000 ETH",
-      "summary": "6 Pebbles sold in the last 24h for a total of 0.000 ETH. Current floor: 0.57499999 ETH.",
+      "headline": "Pebbles: 7 Sales - 0.300 ETH",
+      "summary": "7 Pebbles sold in the last 24h for a total of 0.300 ETH. Current floor: 0.57499999 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/pebbles-by-zeblocks",
       "image": {
-        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/6758b2ee914ff31e147ab64156d1f9/e86758b2ee914ff31e147ab64156d1f9.png",
-        "label": "Pebbles #973 - 0.300 ETH",
+        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/46c2869361de8dd66024eb7af72824/4846c2869361de8dd66024eb7af72824.png",
+        "label": "Pebbles #812 - 0.300 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/46c2869361de8dd66024eb7af72824/4846c2869361de8dd66024eb7af72824.png",
+          "label": "Pebbles #812 - 0.300 ETH",
+          "type": "image"
+        },
         {
           "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/6758b2ee914ff31e147ab64156d1f9/e86758b2ee914ff31e147ab64156d1f9.png",
           "label": "Pebbles #973 - 0.300 ETH",
@@ -179,22 +184,17 @@
           "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/6758b2ee914ff31e147ab64156d1f9/e86758b2ee914ff31e147ab64156d1f9.png",
           "label": "Pebbles #973 - 0.350 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/6758b2ee914ff31e147ab64156d1f9/e86758b2ee914ff31e147ab64156d1f9.png",
-          "label": "Pebbles #973 - 0.330 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "6",
+          "value": "7",
           "sub": ""
         },
         {
           "label": "Volume",
-          "value": "0.000",
+          "value": "0.300",
           "sub": "ETH"
         },
         {
@@ -208,27 +208,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.71 ETH",
-      "raw": 0.7131,
-      "delta": -0.793,
-      "delta_fmt": "-52.7%"
+      "value": "0.73 ETH",
+      "raw": 0.7287,
+      "delta": -0.6723,
+      "delta_fmt": "-48.0%"
     },
     {
       "label": "7d Vol",
-      "value": "9.17 ETH",
-      "raw": 9.1732
+      "value": "9.20 ETH",
+      "raw": 9.204
     },
     {
       "label": "30d Vol",
-      "value": "38.60 ETH",
-      "raw": 38.6049
+      "value": "38.63 ETH",
+      "raw": 38.6286
     },
     {
       "label": "Full Set Bid",
-      "value": "30.3 ETH",
-      "raw": 30.32,
-      "delta": 0.08000000000000185,
-      "delta_fmt": "+0.08 ETH"
+      "value": "30.4 ETH",
+      "raw": 30.36,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -237,10 +237,10 @@
     },
     {
       "label": "#1 intrepid",
-      "value": "47.0M TDH",
-      "raw": 47010611,
-      "delta": 60,
-      "delta_fmt": "+0.0M TDH"
+      "value": "47.1M TDH",
+      "raw": 47119117,
+      "delta": 108506,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 smpsmyth",
@@ -664,8 +664,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.57499999 ETH | 6 SALES | LAST SALE 5h AGO",
-    "CARD #553: 117 MINTS (EXCL. MUSEUM) | 78 HOLDERS | NETWORK STATE CONFERENCE 2026",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.57499999 ETH | 7 SALES | LAST SALE 2h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #553: 117 MINTS (EXCL. MUSEUM) | 78 HOLDERS | NETWORK STATE CONFERENCE 2026"
   ]
 }
