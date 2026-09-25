@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T06:40:59.323760+00:00",
+  "generated_at": "2026-09-25T12:16:20.133991+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_848982e6-7f26-446c-8125-cb469c65c722/d249b43c-0453-4051-a6a0-caa6b8010911/NSx6529.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/553.JPG",
         "label": "Network State Conference 2026 - SummerMaxi",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "smpsmyth Leads with 65.8M Projected TDH",
-      "summary": "\"Patience is a Vinetree\" by smpsmyth (65.8M projected TDH, 59 voters) | \"Refuge\" by intrepid (37.9M projected TDH, 87 voters) | \"Play the Long Game\" by simonemonte (26.3M projected TDH, 58 voters) Next selection: Fri Sep 25 at 17:00 CET.",
+      "summary": "\"Patience is a Vinetree\" by smpsmyth (65.8M projected TDH, 60 voters) | \"Refuge\" by intrepid (37.9M projected TDH, 87 voters) | \"Play the Long Game\" by simonemonte (26.3M projected TDH, 58 voters) Next selection: Fri Sep 25 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "smpsmyth",
           "value": "65.8M",
-          "sub": "proj. (59 votes)"
+          "sub": "proj. (60 votes)"
         },
         {
           "label": "intrepid",
@@ -66,20 +66,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "22 Sales Today - 1.31 ETH Volume",
-      "summary": "22 sales in 24h for 1.31 ETH. Highest: \"Sgt. Pepe\" at 0.675 ETH.",
+      "headline": "305 Sales Today - 1.48 ETH Volume",
+      "summary": "305 sales in 24h for 1.48 ETH. Highest: \"Sgt. Pepe\" at 0.675 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -94,25 +94,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/506.WEBP",
-          "label": "Chill n\u2019 Free - 0.075 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.180 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/551.WEBP",
-          "label": "Permanent Pepe - 0.069 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/520.GIF",
+          "label": "MEMEntoMori - 0.180 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "22",
+          "value": "305",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.31",
+          "value": "1.48",
           "sub": "ETH"
         },
         {
@@ -129,8 +129,8 @@
     },
     {
       "category": "PEBBLES",
-      "headline": "Pebbles: 1 Sales - 0.000 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.000 ETH. Current floor: 0.57499999 ETH.",
+      "headline": "Pebbles: 7 Sales - 0.000 ETH",
+      "summary": "7 Pebbles sold in the last 24h for a total of 0.000 ETH. Current floor: 0.57499999 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/pebbles-by-zeblocks",
       "image": {
@@ -158,7 +158,7 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "1",
+          "value": "7",
           "sub": ""
         },
         {
@@ -177,27 +177,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.31 ETH",
-      "raw": 1.3061,
-      "delta": 0.13450000000000006,
-      "delta_fmt": "+11.5%"
+      "value": "1.48 ETH",
+      "raw": 1.4766,
+      "delta": -0.032299999999999995,
+      "delta_fmt": "-2.1%"
     },
     {
       "label": "7d Vol",
-      "value": "13.89 ETH",
-      "raw": 13.8919
+      "value": "10.16 ETH",
+      "raw": 10.16
     },
     {
       "label": "30d Vol",
-      "value": "38.04 ETH",
-      "raw": 38.0387
+      "value": "38.55 ETH",
+      "raw": 38.5465
     },
     {
       "label": "Full Set Bid",
-      "value": "30.5 ETH",
-      "raw": 30.49,
-      "delta": -0.3000000000000007,
-      "delta_fmt": "-0.30 ETH"
+      "value": "29.8 ETH",
+      "raw": 29.8,
+      "delta": -0.6899999999999977,
+      "delta_fmt": "-0.69 ETH"
     },
     {
       "label": "Network TDH",
@@ -207,8 +207,8 @@
     {
       "label": "#1 smpsmyth",
       "value": "65.8M TDH",
-      "raw": 65762362,
-      "delta": 24708,
+      "raw": 65763117,
+      "delta": 755,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -627,8 +627,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.675 ETH",
-    "PEBBLES: FLOOR 0.57499999 ETH | 1 SALES | LAST SALE 3d AGO",
-    "CARD #552: 124 MINTS (EXCL. MUSEUM) | 85 HOLDERS | THE FIRST BELIEVER",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.57499999 ETH | 7 SALES | LAST SALE 3d AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #553: 112 MINTS (EXCL. MUSEUM) | 72 HOLDERS | NETWORK STATE CONFERENCE 2026"
   ]
 }
