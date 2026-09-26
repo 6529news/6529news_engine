@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T01:59:58.881454+00:00",
+  "generated_at": "2026-09-26T07:30:42.994374+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "intrepid Leads with 47.4M Projected TDH",
-      "summary": "\"Refuge\" by intrepid (47.4M projected TDH, 91 voters) | \"SURVIVE at Dominio PubliCC0\" by CasaNUA (37.5M projected TDH, 26 voters) | \"Play the Long Game\" by simonemonte (28.5M projected TDH, 61 voters) Next selection: Mon Sep 28 at 17:00 CET.",
+      "summary": "\"Refuge\" by intrepid (47.4M projected TDH, 91 voters) | \"SURVIVE at Dominio PubliCC0\" by CasaNUA (44.8M projected TDH, 28 voters) | \"Play the Long Game\" by simonemonte (28.5M projected TDH, 61 voters) Next selection: Mon Sep 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "CasaNUA",
-          "value": "37.5M",
-          "sub": "proj. (26 votes)"
+          "value": "44.8M",
+          "sub": "proj. (28 votes)"
         },
         {
           "label": "simonemonte",
@@ -77,59 +77,59 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "335 Sales Today - 0.73 ETH Volume",
-      "summary": "335 sales in 24h for 0.73 ETH. Highest: \"SeizeJPGs\" at 0.180 ETH.",
+      "headline": "370 Sales Today - 3.02 ETH Volume",
+      "summary": "370 sales in 24h for 3.02 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.350 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-        "label": "SeizeJPGs - 0.180 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+        "label": "The Tree of Knowledge of Good and Evil - 0.350 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.180 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+          "label": "The Tree of Knowledge of Good and Evil - 0.350 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/520.GIF",
-          "label": "MEMEntoMori - 0.180 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
+          "label": "ALL YOUR BITCOIN - 0.250 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.080 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
+          "label": "The Institutions Are Coming - 0.240 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "335",
+          "value": "370",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.73",
+          "value": "3.02",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.180",
-          "sub": "SeizeJPGs"
+          "value": "0.350",
+          "sub": "The Tree of Knowledg"
         },
         {
           "label": "Floor",
@@ -188,41 +188,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.73 ETH",
-      "raw": 0.7287,
-      "delta": -0.6283,
-      "delta_fmt": "-46.3%"
+      "value": "3.02 ETH",
+      "raw": 3.0186,
+      "delta": 1.7125000000000001,
+      "delta_fmt": "+131.1%"
     },
     {
       "label": "7d Vol",
-      "value": "8.91 ETH",
-      "raw": 8.912
+      "value": "11.25 ETH",
+      "raw": 11.2495
     },
     {
       "label": "30d Vol",
-      "value": "37.17 ETH",
-      "raw": 37.1711
+      "value": "39.60 ETH",
+      "raw": 39.5998
     },
     {
       "label": "Full Set Bid",
-      "value": "30.4 ETH",
-      "raw": 30.41,
-      "delta": 0.05000000000000071,
-      "delta_fmt": "+0.05 ETH"
+      "value": "29.4 ETH",
+      "raw": 29.42,
+      "delta": -0.9899999999999984,
+      "delta_fmt": "-0.99 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1980.3M",
-      "raw": 1980259083,
-      "delta": -241782,
-      "delta_fmt": "-0.2M TDH"
+      "raw": 1980259083
     },
     {
       "label": "#1 intrepid",
       "value": "47.4M TDH",
-      "raw": 47371572,
-      "delta": 252455,
-      "delta_fmt": "+0.3M TDH"
+      "raw": 47379743,
+      "delta": 8171,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 smpsmyth",
@@ -646,8 +644,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.57499999 ETH | 7 SALES | LAST SALE 5h AGO",
-    "CARD #553: 117 MINTS (EXCL. MUSEUM) | 78 HOLDERS | NETWORK STATE CONFERENCE 2026",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.57499999 ETH | 7 SALES | LAST SALE 10h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #553: 117 MINTS (EXCL. MUSEUM) | 78 HOLDERS | NETWORK STATE CONFERENCE 2026"
   ]
 }
