@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-09-26T12:28:10.687103+00:00",
+  "generated_at": "2026-09-26T16:39:06.132083+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Network State Conference 2026\" by SummerMaxi \u2014 66.5M TDH from 56 voters. Top supporter: gpebbles (9.0M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/553.JPG",
-        "label": "Network State Conference 2026 - SummerMaxi",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING MONDAY",
       "headline": "Minting Monday",
@@ -30,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "CasaNUA Leads with 52.1M Projected TDH",
-      "summary": "\"SURVIVE at Dominio PubliCC0\" by CasaNUA (52.1M projected TDH, 30 voters) | \"Refuge\" by intrepid (47.4M projected TDH, 91 voters) | \"Play the Long Game\" by simonemonte (28.6M projected TDH, 62 voters) Next selection: Mon Sep 28 at 17:00 CET.",
+      "headline": "CasaNUA Leads with 49.9M Projected TDH",
+      "summary": "\"SURVIVE at Dominio PubliCC0\" by CasaNUA (49.9M projected TDH, 34 voters) | \"Refuge\" by intrepid (47.4M projected TDH, 91 voters) | \"Play the Long Game\" by simonemonte (28.6M projected TDH, 62 voters) Next selection: Mon Sep 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "CasaNUA",
-          "value": "52.1M",
-          "sub": "proj. (30 votes)"
+          "value": "49.9M",
+          "sub": "proj. (34 votes)"
         },
         {
           "label": "intrepid",
@@ -58,82 +45,64 @@
       ]
     },
     {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by GelatoGenesis",
-      "summary": "GelatoGenesis: https://6529.io/waves/54a4d79f-a9ce-45e7-bdc7-d772226b2577 \n\nDon't know about you but I often have the problem that I haven't checked community chats for some time and now when ...",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmXuXC4QNM9diEvBnJT3UY2o9jWTUxhYh3srRuyS2bGFJQ",
-        "label": "GelatoGenesis"
-      },
-      "dataBoxes": [
-        {
-          "label": "GelatoGenesis",
-          "value": "Lv51",
-          "sub": "1K TDH"
-        }
-      ]
-    },
-    {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 146K TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (146K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "104 Sales Today - 2.54 ETH Volume",
-      "summary": "104 sales in 24h for 2.54 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.250 ETH.",
+      "headline": "98 Sales Today - 3.30 ETH Volume",
+      "summary": "98 sales in 24h for 3.30 ETH. Highest: \"Pepe X\" at 0.080 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
-        "label": "ALL YOUR BITCOIN - 0.250 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+        "label": "Pepe X - 0.080 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/192.WEBP",
-          "label": "ALL YOUR BITCOIN - 0.250 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+          "label": "Pepe X - 0.080 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/167.WEBP",
-          "label": "all things fail - 0.230 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/159.GIF",
+          "label": "Nightmare Gothic - 0.045 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/264.WEBP",
-          "label": "OM Embrace: The Human-Digital Confluence - 0.182 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/416.WEBP",
+          "label": "Proof of Custody \u2013 What do you Meme? - 0.026 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "104",
+          "value": "98",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.54",
+          "value": "3.30",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.250",
-          "sub": "ALL YOUR BITCOIN"
+          "value": "0.080",
+          "sub": "Pepe X"
         },
         {
           "label": "Floor",
-          "value": "0.016989",
+          "value": "0.0161999",
           "sub": "ETH"
         }
       ]
@@ -188,27 +157,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.54 ETH",
-      "raw": 2.5396,
-      "delta": 1.0630000000000002,
-      "delta_fmt": "+72.0%"
+      "value": "3.30 ETH",
+      "raw": 3.3009,
+      "delta": 1.913,
+      "delta_fmt": "+137.8%"
     },
     {
       "label": "7d Vol",
-      "value": "11.10 ETH",
-      "raw": 11.0991
+      "value": "11.93 ETH",
+      "raw": 11.9296
     },
     {
       "label": "30d Vol",
-      "value": "39.61 ETH",
-      "raw": 39.6085
+      "value": "40.44 ETH",
+      "raw": 40.439
     },
     {
       "label": "Full Set Bid",
-      "value": "29.7 ETH",
-      "raw": 29.73,
-      "delta": 0.3099999999999987,
-      "delta_fmt": "+0.31 ETH"
+      "value": "28.4 ETH",
+      "raw": 28.44,
+      "delta": -1.2899999999999991,
+      "delta_fmt": "-1.29 ETH"
     },
     {
       "label": "Network TDH",
@@ -217,10 +186,10 @@
     },
     {
       "label": "#1 CasaNUA",
-      "value": "52.1M TDH",
-      "raw": 52102890,
-      "delta": -21445289,
-      "delta_fmt": "-21.4M TDH"
+      "value": "49.9M TDH",
+      "raw": 49912984,
+      "delta": -2189906,
+      "delta_fmt": "-2.2M TDH"
     },
     {
       "label": "#1 intrepid",
@@ -646,8 +615,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.57499999 ETH | 1 SALES | LAST SALE 15h AGO",
-    "CARD #553: 117 MINTS (EXCL. MUSEUM) | 78 HOLDERS | NETWORK STATE CONFERENCE 2026",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.57499999 ETH | 1 SALES | LAST SALE 19h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #553: 119 MINTS (EXCL. MUSEUM) | 81 HOLDERS | NETWORK STATE CONFERENCE 2026"
   ]
 }
