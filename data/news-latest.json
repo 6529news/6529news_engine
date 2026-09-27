@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T22:04:55.645203+00:00",
+  "generated_at": "2026-09-27T00:35:52.397612+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "CasaNUA Leads with 49.9M Projected TDH",
-      "summary": "\"SURVIVE at Dominio PubliCC0\" by CasaNUA (49.9M projected TDH, 36 voters) | \"Refuge\" by intrepid (47.4M projected TDH, 91 voters) | \"Play the Long Game\" by simonemonte (28.6M projected TDH, 62 voters) Next selection: Mon Sep 28 at 17:00 CET.",
+      "summary": "\"SURVIVE at Dominio PubliCC0\" by CasaNUA (49.9M projected TDH, 36 voters) | \"Refuge\" by intrepid (47.4M projected TDH, 91 voters) | \"Play the Long Game\" by simonemonte (28.6M projected TDH, 63 voters) Next selection: Mon Sep 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "simonemonte",
           "value": "28.6M",
-          "sub": "proj. (62 votes)"
+          "sub": "proj. (63 votes)"
         }
       ]
     },
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "114 Sales Today - 3.61 ETH Volume",
-      "summary": "114 sales in 24h for 3.61 ETH. Highest: \"DON\u2019T TREAD ON MEMES\" at 0.061 ETH.",
+      "headline": "110 Sales Today - 3.49 ETH Volume",
+      "summary": "110 sales in 24h for 3.49 ETH. Highest: \"DON\u2019T TREAD ON MEMES\" at 0.061 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "114",
+          "value": "110",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.61",
+          "value": "3.49",
           "sub": "ETH"
         },
         {
@@ -121,37 +121,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.61 ETH",
-      "raw": 3.6081,
-      "delta": 2.895,
-      "delta_fmt": "+406.0%"
+      "value": "3.49 ETH",
+      "raw": 3.4941,
+      "delta": 2.7654,
+      "delta_fmt": "+379.5%"
     },
     {
       "label": "7d Vol",
-      "value": "11.03 ETH",
-      "raw": 11.0273
+      "value": "10.95 ETH",
+      "raw": 10.9463
     },
     {
       "label": "30d Vol",
-      "value": "40.75 ETH",
-      "raw": 40.7462
+      "value": "40.67 ETH",
+      "raw": 40.6652
     },
     {
       "label": "Full Set Bid",
       "value": "28.3 ETH",
-      "raw": 28.33,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "raw": 28.26,
+      "delta": -0.06999999999999673,
+      "delta_fmt": "-0.07 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1980.3M",
-      "raw": 1980259083
+      "value": "1981.2M",
+      "raw": 1981164708,
+      "delta": 905625,
+      "delta_fmt": "+0.9M TDH"
     },
     {
       "label": "#1 CasaNUA",
       "value": "49.9M TDH",
-      "raw": 49913467
+      "raw": 49913495,
+      "delta": 28,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 intrepid",
@@ -577,7 +581,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #553: 119 MINTS (EXCL. MUSEUM) | 81 HOLDERS | NETWORK STATE CONFERENCE 2026",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #553: 119 MINTS (EXCL. MUSEUM) | 81 HOLDERS | NETWORK STATE CONFERENCE 2026"
   ]
 }
