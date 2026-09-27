@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T05:47:39.856705+00:00",
+  "generated_at": "2026-09-27T11:28:19.293251+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "CasaNUA Leads with 49.9M Projected TDH",
-      "summary": "\"SURVIVE at Dominio PubliCC0\" by CasaNUA (49.9M projected TDH, 36 voters) | \"Refuge\" by intrepid (47.4M projected TDH, 91 voters) | \"Play the Long Game\" by simonemonte (28.6M projected TDH, 64 voters) Next selection: Mon Sep 28 at 17:00 CET.",
+      "headline": "CasaNUA Leads with 53.9M Projected TDH",
+      "summary": "\"SURVIVE at Dominio PubliCC0\" by CasaNUA (53.9M projected TDH, 40 voters) | \"Refuge\" by intrepid (47.4M projected TDH, 92 voters) | \"Play the Long Game\" by simonemonte (28.7M projected TDH, 65 voters) Next selection: Mon Sep 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,18 +29,18 @@
       "dataBoxes": [
         {
           "label": "CasaNUA",
-          "value": "49.9M",
-          "sub": "proj. (36 votes)"
+          "value": "53.9M",
+          "sub": "proj. (40 votes)"
         },
         {
           "label": "intrepid",
           "value": "47.4M",
-          "sub": "proj. (91 votes)"
+          "sub": "proj. (92 votes)"
         },
         {
           "label": "simonemonte",
-          "value": "28.6M",
-          "sub": "proj. (64 votes)"
+          "value": "28.7M",
+          "sub": "proj. (65 votes)"
         }
       ]
     },
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "85 Sales Today - 2.92 ETH Volume",
-      "summary": "85 sales in 24h for 2.92 ETH. Highest: \"Pepe X\" at 0.099 ETH.",
+      "headline": "66 Sales Today - 1.82 ETH Volume",
+      "summary": "66 sales in 24h for 1.82 ETH. Highest: \"Pepe X\" at 0.099 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "85",
+          "value": "66",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.92",
+          "value": "1.82",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01499",
+          "value": "0.0144",
           "sub": "ETH"
         }
       ]
@@ -167,27 +167,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.92 ETH",
-      "raw": 2.918,
-      "delta": -0.10060000000000002,
-      "delta_fmt": "-3.3%"
+      "value": "1.82 ETH",
+      "raw": 1.8206,
+      "delta": -0.7190000000000001,
+      "delta_fmt": "-28.3%"
     },
     {
       "label": "7d Vol",
-      "value": "11.30 ETH",
-      "raw": 11.2961
+      "value": "11.09 ETH",
+      "raw": 11.0857
     },
     {
       "label": "30d Vol",
-      "value": "36.34 ETH",
-      "raw": 36.3394
+      "value": "36.40 ETH",
+      "raw": 36.398
     },
     {
       "label": "Full Set Bid",
-      "value": "28.2 ETH",
-      "raw": 28.2,
-      "delta": -0.060000000000002274,
-      "delta_fmt": "-0.06 ETH"
+      "value": "28.3 ETH",
+      "raw": 28.28,
+      "delta": 0.08000000000000185,
+      "delta_fmt": "+0.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -196,8 +196,10 @@
     },
     {
       "label": "#1 CasaNUA",
-      "value": "49.9M TDH",
-      "raw": 49913495
+      "value": "53.9M TDH",
+      "raw": 53935432,
+      "delta": 4021937,
+      "delta_fmt": "+4.0M TDH"
     },
     {
       "label": "#1 intrepid",
@@ -623,8 +625,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.497 ETH | 6 SALES | LAST SALE 1h AGO",
-    "CARD #553: 119 MINTS (EXCL. MUSEUM) | 81 HOLDERS | NETWORK STATE CONFERENCE 2026",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.497 ETH | 6 SALES | LAST SALE 6h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #553: 119 MINTS (EXCL. MUSEUM) | 81 HOLDERS | NETWORK STATE CONFERENCE 2026"
   ]
 }
