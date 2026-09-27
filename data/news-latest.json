@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:35:52.397612+00:00",
+  "generated_at": "2026-09-27T05:47:39.856705+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "CasaNUA Leads with 49.9M Projected TDH",
-      "summary": "\"SURVIVE at Dominio PubliCC0\" by CasaNUA (49.9M projected TDH, 36 voters) | \"Refuge\" by intrepid (47.4M projected TDH, 91 voters) | \"Play the Long Game\" by simonemonte (28.6M projected TDH, 63 voters) Next selection: Mon Sep 28 at 17:00 CET.",
+      "summary": "\"SURVIVE at Dominio PubliCC0\" by CasaNUA (49.9M projected TDH, 36 voters) | \"Refuge\" by intrepid (47.4M projected TDH, 91 voters) | \"Play the Long Game\" by simonemonte (28.6M projected TDH, 64 voters) Next selection: Mon Sep 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -40,7 +40,7 @@
         {
           "label": "simonemonte",
           "value": "28.6M",
-          "sub": "proj. (63 votes)"
+          "sub": "proj. (64 votes)"
         }
       ]
     },
@@ -56,63 +56,109 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "110 Sales Today - 3.49 ETH Volume",
-      "summary": "110 sales in 24h for 3.49 ETH. Highest: \"DON\u2019T TREAD ON MEMES\" at 0.061 ETH.",
+      "headline": "85 Sales Today - 2.92 ETH Volume",
+      "summary": "85 sales in 24h for 2.92 ETH. Highest: \"Pepe X\" at 0.099 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/359.WEBP",
-        "label": "DON\u2019T TREAD ON MEMES - 0.061 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+        "label": "Pepe X - 0.099 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/359.WEBP",
-          "label": "DON\u2019T TREAD ON MEMES - 0.061 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+          "label": "Pepe X - 0.099 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/159.GIF",
-          "label": "Nightmare Gothic - 0.045 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/434.WEBP",
+          "label": "Can You Still Tell? - 0.080 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/215.GIF",
-          "label": "BUIDLing on Worthless St. - 0.037 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/412.GIF",
+          "label": "Time And Tide Wait For No Man - 0.077 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "110",
+          "value": "85",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.49",
+          "value": "2.92",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.061",
-          "sub": "DON\u2019T TREAD ON MEMES"
+          "value": "0.099",
+          "sub": "Pepe X"
         },
         {
           "label": "Floor",
-          "value": "0.0149999999999",
+          "value": "0.01499",
+          "sub": "ETH"
+        }
+      ]
+    },
+    {
+      "category": "PEBBLES",
+      "headline": "Pebbles: 6 Sales - 1.810 ETH",
+      "summary": "6 Pebbles sold in the last 24h for a total of 1.810 ETH. Current floor: 0.497 ETH.",
+      "source": "OpenSea",
+      "link": "https://opensea.io/collection/pebbles-by-zeblocks",
+      "image": {
+        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/49fab0b43f56b921e093a096719ba6/a049fab0b43f56b921e093a096719ba6.png",
+        "label": "Pebbles #664 - 0.300 ETH",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/49fab0b43f56b921e093a096719ba6/a049fab0b43f56b921e093a096719ba6.png",
+          "label": "Pebbles #664 - 0.300 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/804b6d7f757726c43a4db15d3f3c27/0f804b6d7f757726c43a4db15d3f3c27.png",
+          "label": "Pebbles #94 - 0.310 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/49fab0b43f56b921e093a096719ba6/a049fab0b43f56b921e093a096719ba6.png",
+          "label": "Pebbles #664 - 0.300 ETH",
+          "type": "image"
+        }
+      ],
+      "dataBoxes": [
+        {
+          "label": "Sales 24h",
+          "value": "6",
+          "sub": ""
+        },
+        {
+          "label": "Volume",
+          "value": "1.810",
+          "sub": "ETH"
+        },
+        {
+          "label": "Floor",
+          "value": "0.497",
           "sub": "ETH"
         }
       ]
@@ -121,41 +167,37 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.49 ETH",
-      "raw": 3.4941,
-      "delta": 2.7654,
-      "delta_fmt": "+379.5%"
+      "value": "2.92 ETH",
+      "raw": 2.918,
+      "delta": -0.10060000000000002,
+      "delta_fmt": "-3.3%"
     },
     {
       "label": "7d Vol",
-      "value": "10.95 ETH",
-      "raw": 10.9463
+      "value": "11.30 ETH",
+      "raw": 11.2961
     },
     {
       "label": "30d Vol",
-      "value": "40.67 ETH",
-      "raw": 40.6652
+      "value": "36.34 ETH",
+      "raw": 36.3394
     },
     {
       "label": "Full Set Bid",
-      "value": "28.3 ETH",
-      "raw": 28.26,
-      "delta": -0.06999999999999673,
-      "delta_fmt": "-0.07 ETH"
+      "value": "28.2 ETH",
+      "raw": 28.2,
+      "delta": -0.060000000000002274,
+      "delta_fmt": "-0.06 ETH"
     },
     {
       "label": "Network TDH",
       "value": "1981.2M",
-      "raw": 1981164708,
-      "delta": 905625,
-      "delta_fmt": "+0.9M TDH"
+      "raw": 1981164708
     },
     {
       "label": "#1 CasaNUA",
       "value": "49.9M TDH",
-      "raw": 49913495,
-      "delta": 28,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 49913495
     },
     {
       "label": "#1 intrepid",
@@ -581,7 +623,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #553: 119 MINTS (EXCL. MUSEUM) | 81 HOLDERS | NETWORK STATE CONFERENCE 2026",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.497 ETH | 6 SALES | LAST SALE 1h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #553: 119 MINTS (EXCL. MUSEUM) | 81 HOLDERS | NETWORK STATE CONFERENCE 2026"
   ]
 }
