@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:58:32.152535+00:00",
+  "generated_at": "2026-09-28T21:11:14.075575+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,99 +16,122 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "CasaNUA Leads with 59.3M Projected TDH",
-      "summary": "\"SURVIVE at Dominio PubliCC0\" by CasaNUA (59.3M projected TDH, 51 voters) | \"Refuge\" by intrepid (47.4M projected TDH, 92 voters) | \"Play the Long Game\" by simonemonte (28.7M projected TDH, 65 voters) Next selection: Mon Sep 28 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING WEDNESDAY",
+      "headline": "Minting Wednesday",
+      "summary": " \"SURVIVE at Dominio PubliCC0\" by CasaNUA \u2014 59.3M TDH from 51 voters. Top supporter: david (10.2M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8306a5-87b4-11ee-9d82-029a0e4b6159/67600709-d3a5-481a-8786-79b0ec95ad3a/Survive-at-Dominio-PubliCC0.mp4",
         "label": "SURVIVE at Dominio PubliCC0 - CasaNUA",
         "type": "video"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "intrepid Leads with 47.4M Projected TDH",
+      "summary": "\"Refuge\" by intrepid (47.4M projected TDH, 93 voters) | \"Play the Long Game\" by simonemonte (28.7M projected TDH, 66 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (27.3M projected TDH, 62 voters) Next selection: Wed Sep 30 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f82f79b-87b4-11ee-9d82-029a0e4b6159/ae18506d-2cd1-4b59-ad7c-37f1419a663e/Refuge.jpg",
+        "label": "Refuge - intrepid",
+        "type": "image"
+      },
       "dataBoxes": [
-        {
-          "label": "CasaNUA",
-          "value": "59.3M",
-          "sub": "proj. (51 votes)"
-        },
         {
           "label": "intrepid",
           "value": "47.4M",
-          "sub": "proj. (92 votes)"
+          "sub": "proj. (93 votes)"
         },
         {
           "label": "simonemonte",
           "value": "28.7M",
-          "sub": "proj. (65 votes)"
+          "sub": "proj. (66 votes)"
+        },
+        {
+          "label": "Jedi69",
+          "value": "27.3M",
+          "sub": "proj. (62 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: bookofbee (3.0M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: bookofbee (3.0M) | RegularDad (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": null,
-      "images": [],
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/143f34b6-f3fe-4091-8aa5-463ff0003c94/shill-alert.mp4",
+        "label": "RegularDad (1.7M)",
+        "type": "video"
+      },
+      "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/143f34b6-f3fe-4091-8aa5-463ff0003c94/shill-alert.mp4",
+          "label": "RegularDad (1.7M)",
+          "type": "video"
+        }
+      ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 0.36 ETH Volume",
-      "summary": "13 sales in 24h for 0.36 ETH. Highest: \"\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25\" at 0.050 ETH.",
+      "headline": "19 Sales Today - 0.70 ETH Volume",
+      "summary": "19 sales in 24h for 0.70 ETH. Highest: \"On the 69th Day\u2026\" at 0.088 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
-        "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.050 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/314.WEBP",
+        "label": "On the 69th Day\u2026 - 0.088 ETH",
         "type": "image"
       },
       "images": [
         {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/314.WEBP",
+          "label": "On the 69th Day\u2026 - 0.088 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/533.WEBP",
+          "label": "THE BUILDER - 0.072 ETH",
+          "type": "image"
+        },
+        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
           "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.050 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/546.WEBP",
-          "label": "PebbleLand - 0.050 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/434.WEBP",
-          "label": "Can You Still Tell? - 0.050 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "19",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.36",
+          "value": "0.70",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.050",
-          "sub": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25"
+          "value": "0.088",
+          "sub": "On the 69th Day\u2026"
         },
         {
           "label": "Floor",
@@ -167,27 +190,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.36 ETH",
-      "raw": 0.361,
-      "delta": -0.34520000000000006,
-      "delta_fmt": "-48.9%"
+      "value": "0.70 ETH",
+      "raw": 0.7038,
+      "delta": 0.237,
+      "delta_fmt": "+50.8%"
     },
     {
       "label": "7d Vol",
-      "value": "10.37 ETH",
-      "raw": 10.3732
+      "value": "8.32 ETH",
+      "raw": 8.3183
     },
     {
       "label": "30d Vol",
-      "value": "34.16 ETH",
-      "raw": 34.1558
+      "value": "34.49 ETH",
+      "raw": 34.4855
     },
     {
       "label": "Full Set Bid",
-      "value": "29.6 ETH",
-      "raw": 29.57,
-      "delta": 1.1000000000000014,
-      "delta_fmt": "+1.10 ETH"
+      "value": "29.7 ETH",
+      "raw": 29.66,
+      "delta": 0.08999999999999986,
+      "delta_fmt": "+0.09 ETH"
     },
     {
       "label": "Network TDH",
@@ -195,18 +218,18 @@
       "raw": 1982233090
     },
     {
+      "label": "#1 intrepid",
+      "value": "47.4M TDH",
+      "raw": 47415971,
+      "delta": 36228,
+      "delta_fmt": "+0.0M TDH"
+    },
+    {
       "label": "#1 CasaNUA",
       "value": "59.3M TDH",
       "raw": 59284450,
       "delta": 174029,
       "delta_fmt": "+0.2M TDH"
-    },
-    {
-      "label": "#1 intrepid",
-      "value": "47.4M TDH",
-      "raw": 47379743,
-      "delta": 8171,
-      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 smpsmyth",
@@ -625,8 +648,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.47 ETH | 1 SALES | LAST SALE 2h AGO",
-    "CARD #554: 114 MINTS (EXCL. MUSEUM) | 76 HOLDERS | PATIENCE IS A VINETREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.47 ETH | 1 SALES | LAST SALE 8h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #554: 118 MINTS (EXCL. MUSEUM) | 79 HOLDERS | PATIENCE IS A VINETREE"
   ]
 }
