@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T23:30:01.254635+00:00",
+  "generated_at": "2026-10-01T02:20:30.592067+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Zoku Leads with 37.9M Projected TDH",
-      "summary": "\"Seize Your Community\" by Zoku (37.9M projected TDH, 26 voters) | \"Play the Long Game\" by simonemonte (32.7M projected TDH, 70 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (27.3M projected TDH, 64 voters) Next selection: Fri Oct 02 at 17:00 CET.",
+      "headline": "Zoku Leads with 48.2M Projected TDH",
+      "summary": "\"Seize Your Community\" by Zoku (48.2M projected TDH, 29 voters) | \"Play the Long Game\" by simonemonte (32.7M projected TDH, 70 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (28.1M projected TDH, 64 voters) Next selection: Fri Oct 02 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Zoku",
-          "value": "37.9M",
-          "sub": "proj. (26 votes)"
+          "value": "48.2M",
+          "sub": "proj. (29 votes)"
         },
         {
           "label": "simonemonte",
@@ -52,7 +52,7 @@
         },
         {
           "label": "Jedi69",
-          "value": "27.3M",
+          "value": "28.1M",
           "sub": "proj. (64 votes)"
         }
       ]
@@ -102,13 +102,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
@@ -158,7 +158,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.013899999",
+          "value": "0.01389",
           "sub": "ETH"
         }
       ]
@@ -185,21 +185,23 @@
     {
       "label": "Full Set Bid",
       "value": "28.8 ETH",
-      "raw": 28.79,
-      "delta": 0.129999999999999,
-      "delta_fmt": "+0.13 ETH"
+      "raw": 28.77,
+      "delta": -0.019999999999999574,
+      "delta_fmt": "-0.02 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "1990.1M",
-      "raw": 1990111265
+      "value": "1992.9M",
+      "raw": 1992897048,
+      "delta": 2785783,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 Zoku",
-      "value": "37.9M TDH",
-      "raw": 37865763,
-      "delta": 14847,
-      "delta_fmt": "+0.0M TDH"
+      "value": "48.2M TDH",
+      "raw": 48213733,
+      "delta": 10347970,
+      "delta_fmt": "+10.3M TDH"
     },
     {
       "label": "#1 intrepid",
@@ -632,7 +634,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #555: 116 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SURVIVE AT DOMINIO PUBLICC0",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #555: 116 MINTS (EXCL. MUSEUM) | 85 HOLDERS | SURVIVE AT DOMINIO PUBLICC0"
   ]
 }
