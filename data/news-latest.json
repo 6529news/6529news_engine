@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T20:54:19.419877+00:00",
+  "generated_at": "2026-10-04T23:51:25.501130+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING MONDAY",
-      "headline": "Minting Monday",
-      "summary": " \"Seize Your Community\" by Zoku \u2014 53.8M TDH from 41 voters. Top supporter: gpebbles (15.7M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Seize Your Community\" by Zoku \u2014 53.8M TDH from 41 voters. Top supporter: gpebbles (15.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -46,21 +46,16 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: RegularDad (10.4M) | Restless_M (5.8M) | LQC (5.5M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: Restless_M (5.8M) | LQC (5.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/143f34b6-f3fe-4091-8aa5-463ff0003c94/shill-alert.mp4",
-        "label": "RegularDad (10.4M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_281eeb7e-5199-489c-b909-5c933789ea6b/4af4dd7a-5cbd-47b8-bc21-57e6d03a3b46/lqc-6529meme.mp4",
+        "label": "LQC (5.5M)",
         "type": "video"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/143f34b6-f3fe-4091-8aa5-463ff0003c94/shill-alert.mp4",
-          "label": "RegularDad (10.4M)",
-          "type": "video"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_281eeb7e-5199-489c-b909-5c933789ea6b/4af4dd7a-5cbd-47b8-bc21-57e6d03a3b46/lqc-6529meme.mp4",
           "label": "LQC (5.5M)",
@@ -83,8 +78,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "10 Sales Today - 0.77 ETH Volume",
-      "summary": "10 sales in 24h for 0.77 ETH. Highest: \"Sgt. Pepe\" at 0.450 ETH.",
+      "headline": "15 Sales Today - 1.29 ETH Volume",
+      "summary": "15 sales in 24h for 1.29 ETH. Highest: \"Sgt. Pepe\" at 0.450 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -99,25 +94,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.136 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
+          "label": "The Tree of Knowledge of Good and Evil - 0.400 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/548.WEBP",
-          "label": "WA-NGMI - 0.059 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.136 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "10",
+          "value": "15",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.77",
+          "value": "1.29",
           "sub": "ETH"
         },
         {
@@ -127,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01251932",
+          "value": "0.01243838",
           "sub": "ETH"
         }
       ]
@@ -182,27 +177,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.77 ETH",
-      "raw": 0.7674,
-      "delta": 0.36839999999999995,
-      "delta_fmt": "+92.3%"
+      "value": "1.29 ETH",
+      "raw": 1.2864,
+      "delta": 0.8874,
+      "delta_fmt": "+222.4%"
     },
     {
       "label": "7d Vol",
-      "value": "4.93 ETH",
-      "raw": 4.9301
+      "value": "5.45 ETH",
+      "raw": 5.4491
     },
     {
       "label": "30d Vol",
-      "value": "32.55 ETH",
-      "raw": 32.5549
+      "value": "33.07 ETH",
+      "raw": 33.0739
     },
     {
       "label": "Full Set Bid",
-      "value": "27.2 ETH",
-      "raw": 27.22,
-      "delta": -0.120000000000001,
-      "delta_fmt": "-0.12 ETH"
+      "value": "27.7 ETH",
+      "raw": 27.72,
+      "delta": 0.5,
+      "delta_fmt": "+0.50 ETH"
     },
     {
       "label": "Network TDH",
@@ -212,8 +207,8 @@
     {
       "label": "#1 TarainAbstract",
       "value": "72.4M TDH",
-      "raw": 72438151,
-      "delta": 245,
+      "raw": 72438242,
+      "delta": 91,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -655,8 +650,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.450 ETH",
-    "PEBBLES: FLOOR 0.44995 ETH | 1 SALES | LAST SALE 11h AGO",
-    "CARD #556: 147 MINTS (EXCL. MUSEUM) | 79 HOLDERS | REFUGE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.44995 ETH | 1 SALES | LAST SALE 14h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #556: 147 MINTS (EXCL. MUSEUM) | 79 HOLDERS | REFUGE"
   ]
 }
