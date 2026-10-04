@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T01:49:26.506469+00:00",
+  "generated_at": "2026-10-04T07:48:44.150760+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "TarainAbstract Leads with 61.6M Projected TDH",
-      "summary": "\"HODL - Don't Get Shaken Out\" by TarainAbstract (61.6M projected TDH, 64 voters) | \"Play the Long Game\" by simonemonte (34.0M projected TDH, 75 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (28.5M projected TDH, 69 voters) Next selection: Mon Oct 05 at 17:00 CET.",
+      "headline": "TarainAbstract Leads with 68.9M Projected TDH",
+      "summary": "\"HODL - Don't Get Shaken Out\" by TarainAbstract (68.9M projected TDH, 65 voters) | \"Play the Long Game\" by simonemonte (34.0M projected TDH, 75 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (28.6M projected TDH, 70 voters) Next selection: Mon Oct 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "TarainAbstract",
-          "value": "61.6M",
-          "sub": "proj. (64 votes)"
+          "value": "68.9M",
+          "sub": "proj. (65 votes)"
         },
         {
           "label": "simonemonte",
@@ -39,8 +39,8 @@
         },
         {
           "label": "Jedi69",
-          "value": "28.5M",
-          "sub": "proj. (69 votes)"
+          "value": "28.6M",
+          "sub": "proj. (70 votes)"
         }
       ]
     },
@@ -71,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#8 Bicasso \u2014 6K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (146K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
+        "label": "Bicasso (6K)",
+        "type": "video"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "9 Sales Today - 0.40 ETH Volume",
-      "summary": "9 sales in 24h for 0.40 ETH. Highest: \"6529Seizing\" at 0.090 ETH.",
+      "headline": "13 Sales Today - 0.46 ETH Volume",
+      "summary": "13 sales in 24h for 0.46 ETH. Highest: \"6529Seizing\" at 0.090 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -104,20 +104,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/33.WEBP",
-          "label": "Feeling Lucky? - 0.069 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/548.WEBP",
+          "label": "WA-NGMI - 0.059 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "9",
+          "value": "13",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.40",
+          "value": "0.46",
           "sub": "ETH"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01292402",
+          "value": "0.01276214",
           "sub": "ETH"
         }
       ]
@@ -136,39 +136,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.40 ETH",
-      "raw": 0.399,
-      "delta": -0.3853,
-      "delta_fmt": "-49.1%"
+      "value": "0.46 ETH",
+      "raw": 0.4636,
+      "delta": -0.3398,
+      "delta_fmt": "-42.3%"
     },
     {
       "label": "7d Vol",
-      "value": "4.63 ETH",
-      "raw": 4.6296
+      "value": "4.35 ETH",
+      "raw": 4.3549
     },
     {
       "label": "30d Vol",
-      "value": "33.87 ETH",
-      "raw": 33.865
+      "value": "31.92 ETH",
+      "raw": 31.9212
     },
     {
       "label": "Full Set Bid",
-      "value": "27.8 ETH",
-      "raw": 27.81
+      "value": "27.7 ETH",
+      "raw": 27.73,
+      "delta": -0.0799999999999983,
+      "delta_fmt": "-0.08 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2028.9M",
-      "raw": 2028912027,
-      "delta": 30092430,
-      "delta_fmt": "+30.1M TDH"
+      "raw": 2028912027
     },
     {
       "label": "#1 TarainAbstract",
-      "value": "61.6M TDH",
-      "raw": 61556836,
-      "delta": 10315,
-      "delta_fmt": "+0.0M TDH"
+      "value": "68.9M TDH",
+      "raw": 68928805,
+      "delta": 7371969,
+      "delta_fmt": "+7.4M TDH"
     },
     {
       "label": "#1 Zoku",
@@ -608,7 +608,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #556: 147 MINTS (EXCL. MUSEUM) | 79 HOLDERS | REFUGE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #556: 147 MINTS (EXCL. MUSEUM) | 79 HOLDERS | REFUGE"
   ]
 }
