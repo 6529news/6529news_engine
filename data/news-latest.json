@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T11:44:21.895985+00:00",
+  "generated_at": "2026-10-05T19:45:22.132224+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,52 +16,55 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "TarainAbstract Leads with 72.4M Projected TDH",
-      "summary": "\"HODL - Don't Get Shaken Out\" by TarainAbstract (72.4M projected TDH, 71 voters) | \"Play the Long Game\" by simonemonte (34.0M projected TDH, 77 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (28.6M projected TDH, 74 voters) Next selection: Mon Oct 05 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING WEDNESDAY",
+      "headline": "Minting Wednesday",
+      "summary": " \"HODL - Don't Get Shaken Out\" by TarainAbstract \u2014 72.4M TDH from 72 voters. Top supporter: gpebbles (18.7M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e067932e-3eb4-11ef-9d82-029a0e4b6159/c33cdd29-4f45-40c3-bb67-8f19bd2d95d9/HODL-Don-t-get-shaken-out.jpeg",
         "label": "HODL - Don't Get Shaken Out - TarainAbstract",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "simonemonte Leads with 35.7M Projected TDH",
+      "summary": "\"Play the Long Game\" by simonemonte (35.7M projected TDH, 77 voters) | \"Shill Alert\" by RegularDad (35.2M projected TDH, 22 voters) | \"UNFALLEN: BEYOND | Cinematic Concept Teaser\" by Het_Patel (29.3M projected TDH, 28 voters) Next selection: Wed Oct 07 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5223a940-48ff-4531-9220-52b2bba05117/78e6842f-a572-4311-b24b-3a4ab82786a7/Play-the-Long-Game.jpg",
+        "label": "Play the Long Game - simonemonte",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "TarainAbstract",
-          "value": "72.4M",
-          "sub": "proj. (71 votes)"
-        },
-        {
           "label": "simonemonte",
-          "value": "34.0M",
+          "value": "35.7M",
           "sub": "proj. (77 votes)"
         },
         {
-          "label": "Jedi69",
-          "value": "28.6M",
-          "sub": "proj. (74 votes)"
+          "label": "RegularDad",
+          "value": "35.2M",
+          "sub": "proj. (22 votes)"
+        },
+        {
+          "label": "Het_Patel",
+          "value": "29.3M",
+          "sub": "proj. (28 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: Restless_M (5.8M) | LQC (5.5M).",
+      "headline": "1 New Memes Submission This Week",
+      "summary": "1 submissions this week. Ranking: Restless_M (5.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_281eeb7e-5199-489c-b909-5c933789ea6b/4af4dd7a-5cbd-47b8-bc21-57e6d03a3b46/lqc-6529meme.mp4",
-        "label": "LQC (5.5M)",
-        "type": "video"
-      },
-      "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_281eeb7e-5199-489c-b909-5c933789ea6b/4af4dd7a-5cbd-47b8-bc21-57e6d03a3b46/lqc-6529meme.mp4",
-          "label": "LQC (5.5M)",
-          "type": "video"
-        }
-      ],
+      "image": null,
+      "images": [],
       "dataBoxes": null
     },
     {
@@ -71,15 +74,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "13 Sales Today - 1.22 ETH Volume",
-      "summary": "13 sales in 24h for 1.22 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
+      "headline": "44 Sales Today - 2.26 ETH Volume",
+      "summary": "44 sales in 24h for 2.26 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -100,19 +103,19 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
-          "label": "6529Seizing - 0.070 ETH",
+          "label": "6529Seizing - 0.109 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "13",
+          "value": "44",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.22",
+          "value": "2.26",
           "sub": "ETH"
         },
         {
@@ -122,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01219556",
+          "value": "0.01203368",
           "sub": "ETH"
         }
       ]
@@ -131,32 +134,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.22 ETH",
-      "raw": 1.2202,
-      "delta": 0.39269999999999994,
-      "delta_fmt": "+47.5%"
+      "value": "2.26 ETH",
+      "raw": 2.2574,
+      "delta": 1.4900000000000002,
+      "delta_fmt": "+194.2%"
     },
     {
       "label": "7d Vol",
-      "value": "5.84 ETH",
-      "raw": 5.8367
+      "value": "6.38 ETH",
+      "raw": 6.3824
     },
     {
       "label": "30d Vol",
-      "value": "32.95 ETH",
-      "raw": 32.9508
+      "value": "34.02 ETH",
+      "raw": 34.0239
     },
     {
       "label": "Full Set Bid",
-      "value": "28.1 ETH",
-      "raw": 28.09,
-      "delta": 0.4800000000000004,
-      "delta_fmt": "+0.48 ETH"
+      "value": "27.7 ETH",
+      "raw": 27.68,
+      "delta": -0.41000000000000014,
+      "delta_fmt": "-0.41 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2031.9M",
       "raw": 2031929976
+    },
+    {
+      "label": "#1 simonemonte",
+      "value": "35.7M TDH",
+      "raw": 35663014,
+      "delta": -18020821,
+      "delta_fmt": "-18.0M TDH"
     },
     {
       "label": "#1 TarainAbstract",
@@ -603,7 +613,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #557: 136 MINTS (EXCL. MUSEUM) | 70 HOLDERS | SEIZE YOUR COMMUNITY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #557: 151 MINTS (EXCL. MUSEUM) | 76 HOLDERS | SEIZE YOUR COMMUNITY"
   ]
 }
