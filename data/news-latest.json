@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:51:25.501130+00:00",
+  "generated_at": "2026-10-05T04:16:13.395713+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "TarainAbstract Leads with 72.4M Projected TDH",
-      "summary": "\"HODL - Don't Get Shaken Out\" by TarainAbstract (72.4M projected TDH, 68 voters) | \"Play the Long Game\" by simonemonte (34.0M projected TDH, 75 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (28.6M projected TDH, 72 voters) Next selection: Mon Oct 05 at 17:00 CET.",
+      "summary": "\"HODL - Don't Get Shaken Out\" by TarainAbstract (72.4M projected TDH, 69 voters) | \"Play the Long Game\" by simonemonte (34.0M projected TDH, 75 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (28.6M projected TDH, 72 voters) Next selection: Mon Oct 05 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "TarainAbstract",
           "value": "72.4M",
-          "sub": "proj. (68 votes)"
+          "sub": "proj. (69 votes)"
         },
         {
           "label": "simonemonte",
@@ -78,8 +78,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "15 Sales Today - 1.29 ETH Volume",
-      "summary": "15 sales in 24h for 1.29 ETH. Highest: \"Sgt. Pepe\" at 0.450 ETH.",
+      "headline": "15 Sales Today - 1.69 ETH Volume",
+      "summary": "15 sales in 24h for 1.69 ETH. Highest: \"Sgt. Pepe\" at 0.450 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -100,7 +100,7 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
-          "label": "SeizeJPGs - 0.136 ETH",
+          "label": "SeizeJPGs - 0.197 ETH",
           "type": "image"
         }
       ],
@@ -112,7 +112,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.29",
+          "value": "1.69",
           "sub": "ETH"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01243838",
+          "value": "0.01235744",
           "sub": "ETH"
         }
       ]
@@ -177,38 +177,40 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.29 ETH",
-      "raw": 1.2864,
-      "delta": 0.8874,
-      "delta_fmt": "+222.4%"
+      "value": "1.69 ETH",
+      "raw": 1.692,
+      "delta": 1.293,
+      "delta_fmt": "+324.1%"
     },
     {
       "label": "7d Vol",
-      "value": "5.45 ETH",
-      "raw": 5.4491
+      "value": "5.86 ETH",
+      "raw": 5.8642
     },
     {
       "label": "30d Vol",
-      "value": "33.07 ETH",
-      "raw": 33.0739
+      "value": "32.86 ETH",
+      "raw": 32.8618
     },
     {
       "label": "Full Set Bid",
-      "value": "27.7 ETH",
-      "raw": 27.72,
-      "delta": 0.5,
-      "delta_fmt": "+0.50 ETH"
+      "value": "27.6 ETH",
+      "raw": 27.61,
+      "delta": -0.10999999999999943,
+      "delta_fmt": "-0.11 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2028.9M",
-      "raw": 2028912027
+      "value": "2031.9M",
+      "raw": 2031929976,
+      "delta": 3017949,
+      "delta_fmt": "+3.0M TDH"
     },
     {
       "label": "#1 TarainAbstract",
       "value": "72.4M TDH",
-      "raw": 72438242,
-      "delta": 91,
+      "raw": 72441485,
+      "delta": 3243,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -650,8 +652,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.450 ETH",
-    "PEBBLES: FLOOR 0.44995 ETH | 1 SALES | LAST SALE 14h AGO",
-    "CARD #556: 147 MINTS (EXCL. MUSEUM) | 79 HOLDERS | REFUGE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.44995 ETH | 1 SALES | LAST SALE 18h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #556: 147 MINTS (EXCL. MUSEUM) | 79 HOLDERS | REFUGE"
   ]
 }
