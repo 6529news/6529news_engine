@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T19:45:22.132224+00:00",
+  "generated_at": "2026-10-05T22:27:57.648565+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,37 +30,37 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "simonemonte Leads with 35.7M Projected TDH",
-      "summary": "\"Play the Long Game\" by simonemonte (35.7M projected TDH, 77 voters) | \"Shill Alert\" by RegularDad (35.2M projected TDH, 22 voters) | \"UNFALLEN: BEYOND | Cinematic Concept Teaser\" by Het_Patel (29.3M projected TDH, 28 voters) Next selection: Wed Oct 07 at 17:00 CET.",
+      "headline": "RegularDad Leads with 45.7M Projected TDH",
+      "summary": "\"Shill Alert\" by RegularDad (45.7M projected TDH, 25 voters) | \"Play the Long Game\" by simonemonte (35.8M projected TDH, 78 voters) | \"UNFALLEN: BEYOND | Cinematic Concept Teaser\" by Het_Patel (32.3M projected TDH, 29 voters) Next selection: Wed Oct 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5223a940-48ff-4531-9220-52b2bba05117/78e6842f-a572-4311-b24b-3a4ab82786a7/Play-the-Long-Game.jpg",
-        "label": "Play the Long Game - simonemonte",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f8321c5-87b4-11ee-9d82-029a0e4b6159/143f34b6-f3fe-4091-8aa5-463ff0003c94/shill-alert.mp4",
+        "label": "Shill Alert - RegularDad",
+        "type": "video"
       },
       "dataBoxes": [
         {
-          "label": "simonemonte",
-          "value": "35.7M",
-          "sub": "proj. (77 votes)"
+          "label": "RegularDad",
+          "value": "45.7M",
+          "sub": "proj. (25 votes)"
         },
         {
-          "label": "RegularDad",
-          "value": "35.2M",
-          "sub": "proj. (22 votes)"
+          "label": "simonemonte",
+          "value": "35.8M",
+          "sub": "proj. (78 votes)"
         },
         {
           "label": "Het_Patel",
-          "value": "29.3M",
-          "sub": "proj. (28 votes)"
+          "value": "32.3M",
+          "sub": "proj. (29 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: Restless_M (5.8M).",
+      "summary": "1 submissions this week. Ranking: Restless_M (6.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,33 +69,28 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "44 Sales Today - 2.26 ETH Volume",
-      "summary": "44 sales in 24h for 2.26 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
+      "headline": "40 Sales Today - 1.64 ETH Volume",
+      "summary": "40 sales in 24h for 1.64 ETH. Highest: \"SeizeJPGs\" at 0.197 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-        "label": "The Tree of Knowledge of Good and Evil - 0.400 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+        "label": "SeizeJPGs - 0.197 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.400 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
           "label": "SeizeJPGs - 0.197 ETH",
@@ -105,23 +100,28 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
           "label": "6529Seizing - 0.109 ETH",
           "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+          "label": "< no, really [ this ] is going to be our year > - 0.069 ETH",
+          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "44",
+          "value": "40",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.26",
+          "value": "1.64",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.400",
-          "sub": "The Tree of Knowledg"
+          "value": "0.197",
+          "sub": "SeizeJPGs"
         },
         {
           "label": "Floor",
@@ -134,32 +134,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.26 ETH",
-      "raw": 2.2574,
-      "delta": 1.4900000000000002,
-      "delta_fmt": "+194.2%"
+      "value": "1.64 ETH",
+      "raw": 1.6364,
+      "delta": 0.3500000000000001,
+      "delta_fmt": "+27.2%"
     },
     {
       "label": "7d Vol",
-      "value": "6.38 ETH",
-      "raw": 6.3824
+      "value": "6.40 ETH",
+      "raw": 6.4024
     },
     {
       "label": "30d Vol",
-      "value": "34.02 ETH",
-      "raw": 34.0239
+      "value": "34.04 ETH",
+      "raw": 34.0439
     },
     {
       "label": "Full Set Bid",
-      "value": "27.7 ETH",
-      "raw": 27.68,
-      "delta": -0.41000000000000014,
-      "delta_fmt": "-0.41 ETH"
+      "value": "27.4 ETH",
+      "raw": 27.44,
+      "delta": -0.23999999999999844,
+      "delta_fmt": "-0.24 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2031.9M",
       "raw": 2031929976
+    },
+    {
+      "label": "#1 RegularDad",
+      "value": "45.7M TDH",
+      "raw": 45667793,
+      "delta": -15311415,
+      "delta_fmt": "-15.3M TDH"
     },
     {
       "label": "#1 simonemonte",
@@ -223,13 +230,6 @@
       "raw": 81478471,
       "delta": -612532,
       "delta_fmt": "-0.6M TDH"
-    },
-    {
-      "label": "#1 RegularDad",
-      "value": "61.0M TDH",
-      "raw": 60979208,
-      "delta": 5,
-      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Parisa",
@@ -613,7 +613,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #557: 151 MINTS (EXCL. MUSEUM) | 76 HOLDERS | SEIZE YOUR COMMUNITY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #557: 154 MINTS (EXCL. MUSEUM) | 79 HOLDERS | SEIZE YOUR COMMUNITY"
   ]
 }
