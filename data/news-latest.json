@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T22:27:57.648565+00:00",
+  "generated_at": "2026-10-06T00:59:12.801302+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Seize Your Community\" by Zoku \u2014 53.8M TDH from 41 voters. Top supporter: gpebbles (15.7M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Seize Your Community\" by Zoku \u2014 53.8M TDH from 41 voters. Top supporter: gpebbles (15.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "RegularDad Leads with 45.7M Projected TDH",
-      "summary": "\"Shill Alert\" by RegularDad (45.7M projected TDH, 25 voters) | \"Play the Long Game\" by simonemonte (35.8M projected TDH, 78 voters) | \"UNFALLEN: BEYOND | Cinematic Concept Teaser\" by Het_Patel (32.3M projected TDH, 29 voters) Next selection: Wed Oct 07 at 17:00 CET.",
+      "summary": "\"Shill Alert\" by RegularDad (45.7M projected TDH, 26 voters) | \"Play the Long Game\" by simonemonte (35.8M projected TDH, 78 voters) | \"UNFALLEN: BEYOND | Cinematic Concept Teaser\" by Het_Patel (32.3M projected TDH, 29 voters) Next selection: Wed Oct 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,7 +43,7 @@
         {
           "label": "RegularDad",
           "value": "45.7M",
-          "sub": "proj. (25 votes)"
+          "sub": "proj. (26 votes)"
         },
         {
           "label": "simonemonte",
@@ -69,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "40 Sales Today - 1.64 ETH Volume",
-      "summary": "40 sales in 24h for 1.64 ETH. Highest: \"SeizeJPGs\" at 0.197 ETH.",
+      "headline": "40 Sales Today - 1.69 ETH Volume",
+      "summary": "40 sales in 24h for 1.69 ETH. Highest: \"SeizeJPGs\" at 0.197 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -115,7 +115,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.64",
+          "value": "1.69",
           "sub": "ETH"
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01203368",
+          "value": "0.01195274",
           "sub": "ETH"
         }
       ]
@@ -134,39 +134,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.64 ETH",
-      "raw": 1.6364,
-      "delta": 0.3500000000000001,
-      "delta_fmt": "+27.2%"
+      "value": "1.69 ETH",
+      "raw": 1.6914,
+      "delta": 0.405,
+      "delta_fmt": "+31.5%"
     },
     {
       "label": "7d Vol",
-      "value": "6.40 ETH",
-      "raw": 6.4024
+      "value": "6.37 ETH",
+      "raw": 6.3672
     },
     {
       "label": "30d Vol",
-      "value": "34.04 ETH",
-      "raw": 34.0439
+      "value": "33.64 ETH",
+      "raw": 33.6439
     },
     {
       "label": "Full Set Bid",
-      "value": "27.4 ETH",
-      "raw": 27.44,
-      "delta": -0.23999999999999844,
-      "delta_fmt": "-0.24 ETH"
+      "value": "27.2 ETH",
+      "raw": 27.19,
+      "delta": -0.25,
+      "delta_fmt": "-0.25 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2031.9M",
-      "raw": 2031929976
+      "value": "2034.7M",
+      "raw": 2034719364,
+      "delta": 2789388,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 RegularDad",
       "value": "45.7M TDH",
-      "raw": 45667793,
-      "delta": -15311415,
-      "delta_fmt": "-15.3M TDH"
+      "raw": 45667893,
+      "delta": 100,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 simonemonte",
