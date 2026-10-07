@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T02:35:59.540400+00:00",
+  "generated_at": "2026-10-07T09:17:53.065369+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e067932e-3eb4-11ef-9d82-029a0e4b6159/c33cdd29-4f45-40c3-bb67-8f19bd2d95d9/HODL-Don-t-get-shaken-out.jpeg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/558.JPG",
         "label": "HODL - Don't Get Shaken Out - TarainAbstract",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "RegularDad Leads with 55.5M Projected TDH",
-      "summary": "\"Shill Alert\" by RegularDad (55.5M projected TDH, 41 voters) | \"UNFALLEN: BEYOND | Cinematic Concept Teaser\" by Het_Patel (40.3M projected TDH, 34 voters) | \"Play the Long Game\" by simonemonte (35.8M projected TDH, 78 voters) Next selection: Wed Oct 07 at 17:00 CET.",
+      "summary": "\"Shill Alert\" by RegularDad (55.5M projected TDH, 43 voters) | \"UNFALLEN: BEYOND | Cinematic Concept Teaser\" by Het_Patel (43.4M projected TDH, 37 voters) | \"Play the Long Game\" by simonemonte (35.8M projected TDH, 78 voters) Next selection: Wed Oct 07 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,12 +30,12 @@
         {
           "label": "RegularDad",
           "value": "55.5M",
-          "sub": "proj. (41 votes)"
+          "sub": "proj. (43 votes)"
         },
         {
           "label": "Het_Patel",
-          "value": "40.3M",
-          "sub": "proj. (34 votes)"
+          "value": "43.4M",
+          "sub": "proj. (37 votes)"
         },
         {
           "label": "simonemonte",
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 3.42 ETH Volume",
-      "summary": "24 sales in 24h for 3.42 ETH. Highest: \"EXIT STRATEGY\" at 2.100 ETH.",
+      "headline": "24 Sales Today - 3.39 ETH Volume",
+      "summary": "24 sales in 24h for 3.39 ETH. Highest: \"EXIT STRATEGY\" at 2.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,7 +102,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "3.42",
+          "value": "3.39",
           "sub": "ETH"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.012799999",
+          "value": "0.012799989",
           "sub": "ETH"
         }
       ]
@@ -121,40 +121,38 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.42 ETH",
-      "raw": 3.4219,
-      "delta": 1.7305,
-      "delta_fmt": "+102.3%"
+      "value": "3.39 ETH",
+      "raw": 3.3937,
+      "delta": 2.1496,
+      "delta_fmt": "+172.8%"
     },
     {
       "label": "7d Vol",
-      "value": "9.20 ETH",
-      "raw": 9.1978
+      "value": "8.69 ETH",
+      "raw": 8.6886
     },
     {
       "label": "30d Vol",
-      "value": "36.44 ETH",
-      "raw": 36.4358
+      "value": "36.45 ETH",
+      "raw": 36.4476
     },
     {
       "label": "Full Set Bid",
-      "value": "24.1 ETH",
-      "raw": 24.07,
-      "delta": -2.419999999999998,
-      "delta_fmt": "-2.42 ETH"
+      "value": "26.3 ETH",
+      "raw": 26.35,
+      "delta": 2.280000000000001,
+      "delta_fmt": "+2.28 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2037.7M",
-      "raw": 2037704889,
-      "delta": 2985525,
-      "delta_fmt": "+3.0M TDH"
+      "raw": 2037704889
     },
     {
       "label": "#1 RegularDad",
       "value": "55.5M TDH",
-      "raw": 55500292,
-      "delta": 3730,
+      "raw": 55508077,
+      "delta": 7785,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -603,7 +601,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.100 ETH",
-    "CARD #557: 156 MINTS (EXCL. MUSEUM) | 81 HOLDERS | SEIZE YOUR COMMUNITY",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #558: 127 MINTS (EXCL. MUSEUM) | 70 HOLDERS | HODL - DON'T GET SHAKEN OUT"
   ]
 }
