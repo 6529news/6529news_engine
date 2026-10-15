@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:35:05.226509+00:00",
+  "generated_at": "2026-10-15T10:19:11.023792+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "senemsad Leads with 83.5M Projected TDH",
-      "summary": "\"Reef Node 6529\" by senemsad (83.5M projected TDH, 172 voters) | \"Quit\" by bookofbee (74.6M projected TDH, 36 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (33.7M projected TDH, 79 voters) Next selection: Fri Oct 16 at 17:00 CET.",
+      "summary": "\"Reef Node 6529\" by senemsad (83.5M projected TDH, 172 voters) | \"Quit\" by bookofbee (74.6M projected TDH, 37 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (33.7M projected TDH, 79 voters) Next selection: Fri Oct 16 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -48,7 +48,7 @@
         {
           "label": "bookofbee",
           "value": "74.6M",
-          "sub": "proj. (36 votes)"
+          "sub": "proj. (37 votes)"
         },
         {
           "label": "Jedi69",
@@ -89,8 +89,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "36 Sales Today - 1.51 ETH Volume",
-      "summary": "36 sales in 24h for 1.51 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.359 ETH.",
+      "headline": "35 Sales Today - 1.48 ETH Volume",
+      "summary": "35 sales in 24h for 1.48 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.359 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -118,12 +118,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "36",
+          "value": "35",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.51",
+          "value": "1.48",
           "sub": "ETH"
         },
         {
@@ -133,7 +133,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.0123047",
+          "value": "0.0122947",
           "sub": "ETH"
         }
       ]
@@ -141,7 +141,7 @@
     {
       "category": "PEBBLES",
       "headline": "Pebbles: 1 Sales - 0.299 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.299 ETH. Current floor: 0.44795 ETH.",
+      "summary": "1 Pebbles sold in the last 24h for a total of 0.299 ETH. Current floor: 0.437 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/pebbles-by-zeblocks",
       "image": {
@@ -179,7 +179,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.44795",
+          "value": "0.437",
           "sub": "ETH"
         }
       ]
@@ -188,27 +188,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.51 ETH",
-      "raw": 1.511,
-      "delta": 0.4250999999999998,
-      "delta_fmt": "+39.1%"
+      "value": "1.48 ETH",
+      "raw": 1.4809,
+      "delta": 0.3387,
+      "delta_fmt": "+29.7%"
     },
     {
       "label": "7d Vol",
-      "value": "4.83 ETH",
-      "raw": 4.8312
+      "value": "4.67 ETH",
+      "raw": 4.6695
     },
     {
       "label": "30d Vol",
-      "value": "35.72 ETH",
-      "raw": 35.7231
+      "value": "35.75 ETH",
+      "raw": 35.7494
     },
     {
       "label": "Full Set Bid",
       "value": "26.7 ETH",
-      "raw": 26.71,
-      "delta": 0.13000000000000256,
-      "delta_fmt": "+0.13 ETH"
+      "raw": 26.75,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -218,8 +218,8 @@
     {
       "label": "#1 senemsad",
       "value": "83.5M TDH",
-      "raw": 83546767,
-      "delta": 17179,
+      "raw": 83549921,
+      "delta": 3154,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -688,8 +688,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.44795 ETH | 1 SALES | LAST SALE 6h AGO",
-    "CARD #561: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | CONTRIBUTE NOW",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.437 ETH | 1 SALES | LAST SALE 11h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #561: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | CONTRIBUTE NOW"
   ]
 }
