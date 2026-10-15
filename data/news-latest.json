@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T22:29:42.527508+00:00",
+  "generated_at": "2026-10-15T00:47:04.533140+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Contribute Now\" by Cuttle \u2014 79.9M TDH from 63 voters. Top supporter: gpebbles (18.7M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Contribute Now\" by Cuttle \u2014 79.9M TDH from 63 voters. Top supporter: gpebbles (18.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "senemsad Leads with 83.5M Projected TDH",
-      "summary": "\"Reef Node 6529\" by senemsad (83.5M projected TDH, 172 voters) | \"Quit\" by bookofbee (60.8M projected TDH, 32 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (33.7M projected TDH, 79 voters) Next selection: Fri Oct 16 at 17:00 CET.",
+      "summary": "\"Reef Node 6529\" by senemsad (83.5M projected TDH, 172 voters) | \"Quit\" by bookofbee (70.9M projected TDH, 33 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (33.7M projected TDH, 79 voters) Next selection: Fri Oct 16 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,8 +47,8 @@
         },
         {
           "label": "bookofbee",
-          "value": "60.8M",
-          "sub": "proj. (32 votes)"
+          "value": "70.9M",
+          "sub": "proj. (33 votes)"
         },
         {
           "label": "Jedi69",
@@ -77,31 +77,31 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "36 Sales Today - 1.19 ETH Volume",
-      "summary": "36 sales in 24h for 1.19 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.320 ETH.",
+      "headline": "37 Sales Today - 1.54 ETH Volume",
+      "summary": "37 sales in 24h for 1.54 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.359 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-        "label": "The Tree of Knowledge of Good and Evil - 0.320 ETH",
+        "label": "The Tree of Knowledge of Good and Evil - 0.359 ETH",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.320 ETH",
+          "label": "The Tree of Knowledge of Good and Evil - 0.359 ETH",
           "type": "image"
         },
         {
@@ -118,22 +118,68 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "36",
+          "value": "37",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.19",
+          "value": "1.54",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.320",
+          "value": "0.359",
           "sub": "The Tree of Knowledg"
         },
         {
           "label": "Floor",
-          "value": "0.0123197",
+          "value": "0.0123147",
+          "sub": "ETH"
+        }
+      ]
+    },
+    {
+      "category": "PEBBLES",
+      "headline": "Pebbles: 1 Sales - 0.299 ETH",
+      "summary": "1 Pebbles sold in the last 24h for a total of 0.299 ETH. Current floor: 0.44795 ETH.",
+      "source": "OpenSea",
+      "link": "https://opensea.io/collection/pebbles-by-zeblocks",
+      "image": {
+        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/da59779fba94e39a628604e906ccde/23da59779fba94e39a628604e906ccde.png",
+        "label": "Pebbles #434 - 0.299 ETH",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/da59779fba94e39a628604e906ccde/23da59779fba94e39a628604e906ccde.png",
+          "label": "Pebbles #434 - 0.299 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/6758b2ee914ff31e147ab64156d1f9/e86758b2ee914ff31e147ab64156d1f9.png",
+          "label": "Pebbles #973 - 0.299 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/49fab0b43f56b921e093a096719ba6/a049fab0b43f56b921e093a096719ba6.png",
+          "label": "Pebbles #664 - 0.299 ETH",
+          "type": "image"
+        }
+      ],
+      "dataBoxes": [
+        {
+          "label": "Sales 24h",
+          "value": "1",
+          "sub": ""
+        },
+        {
+          "label": "Volume",
+          "value": "0.299",
+          "sub": "ETH"
+        },
+        {
+          "label": "Floor",
+          "value": "0.44795",
           "sub": "ETH"
         }
       ]
@@ -142,39 +188,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.19 ETH",
-      "raw": 1.1857,
-      "delta": 0.7714,
-      "delta_fmt": "+186.2%"
+      "value": "1.54 ETH",
+      "raw": 1.5449,
+      "delta": 0.5267999999999999,
+      "delta_fmt": "+51.7%"
     },
     {
       "label": "7d Vol",
-      "value": "4.07 ETH",
-      "raw": 4.0739
+      "value": "4.80 ETH",
+      "raw": 4.7974
     },
     {
       "label": "30d Vol",
-      "value": "35.33 ETH",
-      "raw": 35.3324
+      "value": "35.69 ETH",
+      "raw": 35.6892
     },
     {
       "label": "Full Set Bid",
       "value": "26.6 ETH",
-      "raw": 26.62,
-      "delta": -0.03999999999999915,
+      "raw": 26.58,
+      "delta": -0.0400000000000027,
       "delta_fmt": "-0.04 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2058.3M",
-      "raw": 2058308542
+      "value": "2061.1M",
+      "raw": 2061075666,
+      "delta": 2767124,
+      "delta_fmt": "+2.8M TDH"
     },
     {
       "label": "#1 senemsad",
       "value": "83.5M TDH",
-      "raw": 83470977,
-      "delta": 5053284,
-      "delta_fmt": "+5.1M TDH"
+      "raw": 83529588,
+      "delta": 58611,
+      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 simonemonte",
@@ -642,7 +690,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #561: 118 MINTS (EXCL. MUSEUM) | 79 HOLDERS | CONTRIBUTE NOW",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.44795 ETH | 1 SALES | LAST SALE 1h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #561: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | CONTRIBUTE NOW"
   ]
 }
