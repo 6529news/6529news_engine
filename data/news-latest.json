@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T22:19:50.378655+00:00",
+  "generated_at": "2026-10-16T00:34:19.348740+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING FRIDAY",
-      "headline": "Minting Friday",
-      "summary": " \"Play the Long Game\" by simonemonte \u2014 76.1M TDH from 93 voters. Top supporter: Giopetto (10.0M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"Play the Long Game\" by simonemonte \u2014 76.1M TDH from 93 voters. Top supporter: Giopetto (10.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "senemsad Leads with 88.7M Projected TDH",
-      "summary": "\"Reef Node 6529\" by senemsad (88.7M projected TDH, 181 voters) | \"Quit\" by bookofbee (79.4M projected TDH, 38 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (30.8M projected TDH, 79 voters) Next selection: Fri Oct 16 at 17:00 CET.",
+      "summary": "\"Reef Node 6529\" by senemsad (88.7M projected TDH, 181 voters) | \"Quit\" by bookofbee (79.6M projected TDH, 39 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (30.8M projected TDH, 79 voters) Next selection: Fri Oct 16 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,8 +34,8 @@
         },
         {
           "label": "bookofbee",
-          "value": "79.4M",
-          "sub": "proj. (38 votes)"
+          "value": "79.6M",
+          "sub": "proj. (39 votes)"
         },
         {
           "label": "Jedi69",
@@ -58,26 +58,26 @@
         {
           "label": "punk6529",
           "value": "Lv100",
-          "sub": "85.7M TDH"
+          "sub": "85.8M TDH"
         }
       ]
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "72 Sales Today - 3.01 ETH Volume",
-      "summary": "72 sales in 24h for 3.01 ETH. Highest: \"Pepe X\" at 0.100 ETH.",
+      "headline": "73 Sales Today - 2.43 ETH Volume",
+      "summary": "73 sales in 24h for 2.43 ETH. Highest: \"Pepe X\" at 0.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -105,12 +105,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "72",
+          "value": "73",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.01",
+          "value": "2.43",
           "sub": "ETH"
         },
         {
@@ -124,90 +124,46 @@
           "sub": "ETH"
         }
       ]
-    },
-    {
-      "category": "PEBBLES",
-      "headline": "Pebbles: 1 Sales - 0.299 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.299 ETH. Current floor: 0.427 ETH.",
-      "source": "OpenSea",
-      "link": "https://opensea.io/collection/pebbles-by-zeblocks",
-      "image": {
-        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/da59779fba94e39a628604e906ccde/23da59779fba94e39a628604e906ccde.png",
-        "label": "Pebbles #434 - 0.299 ETH",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/da59779fba94e39a628604e906ccde/23da59779fba94e39a628604e906ccde.png",
-          "label": "Pebbles #434 - 0.299 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/6758b2ee914ff31e147ab64156d1f9/e86758b2ee914ff31e147ab64156d1f9.png",
-          "label": "Pebbles #973 - 0.299 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/49fab0b43f56b921e093a096719ba6/a049fab0b43f56b921e093a096719ba6.png",
-          "label": "Pebbles #664 - 0.299 ETH",
-          "type": "image"
-        }
-      ],
-      "dataBoxes": [
-        {
-          "label": "Sales 24h",
-          "value": "1",
-          "sub": ""
-        },
-        {
-          "label": "Volume",
-          "value": "0.299",
-          "sub": "ETH"
-        },
-        {
-          "label": "Floor",
-          "value": "0.427",
-          "sub": "ETH"
-        }
-      ]
     }
   ],
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.01 ETH",
-      "raw": 3.0062,
-      "delta": 1.8205000000000002,
-      "delta_fmt": "+153.5%"
+      "value": "2.43 ETH",
+      "raw": 2.4312,
+      "delta": 0.8863000000000001,
+      "delta_fmt": "+57.4%"
     },
     {
       "label": "7d Vol",
-      "value": "6.78 ETH",
-      "raw": 6.784
+      "value": "6.86 ETH",
+      "raw": 6.8628
     },
     {
       "label": "30d Vol",
-      "value": "37.99 ETH",
-      "raw": 37.9903
+      "value": "37.64 ETH",
+      "raw": 37.6409
     },
     {
       "label": "Full Set Bid",
-      "value": "28.2 ETH",
-      "raw": 28.21,
-      "delta": 1.5500000000000007,
-      "delta_fmt": "+1.55 ETH"
+      "value": "28.3 ETH",
+      "raw": 28.28,
+      "delta": 0.07000000000000028,
+      "delta_fmt": "+0.07 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2061.1M",
-      "raw": 2061075666
+      "value": "2064.0M",
+      "raw": 2063994369,
+      "delta": 2918703,
+      "delta_fmt": "+2.9M TDH"
     },
     {
       "label": "#1 senemsad",
       "value": "88.7M TDH",
-      "raw": 88682168,
-      "delta": 1127,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 88675099,
+      "delta": -7069,
+      "delta_fmt": "-0.0M TDH"
     },
     {
       "label": "#1 simonemonte",
@@ -675,8 +631,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.427 ETH | 1 SALES | LAST SALE 23h AGO",
-    "CARD #561: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | CONTRIBUTE NOW",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #561: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | CONTRIBUTE NOW"
   ]
 }
