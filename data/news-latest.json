@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:34:19.348740+00:00",
+  "generated_at": "2026-10-16T05:01:41.571448+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "senemsad Leads with 88.7M Projected TDH",
-      "summary": "\"Reef Node 6529\" by senemsad (88.7M projected TDH, 181 voters) | \"Quit\" by bookofbee (79.6M projected TDH, 39 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (30.8M projected TDH, 79 voters) Next selection: Fri Oct 16 at 17:00 CET.",
+      "headline": "senemsad Leads with 89.6M Projected TDH",
+      "summary": "\"Reef Node 6529\" by senemsad (89.6M projected TDH, 182 voters) | \"Quit\" by bookofbee (79.6M projected TDH, 39 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (30.8M projected TDH, 79 voters) Next selection: Fri Oct 16 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "senemsad",
-          "value": "88.7M",
-          "sub": "proj. (181 votes)"
+          "value": "89.6M",
+          "sub": "proj. (182 votes)"
         },
         {
           "label": "bookofbee",
@@ -76,8 +76,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "73 Sales Today - 2.43 ETH Volume",
-      "summary": "73 sales in 24h for 2.43 ETH. Highest: \"Pepe X\" at 0.100 ETH.",
+      "headline": "72 Sales Today - 2.46 ETH Volume",
+      "summary": "72 sales in 24h for 2.46 ETH. Highest: \"Pepe X\" at 0.100 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -105,12 +105,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "73",
+          "value": "72",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.43",
+          "value": "2.46",
           "sub": "ETH"
         },
         {
@@ -129,41 +129,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.43 ETH",
-      "raw": 2.4312,
-      "delta": 0.8863000000000001,
-      "delta_fmt": "+57.4%"
+      "value": "2.46 ETH",
+      "raw": 2.4626,
+      "delta": 0.9516000000000002,
+      "delta_fmt": "+63.0%"
     },
     {
       "label": "7d Vol",
-      "value": "6.86 ETH",
-      "raw": 6.8628
+      "value": "6.93 ETH",
+      "raw": 6.928
     },
     {
       "label": "30d Vol",
-      "value": "37.64 ETH",
-      "raw": 37.6409
+      "value": "37.71 ETH",
+      "raw": 37.7061
     },
     {
       "label": "Full Set Bid",
       "value": "28.3 ETH",
-      "raw": 28.28,
-      "delta": 0.07000000000000028,
-      "delta_fmt": "+0.07 ETH"
+      "raw": 28.33,
+      "delta": 0.04999999999999716,
+      "delta_fmt": "+0.05 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2064.0M",
-      "raw": 2063994369,
-      "delta": 2918703,
-      "delta_fmt": "+2.9M TDH"
+      "raw": 2063994369
     },
     {
       "label": "#1 senemsad",
-      "value": "88.7M TDH",
-      "raw": 88675099,
-      "delta": -7069,
-      "delta_fmt": "-0.0M TDH"
+      "value": "89.6M TDH",
+      "raw": 89587970,
+      "delta": 912871,
+      "delta_fmt": "+0.9M TDH"
     },
     {
       "label": "#1 simonemonte",
@@ -631,7 +629,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #561: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | CONTRIBUTE NOW",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #561: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | CONTRIBUTE NOW"
   ]
 }
