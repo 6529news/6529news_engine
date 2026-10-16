@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T21:30:38.260097+00:00",
+  "generated_at": "2026-10-16T23:53:14.427108+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Play the Long Game\" by simonemonte \u2014 76.1M TDH from 93 voters. Top supporter: Giopetto (10.0M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Play the Long Game\" by simonemonte \u2014 76.1M TDH from 93 voters. Top supporter: Giopetto (10.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "bookofbee Leads with 61.2M Projected TDH",
-      "summary": "\"Quit\" by bookofbee (61.2M projected TDH, 43 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (31.4M projected TDH, 79 voters) | \"Choosing Light\" by amanrasouli (17.0M projected TDH, 70 voters) Next selection: Mon Oct 19 at 17:00 CET.",
+      "summary": "\"Quit\" by bookofbee (61.2M projected TDH, 43 voters) | \"Freedom To Transcend\" by Kubti (46.3M projected TDH, 49 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (31.7M projected TDH, 79 voters) Next selection: Mon Oct 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -46,72 +46,72 @@
           "sub": "proj. (43 votes)"
         },
         {
-          "label": "Jedi69",
-          "value": "31.4M",
-          "sub": "proj. (79 votes)"
+          "label": "Kubti",
+          "value": "46.3M",
+          "sub": "proj. (49 votes)"
         },
         {
-          "label": "amanrasouli",
-          "value": "17.0M",
-          "sub": "proj. (70 votes)"
+          "label": "Jedi69",
+          "value": "31.7M",
+          "sub": "proj. (79 votes)"
         }
       ]
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "47 Sales Today - 1.43 ETH Volume",
-      "summary": "47 sales in 24h for 1.43 ETH. Highest: \"Don't Trust, Check.\" at 0.099 ETH.",
+      "headline": "48 Sales Today - 1.39 ETH Volume",
+      "summary": "48 sales in 24h for 1.39 ETH. Highest: \"A Brief Animated History of NFTs\" at 0.075 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/103.WEBP",
-        "label": "Don't Trust, Check. - 0.099 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/278.GIF",
+        "label": "A Brief Animated History of NFTs - 0.075 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/103.WEBP",
-          "label": "Don't Trust, Check. - 0.099 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/278.GIF",
           "label": "A Brief Animated History of NFTs - 0.075 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/315.GIF",
-          "label": "Vault Core - 0.069 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/86.WEBP",
+          "label": "Possession Game - 0.069 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/438.GIF",
+          "label": "Weight of Value - 0.050 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "47",
+          "value": "48",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.43",
+          "value": "1.39",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.099",
-          "sub": "Don't Trust, Check."
+          "value": "0.075",
+          "sub": "A Brief Animated His"
         },
         {
           "label": "Floor",
@@ -124,27 +124,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.43 ETH",
-      "raw": 1.4336,
-      "delta": -1.5726000000000002,
-      "delta_fmt": "-52.3%"
+      "value": "1.39 ETH",
+      "raw": 1.3879,
+      "delta": -1.0433000000000001,
+      "delta_fmt": "-42.9%"
     },
     {
       "label": "7d Vol",
-      "value": "7.54 ETH",
-      "raw": 7.5373
+      "value": "7.94 ETH",
+      "raw": 7.9386
     },
     {
       "label": "30d Vol",
-      "value": "38.63 ETH",
-      "raw": 38.6275
+      "value": "39.03 ETH",
+      "raw": 39.0288
     },
     {
       "label": "Full Set Bid",
-      "value": "28.9 ETH",
-      "raw": 28.92,
-      "delta": 0.030000000000001137,
-      "delta_fmt": "+0.03 ETH"
+      "value": "29.0 ETH",
+      "raw": 28.96,
+      "delta": 0.03999999999999915,
+      "delta_fmt": "+0.04 ETH"
     },
     {
       "label": "Network TDH",
@@ -154,9 +154,7 @@
     {
       "label": "#1 bookofbee",
       "value": "61.2M TDH",
-      "raw": 61223223,
-      "delta": 1966134,
-      "delta_fmt": "+2.0M TDH"
+      "raw": 61223223
     },
     {
       "label": "#1 senemsad",
@@ -631,7 +629,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #562: 115 MINTS (EXCL. MUSEUM) | 75 HOLDERS | PLAY THE LONG GAME",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #562: 117 MINTS (EXCL. MUSEUM) | 77 HOLDERS | PLAY THE LONG GAME"
   ]
 }
