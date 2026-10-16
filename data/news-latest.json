@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:22:18.160490+00:00",
+  "generated_at": "2026-10-16T19:29:06.224085+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "bookofbee Leads with 70.1M Projected TDH",
-      "summary": "\"Quit\" by bookofbee (70.1M projected TDH, 42 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (30.9M projected TDH, 79 voters) | \"Choosing Light\" by amanrasouli (15.0M projected TDH, 69 voters) Next selection: Mon Oct 19 at 17:00 CET.",
+      "headline": "bookofbee Leads with 59.3M Projected TDH",
+      "summary": "\"Quit\" by bookofbee (59.3M projected TDH, 43 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (30.9M projected TDH, 79 voters) | \"Choosing Light\" by amanrasouli (15.1M projected TDH, 70 voters) Next selection: Mon Oct 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "bookofbee",
-          "value": "70.1M",
-          "sub": "proj. (42 votes)"
+          "value": "59.3M",
+          "sub": "proj. (43 votes)"
         },
         {
           "label": "Jedi69",
@@ -52,8 +52,8 @@
         },
         {
           "label": "amanrasouli",
-          "value": "15.0M",
-          "sub": "proj. (69 votes)"
+          "value": "15.1M",
+          "sub": "proj. (70 votes)"
         }
       ]
     },
@@ -64,15 +64,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "72 Sales Today - 2.33 ETH Volume",
-      "summary": "72 sales in 24h for 2.33 ETH. Highest: \"Don't Trust, Check.\" at 0.099 ETH.",
+      "headline": "49 Sales Today - 1.49 ETH Volume",
+      "summary": "49 sales in 24h for 1.49 ETH. Highest: \"Don't Trust, Check.\" at 0.099 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -100,12 +100,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "72",
+          "value": "49",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.33",
+          "value": "1.49",
           "sub": "ETH"
         },
         {
@@ -124,27 +124,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.33 ETH",
-      "raw": 2.3319,
-      "delta": -0.1259999999999999,
-      "delta_fmt": "-5.1%"
+      "value": "1.49 ETH",
+      "raw": 1.4871,
+      "delta": -0.9707999999999999,
+      "delta_fmt": "-39.5%"
     },
     {
       "label": "7d Vol",
-      "value": "7.34 ETH",
-      "raw": 7.3406
+      "value": "7.38 ETH",
+      "raw": 7.3786
     },
     {
       "label": "30d Vol",
-      "value": "38.43 ETH",
-      "raw": 38.4308
+      "value": "38.47 ETH",
+      "raw": 38.4688
     },
     {
       "label": "Full Set Bid",
-      "value": "28.7 ETH",
-      "raw": 28.74,
-      "delta": -0.010000000000001563,
-      "delta_fmt": "-0.01 ETH"
+      "value": "28.9 ETH",
+      "raw": 28.89,
+      "delta": 0.15000000000000213,
+      "delta_fmt": "+0.15 ETH"
     },
     {
       "label": "Network TDH",
@@ -153,10 +153,10 @@
     },
     {
       "label": "#1 bookofbee",
-      "value": "70.1M TDH",
-      "raw": 70125489,
-      "delta": 16441654,
-      "delta_fmt": "+16.4M TDH"
+      "value": "59.3M TDH",
+      "raw": 59257089,
+      "delta": -10868400,
+      "delta_fmt": "-10.9M TDH"
     },
     {
       "label": "#1 senemsad",
