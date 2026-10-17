@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T07:47:40.880209+00:00",
+  "generated_at": "2026-10-17T11:59:26.913527+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "bookofbee Leads with 57.0M Projected TDH",
-      "summary": "\"Quit\" by bookofbee (57.0M projected TDH, 44 voters) | \"Freedom To Transcend\" by Kubti (49.6M projected TDH, 57 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.4M projected TDH, 79 voters) Next selection: Mon Oct 19 at 17:00 CET.",
+      "summary": "\"Quit\" by bookofbee (57.0M projected TDH, 45 voters) | \"Freedom To Transcend\" by Kubti (49.7M projected TDH, 59 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.4M projected TDH, 79 voters) Next selection: Mon Oct 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,12 +43,12 @@
         {
           "label": "bookofbee",
           "value": "57.0M",
-          "sub": "proj. (44 votes)"
+          "sub": "proj. (45 votes)"
         },
         {
           "label": "Kubti",
-          "value": "49.6M",
-          "sub": "proj. (57 votes)"
+          "value": "49.7M",
+          "sub": "proj. (59 votes)"
         },
         {
           "label": "Jedi69",
@@ -58,21 +58,31 @@
       ]
     },
     {
+      "category": "NEW MEMES SUBMISSIONS",
+      "headline": "1 New Memes Submission This Week",
+      "summary": "1 submissions this week. Ranking: arsonic (1.9M).",
+      "source": "Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": null,
+      "images": [],
+      "dataBoxes": null
+    },
+    {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "84 Sales Today - 2.71 ETH Volume",
-      "summary": "84 sales in 24h for 2.71 ETH. Highest: \"Cogito, ergo sum\" at 0.057 ETH.",
+      "headline": "82 Sales Today - 2.65 ETH Volume",
+      "summary": "82 sales in 24h for 2.65 ETH. Highest: \"Cogito, ergo sum\" at 0.057 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -100,12 +110,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "84",
+          "value": "82",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.71",
+          "value": "2.65",
           "sub": "ETH"
         },
         {
@@ -124,27 +134,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.71 ETH",
-      "raw": 2.7088,
-      "delta": 0.0495000000000001,
-      "delta_fmt": "+1.9%"
+      "value": "2.65 ETH",
+      "raw": 2.6513,
+      "delta": -0.008000000000000007,
+      "delta_fmt": "-0.3%"
     },
     {
       "label": "7d Vol",
-      "value": "9.26 ETH",
-      "raw": 9.2647
+      "value": "9.30 ETH",
+      "raw": 9.2963
     },
     {
       "label": "30d Vol",
-      "value": "39.59 ETH",
-      "raw": 39.5892
+      "value": "39.61 ETH",
+      "raw": 39.6125
     },
     {
       "label": "Full Set Bid",
-      "value": "28.9 ETH",
-      "raw": 28.95,
-      "delta": -0.05000000000000071,
-      "delta_fmt": "-0.05 ETH"
+      "value": "29.2 ETH",
+      "raw": 29.23,
+      "delta": 0.28000000000000114,
+      "delta_fmt": "+0.28 ETH"
     },
     {
       "label": "Network TDH",
@@ -154,9 +164,9 @@
     {
       "label": "#1 bookofbee",
       "value": "57.0M TDH",
-      "raw": 57009480,
-      "delta": -4213743,
-      "delta_fmt": "-4.2M TDH"
+      "raw": 57009514,
+      "delta": 34,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 senemsad",
@@ -631,7 +641,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #562: 118 MINTS (EXCL. MUSEUM) | 78 HOLDERS | PLAY THE LONG GAME",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #562: 119 MINTS (EXCL. MUSEUM) | 79 HOLDERS | PLAY THE LONG GAME"
   ]
 }
