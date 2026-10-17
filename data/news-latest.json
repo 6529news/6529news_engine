@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T17:54:20.053931+00:00",
+  "generated_at": "2026-10-17T20:11:12.570053+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "bookofbee Leads with 57.6M Projected TDH",
-      "summary": "\"Quit\" by bookofbee (57.6M projected TDH, 47 voters) | \"Freedom To Transcend\" by Kubti (42.8M projected TDH, 64 voters) | \"Choosing Light\" by amanrasouli (36.2M projected TDH, 77 voters) Next selection: Mon Oct 19 at 17:00 CET.",
+      "headline": "bookofbee Leads with 55.8M Projected TDH",
+      "summary": "\"Quit\" by bookofbee (55.8M projected TDH, 47 voters) | \"Freedom To Transcend\" by Kubti (42.8M projected TDH, 65 voters) | \"Choosing Light\" by amanrasouli (36.2M projected TDH, 77 voters) Next selection: Mon Oct 19 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "bookofbee",
-          "value": "57.6M",
+          "value": "55.8M",
           "sub": "proj. (47 votes)"
         },
         {
           "label": "Kubti",
           "value": "42.8M",
-          "sub": "proj. (64 votes)"
+          "sub": "proj. (65 votes)"
         },
         {
           "label": "amanrasouli",
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "1 New Memes Submission This Week",
-      "summary": "1 submissions this week. Ranking: arsonic (4.8M).",
+      "summary": "1 submissions this week. Ranking: arsonic (8.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,28 +56,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "66 Sales Today - 2.32 ETH Volume",
-      "summary": "66 sales in 24h for 2.32 ETH. Highest: \"Cogito, ergo sum\" at 0.057 ETH.",
+      "headline": "67 Sales Today - 2.41 ETH Volume",
+      "summary": "67 sales in 24h for 2.41 ETH. Highest: \"Play the Long Game\" at 0.075 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/475.WEBP",
-        "label": "Cogito, ergo sum - 0.057 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/562.WEBP",
+        "label": "Play the Long Game - 0.075 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/562.WEBP",
+          "label": "Play the Long Game - 0.075 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/475.WEBP",
           "label": "Cogito, ergo sum - 0.057 ETH",
@@ -87,28 +92,23 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
           "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.050 ETH",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/380.GIF",
-          "label": "Materialist - 0.045 ETH",
-          "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "66",
+          "value": "67",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.32",
+          "value": "2.41",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.057",
-          "sub": "Cogito, ergo sum"
+          "value": "0.075",
+          "sub": "Play the Long Game"
         },
         {
           "label": "Floor",
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.32 ETH",
-      "raw": 2.3159,
-      "delta": -0.016000000000000014,
-      "delta_fmt": "-0.7%"
+      "value": "2.41 ETH",
+      "raw": 2.4054,
+      "delta": 0.9183000000000001,
+      "delta_fmt": "+61.8%"
     },
     {
       "label": "7d Vol",
-      "value": "9.37 ETH",
-      "raw": 9.3736
+      "value": "9.41 ETH",
+      "raw": 9.4127
     },
     {
       "label": "30d Vol",
-      "value": "39.76 ETH",
-      "raw": 39.7588
+      "value": "40.04 ETH",
+      "raw": 40.045
     },
     {
       "label": "Full Set Bid",
-      "value": "30.4 ETH",
-      "raw": 30.42,
-      "delta": 0.18000000000000327,
-      "delta_fmt": "+0.18 ETH"
+      "value": "30.5 ETH",
+      "raw": 30.54,
+      "delta": 0.11999999999999744,
+      "delta_fmt": "+0.12 ETH"
     },
     {
       "label": "Network TDH",
@@ -150,10 +150,10 @@
     },
     {
       "label": "#1 bookofbee",
-      "value": "57.6M TDH",
-      "raw": 57568238,
-      "delta": 558723,
-      "delta_fmt": "+0.6M TDH"
+      "value": "55.8M TDH",
+      "raw": 55781360,
+      "delta": -1786878,
+      "delta_fmt": "-1.8M TDH"
     },
     {
       "label": "#1 senemsad",
@@ -628,7 +628,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #562: 119 MINTS (EXCL. MUSEUM) | 79 HOLDERS | PLAY THE LONG GAME",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #562: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | PLAY THE LONG GAME"
   ]
 }
