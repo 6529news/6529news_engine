@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:30:00.398113+00:00",
+  "generated_at": "2026-10-19T01:35:25.301146+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -68,8 +68,8 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "119 Sales Today - 16.72 ETH Volume",
-      "summary": "119 sales in 24h for 16.72 ETH. Highest: \"NakamotoFreedom\" at 7.160 ETH.",
+      "headline": "120 Sales Today - 16.74 ETH Volume",
+      "summary": "120 sales in 24h for 16.74 ETH. Highest: \"NakamotoFreedom\" at 7.160 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "119",
+          "value": "120",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "16.72",
+          "value": "16.74",
           "sub": "ETH"
         },
         {
@@ -167,39 +167,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "16.72 ETH",
-      "raw": 16.7181,
-      "delta": 13.680299999999999,
-      "delta_fmt": "+450.3%"
+      "value": "16.74 ETH",
+      "raw": 16.7422,
+      "delta": 13.7044,
+      "delta_fmt": "+451.1%"
     },
     {
       "label": "7d Vol",
-      "value": "26.52 ETH",
-      "raw": 26.5223
+      "value": "26.53 ETH",
+      "raw": 26.5313
     },
     {
       "label": "30d Vol",
-      "value": "52.20 ETH",
-      "raw": 52.1979
+      "value": "50.47 ETH",
+      "raw": 50.4702
     },
     {
       "label": "Full Set Bid",
-      "value": "27.0 ETH",
-      "raw": 26.99,
-      "delta": 0.09999999999999787,
-      "delta_fmt": "+0.10 ETH"
+      "value": "27.4 ETH",
+      "raw": 27.44,
+      "delta": 0.45000000000000284,
+      "delta_fmt": "+0.45 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2070.0M",
-      "raw": 2070017013
+      "value": "2065.3M",
+      "raw": 2065348505,
+      "delta": -4668508,
+      "delta_fmt": "-4.7M TDH"
     },
     {
       "label": "#1 bookofbee",
       "value": "56.0M TDH",
-      "raw": 55985179,
-      "delta": 8791,
-      "delta_fmt": "+0.0M TDH"
+      "raw": 55985179
     },
     {
       "label": "#1 senemsad",
@@ -675,8 +675,8 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "EXIT STRATEGY SALE: 2.400 ETH",
-    "PEBBLES: FLOOR 0.428 ETH | 1 SALES | LAST SALE 4h AGO",
-    "CARD #562: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | PLAY THE LONG GAME",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.428 ETH | 1 SALES | LAST SALE 6h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #562: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | PLAY THE LONG GAME"
   ]
 }
