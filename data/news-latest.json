@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-10-22T11:13:34.952393+00:00",
+  "generated_at": "2026-10-22T15:54:07.809715+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Quit\" by bookofbee \u2014 55.8M TDH from 56 voters. Top supporter: Giopetto (10.0M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/564.GIF",
-        "label": "Quit - bookofbee",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING FRIDAY",
       "headline": "Minting Friday",
@@ -31,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "amanrasouli Leads with 51.1M Projected TDH",
-      "summary": "\"Choosing Light\" by amanrasouli (51.1M projected TDH, 118 voters) | \"TRUST ME BRO\" by ChrisGranneberg (45.3M projected TDH, 53 voters) | \"An Important Validation\" by arsonic (43.2M projected TDH, 75 voters) Next selection: Fri Oct 23 at 17:00 CET.",
+      "summary": "\"Choosing Light\" by amanrasouli (51.1M projected TDH, 119 voters) | \"TRUST ME BRO\" by ChrisGranneberg (45.3M projected TDH, 54 voters) | \"An Important Validation\" by arsonic (42.9M projected TDH, 75 voters) Next selection: Fri Oct 23 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,54 +30,36 @@
         {
           "label": "amanrasouli",
           "value": "51.1M",
-          "sub": "proj. (118 votes)"
+          "sub": "proj. (119 votes)"
         },
         {
           "label": "ChrisGranneberg",
           "value": "45.3M",
-          "sub": "proj. (53 votes)"
+          "sub": "proj. (54 votes)"
         },
         {
           "label": "arsonic",
-          "value": "43.2M",
+          "value": "42.9M",
           "sub": "proj. (75 votes)"
         }
       ]
     },
     {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by prxt0",
-      "summary": "prxt0: **Collaborator invitations for The Memes Main Stage!**\n\n\nInvite up to **5 collaborating artists** when submitting your work\u2014or add them to an **existing active submission**.\n\n\nA...",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmZaMCArGRxkB9rVWMQ9GSHguS1Dq2DgiMpDctnZehbeY6",
-        "label": "prxt0"
-      },
-      "dataBoxes": [
-        {
-          "label": "prxt0",
-          "value": "Lv82",
-          "sub": "7.3M TDH"
-        }
-      ]
-    },
-    {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "36 Sales Today - 2.09 ETH Volume",
-      "summary": "36 sales in 24h for 2.09 ETH. Highest: \"I AM BECOME MEME\" at 0.169 ETH.",
+      "headline": "21 Sales Today - 1.51 ETH Volume",
+      "summary": "21 sales in 24h for 1.51 ETH. Highest: \"I AM BECOME MEME\" at 0.169 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -118,12 +87,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "36",
+          "value": "21",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.09",
+          "value": "1.51",
           "sub": "ETH"
         },
         {
@@ -133,7 +102,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.014114985999999",
+          "value": "0.014114975999999",
           "sub": "ETH"
         }
       ]
@@ -142,41 +111,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.09 ETH",
-      "raw": 2.0888,
-      "delta": 1.1215,
-      "delta_fmt": "+115.9%"
+      "value": "1.51 ETH",
+      "raw": 1.5131,
+      "delta": 0.4574999999999998,
+      "delta_fmt": "+43.3%"
     },
     {
       "label": "7d Vol",
-      "value": "27.44 ETH",
-      "raw": 27.4435
+      "value": "27.04 ETH",
+      "raw": 27.0369
     },
     {
       "label": "30d Vol",
-      "value": "50.17 ETH",
-      "raw": 50.1702
+      "value": "49.83 ETH",
+      "raw": 49.8292
     },
     {
       "label": "Full Set Bid",
-      "value": "27.1 ETH",
-      "raw": 27.13,
-      "delta": -1.3200000000000003,
-      "delta_fmt": "-1.32 ETH"
+      "value": "28.5 ETH",
+      "raw": 28.46,
+      "delta": 1.3300000000000018,
+      "delta_fmt": "+1.33 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2074.6M",
-      "raw": 2074590710,
-      "delta": 6086857,
-      "delta_fmt": "+6.1M TDH"
+      "raw": 2074590710
     },
     {
       "label": "#1 amanrasouli",
       "value": "51.1M TDH",
-      "raw": 51121833,
-      "delta": 58615,
-      "delta_fmt": "+0.1M TDH"
+      "raw": 51143026,
+      "delta": 21193,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 arsonic",
@@ -672,7 +639,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #564: 127 MINTS (EXCL. MUSEUM) | 86 HOLDERS | QUIT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #564: 128 MINTS (EXCL. MUSEUM) | 87 HOLDERS | QUIT"
   ]
 }
