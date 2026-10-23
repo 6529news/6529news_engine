@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:23:09.756551+00:00",
+  "generated_at": "2026-10-23T06:17:56.466618+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "amanrasouli Leads with 51.2M Projected TDH",
-      "summary": "\"Choosing Light\" by amanrasouli (51.2M projected TDH, 120 voters) | \"TRUST ME BRO\" by ChrisGranneberg (46.2M projected TDH, 57 voters) | \"An Important Validation\" by arsonic (42.9M projected TDH, 77 voters) Next selection: Fri Oct 23 at 17:00 CET.",
+      "summary": "\"Choosing Light\" by amanrasouli (51.2M projected TDH, 122 voters) | \"TRUST ME BRO\" by ChrisGranneberg (46.2M projected TDH, 57 voters) | \"An Important Validation\" by arsonic (42.9M projected TDH, 78 voters) Next selection: Fri Oct 23 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "amanrasouli",
           "value": "51.2M",
-          "sub": "proj. (120 votes)"
+          "sub": "proj. (122 votes)"
         },
         {
           "label": "ChrisGranneberg",
@@ -40,26 +40,26 @@
         {
           "label": "arsonic",
           "value": "42.9M",
-          "sub": "proj. (77 votes)"
+          "sub": "proj. (78 votes)"
         }
       ]
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "11 Sales Today - 0.58 ETH Volume",
-      "summary": "11 sales in 24h for 0.58 ETH. Highest: \"BlueGM\" at 0.094 ETH.",
+      "headline": "21 Sales Today - 0.67 ETH Volume",
+      "summary": "21 sales in 24h for 0.67 ETH. Highest: \"BlueGM\" at 0.094 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -74,25 +74,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/552.WEBP",
-          "label": "The First Believer - 0.088 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/557.WEBP",
+          "label": "Seize Your Community - 0.069 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/557.WEBP",
-          "label": "Seize Your Community - 0.069 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/560.WEBP",
+          "label": "UNFALLEN: BEYOND | Cinematic Concept Teaser - 0.069 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "11",
+          "value": "21",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.58",
+          "value": "0.67",
           "sub": "ETH"
         },
         {
@@ -111,40 +111,38 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.58 ETH",
-      "raw": 0.5841,
-      "delta": -2.0804,
-      "delta_fmt": "-78.1%"
+      "value": "0.67 ETH",
+      "raw": 0.6702,
+      "delta": -1.1796000000000002,
+      "delta_fmt": "-63.8%"
     },
     {
       "label": "7d Vol",
-      "value": "24.83 ETH",
-      "raw": 24.8346
+      "value": "24.88 ETH",
+      "raw": 24.8847
     },
     {
       "label": "30d Vol",
-      "value": "48.92 ETH",
-      "raw": 48.9155
+      "value": "49.16 ETH",
+      "raw": 49.1586
     },
     {
       "label": "Full Set Bid",
-      "value": "30.1 ETH",
-      "raw": 30.09,
-      "delta": 0.6600000000000001,
-      "delta_fmt": "+0.66 ETH"
+      "value": "28.3 ETH",
+      "raw": 28.31,
+      "delta": -1.7800000000000011,
+      "delta_fmt": "-1.78 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2077.6M",
-      "raw": 2077594272,
-      "delta": 3003562,
-      "delta_fmt": "+3.0M TDH"
+      "raw": 2077594272
     },
     {
       "label": "#1 amanrasouli",
       "value": "51.2M TDH",
-      "raw": 51181267,
-      "delta": 26975,
+      "raw": 51200133,
+      "delta": 18866,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -641,7 +639,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #564: 128 MINTS (EXCL. MUSEUM) | 87 HOLDERS | QUIT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #564: 128 MINTS (EXCL. MUSEUM) | 87 HOLDERS | QUIT"
   ]
 }
