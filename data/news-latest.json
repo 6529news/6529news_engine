@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:53:38.685124+00:00",
+  "generated_at": "2026-10-23T20:05:36.009052+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "arsonic Leads with 53.6M Projected TDH",
-      "summary": "\"An Important Validation\" by arsonic (53.6M projected TDH, 85 voters) | \"TRUST ME BRO\" by ChrisGranneberg (52.5M projected TDH, 69 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.6M projected TDH, 80 voters) Next selection: Mon Oct 26 at 17:00 CET.",
+      "summary": "\"An Important Validation\" by arsonic (53.6M projected TDH, 85 voters) | \"TRUST ME BRO\" by ChrisGranneberg (53.3M projected TDH, 69 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.6M projected TDH, 80 voters) Next selection: Mon Oct 26 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,7 +47,7 @@
         },
         {
           "label": "ChrisGranneberg",
-          "value": "52.5M",
+          "value": "53.3M",
           "sub": "proj. (69 votes)"
         },
         {
@@ -79,13 +79,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 151K TDH",
+      "headline": "#4 Kostas_Photo \u2014 765K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (151K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b7ea9c6-2ca3-48a3-a5ee-79a7cc7ce359/b54609c2-b0de-42e5-9916-523036e874d4.JPG",
+        "label": "Kostas_Photo (765K)",
         "type": "image"
       }
     },
@@ -135,7 +135,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.014114953999999",
+          "value": "0.014114953899999",
           "sub": "ETH"
         }
       ]
@@ -161,10 +161,10 @@
     },
     {
       "label": "Full Set Bid",
-      "value": "29.7 ETH",
-      "raw": 29.72,
-      "delta": 1.5599999999999987,
-      "delta_fmt": "+1.56 ETH"
+      "value": "28.9 ETH",
+      "raw": 28.94,
+      "delta": -0.7799999999999976,
+      "delta_fmt": "-0.78 ETH"
     },
     {
       "label": "Network TDH",
@@ -174,9 +174,7 @@
     {
       "label": "#1 arsonic",
       "value": "53.6M TDH",
-      "raw": 53558632,
-      "delta": 6775007,
-      "delta_fmt": "+6.8M TDH"
+      "raw": 53558632
     },
     {
       "label": "#1 ChrisGranneberg",
