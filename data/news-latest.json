@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T23:08:41.093158+00:00",
+  "generated_at": "2026-10-24T01:34:55.401490+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#2 Articulate \u2014 2.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
+        "label": "Articulate (2.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "36 Sales Today - 1.66 ETH Volume",
-      "summary": "36 sales in 24h for 1.66 ETH. Highest: \"Sgt. Pepe\" at 0.585 ETH.",
+      "headline": "37 Sales Today - 1.75 ETH Volume",
+      "summary": "37 sales in 24h for 1.75 ETH. Highest: \"Sgt. Pepe\" at 0.585 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -112,20 +112,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/480.GIF",
-          "label": "6529 NEWS - 0.088 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/279.WEBP",
+          "label": "Brain - 0.090 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "36",
+          "value": "37",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.66",
+          "value": "1.75",
           "sub": "ETH"
         },
         {
@@ -144,39 +144,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.66 ETH",
-      "raw": 1.6572,
-      "delta": -0.0042999999999999705,
-      "delta_fmt": "-0.3%"
+      "value": "1.75 ETH",
+      "raw": 1.7474,
+      "delta": 1.1633,
+      "delta_fmt": "+199.2%"
     },
     {
       "label": "7d Vol",
-      "value": "25.22 ETH",
-      "raw": 25.2191
+      "value": "24.41 ETH",
+      "raw": 24.4096
     },
     {
       "label": "30d Vol",
-      "value": "50.57 ETH",
-      "raw": 50.5727
+      "value": "49.28 ETH",
+      "raw": 49.276
     },
     {
       "label": "Full Set Bid",
-      "value": "29.7 ETH",
-      "raw": 29.69,
-      "delta": 0.75,
-      "delta_fmt": "+0.75 ETH"
+      "value": "29.6 ETH",
+      "raw": 29.61,
+      "delta": -0.08000000000000185,
+      "delta_fmt": "-0.08 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2077.6M",
-      "raw": 2077594272
+      "value": "2080.5M",
+      "raw": 2080494623,
+      "delta": 2900351,
+      "delta_fmt": "+2.9M TDH"
     },
     {
       "label": "#1 arsonic",
       "value": "54.7M TDH",
-      "raw": 54674210,
-      "delta": 1115578,
-      "delta_fmt": "+1.1M TDH"
+      "raw": 54719772,
+      "delta": 45562,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 ChrisGranneberg",
@@ -680,7 +682,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.585 ETH",
-    "CARD #565: 116 MINTS (EXCL. MUSEUM) | 78 HOLDERS | FREEDOM TO TRANSCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #565: 116 MINTS (EXCL. MUSEUM) | 78 HOLDERS | FREEDOM TO TRANSCEND"
   ]
 }
