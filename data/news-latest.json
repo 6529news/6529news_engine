@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:34:55.401490+00:00",
+  "generated_at": "2026-10-24T06:28:40.316274+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "arsonic Leads with 54.7M Projected TDH",
-      "summary": "\"An Important Validation\" by arsonic (54.7M projected TDH, 88 voters) | \"TRUST ME BRO\" by ChrisGranneberg (53.3M projected TDH, 71 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.6M projected TDH, 80 voters) Next selection: Mon Oct 26 at 17:00 CET.",
+      "headline": "arsonic Leads with 59.2M Projected TDH",
+      "summary": "\"An Important Validation\" by arsonic (59.2M projected TDH, 90 voters) | \"TRUST ME BRO\" by ChrisGranneberg (53.3M projected TDH, 71 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.6M projected TDH, 80 voters) Next selection: Mon Oct 26 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "arsonic",
-          "value": "54.7M",
-          "sub": "proj. (88 votes)"
+          "value": "59.2M",
+          "sub": "proj. (90 votes)"
         },
         {
           "label": "ChrisGranneberg",
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "37 Sales Today - 1.75 ETH Volume",
-      "summary": "37 sales in 24h for 1.75 ETH. Highest: \"Sgt. Pepe\" at 0.585 ETH.",
+      "headline": "30 Sales Today - 1.70 ETH Volume",
+      "summary": "30 sales in 24h for 1.70 ETH. Highest: \"Sgt. Pepe\" at 0.585 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "37",
+          "value": "30",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.75",
+          "value": "1.70",
           "sub": "ETH"
         },
         {
@@ -144,41 +144,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.75 ETH",
-      "raw": 1.7474,
-      "delta": 1.1633,
-      "delta_fmt": "+199.2%"
+      "value": "1.70 ETH",
+      "raw": 1.6994,
+      "delta": 1.0292,
+      "delta_fmt": "+153.6%"
     },
     {
       "label": "7d Vol",
-      "value": "24.41 ETH",
-      "raw": 24.4096
+      "value": "24.60 ETH",
+      "raw": 24.6047
     },
     {
       "label": "30d Vol",
-      "value": "49.28 ETH",
-      "raw": 49.276
+      "value": "49.47 ETH",
+      "raw": 49.4711
     },
     {
       "label": "Full Set Bid",
-      "value": "29.6 ETH",
-      "raw": 29.61,
-      "delta": -0.08000000000000185,
-      "delta_fmt": "-0.08 ETH"
+      "value": "29.8 ETH",
+      "raw": 29.8,
+      "delta": 0.19000000000000128,
+      "delta_fmt": "+0.19 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2080.5M",
-      "raw": 2080494623,
-      "delta": 2900351,
-      "delta_fmt": "+2.9M TDH"
+      "raw": 2080494623
     },
     {
       "label": "#1 arsonic",
-      "value": "54.7M TDH",
-      "raw": 54719772,
-      "delta": 45562,
-      "delta_fmt": "+0.0M TDH"
+      "value": "59.2M TDH",
+      "raw": 59205404,
+      "delta": 4485632,
+      "delta_fmt": "+4.5M TDH"
     },
     {
       "label": "#1 ChrisGranneberg",
@@ -682,7 +680,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.585 ETH",
-    "CARD #565: 116 MINTS (EXCL. MUSEUM) | 78 HOLDERS | FREEDOM TO TRANSCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #565: 118 MINTS (EXCL. MUSEUM) | 80 HOLDERS | FREEDOM TO TRANSCEND"
   ]
 }
