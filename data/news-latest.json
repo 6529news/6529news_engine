@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:23:36.386734+00:00",
+  "generated_at": "2026-10-26T17:32:18.713141+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,82 +9,90 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_96d1d526-ac9c-4e92-b45e-3276e24ee0a4/59db55ac-6bc6-4b0c-8d40-8a96c305a003/Choosing-Light.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/566.JPG",
         "label": "Choosing Light - amanrasouli",
         "type": "image"
       },
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "arsonic Leads with 62.5M Projected TDH",
-      "summary": "\"An Important Validation\" by arsonic (62.5M projected TDH, 102 voters) | \"TRUST ME BRO\" by ChrisGranneberg (56.2M projected TDH, 80 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.6M projected TDH, 82 voters) Next selection: Mon Oct 26 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING WEDNESDAY",
+      "headline": "Minting Wednesday",
+      "summary": " \"An Important Validation\" by arsonic \u2014 63.3M TDH from 104 voters. Top supporter: johndoe8891 (7.9M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f82dd26-87b4-11ee-9d82-029a0e4b6159/b32a78bc-f052-4d0b-a206-f376db9ae888/consensus.png",
         "label": "An Important Validation - arsonic",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "ChrisGranneberg Leads with 59.7M Projected TDH",
+      "summary": "\"TRUST ME BRO\" by ChrisGranneberg (59.7M projected TDH, 86 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.6M projected TDH, 82 voters) | \"Pixel Party\" by Abrahanny (27.8M projected TDH, 77 voters) Next selection: Wed Oct 28 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_2f060e6f-30f2-486f-b5be-1ee817029ef3/1ae51dbb-39d2-46a2-add9-5a39b135e769.gif",
+        "label": "TRUST ME BRO - ChrisGranneberg",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "arsonic",
-          "value": "62.5M",
-          "sub": "proj. (102 votes)"
-        },
-        {
           "label": "ChrisGranneberg",
-          "value": "56.2M",
-          "sub": "proj. (80 votes)"
+          "value": "59.7M",
+          "sub": "proj. (86 votes)"
         },
         {
           "label": "Jedi69",
           "value": "32.6M",
           "sub": "proj. (82 votes)"
+        },
+        {
+          "label": "Abrahanny",
+          "value": "27.8M",
+          "sub": "proj. (77 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: desolalasisi (5.3M) | BEFE (2.1M).",
+      "headline": "1 New Memes Submission This Week",
+      "summary": "1 submissions this week. Ranking: desolalasisi (5.9M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_29a64658-b85b-4d34-96e8-11b12f1b28d3/97263fca-7f08-46cf-8c4f-5160f3973ad1/the-gatekeeper-illusion.png",
-        "label": "desolalasisi (5.3M)",
+        "label": "desolalasisi (5.9M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_29a64658-b85b-4d34-96e8-11b12f1b28d3/97263fca-7f08-46cf-8c4f-5160f3973ad1/the-gatekeeper-illusion.png",
-          "label": "desolalasisi (5.3M)",
+          "label": "desolalasisi (5.9M)",
           "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b44bd9-7d53-4b5c-9986-886fc1833049/8cb9d410-54df-4ad9-85b3-0ea8e2af7407/MEME-ROOM.mp4",
-          "label": "BEFE (2.1M)",
-          "type": "video"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#7 Gsen \u2014 151K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (151K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "31 Sales Today - 1.42 ETH Volume",
-      "summary": "31 sales in 24h for 1.42 ETH. Highest: \"DALL-E's Revenge\" at 0.425 ETH.",
+      "headline": "30 Sales Today - 1.62 ETH Volume",
+      "summary": "30 sales in 24h for 1.62 ETH. Highest: \"DALL-E's Revenge\" at 0.425 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -99,25 +107,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/253.GIF",
-          "label": "WE THE CYPHERPUNKS - 0.129 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/9.WEBP",
+          "label": "The Institutions Are Coming - 0.222 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/565.WEBP",
-          "label": "Freedom To Transcend - 0.062 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.200 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "31",
+          "value": "30",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.42",
+          "value": "1.62",
           "sub": "ETH"
         },
         {
@@ -136,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.42 ETH",
-      "raw": 1.4207,
-      "delta": 0.8681000000000001,
-      "delta_fmt": "+157.1%"
+      "value": "1.62 ETH",
+      "raw": 1.6227,
+      "delta": 0.7833,
+      "delta_fmt": "+93.3%"
     },
     {
       "label": "7d Vol",
-      "value": "7.73 ETH",
-      "raw": 7.7297
+      "value": "8.10 ETH",
+      "raw": 8.0987
     },
     {
       "label": "30d Vol",
-      "value": "47.37 ETH",
-      "raw": 47.3694
+      "value": "47.85 ETH",
+      "raw": 47.8463
     },
     {
       "label": "Full Set Bid",
-      "value": "28.7 ETH",
-      "raw": 28.68,
-      "delta": -0.16000000000000014,
-      "delta_fmt": "-0.16 ETH"
+      "value": "24.2 ETH",
+      "raw": 24.24,
+      "delta": -4.440000000000001,
+      "delta_fmt": "-4.44 ETH"
     },
     {
       "label": "Network TDH",
@@ -164,18 +172,18 @@
       "raw": 2086579350
     },
     {
+      "label": "#1 ChrisGranneberg",
+      "value": "59.7M TDH",
+      "raw": 59727514,
+      "delta": 1247911,
+      "delta_fmt": "+1.2M TDH"
+    },
+    {
       "label": "#1 arsonic",
       "value": "62.5M TDH",
       "raw": 62479940,
       "delta": 347192,
       "delta_fmt": "+0.3M TDH"
-    },
-    {
-      "label": "#1 ChrisGranneberg",
-      "value": "58.5M TDH",
-      "raw": 58479603,
-      "delta": 4795768,
-      "delta_fmt": "+4.8M TDH"
     },
     {
       "label": "#1 amanrasouli",
@@ -671,7 +679,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #565: 121 MINTS (EXCL. MUSEUM) | 83 HOLDERS | FREEDOM TO TRANSCEND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #566: 117 MINTS (EXCL. MUSEUM) | 75 HOLDERS | CHOOSING LIGHT"
   ]
 }
