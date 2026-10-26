@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T20:58:18.061676+00:00",
+  "generated_at": "2026-10-26T21:53:00.523749+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "ChrisGranneberg Leads with 64.2M Projected TDH",
-      "summary": "\"TRUST ME BRO\" by ChrisGranneberg (64.2M projected TDH, 88 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.6M projected TDH, 83 voters) | \"Pixel Party\" by Abrahanny (27.8M projected TDH, 78 voters) Next selection: Wed Oct 28 at 17:00 CET.",
+      "headline": "ChrisGranneberg Leads with 64.3M Projected TDH",
+      "summary": "\"TRUST ME BRO\" by ChrisGranneberg (64.3M projected TDH, 88 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.6M projected TDH, 83 voters) | \"Pixel Party\" by Abrahanny (27.8M projected TDH, 78 voters) Next selection: Wed Oct 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,7 +42,7 @@
       "dataBoxes": [
         {
           "label": "ChrisGranneberg",
-          "value": "64.2M",
+          "value": "64.3M",
           "sub": "proj. (88 votes)"
         },
         {
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 1.51 ETH Volume",
-      "summary": "26 sales in 24h for 1.51 ETH. Highest: \"DALL-E's Revenge\" at 0.425 ETH.",
+      "headline": "27 Sales Today - 1.60 ETH Volume",
+      "summary": "27 sales in 24h for 1.60 ETH. Highest: \"DALL-E's Revenge\" at 0.425 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "26",
+          "value": "27",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.51",
+          "value": "1.60",
           "sub": "ETH"
         },
         {
@@ -144,27 +144,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.51 ETH",
-      "raw": 1.5059,
-      "delta": 0.728,
-      "delta_fmt": "+93.6%"
+      "value": "1.60 ETH",
+      "raw": 1.6048,
+      "delta": 0.6575,
+      "delta_fmt": "+69.4%"
     },
     {
       "label": "7d Vol",
-      "value": "7.57 ETH",
-      "raw": 7.5675
+      "value": "7.69 ETH",
+      "raw": 7.6874
     },
     {
       "label": "30d Vol",
-      "value": "47.87 ETH",
-      "raw": 47.8748
+      "value": "47.99 ETH",
+      "raw": 47.9947
     },
     {
       "label": "Full Set Bid",
-      "value": "28.7 ETH",
-      "raw": 28.67,
-      "delta": 4.430000000000003,
-      "delta_fmt": "+4.43 ETH"
+      "value": "23.8 ETH",
+      "raw": 23.76,
+      "delta": -4.91,
+      "delta_fmt": "-4.91 ETH"
     },
     {
       "label": "Network TDH",
@@ -173,10 +173,10 @@
     },
     {
       "label": "#1 ChrisGranneberg",
-      "value": "64.2M TDH",
-      "raw": 64236394,
-      "delta": 4508880,
-      "delta_fmt": "+4.5M TDH"
+      "value": "64.3M TDH",
+      "raw": 64251394,
+      "delta": 15000,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 arsonic",
@@ -680,6 +680,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #566: 117 MINTS (EXCL. MUSEUM) | 75 HOLDERS | CHOOSING LIGHT"
+    "CARD #566: 118 MINTS (EXCL. MUSEUM) | 76 HOLDERS | CHOOSING LIGHT"
   ]
 }
