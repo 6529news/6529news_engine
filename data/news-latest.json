@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T21:53:00.523749+00:00",
+  "generated_at": "2026-10-27T01:10:42.729035+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Choosing Light\" by amanrasouli \u2014 51.2M TDH from 124 voters. Top supporter: gpebbles (8.7M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Choosing Light\" by amanrasouli \u2014 51.2M TDH from 124 voters. Top supporter: gpebbles (8.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "ChrisGranneberg Leads with 64.3M Projected TDH",
-      "summary": "\"TRUST ME BRO\" by ChrisGranneberg (64.3M projected TDH, 88 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.6M projected TDH, 83 voters) | \"Pixel Party\" by Abrahanny (27.8M projected TDH, 78 voters) Next selection: Wed Oct 28 at 17:00 CET.",
+      "summary": "\"TRUST ME BRO\" by ChrisGranneberg (64.3M projected TDH, 89 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (32.7M projected TDH, 83 voters) | \"Pixel Party\" by Abrahanny (28.3M projected TDH, 78 voters) Next selection: Wed Oct 28 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,16 +43,16 @@
         {
           "label": "ChrisGranneberg",
           "value": "64.3M",
-          "sub": "proj. (88 votes)"
+          "sub": "proj. (89 votes)"
         },
         {
           "label": "Jedi69",
-          "value": "32.6M",
+          "value": "32.7M",
           "sub": "proj. (83 votes)"
         },
         {
           "label": "Abrahanny",
-          "value": "27.8M",
+          "value": "28.3M",
           "sub": "proj. (78 votes)"
         }
       ]
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "27 Sales Today - 1.60 ETH Volume",
-      "summary": "27 sales in 24h for 1.60 ETH. Highest: \"DALL-E's Revenge\" at 0.425 ETH.",
+      "headline": "22 Sales Today - 1.49 ETH Volume",
+      "summary": "22 sales in 24h for 1.49 ETH. Highest: \"DALL-E's Revenge\" at 0.425 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "27",
+          "value": "22",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.60",
+          "value": "1.49",
           "sub": "ETH"
         },
         {
@@ -144,38 +144,40 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.60 ETH",
-      "raw": 1.6048,
-      "delta": 0.6575,
-      "delta_fmt": "+69.4%"
+      "value": "1.49 ETH",
+      "raw": 1.4886,
+      "delta": 0.5330999999999999,
+      "delta_fmt": "+55.8%"
     },
     {
       "label": "7d Vol",
-      "value": "7.69 ETH",
-      "raw": 7.6874
+      "value": "7.73 ETH",
+      "raw": 7.7259
     },
     {
       "label": "30d Vol",
-      "value": "47.99 ETH",
-      "raw": 47.9947
+      "value": "48.03 ETH",
+      "raw": 48.0332
     },
     {
       "label": "Full Set Bid",
-      "value": "23.8 ETH",
-      "raw": 23.76,
-      "delta": -4.91,
-      "delta_fmt": "-4.91 ETH"
+      "value": "29.0 ETH",
+      "raw": 28.99,
+      "delta": 5.229999999999997,
+      "delta_fmt": "+5.23 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2086.6M",
-      "raw": 2086579350
+      "value": "2089.5M",
+      "raw": 2089483805,
+      "delta": 2904455,
+      "delta_fmt": "+2.9M TDH"
     },
     {
       "label": "#1 ChrisGranneberg",
       "value": "64.3M TDH",
-      "raw": 64251394,
-      "delta": 15000,
+      "raw": 64267923,
+      "delta": 16529,
       "delta_fmt": "+0.0M TDH"
     },
     {
@@ -679,7 +681,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #566: 118 MINTS (EXCL. MUSEUM) | 76 HOLDERS | CHOOSING LIGHT",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #566: 120 MINTS (EXCL. MUSEUM) | 78 HOLDERS | CHOOSING LIGHT"
   ]
 }
