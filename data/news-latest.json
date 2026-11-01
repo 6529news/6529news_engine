@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T22:41:24.108009+00:00",
+  "generated_at": "2026-11-01T01:29:04.926384+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Teyhu Leads with 43.0M Projected TDH",
-      "summary": "\"Networked Mind\" by Teyhu (43.0M projected TDH, 68 voters) | \"WATER YOURSELF\" by Beam (41.6M projected TDH, 62 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (37.9M projected TDH, 93 voters) Next selection: Mon Nov 02 at 17:00 CET.",
+      "summary": "\"Networked Mind\" by Teyhu (43.0M projected TDH, 68 voters) | \"WATER YOURSELF\" by Beam (42.1M projected TDH, 62 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (37.9M projected TDH, 93 voters) Next selection: Mon Nov 02 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -34,7 +34,7 @@
         },
         {
           "label": "Beam",
-          "value": "41.6M",
+          "value": "42.1M",
           "sub": "proj. (62 votes)"
         },
         {
@@ -58,7 +58,7 @@
         {
           "label": "punk6529",
           "value": "Lv100",
-          "sub": "87.2M TDH"
+          "sub": "87.3M TDH"
         }
       ]
     },
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "17 Sales Today - 1.12 ETH Volume",
-      "summary": "17 sales in 24h for 1.12 ETH. Highest: \"DALL-E's Revenge\" at 0.420 ETH.",
+      "headline": "18 Sales Today - 1.17 ETH Volume",
+      "summary": "18 sales in 24h for 1.17 ETH. Highest: \"DALL-E's Revenge\" at 0.420 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "17",
+          "value": "18",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.12",
+          "value": "1.17",
           "sub": "ETH"
         },
         {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.014",
+          "value": "0.01419",
           "sub": "ETH"
         }
       ]
@@ -149,39 +149,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.12 ETH",
-      "raw": 1.1201,
-      "delta": 0.8918000000000001,
-      "delta_fmt": "+390.6%"
+      "value": "1.17 ETH",
+      "raw": 1.1701,
+      "delta": 0.9641,
+      "delta_fmt": "+468.0%"
     },
     {
       "label": "7d Vol",
-      "value": "6.36 ETH",
-      "raw": 6.3643
+      "value": "6.31 ETH",
+      "raw": 6.3123
     },
     {
       "label": "30d Vol",
-      "value": "48.47 ETH",
-      "raw": 48.4749
+      "value": "47.74 ETH",
+      "raw": 47.7406
     },
     {
       "label": "Full Set Bid",
       "value": "28.2 ETH",
-      "raw": 28.22,
-      "delta": -0.14000000000000057,
-      "delta_fmt": "-0.14 ETH"
+      "raw": 28.19,
+      "delta": -0.029999999999997584,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2101.8M",
-      "raw": 2101803748
+      "value": "2104.9M",
+      "raw": 2104877402,
+      "delta": 3073654,
+      "delta_fmt": "+3.1M TDH"
     },
     {
       "label": "#1 Teyhu",
       "value": "43.0M TDH",
-      "raw": 42951429,
-      "delta": 756529,
-      "delta_fmt": "+0.8M TDH"
+      "raw": 42951529,
+      "delta": 100,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Hedi",
@@ -698,7 +700,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #568: 125 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TRUST ME BRO",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #568: 125 MINTS (EXCL. MUSEUM) | 83 HOLDERS | TRUST ME BRO"
   ]
 }
