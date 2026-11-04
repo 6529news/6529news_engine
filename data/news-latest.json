@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:43:04.553862+00:00",
+  "generated_at": "2026-11-04T09:54:45.052470+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,7 +9,7 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_ad2d400c-d758-4877-bea9-dd14c2b8cc33/aca7f11b-9204-4cad-8cc9-988aee5bf89a/IMG-2072-copy.jpg",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/570.JPG",
         "label": "Networked Mind - Teyhu",
         "type": "image"
       },
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Beam Leads with 73.8M Projected TDH",
-      "summary": "\"WATER YOURSELF\" by Beam (73.8M projected TDH, 87 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (51.0M projected TDH, 102 voters) | \"Pixel Party\" by Abrahanny (30.8M projected TDH, 89 voters) Next selection: Wed Nov 04 at 17:00 CET.",
+      "summary": "\"WATER YOURSELF\" by Beam (73.8M projected TDH, 89 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (51.0M projected TDH, 102 voters) | \"Pixel Party\" by Abrahanny (30.8M projected TDH, 89 voters) Next selection: Wed Nov 04 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Beam",
           "value": "73.8M",
-          "sub": "proj. (87 votes)"
+          "sub": "proj. (89 votes)"
         },
         {
           "label": "Jedi69",
@@ -46,16 +46,21 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: ikertje (3.8M) | mingt (1.7M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: ikertje (3.8M) | NLV (3.0M) | mingt (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/fb294293-54be-49f8-b068-7c3f96911108/6529meme-20261103003506-24-2.jpg",
-        "label": "mingt (1.7M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/d3964693-cfa4-4f9b-b7d5-40e823d1b500/LF-NODE.gif",
+        "label": "NLV (3.0M)",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/d3964693-cfa4-4f9b-b7d5-40e823d1b500/LF-NODE.gif",
+          "label": "NLV (3.0M)",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/fb294293-54be-49f8-b068-7c3f96911108/6529meme-20261103003506-24-2.jpg",
           "label": "mingt (1.7M)",
@@ -66,20 +71,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#7 Gsen \u2014 151K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (151K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "14 Sales Today - 0.68 ETH Volume",
-      "summary": "14 sales in 24h for 0.68 ETH. Highest: \"I AM BECOME MEME\" at 0.106 ETH.",
+      "headline": "11 Sales Today - 0.47 ETH Volume",
+      "summary": "11 sales in 24h for 0.47 ETH. Highest: \"I AM BECOME MEME\" at 0.106 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -99,20 +104,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/551.WEBP",
-          "label": "Permanent Pepe - 0.069 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/390.GIF",
+          "label": "ANATOMY OF A MEME CARD - 0.053 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "14",
+          "value": "11",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.68",
+          "value": "0.47",
           "sub": "ETH"
         },
         {
@@ -131,41 +136,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.68 ETH",
-      "raw": 0.6784,
-      "delta": -1.6746000000000003,
-      "delta_fmt": "-71.2%"
+      "value": "0.47 ETH",
+      "raw": 0.4719,
+      "delta": -1.832,
+      "delta_fmt": "-79.5%"
     },
     {
       "label": "7d Vol",
-      "value": "8.82 ETH",
-      "raw": 8.823
+      "value": "8.49 ETH",
+      "raw": 8.487
     },
     {
       "label": "30d Vol",
-      "value": "50.17 ETH",
-      "raw": 50.1691
+      "value": "50.26 ETH",
+      "raw": 50.2611
     },
     {
       "label": "Full Set Bid",
-      "value": "31.4 ETH",
-      "raw": 31.41,
-      "delta": 0.08000000000000185,
+      "value": "31.5 ETH",
+      "raw": 31.49,
+      "delta": 0.0799999999999983,
       "delta_fmt": "+0.08 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2114.0M",
-      "raw": 2113997512,
-      "delta": 3037013,
-      "delta_fmt": "+3.0M TDH"
+      "raw": 2113997512
     },
     {
       "label": "#1 Beam",
       "value": "73.8M TDH",
-      "raw": 73755932,
-      "delta": 234254,
-      "delta_fmt": "+0.2M TDH"
+      "raw": 73756278,
+      "delta": 346,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Teyhu",
@@ -689,7 +692,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #569: 128 MINTS (EXCL. MUSEUM) | 88 HOLDERS | BREAK THE PATTERN",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #570: 112 MINTS (EXCL. MUSEUM) | 70 HOLDERS | NETWORKED MIND"
   ]
 }
