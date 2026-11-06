@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:01:51.762698+00:00",
+  "generated_at": "2026-11-06T06:44:03.401866+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,25 +17,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Nicolas_Bets Leads with 57.7M Projected TDH",
-      "summary": "\"BORN TO BE FREE\" by Nicolas_Bets (57.7M projected TDH, 36 voters) | \"6529 SVNTIKYTHERA\" by Jedi69 (54.5M projected TDH, 108 voters) | \"Pixel Party\" by Abrahanny (30.8M projected TDH, 92 voters) Next selection: Fri Nov 06 at 17:00 CET.",
+      "headline": "Jedi69 Leads with 57.8M Projected TDH",
+      "summary": "\"6529 SVNTIKYTHERA\" by Jedi69 (57.8M projected TDH, 110 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (57.7M projected TDH, 39 voters) | \"Pixel Party\" by Abrahanny (30.8M projected TDH, 92 voters) Next selection: Fri Nov 06 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c20b398f-4cf2-4114-8a40-2972bfa172c4/22223227-5008-432d-b74d-cabf225de36b/Borntofree.jpg",
-        "label": "BORN TO BE FREE - Nicolas_Bets",
-        "type": "image"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_76995883-f3f3-42ec-8446-71f35a6708d1/621cf71e-5bfb-4331-a338-8eb2b3dd2381/Trailer-svntikythera.mp4",
+        "label": "6529 SVNTIKYTHERA - Jedi69",
+        "type": "video"
       },
       "dataBoxes": [
         {
-          "label": "Nicolas_Bets",
-          "value": "57.7M",
-          "sub": "proj. (36 votes)"
+          "label": "Jedi69",
+          "value": "57.8M",
+          "sub": "proj. (110 votes)"
         },
         {
-          "label": "Jedi69",
-          "value": "54.5M",
-          "sub": "proj. (108 votes)"
+          "label": "Nicolas_Bets",
+          "value": "57.7M",
+          "sub": "proj. (39 votes)"
         },
         {
           "label": "Abrahanny",
@@ -58,7 +58,7 @@
         {
           "label": "punk6529",
           "value": "Lv100",
-          "sub": "87.6M TDH"
+          "sub": "87.7M TDH"
         }
       ]
     },
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#6 blake69 \u2014 271K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
+        "label": "blake69 (271K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "7 Sales Today - 1.04 ETH Volume",
-      "summary": "7 sales in 24h for 1.04 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
+      "headline": "14 Sales Today - 1.18 ETH Volume",
+      "summary": "14 sales in 24h for 1.18 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.400 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "7",
+          "value": "14",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.04",
+          "value": "1.18",
           "sub": "ETH"
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.01805",
+          "value": "0.0189",
           "sub": "ETH"
         }
       ]
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.04 ETH",
-      "raw": 1.0391,
-      "delta": 0.5733999999999999,
-      "delta_fmt": "+123.1%"
+      "value": "1.18 ETH",
+      "raw": 1.1789,
+      "delta": 0.8229000000000001,
+      "delta_fmt": "+231.2%"
     },
     {
       "label": "7d Vol",
-      "value": "8.60 ETH",
-      "raw": 8.5988
+      "value": "8.70 ETH",
+      "raw": 8.6963
     },
     {
       "label": "30d Vol",
-      "value": "48.58 ETH",
-      "raw": 48.5773
+      "value": "48.23 ETH",
+      "raw": 48.2332
     },
     {
       "label": "Full Set Bid",
       "value": "31.4 ETH",
-      "raw": 31.44,
-      "delta": 0.26000000000000156,
-      "delta_fmt": "+0.26 ETH"
+      "raw": 31.45,
+      "delta": 0.00999999999999801,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -182,18 +182,18 @@
       "raw": 2117075531
     },
     {
+      "label": "#1 Jedi69",
+      "value": "57.8M TDH",
+      "raw": 57750295,
+      "delta": 3288114,
+      "delta_fmt": "+3.3M TDH"
+    },
+    {
       "label": "#1 Nicolas_Bets",
       "value": "57.7M TDH",
       "raw": 57686957,
       "delta": 4003122,
       "delta_fmt": "+4.0M TDH"
-    },
-    {
-      "label": "#1 Jedi69",
-      "value": "54.5M TDH",
-      "raw": 54462181,
-      "delta": 102726,
-      "delta_fmt": "+0.1M TDH"
     },
     {
       "label": "#1 Beam",
@@ -717,7 +717,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #570: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | NETWORKED MIND",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #570: 119 MINTS (EXCL. MUSEUM) | 80 HOLDERS | NETWORKED MIND"
   ]
 }
