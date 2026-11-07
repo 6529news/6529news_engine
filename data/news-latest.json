@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:21:59.564091+00:00",
+  "generated_at": "2026-11-07T13:24:42.589552+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,30 +30,30 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Nicolas_Bets Leads with 59.3M Projected TDH",
-      "summary": "\"BORN TO BE FREE\" by Nicolas_Bets (59.3M projected TDH, 47 voters) | \"Birth of a Network\" by Shelby (34.2M projected TDH, 18 voters) | \"Pixel Party\" by Abrahanny (30.9M projected TDH, 95 voters) Next selection: Mon Nov 09 at 17:00 CET.",
+      "headline": "Shelby Leads with 81.6M Projected TDH",
+      "summary": "\"Birth of a Network\" by Shelby (81.6M projected TDH, 30 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (59.2M projected TDH, 49 voters) | \"Pixel Party\" by Abrahanny (31.9M projected TDH, 96 voters) Next selection: Mon Nov 09 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c20b398f-4cf2-4114-8a40-2972bfa172c4/22223227-5008-432d-b74d-cabf225de36b/Borntofree.jpg",
-        "label": "BORN TO BE FREE - Nicolas_Bets",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/d7078ef2-838e-4004-b29c-8136bc8d0f43/Birth-of-a-Network.png",
+        "label": "Birth of a Network - Shelby",
         "type": "image"
       },
       "dataBoxes": [
         {
-          "label": "Nicolas_Bets",
-          "value": "59.3M",
-          "sub": "proj. (47 votes)"
+          "label": "Shelby",
+          "value": "81.6M",
+          "sub": "proj. (30 votes)"
         },
         {
-          "label": "Shelby",
-          "value": "34.2M",
-          "sub": "proj. (18 votes)"
+          "label": "Nicolas_Bets",
+          "value": "59.2M",
+          "sub": "proj. (49 votes)"
         },
         {
           "label": "Abrahanny",
-          "value": "30.9M",
-          "sub": "proj. (95 votes)"
+          "value": "31.9M",
+          "sub": "proj. (96 votes)"
         }
       ]
     },
@@ -78,18 +78,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "4 New Memes Submissions This Week",
-      "summary": "4 submissions this week. Ranking: RegularDad (9.8M) | NLV (9.8M) | ikertje (4.9M) | mingt (1.7M).",
+      "summary": "4 submissions this week. Ranking: NLV (12.3M) | RegularDad (10.6M) | ikertje (4.9M) | mingt (1.7M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/d3964693-cfa4-4f9b-b7d5-40e823d1b500/LF-NODE.gif",
-        "label": "NLV (9.8M)",
+        "label": "NLV (12.3M)",
         "type": "image"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/d3964693-cfa4-4f9b-b7d5-40e823d1b500/LF-NODE.gif",
-          "label": "NLV (9.8M)",
+          "label": "NLV (12.3M)",
           "type": "image"
         },
         {
@@ -102,20 +102,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "29 Sales Today - 0.84 ETH Volume",
-      "summary": "29 sales in 24h for 0.84 ETH. Highest: \"NakamotoFreedom\" at 9.653 ETH.",
+      "headline": "35 Sales Today - 1.58 ETH Volume",
+      "summary": "35 sales in 24h for 1.58 ETH. Highest: \"NakamotoFreedom\" at 9.653 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,25 +130,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/359.WEBP",
-          "label": "DON\u2019T TREAD ON MEMES - 0.050 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/1.WEBP",
+          "label": "6529Seizing - 0.249 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/412.GIF",
-          "label": "Time And Tide Wait For No Man - 0.048 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.220 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "29",
+          "value": "35",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.84",
+          "value": "1.58",
           "sub": "ETH"
         },
         {
@@ -158,7 +158,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.023999999999989",
+          "value": "0.02399999999999",
           "sub": "ETH"
         }
       ]
@@ -167,32 +167,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.84 ETH",
-      "raw": 0.8384,
-      "delta": -0.3405,
-      "delta_fmt": "-28.9%"
+      "value": "1.58 ETH",
+      "raw": 1.5827,
+      "delta": 1.2801,
+      "delta_fmt": "+423.0%"
     },
     {
       "label": "7d Vol",
-      "value": "9.14 ETH",
-      "raw": 9.1428
+      "value": "9.27 ETH",
+      "raw": 9.2667
     },
     {
       "label": "30d Vol",
-      "value": "48.72 ETH",
-      "raw": 48.7185
+      "value": "49.55 ETH",
+      "raw": 49.5456
     },
     {
       "label": "Full Set Bid",
-      "value": "32.4 ETH",
-      "raw": 32.37,
-      "delta": 0.0899999999999963,
-      "delta_fmt": "+0.09 ETH"
+      "value": "32.3 ETH",
+      "raw": 32.29,
+      "delta": -0.0799999999999983,
+      "delta_fmt": "-0.08 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2122.9M",
       "raw": 2122913436
+    },
+    {
+      "label": "#1 Shelby",
+      "value": "81.6M TDH",
+      "raw": 81635905,
+      "delta": 27952070,
+      "delta_fmt": "+28.0M TDH"
     },
     {
       "label": "#1 Nicolas_Bets",
@@ -730,7 +737,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #571: 119 MINTS (EXCL. MUSEUM) | 77 HOLDERS | WATER YOURSELF",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #571: 123 MINTS (EXCL. MUSEUM) | 81 HOLDERS | WATER YOURSELF"
   ]
 }
