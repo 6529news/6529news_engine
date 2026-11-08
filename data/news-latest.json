@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:57:17.859345+00:00",
+  "generated_at": "2026-11-08T22:42:39.420978+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Shelby Leads with 69.6M Projected TDH",
-      "summary": "\"Birth of a Network\" by Shelby (69.6M projected TDH, 52 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (45.4M projected TDH, 52 voters) | \"We create in the fog\" by Loop (30.8M projected TDH, 77 voters) Next selection: Mon Nov 09 at 17:00 CET.",
+      "headline": "Shelby Leads with 70.1M Projected TDH",
+      "summary": "\"Birth of a Network\" by Shelby (70.1M projected TDH, 54 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (45.4M projected TDH, 52 voters) | \"We create in the fog\" by Loop (30.8M projected TDH, 77 voters) Next selection: Mon Nov 09 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "Shelby",
-          "value": "69.6M",
-          "sub": "proj. (52 votes)"
+          "value": "70.1M",
+          "sub": "proj. (54 votes)"
         },
         {
           "label": "Nicolas_Bets",
@@ -47,7 +47,7 @@
     {
       "category": "ANNOUNCEMENT",
       "headline": "New Announcement by punk6529",
-      "summary": "punk6529: **Validator Updates**\n\n- Sunday validated correctly and we are on the \"new\" validator chain.  \n    - The initial validator had a small deviation with the TDH standard, specifica...",
+      "summary": "punk6529: **Encrypted messages are moving to AES-256: please upgrade by December 1**\n\n- Why we\u2019re doing this\n    - Your encrypted DMs and group chats use two kinds of protection:\n    - Ke...",
       "source": "Announcements",
       "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
       "image": {
@@ -89,28 +89,33 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "40 Sales Today - 1.76 ETH Volume",
-      "summary": "40 sales in 24h for 1.76 ETH. Highest: \"I AM BECOME MEME\" at 0.100 ETH.",
+      "headline": "34 Sales Today - 2.00 ETH Volume",
+      "summary": "34 sales in 24h for 2.00 ETH. Highest: \"Sgt. Pepe\" at 0.500 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/337.WEBP",
-        "label": "I AM BECOME MEME - 0.100 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
+        "label": "Sgt. Pepe - 0.500 ETH",
         "type": "image"
       },
       "images": [
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
+          "label": "Sgt. Pepe - 0.500 ETH",
+          "type": "image"
+        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/337.WEBP",
           "label": "I AM BECOME MEME - 0.100 ETH",
@@ -118,30 +123,25 @@
         },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
-          "label": "NOT DED - 0.096 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/382.WEBP",
-          "label": "Within Reach - 0.069 ETH",
+          "label": "NOT DED - 0.097 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "40",
+          "value": "34",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.76",
+          "value": "2.00",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.100",
-          "sub": "I AM BECOME MEME"
+          "value": "0.500",
+          "sub": "Sgt. Pepe"
         },
         {
           "label": "Floor",
@@ -154,27 +154,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.76 ETH",
-      "raw": 1.7558,
-      "delta": -0.12949999999999995,
-      "delta_fmt": "-6.9%"
+      "value": "2.00 ETH",
+      "raw": 1.9971,
+      "delta": -0.33119999999999994,
+      "delta_fmt": "-14.2%"
     },
     {
       "label": "7d Vol",
-      "value": "9.69 ETH",
-      "raw": 9.6907
+      "value": "10.47 ETH",
+      "raw": 10.4706
     },
     {
       "label": "30d Vol",
-      "value": "51.65 ETH",
-      "raw": 51.6489
+      "value": "52.43 ETH",
+      "raw": 52.4288
     },
     {
       "label": "Full Set Bid",
       "value": "33.6 ETH",
-      "raw": 33.61,
-      "delta": -0.060000000000002274,
-      "delta_fmt": "-0.06 ETH"
+      "raw": 33.6,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
@@ -183,10 +183,10 @@
     },
     {
       "label": "#1 Shelby",
-      "value": "69.6M TDH",
-      "raw": 69643058,
-      "delta": 1107820,
-      "delta_fmt": "+1.1M TDH"
+      "value": "70.1M TDH",
+      "raw": 70118851,
+      "delta": 475793,
+      "delta_fmt": "+0.5M TDH"
     },
     {
       "label": "#1 Nicolas_Bets",
@@ -724,7 +724,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #571: 126 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WATER YOURSELF",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "SGT PEPE SALE: 0.500 ETH",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #571: 126 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WATER YOURSELF"
   ]
 }
