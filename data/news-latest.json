@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-08T22:42:39.420978+00:00",
+  "generated_at": "2026-11-09T02:00:44.670094+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING MONDAY",
-      "headline": "Minting Monday",
-      "summary": " \"6529 SVNTIKYTHERA\" by Jedi69 \u2014 59.2M TDH from 113 voters. Top supporter: Thor (24.9M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"6529 SVNTIKYTHERA\" by Jedi69 \u2014 59.2M TDH from 113 voters. Top supporter: Thor (24.9M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Shelby Leads with 70.1M Projected TDH",
-      "summary": "\"Birth of a Network\" by Shelby (70.1M projected TDH, 54 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (45.4M projected TDH, 52 voters) | \"We create in the fog\" by Loop (30.8M projected TDH, 77 voters) Next selection: Mon Nov 09 at 17:00 CET.",
+      "headline": "Shelby Leads with 71.1M Projected TDH",
+      "summary": "\"Birth of a Network\" by Shelby (71.1M projected TDH, 59 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (46.1M projected TDH, 53 voters) | \"We create in the fog\" by Loop (30.8M projected TDH, 77 voters) Next selection: Mon Nov 09 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "Shelby",
-          "value": "70.1M",
-          "sub": "proj. (54 votes)"
+          "value": "71.1M",
+          "sub": "proj. (59 votes)"
         },
         {
           "label": "Nicolas_Bets",
-          "value": "45.4M",
-          "sub": "proj. (52 votes)"
+          "value": "46.1M",
+          "sub": "proj. (53 votes)"
         },
         {
           "label": "Loop",
@@ -58,7 +58,7 @@
         {
           "label": "punk6529",
           "value": "Lv100",
-          "sub": "87.9M TDH"
+          "sub": "88.0M TDH"
         }
       ]
     },
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "34 Sales Today - 2.00 ETH Volume",
-      "summary": "34 sales in 24h for 2.00 ETH. Highest: \"Sgt. Pepe\" at 0.500 ETH.",
+      "headline": "39 Sales Today - 2.37 ETH Volume",
+      "summary": "39 sales in 24h for 2.37 ETH. Highest: \"Sgt. Pepe\" at 0.500 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -117,25 +117,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/337.WEBP",
-          "label": "I AM BECOME MEME - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
+          "label": "rekt6529 - 0.130 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
-          "label": "NOT DED - 0.097 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/337.WEBP",
+          "label": "I AM BECOME MEME - 0.100 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "34",
+          "value": "39",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.00",
+          "value": "2.37",
           "sub": "ETH"
         },
         {
@@ -154,39 +154,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.00 ETH",
-      "raw": 1.9971,
-      "delta": -0.33119999999999994,
-      "delta_fmt": "-14.2%"
+      "value": "2.37 ETH",
+      "raw": 2.369,
+      "delta": 0.11800000000000033,
+      "delta_fmt": "+5.2%"
     },
     {
       "label": "7d Vol",
-      "value": "10.47 ETH",
-      "raw": 10.4706
+      "value": "9.60 ETH",
+      "raw": 9.5961
     },
     {
       "label": "30d Vol",
-      "value": "52.43 ETH",
-      "raw": 52.4288
+      "value": "52.27 ETH",
+      "raw": 52.2708
     },
     {
       "label": "Full Set Bid",
-      "value": "33.6 ETH",
-      "raw": 33.6,
-      "delta": -0.00999999999999801,
-      "delta_fmt": "-0.01 ETH"
+      "value": "33.9 ETH",
+      "raw": 33.89,
+      "delta": 0.28999999999999915,
+      "delta_fmt": "+0.29 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2126.2M",
-      "raw": 2126182201
+      "value": "2129.2M",
+      "raw": 2129245356,
+      "delta": 3063155,
+      "delta_fmt": "+3.1M TDH"
     },
     {
       "label": "#1 Shelby",
-      "value": "70.1M TDH",
-      "raw": 70118851,
-      "delta": 475793,
-      "delta_fmt": "+0.5M TDH"
+      "value": "71.1M TDH",
+      "raw": 71141750,
+      "delta": 1022899,
+      "delta_fmt": "+1.0M TDH"
     },
     {
       "label": "#1 Nicolas_Bets",
@@ -725,7 +727,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.500 ETH",
-    "CARD #571: 126 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WATER YOURSELF",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #571: 126 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WATER YOURSELF"
   ]
 }
