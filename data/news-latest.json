@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T02:00:44.670094+00:00",
+  "generated_at": "2026-11-09T09:47:24.104067+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Shelby Leads with 71.1M Projected TDH",
-      "summary": "\"Birth of a Network\" by Shelby (71.1M projected TDH, 59 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (46.1M projected TDH, 53 voters) | \"We create in the fog\" by Loop (30.8M projected TDH, 77 voters) Next selection: Mon Nov 09 at 17:00 CET.",
+      "headline": "Shelby Leads with 71.2M Projected TDH",
+      "summary": "\"Birth of a Network\" by Shelby (71.2M projected TDH, 61 voters) | \"BORN TO BE FREE\" by Nicolas_Bets (46.1M projected TDH, 53 voters) | \"We create in the fog\" by Loop (30.8M projected TDH, 77 voters) Next selection: Mon Nov 09 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "Shelby",
-          "value": "71.1M",
-          "sub": "proj. (59 votes)"
+          "value": "71.2M",
+          "sub": "proj. (61 votes)"
         },
         {
           "label": "Nicolas_Bets",
@@ -89,20 +89,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "39 Sales Today - 2.37 ETH Volume",
-      "summary": "39 sales in 24h for 2.37 ETH. Highest: \"Sgt. Pepe\" at 0.500 ETH.",
+      "headline": "36 Sales Today - 2.18 ETH Volume",
+      "summary": "36 sales in 24h for 2.18 ETH. Highest: \"Sgt. Pepe\" at 0.500 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,12 +130,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "39",
+          "value": "36",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.37",
+          "value": "2.18",
           "sub": "ETH"
         },
         {
@@ -154,41 +154,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.37 ETH",
-      "raw": 2.369,
-      "delta": 0.11800000000000033,
-      "delta_fmt": "+5.2%"
+      "value": "2.18 ETH",
+      "raw": 2.1787,
+      "delta": -0.05370000000000008,
+      "delta_fmt": "-2.4%"
     },
     {
       "label": "7d Vol",
-      "value": "9.60 ETH",
-      "raw": 9.5961
+      "value": "9.90 ETH",
+      "raw": 9.8953
     },
     {
       "label": "30d Vol",
-      "value": "52.27 ETH",
-      "raw": 52.2708
+      "value": "52.60 ETH",
+      "raw": 52.6012
     },
     {
       "label": "Full Set Bid",
-      "value": "33.9 ETH",
-      "raw": 33.89,
-      "delta": 0.28999999999999915,
-      "delta_fmt": "+0.29 ETH"
+      "value": "30.3 ETH",
+      "raw": 30.34,
+      "delta": -3.5500000000000007,
+      "delta_fmt": "-3.55 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2129.2M",
-      "raw": 2129245356,
-      "delta": 3063155,
-      "delta_fmt": "+3.1M TDH"
+      "raw": 2129245356
     },
     {
       "label": "#1 Shelby",
-      "value": "71.1M TDH",
-      "raw": 71141750,
-      "delta": 1022899,
-      "delta_fmt": "+1.0M TDH"
+      "value": "71.2M TDH",
+      "raw": 71184489,
+      "delta": 42739,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Nicolas_Bets",
@@ -727,7 +725,7 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "SGT PEPE SALE: 0.500 ETH",
-    "CARD #571: 126 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WATER YOURSELF",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #571: 126 MINTS (EXCL. MUSEUM) | 87 HOLDERS | WATER YOURSELF"
   ]
 }
