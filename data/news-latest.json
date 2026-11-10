@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:03:53.774121+00:00",
+  "generated_at": "2026-11-10T02:51:00.975437+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Nicolas_Bets Leads with 51.0M Projected TDH",
-      "summary": "\"BORN TO BE FREE\" by Nicolas_Bets (51.0M projected TDH, 55 voters) | \"We create in the fog\" by Loop (32.5M projected TDH, 81 voters) | \"SET UP A NODE!\" by RegularDad (26.6M projected TDH, 20 voters) Next selection: Wed Nov 11 at 17:00 CET.",
+      "headline": "Nicolas_Bets Leads with 50.8M Projected TDH",
+      "summary": "\"BORN TO BE FREE\" by Nicolas_Bets (50.8M projected TDH, 55 voters) | \"We create in the fog\" by Loop (39.3M projected TDH, 81 voters) | \"SET UP A NODE!\" by RegularDad (26.6M projected TDH, 21 voters) Next selection: Wed Nov 11 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,18 +42,18 @@
       "dataBoxes": [
         {
           "label": "Nicolas_Bets",
-          "value": "51.0M",
+          "value": "50.8M",
           "sub": "proj. (55 votes)"
         },
         {
           "label": "Loop",
-          "value": "32.5M",
+          "value": "39.3M",
           "sub": "proj. (81 votes)"
         },
         {
           "label": "RegularDad",
           "value": "26.6M",
-          "sub": "proj. (20 votes)"
+          "sub": "proj. (21 votes)"
         }
       ]
     },
@@ -71,59 +71,44 @@
         {
           "label": "punk6529",
           "value": "Lv100",
-          "sub": "88.0M TDH"
+          "sub": "88.1M TDH"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: dougfriesen (17.3M) | NLV (15.9M) | ikertje (5.0M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: dougfriesen (17.3M) | ikertje (5.0M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/d3964693-cfa4-4f9b-b7d5-40e823d1b500/LF-NODE.gif",
-        "label": "NLV (15.9M)",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/d3964693-cfa4-4f9b-b7d5-40e823d1b500/LF-NODE.gif",
-          "label": "NLV (15.9M)",
-          "type": "image"
-        }
-      ],
+      "image": null,
+      "images": [],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "35 Sales Today - 1.68 ETH Volume",
-      "summary": "35 sales in 24h for 1.68 ETH. Highest: \"rekt6529\" at 0.130 ETH.",
+      "headline": "35 Sales Today - 1.51 ETH Volume",
+      "summary": "35 sales in 24h for 1.51 ETH. Highest: \"NOT DED\" at 0.129 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
-        "label": "rekt6529 - 0.130 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
+        "label": "NOT DED - 0.129 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/5.GIF",
-          "label": "rekt6529 - 0.130 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/420.WEBP",
           "label": "NOT DED - 0.129 ETH",
@@ -132,6 +117,11 @@
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/386.WEBP",
           "label": "Freedom Forge - 0.068 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/77.WEBP",
+          "label": "FreedOM Fighter - 0.064 ETH",
           "type": "image"
         }
       ],
@@ -143,13 +133,13 @@
         },
         {
           "label": "Volume 24h",
-          "value": "1.68",
+          "value": "1.51",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.130",
-          "sub": "rekt6529"
+          "value": "0.129",
+          "sub": "NOT DED"
         },
         {
           "label": "Floor",
@@ -162,39 +152,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.68 ETH",
-      "raw": 1.6811,
-      "delta": -0.31600000000000006,
-      "delta_fmt": "-15.8%"
+      "value": "1.51 ETH",
+      "raw": 1.5086,
+      "delta": -0.8604000000000003,
+      "delta_fmt": "-36.3%"
     },
     {
       "label": "7d Vol",
-      "value": "9.04 ETH",
-      "raw": 9.0409
+      "value": "8.85 ETH",
+      "raw": 8.8546
     },
     {
       "label": "30d Vol",
-      "value": "53.53 ETH",
-      "raw": 53.5301
+      "value": "53.21 ETH",
+      "raw": 53.2052
     },
     {
       "label": "Full Set Bid",
-      "value": "33.3 ETH",
-      "raw": 33.32,
-      "delta": 0.00999999999999801,
-      "delta_fmt": "+0.01 ETH"
+      "value": "33.5 ETH",
+      "raw": 33.52,
+      "delta": 0.20000000000000284,
+      "delta_fmt": "+0.20 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2129.2M",
-      "raw": 2129245356
+      "value": "2132.3M",
+      "raw": 2132284321,
+      "delta": 3038965,
+      "delta_fmt": "+3.0M TDH"
     },
     {
       "label": "#1 Nicolas_Bets",
-      "value": "51.0M TDH",
-      "raw": 50983697,
-      "delta": 3285268,
-      "delta_fmt": "+3.3M TDH"
+      "value": "50.8M TDH",
+      "raw": 50754886,
+      "delta": -228811,
+      "delta_fmt": "-0.2M TDH"
     },
     {
       "label": "#1 Shelby",
@@ -733,6 +725,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #572: 118 MINTS (EXCL. MUSEUM) | 78 HOLDERS | 6529 SVNTIKYTHERA"
+    "CARD #572: 123 MINTS (EXCL. MUSEUM) | 83 HOLDERS | 6529 SVNTIKYTHERA"
   ]
 }
