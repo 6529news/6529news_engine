@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T10:56:48.884083+00:00",
+  "generated_at": "2026-11-11T18:27:21.337648+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -16,56 +16,51 @@
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "Nicolas_Bets Leads with 51.2M Projected TDH",
-      "summary": "\"BORN TO BE FREE\" by Nicolas_Bets (51.2M projected TDH, 60 voters) | \"Come eat your slop\" by Botto (50.4M projected TDH, 54 voters) | \"We create in the fog\" by Loop (33.2M projected TDH, 88 voters) Next selection: Wed Nov 11 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING FRIDAY",
+      "headline": "Minting Friday",
+      "summary": " \"BORN TO BE FREE\" by Nicolas_Bets \u2014 51.2M TDH from 61 voters. Top supporter: Poseidon (14.9M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c20b398f-4cf2-4114-8a40-2972bfa172c4/22223227-5008-432d-b74d-cabf225de36b/Borntofree.jpg",
         "label": "BORN TO BE FREE - Nicolas_Bets",
         "type": "image"
       },
-      "dataBoxes": [
-        {
-          "label": "Nicolas_Bets",
-          "value": "51.2M",
-          "sub": "proj. (60 votes)"
-        },
-        {
-          "label": "Botto",
-          "value": "50.4M",
-          "sub": "proj. (54 votes)"
-        },
-        {
-          "label": "Loop",
-          "value": "33.2M",
-          "sub": "proj. (88 votes)"
-        }
-      ]
+      "dataBoxes": null
     },
     {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by GelatoGenesis",
-      "summary": "GelatoGenesis: **You can no send Gifs and use Markdown in e2e encrypted chats**\n\nGifs are downloaded and attached like your own custom media and therefor encrypted in content level.",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
+      "category": "TOP MEMES",
+      "headline": "Botto Leads with 65.4M Projected TDH",
+      "summary": "\"Come eat your slop\" by Botto (65.4M projected TDH, 73 voters) | \"We create in the fog\" by Loop (31.9M projected TDH, 93 voters) | \"Pixel Party\" by Abrahanny (25.7M projected TDH, 99 voters) Next selection: Fri Nov 13 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/ipfs/QmS6Ps5LUzi7Ba9j61ScJzUQakcpW8amj7x3UexZ4huKo9",
-        "label": "GelatoGenesis"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/52d00f8d-b897-42b4-9569-807b6477eb35/card-esrgan-2x.png",
+        "label": "Come eat your slop - Botto",
+        "type": "image"
       },
       "dataBoxes": [
         {
-          "label": "GelatoGenesis",
-          "value": "Lv51",
-          "sub": "1K TDH"
+          "label": "Botto",
+          "value": "65.4M",
+          "sub": "proj. (73 votes)"
+        },
+        {
+          "label": "Loop",
+          "value": "31.9M",
+          "sub": "proj. (93 votes)"
+        },
+        {
+          "label": "Abrahanny",
+          "value": "25.7M",
+          "sub": "proj. (99 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: dougfriesen (20.2M) | RegularDad (12.6M).",
+      "summary": "2 submissions this week. Ranking: dougfriesen (22.4M) | RegularDad (17.0M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -74,20 +69,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 1.25 ETH Volume",
-      "summary": "24 sales in 24h for 1.25 ETH. Highest: \"UncleSeize\" at 0.125 ETH.",
+      "headline": "41 Sales Today - 2.04 ETH Volume",
+      "summary": "41 sales in 24h for 2.04 ETH. Highest: \"UncleSeize\" at 0.125 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,25 +97,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/545.WEBP",
-          "label": "Age of Memes - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/509.GIF",
+          "label": "The Collective Synapse - 0.070 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/568.GIF",
-          "label": "TRUST ME BRO - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/545.WEBP",
+          "label": "Age of Memes - 0.070 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "24",
+          "value": "41",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.25",
+          "value": "2.04",
           "sub": "ETH"
         },
         {
@@ -139,32 +134,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.25 ETH",
-      "raw": 1.252,
-      "delta": -0.4054,
-      "delta_fmt": "-24.5%"
+      "value": "2.04 ETH",
+      "raw": 2.0424,
+      "delta": 1.1948000000000003,
+      "delta_fmt": "+141.0%"
     },
     {
       "label": "7d Vol",
-      "value": "9.85 ETH",
-      "raw": 9.8542
+      "value": "10.55 ETH",
+      "raw": 10.5538
     },
     {
       "label": "30d Vol",
-      "value": "54.48 ETH",
-      "raw": 54.4841
+      "value": "55.32 ETH",
+      "raw": 55.3245
     },
     {
       "label": "Full Set Bid",
-      "value": "34.2 ETH",
-      "raw": 34.18,
-      "delta": -0.03999999999999915,
-      "delta_fmt": "-0.04 ETH"
+      "value": "34.5 ETH",
+      "raw": 34.46,
+      "delta": 0.28000000000000114,
+      "delta_fmt": "+0.28 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2135.3M",
       "raw": 2135344845
+    },
+    {
+      "label": "#1 Botto",
+      "value": "65.4M TDH",
+      "raw": 65431870,
+      "delta": 11748035,
+      "delta_fmt": "+11.7M TDH"
     },
     {
       "label": "#1 Nicolas_Bets",
@@ -709,7 +711,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #573: 115 MINTS (EXCL. MUSEUM) | 73 HOLDERS | BIRTH OF A NETWORK",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #573: 146 MINTS (EXCL. MUSEUM) | 83 HOLDERS | BIRTH OF A NETWORK"
   ]
 }
