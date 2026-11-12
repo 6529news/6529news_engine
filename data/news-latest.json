@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-11-12T08:00:01.427505+00:00",
+  "generated_at": "2026-11-12T16:44:40.969598+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"Birth of a Network\" by Shelby \u2014 72.7M TDH from 61 voters. Top supporter: Ruskin (30.3M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/573.PNG",
-        "label": "Birth of a Network - Shelby",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING FRIDAY",
       "headline": "Minting Friday",
@@ -30,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Botto Leads with 76.8M Projected TDH",
-      "summary": "\"Come eat your slop\" by Botto (76.8M projected TDH, 83 voters) | \"We create in the fog\" by Loop (32.2M projected TDH, 94 voters) | \"Pixel Party\" by Abrahanny (25.9M projected TDH, 101 voters) Next selection: Fri Nov 13 at 17:00 CET.",
+      "headline": "Botto Leads with 85.2M Projected TDH",
+      "summary": "\"Come eat your slop\" by Botto (85.2M projected TDH, 85 voters) | \"We create in the fog\" by Loop (32.2M projected TDH, 95 voters) | \"Proof of Conviction\" by Soliiiart (26.3M projected TDH, 88 voters) Next selection: Fri Nov 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,25 +29,25 @@
       "dataBoxes": [
         {
           "label": "Botto",
-          "value": "76.8M",
-          "sub": "proj. (83 votes)"
+          "value": "85.2M",
+          "sub": "proj. (85 votes)"
         },
         {
           "label": "Loop",
           "value": "32.2M",
-          "sub": "proj. (94 votes)"
+          "sub": "proj. (95 votes)"
         },
         {
-          "label": "Abrahanny",
-          "value": "25.9M",
-          "sub": "proj. (101 votes)"
+          "label": "Soliiiart",
+          "value": "26.3M",
+          "sub": "proj. (88 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: dougfriesen (22.7M) | RegularDad (17.1M) | ikertje (4.3M).",
+      "summary": "3 submissions this week. Ranking: dougfriesen (22.8M) | RegularDad (9.4M) | ikertje (4.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -69,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "50 Sales Today - 2.66 ETH Volume",
-      "summary": "50 sales in 24h for 2.66 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.500 ETH.",
+      "headline": "46 Sales Today - 2.40 ETH Volume",
+      "summary": "46 sales in 24h for 2.40 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.500 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -110,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "50",
+          "value": "46",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.66",
+          "value": "2.40",
           "sub": "ETH"
         },
         {
@@ -125,7 +112,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.027",
+          "value": "0.026999999999999",
           "sub": "ETH"
         }
       ]
@@ -134,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.66 ETH",
-      "raw": 2.664,
-      "delta": 1.4120000000000001,
-      "delta_fmt": "+112.8%"
+      "value": "2.40 ETH",
+      "raw": 2.3985,
+      "delta": 0.35609999999999964,
+      "delta_fmt": "+17.4%"
     },
     {
       "label": "7d Vol",
-      "value": "11.20 ETH",
-      "raw": 11.2002
+      "value": "11.34 ETH",
+      "raw": 11.3397
     },
     {
       "label": "30d Vol",
-      "value": "55.82 ETH",
-      "raw": 55.82
+      "value": "56.06 ETH",
+      "raw": 56.0645
     },
     {
       "label": "Full Set Bid",
-      "value": "34.5 ETH",
-      "raw": 34.51,
-      "delta": 0.030000000000001137,
-      "delta_fmt": "+0.03 ETH"
+      "value": "33.3 ETH",
+      "raw": 33.33,
+      "delta": -1.1799999999999997,
+      "delta_fmt": "-1.18 ETH"
     },
     {
       "label": "Network TDH",
@@ -163,10 +150,10 @@
     },
     {
       "label": "#1 Botto",
-      "value": "76.8M TDH",
-      "raw": 76751479,
-      "delta": 5362891,
-      "delta_fmt": "+5.4M TDH"
+      "value": "85.2M TDH",
+      "raw": 85199706,
+      "delta": 8448227,
+      "delta_fmt": "+8.4M TDH"
     },
     {
       "label": "#1 Nicolas_Bets",
@@ -711,7 +698,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #573: 151 MINTS (EXCL. MUSEUM) | 87 HOLDERS | BIRTH OF A NETWORK",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #573: 153 MINTS (EXCL. MUSEUM) | 89 HOLDERS | BIRTH OF A NETWORK"
   ]
 }
