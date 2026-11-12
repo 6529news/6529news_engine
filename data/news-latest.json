@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T16:44:40.969598+00:00",
+  "generated_at": "2026-11-12T22:27:26.096176+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Botto Leads with 85.2M Projected TDH",
-      "summary": "\"Come eat your slop\" by Botto (85.2M projected TDH, 85 voters) | \"We create in the fog\" by Loop (32.2M projected TDH, 95 voters) | \"Proof of Conviction\" by Soliiiart (26.3M projected TDH, 88 voters) Next selection: Fri Nov 13 at 17:00 CET.",
+      "headline": "Botto Leads with 86.3M Projected TDH",
+      "summary": "\"Come eat your slop\" by Botto (86.3M projected TDH, 90 voters) | \"We create in the fog\" by Loop (33.2M projected TDH, 96 voters) | \"Proof of Conviction\" by Soliiiart (26.3M projected TDH, 88 voters) Next selection: Fri Nov 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "Botto",
-          "value": "85.2M",
-          "sub": "proj. (85 votes)"
+          "value": "86.3M",
+          "sub": "proj. (90 votes)"
         },
         {
           "label": "Loop",
-          "value": "32.2M",
-          "sub": "proj. (95 votes)"
+          "value": "33.2M",
+          "sub": "proj. (96 votes)"
         },
         {
           "label": "Soliiiart",
@@ -47,7 +47,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: dougfriesen (22.8M) | RegularDad (9.4M) | ikertje (4.4M).",
+      "summary": "3 submissions this week. Ranking: dougfriesen (23.7M) | RegularDad (9.4M) | ikertje (8.5M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,59 +56,59 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "46 Sales Today - 2.40 ETH Volume",
-      "summary": "46 sales in 24h for 2.40 ETH. Highest: \"The Tree of Knowledge of Good and Evil\" at 0.500 ETH.",
+      "headline": "25 Sales Today - 0.85 ETH Volume",
+      "summary": "25 sales in 24h for 0.85 ETH. Highest: \"WAGMI 3.0\" at 0.069 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-        "label": "The Tree of Knowledge of Good and Evil - 0.500 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/194.GIF",
+        "label": "WAGMI 3.0 - 0.069 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/375.WEBP",
-          "label": "The Tree of Knowledge of Good and Evil - 0.500 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/453.WEBP",
-          "label": "Collector - 0.070 ETH",
-          "type": "image"
-        },
-        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/194.GIF",
           "label": "WAGMI 3.0 - 0.069 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/560.WEBP",
+          "label": "UNFALLEN: BEYOND | Cinematic Concept Teaser - 0.055 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/563.WEBP",
+          "label": "Reef Node 6529 - 0.052 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "46",
+          "value": "25",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.40",
+          "value": "0.85",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.500",
-          "sub": "The Tree of Knowledg"
+          "value": "0.069",
+          "sub": "WAGMI 3.0"
         },
         {
           "label": "Floor",
@@ -121,27 +121,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.40 ETH",
-      "raw": 2.3985,
-      "delta": 0.35609999999999964,
-      "delta_fmt": "+17.4%"
+      "value": "0.85 ETH",
+      "raw": 0.8459,
+      "delta": -1.9885000000000002,
+      "delta_fmt": "-70.2%"
     },
     {
       "label": "7d Vol",
-      "value": "11.34 ETH",
-      "raw": 11.3397
+      "value": "11.42 ETH",
+      "raw": 11.4218
     },
     {
       "label": "30d Vol",
-      "value": "56.06 ETH",
-      "raw": 56.0645
+      "value": "56.23 ETH",
+      "raw": 56.2266
     },
     {
       "label": "Full Set Bid",
-      "value": "33.3 ETH",
-      "raw": 33.33,
-      "delta": -1.1799999999999997,
-      "delta_fmt": "-1.18 ETH"
+      "value": "34.1 ETH",
+      "raw": 34.09,
+      "delta": 0.7600000000000051,
+      "delta_fmt": "+0.76 ETH"
     },
     {
       "label": "Network TDH",
@@ -150,10 +150,10 @@
     },
     {
       "label": "#1 Botto",
-      "value": "85.2M TDH",
-      "raw": 85199706,
-      "delta": 8448227,
-      "delta_fmt": "+8.4M TDH"
+      "value": "86.3M TDH",
+      "raw": 86333364,
+      "delta": 1133658,
+      "delta_fmt": "+1.1M TDH"
     },
     {
       "label": "#1 Nicolas_Bets",
@@ -698,7 +698,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #573: 153 MINTS (EXCL. MUSEUM) | 89 HOLDERS | BIRTH OF A NETWORK",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #573: 153 MINTS (EXCL. MUSEUM) | 89 HOLDERS | BIRTH OF A NETWORK"
   ]
 }
