@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T22:34:40.564449+00:00",
+  "generated_at": "2026-11-12T00:56:16.771276+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Birth of a Network\" by Shelby \u2014 72.7M TDH from 61 voters. Top supporter: Ruskin (30.3M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Birth of a Network\" by Shelby \u2014 72.7M TDH from 61 voters. Top supporter: Ruskin (30.3M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Botto Leads with 67.6M Projected TDH",
-      "summary": "\"Come eat your slop\" by Botto (67.6M projected TDH, 74 voters) | \"We create in the fog\" by Loop (31.9M projected TDH, 93 voters) | \"Pixel Party\" by Abrahanny (25.7M projected TDH, 100 voters) Next selection: Fri Nov 13 at 17:00 CET.",
+      "headline": "Botto Leads with 71.4M Projected TDH",
+      "summary": "\"Come eat your slop\" by Botto (71.4M projected TDH, 77 voters) | \"We create in the fog\" by Loop (31.9M projected TDH, 93 voters) | \"Pixel Party\" by Abrahanny (25.7M projected TDH, 100 voters) Next selection: Fri Nov 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Botto",
-          "value": "67.6M",
-          "sub": "proj. (74 votes)"
+          "value": "71.4M",
+          "sub": "proj. (77 votes)"
         },
         {
           "label": "Loop",
@@ -69,13 +69,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
@@ -146,27 +146,27 @@
     },
     {
       "label": "30d Vol",
-      "value": "56.39 ETH",
-      "raw": 56.3857
+      "value": "55.38 ETH",
+      "raw": 55.3807
     },
     {
       "label": "Full Set Bid",
       "value": "34.5 ETH",
-      "raw": 34.48,
-      "delta": 0.01999999999999602,
-      "delta_fmt": "+0.02 ETH"
+      "raw": 34.48
     },
     {
       "label": "Network TDH",
-      "value": "2135.3M",
-      "raw": 2135344845
+      "value": "2138.3M",
+      "raw": 2138292759,
+      "delta": 2947914,
+      "delta_fmt": "+2.9M TDH"
     },
     {
       "label": "#1 Botto",
-      "value": "67.6M TDH",
-      "raw": 67616447,
-      "delta": 2184577,
-      "delta_fmt": "+2.2M TDH"
+      "value": "71.4M TDH",
+      "raw": 71388588,
+      "delta": 3772141,
+      "delta_fmt": "+3.8M TDH"
     },
     {
       "label": "#1 Nicolas_Bets",
@@ -712,6 +712,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #573: 149 MINTS (EXCL. MUSEUM) | 85 HOLDERS | BIRTH OF A NETWORK"
+    "CARD #573: 150 MINTS (EXCL. MUSEUM) | 86 HOLDERS | BIRTH OF A NETWORK"
   ]
 }
