@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-12T22:27:26.096176+00:00",
+  "generated_at": "2026-11-13T02:50:15.295084+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING FRIDAY",
-      "headline": "Minting Friday",
-      "summary": " \"BORN TO BE FREE\" by Nicolas_Bets \u2014 51.2M TDH from 61 voters. Top supporter: Poseidon (14.9M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"BORN TO BE FREE\" by Nicolas_Bets \u2014 51.2M TDH from 61 voters. Top supporter: Poseidon (14.9M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -18,7 +18,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Botto Leads with 86.3M Projected TDH",
-      "summary": "\"Come eat your slop\" by Botto (86.3M projected TDH, 90 voters) | \"We create in the fog\" by Loop (33.2M projected TDH, 96 voters) | \"Proof of Conviction\" by Soliiiart (26.3M projected TDH, 88 voters) Next selection: Fri Nov 13 at 17:00 CET.",
+      "summary": "\"Come eat your slop\" by Botto (86.3M projected TDH, 91 voters) | \"We create in the fog\" by Loop (33.2M projected TDH, 96 voters) | \"Proof of Conviction\" by Soliiiart (26.3M projected TDH, 89 voters) Next selection: Fri Nov 13 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -30,7 +30,7 @@
         {
           "label": "Botto",
           "value": "86.3M",
-          "sub": "proj. (90 votes)"
+          "sub": "proj. (91 votes)"
         },
         {
           "label": "Loop",
@@ -40,14 +40,14 @@
         {
           "label": "Soliiiart",
           "value": "26.3M",
-          "sub": "proj. (88 votes)"
+          "sub": "proj. (89 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: dougfriesen (23.7M) | RegularDad (9.4M) | ikertje (8.5M).",
+      "headline": "4 New Memes Submissions This Week",
+      "summary": "4 submissions this week. Ranking: dougfriesen (23.7M) | RegularDad (9.4M) | ikertje (8.6M) | Rakesh (8.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -56,20 +56,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "25 Sales Today - 0.85 ETH Volume",
-      "summary": "25 sales in 24h for 0.85 ETH. Highest: \"WAGMI 3.0\" at 0.069 ETH.",
+      "headline": "24 Sales Today - 0.80 ETH Volume",
+      "summary": "24 sales in 24h for 0.80 ETH. Highest: \"WAGMI 3.0\" at 0.069 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -97,12 +97,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "25",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.85",
+          "value": "0.80",
           "sub": "ETH"
         },
         {
@@ -121,39 +121,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.85 ETH",
-      "raw": 0.8459,
-      "delta": -1.9885000000000002,
-      "delta_fmt": "-70.2%"
+      "value": "0.80 ETH",
+      "raw": 0.7959,
+      "delta": -2.0385,
+      "delta_fmt": "-71.9%"
     },
     {
       "label": "7d Vol",
-      "value": "11.42 ETH",
-      "raw": 11.4218
+      "value": "11.31 ETH",
+      "raw": 11.31
     },
     {
       "label": "30d Vol",
-      "value": "56.23 ETH",
-      "raw": 56.2266
+      "value": "54.67 ETH",
+      "raw": 54.6686
     },
     {
       "label": "Full Set Bid",
-      "value": "34.1 ETH",
-      "raw": 34.09,
-      "delta": 0.7600000000000051,
-      "delta_fmt": "+0.76 ETH"
+      "value": "34.2 ETH",
+      "raw": 34.23,
+      "delta": 0.13999999999999346,
+      "delta_fmt": "+0.14 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2138.3M",
-      "raw": 2138292759
+      "value": "2141.3M",
+      "raw": 2141278372,
+      "delta": 2985613,
+      "delta_fmt": "+3.0M TDH"
     },
     {
       "label": "#1 Botto",
       "value": "86.3M TDH",
-      "raw": 86333364,
-      "delta": 1133658,
-      "delta_fmt": "+1.1M TDH"
+      "raw": 86333650,
+      "delta": 286,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Nicolas_Bets",
@@ -698,7 +700,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #573: 153 MINTS (EXCL. MUSEUM) | 89 HOLDERS | BIRTH OF A NETWORK",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #573: 153 MINTS (EXCL. MUSEUM) | 89 HOLDERS | BIRTH OF A NETWORK"
   ]
 }
