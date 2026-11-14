@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-11-14T10:57:17.737384+00:00",
+  "generated_at": "2026-11-14T16:53:58.099614+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"BORN TO BE FREE\" by Nicolas_Bets \u2014 51.2M TDH from 61 voters. Top supporter: Poseidon (14.9M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/574.JPG",
-        "label": "BORN TO BE FREE - Nicolas_Bets",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING MONDAY",
       "headline": "Minting Monday",
@@ -30,30 +17,30 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Loop Leads with 37.2M Projected TDH",
-      "summary": "\"We create in the fog\" by Loop (37.2M projected TDH, 100 voters) | \"NATURE OF THE BEAST\" by dougfriesen (32.2M projected TDH, 64 voters) | \"Time Is The Only Currency\" by Rakesh (27.0M projected TDH, 55 voters) Next selection: Mon Nov 16 at 17:00 CET.",
+      "headline": "Rakesh Leads with 38.0M Projected TDH",
+      "summary": "\"Time Is The Only Currency\" by Rakesh (38.0M projected TDH, 77 voters) | \"We create in the fog\" by Loop (37.2M projected TDH, 101 voters) | \"NATURE OF THE BEAST\" by dougfriesen (32.6M projected TDH, 70 voters) Next selection: Mon Nov 16 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d36a919e-df9d-4585-a1af-240ff731e76d/1e7b8490-7c2f-467b-87a7-63fcda9b8a27/6529.png",
-        "label": "We create in the fog - Loop",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/723ffc00-2316-40f7-ae30-17a570af08e3/DJI-20261024162239-0310-D-copy.JPG",
+        "label": "Time Is The Only Currency - Rakesh",
         "type": "image"
       },
       "dataBoxes": [
         {
+          "label": "Rakesh",
+          "value": "38.0M",
+          "sub": "proj. (77 votes)"
+        },
+        {
           "label": "Loop",
           "value": "37.2M",
-          "sub": "proj. (100 votes)"
+          "sub": "proj. (101 votes)"
         },
         {
           "label": "dougfriesen",
-          "value": "32.2M",
-          "sub": "proj. (64 votes)"
-        },
-        {
-          "label": "Rakesh",
-          "value": "27.0M",
-          "sub": "proj. (55 votes)"
+          "value": "32.6M",
+          "sub": "proj. (70 votes)"
         }
       ]
     },
@@ -78,7 +65,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: RegularDad (18.2M) | ikertje (9.2M).",
+      "summary": "2 submissions this week. Ranking: RegularDad (26.2M) | ikertje (9.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -99,47 +86,47 @@
     },
     {
       "category": "SALES RECAP",
-      "headline": "70 Sales Today - 3.36 ETH Volume",
-      "summary": "70 sales in 24h for 3.36 ETH. Highest: \"The Ride\" at 0.070 ETH.",
+      "headline": "105 Sales Today - 5.71 ETH Volume",
+      "summary": "105 sales in 24h for 5.71 ETH. Highest: \"SeizeJPGs\" at 0.269 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/544.GIF",
-        "label": "The Ride - 0.070 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+        "label": "SeizeJPGs - 0.269 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/544.GIF",
-          "label": "The Ride - 0.070 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+          "label": "SeizeJPGs - 0.269 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/537.GIF",
-          "label": "\uff2e\uff2f\u3000\uff28\uff35\uff2d\uff21\uff2e\u3000\uff29\uff2e\uff34\uff25\uff32\uff26\uff21\uff23\uff25 - 0.069 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/146.WEBP",
+          "label": "The OMen - 0.120 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/524.WEBP",
-          "label": "TAKE A PIECE - 0.069 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/149.WEBP",
+          "label": "FAFO With Digital Rights - 0.100 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "70",
+          "value": "105",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.36",
+          "value": "5.71",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.070",
-          "sub": "The Ride"
+          "value": "0.269",
+          "sub": "SeizeJPGs"
         },
         {
           "label": "Floor",
@@ -152,32 +139,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.36 ETH",
-      "raw": 3.3563,
-      "delta": 2.4643,
-      "delta_fmt": "+276.3%"
+      "value": "5.71 ETH",
+      "raw": 5.7145,
+      "delta": 4.5192,
+      "delta_fmt": "+378.1%"
     },
     {
       "label": "7d Vol",
-      "value": "13.77 ETH",
-      "raw": 13.7678
+      "value": "15.91 ETH",
+      "raw": 15.9051
     },
     {
       "label": "30d Vol",
-      "value": "56.28 ETH",
-      "raw": 56.2786
+      "value": "58.94 ETH",
+      "raw": 58.9351
     },
     {
       "label": "Full Set Bid",
       "value": "35.2 ETH",
-      "raw": 35.21,
-      "delta": 0.20000000000000284,
-      "delta_fmt": "+0.20 ETH"
+      "raw": 35.18,
+      "delta": -0.030000000000001137,
+      "delta_fmt": "-0.03 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2144.2M",
       "raw": 2144200452
+    },
+    {
+      "label": "#1 Rakesh",
+      "value": "38.0M TDH",
+      "raw": 37965447,
+      "delta": -15718388,
+      "delta_fmt": "-15.7M TDH"
     },
     {
       "label": "#1 Loop",
@@ -736,7 +730,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #574: 125 MINTS (EXCL. MUSEUM) | 83 HOLDERS | BORN TO BE FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #574: 128 MINTS (EXCL. MUSEUM) | 84 HOLDERS | BORN TO BE FREE"
   ]
 }
