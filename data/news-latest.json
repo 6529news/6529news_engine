@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:53:58.099614+00:00",
+  "generated_at": "2026-11-14T21:06:51.998888+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Rakesh Leads with 38.0M Projected TDH",
-      "summary": "\"Time Is The Only Currency\" by Rakesh (38.0M projected TDH, 77 voters) | \"We create in the fog\" by Loop (37.2M projected TDH, 101 voters) | \"NATURE OF THE BEAST\" by dougfriesen (32.6M projected TDH, 70 voters) Next selection: Mon Nov 16 at 17:00 CET.",
+      "headline": "Rakesh Leads with 43.8M Projected TDH",
+      "summary": "\"Time Is The Only Currency\" by Rakesh (43.8M projected TDH, 93 voters) | \"We create in the fog\" by Loop (37.2M projected TDH, 101 voters) | \"NATURE OF THE BEAST\" by dougfriesen (32.6M projected TDH, 70 voters) Next selection: Mon Nov 16 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "Rakesh",
-          "value": "38.0M",
-          "sub": "proj. (77 votes)"
+          "value": "43.8M",
+          "sub": "proj. (93 votes)"
         },
         {
           "label": "Loop",
@@ -47,7 +47,7 @@
     {
       "category": "ANNOUNCEMENT",
       "headline": "New Announcement by punk6529",
-      "summary": "punk6529: **Update Your Validator**\n\n- If your validator is on rc.13 or older (Network page, \"What they run\"), it can't update by itself. \n- Install rc.16 once by hand from 6529.io/valida...",
+      "summary": "punk6529: **rc.17 is out and your validator runs the 6529 chain**\n\n- If auto-update is on (the default), you probably have it already. Your page shows the version under the name.\n- The 65...",
       "source": "Announcements",
       "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
       "image": {
@@ -65,7 +65,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: RegularDad (26.2M) | ikertje (9.2M).",
+      "summary": "2 submissions this week. Ranking: RegularDad (31.0M) | ikertje (9.2M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -79,15 +79,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "105 Sales Today - 5.71 ETH Volume",
-      "summary": "105 sales in 24h for 5.71 ETH. Highest: \"SeizeJPGs\" at 0.269 ETH.",
+      "headline": "56 Sales Today - 3.32 ETH Volume",
+      "summary": "56 sales in 24h for 3.32 ETH. Highest: \"SeizeJPGs\" at 0.269 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,25 +102,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/146.WEBP",
-          "label": "The OMen - 0.120 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/3.WEBP",
+          "label": "UncleSeize - 0.139 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/149.WEBP",
-          "label": "FAFO With Digital Rights - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/146.WEBP",
+          "label": "The OMen - 0.120 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "105",
+          "value": "56",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "5.71",
+          "value": "3.32",
           "sub": "ETH"
         },
         {
@@ -130,7 +130,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.027",
+          "value": "0.026999999999999",
           "sub": "ETH"
         }
       ]
@@ -139,27 +139,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "5.71 ETH",
-      "raw": 5.7145,
-      "delta": 4.5192,
-      "delta_fmt": "+378.1%"
+      "value": "3.32 ETH",
+      "raw": 3.3191,
+      "delta": 0.8968000000000003,
+      "delta_fmt": "+37.0%"
     },
     {
       "label": "7d Vol",
-      "value": "15.91 ETH",
-      "raw": 15.9051
+      "value": "14.10 ETH",
+      "raw": 14.0978
     },
     {
       "label": "30d Vol",
-      "value": "58.94 ETH",
-      "raw": 58.9351
+      "value": "57.98 ETH",
+      "raw": 57.9788
     },
     {
       "label": "Full Set Bid",
-      "value": "35.2 ETH",
-      "raw": 35.18,
-      "delta": -0.030000000000001137,
-      "delta_fmt": "-0.03 ETH"
+      "value": "35.3 ETH",
+      "raw": 35.28,
+      "delta": 0.10000000000000142,
+      "delta_fmt": "+0.10 ETH"
     },
     {
       "label": "Network TDH",
@@ -168,10 +168,10 @@
     },
     {
       "label": "#1 Rakesh",
-      "value": "38.0M TDH",
-      "raw": 37965447,
-      "delta": -15718388,
-      "delta_fmt": "-15.7M TDH"
+      "value": "43.8M TDH",
+      "raw": 43841351,
+      "delta": 5875904,
+      "delta_fmt": "+5.9M TDH"
     },
     {
       "label": "#1 Loop",
@@ -730,7 +730,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #574: 128 MINTS (EXCL. MUSEUM) | 84 HOLDERS | BORN TO BE FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #574: 128 MINTS (EXCL. MUSEUM) | 84 HOLDERS | BORN TO BE FREE"
   ]
 }
