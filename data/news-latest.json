@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T03:34:37.679881+00:00",
+  "generated_at": "2026-11-14T10:57:17.737384+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "Loop Leads with 37.2M Projected TDH",
-      "summary": "\"We create in the fog\" by Loop (37.2M projected TDH, 100 voters) | \"NATURE OF THE BEAST\" by dougfriesen (31.1M projected TDH, 63 voters) | \"Time Is The Only Currency\" by Rakesh (26.8M projected TDH, 52 voters) Next selection: Mon Nov 16 at 17:00 CET.",
+      "summary": "\"We create in the fog\" by Loop (37.2M projected TDH, 100 voters) | \"NATURE OF THE BEAST\" by dougfriesen (32.2M projected TDH, 64 voters) | \"Time Is The Only Currency\" by Rakesh (27.0M projected TDH, 55 voters) Next selection: Mon Nov 16 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -47,13 +47,13 @@
         },
         {
           "label": "dougfriesen",
-          "value": "31.1M",
-          "sub": "proj. (63 votes)"
+          "value": "32.2M",
+          "sub": "proj. (64 votes)"
         },
         {
           "label": "Rakesh",
-          "value": "26.8M",
-          "sub": "proj. (52 votes)"
+          "value": "27.0M",
+          "sub": "proj. (55 votes)"
         }
       ]
     },
@@ -87,20 +87,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "65 Sales Today - 3.13 ETH Volume",
-      "summary": "65 sales in 24h for 3.13 ETH. Highest: \"The Ride\" at 0.070 ETH.",
+      "headline": "70 Sales Today - 3.36 ETH Volume",
+      "summary": "70 sales in 24h for 3.36 ETH. Highest: \"The Ride\" at 0.070 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -128,12 +128,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "65",
+          "value": "70",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.13",
+          "value": "3.36",
           "sub": "ETH"
         },
         {
@@ -143,7 +143,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.026999999999999",
+          "value": "0.027",
           "sub": "ETH"
         }
       ]
@@ -152,41 +152,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.13 ETH",
-      "raw": 3.1266,
-      "delta": 2.3306999999999998,
-      "delta_fmt": "+292.8%"
+      "value": "3.36 ETH",
+      "raw": 3.3563,
+      "delta": 2.4643,
+      "delta_fmt": "+276.3%"
     },
     {
       "label": "7d Vol",
       "value": "13.77 ETH",
-      "raw": 13.771
+      "raw": 13.7678
     },
     {
       "label": "30d Vol",
-      "value": "55.51 ETH",
-      "raw": 55.5148
+      "value": "56.28 ETH",
+      "raw": 56.2786
     },
     {
       "label": "Full Set Bid",
-      "value": "35.0 ETH",
-      "raw": 35.01,
-      "delta": 0.6499999999999986,
-      "delta_fmt": "+0.65 ETH"
+      "value": "35.2 ETH",
+      "raw": 35.21,
+      "delta": 0.20000000000000284,
+      "delta_fmt": "+0.20 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2144.2M",
-      "raw": 2144200452,
-      "delta": 2922080,
-      "delta_fmt": "+2.9M TDH"
+      "raw": 2144200452
     },
     {
       "label": "#1 Loop",
       "value": "37.2M TDH",
-      "raw": 37150994,
-      "delta": -5766782,
-      "delta_fmt": "-5.8M TDH"
+      "raw": 37152173,
+      "delta": 1179,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Botto",
@@ -738,7 +736,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #574: 125 MINTS (EXCL. MUSEUM) | 83 HOLDERS | BORN TO BE FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #574: 125 MINTS (EXCL. MUSEUM) | 83 HOLDERS | BORN TO BE FREE"
   ]
 }
