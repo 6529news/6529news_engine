@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:51:37.380624+00:00",
+  "generated_at": "2026-11-15T15:22:55.200249+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Rakesh Leads with 64.5M Projected TDH",
-      "summary": "\"Time Is The Only Currency\" by Rakesh (64.5M projected TDH, 108 voters) | \"Compute/Dev 1\" by RegularDad (33.6M projected TDH, 12 voters) | \"NATURE OF THE BEAST\" by dougfriesen (32.6M projected TDH, 71 voters) Next selection: Mon Nov 16 at 17:00 CET.",
+      "headline": "Rakesh Leads with 74.2M Projected TDH",
+      "summary": "\"Time Is The Only Currency\" by Rakesh (74.2M projected TDH, 120 voters) | \"NATURE OF THE BEAST\" by dougfriesen (32.7M projected TDH, 73 voters) | \"Compute/Dev 1\" by RegularDad (31.7M projected TDH, 19 voters) Next selection: Mon Nov 16 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,18 +29,18 @@
       "dataBoxes": [
         {
           "label": "Rakesh",
-          "value": "64.5M",
-          "sub": "proj. (108 votes)"
-        },
-        {
-          "label": "RegularDad",
-          "value": "33.6M",
-          "sub": "proj. (12 votes)"
+          "value": "74.2M",
+          "sub": "proj. (120 votes)"
         },
         {
           "label": "dougfriesen",
-          "value": "32.6M",
-          "sub": "proj. (71 votes)"
+          "value": "32.7M",
+          "sub": "proj. (73 votes)"
+        },
+        {
+          "label": "RegularDad",
+          "value": "31.7M",
+          "sub": "proj. (19 votes)"
         }
       ]
     },
@@ -65,18 +65,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: ikertje (9.2M) | CasaNUA (5.3M).",
+      "summary": "2 submissions this week. Ranking: ikertje (9.2M) | CasaNUA (8.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/1d9be55f-3f53-40a6-bebc-4f4c055a0504/6529-validator-monitor-launch-4k-60fps.mp4",
-        "label": "CasaNUA (5.3M)",
+        "label": "CasaNUA (8.3M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/1d9be55f-3f53-40a6-bebc-4f4c055a0504/6529-validator-monitor-launch-4k-60fps.mp4",
-          "label": "CasaNUA (5.3M)",
+          "label": "CasaNUA (8.3M)",
           "type": "video"
         }
       ],
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#5 awhurst \u2014 555K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
-        "label": "awhurst (555K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "56 Sales Today - 3.64 ETH Volume",
-      "summary": "56 sales in 24h for 3.64 ETH. Highest: \"Seize The TDH\" at 0.190 ETH.",
+      "headline": "57 Sales Today - 3.48 ETH Volume",
+      "summary": "57 sales in 24h for 3.48 ETH. Highest: \"Seize The TDH\" at 0.190 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,12 +125,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "56",
+          "value": "57",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.64",
+          "value": "3.48",
           "sub": "ETH"
         },
         {
@@ -140,7 +140,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.027",
+          "value": "0.0269",
           "sub": "ETH"
         }
       ]
@@ -149,27 +149,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.64 ETH",
-      "raw": 3.6435,
-      "delta": 0.2871999999999999,
-      "delta_fmt": "+8.6%"
+      "value": "3.48 ETH",
+      "raw": 3.4786,
+      "delta": -2.2359,
+      "delta_fmt": "-39.1%"
     },
     {
       "label": "7d Vol",
-      "value": "15.33 ETH",
-      "raw": 15.3269
+      "value": "15.39 ETH",
+      "raw": 15.3942
     },
     {
       "label": "30d Vol",
-      "value": "58.39 ETH",
-      "raw": 58.3863
+      "value": "58.85 ETH",
+      "raw": 58.8474
     },
     {
       "label": "Full Set Bid",
-      "value": "35.8 ETH",
-      "raw": 35.83,
-      "delta": 0.5300000000000011,
-      "delta_fmt": "+0.53 ETH"
+      "value": "35.7 ETH",
+      "raw": 35.72,
+      "delta": -0.10999999999999943,
+      "delta_fmt": "-0.11 ETH"
     },
     {
       "label": "Network TDH",
@@ -178,10 +178,10 @@
     },
     {
       "label": "#1 Rakesh",
-      "value": "64.5M TDH",
-      "raw": 64470843,
-      "delta": 17314280,
-      "delta_fmt": "+17.3M TDH"
+      "value": "74.2M TDH",
+      "raw": 74162877,
+      "delta": 9692034,
+      "delta_fmt": "+9.7M TDH"
     },
     {
       "label": "#1 Loop",
@@ -740,7 +740,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #574: 128 MINTS (EXCL. MUSEUM) | 84 HOLDERS | BORN TO BE FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #574: 128 MINTS (EXCL. MUSEUM) | 84 HOLDERS | BORN TO BE FREE"
   ]
 }
