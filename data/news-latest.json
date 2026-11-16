@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T00:15:58.871287+00:00",
+  "generated_at": "2026-11-16T07:02:33.892699+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Rakesh Leads with 83.5M Projected TDH",
-      "summary": "\"Time Is The Only Currency\" by Rakesh (83.5M projected TDH, 128 voters) | \"NATURE OF THE BEAST\" by dougfriesen (36.2M projected TDH, 75 voters) | \"Compute/Dev 1\" by RegularDad (32.0M projected TDH, 21 voters) Next selection: Mon Nov 16 at 17:00 CET.",
+      "headline": "Rakesh Leads with 83.8M Projected TDH",
+      "summary": "\"Time Is The Only Currency\" by Rakesh (83.8M projected TDH, 128 voters) | \"NATURE OF THE BEAST\" by dougfriesen (36.2M projected TDH, 77 voters) | \"Compute/Dev 1\" by RegularDad (32.0M projected TDH, 21 voters) Next selection: Mon Nov 16 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,13 +29,13 @@
       "dataBoxes": [
         {
           "label": "Rakesh",
-          "value": "83.5M",
+          "value": "83.8M",
           "sub": "proj. (128 votes)"
         },
         {
           "label": "dougfriesen",
           "value": "36.2M",
-          "sub": "proj. (75 votes)"
+          "sub": "proj. (77 votes)"
         },
         {
           "label": "RegularDad",
@@ -47,18 +47,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: ikertje (9.2M) | CasaNUA (8.3M).",
+      "summary": "2 submissions this week. Ranking: ikertje (9.3M) | CasaNUA (8.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/1d9be55f-3f53-40a6-bebc-4f4c055a0504/6529-validator-monitor-launch-4k-60fps.mp4",
-        "label": "CasaNUA (8.3M)",
+        "label": "CasaNUA (8.4M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/1d9be55f-3f53-40a6-bebc-4f4c055a0504/6529-validator-monitor-launch-4k-60fps.mp4",
-          "label": "CasaNUA (8.3M)",
+          "label": "CasaNUA (8.4M)",
           "type": "video"
         }
       ],
@@ -66,63 +66,63 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "38 Sales Today - 2.23 ETH Volume",
-      "summary": "38 sales in 24h for 2.23 ETH. Highest: \"Seize The TDH\" at 0.190 ETH.",
+      "headline": "28 Sales Today - 1.80 ETH Volume",
+      "summary": "28 sales in 24h for 1.80 ETH. Highest: \"Sgt. Pepe\" at 0.470 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/371.GIF",
-        "label": "Seize The TDH - 0.190 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
+        "label": "Sgt. Pepe - 0.470 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/371.GIF",
-          "label": "Seize The TDH - 0.190 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
+          "label": "Sgt. Pepe - 0.470 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/369.GIF",
-          "label": "Here They Come - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/97.GIF",
+          "label": "Meme Colony - 0.090 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/368.GIF",
-          "label": "Freedom to Roam - 0.099 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/443.GIF",
+          "label": "< no, really [ this ] is going to be our year > - 0.077 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "38",
+          "value": "28",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.23",
+          "value": "1.80",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.190",
-          "sub": "Seize The TDH"
+          "value": "0.470",
+          "sub": "Sgt. Pepe"
         },
         {
           "label": "Floor",
-          "value": "0.0269",
+          "value": "0.026888888888",
           "sub": "ETH"
         }
       ]
@@ -177,41 +177,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.23 ETH",
-      "raw": 2.2281,
-      "delta": -1.1461000000000001,
-      "delta_fmt": "-34.0%"
+      "value": "1.80 ETH",
+      "raw": 1.8004,
+      "delta": -1.8431,
+      "delta_fmt": "-50.6%"
     },
     {
       "label": "7d Vol",
-      "value": "14.37 ETH",
-      "raw": 14.3695
+      "value": "14.90 ETH",
+      "raw": 14.9021
     },
     {
       "label": "30d Vol",
-      "value": "56.33 ETH",
-      "raw": 56.3329
+      "value": "57.06 ETH",
+      "raw": 57.0569
     },
     {
       "label": "Full Set Bid",
-      "value": "35.5 ETH",
-      "raw": 35.49,
-      "delta": 0.05000000000000426,
-      "delta_fmt": "+0.05 ETH"
+      "value": "36.0 ETH",
+      "raw": 35.97,
+      "delta": 0.4799999999999969,
+      "delta_fmt": "+0.48 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2150.3M",
-      "raw": 2150340635,
-      "delta": 3151555,
-      "delta_fmt": "+3.2M TDH"
+      "raw": 2150340635
     },
     {
       "label": "#1 Rakesh",
-      "value": "83.5M TDH",
-      "raw": 83459308,
-      "delta": 795716,
-      "delta_fmt": "+0.8M TDH"
+      "value": "83.8M TDH",
+      "raw": 83791534,
+      "delta": 332226,
+      "delta_fmt": "+0.3M TDH"
     },
     {
       "label": "#1 Loop",
@@ -770,8 +768,9 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.375 ETH | 1 SALES | LAST SALE 7h AGO",
-    "CARD #574: 128 MINTS (EXCL. MUSEUM) | 84 HOLDERS | BORN TO BE FREE",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "SGT PEPE SALE: 0.470 ETH",
+    "PEBBLES: FLOOR 0.375 ETH | 1 SALES | LAST SALE 14h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #574: 128 MINTS (EXCL. MUSEUM) | 84 HOLDERS | BORN TO BE FREE"
   ]
 }
