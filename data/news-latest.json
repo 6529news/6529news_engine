@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-16T16:59:59.047815+00:00",
+  "generated_at": "2026-11-17T00:06:51.485901+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"Come eat your slop\" by Botto \u2014 86.9M TDH from 93 voters. Top supporter: Giopetto (10.0M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"Come eat your slop\" by Botto \u2014 86.9M TDH from 93 voters. Top supporter: Giopetto (10.0M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "RegularDad Leads with 53.7M Projected TDH",
-      "summary": "\"Compute/Dev 1\" by RegularDad (53.7M projected TDH, 26 voters) | \"NATURE OF THE BEAST\" by dougfriesen (43.4M projected TDH, 79 voters) | \"Proof of Conviction\" by Soliiiart (26.9M projected TDH, 96 voters) Next selection: Wed Nov 18 at 17:00 CET.",
+      "headline": "RegularDad Leads with 70.1M Projected TDH",
+      "summary": "\"Compute/Dev 1\" by RegularDad (70.1M projected TDH, 37 voters) | \"NATURE OF THE BEAST\" by dougfriesen (44.4M projected TDH, 80 voters) | \"Proof of Conviction\" by Soliiiart (26.9M projected TDH, 96 voters) Next selection: Wed Nov 18 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "RegularDad",
-          "value": "53.7M",
-          "sub": "proj. (26 votes)"
+          "value": "70.1M",
+          "sub": "proj. (37 votes)"
         },
         {
           "label": "dougfriesen",
-          "value": "43.4M",
-          "sub": "proj. (79 votes)"
+          "value": "44.4M",
+          "sub": "proj. (80 votes)"
         },
         {
           "label": "Soliiiart",
@@ -60,7 +60,7 @@
     {
       "category": "ANNOUNCEMENT",
       "headline": "New Announcement by punk6529",
-      "summary": "punk6529: **Summary (tl;dr) version**\n\n- If you are on rc.17 or earlier, please update to get current.  You will be dropped off the chain at midnight UTC otherwise\n- Chain is running OK w...",
+      "summary": "punk6529: **The Decentralized Trinity**\n\n- 6529 Validator: decentralized transactions\n- 6529 Desktop: decentralized communication \n- 6529 AI: decentralized AI\n\nThese three are the network...",
       "source": "Announcements",
       "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
       "image": {
@@ -78,18 +78,18 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: CasaNUA (10.4M) | ikertje (9.3M).",
+      "summary": "2 submissions this week. Ranking: CasaNUA (14.7M) | ikertje (9.3M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/1d9be55f-3f53-40a6-bebc-4f4c055a0504/6529-validator-monitor-launch-4k-60fps.mp4",
-        "label": "CasaNUA (10.4M)",
+        "label": "CasaNUA (14.7M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/1d9be55f-3f53-40a6-bebc-4f4c055a0504/6529-validator-monitor-launch-4k-60fps.mp4",
-          "label": "CasaNUA (10.4M)",
+          "label": "CasaNUA (14.7M)",
           "type": "video"
         }
       ],
@@ -97,63 +97,63 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "#7 Gsen \u2014 151K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
+        "label": "Gsen (151K)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "31 Sales Today - 2.19 ETH Volume",
-      "summary": "31 sales in 24h for 2.19 ETH. Highest: \"Sgt. Pepe\" at 0.470 ETH.",
+      "headline": "38 Sales Today - 2.72 ETH Volume",
+      "summary": "38 sales in 24h for 2.72 ETH. Highest: \"SeizeJPGs\" at 0.269 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
-        "label": "Sgt. Pepe - 0.470 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
+        "label": "SeizeJPGs - 0.269 ETH",
         "type": "image"
       },
       "images": [
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
-          "label": "Sgt. Pepe - 0.470 ETH",
-          "type": "image"
-        },
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/2.WEBP",
           "label": "SeizeJPGs - 0.269 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
-          "label": "Pepe X - 0.100 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/575.WEBP",
+          "label": "Come eat your slop - 0.150 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/337.WEBP",
+          "label": "I AM BECOME MEME - 0.139 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "31",
+          "value": "38",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "2.19",
+          "value": "2.72",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.470",
-          "sub": "Sgt. Pepe"
+          "value": "0.269",
+          "sub": "SeizeJPGs"
         },
         {
           "label": "Floor",
-          "value": "0.02688887",
+          "value": "0.026888888887999",
           "sub": "ETH"
         }
       ]
@@ -161,7 +161,7 @@
     {
       "category": "PEBBLES",
       "headline": "Pebbles: 2 Sales - 0.755 ETH",
-      "summary": "2 Pebbles sold in the last 24h for a total of 0.755 ETH. Current floor: 0.375 ETH.",
+      "summary": "2 Pebbles sold in the last 24h for a total of 0.755 ETH. Current floor: 0.84995 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/pebbles-by-zeblocks",
       "image": {
@@ -199,7 +199,7 @@
         },
         {
           "label": "Floor",
-          "value": "0.375",
+          "value": "0.84995",
           "sub": "ETH"
         }
       ]
@@ -208,27 +208,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "2.19 ETH",
-      "raw": 2.1882,
-      "delta": -1.2904,
-      "delta_fmt": "-37.1%"
+      "value": "2.72 ETH",
+      "raw": 2.7227,
+      "delta": 0.49460000000000015,
+      "delta_fmt": "+22.2%"
     },
     {
       "label": "7d Vol",
-      "value": "15.28 ETH",
-      "raw": 15.2762
+      "value": "15.97 ETH",
+      "raw": 15.9719
     },
     {
       "label": "30d Vol",
-      "value": "58.24 ETH",
-      "raw": 58.2408
+      "value": "59.06 ETH",
+      "raw": 59.0556
     },
     {
       "label": "Full Set Bid",
-      "value": "35.4 ETH",
-      "raw": 35.41,
-      "delta": -0.5600000000000023,
-      "delta_fmt": "-0.56 ETH"
+      "value": "35.6 ETH",
+      "raw": 35.62,
+      "delta": 0.21000000000000085,
+      "delta_fmt": "+0.21 ETH"
     },
     {
       "label": "Network TDH",
@@ -237,10 +237,10 @@
     },
     {
       "label": "#1 RegularDad",
-      "value": "53.7M TDH",
-      "raw": 53703698,
-      "delta": -1804379,
-      "delta_fmt": "-1.8M TDH"
+      "value": "70.1M TDH",
+      "raw": 70142111,
+      "delta": 16438413,
+      "delta_fmt": "+16.4M TDH"
     },
     {
       "label": "#1 Rakesh",
@@ -799,9 +799,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "SGT PEPE SALE: 0.470 ETH",
-    "PEBBLES: FLOOR 0.375 ETH | 2 SALES | LAST SALE 3h AGO",
-    "CARD #575: 230 MINTS (EXCL. MUSEUM) | 180 HOLDERS | COME EAT YOUR SLOP",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.84995 ETH | 2 SALES | LAST SALE 10h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #575: 295 MINTS (EXCL. MUSEUM) | 207 HOLDERS | COME EAT YOUR SLOP"
   ]
 }
