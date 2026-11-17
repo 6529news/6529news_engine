@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:06:51.485901+00:00",
+  "generated_at": "2026-11-17T00:43:49.581666+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -97,13 +97,13 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#7 Gsen \u2014 151K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_5b6117ae-3c12-42dd-868e-bbc831991c8b/fdc72e19-ce84-49cb-9056-5802feb4ec0b.png",
-        "label": "Gsen (151K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
@@ -226,21 +226,21 @@
     {
       "label": "Full Set Bid",
       "value": "35.6 ETH",
-      "raw": 35.62,
-      "delta": 0.21000000000000085,
-      "delta_fmt": "+0.21 ETH"
+      "raw": 35.61,
+      "delta": -0.00999999999999801,
+      "delta_fmt": "-0.01 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2150.3M",
-      "raw": 2150340635
+      "value": "2153.6M",
+      "raw": 2153550470,
+      "delta": 3209835,
+      "delta_fmt": "+3.2M TDH"
     },
     {
       "label": "#1 RegularDad",
       "value": "70.1M TDH",
-      "raw": 70142111,
-      "delta": 16438413,
-      "delta_fmt": "+16.4M TDH"
+      "raw": 70142111
     },
     {
       "label": "#1 Rakesh",
