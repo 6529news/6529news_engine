@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:57:25.383058+00:00",
+  "generated_at": "2026-11-18T17:04:04.149712+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,79 +9,69 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/723ffc00-2316-40f7-ae30-17a570af08e3/DJI-20261024162239-0310-D-copy.JPG",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/576.JPG",
         "label": "Time Is The Only Currency - Rakesh",
         "type": "image"
       },
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "RegularDad Leads with 72.6M Projected TDH",
-      "summary": "\"Compute/Dev 1\" by RegularDad (72.6M projected TDH, 57 voters) | \"NATURE OF THE BEAST\" by dougfriesen (44.5M projected TDH, 82 voters) | \"Proof of Conviction\" by Soliiiart (27.0M projected TDH, 96 voters) Next selection: Wed Nov 18 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING FRIDAY",
+      "headline": "Minting Friday",
+      "summary": " \"Compute/Dev 1\" by RegularDad \u2014 72.6M TDH from 57 voters. Top supporter: gpebbles (14.7M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/dee98d8b-6449-49b2-ada7-38f7c4e35167/proposal-card-preview.png",
         "label": "Compute/Dev 1 - RegularDad",
         "type": "image"
       },
-      "dataBoxes": [
-        {
-          "label": "RegularDad",
-          "value": "72.6M",
-          "sub": "proj. (57 votes)"
-        },
-        {
-          "label": "dougfriesen",
-          "value": "44.5M",
-          "sub": "proj. (82 votes)"
-        },
-        {
-          "label": "Soliiiart",
-          "value": "27.0M",
-          "sub": "proj. (96 votes)"
-        }
-      ]
+      "dataBoxes": null
     },
     {
-      "category": "ANNOUNCEMENT",
-      "headline": "New Announcement by punk6529",
-      "summary": "punk6529: Caution Until Friday\n\n- I am currently not sure where my laptop is \n- I think the chances are infinitesimally smallbut if you get any weird messages the next three days from soc...",
-      "source": "Announcements",
-      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
+      "category": "TOP MEMES",
+      "headline": "dougfriesen Leads with 56.6M Projected TDH",
+      "summary": "\"NATURE OF THE BEAST\" by dougfriesen (56.6M projected TDH, 83 voters) | \"6529 Validator Monitor\" by CasaNUA (29.6M projected TDH, 31 voters) | \"Proof of Conviction\" by Soliiiart (27.1M projected TDH, 97 voters) Next selection: Fri Nov 20 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
-        "label": "punk6529"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/999086d5-fbff-4f92-b5cb-441110ca961d/20230629-3624-natureofthebeast-by-dougfriesen-4095x5120.jpg",
+        "label": "NATURE OF THE BEAST - dougfriesen",
+        "type": "image"
       },
       "dataBoxes": [
         {
-          "label": "punk6529",
-          "value": "Lv100",
-          "sub": "88.8M TDH"
+          "label": "dougfriesen",
+          "value": "56.6M",
+          "sub": "proj. (83 votes)"
+        },
+        {
+          "label": "CasaNUA",
+          "value": "29.6M",
+          "sub": "proj. (31 votes)"
+        },
+        {
+          "label": "Soliiiart",
+          "value": "27.1M",
+          "sub": "proj. (97 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: CasaNUA (17.0M) | ikertje (9.3M) | SonOfLasG (2.8M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: ikertje (9.3M) | SonOfLasG (2.9M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/1d9be55f-3f53-40a6-bebc-4f4c055a0504/6529-validator-monitor-launch-4k-60fps.mp4",
-        "label": "CasaNUA (17.0M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/2050f9da-dfe7-41cd-b4c2-15e7ef8972de/terraforms-6529-sound.mp4",
+        "label": "SonOfLasG (2.9M)",
         "type": "video"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/1d9be55f-3f53-40a6-bebc-4f4c055a0504/6529-validator-monitor-launch-4k-60fps.mp4",
-          "label": "CasaNUA (17.0M)",
-          "type": "video"
-        },
-        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/2050f9da-dfe7-41cd-b4c2-15e7ef8972de/terraforms-6529-sound.mp4",
-          "label": "SonOfLasG (2.8M)",
+          "label": "SonOfLasG (2.9M)",
           "type": "video"
         }
       ],
@@ -89,63 +79,63 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 6K TDH",
+      "headline": "#5 awhurst \u2014 555K TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/e8b2c91d-49e1-4639-ad81-252c29766042/IMG-1359.mp4",
-        "label": "Bicasso (6K)",
-        "type": "video"
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_c5b4b7b4-fa73-4293-8167-3b39f1d9dfb2/1cea48e1-c9ed-4b1a-acf4-77f92842e16e.jpeg",
+        "label": "awhurst (555K)",
+        "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "67 Sales Today - 3.75 ETH Volume",
-      "summary": "67 sales in 24h for 3.75 ETH. Highest: \"AUTONOMY.EXE\" at 0.190 ETH.",
+      "headline": "76 Sales Today - 3.96 ETH Volume",
+      "summary": "76 sales in 24h for 3.96 ETH. Highest: \"What's Ded May Never Die\" at 0.070 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-        "label": "AUTONOMY.EXE - 0.190 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/439.WEBP",
+        "label": "What's Ded May Never Die - 0.070 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/479.WEBP",
-          "label": "AUTONOMY.EXE - 0.190 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/552.WEBP",
-          "label": "The First Believer - 0.073 ETH",
-          "type": "image"
-        },
-        {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/439.WEBP",
           "label": "What's Ded May Never Die - 0.070 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/575.WEBP",
+          "label": "Come eat your slop - 0.069 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/451.WEBP",
+          "label": "Memento Survive - 0.068 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "67",
+          "value": "76",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.75",
+          "value": "3.96",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.190",
-          "sub": "AUTONOMY.EXE"
+          "value": "0.070",
+          "sub": "What's Ded May Never"
         },
         {
           "label": "Floor",
-          "value": "0.027",
+          "value": "0.026999",
           "sub": "ETH"
         }
       ]
@@ -200,32 +190,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.75 ETH",
-      "raw": 3.7532,
-      "delta": 1.1830000000000003,
-      "delta_fmt": "+46.0%"
+      "value": "3.96 ETH",
+      "raw": 3.9644,
+      "delta": 2.1163,
+      "delta_fmt": "+114.5%"
     },
     {
       "label": "7d Vol",
-      "value": "18.43 ETH",
-      "raw": 18.4327
+      "value": "18.95 ETH",
+      "raw": 18.9529
     },
     {
       "label": "30d Vol",
-      "value": "45.97 ETH",
-      "raw": 45.9712
+      "value": "46.72 ETH",
+      "raw": 46.7218
     },
     {
       "label": "Full Set Bid",
-      "value": "37.4 ETH",
-      "raw": 37.38,
-      "delta": 0.6000000000000014,
-      "delta_fmt": "+0.60 ETH"
+      "value": "37.8 ETH",
+      "raw": 37.82,
+      "delta": 0.4399999999999977,
+      "delta_fmt": "+0.44 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2156.6M",
       "raw": 2156607438
+    },
+    {
+      "label": "#1 dougfriesen",
+      "value": "56.6M TDH",
+      "raw": 56590345,
+      "delta": 2906510,
+      "delta_fmt": "+2.9M TDH"
     },
     {
       "label": "#1 RegularDad",
@@ -791,8 +788,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.599 ETH | 2 SALES | LAST SALE 11h AGO",
-    "CARD #575: 295 MINTS (EXCL. MUSEUM) | 207 HOLDERS | COME EAT YOUR SLOP",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.599 ETH | 2 SALES | LAST SALE 20h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #576: 145 MINTS (EXCL. MUSEUM) | 102 HOLDERS | TIME IS THE ONLY CURRENCY"
   ]
 }
