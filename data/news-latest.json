@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T00:44:31.480449+00:00",
+  "generated_at": "2026-11-21T07:44:49.364375+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "CasaNUA Leads with 47.0M Projected TDH",
-      "summary": "\"6529 Validator Monitor\" by CasaNUA (47.0M projected TDH, 56 voters) | \"LET'S FUCKING NODE\" by NLV (33.5M projected TDH, 68 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (30.0M projected TDH, 80 voters) Next selection: Mon Nov 23 at 17:00 CET.",
+      "headline": "CasaNUA Leads with 48.1M Projected TDH",
+      "summary": "\"6529 Validator Monitor\" by CasaNUA (48.1M projected TDH, 59 voters) | \"LET'S FUCKING NODE\" by NLV (33.4M projected TDH, 72 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (30.0M projected TDH, 80 voters) Next selection: Mon Nov 23 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,13 +42,13 @@
       "dataBoxes": [
         {
           "label": "CasaNUA",
-          "value": "47.0M",
-          "sub": "proj. (56 votes)"
+          "value": "48.1M",
+          "sub": "proj. (59 votes)"
         },
         {
           "label": "NLV",
-          "value": "33.5M",
-          "sub": "proj. (68 votes)"
+          "value": "33.4M",
+          "sub": "proj. (72 votes)"
         },
         {
           "label": "Cyber_Humanoid",
@@ -58,9 +58,27 @@
       ]
     },
     {
+      "category": "ANNOUNCEMENT",
+      "headline": "New Announcement by punk6529",
+      "summary": "punk6529: **Caution Yellow Flag Lifted; Resume Normal Levels of Caution** \n\n- Turns out I did not lose my laptop - everything is back to normal, I will not be rotating social.punk6529.eth...",
+      "source": "Announcements",
+      "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/pfp/production/413e24a8-b2d2-4746-a10e-d66575d0043f.webp?d=1714229232938",
+        "label": "punk6529"
+      },
+      "dataBoxes": [
+        {
+          "label": "punk6529",
+          "value": "Lv100",
+          "sub": "89.1M TDH"
+        }
+      ]
+    },
+    {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: SonOfLasG (23.8M) | Tharwin (23.2M).",
+      "summary": "2 submissions this week. Ranking: SonOfLasG (23.8M) | Tharwin (23.4M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -79,20 +97,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#6 blake69 \u2014 271K TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_e04c764b-3eb4-11ef-9d82-029a0e4b6159/e900dfd4-72c1-428b-9b46-47fe5973e036.jpeg",
-        "label": "blake69 (271K)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "28 Sales Today - 1.43 ETH Volume",
-      "summary": "28 sales in 24h for 1.43 ETH. Highest: \"Pepe X\" at 0.088 ETH.",
+      "headline": "38 Sales Today - 2.00 ETH Volume",
+      "summary": "38 sales in 24h for 2.00 ETH. Highest: \"Pepe X\" at 0.088 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +138,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "28",
+          "value": "38",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.43",
+          "value": "2.00",
           "sub": "ETH"
         },
         {
@@ -139,46 +157,90 @@
           "sub": "ETH"
         }
       ]
+    },
+    {
+      "category": "PEBBLES",
+      "headline": "Pebbles: 1 Sales - 0.500 ETH",
+      "summary": "1 Pebbles sold in the last 24h for a total of 0.500 ETH. Current floor: 0.84995 ETH.",
+      "source": "OpenSea",
+      "link": "https://opensea.io/collection/pebbles-by-zeblocks",
+      "image": {
+        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/2643a8fcecced0d1f70afe4eacf047/752643a8fcecced0d1f70afe4eacf047.png",
+        "label": "Pebbles #199 - 0.500 ETH",
+        "type": "image"
+      },
+      "images": [
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/2643a8fcecced0d1f70afe4eacf047/752643a8fcecced0d1f70afe4eacf047.png",
+          "label": "Pebbles #199 - 0.500 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/6758b2ee914ff31e147ab64156d1f9/e86758b2ee914ff31e147ab64156d1f9.png",
+          "label": "Pebbles #973 - 0.400 ETH",
+          "type": "image"
+        },
+        {
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/137f86057ecb0a7224974d153b8b76/3f137f86057ecb0a7224974d153b8b76.png",
+          "label": "Pebbles #238 - 0.700 ETH",
+          "type": "image"
+        }
+      ],
+      "dataBoxes": [
+        {
+          "label": "Sales 24h",
+          "value": "1",
+          "sub": ""
+        },
+        {
+          "label": "Volume",
+          "value": "0.500",
+          "sub": "ETH"
+        },
+        {
+          "label": "Floor",
+          "value": "0.84995",
+          "sub": "ETH"
+        }
+      ]
     }
   ],
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.43 ETH",
-      "raw": 1.4327,
-      "delta": 0.8646,
-      "delta_fmt": "+152.2%"
+      "value": "2.00 ETH",
+      "raw": 2.0008,
+      "delta": 0.9607999999999999,
+      "delta_fmt": "+92.4%"
     },
     {
       "label": "7d Vol",
-      "value": "15.01 ETH",
-      "raw": 15.0118
+      "value": "15.22 ETH",
+      "raw": 15.2198
     },
     {
       "label": "30d Vol",
-      "value": "46.13 ETH",
-      "raw": 46.1327
+      "value": "46.76 ETH",
+      "raw": 46.7637
     },
     {
       "label": "Full Set Bid",
-      "value": "32.8 ETH",
-      "raw": 32.83,
-      "delta": 0.30999999999999517,
-      "delta_fmt": "+0.31 ETH"
+      "value": "33.5 ETH",
+      "raw": 33.45,
+      "delta": 0.6200000000000045,
+      "delta_fmt": "+0.62 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2165.8M",
-      "raw": 2165757755,
-      "delta": 3088110,
-      "delta_fmt": "+3.1M TDH"
+      "raw": 2165757755
     },
     {
       "label": "#1 CasaNUA",
-      "value": "47.0M TDH",
-      "raw": 47017835,
-      "delta": 29517,
-      "delta_fmt": "+0.0M TDH"
+      "value": "48.1M TDH",
+      "raw": 48111411,
+      "delta": 1093576,
+      "delta_fmt": "+1.1M TDH"
     },
     {
       "label": "#1 dougfriesen",
@@ -744,7 +806,8 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #577: 165 MINTS (EXCL. MUSEUM) | 83 HOLDERS | COMPUTE/DEV 1",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "PEBBLES: FLOOR 0.84995 ETH | 1 SALES | LAST SALE 4h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #577: 166 MINTS (EXCL. MUSEUM) | 84 HOLDERS | COMPUTE/DEV 1"
   ]
 }
