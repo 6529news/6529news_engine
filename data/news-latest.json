@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:39:09.754875+00:00",
+  "generated_at": "2026-11-21T21:11:09.816885+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "CasaNUA Leads with 48.3M Projected TDH",
-      "summary": "\"6529 Validator Monitor\" by CasaNUA (48.3M projected TDH, 64 voters) | \"LET'S FUCKING NODE\" by NLV (33.7M projected TDH, 76 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (30.1M projected TDH, 81 voters) Next selection: Mon Nov 23 at 17:00 CET.",
+      "headline": "CasaNUA Leads with 48.8M Projected TDH",
+      "summary": "\"6529 Validator Monitor\" by CasaNUA (48.8M projected TDH, 69 voters) | \"LET'S FUCKING NODE\" by NLV (38.8M projected TDH, 78 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (30.1M projected TDH, 82 voters) Next selection: Mon Nov 23 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,25 +29,25 @@
       "dataBoxes": [
         {
           "label": "CasaNUA",
-          "value": "48.3M",
-          "sub": "proj. (64 votes)"
+          "value": "48.8M",
+          "sub": "proj. (69 votes)"
         },
         {
           "label": "NLV",
-          "value": "33.7M",
-          "sub": "proj. (76 votes)"
+          "value": "38.8M",
+          "sub": "proj. (78 votes)"
         },
         {
           "label": "Cyber_Humanoid",
           "value": "30.1M",
-          "sub": "proj. (81 votes)"
+          "sub": "proj. (82 votes)"
         }
       ]
     },
     {
       "category": "ANNOUNCEMENT",
       "headline": "New Announcement by punk6529",
-      "summary": "punk6529: **Caution Yellow Flag Lifted; Resume Normal Levels of Caution** \n\n- Turns out I did not lose my laptop - everything is back to normal, I will not be rotating social.punk6529.eth...",
+      "summary": "punk6529: **\"Working As Intended\"**\n\n- Sharing because I think it is quite impressive how many deep thoughts about AI got packed into a catchy jingle\n- Things to learn for our communicati...",
       "source": "Announcements",
       "link": "https://6529.io/waves/da16201a-f4d0-40cf-b888-9f3a4a86a894",
       "image": {
@@ -65,7 +65,7 @@
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: SonOfLasG (25.8M) | Tharwin (24.4M) | MagicForest (2.8M).",
+      "summary": "3 submissions this week. Ranking: SonOfLasG (25.8M) | Tharwin (24.4M) | MagicForest (3.8M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -84,109 +84,109 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
-        "label": "Zigmarillion (1.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 1.37 ETH Volume",
-      "summary": "26 sales in 24h for 1.37 ETH. Highest: \"Pepe X\" at 0.088 ETH.",
+      "headline": "25 Sales Today - 2.46 ETH Volume",
+      "summary": "25 sales in 24h for 2.46 ETH. Highest: \"Sgt. Pepe\" at 0.568 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
-        "label": "Pepe X - 0.088 ETH",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
+        "label": "Sgt. Pepe - 0.568 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
-          "label": "Pepe X - 0.088 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/37.WEBP",
+          "label": "Sgt. Pepe - 0.568 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/434.WEBP",
-          "label": "Can You Still Tell? - 0.068 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/159.GIF",
+          "label": "Nightmare Gothic - 0.180 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/463.GIF",
-          "label": "still standing - 0.067 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/157.WEBP",
+          "label": "Pepeace - 0.090 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "26",
+          "value": "25",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.37",
+          "value": "2.46",
           "sub": "ETH"
         },
         {
           "label": "Top Sale",
-          "value": "0.088",
-          "sub": "Pepe X"
+          "value": "0.568",
+          "sub": "Sgt. Pepe"
         },
         {
           "label": "Floor",
-          "value": "0.026999",
+          "value": "0.026",
           "sub": "ETH"
         }
       ]
     },
     {
       "category": "PEBBLES",
-      "headline": "Pebbles: 1 Sales - 0.500 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.500 ETH. Current floor: 0.5 ETH.",
+      "headline": "Pebbles: 5 Sales - 3.690 ETH",
+      "summary": "5 Pebbles sold in the last 24h for a total of 3.690 ETH. Current floor: 1.6529 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/pebbles-by-zeblocks",
       "image": {
-        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/2643a8fcecced0d1f70afe4eacf047/752643a8fcecced0d1f70afe4eacf047.png",
-        "label": "Pebbles #199 - 0.500 ETH",
+        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/b7b3f26a7f796448ad3e34973e44db/86b7b3f26a7f796448ad3e34973e44db.png",
+        "label": "Pebbles #770 - 1.690 ETH",
         "type": "image"
       },
       "images": [
         {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/2643a8fcecced0d1f70afe4eacf047/752643a8fcecced0d1f70afe4eacf047.png",
-          "label": "Pebbles #199 - 0.500 ETH",
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/b7b3f26a7f796448ad3e34973e44db/86b7b3f26a7f796448ad3e34973e44db.png",
+          "label": "Pebbles #770 - 1.690 ETH",
           "type": "image"
         },
         {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/6758b2ee914ff31e147ab64156d1f9/e86758b2ee914ff31e147ab64156d1f9.png",
-          "label": "Pebbles #973 - 0.400 ETH",
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/49fab0b43f56b921e093a096719ba6/a049fab0b43f56b921e093a096719ba6.png",
+          "label": "Pebbles #664 - 0.500 ETH",
           "type": "image"
         },
         {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/137f86057ecb0a7224974d153b8b76/3f137f86057ecb0a7224974d153b8b76.png",
-          "label": "Pebbles #238 - 0.700 ETH",
+          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/da59779fba94e39a628604e906ccde/23da59779fba94e39a628604e906ccde.png",
+          "label": "Pebbles #434 - 0.500 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "1",
+          "value": "5",
           "sub": ""
         },
         {
           "label": "Volume",
-          "value": "0.500",
+          "value": "3.690",
           "sub": "ETH"
         },
         {
           "label": "Floor",
-          "value": "0.5",
+          "value": "1.6529",
           "sub": "ETH"
         }
       ]
@@ -195,27 +195,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.37 ETH",
-      "raw": 1.3699,
-      "delta": 0.007599999999999829,
-      "delta_fmt": "+0.6%"
+      "value": "2.46 ETH",
+      "raw": 2.4583,
+      "delta": 1.1594,
+      "delta_fmt": "+89.3%"
     },
     {
       "label": "7d Vol",
-      "value": "14.07 ETH",
-      "raw": 14.0723
+      "value": "14.88 ETH",
+      "raw": 14.8766
     },
     {
       "label": "30d Vol",
-      "value": "46.96 ETH",
-      "raw": 46.9623
+      "value": "48.46 ETH",
+      "raw": 48.4572
     },
     {
       "label": "Full Set Bid",
-      "value": "33.4 ETH",
-      "raw": 33.41,
-      "delta": -0.04000000000000625,
-      "delta_fmt": "-0.04 ETH"
+      "value": "33.7 ETH",
+      "raw": 33.7,
+      "delta": 0.29000000000000625,
+      "delta_fmt": "+0.29 ETH"
     },
     {
       "label": "Network TDH",
@@ -224,10 +224,10 @@
     },
     {
       "label": "#1 CasaNUA",
-      "value": "48.3M TDH",
-      "raw": 48268186,
-      "delta": 156775,
-      "delta_fmt": "+0.2M TDH"
+      "value": "48.8M TDH",
+      "raw": 48808592,
+      "delta": 540406,
+      "delta_fmt": "+0.5M TDH"
     },
     {
       "label": "#1 dougfriesen",
@@ -793,8 +793,10 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 0.5 ETH | 1 SALES | LAST SALE 12h AGO",
-    "CARD #577: 171 MINTS (EXCL. MUSEUM) | 90 HOLDERS | COMPUTE/DEV 1",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "SGT PEPE SALE: 0.568 ETH",
+    "SGT PEPE SALE: 0.568 ETH",
+    "PEBBLES: FLOOR 1.6529 ETH | 5 SALES | LAST SALE 2h AGO",
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #577: 171 MINTS (EXCL. MUSEUM) | 90 HOLDERS | COMPUTE/DEV 1"
   ]
 }
