@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T22:04:50.565195+00:00",
+  "generated_at": "2026-11-23T02:44:47.567524+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING MONDAY",
-      "headline": "Minting Monday",
-      "summary": " \"NATURE OF THE BEAST\" by dougfriesen \u2014 59.9M TDH from 97 voters. Top supporter: gpebbles (33.7M TDH).",
+      "category": "MINTING TODAY",
+      "headline": "MINTING TODAY",
+      "summary": "A new Meme Card is being minted today! \"NATURE OF THE BEAST\" by dougfriesen \u2014 59.9M TDH from 97 voters. Top supporter: gpebbles (33.7M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -17,8 +17,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "CasaNUA Leads with 51.1M Projected TDH",
-      "summary": "\"6529 Validator Monitor\" by CasaNUA (51.1M projected TDH, 76 voters) | \"LET'S FUCKING NODE\" by NLV (38.8M projected TDH, 82 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (30.3M projected TDH, 84 voters) Next selection: Mon Nov 23 at 17:00 CET.",
+      "headline": "CasaNUA Leads with 54.5M Projected TDH",
+      "summary": "\"6529 Validator Monitor\" by CasaNUA (54.5M projected TDH, 80 voters) | \"LET'S FUCKING NODE\" by NLV (38.8M projected TDH, 82 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (30.3M projected TDH, 85 voters) Next selection: Mon Nov 23 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -29,8 +29,8 @@
       "dataBoxes": [
         {
           "label": "CasaNUA",
-          "value": "51.1M",
-          "sub": "proj. (76 votes)"
+          "value": "54.5M",
+          "sub": "proj. (80 votes)"
         },
         {
           "label": "NLV",
@@ -40,7 +40,7 @@
         {
           "label": "Cyber_Humanoid",
           "value": "30.3M",
-          "sub": "proj. (84 votes)"
+          "sub": "proj. (85 votes)"
         }
       ]
     },
@@ -58,7 +58,7 @@
         {
           "label": "punk6529",
           "value": "Lv100",
-          "sub": "89.2M TDH"
+          "sub": "89.3M TDH"
         }
       ]
     },
@@ -84,20 +84,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "62 Sales Today - 4.07 ETH Volume",
-      "summary": "62 sales in 24h for 4.07 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.341 ETH.",
+      "headline": "62 Sales Today - 4.10 ETH Volume",
+      "summary": "62 sales in 24h for 4.10 ETH. Highest: \"ALL YOUR BITCOIN\" at 0.341 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -130,7 +130,7 @@
         },
         {
           "label": "Volume 24h",
-          "value": "4.07",
+          "value": "4.10",
           "sub": "ETH"
         },
         {
@@ -149,39 +149,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "4.07 ETH",
-      "raw": 4.0739,
-      "delta": 1.6156000000000001,
-      "delta_fmt": "+65.7%"
+      "value": "4.10 ETH",
+      "raw": 4.1032,
+      "delta": 1.5567000000000002,
+      "delta_fmt": "+61.1%"
     },
     {
       "label": "7d Vol",
-      "value": "16.82 ETH",
-      "raw": 16.8224
+      "value": "16.27 ETH",
+      "raw": 16.2737
     },
     {
       "label": "30d Vol",
-      "value": "50.97 ETH",
-      "raw": 50.974
+      "value": "50.56 ETH",
+      "raw": 50.5554
     },
     {
       "label": "Full Set Bid",
-      "value": "33.7 ETH",
-      "raw": 33.65,
-      "delta": 0.9600000000000009,
-      "delta_fmt": "+0.96 ETH"
+      "value": "32.0 ETH",
+      "raw": 31.97,
+      "delta": -1.6799999999999997,
+      "delta_fmt": "-1.68 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2168.7M",
-      "raw": 2168745363
+      "value": "2172.1M",
+      "raw": 2172090979,
+      "delta": 3345616,
+      "delta_fmt": "+3.3M TDH"
     },
     {
       "label": "#1 CasaNUA",
-      "value": "51.1M TDH",
-      "raw": 51081356,
-      "delta": 1031217,
-      "delta_fmt": "+1.0M TDH"
+      "value": "54.5M TDH",
+      "raw": 54517105,
+      "delta": 3435749,
+      "delta_fmt": "+3.4M TDH"
     },
     {
       "label": "#1 dougfriesen",
@@ -747,7 +749,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #577: 171 MINTS (EXCL. MUSEUM) | 90 HOLDERS | COMPUTE/DEV 1",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #577: 171 MINTS (EXCL. MUSEUM) | 90 HOLDERS | COMPUTE/DEV 1"
   ]
 }
