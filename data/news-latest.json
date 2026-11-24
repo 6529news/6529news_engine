@@ -1,20 +1,7 @@
 {
-  "generated_at": "2026-11-24T06:46:28.328234+00:00",
+  "generated_at": "2026-11-24T18:39:38.801739+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
-    {
-      "category": "STILL MINTING",
-      "headline": "STILL MINTING",
-      "summary": "Current card is still minting. \"NATURE OF THE BEAST\" by dougfriesen \u2014 59.9M TDH from 97 voters. Top supporter: gpebbles (33.7M TDH).",
-      "source": "The Memes",
-      "link": "https://6529.io/the-memes",
-      "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/578.JPG",
-        "label": "NATURE OF THE BEAST - dougfriesen",
-        "type": "image"
-      },
-      "dataBoxes": null
-    },
     {
       "category": "MINTING WEDNESDAY",
       "headline": "Minting Wednesday",
@@ -30,25 +17,25 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "NLV Leads with 42.8M Projected TDH",
-      "summary": "\"LET'S FUCKING NODE\" by NLV (42.8M projected TDH, 90 voters) | \"PROOF OF GROWTH\" by MagicForest (33.6M projected TDH, 77 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (32.2M projected TDH, 93 voters) Next selection: Wed Nov 25 at 17:00 CET.",
+      "headline": "MagicForest Leads with 61.5M Projected TDH",
+      "summary": "\"PROOF OF GROWTH\" by MagicForest (61.5M projected TDH, 95 voters) | \"LET'S FUCKING NODE\" by NLV (43.8M projected TDH, 91 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (32.2M projected TDH, 93 voters) Next selection: Wed Nov 25 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/d3964693-cfa4-4f9b-b7d5-40e823d1b500/LF-NODE.gif",
-        "label": "LET'S FUCKING NODE - NLV",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/0a7da405-c01e-47c4-bebd-32dd4dc360a0/PROOF-OF-GROWTH.GIF",
+        "label": "PROOF OF GROWTH - MagicForest",
         "type": "image"
       },
       "dataBoxes": [
         {
-          "label": "NLV",
-          "value": "42.8M",
-          "sub": "proj. (90 votes)"
+          "label": "MagicForest",
+          "value": "61.5M",
+          "sub": "proj. (95 votes)"
         },
         {
-          "label": "MagicForest",
-          "value": "33.6M",
-          "sub": "proj. (77 votes)"
+          "label": "NLV",
+          "value": "43.8M",
+          "sub": "proj. (91 votes)"
         },
         {
           "label": "Cyber_Humanoid",
@@ -59,8 +46,8 @@
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "3 New Memes Submissions This Week",
-      "summary": "3 submissions this week. Ranking: Tharwin (28.2M) | RegularDad (7.6M) | southern_node (6.1M).",
+      "headline": "2 New Memes Submissions This Week",
+      "summary": "2 submissions this week. Ranking: Tharwin (28.3M) | RegularDad (7.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": null,
@@ -74,15 +61,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/b797b7b7-93b2-4ba1-8d84-ca58afb39831/IMG-1370.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "71 Sales Today - 3.58 ETH Volume",
-      "summary": "71 sales in 24h for 3.58 ETH. Highest: \"Seize the Bees of Production\" at 0.164 ETH.",
+      "headline": "61 Sales Today - 3.52 ETH Volume",
+      "summary": "61 sales in 24h for 3.52 ETH. Highest: \"Seize the Bees of Production\" at 0.164 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -102,20 +89,20 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/517.WEBP",
-          "label": "artist manifesto - 0.098 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
+          "label": "Pepe X - 0.119 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "71",
+          "value": "61",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "3.58",
+          "value": "3.52",
           "sub": "ETH"
         },
         {
@@ -134,32 +121,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "3.58 ETH",
-      "raw": 3.5839,
-      "delta": -0.5193000000000003,
-      "delta_fmt": "-12.7%"
+      "value": "3.52 ETH",
+      "raw": 3.5197,
+      "delta": -0.031500000000000306,
+      "delta_fmt": "-0.9%"
     },
     {
       "label": "7d Vol",
-      "value": "17.38 ETH",
-      "raw": 17.3833
+      "value": "15.46 ETH",
+      "raw": 15.4593
     },
     {
       "label": "30d Vol",
-      "value": "53.80 ETH",
-      "raw": 53.8019
+      "value": "54.45 ETH",
+      "raw": 54.4512
     },
     {
       "label": "Full Set Bid",
-      "value": "39.4 ETH",
-      "raw": 39.44,
-      "delta": 0.10999999999999943,
-      "delta_fmt": "+0.11 ETH"
+      "value": "39.8 ETH",
+      "raw": 39.84,
+      "delta": 0.4000000000000057,
+      "delta_fmt": "+0.40 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2174.8M",
       "raw": 2174809107
+    },
+    {
+      "label": "#1 MagicForest",
+      "value": "61.5M TDH",
+      "raw": 61544754,
+      "delta": 7860919,
+      "delta_fmt": "+7.9M TDH"
     },
     {
       "label": "#1 NLV",
@@ -737,7 +731,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #578: 133 MINTS (EXCL. MUSEUM) | 87 HOLDERS | NATURE OF THE BEAST",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #578: 148 MINTS (EXCL. MUSEUM) | 93 HOLDERS | NATURE OF THE BEAST"
   ]
 }
