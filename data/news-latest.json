@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:10:00.832267+00:00",
+  "generated_at": "2026-11-25T21:41:30.511315+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -9,56 +9,69 @@
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/1d9be55f-3f53-40a6-bebc-4f4c055a0504/6529-validator-monitor-launch-4k-60fps.mp4",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/original/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/579.GIF",
         "label": "6529 Validator Monitor - CasaNUA",
-        "type": "video"
+        "type": "image"
       },
       "dataBoxes": null
     },
     {
-      "category": "TOP MEMES",
-      "headline": "MagicForest Leads with 66.7M Projected TDH",
-      "summary": "\"PROOF OF GROWTH\" by MagicForest (66.7M projected TDH, 102 voters) | \"LET'S FUCKING NODE\" by NLV (44.9M projected TDH, 92 voters) | \"Network Orloj\" by Tharwin (35.3M projected TDH, 46 voters) Next selection: Wed Nov 25 at 17:00 CET.",
-      "source": "The Memes - Main Stage",
-      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "category": "MINTING FRIDAY",
+      "headline": "Minting Friday",
+      "summary": " \"PROOF OF GROWTH\" by MagicForest \u2014 66.7M TDH from 104 voters. Top supporter: Giopetto (10.4M TDH).",
+      "source": "The Memes",
+      "link": "https://6529.io/the-memes",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/0a7da405-c01e-47c4-bebd-32dd4dc360a0/PROOF-OF-GROWTH.GIF",
         "label": "PROOF OF GROWTH - MagicForest",
         "type": "image"
       },
+      "dataBoxes": null
+    },
+    {
+      "category": "TOP MEMES",
+      "headline": "Tharwin Leads with 51.4M Projected TDH",
+      "summary": "\"Network Orloj\" by Tharwin (51.4M projected TDH, 51 voters) | \"LET'S FUCKING NODE\" by NLV (49.4M projected TDH, 95 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (32.6M projected TDH, 97 voters) Next selection: Fri Nov 27 at 17:00 CET.",
+      "source": "The Memes - Main Stage",
+      "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
+      "image": {
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/05aa7870-6ecf-4f06-802f-7ab4e9f28778/preview.png",
+        "label": "Network Orloj - Tharwin",
+        "type": "image"
+      },
       "dataBoxes": [
         {
-          "label": "MagicForest",
-          "value": "66.7M",
-          "sub": "proj. (102 votes)"
+          "label": "Tharwin",
+          "value": "51.4M",
+          "sub": "proj. (51 votes)"
         },
         {
           "label": "NLV",
-          "value": "44.9M",
-          "sub": "proj. (92 votes)"
+          "value": "49.4M",
+          "sub": "proj. (95 votes)"
         },
         {
-          "label": "Tharwin",
-          "value": "35.3M",
-          "sub": "proj. (46 votes)"
+          "label": "Cyber_Humanoid",
+          "value": "32.6M",
+          "sub": "proj. (97 votes)"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
       "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: RegularDad (7.6M) | douglxss (1.8M).",
+      "summary": "2 submissions this week. Ranking: RegularDad (7.9M) | douglxss (2.1M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
         "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/f71887a5-e8e2-469d-aae2-7b6ed8cc4b62/Sieze-the-Memes-of-Joy-4k-20sec.mp4",
-        "label": "douglxss (1.8M)",
+        "label": "douglxss (2.1M)",
         "type": "video"
       },
       "images": [
         {
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/f71887a5-e8e2-469d-aae2-7b6ed8cc4b62/Sieze-the-Memes-of-Joy-4k-20sec.mp4",
-          "label": "douglxss (1.8M)",
+          "label": "douglxss (2.1M)",
           "type": "video"
         }
       ],
@@ -66,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#2 Articulate \u2014 2.2M TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_d084ab7b-a9c8-4dff-97d5-42bacd035574/9901f2dc-9736-49d7-a6bc-8df06a4b8f84.jpeg",
-        "label": "Articulate (2.2M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "16 Sales Today - 0.92 ETH Volume",
-      "summary": "16 sales in 24h for 0.92 ETH. Highest: \"UncleSeize\" at 0.150 ETH.",
+      "headline": "24 Sales Today - 1.25 ETH Volume",
+      "summary": "24 sales in 24h for 1.25 ETH. Highest: \"UncleSeize\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -107,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "16",
+          "value": "24",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "0.92",
+          "value": "1.25",
           "sub": "ETH"
         },
         {
@@ -131,32 +144,39 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "0.92 ETH",
-      "raw": 0.9196,
-      "delta": -2.6643,
-      "delta_fmt": "-74.3%"
+      "value": "1.25 ETH",
+      "raw": 1.2458,
+      "delta": -2.2739,
+      "delta_fmt": "-64.6%"
     },
     {
       "label": "7d Vol",
-      "value": "14.72 ETH",
-      "raw": 14.7168
+      "value": "15.10 ETH",
+      "raw": 15.1034
     },
     {
       "label": "30d Vol",
-      "value": "53.78 ETH",
-      "raw": 53.776
+      "value": "54.29 ETH",
+      "raw": 54.2879
     },
     {
       "label": "Full Set Bid",
-      "value": "39.9 ETH",
-      "raw": 39.85,
-      "delta": -0.1599999999999966,
-      "delta_fmt": "-0.16 ETH"
+      "value": "40.7 ETH",
+      "raw": 40.73,
+      "delta": 0.8799999999999955,
+      "delta_fmt": "+0.88 ETH"
     },
     {
       "label": "Network TDH",
       "value": "2177.8M",
       "raw": 2177768647
+    },
+    {
+      "label": "#1 Tharwin",
+      "value": "51.4M TDH",
+      "raw": 51351543,
+      "delta": -2332292,
+      "delta_fmt": "-2.3M TDH"
     },
     {
       "label": "#1 MagicForest",
@@ -741,7 +761,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #578: 277 MINTS (EXCL. MUSEUM) | 94 HOLDERS | NATURE OF THE BEAST",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #579: 132 MINTS (EXCL. MUSEUM) | 89 HOLDERS | 6529 VALIDATOR MONITOR"
   ]
 }
