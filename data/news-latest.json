@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-25T21:41:30.511315+00:00",
+  "generated_at": "2026-11-26T00:06:50.567835+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"6529 Validator Monitor\" by CasaNUA \u2014 55.4M TDH from 85 voters. Top supporter: johndoe8891 (11.9M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"6529 Validator Monitor\" by CasaNUA \u2014 55.4M TDH from 85 voters. Top supporter: johndoe8891 (11.9M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Tharwin Leads with 51.4M Projected TDH",
-      "summary": "\"Network Orloj\" by Tharwin (51.4M projected TDH, 51 voters) | \"LET'S FUCKING NODE\" by NLV (49.4M projected TDH, 95 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (32.6M projected TDH, 97 voters) Next selection: Fri Nov 27 at 17:00 CET.",
+      "headline": "Tharwin Leads with 62.2M Projected TDH",
+      "summary": "\"Network Orloj\" by Tharwin (62.2M projected TDH, 52 voters) | \"LET'S FUCKING NODE\" by NLV (49.4M projected TDH, 95 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (32.6M projected TDH, 97 voters) Next selection: Fri Nov 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "Tharwin",
-          "value": "51.4M",
-          "sub": "proj. (51 votes)"
+          "value": "62.2M",
+          "sub": "proj. (52 votes)"
         },
         {
           "label": "NLV",
@@ -79,20 +79,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#8 Bicasso \u2014 0 TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "24 Sales Today - 1.25 ETH Volume",
-      "summary": "24 sales in 24h for 1.25 ETH. Highest: \"UncleSeize\" at 0.150 ETH.",
+      "headline": "21 Sales Today - 1.05 ETH Volume",
+      "summary": "21 sales in 24h for 1.05 ETH. Highest: \"UncleSeize\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "24",
+          "value": "21",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.25",
+          "value": "1.05",
           "sub": "ETH"
         },
         {
@@ -144,10 +144,10 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.25 ETH",
-      "raw": 1.2458,
-      "delta": -2.2739,
-      "delta_fmt": "-64.6%"
+      "value": "1.05 ETH",
+      "raw": 1.0508,
+      "delta": -0.5813000000000001,
+      "delta_fmt": "-35.6%"
     },
     {
       "label": "7d Vol",
@@ -162,9 +162,7 @@
     {
       "label": "Full Set Bid",
       "value": "40.7 ETH",
-      "raw": 40.73,
-      "delta": 0.8799999999999955,
-      "delta_fmt": "+0.88 ETH"
+      "raw": 40.73
     },
     {
       "label": "Network TDH",
@@ -173,10 +171,10 @@
     },
     {
       "label": "#1 Tharwin",
-      "value": "51.4M TDH",
-      "raw": 51351543,
-      "delta": -2332292,
-      "delta_fmt": "-2.3M TDH"
+      "value": "62.2M TDH",
+      "raw": 62210972,
+      "delta": 10859429,
+      "delta_fmt": "+10.9M TDH"
     },
     {
       "label": "#1 MagicForest",
@@ -762,6 +760,6 @@
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
     "DIVE BAR: 0 MSGS IN LAST 6H",
-    "CARD #579: 132 MINTS (EXCL. MUSEUM) | 89 HOLDERS | 6529 VALIDATOR MONITOR"
+    "CARD #579: 137 MINTS (EXCL. MUSEUM) | 91 HOLDERS | 6529 VALIDATOR MONITOR"
   ]
 }
