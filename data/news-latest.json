@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:06:50.567835+00:00",
+  "generated_at": "2026-11-26T03:47:05.006723+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "Tharwin Leads with 62.2M Projected TDH",
-      "summary": "\"Network Orloj\" by Tharwin (62.2M projected TDH, 52 voters) | \"LET'S FUCKING NODE\" by NLV (49.4M projected TDH, 95 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (32.6M projected TDH, 97 voters) Next selection: Fri Nov 27 at 17:00 CET.",
+      "headline": "Tharwin Leads with 63.2M Projected TDH",
+      "summary": "\"Network Orloj\" by Tharwin (63.2M projected TDH, 55 voters) | \"LET'S FUCKING NODE\" by NLV (48.5M projected TDH, 95 voters) | \"THE SMILE PROTOCOL\" by Cyber_Humanoid (32.6M projected TDH, 97 voters) Next selection: Fri Nov 27 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,12 +42,12 @@
       "dataBoxes": [
         {
           "label": "Tharwin",
-          "value": "62.2M",
-          "sub": "proj. (52 votes)"
+          "value": "63.2M",
+          "sub": "proj. (55 votes)"
         },
         {
           "label": "NLV",
-          "value": "49.4M",
+          "value": "48.5M",
           "sub": "proj. (95 votes)"
         },
         {
@@ -84,15 +84,15 @@
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/3427c2a1-5c9d-4cd4-a30e-a1108e0d1ba2/IMG-4586.png",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
         "label": "Bicasso (0)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "21 Sales Today - 1.05 ETH Volume",
-      "summary": "21 sales in 24h for 1.05 ETH. Highest: \"UncleSeize\" at 0.150 ETH.",
+      "headline": "20 Sales Today - 1.01 ETH Volume",
+      "summary": "20 sales in 24h for 1.01 ETH. Highest: \"UncleSeize\" at 0.150 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -120,12 +120,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "21",
+          "value": "20",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.05",
+          "value": "1.01",
           "sub": "ETH"
         },
         {
@@ -144,37 +144,41 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.05 ETH",
-      "raw": 1.0508,
-      "delta": -0.5813000000000001,
-      "delta_fmt": "-35.6%"
+      "value": "1.01 ETH",
+      "raw": 1.0123,
+      "delta": -0.6198000000000001,
+      "delta_fmt": "-38.0%"
     },
     {
       "label": "7d Vol",
-      "value": "15.10 ETH",
-      "raw": 15.1034
+      "value": "14.83 ETH",
+      "raw": 14.8334
     },
     {
       "label": "30d Vol",
-      "value": "54.29 ETH",
-      "raw": 54.2879
+      "value": "53.50 ETH",
+      "raw": 53.5037
     },
     {
       "label": "Full Set Bid",
       "value": "40.7 ETH",
-      "raw": 40.73
+      "raw": 40.74,
+      "delta": 0.010000000000005116,
+      "delta_fmt": "+0.01 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2177.8M",
-      "raw": 2177768647
+      "value": "2180.9M",
+      "raw": 2180896651,
+      "delta": 3128004,
+      "delta_fmt": "+3.1M TDH"
     },
     {
       "label": "#1 Tharwin",
-      "value": "62.2M TDH",
-      "raw": 62210972,
-      "delta": 10859429,
-      "delta_fmt": "+10.9M TDH"
+      "value": "63.2M TDH",
+      "raw": 63165389,
+      "delta": 954417,
+      "delta_fmt": "+1.0M TDH"
     },
     {
       "label": "#1 MagicForest",
@@ -759,7 +763,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "CARD #579: 137 MINTS (EXCL. MUSEUM) | 91 HOLDERS | 6529 VALIDATOR MONITOR",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #579: 137 MINTS (EXCL. MUSEUM) | 91 HOLDERS | 6529 VALIDATOR MONITOR"
   ]
 }
