@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-27T22:50:54.233215+00:00",
+  "generated_at": "2026-11-27T23:58:23.659915+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
-      "category": "MINTING TODAY",
-      "headline": "MINTING TODAY",
-      "summary": "A new Meme Card is being minted today! \"PROOF OF GROWTH\" by MagicForest \u2014 66.7M TDH from 104 voters. Top supporter: Giopetto (10.4M TDH).",
+      "category": "STILL MINTING",
+      "headline": "STILL MINTING",
+      "summary": "Current card is still minting. \"PROOF OF GROWTH\" by MagicForest \u2014 66.7M TDH from 104 voters. Top supporter: Giopetto (10.4M TDH).",
       "source": "The Memes",
       "link": "https://6529.io/the-memes",
       "image": {
@@ -30,8 +30,8 @@
     },
     {
       "category": "TOP MEMES",
-      "headline": "SonOfLasG Leads with 62.6M Projected TDH",
-      "summary": "\"Character Set\" by SonOfLasG (62.6M projected TDH, 42 voters) | \"LET'S FUCKING NODE\" by NLV (54.6M projected TDH, 105 voters) | \"Proof of Conviction\" by Soliiiart (34.9M projected TDH, 106 voters) Next selection: Mon Nov 30 at 17:00 CET.",
+      "headline": "SonOfLasG Leads with 64.3M Projected TDH",
+      "summary": "\"Character Set\" by SonOfLasG (64.3M projected TDH, 44 voters) | \"LET'S FUCKING NODE\" by NLV (54.6M projected TDH, 105 voters) | \"Proof of Conviction\" by Soliiiart (35.0M projected TDH, 107 voters) Next selection: Mon Nov 30 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -42,8 +42,8 @@
       "dataBoxes": [
         {
           "label": "SonOfLasG",
-          "value": "62.6M",
-          "sub": "proj. (42 votes)"
+          "value": "64.3M",
+          "sub": "proj. (44 votes)"
         },
         {
           "label": "NLV",
@@ -52,8 +52,8 @@
         },
         {
           "label": "Soliiiart",
-          "value": "34.9M",
-          "sub": "proj. (106 votes)"
+          "value": "35.0M",
+          "sub": "proj. (107 votes)"
         }
       ]
     },
@@ -97,20 +97,20 @@
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "#8 Bicasso \u2014 0 TDH",
+      "headline": "JasonOPhoto Leads with 2.8M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_75d3eb13-6284-4a53-9711-a28949a29575/83570e88-d549-4321-ae97-0f8f782d7d28/IMG-1651.png",
-        "label": "Bicasso (0)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
+        "label": "JasonOPhoto (2.8M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "26 Sales Today - 1.48 ETH Volume",
-      "summary": "26 sales in 24h for 1.48 ETH. Highest: \"Institutionalized\" at 0.110 ETH.",
+      "headline": "27 Sales Today - 1.54 ETH Volume",
+      "summary": "27 sales in 24h for 1.54 ETH. Highest: \"Institutionalized\" at 0.110 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -138,12 +138,12 @@
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "26",
+          "value": "27",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.48",
+          "value": "1.54",
           "sub": "ETH"
         },
         {
@@ -208,27 +208,27 @@
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.48 ETH",
-      "raw": 1.4779,
-      "delta": 0.02760000000000007,
-      "delta_fmt": "+1.9%"
+      "value": "1.54 ETH",
+      "raw": 1.5429,
+      "delta": 0.09260000000000002,
+      "delta_fmt": "+6.4%"
     },
     {
       "label": "7d Vol",
-      "value": "15.81 ETH",
-      "raw": 15.8108
+      "value": "15.88 ETH",
+      "raw": 15.8758
     },
     {
       "label": "30d Vol",
-      "value": "55.50 ETH",
-      "raw": 55.5022
+      "value": "55.57 ETH",
+      "raw": 55.5672
     },
     {
       "label": "Full Set Bid",
-      "value": "39.9 ETH",
-      "raw": 39.87,
-      "delta": -0.020000000000003126,
-      "delta_fmt": "-0.02 ETH"
+      "value": "40.9 ETH",
+      "raw": 40.95,
+      "delta": 1.0800000000000054,
+      "delta_fmt": "+1.08 ETH"
     },
     {
       "label": "Network TDH",
@@ -237,10 +237,10 @@
     },
     {
       "label": "#1 SonOfLasG",
-      "value": "62.6M TDH",
-      "raw": 62611207,
-      "delta": 9774335,
-      "delta_fmt": "+9.8M TDH"
+      "value": "64.3M TDH",
+      "raw": 64264671,
+      "delta": 1653464,
+      "delta_fmt": "+1.7M TDH"
     },
     {
       "label": "#1 Tharwin",
@@ -825,7 +825,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 1.1 ETH | 1 SALES | LAST SALE 18h AGO",
+    "PEBBLES: FLOOR 1.1 ETH | 1 SALES | LAST SALE 19h AGO",
     "DIVE BAR: 0 MSGS IN LAST 6H",
     "CARD #580: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | PROOF OF GROWTH"
   ]
