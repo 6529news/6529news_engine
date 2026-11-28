@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:58:23.659915+00:00",
+  "generated_at": "2026-11-28T04:32:24.412283+00:00",
   "model": "nvidia/nemotron-3-super-120b-a12b:free",
   "news": [
     {
@@ -31,7 +31,7 @@
     {
       "category": "TOP MEMES",
       "headline": "SonOfLasG Leads with 64.3M Projected TDH",
-      "summary": "\"Character Set\" by SonOfLasG (64.3M projected TDH, 44 voters) | \"LET'S FUCKING NODE\" by NLV (54.6M projected TDH, 105 voters) | \"Proof of Conviction\" by Soliiiart (35.0M projected TDH, 107 voters) Next selection: Mon Nov 30 at 17:00 CET.",
+      "summary": "\"Character Set\" by SonOfLasG (64.3M projected TDH, 45 voters) | \"LET'S FUCKING NODE\" by NLV (54.6M projected TDH, 106 voters) | \"Proof of Conviction\" by Soliiiart (35.0M projected TDH, 107 voters) Next selection: Mon Nov 30 at 17:00 CET.",
       "source": "The Memes - Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -43,12 +43,12 @@
         {
           "label": "SonOfLasG",
           "value": "64.3M",
-          "sub": "proj. (44 votes)"
+          "sub": "proj. (45 votes)"
         },
         {
           "label": "NLV",
           "value": "54.6M",
-          "sub": "proj. (105 votes)"
+          "sub": "proj. (106 votes)"
         },
         {
           "label": "Soliiiart",
@@ -71,14 +71,14 @@
         {
           "label": "punk6529",
           "value": "Lv100",
-          "sub": "89.7M TDH"
+          "sub": "89.8M TDH"
         }
       ]
     },
     {
       "category": "NEW MEMES SUBMISSIONS",
-      "headline": "2 New Memes Submissions This Week",
-      "summary": "2 submissions this week. Ranking: RegularDad (7.9M) | douglxss (3.9M).",
+      "headline": "3 New Memes Submissions This Week",
+      "summary": "3 submissions this week. Ranking: RegularDad (7.9M) | douglxss (3.9M) | mingt (1.6M).",
       "source": "Main Stage",
       "link": "https://6529.io/waves/b6128077-ea78-4dd9-b381-52c4eadb2077",
       "image": {
@@ -91,26 +91,31 @@
           "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/f71887a5-e8e2-469d-aae2-7b6ed8cc4b62/Sieze-the-Memes-of-Joy-4k-20sec.mp4",
           "label": "douglxss (3.9M)",
           "type": "video"
+        },
+        {
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/531c2806-54d4-4b00-b2c8-97e92636767b/531c2806-54d4-4b00-b2c8-97e92636767b.jpg",
+          "label": "mingt (1.6M)",
+          "type": "image"
         }
       ],
       "dataBoxes": null
     },
     {
       "category": "TOP SUPERRARE",
-      "headline": "JasonOPhoto Leads with 2.8M TDH",
+      "headline": "#3 Zigmarillion \u2014 1.2M TDH",
       "summary": "JasonOPhoto (2.8M) | Articulate (2.2M) | Zigmarillion (1.2M) | Kostas_Photo (765K) | awhurst (555K) | blake69 (271K) | Gsen (151K) | Bicasso (6K)",
       "source": "SuperRare x 6529",
       "link": "https://6529.io/waves/d22e3046-a00e-48b9-b245-a339a44c37cd",
       "image": {
-        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_746dccd5-fdc4-4243-a54d-c981ff5ba461/31b825aa-23bc-47f0-ab89-cd850a4d94d8.jpg",
-        "label": "JasonOPhoto (2.8M)",
+        "url": "https://d3lqz0a4bldqgf.cloudfront.net/drops/author_0f834580-87b4-11ee-9d82-029a0e4b6159/0201e6ac-329d-4410-a2b0-89240c8df81c.jpg",
+        "label": "Zigmarillion (1.2M)",
         "type": "image"
       }
     },
     {
       "category": "SALES RECAP",
-      "headline": "27 Sales Today - 1.54 ETH Volume",
-      "summary": "27 sales in 24h for 1.54 ETH. Highest: \"Institutionalized\" at 0.110 ETH.",
+      "headline": "35 Sales Today - 1.89 ETH Volume",
+      "summary": "35 sales in 24h for 1.89 ETH. Highest: \"Institutionalized\" at 0.110 ETH.",
       "source": "OpenSea",
       "link": "https://opensea.io/collection/thememes6529",
       "image": {
@@ -125,25 +130,25 @@
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/343.WEBP",
-          "label": "Pepe X - 0.098 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/424.GIF",
+          "label": "We Are Still Alive - 0.088 ETH",
           "type": "image"
         },
         {
-          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/424.GIF",
-          "label": "We Are Still Alive - 0.088 ETH",
+          "url": "https://d3lqz0a4bldqgf.cloudfront.net/images/scaled_x450/0x33FD426905F149f8376e227d0C9D3340AaD17aF1/422.WEBP",
+          "label": "The Unfallen - 0.086 ETH",
           "type": "image"
         }
       ],
       "dataBoxes": [
         {
           "label": "Sales 24h",
-          "value": "27",
+          "value": "35",
           "sub": ""
         },
         {
           "label": "Volume 24h",
-          "value": "1.54",
+          "value": "1.89",
           "sub": "ETH"
         },
         {
@@ -157,90 +162,46 @@
           "sub": "ETH"
         }
       ]
-    },
-    {
-      "category": "PEBBLES",
-      "headline": "Pebbles: 1 Sales - 0.500 ETH",
-      "summary": "1 Pebbles sold in the last 24h for a total of 0.500 ETH. Current floor: 1.1 ETH.",
-      "source": "OpenSea",
-      "link": "https://opensea.io/collection/pebbles-by-zeblocks",
-      "image": {
-        "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/8e1f96715c553ac4a5360b9c035974/528e1f96715c553ac4a5360b9c035974.png",
-        "label": "Pebbles #691 - 0.500 ETH",
-        "type": "image"
-      },
-      "images": [
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/8e1f96715c553ac4a5360b9c035974/528e1f96715c553ac4a5360b9c035974.png",
-          "label": "Pebbles #691 - 0.500 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/b7b3f26a7f796448ad3e34973e44db/86b7b3f26a7f796448ad3e34973e44db.png",
-          "label": "Pebbles #770 - 1.690 ETH",
-          "type": "image"
-        },
-        {
-          "url": "https://i2c.seadn.io/ethereum/0x45882f9bc325e14fbb298a1df930c43a874b83ae/49fab0b43f56b921e093a096719ba6/a049fab0b43f56b921e093a096719ba6.png",
-          "label": "Pebbles #664 - 0.500 ETH",
-          "type": "image"
-        }
-      ],
-      "dataBoxes": [
-        {
-          "label": "Sales 24h",
-          "value": "1",
-          "sub": ""
-        },
-        {
-          "label": "Volume",
-          "value": "0.500",
-          "sub": "ETH"
-        },
-        {
-          "label": "Floor",
-          "value": "1.1",
-          "sub": "ETH"
-        }
-      ]
     }
   ],
   "ticker": [
     {
       "label": "24h Vol",
-      "value": "1.54 ETH",
-      "raw": 1.5429,
-      "delta": 0.09260000000000002,
-      "delta_fmt": "+6.4%"
+      "value": "1.89 ETH",
+      "raw": 1.8869,
+      "delta": 0.3389,
+      "delta_fmt": "+21.9%"
     },
     {
       "label": "7d Vol",
-      "value": "15.88 ETH",
-      "raw": 15.8758
+      "value": "16.08 ETH",
+      "raw": 16.0765
     },
     {
       "label": "30d Vol",
-      "value": "55.57 ETH",
-      "raw": 55.5672
+      "value": "55.18 ETH",
+      "raw": 55.1832
     },
     {
       "label": "Full Set Bid",
-      "value": "40.9 ETH",
-      "raw": 40.95,
-      "delta": 1.0800000000000054,
-      "delta_fmt": "+1.08 ETH"
+      "value": "41.3 ETH",
+      "raw": 41.27,
+      "delta": 0.3200000000000003,
+      "delta_fmt": "+0.32 ETH"
     },
     {
       "label": "Network TDH",
-      "value": "2184.0M",
-      "raw": 2183963720
+      "value": "2187.1M",
+      "raw": 2187066087,
+      "delta": 3102367,
+      "delta_fmt": "+3.1M TDH"
     },
     {
       "label": "#1 SonOfLasG",
       "value": "64.3M TDH",
-      "raw": 64264671,
-      "delta": 1653464,
-      "delta_fmt": "+1.7M TDH"
+      "raw": 64265025,
+      "delta": 354,
+      "delta_fmt": "+0.0M TDH"
     },
     {
       "label": "#1 Tharwin",
@@ -825,8 +786,7 @@
   ],
   "headline_extras": [
     "PUNK6529 LAST SEEN: maybe's dive bar (May 10)",
-    "PEBBLES: FLOOR 1.1 ETH | 1 SALES | LAST SALE 19h AGO",
-    "CARD #580: 141 MINTS (EXCL. MUSEUM) | 95 HOLDERS | PROOF OF GROWTH",
-    "DIVE BAR: 0 MSGS IN LAST 6H"
+    "DIVE BAR: 0 MSGS IN LAST 6H",
+    "CARD #580: 145 MINTS (EXCL. MUSEUM) | 98 HOLDERS | PROOF OF GROWTH"
   ]
 }
